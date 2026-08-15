@@ -90,9 +90,9 @@ O trabalho segue três fases. **Nunca saltar da Fase 1 para a Fase 3 sem a Fase 
 
 ### Fase 1 — Varredura exaustiva (agentes automatizados)
 
-Leitura integral de todos os documentos editalícios. Produção de lista bruta de pontos identificados, sem filtro, sem priorização. Classificação binária: `IRREGULAR` / `CONFORME` / `DEPENDE DE FATO`. Ancoragem em dispositivos legais nomeados, sem jurisprudência neste estágio.
+Leitura integral de todos os documentos editalícios. Os extratores (E1–E4) capturam todos os pontos identificados, sem filtro. O Consolidador (C) então faz a curadoria: deduplica, funde sub-questões relacionadas em pontos coesos, descarta ruído cosmético, e produz uma lista substancial e depurada — tipicamente 15–30 pontos para um edital complexo. Classificação: `IRREGULAR` / `CONFORME` / `DEPENDE DE FATO`. Ancoragem em dispositivos legais nomeados, sem jurisprudência neste estágio.
 
-**Output:** lista consolidada de pontos (formato definido abaixo).
+**Output:** lista consolidada de pontos depurados (formato definido abaixo). O entregável é uma lista de pontos materiais, não uma varredura exaustiva de micro-achados.
 
 ### Fase 2 — Discussão e seleção (humano + agente)
 
@@ -185,8 +185,8 @@ Documentos do edital (PDF/DOCX)
 ```
 
 **Regras dos extratores:**
-- Varredura exaustiva — não filtrar por relevância. Capturar tudo.
-- Um achado por ponto. Se o mesmo dispositivo editalício tem dois problemas distintos, são dois pontos.
+- Varredura sistemática — percorrer todo o documento sem saltar seções. Capturar todos os achados materiais (irregularidades, contradições, omissões com impacto jurídico ou econômico). Ignorar erros cosméticos sem repercussão (digitação, formatação).
+- Um achado por ponto. Se o mesmo dispositivo editalício tem dois problemas distintos, são dois pontos. A fusão de sub-questões relacionadas fica a cargo do Consolidador.
 - Não desenvolver argumento — apenas identificar e classificar.
 - Referenciar o dispositivo legal violado, sem buscar jurisprudência.
 - Marcar `flag_tecnico: true` quando o ponto depende de validação de engenharia.
@@ -195,7 +195,7 @@ Documentos do edital (PDF/DOCX)
 
 ### C: Consolidador
 
-**Função:** receber as listas dos 4 extratores, cruzar referências, detectar contradições inter-documentos, eliminar duplicatas e agrupar tematicamente.
+**Função:** receber as listas dos 4 extratores, cruzar referências, detectar contradições inter-documentos, eliminar duplicatas, fundir sub-questões relacionadas em pontos coesos e agrupar tematicamente. O Consolidador é o filtro de qualidade do pipeline — seu output deve ser uma lista depurada de pontos substanciais, não um dump bruto.
 
 **Input:** listas de E1, E2, E3, E4.
 
@@ -212,7 +212,9 @@ Documentos do edital (PDF/DOCX)
    - `REGULACAO_FISCALIZACAO` — agência reguladora, verificador independente, competências
    - `LICENCIAMENTO_AMBIENTAL` — licenças, diretrizes ambientais, área contaminada
    - `QUESTOES_FORMAIS` — prazos, documentação, publicidade, formalidades
-4. **Numeração unificada** — renumerar sequencialmente mantendo referência ao ID original do extrator.
+4. **Fusão de sub-questões** — pontos que tratam de facetas do mesmo problema devem ser fundidos em um único ponto coeso. Exemplo: se E1, E2 e E4 identificam questões distintas sobre a divisão em lotes (estrutura indefinida, regras de participação contraditórias, base de cálculo incoerente), o Consolidador produz um único ponto "Divisão em lotes" que incorpora todas as facetas com as respectivas referências cruzadas. O entregável final deve conter 15–30 pontos substanciais, não 100+ micro-achados.
+5. **Filtragem de ruído** — achados puramente cosméticos (erro de digitação sem impacto jurídico, numeração saltada sem ambiguidade de sentido) são descartados. Manter apenas achados com potencial de irregularidade, contradição material, risco econômico-financeiro ou vantagem estratégica.
+6. **Numeração unificada** — renumerar sequencialmente mantendo referência ao ID original do extrator.
 
 **Output:** lista consolidada com a mesma estrutura dos extratores, acrescida de:
 ```yaml
@@ -341,46 +343,55 @@ Documentos do edital (PDF/DOCX)
 
 ## Formatos de output
 
-O pipeline produz dois formatos de documento, ambos em `.docx`. O formato Marília é o superset; o formato Rio Claro é derivado dele (subconjunto de colunas + camada de comparação versional).
+O pipeline produz dois formatos de documento, ambos em `.docx`. Documentos de referência estão em `ferramentas/templates/` — usá-los como modelo visual e de densidade de conteúdo.
 
 ### Formato Marília — Matriz de Argumentos (entregável principal)
 
-Tabela com as seguintes colunas:
+Referência: `ferramentas/templates/ref-matriz-argumentos-marilia.docx`
+
+Tabela com 7 colunas:
 
 | Coluna | Conteúdo | Fonte no pipeline |
 |---|---|---|
 | **Nº** | Numeração sequencial | C (id_consolidado) |
-| **Tema** | Agrupamento temático | C (tema) |
-| **Problema** | Título curto do achado | C (descricao_breve) |
-| **Argumento** | Tese desenvolvida com encadeamento lógico, dados e contra-argumentos antecipados | AN (argumento + contra_argumentos) |
-| **Fundamento** | Dispositivos legais e jurisprudenciais | AN (fundamento) |
-| **Esclarecimentos?** | Sim / Não — se comporta esclarecimento dirigido | R (esclarecimento) |
-| **Aplicação** | Foro: Administração / TCE / Judiciário | R (foro_sugerido) |
+| **Tema** | Agrupamento temático em linguagem descritiva (ex.: "Divisão em lotes", "Critério de julgamento/proposta", "Modelagem jurídica, técnica e econômico-financeira", "Agência Reguladora", "Questões pontuais/formais") | C (tema) |
+| **Problema** | Título curto do achado — uma frase que identifica o ponto (ex.: "Estrutura em quatro lotes não definida no edital e sem justificativa para o parcelamento") | C (descricao_breve) |
+| **Argumento** | Tese desenvolvida com encadeamento lógico denso. Incluir: dados concretos do edital (números, cláusulas, valores), cruzamento entre documentos quando há contradição, quantitativos relevantes (toneladas, R$/MWh, percentuais), e antecipação do contra-argumento da Administração integrada ao texto. Parágrafo(s) articulado(s), não bullet points. | AN (argumento + contra_argumentos) |
+| **Fundamento** | Dispositivos legais com citação completa (ex.: "art. 25, caput, art. 49, caput e parágrafo único, art. 47, §1º, II, e art. 18, §1º, VIII e XI, da Lei 14.133/2021"). Jurisprudência quando buscada, com `[VIT]`. Separar por ponto-e-vírgula. | AN (fundamento) |
+| **Esclarecimentos?** | "Sim" ou "Não" — se o ponto comporta esclarecimento dirigido como canal alternativo ou complementar à impugnação | R (esclarecimento) |
+| **Aplicação** | Foro(s) aplicáveis, podendo ser cumulativos: "Administração", "TCE", "Judiciário", ou combinações como "Administração / TCE / Judiciário" | R (foro_sugerido) |
 
 **Regras de formatação:**
-- Título do documento: `[NOME DA LICITAÇÃO] — Matriz de Argumentos`
+- Título do documento: `[NOME DA LICITAÇÃO] — Planilha de Argumentos`
 - Cabeçalho: identificação do edital, órgão, modalidade, objeto resumido, data
 - Marcação `[USO INTERNO]` no cabeçalho
 - Pontos com `flag_reserva` vão em seção separada ao final, marcada `[RESERVA — NÃO PROTOCOLAR]`
 - Pontos com `flag_tecnico` recebem nota ao final do argumento: `[VALIDAÇÃO TÉCNICA: ponto depende de confirmação de engenharia]`
 - Pontos com jurisprudência `[VIT]` mantêm a flag visível no campo Fundamento
+- Ordem: agrupar pontos por tema, não intercalar temas distintos
+- Densidade alvo: 15–30 pontos substanciais por edital complexo. Cada ponto deve ter argumento denso o suficiente para fundamentar um tópico de impugnação ou representação
 
 ### Formato Rio Claro — Tracker de Pontos (acompanhamento de republicação)
 
-Tabela com as seguintes colunas:
+Referência: `ferramentas/templates/ref-tracker-pontos-rioclaro.docx`
+
+Tabela com 5 colunas:
 
 | Coluna | Conteúdo | Fonte no pipeline |
 |---|---|---|
 | **Nº** | Numeração sequencial | C (id_consolidado) |
-| **Previsão editalícia/contratual** | Dispositivos do edital referenciados | C (dispositivo_editalicio) |
-| **Comentário** | Descrição do problema (nível intermediário — mais que descrição breve, menos que argumento completo) | C (descricao_breve) expandida |
-| **Manutenção na republicação** | Status + nota descritiva | CV (status_republicacao + nota_republicacao) |
+| **Previsão editalícia/contratual** | Dispositivos do edital referenciados com identificação do documento-fonte (ex.: "Item 10.15.4 do Edital", "Cláusula 23 — Anexo 5 (Minuta do Contrato)", "Itens 2.2 e 4.1.8 — Anexo 4 (Cadernos de Encargos)") | C (dispositivo_editalicio) |
+| **Comentário** | Descrição substancial do problema: mais desenvolvida que uma descrição breve, identificando o vício, os dispositivos conflitantes ou omissos, e as consequências jurídicas ou econômicas. Incluir referências cruzadas entre documentos quando pertinente. Nível intermediário — menos que o argumento completo do formato Marília, mas suficiente para fundamentar uma decisão de roteamento. | C (descricao_breve) expandida + AN quando disponível |
+| **Probabilidade de acolhimento** | **Preenchido exclusivamente pelo advogado.** O pipeline deixa esta coluna em branco. Valores típicos: "Alta", "Média/alta", "Média", "Baixa". A avaliação de probabilidade é prerrogativa exclusiva do advogado — os agentes não classificam força de tese. | — (manual) |
+| **Manutenção na republicação** | Status + nota descritiva. Preenchido pelo CV quando há republicação; em branco na primeira versão. | CV (status_republicacao + nota_republicacao) |
 
 **Regras de formatação:**
-- Título do documento: `[NOME DA LICITAÇÃO] — Pontos para Impugnação (Acompanhamento de Republicação)`
-- Cabeçalho: identificação do edital, versões comparadas, datas
-- Status em negrito: **Mantida necessidade de impugnação.** / **Foi resolvido.** / **Mantido parcialmente.**
+- Título do documento: `[NOME DA LICITAÇÃO] — Pontos para Impugnação`
+- Subtítulo quando há republicação: `(Acompanhamento de Republicação)`
+- Cabeçalho: identificação do edital, versões comparadas (quando aplicável), datas
+- Status de republicação em negrito: **Mantida necessidade de impugnação.** / **Foi resolvido.** / **Não mantido.** / **Mantido parcialmente.**
 - Marcação `[USO INTERNO]` no cabeçalho
+- Na primeira análise (sem republicação), a coluna "Manutenção na republicação" fica em branco ou é omitida
 
 ---
 
@@ -481,7 +492,7 @@ Antes de entregar qualquer output, verificar:
 - [ ] Toda afirmação jurídica está ancorada em dispositivo legal específico?
 - [ ] Alguma jurisprudência foi citada de memória sem busca? Se sim, remover ou buscar.
 - [ ] Todas as citações jurisprudenciais de busca automatizada estão marcadas `[VIT]`?
-- [ ] Há classificação de força de tese (forte/média/fraca)? Se sim, remover.
+- [ ] Há classificação de força de tese pelo agente (forte/média/fraca/alta probabilidade)? Se sim, remover. A coluna "Probabilidade de acolhimento" do formato Rio Claro existe mas é preenchida exclusivamente pelo advogado.
 - [ ] Há informação confidencial do grupo em output externo? Se sim, substituir por termos genéricos.
 - [ ] Pontos com componente técnico de engenharia estão marcados `[VALIDAÇÃO TÉCNICA]`?
 - [ ] Pontos de reserva estratégica estão marcados `[RESERVA]` e segregados?
