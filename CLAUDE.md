@@ -10,6 +10,7 @@ Estrutura:
 solvi-editais/
 ├── CLAUDE.md                  ← este arquivo (regras globais)
 ├── ferramentas/
+│   ├── novo_projeto.sh        (scaffolding de um projeto a partir do template)
 │   ├── buscar_tce.py          (client API Lei na Mão — TCU/TCE)
 │   ├── templates/             (templates .docx: formato tracker, formato matriz)
 │   └── utils/
@@ -18,8 +19,12 @@ solvi-editais/
 │   └── [projeto]/
 └── concessoes/
     ├── CLAUDE.md              (agentes e normativa para concessões/PPPs)
+    ├── README.md              (convenção de nomes + índice dos projetos)
+    ├── _template/             (esqueleto: README de ficha, CLAUDE.md, docs/, output/)
     └── [projeto]/
 ```
+
+Cada certame é um diretório dentro do regime correspondente — repositório único, não um repositório por projeto. Criação via `ferramentas/novo_projeto.sh [regime] [projeto]`.
 
 Os CLAUDE.md de subdiretório herdam todas as regras deste arquivo e adicionam prompts e normativa específicos do regime jurídico.
 

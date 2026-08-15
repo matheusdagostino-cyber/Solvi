@@ -1,0 +1,22 @@
+# Credenciais
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Artefatos temporários de extração/OCR
+# (imagens intermediárias de pdftoppm — o texto extraído em docs/extraido/ é versionado)
+**/docs/**/pagina-*.jpg
+**/docs/**/pagina-*.png
+**/docs/**/*.ocr.tmp
+
+# Sistema
+.DS_Store
+Thumbs.db
+~$*.docx
+~$*.xlsx

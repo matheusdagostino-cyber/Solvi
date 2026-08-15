@@ -289,16 +289,19 @@ Editais de concessão são frequentemente republicados após impugnações, escl
 
 ```bash
 # Exemplo: Concessão de RSU de Rio Claro, Edital 32/2026
-mkdir -p concessoes/rio-claro-ed032-2026/docs
-mkdir -p concessoes/rio-claro-ed032-2026/output
+ferramentas/novo_projeto.sh concessao rio-claro-ppp032-2026
 
 # Colocar os documentos do edital em docs/
-# O Claude Code lerá o CLAUDE.md raiz + este arquivo automaticamente
+# O Claude Code lerá o CLAUDE.md raiz + este arquivo + o CLAUDE.md do projeto
 ```
+
+O script copia `concessoes/_template/`. Convenção de nome e índice dos projetos em `concessoes/README.md`.
 
 Estrutura do projeto:
 ```
-concessoes/rio-claro-ed032-2026/
+concessoes/rio-claro-ppp032-2026/
+├── README.md          # ficha do certame: órgão, objeto, datas, versões, status
+├── CLAUDE.md          # notas específicas do projeto (ver abaixo)
 ├── docs/
 │   ├── edital.pdf
 │   ├── termo-referencia.pdf
@@ -306,12 +309,13 @@ concessoes/rio-claro-ed032-2026/
 │   ├── minuta-contrato.pdf
 │   ├── plano-negocios.pdf
 │   ├── matriz-riscos.pdf
-│   └── [demais anexos]
-├── output/
-│   ├── fase1-lista-consolidada.yaml
-│   ├── fase2-matriz-argumentos.yaml
-│   └── [exports .docx]
-└── CLAUDE.md  # (opcional) notas específicas do projeto: legislação estadual, determinações anteriores do TCE, histórico do certame
+│   ├── [demais anexos]
+│   ├── extraido/      # saída de pdftotext/pandoc
+│   └── v2/            # documentos da republicação, quando houver (input do agente CV)
+└── output/
+    ├── fase1-lista-consolidada.yaml
+    ├── fase2-matriz-argumentos.yaml
+    └── [exports .docx]
 ```
 
 O `CLAUDE.md` do projeto individual é opcional e serve para registrar contexto que não está nos documentos: determinações anteriores do TCE sobre o mesmo município/objeto, legislação estadual aplicável, histórico de impugnações em versões anteriores, informações comerciais do grupo sobre atestados disponíveis.

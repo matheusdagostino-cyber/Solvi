@@ -11,6 +11,7 @@ solvi-editais/
 ├── CLAUDE.md                    # instruções do pipeline (lido pelo Claude Code)
 ├── README.md                    # este arquivo
 ├── ferramentas/
+│   ├── novo_projeto.sh          # cria o diretório de um projeto a partir do template
 │   ├── buscar_tce.py            # client da API Lei na Mão (TCU/TCE)
 │   ├── templates/               # templates .docx dos formatos de output
 │   └── utils/
@@ -19,8 +20,12 @@ solvi-editais/
 │   └── [projeto]/               # um diretório por edital analisado
 └── concessoes/
     ├── CLAUDE.md                # agentes para concessões e PPPs (Leis 8.987 / 11.079)
-    └── [projeto]/
+    ├── README.md                # convenção de nomes e índice dos projetos
+    ├── _template/               # esqueleto copiado a cada novo projeto
+    └── [projeto]/               # um diretório por certame
 ```
+
+Repositório único para todos os certames — um diretório por projeto, não um repositório por projeto.
 
 ## Pré-requisitos
 
@@ -61,10 +66,18 @@ EXPORTAR RIOCLARO [projeto]                  → gerar .docx no formato Tracker 
 
 ## Criando um novo projeto
 
-1. Identifique o regime jurídico: pregão/concorrência → `licitacoes-14133/`; concessão/PPP → `concessoes/`
-2. Crie um subdiretório com nome padronizado: `[municipio]-[modalidade][numero]-[ano]` (ex.: `macaiba-pe023-2026`, `marilia-conc020-2025`)
-3. Coloque os documentos do edital (PDF/DOCX) dentro do subdiretório
-4. Abra o Claude Code nesse diretório e execute `FASE1`
+```bash
+ferramentas/novo_projeto.sh concessao rio-claro-ppp032-2026
+```
+
+O script copia o esqueleto de `concessoes/_template/` (ficha do certame, `CLAUDE.md` do projeto, `docs/`, `output/`) para o novo diretório. Em seguida:
+
+1. Coloque os documentos do edital (PDF/DOCX) em `docs/`
+2. Preencha a ficha em `README.md` e o contexto extra-editalício em `CLAUDE.md`
+3. Registre o projeto no índice de `concessoes/README.md`
+4. No Claude Code, execute `FASE1 [projeto]`
+
+Regime jurídico: pregão/concorrência da Lei 14.133 → `licitacao`; concessão/PPP → `concessao`. Convenção de nome do diretório: `[municipio]-[modalidade][numero]-[ano]` (ex.: `macaiba-pe023-2026`, `marilia-conc020-2025`). Detalhes em [`concessoes/README.md`](concessoes/README.md).
 
 ## Regras de segurança
 
