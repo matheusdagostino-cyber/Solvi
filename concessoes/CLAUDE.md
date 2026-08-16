@@ -162,7 +162,7 @@ Os agentes seguem a arquitetura definida no CLAUDE.md raiz (E1–E4, C, AN, R, C
 - Reequilíbrio econômico-financeiro: gatilhos, procedimento, prazo de resposta
 
 **Alocação de riscos:**
-- Matriz de riscos: verificar se existe e se está preenchida (ver padrão CIAS: anexo vazio)
+- Matriz de riscos: verificar se existe e se está preenchida (caso já observado em certame anterior: anexo de matriz de riscos publicado em branco)
 - Risco regulatório: edição ou modificação de normas da entidade reguladora não pode ser excluída de reequilíbrio — lógica do fato do príncipe; a norma de referência da ANA aplicável deve ser identificada com número e artigo no texto oficial antes de citar (não usar "NR 5" sem verificação) (ver padrão Rio Claro ponto 14)
 - Risco de demanda
 - Risco cambial e de taxa de juros
