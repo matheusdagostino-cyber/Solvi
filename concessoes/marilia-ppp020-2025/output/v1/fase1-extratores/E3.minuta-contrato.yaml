@@ -1,0 +1,471 @@
+# FASE1 — Extrator E3 | Projeto: marilia-ppp020-2025 | CP 020/2025 — Prefeitura de Marília/SP
+# Documento: CADERNO III - ANEXO III - MINUTA DO CONTRATO (53 p.)
+# Prazos (fase1-triagem.yaml): esclarecimento 11/09/2026 | impugnação 11/09/2026 | 19 dias úteis em 16/08
+# Gerado em: 2026-08-16
+
+extrator: E3
+documento: "Anexo III — Minuta do Contrato (Caderno III — Modelagem Jurídica)"
+
+pontos:
+
+  - id: E3.minuta-contrato-001
+    documento_fonte: "Anexo III (Minuta do Contrato)"
+    dispositivo_editalicio: "Cláusulas 8.1, 8.3, 8.4 e 8.5 da Minuta do Contrato"
+    transcricao: "8.1. [...] o prazo de CONCESSÃO ADMINISTRATIVA poderá vir a ser prorrogado por mais 5 (cinco) anos [...] 8.4. [...] poderá o prazo de vigência ser prorrogado uma única vez ou sucessivamente, até o limite máximo de 35 (trinta e cinco) anos, incluídas as prorrogações"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Regime de prorrogação disciplinado duas vezes de forma contraditória (prorrogação única de 5 anos vs. 'uma única vez ou sucessivamente' até 35 anos)"
+    dispositivo_legal: "art. 5.º, inciso I, da Lei n.º 11.079/2004"
+    relacao_outros_documentos: "verificar disciplina de prazo no Edital e no Termo de Referência"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E3.minuta-contrato-002
+    documento_fonte: "Anexo III (Minuta do Contrato)"
+    dispositivo_editalicio: "Cláusulas 13, 16 e 19 da Minuta do Contrato c/c definição de PREÇO TONELADA"
+    transcricao: "PREÇO TONELADA: é a remuneração mensal a que o CONSÓRCIO fará jus em decorrência da execução dos SERVIÇOS [...] 13.1. O CONSÓRCIO ou CONCESSIONÁRIO deverá cumprir as metas de desempenho previstas no CONTRATO e seus anexos"
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    descricao_breve: "Ausência de critérios objetivos de avaliação de desempenho vinculados à remuneração (sem fator de qualidade/parcela variável): metas existem, mas o pagamento é integral por tonelada medida, sem mecanismo contratual de desconto ou bonificação por desempenho"
+    dispositivo_legal: "art. 5.º, inciso VII, e art. 6.º, § 1.º, da Lei n.º 11.079/2004"
+    relacao_outros_documentos: "Anexo II.6 (Metas e Obrigações e Indicadores de Desempenho) prevê indicadores sem espelhamento na mecânica de pagamento da minuta"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E3.minuta-contrato-003
+    documento_fonte: "Anexo III (Minuta do Contrato)"
+    dispositivo_editalicio: "Minuta do Contrato — ausência de cláusula (verificadas Cláusulas 14 a 22 e 43)"
+    transcricao: "[sem previsão no texto contratual]"
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    descricao_breve: "Ausência de cláusula de compartilhamento com a Administração dos ganhos econômicos efetivos do parceiro privado decorrentes da redução do risco de crédito dos financiamentos"
+    dispositivo_legal: "art. 5.º, inciso VIII, da Lei n.º 11.079/2004 (numeração do inciso a confirmar na redação vigente antes de peça formal)"
+    relacao_outros_documentos: ""
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E3.minuta-contrato-004
+    documento_fonte: "Anexo III (Minuta do Contrato)"
+    dispositivo_editalicio: "Definições (FISCALIZAÇÃO e ÓRGÃO FISCALIZADOR), Cláusulas 12.9, 8.10 e 29.1 da Minuta do Contrato"
+    transcricao: "ÓRGÃO FISCALIZADOR: O Poder Concedente atuará como órgão fiscalizador. [...] 12.9. A fiscalização e regulação dos serviços contratados será feita por PODER CONCEDENTE [...] 8.10. [...] a regulação e fiscalização se mantém a cargo da PODER CONCEDENTE."
+    tipo_achado: IRREGULAR
+    categoria: ilegalidade
+    descricao_breve: "Ausência de entidade reguladora com independência decisória: regulação e fiscalização atribuídas ao próprio poder concedente"
+    dispositivo_legal: "art. 21 e art. 11, inciso III, da Lei n.º 11.445/2007 (redação da Lei n.º 14.026/2020); NR n.º 7/2024 da ANA (Resolução ANA 187/2024 — artigos sobre entidade reguladora a confirmar no texto oficial)"
+    relacao_outros_documentos: "Anexo III.2 (Matriz de Riscos) pressupõe 'Agência Reguladora' atuante — contradição a cruzar"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E3.minuta-contrato-005
+    documento_fonte: "Anexo III (Minuta do Contrato)"
+    dispositivo_editalicio: "Cláusulas 3.1.b, 12.9, 20.7, 20.10, 23.1.a e passim da Minuta do Contrato"
+    transcricao: "b) em segundo lugar, as disposições constantes das normas do CONTRATO, seguidas das normas expedidas pela REGULADORA; [...] 12.9. [...] nos termos definidos no CONVÊNIO DE COOPERAÇÃO. [...] a) regulamentar os SERVIÇOS e fiscalizar a sua prestação [...] nos limites das competências regulatórias definidas na Lei Complementar Estadual n. 1.025/2007"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Remissões a 'REGULADORA', a 'CONVÊNIO DE COOPERAÇÃO' e à LC Estadual 1.025/2007 (lei de criação da ARSESP) sem definição, sem anexo e sem convênio celebrado, convivendo com texto que repete 'PODER CONCEDENTE e PODER CONCEDENTE' — indefinição da autoridade competente para regulação, revisão e sanção"
+    dispositivo_legal: "art. 23, inciso VII, da Lei n.º 8.987/1995, c/c art. 3.º, caput, da Lei n.º 11.079/2004"
+    relacao_outros_documentos: "verificar no Edital e no Caderno III — Modelagem Jurídica se há convênio com agência reguladora estadual"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E3.minuta-contrato-006
+    documento_fonte: "Anexo III (Minuta do Contrato)"
+    dispositivo_editalicio: "Cláusula 3.1 da Minuta do Contrato"
+    transcricao: "prevalecerá o seguinte: a) em primeiro lugar, as disposições constantes das normas legais; b) em segundo lugar, as disposições constantes das normas do CONTRATO, seguidas das normas expedidas pela REGULADORA; c) em terceiro lugar, as disposições constantes das normas do EDITAL"
+    tipo_achado: IRREGULAR
+    categoria: ilegalidade
+    descricao_breve: "Ordem de prevalência interpretativa coloca o contrato (e normas da 'REGULADORA') acima do edital, invertendo a vinculação ao instrumento convocatório"
+    dispositivo_legal: "art. 5.º, caput, da Lei n.º 14.133/2021 (princípio da vinculação ao edital); art. 18, caput, da Lei n.º 8.987/1995"
+    relacao_outros_documentos: ""
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E3.minuta-contrato-007
+    documento_fonte: "Anexo III (Minuta do Contrato)"
+    dispositivo_editalicio: "Cláusula 2.2 vs. Cláusula 20.2, alíneas b, c e d, da Minuta do Contrato"
+    transcricao: "2.2. A modificação, revogação, ou reconhecimento de ilegalidade ou inconstitucionalidade de qualquer ato normativo citado não altera ou afeta o presente CONTRATO, no todo ou em parte [...] 20.2. O CONTRATO deverá ser revisto [...] b) [...] sempre que forem criados, alterados ou extintos tributos ou encargos legais ou sobrevierem novas disposições legais"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Cláusula que blinda o contrato contra modificação de atos normativos contradiz as hipóteses de revisão extraordinária por alteração legislativa e fato do príncipe"
+    dispositivo_legal: "art. 9.º, § 3.º, da Lei n.º 8.987/1995"
+    relacao_outros_documentos: ""
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E3.minuta-contrato-008
+    documento_fonte: "Anexo III (Minuta do Contrato)"
+    dispositivo_editalicio: "Cláusulas 19.1.1, 19.1.2 e 19.5 da Minuta do Contrato"
+    transcricao: "19.1.1. O reajuste será calculado por fórmula paramétrica que reflita a variação dos principais componentes de custo [...] [tabela de pesos com coluna 'Faixa típica de mercado: 0,30 – 0,45' etc.] 19.5. No caso de inércia do PODER CONCEDENTE em relação à publicação referida neste item, o reajuste será aplicado"
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    descricao_breve: "Fórmula paramétrica de reajuste anunciada mas não expressa matematicamente; tabela de pesos convive com 'faixa típica de mercado' sem definir se os pesos são fixos; item 19.5 remete a 'publicação' inexistente no texto"
+    dispositivo_legal: "art. 5.º, inciso IV, da Lei n.º 11.079/2004; art. 23, inciso IV, da Lei n.º 8.987/1995"
+    relacao_outros_documentos: "conferir fórmula de remuneração no Caderno II — Modelagem Econômico-Financeira"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E3.minuta-contrato-009
+    documento_fonte: "Anexo III (Minuta do Contrato)"
+    dispositivo_editalicio: "Cláusula 20.1 da Minuta do Contrato"
+    transcricao: "20.1. O preço por tonelada e o valor de bens reversíveis e todas as condições econômico-financeiras deste CONTRATO serão revistas ordinariamente a cada ano."
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    descricao_breve: "Revisão ordinária anual de 'todas as condições econômico-financeiras' sem parâmetros, escopo ou procedimento próprio, sobreposta ao reajuste anual — indefinição do regime de recomposição"
+    dispositivo_legal: "art. 5.º, inciso IV, da Lei n.º 11.079/2004"
+    relacao_outros_documentos: ""
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E3.minuta-contrato-010
+    documento_fonte: "Anexo III (Minuta do Contrato)"
+    dispositivo_editalicio: "Cláusulas 21.1, 21.1.1 e 21.1.1.1 da Minuta do Contrato"
+    transcricao: "21.1. O PODER CONCEDENTE oferecerá [...] qualquer bem móvel, ativo societário [...] ou qualquer outro bem que entender necessário. 21.1.1. [...] deverá o PODER CONCEDENTE possuir antes da assinatura do presente instrumento uma lei de constituição de um FUNDO GARANTIDOR ou a liberação de receitas municipais não vinculadas [...] ou outra forma jurídica que venha a ser acorda entre as PARTES. 21.1.1.1. O PODER CONCEDENTE poderá, alternativamente ao FUNDO GARANTIDOR, encaminhar o Projeto de Lei autorizando a cessão fiduciária, penhor ou qualquer outro meio de garantia"
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    descricao_breve: "Garantia pública da PPP não constituída: mecanismo indefinido ('qualquer bem que entender necessário'), fundo garantidor dependente de lei futura e alternativa consistente em mero encaminhamento de Projeto de Lei"
+    dispositivo_legal: "art. 8.º da Lei n.º 11.079/2004"
+    relacao_outros_documentos: "CLAUDE.md do projeto: lei do FGP municipal '[não levantado]' — padrão recorrente de FGP prometido para lei futura; verificar tratamento no Edital e no Caderno III — Modelagem Jurídica"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E3.minuta-contrato-011
+    documento_fonte: "Anexo III (Minuta do Contrato)"
+    dispositivo_editalicio: "Cláusula 21.1.1.2 da Minuta do Contrato"
+    transcricao: "21.1.1.2. A realização dos investimentos previstos está condicionada a efetiva constituição e funcionamento do FUNDO GARANTIDOR, ou outra garantia real que venha a substitui-lo."
+    tipo_achado: IRREGULAR
+    categoria: risco_economico
+    descricao_breve: "Condição suspensiva dos investimentos à constituição e funcionamento do fundo garantidor inexistente — colisão com o cronograma de implantação (30 meses gaseificação/pirólise e 16 meses biodigestão a partir da LI, Cláusula 15.1) e risco de paralisia contratual"
+    dispositivo_legal: "art. 8.º da Lei n.º 11.079/2004; art. 23, incisos II e III, da Lei n.º 8.987/1995"
+    relacao_outros_documentos: "cronograma de implantação do Termo de Referência (Anexo II)"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E3.minuta-contrato-012
+    documento_fonte: "Anexo III (Minuta do Contrato)"
+    dispositivo_editalicio: "Cláusula 21.2 da Minuta do Contrato"
+    transcricao: "21.2. O montante da GARANTIA DE PAGAMENTO deverá suportar o valor do preço por tonelada e valor de bens reversíveis, bem como as multas e sanções aplicadas [...] devendo ser no mínimo o valor de 3 (três) contraprestações mensais estimadas."
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: risco_economico
+    fato_faltante: "Perfil de exposição financeira da concessionária (curva de CAPEX, prazo de recebíveis e saldo devedor típico) para aferir se piso de 3 contraprestações mensais é compatível com o volume de investimentos e com a bancabilidade do projeto"
+    descricao_breve: "Piso da garantia de pagamento fixado em apenas 3 contraprestações mensais, sem demonstração de suficiência frente aos investimentos de implantação"
+    dispositivo_legal: "art. 8.º da Lei n.º 11.079/2004"
+    relacao_outros_documentos: "CAPEX e fluxo de caixa do Caderno II — Modelagem Econômico-Financeira"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E3.minuta-contrato-013
+    documento_fonte: "Anexo III (Minuta do Contrato)"
+    dispositivo_editalicio: "Cláusula 22.1 da Minuta do Contrato c/c definição de GARANTIA DE EXECUÇÃO DO CONTRATO"
+    transcricao: "22.1. [...] o CONSÓRCIO prestou a GARANTIA DE EXECUÇÃO DO CONTRATO no montante correspondente a 5% do valor anual do contrato, na forma de carta fiança, prevista no artigo 97 da Lei Federal nº 14.133/2021 [...] GARANTIA DE EXECUÇÃO DO CONTRATO: é a garantia anual avos sobre o valor anual contratual"
+    tipo_achado: IRREGULAR
+    categoria: ilegalidade
+    descricao_breve: "Garantia de execução restrita à modalidade única 'carta fiança', suprimindo a opção do contratado entre caução, seguro-garantia e fiança bancária; base de cálculo definida em redação ininteligível ('garantia anual avos') e remissão legal imprecisa (art. 97 em vez do art. 96)"
+    dispositivo_legal: "art. 96, caput e § 1.º, da Lei n.º 14.133/2021"
+    relacao_outros_documentos: "conferir exigência de garantia no Edital (E1)"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E3.minuta-contrato-014
+    documento_fonte: "Anexo III (Minuta do Contrato)"
+    dispositivo_editalicio: "Cláusula 16.13 da Minuta do Contrato"
+    transcricao: "16.13. No caso de atraso do PODER CONCEDENTE no pagamento da CONTRAPRESTAÇÃO devida ao CONSÓRCIO ou CONCESSIONÁRIO, este deverá arcar com multa correspondente a 2% (dois por cento) do valor em atraso"
+    tipo_achado: IRREGULAR
+    categoria: erro_material
+    descricao_breve: "Pronome 'este' atribui literalmente ao próprio credor (concessionário) a multa pelo atraso de pagamento do poder concedente — ambiguidade sobre o devedor dos encargos moratórios (a Cláusula 30.2 disciplina o mesmo tema em sentido oposto)"
+    dispositivo_legal: "art. 92, incisos V e XIV, da Lei n.º 14.133/2021 (clareza das condições de pagamento e das penalidades)"
+    relacao_outros_documentos: ""
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E3.minuta-contrato-015
+    documento_fonte: "Anexo III (Minuta do Contrato)"
+    dispositivo_editalicio: "Preâmbulo e Cláusula 16.2 vs. Cláusula 6.2 da Minuta do Contrato"
+    transcricao: "16.2. O PODER CONCENDENTE efetuará o pagamento do preço/tonelada e valor bens reversíveis para o CONCESSIONÁRIO e o transporte e disposição de rejeitos para as atuais empresas contratadas para transporte e disposição em aterro sanitário [...] 6.2. A solução para a destinação final dos rejeitos, em qualquer etapa, deverá ocorrer sempre em aterro sanitário licenciado, cabendo ao CONSÓRCIO ou CONCESSIONÁRIO comprovar e se responsabilizar exclusivamente por esta."
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Contradição sobre a responsabilidade pela destinação final dos rejeitos: responsabilidade 'exclusiva' do concessionário (6.2) vs. transporte e disposição pagos pelo poder concedente às atuais contratadas (preâmbulo e 16.2)"
+    dispositivo_legal: "art. 92, inciso I, da Lei n.º 14.133/2021; art. 23, inciso I, da Lei n.º 8.987/1995"
+    relacao_outros_documentos: "cruzar com o Termo de Referência (Anexo II) quanto à interface com os contratos vigentes de coleta e aterro"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E3.minuta-contrato-016
+    documento_fonte: "Anexo III (Minuta do Contrato)"
+    dispositivo_editalicio: "Cláusulas 6.1, 6.2 e 16.2 da Minuta do Contrato (conjunto)"
+    transcricao: "compreendendo: o recebimento dos resíduos sólidos domésticos em área de transbordo para segregação e trituração [...] sendo os rejeitos de referidas rotas tecnológicas transportados e destinados para o Aterro Sanitário licenciado por parte da empresa de coleta e aterro sanitário atualmente contratados pela Prefeitura de Marília."
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    descricao_breve: "Minuta não define com precisão as responsabilidades por cada etapa do fluxo (entrega/segregação dos resíduos, pesagem, transbordo, transporte e destinação final), mantendo indefinição já objeto de determinação do TCE-SP no certame anterior de mesmo objeto (determinação 5)"
+    dispositivo_legal: "TC-001718.989.19-7, TCE-SP, Pleno, 13/03/2019 (determinação 5); art. 23, inciso I, da Lei n.º 8.987/1995"
+    relacao_outros_documentos: "verificação complementar no Termo de Referência (E2) e no Caderno I (E4)"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E3.minuta-contrato-017
+    documento_fonte: "Anexo III (Minuta do Contrato)"
+    dispositivo_editalicio: "Cláusula 14.2 da Minuta do Contrato"
+    transcricao: "14.2. Será garantido, ainda, [...] o direito à aferição de outras fontes de receitas alternativas, complementares, acessórias ou de projetos associados, não expressamente previstas neste CONTRATO"
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    descricao_breve: "Receitas acessórias tratadas como 'não expressamente previstas', sem previsão ou estimativa no contrato — descumprimento da determinação 3 do TCE-SP no certame anterior (informar a previsão das receitas acessórias)"
+    dispositivo_legal: "TC-001718.989.19-7, TCE-SP, Pleno, 13/03/2019 (determinação 3); art. 11, caput, da Lei n.º 8.987/1995"
+    relacao_outros_documentos: "verificar se o Caderno II (E4) e o Edital (E1) estimam receitas acessórias (venda de energia, biometano, recicláveis)"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E3.minuta-contrato-018
+    documento_fonte: "Anexo III (Minuta do Contrato)"
+    dispositivo_editalicio: "Cláusulas 14.2.1 e 14.2.1.1 da Minuta do Contrato"
+    transcricao: "14.2.1. [...] 1% (um por cento) do resultado contábil líquido da operação deverá ser revertida, direta ou indiretamente, em favor da modicidade da remuneração [...] 14.2.1.1. O disposto no item acima poderá ser revisto caso ocasione desequilíbrio no CONTRATO."
+    tipo_achado: IRREGULAR
+    categoria: risco_economico
+    descricao_breve: "Compartilhamento de apenas 1% do resultado líquido das receitas acessórias em favor da modicidade, ainda revisível se causar desequilíbrio — assimetria favorável à concessionária na partilha de receitas complementares"
+    dispositivo_legal: "art. 11, caput e parágrafo único, da Lei n.º 8.987/1995"
+    relacao_outros_documentos: ""
+    flag_tecnico: false
+    flag_reserva: true
+
+  - id: E3.minuta-contrato-019
+    documento_fonte: "Anexo III (Minuta do Contrato)"
+    dispositivo_editalicio: "Cláusulas 6.4 e 6.4.1 da Minuta do Contrato"
+    transcricao: "6.4.1. Aplica-se a presente regra aos serviços elencados no item 6.1 que demonstrem possuir viabilidade técnica e operacional, sendo comprovadamente a melhor solução ambiental regional, para atendimento a outros municípios na região"
+    tipo_achado: IRREGULAR
+    categoria: ilegalidade
+    descricao_breve: "Previsão de extensão dos serviços a outros municípios da região por simples termo aditivo, sem licitação, sem parâmetros e fora da titularidade do poder concedente municipal"
+    dispositivo_legal: "art. 37, inciso XXI, da CF/1988; arts. 124 a 126 da Lei n.º 14.133/2021; art. 8.º-A da Lei n.º 11.445/2007 (titularidade — redação da Lei n.º 14.026/2020)"
+    relacao_outros_documentos: ""
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E3.minuta-contrato-020
+    documento_fonte: "Anexo III (Minuta do Contrato)"
+    dispositivo_editalicio: "Cláusula 8.2 vs. Cláusulas 37.2 e 37.3 da Minuta do Contrato"
+    transcricao: "8.2. [...] ao término do prazo contratual de 30 (trinta) anos, todos os bens e equipamentos vinculados à prestação dos serviços objeto desta PPP reverterão ao Município, em perfeitas condições de uso e operação, sem qualquer ônus adicional. [...] 37.2. A indenização devida pelo PODER CONCEDENTE à CONSÓRCIO, no caso de extinção prevista nesta Cláusula [advento do termo], englobará os investimentos realizados [...] que ainda não tenham sido depreciados e amortizados"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Contradição sobre a reversão no advento do termo: 'sem qualquer ônus adicional' (8.2) vs. indenização de investimentos não depreciados/amortizados devida pelo poder concedente (37.2 e 37.3)"
+    dispositivo_legal: "art. 35, §§ 1.º a 3.º, e art. 36 da Lei n.º 8.987/1995"
+    relacao_outros_documentos: ""
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E3.minuta-contrato-021
+    documento_fonte: "Anexo III (Minuta do Contrato)"
+    dispositivo_editalicio: "Definição de VALOR DE BENS REVERSÍVEIS c/c Cláusulas 16.2, 19 e 37.2 da Minuta do Contrato"
+    transcricao: "VALOR DE BENS REVERSÍVEIS: Referido valor remunera os investimentos em bens reversíveis ao longo do tempo, evitando uma grande indenização no final [...] 37.2. A indenização [...] englobará os investimentos realizados [...] que ainda não tenham sido depreciados e amortizados até a data de retomada dos SERVIÇOS"
+    tipo_achado: IRREGULAR
+    categoria: risco_economico
+    descricao_breve: "Risco de dupla remuneração dos bens reversíveis: parcela mensal específica que remunera a amortização dos investimentos ao longo do contrato cumulada com indenização de investimentos não amortizados na extinção, sem mecanismo de abatimento ou controle da amortização já paga"
+    dispositivo_legal: "art. 36 da Lei n.º 8.987/1995; art. 6.º e art. 7.º da Lei n.º 11.079/2004"
+    relacao_outros_documentos: "Anexo III.1 (Lista de Bens Reversíveis) sem valores nem critério de indenização; Anexo IV (proposta contém 'valor bens reversíveis' como componente ofertado)"
+    flag_tecnico: false
+    flag_reserva: true
+
+  - id: E3.minuta-contrato-022
+    documento_fonte: "Anexo III (Minuta do Contrato)"
+    dispositivo_editalicio: "Cláusula 32.1, alíneas c e d, da Minuta do Contrato"
+    transcricao: "c) suspensão temporária de participação em LICITAÇÃO e impedimento de contratar com a Administração Pública Municipal por prazo não superior a 2 (dois) anos; d) declaração de inidoneidade [...] até que seja promovida a reabilitação, na forma da lei, perante a própria autoridade que aplicou a penalidade"
+    tipo_achado: IRREGULAR
+    categoria: ilegalidade
+    descricao_breve: "Rol sancionatório redigido sob o regime da Lei n.º 8.666/1993 (revogada): espécies, prazos e competências divergem do regime vigente (impedimento de até 3 anos; inidoneidade de 3 a 6 anos com competência específica)"
+    dispositivo_legal: "art. 156, caput e §§ 4.º a 6.º, da Lei n.º 14.133/2021"
+    relacao_outros_documentos: ""
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E3.minuta-contrato-023
+    documento_fonte: "Anexo III (Minuta do Contrato)"
+    dispositivo_editalicio: "Cláusulas 32.2 e 32.6 da Minuta do Contrato"
+    transcricao: "a) [...] multa de R$ 5.000,00 (cinco mil reais) até R$ 10.000,00 (dez mil reais); [...] c) por ato ou omissão que importe em risco ao meio ambiente, à saúde pública ou ao erário público [...] multa de R$ 5.000,00 (cinco mil reais) até R$ 50.000,00 (cinquenta mil reais)"
+    tipo_achado: IRREGULAR
+    categoria: risco_economico
+    descricao_breve: "Multas em valores nominais fixos e reduzidos (R$ 500 a R$ 50.000) para contrato de 30 anos com referencial declarado de R$ 213,4 milhões — desproporção entre a sanção e a magnitude das obrigações, com gatilho de intervenção/caducidade somente se a reincidência ultrapassar 5% do faturamento mensal médio"
+    dispositivo_legal: "art. 5.º, inciso II, da Lei n.º 11.079/2004 (penalidades proporcionais à gravidade e às obrigações assumidas)"
+    relacao_outros_documentos: ""
+    flag_tecnico: false
+    flag_reserva: true
+
+  - id: E3.minuta-contrato-024
+    documento_fonte: "Anexo III (Minuta do Contrato)"
+    dispositivo_editalicio: "Cláusula 32.4 da Minuta do Contrato"
+    transcricao: "32.4. O não pagamento de qualquer multa [...] além de implicar a incidência de correção monetária, e juros de 0,001% por dia de atraso, até o limite máximo admitido em lei."
+    tipo_achado: IRREGULAR
+    categoria: erro_material
+    descricao_breve: "Juros de 0,001% ao dia (≈0,03% ao mês) sobre multas não pagas pela concessionária — destoante do padrão de 1% ao mês adotado no contrato para a mora do poder concedente; provável erro de grafia com efeito econômico assimétrico"
+    dispositivo_legal: "art. 5.º, inciso II, da Lei n.º 11.079/2004"
+    relacao_outros_documentos: ""
+    flag_tecnico: false
+    flag_reserva: true
+
+  - id: E3.minuta-contrato-025
+    documento_fonte: "Anexo III (Minuta do Contrato)"
+    dispositivo_editalicio: "Cláusulas 32.2, caput e alínea a, 32.2.1, 32.3 e 32.7 da Minuta do Contrato"
+    transcricao: "32.2. Até que se estabeleça diretrizes específicas para a aplicação de penalidades pelo PODER CONCEDENTE [...] a) por violação [...] que importe em não atendimento das metas de universalização [...] 32.2.1. [...] o CONSÓRCIO ou CONCESSIONÁRIO sujeita-se as sanções previstas nos normativos próprios do PODER CONCEDENTE, na falta de previsão expressa do ilícito administrativo no CONTRATO."
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    descricao_breve: "Regime sancionatório provisório e remetido a 'normativos próprios' e 'deliberações' futuras do poder concedente, com tipos infracionais estranhos ao objeto ('metas de universalização') — tipificação e dosimetria não definidas no contrato"
+    dispositivo_legal: "art. 5.º, inciso II, da Lei n.º 11.079/2004; art. 23, inciso VIII, da Lei n.º 8.987/1995"
+    relacao_outros_documentos: ""
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E3.minuta-contrato-026
+    documento_fonte: "Anexo III (Minuta do Contrato)"
+    dispositivo_editalicio: "Cláusula 34.2 da Minuta do Contrato vs. Anexo III.2, item III.6"
+    transcricao: "34.2. Caso as variações dos quantitativos previstos no item 34.1, no período de 12 (doze) meses ininterruptos [...] sofram variação superior a 10% (dez por cento), para mais ou para menos, que acarrete desequilíbrio econômico-financeiro do CONTRATO [...] as PARTES promoverão a competente REVISÃO EXTRAORDINÁRIA."
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Risco de demanda disciplinado de forma conflitante: banda de ±10% com revisão extraordinária na minuta (risco compartilhado) vs. alocação integral à concessionária na Matriz de Riscos (Anexo III.2, item III.6)"
+    dispositivo_legal: "art. 4.º, inciso VI, e art. 5.º, inciso III, da Lei n.º 11.079/2004"
+    relacao_outros_documentos: "Anexo III.2 — Matriz de Riscos do Contrato, item III.6 (Demanda)"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E3.minuta-contrato-027
+    documento_fonte: "Anexo III (Minuta do Contrato)"
+    dispositivo_editalicio: "Cláusulas 36.2, 45.6/47 (salto da Cláusula 46) e 52.1 da Minuta do Contrato"
+    transcricao: "36.2. [...] pagando-se ao CONSÓRCIO ou CONCESSIONÁRIO a respectiva e justa indenização com base na cláusula 38, (d) e 38.3., de acordo com a hipótese de extinção [...] 52.1. As PARTES elegem o foro de Marília (SP) [...] e para conhecer de ações que garantam a completa realização do procedimento arbitral nos moldes estabelecidos na Cláusula 48."
+    tipo_achado: IRREGULAR
+    categoria: erro_material
+    descricao_breve: "Remissões internas quebradas com impacto normativo: Cláusula 46 inexistente (numeração salta de 45 para 47); 52.1 remete a arbitragem à Cláusula 48 (comunicações); 36.2 fundamenta a indenização de todas as hipóteses de extinção nos critérios da encampação (cláusula 38, d — lucros cessantes)"
+    dispositivo_legal: "art. 89 e art. 92 da Lei n.º 14.133/2021 (clareza e precisão das cláusulas contratuais)"
+    relacao_outros_documentos: ""
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E3.minuta-contrato-028
+    documento_fonte: "Anexo III (Minuta do Contrato)"
+    dispositivo_editalicio: "Definição de CONSÓRCIO OU CONCESSIONÁRIA e Cláusulas 9.1 a 9.3 da Minuta do Contrato"
+    transcricao: "9.3. Fica certo que o CONSÓRCIO ou CONCESSIONÁRIO deverá ser mantida como subsidiária integral da LICITANTE VENCEDORA, ou sociedade anônima de capital fechado."
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Modelagem societária da parceira privada confusa: minuta não exige expressamente SPE constituída antes da celebração; exige manutenção como 'subsidiária integral da LICITANTE VENCEDORA' — estrutura impossível quando a vencedora for consórcio (pluralidade de sócios) — e denomina a contratada ora 'CONSÓRCIO' ora 'CONCESSIONÁRIO'"
+    dispositivo_legal: "art. 9.º, caput, da Lei n.º 11.079/2004; art. 20 da Lei n.º 8.987/1995"
+    relacao_outros_documentos: "regras de consórcio e de constituição da SPE no Edital (E1) — padrão Marília ponto 23 (confusão consórcio-licitante vs. parceiro privado)"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E3.minuta-contrato-029
+    documento_fonte: "Anexo III (Minuta do Contrato)"
+    dispositivo_editalicio: "Cláusulas 24.2, alíneas t e u, da Minuta do Contrato"
+    transcricao: "t) empregar, no início da execução dos SERVIÇOS, veículos com no máximo 05 (cinco) anos de uso; u) renovar a frota de veículos e equipamentos, ao longo do CONTRATO, pelo menos, 01 vez"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Obrigação de renovação da frota apenas uma vez em 30 anos, partindo de veículos com até 5 anos de uso — incompatível com o requisito de atualidade do serviço adequado (Cláusula 12.4, d) e com a vida útil dos equipamentos"
+    dispositivo_legal: "art. 6.º, § 2.º, da Lei n.º 8.987/1995"
+    relacao_outros_documentos: "conferir especificação de frota e idade máxima no Termo de Referência (E2)"
+    flag_tecnico: true
+    flag_reserva: false
+
+  - id: E3.minuta-contrato-030
+    documento_fonte: "Anexo III (Minuta do Contrato)"
+    dispositivo_editalicio: "Cláusulas 23.2 e 45.5 da Minuta do Contrato"
+    transcricao: "45.5. O PODER CONCEDENTE será o único responsável pelo passivo ambiental [...] a) [...] vale lembrar que referida ÁREA está impactada por atividade de disposição de resíduos, portanto, provavelmente contaminada, independentemente de o passivo ambiental ser verificado anteriormente ou após a assunção dos SERVIÇOS"
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: risco_economico
+    fato_faltante: "Existência e resultado de investigação confirmatória da contaminação da área (Lei Estadual 13.577/2009-SP) e dimensionamento do passivo ambiental assumido integralmente pelo poder concedente"
+    descricao_breve: "Contrato reconhece área 'provavelmente contaminada' e aloca integralmente o passivo ambiental pré-existente ao poder concedente, sem referência a investigação confirmatória nem a plano de gerenciamento da área contaminada"
+    dispositivo_legal: "Lei Estadual n.º 13.577/2009 (SP); art. 10, inciso VII, da Lei n.º 11.079/2004"
+    relacao_outros_documentos: "Anexo II.5 (Programa de Monitoramento Ambiental de Águas Subterrâneas e Ar do Solo — E2); Anexo II.7 (Diretrizes Ambientais — E2)"
+    flag_tecnico: true
+    flag_reserva: false
+
+  - id: E3.minuta-contrato-031
+    documento_fonte: "Anexo III (Minuta do Contrato)"
+    dispositivo_editalicio: "Cláusulas 17.1 e 17.2 da Minuta do Contrato"
+    transcricao: "17.1. As despesas decorrentes da execução deste CONTRATO correrão por conta da dotação orçamentária n° XXXXXX, no exercício vigente. 17.2. Os recursos [...] advirão de dotações orçamentárias específicas, a serem incluídas nos orçamentos municipais dos exercícios seguintes e de outras receitas da PREFEITURA."
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: risco_economico
+    fato_faltante: "Comprovação da inclusão do objeto no PPA, da compatibilidade com LDO/LOA e da estimativa de impacto orçamentário-financeiro plurianual (documentos não constam da minuta; CLAUDE.md do projeto registra PPA/LDO/LOA '[não levantado]')"
+    descricao_breve: "Suporte orçamentário do pagamento por 30 anos limitado a dotação genérica do exercício e à promessa de inclusão nos orçamentos futuros, sem referência a previsão plurianual"
+    dispositivo_legal: "art. 10, incisos II, III e V, da Lei n.º 11.079/2004; arts. 165 a 167 da CF/1988"
+    relacao_outros_documentos: "condições prévias do certame — verificação principal no Edital e estudos (E1/E4)"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E3.minuta-contrato-032
+    documento_fonte: "Anexo III (Minuta do Contrato)"
+    dispositivo_editalicio: "Cláusulas 19.3, 19.3.1 e 20.10 da Minuta do Contrato"
+    transcricao: "19.3. O reajuste devidamente calculado poderá ser imediatamente faturado pelo CONCESSIONÁRIO, independentemente de homologação. [...] 20.10. Caso [...] não se manifestem a respeito da proposta de revisão apresentada [...] o CONSÓRCIO ou CONCESSIONÁRIO considerará tal proposta aceita, podendo ser cobrada, na próxima fatura"
+    tipo_achado: IRREGULAR
+    categoria: risco_economico
+    descricao_breve: "Aceitação tácita de reajuste (15 dias) e de proposta de revisão/reequilíbrio (30 dias) por silêncio da Administração, com faturamento imediato independente de homologação — assimetria procedimental favorável à concessionária, sem contrapartida de controle"
+    dispositivo_legal: "art. 9.º, §§ 2.º e 4.º, da Lei n.º 8.987/1995 (procedimento de revisão); art. 92, inciso V, da Lei n.º 14.133/2021"
+    relacao_outros_documentos: ""
+    flag_tecnico: false
+    flag_reserva: true
+
+conformes:
+
+  - id: E3.minuta-contrato-033
+    documento_fonte: "Anexo III (Minuta do Contrato)"
+    dispositivo_editalicio: "Cláusulas 7.1 e 8.4 da Minuta do Contrato"
+    transcricao: "7.1. O prazo da CONCESSÃO ADMINISTRATIVA é de 30 (trinta) anos [...] 8.4. [...] até o limite máximo de 35 (trinta e cinco) anos, incluídas as prorrogações"
+    tipo_achado: CONFORME
+    descricao_breve: "Prazo de 30 anos, com teto de 35 anos incluídas prorrogações, dentro da faixa legal de 5 a 35 anos para PPP (sem prejuízo da contradição interna do regime de prorrogação — ponto 001)"
+    dispositivo_legal: "art. 5.º, inciso I, da Lei n.º 11.079/2004"
+    relacao_outros_documentos: ""
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E3.minuta-contrato-034
+    documento_fonte: "Anexo III (Minuta do Contrato)"
+    dispositivo_editalicio: "Cláusulas 15.1, 16.2 a 16.4 da Minuta do Contrato"
+    transcricao: "16.2. [...] após a efetiva execução e medição dos SERVIÇOS objeto do CONTRATO"
+    tipo_achado: CONFORME
+    descricao_breve: "Contraprestação condicionada à disponibilização e efetiva execução/medição dos serviços — compatível com a exigência legal de precedência da disponibilização do serviço"
+    dispositivo_legal: "art. 7.º, caput, da Lei n.º 11.079/2004"
+    relacao_outros_documentos: ""
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E3.minuta-contrato-035
+    documento_fonte: "Anexo III (Minuta do Contrato)"
+    dispositivo_editalicio: "Cláusula 44.3 da Minuta do Contrato"
+    transcricao: "44.3. Na extinção da CONCESSÃO ADMINISTRATIVA, será promovida, pelo PODER CONCEDENTE, vistoria prévia dos bens a ela afetos [...] e lavrado um 'Termo de Reversão dos Bens'"
+    tipo_achado: CONFORME
+    descricao_breve: "Previsão de vistoria prévia dos bens reversíveis com lavratura de termo — checklist de cláusula essencial atendido"
+    dispositivo_legal: "art. 5.º, inciso IX, da Lei n.º 11.079/2004 (realização de vistoria dos bens reversíveis — numeração do inciso a confirmar na redação vigente); art. 35, §§ 1.º e 2.º, da Lei n.º 8.987/1995"
+    relacao_outros_documentos: ""
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E3.minuta-contrato-036
+    documento_fonte: "Anexo III (Minuta do Contrato)"
+    dispositivo_editalicio: "Cláusulas 9.4, 9.4.2, 28.1, 43.2 e 43.3 da Minuta do Contrato"
+    transcricao: "9.4. O controle societário do CONSÓRCIO ou CONCESSIONÁRIO, total ou parcial, poderá ser transferido somente após anuência prévia do PODER CONCEDENTE."
+    tipo_achado: CONFORME
+    descricao_breve: "Transferência de controle condicionada à anuência prévia do poder concedente e step-in dos financiadores com requisitos legais — checklist atendido"
+    dispositivo_legal: "art. 27 da Lei n.º 8.987/1995; art. 5.º, § 2.º, inciso I, da Lei n.º 11.079/2004"
+    relacao_outros_documentos: ""
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E3.minuta-contrato-037
+    documento_fonte: "Anexo III (Minuta do Contrato)"
+    dispositivo_editalicio: "Cláusulas 47.3 a 47.7 da Minuta do Contrato"
+    transcricao: "47.7. No procedimento arbitral deverão sempre ser observados o critério de julgamento por direito e o princípio da publicidade"
+    tipo_achado: CONFORME
+    descricao_breve: "Cláusula de arbitragem em língua portuguesa, com julgamento de direito e publicidade — requisitos legais para arbitragem em PPP atendidos"
+    dispositivo_legal: "art. 11, inciso III, da Lei n.º 11.079/2004; Lei n.º 9.307/1996"
+    relacao_outros_documentos: ""
+    flag_tecnico: false
+    flag_reserva: false
+
+manifesto_cobertura:
+  documento: "CADERNO III - ANEXO III - MINUTA DO CONTRATO.pdf (53 p.)"
+  metodo: "texto integral em docs/extraido (pdftotext -layout), lido na íntegra em bloco único (2.571 linhas)"
+  secoes_percorridas:
+    - "Preâmbulo e Cláusula 1 (definições)"
+    - "Cláusulas 2 a 5 (normas, interpretação, anexos, regime jurídico)"
+    - "Cláusulas 6 a 11 (objeto, prazo, prorrogação, concessionário, bens, área)"
+    - "Cláusulas 12 a 17 (serviços, desempenho, receitas, pagamentos, recursos)"
+    - "Cláusulas 18 a 22 (equilíbrio, reajuste, revisão, garantia de pagamento, garantia de execução)"
+    - "Cláusulas 23 a 29 (obrigações das partes e usuários, seguros, terceiros, transferência, fiscalização)"
+    - "Cláusulas 30 a 35 (inadimplementos, sanções, causas justificadoras, riscos, intervenção)"
+    - "Cláusulas 36 a 45 (extinção e hipóteses, financiadores, reversão, proteção ambiental)"
+    - "Cláusulas 47 a 52 (solução de controvérsias, comunicações, prazos, invalidade, publicação, foro)"
+  trechos_ilegiveis: []
+  observacoes:
+    - "Cláusula 46 inexistente no documento (numeração salta de 45 para 47) — registrado como achado 027"
+    - "Tabela de pesos do reajuste (Cláusula 19.1.2) legível no texto plano; sem outras seções tabulares relevantes"

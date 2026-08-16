@@ -1,0 +1,59 @@
+# FASE1 — Extrator E1 — Minuta de Edital (Caderno III – Anexo I, versão do estudo)
+# Projeto: marilia-ppp020-2025 | CP 020/2025 — Prefeitura de Marília/SP
+# Documento: "CADERNO III - ANEXO I - MINUTA DE EDITAL.pdf" (36 p.)
+# Método: leitura integral + comparação palavra a palavra com a versão assinada
+# Gerado em: 2026-08-16
+
+pontos:
+
+  - id: E1.minuta-edital-001
+    documento_fonte: "Caderno III – Anexo I (Minuta de Edital)"
+    dispositivo_editalicio: "Preâmbulo da Minuta (Valor Total e Modo de Disputa) × preâmbulo do Edital assinado"
+    transcricao: >-
+      Minuta: "VALOR TOTAL DA CONTRATAÇÃO: R$ 213.408.000,00 – (Item 4 do TR)" e "MODO
+      DE DISPUTA: ABERTO – (Item 4.3 do TR)" | Edital assinado: "VALOR TOTAL DA
+      CONTRATAÇÃO: R$ 213.408.000,00 – (Item 4.1 do TR) E ANEXO IV" e "MODO DE DISPUTA:
+      ABERTO – (Item 4.5 do TR) e ITEM 2 DO ANEXO IV".
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Remissões do preâmbulo ao TR divergem entre minuta (itens 4 e 4.3) e versão assinada (itens 4.1 e 4.5): uma das numerações está desatualizada, sinal de renumeração do TR sem revisão sistemática das remissões cruzadas"
+    dispositivo_legal: "art. 5.º e art. 25, caput, da Lei n.º 14.133/2021 (vinculação e clareza do instrumento convocatório)"
+    relacao_outros_documentos: "E2 deve conferir a numeração vigente do TR (itens 4.x) e reportar quais remissões do edital assinado e da minuta apontam para dispositivos errados"
+    flag_tecnico: false
+    flag_reserva: false
+
+conformes:
+
+  - id: E1.minuta-edital-C01
+    documento_fonte: "Caderno III – Anexo I (Minuta de Edital)"
+    dispositivo_editalicio: "Documento integral × Edital assinado"
+    transcricao: >-
+      Únicas demais diferenças: preenchimento de campos que na minuta eram placeholders
+      — data da sessão ("XX/XX/XXXX" → 16/09/2026), horário ("00:00" → 09:00), número no
+      comprasnet ("XXXXX/XXXX" → 013/2026), processo administrativo ("X-x-x-x-x-x" →
+      23.154/2026) e bloco de assinatura ("Marília, de de 2026" → assinatura digital de
+      22/07/2026).
+    tipo_achado: CONFORME
+    descricao_breve: "Fora as remissões do ponto 001 e o preenchimento natural de placeholders, a minuta é textualmente idêntica à versão assinada — todos os achados registrados em E1.edital-assinado.yaml aplicam-se igualmente ao texto da minuta"
+    dispositivo_legal: "—"
+    relacao_outros_documentos: "A minuta serviu de fonte legível para trechos com extração corrompida no PDF assinado (item 11.3.c, definição de desempate, item 46.12, linhas A-7/A-18 da relação de anexos)"
+    flag_tecnico: false
+    flag_reserva: false
+
+manifesto_cobertura:
+  documento: "CADERNO III - ANEXO I - MINUTA DE EDITAL.pdf (36 p.) — texto extraído em docs/extraido/"
+  execucao: "bloco único; leitura integral seguida de diff palavra a palavra contra o texto do edital assinado (cabeçalhos e rodapés normalizados)"
+  faixas_percorridas:
+    - "pp. 1–36: documento integral — mesma estrutura do edital assinado (folha de rosto, aviso, definições, itens 1–46, relação de anexos A-1 a A-18, bloco de assinatura em branco)"
+  trechos_ilegiveis: []
+  metodo_comparacao: >-
+    Normalização dos dois textos (remoção de cabeçalhos/rodapés e marcas d'água de
+    assinatura) e comparação por sequência de palavras. Falso positivo inicial (trecho do
+    aviso contendo 'pela Prefeitura de Marília' removido pelo filtro de cabeçalho) foi
+    identificado e corrigido; confirmada a identidade do trecho nas duas versões.
+  resultado: >-
+    Divergências substantivas: apenas as remissões do preâmbulo (ponto 001). Divergências
+    formais: preenchimento de placeholders (C01). Nenhuma cláusula acrescida, suprimida
+    ou alterada entre a minuta submetida à consulta pública e a versão assinada.
+  observacoes:
+    - "A identidade integral entre minuta e versão assinada implica que o edital publicado não incorporou ajuste algum decorrente da consulta pública (23/10/2025–02/03/2026) e da audiência pública (29/01/2026) — dado fático a explorar pelo AN na Fase 2 em conjunto com o Caderno III – Modelagem Jurídica (E4), se este documentar contribuições recebidas."

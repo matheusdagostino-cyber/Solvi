@@ -1,0 +1,63 @@
+# FASE1 — Extrator E1 — Modelos do Caderno III (Anexos I.1 e I.2)
+# Projeto: marilia-ppp020-2025 | CP 020/2025 — Prefeitura de Marília/SP
+# Documentos: "CADERNO III - ANEXO I.1 - MODELO DE CARTA DE CREDENCIAMENTO.pdf" (2 p.)
+#             "CADERNO III - ANEXO I.2 - MODELO DE DECLARAÇÃO DE EMPREGO DE MENOR.pdf" (2 p.)
+# Gerado em: 2026-08-16
+
+pontos:
+
+  - id: E1.modelo-credenciamento-001
+    documento_fonte: "Caderno III – Anexo I.1 (Modelo de Carta de Credenciamento)"
+    dispositivo_editalicio: "Anexo I.1, endereçamento e observações 1 a 4"
+    transcricao: >-
+      "À Comissão de Licitações da Prefeitura Municipal de Marília, Senhor Presidente, …"
+      | "4 - Esta Carta deverá ser apresentada no credenciamento eletrônico."
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Modelo concebido para sessão presencial (carta endereçada à 'Comissão de Licitações' e a 'Senhor Presidente') em certame eletrônico no Compras.gov, no qual o credenciamento é o registro no próprio portal (item 14 do Edital) — papel e destinatário do documento indefinidos"
+    dispositivo_legal: "art. 17, § 2.º, da Lei n.º 14.133/2021 (forma eletrônica); art. 5.º da Lei n.º 14.133/2021"
+    relacao_outros_documentos: "Edital, itens 12 e 14 (cadastro e credenciamento no Portal de Compras do Governo Federal); a 'Comissão de Licitações' destinatária tampouco coincide com a COMISSÃO ESPECIAL DE CONTRATAÇÃO definida no Edital"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E1.modelo-credenciamento-002
+    documento_fonte: "Caderno III – Anexo I.1 (Modelo de Carta de Credenciamento)"
+    dispositivo_editalicio: "Anexo I.1, alínea 'a' do instrumento de mandato"
+    transcricao: >-
+      "a) Representar o Outorgante perante quaisquer entidades, órgãos ou departamentos
+      governamentais, sociedades abertas ou fechadas e quaisquer agências governamentais,
+      incluindo os órgãos e entidades e integrantes da Administração do ESTADO DE SÃO
+      PAULO;"
+    tipo_achado: IRREGULAR
+    categoria: erro_material
+    descricao_breve: "Mandato do modelo refere a Administração do 'ESTADO DE SÃO PAULO' — resquício de minuta de outro certame (estadual) em licitação municipal; o alcance dos poderes outorgados não menciona o Município de Marília, e o outorgante é grafado como pessoa física ('o Sr [.]') e não como a empresa licitante"
+    dispositivo_legal: "art. 5.º da Lei n.º 14.133/2021 (segurança jurídica); art. 653 do Código Civil (Lei n.º 10.406/2002)"
+    relacao_outros_documentos: "Referências do modelo ('Concorrência Pública nº 000/2025') também não atualizadas para CP 020/2025"
+    flag_tecnico: false
+    flag_reserva: false
+
+conformes:
+
+  - id: E1.modelo-declaracao-menor-C01
+    documento_fonte: "Caderno III – Anexo I.2 (Modelo de Declaração de Emprego de Menor)"
+    dispositivo_editalicio: "Anexo I.2, corpo da declaração"
+    transcricao: >-
+      "…declara, sob as penas da legislação aplicável, por si, por seus sucessores e
+      cessionários, que se encontra em situação regular perante o Ministério do Trabalho,
+      no que se refere à observância do disposto no inciso XXXIII, do artigo 7º, da
+      Constituição Federal."
+    tipo_achado: CONFORME
+    descricao_breve: "Modelo de declaração de cumprimento do art. 7.º, XXXIII, da CF aderente à exigência legal de habilitação — sem vício material (apenas placeholders desatualizados: 'Concorrência Pública nº 000/2026', inconsistente com o '000/2025' do Anexo I.1 — cosmético)"
+    dispositivo_legal: "art. 68, inciso VI, da Lei n.º 14.133/2021; art. 7.º, inciso XXXIII, da CF/1988"
+    relacao_outros_documentos: "—"
+    flag_tecnico: false
+    flag_reserva: false
+
+manifesto_cobertura:
+  documentos:
+    - "CADERNO III - ANEXO I.1 - MODELO DE CARTA DE CREDENCIAMENTO.pdf (2 p.) — lido integralmente"
+    - "CADERNO III - ANEXO I.2 - MODELO DE DECLARAÇÃO DE EMPREGO DE MENOR.pdf (2 p.) — lido integralmente"
+  execucao: "bloco único (4 p. no total)"
+  trechos_ilegiveis: []
+  observacoes:
+    - "Rodapés registram 'PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA … VERSÃO 07_2026, 21 JULHO 2026' — versão dos modelos contemporânea à assinatura do edital (22/07/2026)."

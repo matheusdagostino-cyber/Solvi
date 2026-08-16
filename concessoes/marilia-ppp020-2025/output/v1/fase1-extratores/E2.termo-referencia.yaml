@@ -1,0 +1,325 @@
+# FASE1 — Extrator E2 | Projeto: marilia-ppp020-2025 | CP 020/2025 — Prefeitura de Marília/SP
+# Documento: CADERNO III - ANEXO II - TERMO DE REFERÊNCIA (49 p.)
+# Prazos (triagem): esclarecimento e impugnação até 11/09/2026 — 19 dias úteis em 16/08/2026
+# Gerado em: 2026-08-16
+
+pontos:
+  - id: E2.termo-referencia-001
+    documento_fonte: "Anexo II (Termo de Referência)"
+    dispositivo_editalicio: "Itens 4.6 e 4.7 do TR"
+    transcricao: "O julgamento das propostas observará o critério de MENOR PREÇO UNITÁRIO DA TONELADA DE CADA LOTE, conforme metodologia definida no ANEXO IV. [...] Em caso de empate entre propostas classificadas pelo mesmo PREÇO UNITÁRIO DA TONELADA, serão observados os critérios definidos no ANEXO IV."
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Critério de julgamento por 'menor preço da tonelada de cada lote' sem que o TR defina lotes; objeto é concessão única com SPE única"
+    dispositivo_legal: "art. 25, caput, e art. 40, § 2.º (parcelamento justificado), da Lei n.º 14.133/2021; art. 11 da Lei n.º 11.079/2004; art. 18, § 1.º, da Lei n.º 14.133/2021"
+    relacao_outros_documentos: "Anexo II.2 cria 4 lotes (Lote 4 sem conteúdo); Anexos II.1, II.3 e II.4 remetem ao 'LOTE licitado'; verificar Anexo IV (critérios de julgamento) e abas LOTE 1/2/3 da DRE (E4); edital principal (E1)"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E2.termo-referencia-002
+    documento_fonte: "Anexo II (Termo de Referência)"
+    dispositivo_editalicio: "Itens 2, 4 e 9.2 do TR"
+    transcricao: "Objeto (item 2): 'RECUPERAÇÃO ENERGÉTICA DAS FRAÇÕES SECA (GASEIFICAÇÃO/PIRÓLISE), ÚMIDA (BIODIGESTÃO) E OUTRAS SOLUÇÕES ALTERNATIVAS'; item 4: 'RECUPERAÇÃO MATERIAL E ENERGÉTICA, DAS FRAÇÕES SECA E ÚMIDA E/OU OUTRAS SOLUÇÕES ALTERNATIVAS'; item 9.2: 'deverá implantar e operar uma UNIDADE DE RECUPERAÇÃO ENERGÉTICA - URE ... com a aplicação das tecnologias de gaseificação, pirólise e/ou biodigestão e/ou soluções alternativas'"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Indefinição sobre a obrigatoriedade das rotas tecnológicas: ora as duas rotas (seca E úmida) são exigidas, ora aparecem como alternativas ('e/ou'), inclusive dentro do próprio TR"
+    dispositivo_legal: "art. 25, caput, e art. 6.º, inciso XXIII, alínea 'a', da Lei n.º 14.133/2021 (definição precisa do objeto); art. 11 da Lei n.º 11.079/2004"
+    relacao_outros_documentos: "Anexo II.1 item 1 ('e/ou'); Anexo II.2 admite rotas isoladas ou combinadas por lote; Anexo II.3 descreve as 3 etapas como sistema integrado obrigatório"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E2.termo-referencia-003
+    documento_fonte: "Anexo II (Termo de Referência)"
+    dispositivo_editalicio: "Item 4.1 do TR"
+    transcricao: "O valor máximo estimado ... corresponde a R$ 114,00 ... por tonelada ..., equivalente ao custo atualmente suportado pelo Município para disposição final dos resíduos em aterro sanitário. [...] LIMITE MÁXIMO DE ACEITABILIDADE DAS PROPOSTAS e comprovação de inalterabilidade da dotação originária"
+    tipo_achado: IRREGULAR
+    categoria: risco_economico
+    descricao_breve: "Teto da PPP fixado no próprio custo atual de disposição em aterro: o parâmetro de vantajosidade é o custo que a PPP deveria superar (circularidade), sem memória de cálculo do teto"
+    dispositivo_legal: "art. 4.º, inciso VII, e art. 10, inciso I, alínea 'a', da Lei n.º 11.079/2004; art. 23 da Lei n.º 14.133/2021"
+    relacao_outros_documentos: "Verificar Caderno II (Modelagem Econômico-Financeira) e Value for Money na DRE (E4); padrão idêntico ao do certame anterior de Marília"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E2.termo-referencia-004
+    documento_fonte: "Anexo II (Termo de Referência)"
+    dispositivo_editalicio: "Item 4.2 do TR"
+    transcricao: "cada licitante deverá apresentar um único valor por tonelada, resultado da soma do tratamento de 5.200 toneladas/mês (A) e do valor mensal de bens reversíveis (B), ou seja, (A+B)/5.200 ..., esse valor deverá ser somado ao valor calculado do item (C), em que cada licitante deverá levar em consideração o que as respectivas rotas tecnológicas propostas irão gerar de rejeitos, para fins de cálculo, por parte da Administração, do respectivo valor de disposição em aterro ... ou seja, (A+B+C)/5.200 toneladas"
+    tipo_achado: IRREGULAR
+    categoria: risco_economico
+    descricao_breve: "Fórmula de formação do preço com parcela (C) calculada a partir da estimativa de rejeitos declarada pela própria licitante, sem metodologia de verificação nem consequência para subestimativa — compromete o julgamento objetivo e a comparabilidade das propostas"
+    dispositivo_legal: "art. 5.º e art. 33 da Lei n.º 14.133/2021 (julgamento objetivo); art. 12, incisos I e III, da Lei n.º 11.079/2004"
+    relacao_outros_documentos: "Anexo IV (Proposta Preço, Planilha Sintética e Critérios de Julgamento — E4); item 18.5 do TR remete a metodologia de apuração de rejeitos ao Anexo IV"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E2.termo-referencia-005
+    documento_fonte: "Anexo II (Termo de Referência)"
+    dispositivo_editalicio: "Item 4.4, subitem 4.2.2, alínea 'b', do TR"
+    transcricao: "O valor da GARANTIA DE EXECUÇÃO CONTRATUAL corresponderá a 5% ... do valor anual estimado do CONTRATO, equivalente a R$ 356.680,00 ..., calculado sobre o montante anual estimado de R$ 7.133.600,00"
+    tipo_achado: IRREGULAR
+    categoria: erro_material
+    descricao_breve: "Valores da garantia de execução incompatíveis com o próprio TR: item 4.1 fixa o valor anual em R$ 7.113.600,00 (5% = R$ 355.680,00), mas a cláusula da garantia usa base de R$ 7.133.600,00 e resultado de R$ 356.680,00"
+    dispositivo_legal: "art. 5.º da Lei n.º 14.133/2021 (vinculação ao edital); art. 98 da Lei n.º 14.133/2021"
+    relacao_outros_documentos: "Conferir valores no edital principal (E1) e na minuta do contrato (E3)"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E2.termo-referencia-006
+    documento_fonte: "Anexo II (Termo de Referência)"
+    dispositivo_editalicio: "Item 4.4, subitem 4.2.2, alíneas 'a' e 'b', do TR"
+    transcricao: "GARANTIA DE EXECUÇÃO CONTRATUAL ... corresponderá a 5% (cinco por cento) do valor anual estimado do CONTRATO"
+    tipo_achado: IRREGULAR
+    categoria: risco_economico
+    descricao_breve: "Garantia de execução calculada sobre o valor ANUAL (≈R$ 356 mil ≈ 0,17% do valor da contratação de R$ 213,4 milhões), base anômala para PPP de 30 anos com obrigações de investimento — cobertura irrisória frente aos encargos garantidos"
+    dispositivo_legal: "arts. 96 a 98 da Lei n.º 14.133/2021 (percentuais sobre o valor do contrato); art. 5.º, § 2.º, da Lei n.º 11.079/2004"
+    relacao_outros_documentos: "Conferir a disciplina da garantia na minuta do contrato (E3) e no edital (E1)"
+    flag_tecnico: false
+    flag_reserva: true
+
+  - id: E2.termo-referencia-007
+    documento_fonte: "Anexo II (Termo de Referência)"
+    dispositivo_editalicio: "Item 4.4, subitem 4.2.3 (Garantia de Pagamento), do TR"
+    transcricao: "A GARANTIA DE PAGAMENTO ... poderá ser constituída isolada ou cumulativamente por meio dos seguintes instrumentos: I – Vinculação ou cessão fiduciária de quotas do FPM; II – ... quota-parte municipal do ICMS; ... IV – Constituição de Fundo Garantidor específico ...; V – Vinculação de receitas oriundas da COSIP, quando legalmente admitida; ... 2. A estrutura definitiva das garantias ... deverá estarem integralmente constituídas e operacionais antes da assinatura do CONTRATO"
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    descricao_breve: "Garantia pública indefinida: rol meramente alternativo de 9 instrumentos, sem indicar qual será constituído; inclui vinculação de FPM/ICMS (receitas de impostos — vedação constitucional) e COSIP (destinação própria), e Fundo Garantidor 'específico' inexistente, dependente de ato futuro — núcleo da bancabilidade sem definição"
+    dispositivo_legal: "art. 8.º da Lei n.º 11.079/2004; art. 167, inciso IV, da CF/1988; art. 149-A da CF/1988"
+    relacao_outros_documentos: "Verificar minuta do contrato (E3) e Caderno II (E4) quanto ao mecanismo efetivamente modelado; CLAUDE.md do projeto: lei de FGP municipal '[não levantado]'"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E2.termo-referencia-008
+    documento_fonte: "Anexo II (Termo de Referência)"
+    dispositivo_editalicio: "Item 9.5.3 do TR"
+    transcricao: "A solução deverá garantir redução de até 50% da massa total de resíduos encaminhada ao aterro sanitário, após aplicação dos processos de segregação e valorização previstos no sistema."
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Meta central de desvio de aterro redigida como teto ('redução de ATÉ 50%'), não como piso, e conflitante com o Anexo II.7 (destinação inferior a 20% ao aterro), com o balanço do Anexo II.3 (rejeitos de 32 t/dia ≈ 84% de desvio) e com o Anexo II.6 ('meta contratual' não definida)"
+    dispositivo_legal: "art. 9.º da Lei n.º 12.305/2010; art. 6.º, inciso XXIII, alíneas 'a' e 'e', da Lei n.º 14.133/2021"
+    relacao_outros_documentos: "Anexo II.7, item 6; Anexo II.3, Etapa 3, item 5; Anexo II.6, item 5.2"
+    flag_tecnico: true
+    flag_reserva: false
+
+  - id: E2.termo-referencia-009
+    documento_fonte: "Anexo II (Termo de Referência)"
+    dispositivo_editalicio: "Itens 9.5.1, 9.5.2, 9.5.4 e 9.5.5 do TR"
+    transcricao: "eficiência mínima de 70% na segregação das frações [...] mínimo de 40% de aproveitamento da fração orgânica úmida [...] disponibilidade operacional mínima de 70% [...] eficiência global de conversão deverá ser de, no mínimo 25% de conversão para energia elétrica"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "KPIs 'mandatários' do TR divergem dos parâmetros dos demais anexos e são substancialmente mais brandos: segregação 70% vs ≥85%/≥80% (II.3); disponibilidade 70% vs ≥90% (II.3 e II.6); conversão elétrica mínima 25% vs faixa 20–30% (II.3) — insegurança sobre o padrão exigível e fiscalizável"
+    dispositivo_legal: "art. 5.º da Lei n.º 14.133/2021 (vinculação ao edital); art. 6.º, § 1.º, da Lei n.º 11.079/2004 (desempenho com critérios objetivos)"
+    relacao_outros_documentos: "Anexo II.3 (especificações das Etapas 1 e 3); Anexo II.6 (faixas de pontuação com plenitude apenas a partir de 90%/95%)"
+    flag_tecnico: true
+    flag_reserva: true
+
+  - id: E2.termo-referencia-010
+    documento_fonte: "Anexo II (Termo de Referência)"
+    dispositivo_editalicio: "Seção 16 do TR (Fiscalização e Gestão do Contrato)"
+    transcricao: "A Fiscalização Técnica será exercida por Engenheiros ou Arquitetos do quadro de servidores municipais [...] Fica(m) indicado(s) o(s) Gestor(es) do(s) contrato(s) ... o Sr. XXXXXXXXX, Secretário Municipal de XXXXXXXXXXXX"
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    descricao_breve: "Ausência de designação de entidade reguladora com independência decisória para o serviço de manejo de RSU: toda a fiscalização e gestão é atribuída a fiscal e gestor do próprio poder concedente"
+    dispositivo_legal: "arts. 21 e 22 da Lei n.º 11.445/2007 (redação da Lei n.º 14.026/2020); art. 11, inciso III, da Lei n.º 11.445/2007; NR n.º 7/2024 da ANA (Resolução ANA 187/2024)"
+    relacao_outros_documentos: "Verificar minuta do contrato (E3) e Caderno III — Modelagem Jurídica (E4) quanto a eventual previsão de agência reguladora ou verificador independente"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E2.termo-referencia-011
+    documento_fonte: "Anexo II (Termo de Referência)"
+    dispositivo_editalicio: "Seção 18 do TR (Medições e Pagamentos), itens 3, 6, 10 e 10.2 a 10.4"
+    transcricao: "Até o quinto dia útil de cada mês, a CONCESSIONÁRIA deverá apresentar Relatório Mensal de Medição [...] o Gestor e Fiscal do Contrato terá o prazo de até 5 (cinco) dias úteis para analisar e validar [...] sendo a primeira [medição], 30 (trinta) dias corridos após o início dos serviços [...] um responsável indicado pelo SECRETÁRIO MUNICIPAL DO MEIO AMBIENTE ... comunicando-a à CONTRATADA dentro de 7 (sete) dias do recebimento da medição"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Dois regimes de medição/pagamento sobrepostos e conflitantes na mesma seção (prazos de 5 dias úteis vs 7 dias; relatório no 5.º dia útil vs primeira medição em 30 dias; autoridade aprovadora distinta), com terminologia de contrato comum (CONTRATADA/CONTRATANTE) e redação ininteligível no item 10"
+    dispositivo_legal: "art. 5.º e art. 92, incisos V e VI, da Lei n.º 14.133/2021; art. 6.º da Lei n.º 11.079/2004"
+    relacao_outros_documentos: "Cotejar com o regime de pagamento da minuta do contrato (E3) e do Anexo IV (E4)"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E2.termo-referencia-012
+    documento_fonte: "Anexo II (Termo de Referência)"
+    dispositivo_editalicio: "Seção 17, itens 6, 12 e 13, e Seção 19, itens 2, 5 e 8, do TR"
+    transcricao: "foi considerada receita acessória até a 1% (um por cento) da Receita Operacional Bruta [...] As receitas acessórias efetivamente auferidas em até o percentual de 1% ... poderão ser objeto de compartilhamento [...] CP = RT + BR – RA [...] a titularidade dos créditos de carbono, CBIOs ... pertencerá à CONCESSIONÁRIA"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Regime das receitas acessórias contraditório: a fórmula da Seção 19 abate integralmente as receitas acessórias da contraprestação (CP = RT + BR – RA), enquanto a Seção 17 prevê mero 'compartilhamento' limitado a 1% da ROB 'nos termos do CONTRATO'; percentual de 1% sem memória de cálculo; titularidade de ativos ambientais 'salvo disposição em contrário'"
+    dispositivo_legal: "art. 11 da Lei n.º 8.987/1995 c/c art. 3.º, caput, da Lei n.º 11.079/2004; art. 6.º, inciso XXIII, alínea 'j', da Lei n.º 14.133/2021"
+    relacao_outros_documentos: "Verificar tratamento das receitas acessórias na minuta do contrato (E3) e no Caderno II/DRE (E4) — determinação 3 do TC-001718.989.19-7 é objeto de verificação por E1/E4"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E2.termo-referencia-013
+    documento_fonte: "Anexo II (Termo de Referência)"
+    dispositivo_editalicio: "Item 8.3, incisos I a IV e §§ 1.º e 2.º, do TR"
+    transcricao: "§1º Os atestados e/ou acervos deverão comprovar a execução de, no mínimo, três dos serviços acima descritos. §2º É vedada a exigência de comprovação simultânea de todos os itens, sob pena de restrição à competitividade."
+    tipo_achado: IRREGULAR
+    categoria: restricao_competitividade
+    descricao_breve: "Exigência cumulativa de 3 dos 4 grupos de serviços de maior relevância (implantação com recuperação energética + projeto/implantação de planta de segregação + sistemas de tratamento + licenciamento ambiental), em tensão com o próprio §2º e sem justificativa de essencialidade de cada parcela"
+    dispositivo_legal: "art. 67, § 1.º e § 2.º, da Lei n.º 14.133/2021; art. 37, inciso XXI, da CF/1988"
+    relacao_outros_documentos: "Cotejar com as exigências de habilitação do edital principal (E1) — possível divergência TR × edital"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E2.termo-referencia-014
+    documento_fonte: "Anexo II (Termo de Referência)"
+    dispositivo_editalicio: "Item 8.4, inciso I, do TR"
+    transcricao: "Elaboração de estudo e projeto básico para obtenção de Licença Ambiental para empreendimento denominado unidade de recuperação energética por gaseificação/pirólise e/ou biodigestão ... com capacidade de processamento de 30 (trinta) toneladas por dia de combustível derivado de resíduos – CDR e/ou 50 (cinquenta) toneladas de fração orgânica, contido em área de disposição de resíduos sólidos urbanos, aterro sanitário e/ou empreendimento rural, devidamente licenciado por órgão de controle ambiental Estadual, com capacidade de tratamento de 100 (cem) toneladas por dia ... e consequente emissão de Licença Prévia Ambiental emitida"
+    tipo_achado: IRREGULAR
+    categoria: restricao_competitividade
+    descricao_breve: "Exigência de qualificação técnico-operacional ininteligível e sob medida: um único inciso acumula capacidades distintas (30 t/dia de CDR, 50 t de FORSU, 100 t/dia), localização específica ('contido em área de disposição de resíduos, aterro ou empreendimento rural') e exigência de LP efetivamente emitida — impossibilita aferição objetiva e direciona a portfólio determinado"
+    dispositivo_legal: "art. 67, § 1.º, e art. 9.º, inciso I, da Lei n.º 14.133/2021; art. 37, inciso XXI, da CF/1988"
+    relacao_outros_documentos: "Repetido, com variações, no item 8.5, alínea 'b' (qualificação profissional); cotejar com o edital principal (E1)"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E2.termo-referencia-015
+    documento_fonte: "Anexo II (Termo de Referência)"
+    dispositivo_editalicio: "Item 8.5 do TR (alíneas e itens 2 e 3)"
+    transcricao: "d)Elaboração de Projeto arquitetônico estrutura ... [segunda alínea 'd' no mesmo rol] ... 2. No caso de Consórcio, as participantes poderão apresentar os atestados dos responsáveis técnicos de acordo com a regra prevista no item b.2 acima; 3. Os profissionais indicados ... para fins de capacidade técnica de que trata a alínea 'd' ..."
+    tipo_achado: IRREGULAR
+    categoria: erro_material
+    descricao_breve: "Qualificação técnico-profissional com alíneas duplicadas ('d' aparece duas vezes) e remissões a dispositivos inexistentes ('item b.2', 'alínea d' ambígua) — indeterminação sobre quais exigências se aplicam e a quais profissionais"
+    dispositivo_legal: "art. 25, caput, e art. 5.º da Lei n.º 14.133/2021 (clareza e vinculação ao edital)"
+    relacao_outros_documentos: "Cotejar com o edital principal (E1)"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E2.termo-referencia-016
+    documento_fonte: "Anexo II (Termo de Referência)"
+    dispositivo_editalicio: "Seção 2 do TR c/c itens 8.3 a 8.5"
+    transcricao: "A concessão administrativa se insere nesta realidade por atrair o interesse do setor privado em investir recursos em um sistema inovador no país ..."
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "O TR qualifica o sistema como 'inovador no país' e, simultaneamente, exige comprovação de experiência anterior (atestados/CATs) nas mesmas rotas e veda tecnologia experimental (Anexo II.2) — contradição entre a maturidade exigida na habilitação e o reconhecimento do ineditismo do objeto"
+    dispositivo_legal: "art. 67, § 1.º, da Lei n.º 14.133/2021; art. 37, inciso XXI, da CF/1988"
+    relacao_outros_documentos: "Anexo II.2, itens 2 e 5 (vedação a estágio experimental; exigência de escala comercial); Anexo II.3, item 6 (admite 'soluções inovadoras')"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E2.termo-referencia-017
+    documento_fonte: "Anexo II (Termo de Referência)"
+    dispositivo_editalicio: "Itens 4.3 (subitens 4.1.1/4.1.2), 4.4 (subitens 4.2.1–4.2.3), Seção 6 (subitens 5.1.x–5.4.x) e item 4.1.2 (alíneas 'b' duplicadas) do TR"
+    transcricao: "4.3 DO MODELO DE REMUNERAÇÃO ... 4.1.1. Fontes de Receita Elegíveis ... 4.4 DAS GARANTIAS 4.2.1 Garantia Da Proposta ... 6.1 DO REAJUSTE 5.1.1 Os preços ... b) garantir a sustentabilidade técnica e financeira ...; b) manter a qualidade dos serviços ..."
+    tipo_achado: IRREGULAR
+    categoria: erro_material
+    descricao_breve: "Numeração interna sistematicamente descasada (subitens de seções trocadas, alíneas duplicadas), comprometendo remissões internas e de outros documentos ao TR — não é mero vício cosmético porque as remissões cruzadas do próprio conjunto editalício se tornam indeterminadas"
+    dispositivo_legal: "art. 5.º e art. 25, caput, da Lei n.º 14.133/2021"
+    relacao_outros_documentos: "Afeta remissões da minuta do contrato e do edital ao TR (E1/E3)"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E2.termo-referencia-018
+    documento_fonte: "Anexo II (Termo de Referência)"
+    dispositivo_editalicio: "Item 10.23 do TR"
+    transcricao: "Será de responsabilidade da licitante vencedora e da PREFEITURA DE MARÍLIA no que couber, quanto ao atendimento às exigências ambientais constantes do licenciamento, bem como todas as exigências de mitigação (responsabilidade exclusiva da PREFEITURA DE MARÍLIA, por se tratar de área impactada com atividade do antigo lixão) e compensação ambiental ..."
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Alocação ambígua do passivo ambiental da área do antigo lixão: o TR declara a mitigação 'responsabilidade exclusiva da Prefeitura', mas o Anexo II.5 impõe à concessionária o monitoramento de águas subterrâneas e gases da área contaminada, sem delimitação de baseline entre passivo preexistente e nova atividade"
+    dispositivo_legal: "Lei Estadual n.º 13.577/2009 (SP); art. 6.º, inciso XXIII, alínea 'e', da Lei n.º 14.133/2021; art. 5.º, inciso III, da Lei n.º 11.079/2004 (repartição objetiva de riscos)"
+    relacao_outros_documentos: "Anexo II.5 (programa de monitoramento em poços 'existentes no interior do aterro sanitário'); Matriz de Riscos do Contrato (E3)"
+    flag_tecnico: true
+    flag_reserva: false
+
+  - id: E2.termo-referencia-019
+    documento_fonte: "Anexo II (Termo de Referência)"
+    dispositivo_editalicio: "Item 4 (objeto), item 9.3 e item 10.27 do TR"
+    transcricao: "Os serviços compreendem o recebimento dos resíduos sólidos domiciliares na área de transbordo, segregação mecânica e trituração ... Os rejeitos gerados ... deverão ser disponibilizados pela CONCESSIONÁRIA em local apropriado para carregamento, permanecendo o transporte e a disposição final sob responsabilidade exclusiva da Administração Municipal ... Os rejeitos não aproveitados ... destinados ao aterro sanitário licenciado, aproveitando-se os contratos celebrado com a PREFEITURA DE MARÍLIA."
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    descricao_breve: "Cadeia de responsabilidades da coleta à destinação final definida de forma incompleta: não se define a localização/operação da 'área de transbordo', quem transporta da coleta à planta, a interface com a coleta seletiva municipal (o Anexo II.3 supõe FORSU 'de coleta seletiva'), nem a responsabilidade por cinzas classe II (não cobertas pelo contrato municipal de aterro sanitário) — descumprimento parcial da determinação 5 do TCE-SP"
+    dispositivo_legal: "TC-001718.989.19-7, TCE-SP, Pleno, 13/03/2019 (determinação 5); art. 6.º, inciso XXIII, alínea 'a', da Lei n.º 14.133/2021"
+    relacao_outros_documentos: "Anexo II.3, Etapa 2 item 1 e Etapa 3 item 4; verificar Caderno I (E4) quanto ao transbordo"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E2.termo-referencia-020
+    documento_fonte: "Anexo II (Termo de Referência)"
+    dispositivo_editalicio: "Seção 13, item 1, e Seção 21 do TR"
+    transcricao: "Em até 30 (trinta) dias após a adjudicação da licitação, a licitante vencedora deverá apresentar ... os planos de trabalho ... Gaseificação/Pirólise: até 30 (trinta) meses contados da emissão da Licença de Instalação; Biodigestão: até 16 (dezesseis) meses contados da emissão da Licença de Instalação."
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    descricao_breve: "Cronograma sem prazo-limite para obtenção das licenças ambientais (marcos contados apenas da LI, cuja data é indeterminada), sem data-limite de início da operação, sem prazo para a rota 'solução alternativa', e com plano de trabalho exigido 30 dias após a adjudicação — antes da assinatura do contrato e da constituição da SPE"
+    dispositivo_legal: "art. 6.º, inciso XXIII, alíneas 'a' e 'e', e art. 25 da Lei n.º 14.133/2021; art. 5.º, inciso I, da Lei n.º 11.079/2004"
+    relacao_outros_documentos: "Cotejar com cronograma da minuta do contrato (E3) e do Caderno I (E4)"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E2.termo-referencia-021
+    documento_fonte: "Anexo II (Termo de Referência)"
+    dispositivo_editalicio: "Seção 2 e item 10.19 do TR"
+    transcricao: "Plano Municipal de Gestão Integrada de Resíduos Sólidos Lei 9.278, de 26 de junho de 2025 [...] com previsão de ampliação para atender a demanda do município estimada no Plano Municipal de Gestão Integrada de Resíduos Sólidos revisado e aprovado pela Lei 9.278/2025."
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: omissao
+    fato_faltante: "Texto do PMGIRS de Marília (Lei municipal 9.278/2025) — necessário para verificar se o plano contempla as rotas de gaseificação/pirólise e biodigestão e as metas assumidas no TR; o plano não integra os documentos disponibilizados"
+    descricao_breve: "TR declara alinhamento integral ao PMGIRS, mas o plano não é disponibilizado com o edital e sua compatibilidade com a rota tecnológica não é demonstrada (Anexo II.6 ainda cita 'Lei 9.278/2021', diploma diverso)"
+    dispositivo_legal: "art. 19 da Lei n.º 12.305/2010; art. 10, inciso I, da Lei n.º 11.079/2004"
+    relacao_outros_documentos: "Anexo II.6 (caput — 'Lei 9.278/2021'); CLAUDE.md do projeto: PMGIRS '[não levantado]'"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E2.termo-referencia-022
+    documento_fonte: "Anexo II (Termo de Referência)"
+    dispositivo_editalicio: "Item 4 do TR (penúltimo parágrafo)"
+    transcricao: "Serão inabilitadas as propostas que não contemplem tecnologias de valorização dos resíduos, com recuperação material e/ou energética ..."
+    tipo_achado: IRREGULAR
+    categoria: erro_material
+    descricao_breve: "Confusão entre habilitação e julgamento: prevê 'inabilitação de propostas' (o instituto correto é a desclassificação da proposta; inabilitação recai sobre a licitante), gerando ambiguidade sobre fase, efeitos e regime recursal aplicável"
+    dispositivo_legal: "arts. 59 e 62 a 70 da Lei n.º 14.133/2021"
+    relacao_outros_documentos: "Cotejar com as regras de procedimento do edital principal (E1)"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E2.termo-referencia-023
+    documento_fonte: "Anexo II (Termo de Referência)"
+    dispositivo_editalicio: "Seção 5 do TR (SPE)"
+    transcricao: "A LICITANTE VENCEDORA deverá constituir, previamente à assinatura do CONTRATO, uma Sociedade de Propósito Específico – SPE ... nos termos do artigo 9º da Lei Federal nº 11.079/2004."
+    tipo_achado: CONFORME
+    descricao_breve: "Exigência de constituição de SPE previamente à assinatura do contrato, com objeto exclusivo e controle de transferência societária — conforme"
+    dispositivo_legal: "art. 9.º da Lei n.º 11.079/2004"
+    relacao_outros_documentos: "Verificar coerência com regras de consórcio do edital (E1) — padrão Marília ponto 23"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E2.termo-referencia-024
+    documento_fonte: "Anexo II (Termo de Referência)"
+    dispositivo_editalicio: "Item 4.8 do TR"
+    transcricao: "O prazo de vigência do CONTRATO ... será de 30 (trinta) anos ... poderá o prazo de vigência ser prorrogado ... até o limite máximo de 35 (trinta e cinco) anos, incluídas as prorrogações"
+    tipo_achado: CONFORME
+    descricao_breve: "Prazo de 30 anos com prorrogação limitada a 35 anos, dentro da baliza legal das PPPs — conforme"
+    dispositivo_legal: "art. 5.º, inciso I, da Lei n.º 11.079/2004"
+    relacao_outros_documentos: "Verificar coerência do prazo na minuta do contrato (E3)"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E2.termo-referencia-025
+    documento_fonte: "Anexo II (Termo de Referência)"
+    dispositivo_editalicio: "Item 4.4, subitens 4.2.1 e 4.2.2, alínea 'e', do TR"
+    transcricao: "A GARANTIA DE EXECUÇÃO CONTRATUAL poderá ser prestada em qualquer das modalidades previstas no artigo 96 da Lei Federal nº 14.133/2021: I – Caução em dinheiro ou títulos da dívida pública ...; II – Seguro-garantia ...; III – Fiança bancária ..."
+    tipo_achado: CONFORME
+    descricao_breve: "Modalidades de garantia de proposta e de execução limitadas às previstas em lei (caução, seguro-garantia, fiança bancária), sem títulos atípicos — conforme"
+    dispositivo_legal: "arts. 58 e 96 da Lei n.º 14.133/2021"
+    relacao_outros_documentos: "Cotejar com o edital principal (E1)"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E2.termo-referencia-026
+    documento_fonte: "Anexo II (Termo de Referência)"
+    dispositivo_editalicio: "Seção 7 do TR (Subcontratação)"
+    transcricao: "A subcontratação não poderá ser utilizada para transferir integralmente a execução do objeto ... É vedada a subcontratação de atividades cuja execução exija capacidade técnica específica utilizada para fins de comprovação da qualificação técnica ..."
+    tipo_achado: CONFORME
+    descricao_breve: "Disciplina da subcontratação com vedação de transferência integral do objeto e de subcontratação das parcelas que fundamentaram a qualificação técnica — conforme"
+    dispositivo_legal: "art. 25 da Lei n.º 8.987/1995; art. 122, caput e § 1.º, da Lei n.º 14.133/2021"
+    relacao_outros_documentos: "Verificar reprodução na minuta do contrato (E3)"
+    flag_tecnico: false
+    flag_reserva: false
+
+manifesto_cobertura:
+  documento: "CADERNO III - ANEXO II - TERMO DE REFERÊNCIA.pdf (49 p.)"
+  fonte_texto: "docs/extraido/CADERNO III - ANEXO II - TERMO DE REFERÊNCIA.txt (2.733 linhas) — leitura integral"
+  secoes_percorridas:
+    - "1. Introdução; 2. Justificativa; 3. Concessão Administrativa; 4. Objeto (4.1–4.8: valor de referência, formação do preço, remuneração, garantias, modo de disputa, julgamento, desempate, vigência)"
+    - "5. SPE; 6. Reajuste/Revisões/Reequilíbrio; 7. Subcontratação; 8. Habilitação (8.1–8.5)"
+    - "9. Especificação dos serviços e KPIs (9.1–9.5); 10. Rotas tecnológicas (10.1–10.27); 11. Instalações; 12. Pessoal; 13. Planejamento; 14. Operação; 15. Veículos/equipamentos"
+    - "16. Fiscalização e gestão; 17. Receitas; 18. Medições e pagamentos; 19. Compensação de receitas acessórias; 20. Educação ambiental; 21. Cronograma"
+  trechos_ilegiveis: "Nenhum — PDF com camada de texto íntegra; sem tabelas complexas neste documento"
+  observacoes: "Numeração interna do documento descasada (registrada como achado E2.termo-referencia-017); citações de páginas conforme rodapé do PDF"

@@ -1,0 +1,68 @@
+# FASE1 — Extrator E3 | Projeto: marilia-ppp020-2025 | CP 020/2025 — Prefeitura de Marília/SP
+# Documento: CADERNO III - ANEXO III.1 - LISTA DE BENS REVERSÍVEIS (5 p.)
+# Prazos (fase1-triagem.yaml): esclarecimento 11/09/2026 | impugnação 11/09/2026 | 19 dias úteis em 16/08
+# Gerado em: 2026-08-16
+
+extrator: E3
+documento: "Anexo III.1 — Lista de Bens Reversíveis (Caderno III — Modelagem Jurídica)"
+
+pontos:
+
+  - id: E3.bens-reversiveis-001
+    documento_fonte: "Anexo III.1 (Lista de Bens Reversíveis)"
+    dispositivo_editalicio: "Itens 1, 2 a 5 e 10 do Anexo III.1"
+    transcricao: "A reversibilidade dos bens observará a estrutura dos LOTES prevista no EDITAL, sendo atribuída à respectiva CONCESSIONÁRIA responsável. [...] A titularidade dos bens será vinculada ao respectivo LOTE; Não haverá compartilhamento de bens entre LOTES, salvo previsão contratual [...] 5. BENS REVERSÍVEIS – LOTE 3 (SOLUÇÃO INTEGRADA): Incluem a totalidade dos bens necessários à operação integrada"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Anexo estrutura a reversibilidade por LOTES (1-biodigestão, 2-tratamento térmico, 3-solução integrada) com 'respectiva CONCESSIONÁRIA' por lote e vedação de compartilhamento, enquanto a Minuta do Contrato pressupõe concessionário único e contrato único, sem qualquer menção a lotes — estrutura de lotes indefinida, e o Lote 3 (integrada) sobrepõe integralmente os Lotes 1 e 2"
+    dispositivo_legal: "art. 5.º, caput, da Lei n.º 14.133/2021 (vinculação e coerência do instrumento convocatório); art. 47, § 1.º, da Lei n.º 14.133/2021 (parcelamento justificado)"
+    relacao_outros_documentos: "Minuta do Contrato (Anexo III) não menciona lotes; DRE do Caderno II tem abas LOTE 1/2/3; tema central da matriz de 2026 (pontos 1–4: divisão em lotes indefinida) — E1/E4 verificam a face editalícia"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E3.bens-reversiveis-002
+    documento_fonte: "Anexo III.1 (Lista de Bens Reversíveis)"
+    dispositivo_editalicio: "Itens 1 a 7 do Anexo III.1"
+    transcricao: "Os bens reversíveis compreendem todos os ativos indispensáveis à prestação dos serviços, incluindo, mas não se restringindo a instalações, equipamentos, sistemas e infraestrutura [...] Incluem, quando aplicável: [...]"
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    descricao_breve: "Lista de bens reversíveis genérica, aberta e condicional ('incluindo, mas não se restringindo', 'quando aplicável'), sem individualização, quantitativos ou valores de referência — inviabiliza dimensionar o componente 'valor bens reversíveis' que integra a PROPOSTA COMERCIAL e a remuneração mensal"
+    dispositivo_legal: "art. 23, inciso X, da Lei n.º 8.987/1995, c/c art. 3.º, caput, da Lei n.º 11.079/2004; art. 6.º, inciso XXV, da Lei n.º 14.133/2021 (definição suficiente do objeto)"
+    relacao_outros_documentos: "Anexo IV (proposta com componente 'valor bens reversíveis'); definição de VALOR DE BENS REVERSÍVEIS na Minuta do Contrato"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E3.bens-reversiveis-003
+    documento_fonte: "Anexo III.1 (Lista de Bens Reversíveis)"
+    dispositivo_editalicio: "Item 9 do Anexo III.1 c/c Cláusula 10.1.1 da Minuta do Contrato"
+    transcricao: "Os bens deverão ser revertidos em condições adequadas de uso; Deverão estar livres de ônus; Deverão estar atualizados e operacionais; A lista será atualizada periodicamente."
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    descricao_breve: "Anexo silente quanto ao critério de avaliação e indenização dos bens reversíveis (valor residual contábil, reavaliação ou fluxo de caixa) e quanto ao procedimento de atualização da lista ('periodicamente' no anexo vs. 'anualmente' na minuta) — indefinição que alimenta o risco de dupla remuneração amortização + indenização apontado na minuta"
+    dispositivo_legal: "art. 36 da Lei n.º 8.987/1995; art. 23, inciso X, da Lei n.º 8.987/1995"
+    relacao_outros_documentos: "Minuta do Contrato, definição de VALOR DE BENS REVERSÍVEIS e Cláusulas 10.1.1 e 37.2 (ver E3.minuta-contrato-021)"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E3.bens-reversiveis-004
+    documento_fonte: "Anexo III.1 (Lista de Bens Reversíveis)"
+    dispositivo_editalicio: "Item 6 do Anexo III.1"
+    transcricao: "Serão considerados reversíveis quando: Estiverem vinculados exclusivamente à operação; Previstos contratualmente; Incluem: Pás carregadeiras e retroescavadeiras; Empilhadeiras, bobcat; Equipamentos operacionais internos."
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    descricao_breve: "Critério de reversibilidade dos equipamentos móveis circular ('previstos contratualmente') sem que contrato ou anexo os individualizem — indefinição sobre quais equipamentos móveis revertem ao poder concedente"
+    dispositivo_legal: "art. 23, inciso X, da Lei n.º 8.987/1995"
+    relacao_outros_documentos: "frota e equipamentos especificados no Termo de Referência (E2)"
+    flag_tecnico: false
+    flag_reserva: false
+
+conformes: []
+
+manifesto_cobertura:
+  documento: "CADERNO III - ANEXO III.1 - LISTA DE BENS REVERSÍVEIS.pdf (5 p.)"
+  metodo: "texto integral em docs/extraido (pdftotext -layout), lido na íntegra (253 linhas)"
+  secoes_percorridas:
+    - "Itens 1 a 10 (disposições gerais; bens comuns; lotes 1, 2 e 3; equipamentos móveis; sistemas e documentação; modernizações; regras de reversibilidade; disposições finais)"
+  trechos_ilegiveis: []
+  observacoes:
+    - "Documento em listas simples, sem tabelas — texto plano fiel; sem valores ou quantitativos em todo o anexo"

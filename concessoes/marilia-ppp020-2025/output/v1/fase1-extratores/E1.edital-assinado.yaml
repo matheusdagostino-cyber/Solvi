@@ -1,0 +1,638 @@
+# FASE1 — Extrator E1 — Edital Principal (versão operativa assinada)
+# Projeto: marilia-ppp020-2025 | CP 020/2025 — Prefeitura de Marília/SP
+# Documento: "EDITAL -ASSINADO.pdf" (38 p.), assinado em 22/07/2026
+# Prazos (ficha do projeto): esclarecimento até 11/09/2026 | impugnação até 11/09/2026 | sessão 16/09/2026 | 19 dias úteis restantes em 16/08
+# Gerado em: 2026-08-16
+
+pontos:
+
+  - id: E1.edital-assinado-001
+    documento_fonte: "Edital (versão assinada)"
+    dispositivo_editalicio: "Item 3 do Edital (Do Objeto) c/c definições DRE e LICENÇAS (Capítulo I) e item 17.2.1"
+    transcricao: >-
+      "…E OUTRAS SOLUÇÕES ALTERNATIVAS PELO PERÍODO DE 30 (TRINTA) ANOS …
+      ou receber outra solução alternativa, em conformidade com a legislação aplicável
+      e com a solução tecnológica proposta pelo proponente condizente com o objetivo da
+      valorização de resíduos." | DRE: "…rotas tecnológicas de (01) gaseificação/pirólise
+      e biodigestão, ou (02) gaseificação/pirólise, ou (03) biodigestão e/ou (04) soluções
+      alternativas."
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    descricao_breve: "Objeto indeterminado: rota (04) 'soluções alternativas' aberta à escolha do proponente, sem especificação mínima no edital"
+    dispositivo_legal: "art. 25, caput, da Lei n.º 14.133/2021; art. 18, inciso I, da Lei n.º 8.987/1995 (aplicação subsidiária ex vi art. 3.º da Lei n.º 11.079/2004)"
+    relacao_outros_documentos: "Verificar se TR (Anexo II) e Anexo IV delimitam o que é 'solução alternativa' admissível; ver definição LICENÇAS ('com exceção da rota de incineração')"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E1.edital-assinado-002
+    documento_fonte: "Edital (versão assinada)"
+    dispositivo_editalicio: "Preâmbulo (Critério de Julgamento), item 14.3 e item 17.2.1 do Edital"
+    transcricao: >-
+      "CRITÉRIO DE JULGAMENTO: MENOR PREÇO UNITÁRIO DA TONELADA EM CADA LOTE -
+      (Caderno III – Anexo IV)" | "2.1. A proponente enviará proposta para uma das 4
+      SOLUÇÕES ALTERNATIVAS constante do ANEXO IV DO CADERNO III – MODELAGEM JURÍDICA,
+      as quais constam divididas por Lote, conforme planilha item 8."
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    descricao_breve: "Julgamento 'em cada lote' sem que o edital defina a estrutura de lotes (quantidade, conteúdo, adjudicação por lote ou global)"
+    dispositivo_legal: "art. 25, caput, e art. 47, inciso II e § 1.º, da Lei n.º 14.133/2021"
+    relacao_outros_documentos: "Abas LOTE 1/2/3 do Caderno II – Anexo 1 (DRE.xlsx) e Anexo IV — cruzar com E4; tema central da matriz de 2026 (pontos 1–4)"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E1.edital-assinado-003
+    documento_fonte: "Edital (versão assinada)"
+    dispositivo_editalicio: "Preâmbulo, Aviso de Convocação, itens 14.3, 18.1, 20.e e 22.1 do Edital"
+    transcricao: >-
+      "MENOR PREÇO UNITÁRIO DA TONELADA EM CADA LOTE" | "licitação na modalidade
+      Concorrência Pública, do tipo menor preço" | "as PROPOSTAS DE PREÇO classificadas
+      em ordem decrescente de valor, isto é, a LICITANTE que apresentar o menor valor
+      produto da soma dos itens (a), (b) e (c) da PLANILHA SINTÉTICA … será classificada
+      em primeiro lugar."
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Critério de julgamento grafado de formas distintas e incompatíveis (menor preço/t por lote × menor soma dos itens (a)+(b)+(c); classificação em 'ordem decrescente' com o menor valor em primeiro)"
+    dispositivo_legal: "art. 5.º e art. 33 da Lei n.º 14.133/2021 (julgamento objetivo); art. 12, inciso II, da Lei n.º 11.079/2004"
+    relacao_outros_documentos: "Anexo IV (critérios de julgamento e desempate) — E4 confere a fórmula; padrão Marília ponto 5 (fórmula escrita de formas diferentes)"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E1.edital-assinado-004
+    documento_fonte: "Edital (versão assinada)"
+    dispositivo_editalicio: "Itens 18.1 e 22.1 do Edital c/c definição PLANILHA SINTÉTICA (Capítulo I)"
+    transcricao: >-
+      "menor valor produto da soma dos itens (a), (b) e (c) da PLANILHA SINTÉTICA" |
+      "PLANILHA SINTÉTICA – Planilha para análise consolidada de preço para tratamento
+      de tonelada de resíduos, redução de volume de enterramento proposto, volume de
+      rejeitos, valor bens reversíveis e prazo de implantação da(s) rota(s)
+      tecnológica(s) proposta(s)…"
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    descricao_breve: "Soma de itens de naturezas heterogêneas (preço/t, valor de bens reversíveis e, aparentemente, prazo/volumes) sem fórmula, ponderação ou unidade comum divulgada no corpo do edital"
+    dispositivo_legal: "art. 5.º e art. 33 da Lei n.º 14.133/2021; art. 12, inciso II, da Lei n.º 11.079/2004"
+    relacao_outros_documentos: "Anexo IV — E4 verifica se há fórmula de equivalência entre os itens (a), (b) e (c) e o que integra cada item"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E1.edital-assinado-005
+    documento_fonte: "Edital (versão assinada)"
+    dispositivo_editalicio: "Item 4 (Valor Estimado), item 17.4 e definição VALOR DO ATUAL CONTRATO (Capítulo I)"
+    transcricao: >-
+      "o volume de 5.200 (cinco mil e duzentas) toneladas mensais multiplicado por
+      R$ 114,00 (cento e catorze reais) por tonelada, o qual representa o atual contrato
+      administrativo, totalizando R$ 592.800,00 … mensais, … R$ 7.113.600,00 … por ano,
+      multiplicados por 30 (trinta) anos, resultando em R$ 213.408.000,00…"
+    tipo_achado: IRREGULAR
+    categoria: risco_economico
+    descricao_breve: "Preço máximo derivado integralmente do custo do contrato atual de destinação em aterro (R$ 114/t), sem memória de cálculo própria para objeto com CAPEX de URE — circularidade do parâmetro de vantajosidade"
+    dispositivo_legal: "art. 10, inciso I, alínea 'a', da Lei n.º 11.079/2004; art. 23 da Lei n.º 14.133/2021"
+    relacao_outros_documentos: "Caderno II (modelagem econômico-financeira) — E4 confere compatibilidade entre o teto e o DRE referencial das rotas; padrão 'teto derivado do custo atual de aterro' (Marília pontos 7 e 13)"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E1.edital-assinado-006
+    documento_fonte: "Edital (versão assinada)"
+    dispositivo_editalicio: "Preâmbulo (Valor Total), itens 17.4, 17.4.1, 17.5 e 18.1 do Edital"
+    transcricao: >-
+      "VALOR TOTAL DA CONTRATAÇÃO: R$ 213.408.000,00" | "Será desclassificada a PROPOSTA
+      COMERCIAL, final que apresentar preço superior ao máximo aceito neste EDITAL" |
+      "A PROPOSTA COMERCIAL deverá conter o valor anual e multiplicado por 30 (trinta)
+      anos, que irão compor o preço/tonelada e valor de bens reversíveis…"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Indefinição sobre o alcance do preço máximo: o teto de R$ 213,4 mi corresponde só ao produto 5.200 t × R$ 114, mas a proposta e o julgamento somam também o valor de bens reversíveis — o valor total da contratação fica subdimensionado ou o teto, inaplicável"
+    dispositivo_legal: "art. 23 e art. 25, caput, da Lei n.º 14.133/2021; art. 5.º da Lei n.º 14.133/2021"
+    relacao_outros_documentos: "Anexo IV (composição dos itens (a), (b) e (c) e preços máximos por lote) — E4"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E1.edital-assinado-007
+    documento_fonte: "Edital (versão assinada)"
+    dispositivo_editalicio: "Itens 4.1, 4.2 e 4.6 do Edital c/c definições VALOR DE BENS REVERSÍVEIS e PROPOSTA COMERCIAL"
+    transcricao: >-
+      "O valor de bens reversíveis é justamente o pagamento ao longo do contrato de
+      concessão administrativa … Referido valor remunera os investimentos em bens
+      reversíveis ao longo do tempo, evitando uma grande indenização no final…" |
+      "…todos os bens e equipamentos vinculados à prestação dos serviços … reverterão ao
+      Município, em perfeitas condições de uso e operação, sem qualquer ônus adicional."
+    tipo_achado: IRREGULAR
+    categoria: risco_economico
+    descricao_breve: "Parcela autônoma de 'valor de bens reversíveis' paga pelo erário ao longo dos 30 anos, cumulada com contraprestação por tonelada que ordinariamente já amortiza o CAPEX — risco de dupla remuneração dos mesmos investimentos"
+    dispositivo_legal: "art. 6.º e art. 7.º da Lei n.º 11.079/2004; art. 36 da Lei n.º 8.987/1995"
+    relacao_outros_documentos: "Minuta do Contrato (E3 — amortização/indenização de bens reversíveis) e DRE do Caderno II (E4 — se o CAPEX está remunerado também no preço/t); padrão Marília ponto 6"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E1.edital-assinado-008
+    documento_fonte: "Edital (versão assinada)"
+    dispositivo_editalicio: "Item 4.3 × item 32.1 do Edital e definição DATA DE ASSUNÇÃO DOS SERVIÇOS"
+    transcricao: >-
+      "4.3. O presente contrato … terá vigência de 30 (trinta) anos, contados a partir
+      da Ordem de Início da Operação, incluídos os períodos de implantação, operação e
+      manutenção." | "32.1. A vigência do CONTRATO terá início a partir da DATA DE
+      ASSUNÇÃO DOS SERVIÇOS e terá o prazo de 30 (trinta) anos…" | "DATA DE ASSUNÇÃO DOS
+      SERVIÇOS: … Corresponde ao dia útil seguinte à data de assinatura do CONTRATO e
+      emissão da ORDEM DE SERVIÇO, o que ocorrer por último."
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Marco inicial da vigência de 30 anos fixado de dois modos incompatíveis ('Ordem de Início da Operação' × 'Data de Assunção dos Serviços'), com impacto direto no fluxo de caixa e na amortização"
+    dispositivo_legal: "art. 5.º, inciso I, da Lei n.º 11.079/2004; art. 23, inciso I, da Lei n.º 8.987/1995"
+    relacao_outros_documentos: "Minuta do Contrato (E3) — conferir qual marco a cláusula de prazo adota"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E1.edital-assinado-009
+    documento_fonte: "Edital (versão assinada)"
+    dispositivo_editalicio: "Item 4.4 do Edital"
+    transcricao: >-
+      "poderá o prazo de vigência ser prorrogado uma única vez ou sucessivamente, até o
+      limite máximo de 35 (trinta e cinco) anos, incluídas as prorrogações…"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Regime de prorrogação internamente contraditório ('uma única vez ou sucessivamente')"
+    dispositivo_legal: "art. 5.º, inciso I, da Lei n.º 11.079/2004"
+    relacao_outros_documentos: "Minuta do Contrato (E3) — conferir a cláusula de prorrogação"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E1.edital-assinado-010
+    documento_fonte: "Edital (versão assinada)"
+    dispositivo_editalicio: "Edital como um todo (ausência); preâmbulo e itens 4 e 5 (únicas menções a orçamento)"
+    transcricao: >-
+      "Os recursos necessários à aquisição do objeto ora licitado correrão à conta da
+      seguinte dotação orçamentária: … CATEGORIA ECONÔMICA: 3.3.67.83.00 – Contrato de
+      PPP exceto Subv Econômicas – RECURSOS PRÓPRIOS…"
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: omissao
+    fato_faltante: "Existência, no Processo Administrativo n.º 23.154/2026, dos atos do art. 10 da Lei 11.079/2004: autorização da autoridade competente fundamentada em estudo técnico (inc. I), estimativa de impacto orçamentário-financeiro nos exercícios de vigência (inc. II), declaração do ordenador de despesas de compatibilidade com LDO e previsão na LOA (inc. III) e previsão do objeto no PPA (inc. V)"
+    descricao_breve: "Edital não demonstra nem referencia as condições prévias do art. 10 da Lei 11.079/2004 (autorização fundamentada, impacto orçamentário, declaração do ordenador, PPA)"
+    dispositivo_legal: "art. 10, incisos I, II, III e V, da Lei n.º 11.079/2004; art. 165, § 1.º, da CF/1988; arts. 15 a 17 da LC n.º 101/2000"
+    relacao_outros_documentos: "Caderno III – Modelagem Jurídica (E4) pode documentar parte dessas condições; ficha do projeto registra PPA/LDO/LOA '[não levantado]'"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E1.edital-assinado-011
+    documento_fonte: "Edital (versão assinada)"
+    dispositivo_editalicio: "Edital como um todo (ausência)"
+    transcricao: "Não há no edital qualquer menção ao limite de despesas com PPPs sobre a Receita Corrente Líquida do Município."
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: omissao
+    fato_faltante: "RCL do Município de Marília e despesa anual consolidada com contratos de PPP (a contraprestação anual de R$ 7,11 mi deve ser cotejada com o limite de 5% da RCL)"
+    descricao_breve: "Ausência de demonstração do enquadramento no limite de 5% da RCL para despesas com PPPs (condição para garantias e transferências da União)"
+    dispositivo_legal: "art. 28 da Lei n.º 11.079/2004"
+    relacao_outros_documentos: "Caderno II (E4) — verificar se a modelagem traz o cotejo com a RCL"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E1.edital-assinado-012
+    documento_fonte: "Edital (versão assinada)"
+    dispositivo_editalicio: "Item 2.3 do Edital (Da Norma Municipal) — rol que não contempla lei de PPP"
+    transcricao: >-
+      "2.3. DA NORMA MUNICIPAL 1. Lei 9.278/2025 – Revisão do Plano Municipal de Gestão
+      Integrada de Resíduos Sólidos Urbanos de Marília. 2. Demais disposições
+      constitucionais, legais e regulamentares aplicáveis."
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: omissao
+    fato_faltante: "Existência de lei municipal autorizativa/instituidora do programa municipal de PPP de Marília (e, se houver, seus requisitos próprios); nota: a autorização legislativa específica do art. 10, § 3.º, da Lei 11.079/2004 só é exigível para concessão patrocinada com mais de 70% de remuneração pública"
+    descricao_breve: "Edital não refere lei municipal de PPP nem ato autorizativo da outorga — única norma municipal citada é a do PMGIRS"
+    dispositivo_legal: "art. 10, § 3.º, da Lei n.º 11.079/2004 (parâmetro); art. 175, caput, da CF/1988"
+    relacao_outros_documentos: "Caderno III – Modelagem Jurídica (E4) — verificar fundamentação da outorga; ficha do projeto registra lei autorizativa '[não levantado]'"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E1.edital-assinado-013
+    documento_fonte: "Edital (versão assinada)"
+    dispositivo_editalicio: "Item 31 (segundo — Da Regulação e Fiscalização) do Edital e definições FISCALIZAÇÃO e ÓRGÃO FISCALIZADOR"
+    transcricao: >-
+      "1. O CONTRATO será regulado e fiscalizado pelo PODER CONCEDENTE. 2. Caberá ao
+      PODER CONCEDENTE a expedição de regulamentos e normas … d) definir tarifas, quando
+      aplicável…" | "ÓRGÃO FISCALIZADOR: O Poder Concedente atuará como órgão
+      fiscalizador."
+    tipo_achado: IRREGULAR
+    categoria: ilegalidade
+    descricao_breve: "Regulação e fiscalização atribuídas ao próprio Poder Concedente, sem designação de entidade reguladora com independência decisória — condição de validade dos contratos de saneamento/RSU"
+    dispositivo_legal: "arts. 21 e 22 da Lei n.º 11.445/2007 (redação da Lei n.º 14.026/2020); art. 11 da Lei n.º 11.445/2007 (condições de validade dos contratos)"
+    relacao_outros_documentos: "Minuta do Contrato (E3) e Anexo II.6 (E2) — verificar se há entidade reguladora/verificador independente; NR 7/2024 da ANA (atribuições a confirmar no texto oficial)"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E1.edital-assinado-014
+    documento_fonte: "Edital (versão assinada)"
+    dispositivo_editalicio: "Item 41 do Edital (Da Garantia de Pagamento) e definição GARANTIA DE PAGAMENTO"
+    transcricao: >-
+      "…oferecerá GARANTIA DE PAGAMENTO prevista no CONTRATO, através de cessão de
+      recebíveis da Administração da PREFEITURA MUNICIPAL DE MARÍLIA, ou por Fundo
+      Garantidor das Parcerias Público-Privadas – FGP a ser criado e regido por lei
+      municipal específica – Item 4.2.3 do Termo de Referência."
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    descricao_breve: "Garantia pública não constituída: alternativa indefinida entre cessão de recebíveis não especificados e FGP dependente de lei municipal futura — núcleo da bancabilidade da PPP indeterminado na licitação"
+    dispositivo_legal: "art. 8.º, incisos I e V, da Lei n.º 11.079/2004; art. 167, inciso IV, da CF/1988 (limite à vinculação de receitas, conforme os recebíveis cedidos)"
+    relacao_outros_documentos: "TR item 4.2.3 (E2) e Minuta do Contrato (E3) — verificar montante, mecanismo e momento de constituição; padrão recorrente 'garantia pública inexistente' e Marília ponto 19"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E1.edital-assinado-015
+    documento_fonte: "Edital (versão assinada)"
+    dispositivo_editalicio: "Definição GARANTIA DE EXECUÇÃO DO CONTRATO (Capítulo I) e itens 28.2.2 e 29.2 do Edital"
+    transcricao: >-
+      "GARANTIA DE EXECUÇÃO DO CONTRATO: é a garantia anual avos sobre o valor anual
+      contratual a ser mantida pela CONSÓRCIO de forma a garantir o fiel cumprimento do
+      CONTRATO…" | "2. GARANTIA DE EXECUÇÃO DO CONTRATO, conforme item 4.2.2 do Termo de
+      Referência."
+    tipo_achado: IRREGULAR
+    categoria: erro_material
+    descricao_breve: "Definição ininteligível da garantia de execução ('garantia anual avos sobre o valor anual contratual'); percentual e base de cálculo não constam do corpo do edital, apenas de remissões ao TR e ao contrato"
+    dispositivo_legal: "art. 96 e art. 98 da Lei n.º 14.133/2021"
+    relacao_outros_documentos: "TR item 4.2.2 (E2) e Cláusula 22 da Minuta do Contrato (E3) — conferir percentual e coerência entre os três documentos"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E1.edital-assinado-016
+    documento_fonte: "Edital (versão assinada)"
+    dispositivo_editalicio: "Item 29.1 do Edital (Das Garantias — Garantia de Proposta)"
+    transcricao: >-
+      "1. GARANTIA DE PROPOSTA, conforme item 4.2.1 do Termo de Referência. a)
+      Independente da escolha de uma das modalidades de garantias elencadas no §1º, do
+      art. 96, da Lei 141.133/2021, somente será aceita a garantia da proposta que:
+      • esteja efetivamente concretizada até a da data e hora de encerramento para
+      entrega das propostas iniciais…"
+    tipo_achado: IRREGULAR
+    categoria: erro_material
+    descricao_breve: "Garantia de proposta fundada no art. 96, § 1.º (garantias contratuais), e não no art. 58 da Lei 14.133/2021; montante e percentual ausentes do edital (remissão ao TR 4.2.1); grafia 'Lei 141.133/2021'"
+    dispositivo_legal: "art. 58, caput e § 1.º, da Lei n.º 14.133/2021 (limite de 1% do valor estimado)"
+    relacao_outros_documentos: "TR item 4.2.1 (E2) — conferir montante da garantia de proposta contra o limite legal de 1%"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E1.edital-assinado-017
+    documento_fonte: "Edital (versão assinada)"
+    dispositivo_editalicio: "Item 13.1, alínea 'c', do Edital"
+    transcricao: >-
+      "Qualquer documento em língua estrangeira deve ser acompanhado de tradução para a
+      língua portuguesa por tradutor juramentado, sendo que documentos estrangeiros
+      deverão estar devidamente consularizados no Consulado Brasileiro no País de origem
+      dos respectivos documentos;"
+    tipo_achado: IRREGULAR
+    categoria: restricao_competitividade
+    descricao_breve: "Exigência de consularização de documentos estrangeiros sem admitir o apostilamento da Convenção da Apostila da Haia — ônus indevido a licitantes estrangeiras"
+    dispositivo_legal: "Decreto n.º 8.660/2016 (Convenção sobre a Eliminação da Exigência de Legalização de Documentos Públicos Estrangeiros); art. 9.º, inciso I, da Lei n.º 14.133/2021"
+    relacao_outros_documentos: "—"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E1.edital-assinado-018
+    documento_fonte: "Edital (versão assinada)"
+    dispositivo_editalicio: "Item 11.4, subitens 3 e 4, do Edital"
+    transcricao: >-
+      "Ao término da visita, será entregue à LICITANTE … o respectivo Atestado de Visita
+      Técnica às ÁREAS e demais instalações existentes na ÁREA DE CONCESSÃO, a ser
+      emitido em nome da LICITANTE, que deverá ser anexado nos DOCUMENTOS DE
+      HABILITAÇÃO."
+    tipo_achado: IRREGULAR
+    categoria: restricao_competitividade
+    descricao_breve: "Atestado de visita técnica exigido como documento de habilitação, sem previsão de declaração substitutiva do responsável técnico"
+    dispositivo_legal: "art. 63, §§ 2.º e 3.º, da Lei n.º 14.133/2021; Súmula 272 do TCU (enunciado a confirmar no portal antes de citação em peça)"
+    relacao_outros_documentos: "TR itens 8.3–8.5 (E2) — verificar se a exigência é reiterada no rol de habilitação técnica"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E1.edital-assinado-019
+    documento_fonte: "Edital (versão assinada)"
+    dispositivo_editalicio: "Item 11.4, subitem 5, do Edital"
+    transcricao: >-
+      "No caso de LICITANTES reunidas em consórcio, a visita poderá ser realizada por
+      representante de apenas um de seus membros, líder ou não, desde que tal
+      representante apresente o competente Compromisso de Constituição de Consórcio e
+      documento que o credencie a realizar a visita assinado por todos os componentes do
+      CONSÓRCIO…"
+    tipo_achado: IRREGULAR
+    categoria: restricao_competitividade
+    descricao_breve: "Visita técnica de consórcio condicionada à apresentação de Compromisso de Constituição de Consórcio já firmado — antecipa para a fase de visita formalização exigível apenas na habilitação e engessa a composição dos consórcios"
+    dispositivo_legal: "art. 15, inciso I, da Lei n.º 14.133/2021; art. 19 da Lei n.º 8.987/1995"
+    relacao_outros_documentos: "Padrão Marília ponto 24 (exigência antecipada de compromisso de consórcio para visita)"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E1.edital-assinado-020
+    documento_fonte: "Edital (versão assinada)"
+    dispositivo_editalicio: "Itens 16.1 a 16.5 do Edital"
+    transcricao: >-
+      "16.1. DA HABILITAÇÃO JURÍDICA … conforme 8.1 do Termo de Referência. 16.2. DA
+      REGULARIDADE FISCAL E TRABALHISTA … conforme 8.2 … 16.3. DA QUALIFICAÇÃO TÉCNICA …
+      conforme 8.3 … 16.4. DA QUALIFICAÇÃO TÉCNICA OPERACIONAL … conforme 8.4 … 16.5. DA
+      QUALIFICAÇÃO TÉCNICA PROFISSIONAL … conforme 8.5 do Termo de Referência;"
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    descricao_breve: "Rol de habilitação do edital remete integralmente ao TR (itens 8.1–8.5) e não contém item de qualificação econômico-financeira, embora o item 16.2 geral e a definição de DOCUMENTOS DE HABILITAÇÃO a exijam"
+    dispositivo_legal: "art. 62, incisos I a IV, e art. 69 da Lei n.º 14.133/2021"
+    relacao_outros_documentos: "TR item 8 (E2) — verificar se existe subitem de qualificação econômico-financeira (índices, PL mínimo) e reportar exigências restritivas"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E1.edital-assinado-021
+    documento_fonte: "Edital (versão assinada)"
+    dispositivo_editalicio: "Item 27, subitens 3 e 3.1, do Edital"
+    transcricao: >-
+      "3. A SPE deverá ser subsidiária integral da LICITANTE VENCEDORA. 3.1. No caso de
+      a LICITANTE VENCEDORA ser consórcio, a SPE deverá ter como sócias as empresas
+      integrantes da LICITANTE VENCEDORA, com as mesmas participações apresentadas no
+      Compromisso de Constituição de Consórcio."
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Exigência de SPE 'subsidiária integral' (sociedade anônima de acionista único — art. 251 da Lei 6.404/1976) convivendo com SPE de sócias plurais no caso de consórcio — modelos societários incompatíveis"
+    dispositivo_legal: "art. 9.º da Lei n.º 11.079/2004; art. 251 da Lei n.º 6.404/1976"
+    relacao_outros_documentos: "Minuta do Contrato (E3) — conferir cláusula de composição societária da SPE; padrão Marília ponto 23"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E1.edital-assinado-022
+    documento_fonte: "Edital (versão assinada)"
+    dispositivo_editalicio: "Definição CONSÓRCIO (Capítulo I), item 11.3, alínea 'c', e itens 27 e 28.2.1 do Edital"
+    transcricao: >-
+      "CONSÓRCIO: Pessoa jurídica de direito privado a ser constituída pela LICITANTE
+      VENCEDORA … que será a parceira privada…" | "c) Antes da celebração de eventual
+      contrato … será obrigatório promover a constituição e o registro do Instrumento de
+      Constituição do Consórcio ou da SPE, nos termos do compromisso referido no subitem
+      'b', antecedente;" [trecho ilegível na extração, conferido no PDF, p. 16] | "28.2.1.
+      A constituição da SPE, apresentando o respectivo Contrato Social comprobatório."
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Termo 'CONSÓRCIO' definido como a própria SPE/parceira privada e usado simultaneamente para o consórcio de licitantes; item 11.3.c admite constituir 'o Consórcio ou a SPE' antes do contrato, enquanto itens 27 e 28.2.1 exigem SPE — ambiguidade sistêmica sobre quem contrata"
+    dispositivo_legal: "art. 9.º, caput, da Lei n.º 11.079/2004; art. 20 da Lei n.º 8.987/1995"
+    relacao_outros_documentos: "Minuta do Contrato (E3) — verificar como qualifica a contratada; padrão Marília ponto 23 (confusão consórcio-licitante × parceiro privado)"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E1.edital-assinado-023
+    documento_fonte: "Edital (versão assinada)"
+    dispositivo_editalicio: "Itens 7, 8 e 12 do Edital"
+    transcricao: >-
+      "7 … mediante protocolo no sítio eletrônico oficial da PREFEITURA …
+      https://www.marilia.sp.gov.br/central-de-servicos---licitacao" | "8.1 … protocolizar
+      eletronicamente a impugnação endereçada a COMISSÃO ESPECIAL DE CONTRATAÇÃO … no
+      sítio eletrônico: https://www.marilia.sp.gov.br/central-de-servicos---licitacao" |
+      "12 … qualquer protocolo dever obrigatóriamento ser efetivado no Portal de Compras
+      do Governo Federal – https://www.gov.br/compras/pt-br…"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Canal de protocolo contraditório: esclarecimentos e impugnações no portal municipal (itens 7 e 8) × obrigatoriedade de todo protocolo no Compras.gov (item 12); autoridades destinatárias também divergem (Agente de Contratação × Comissão Especial)"
+    dispositivo_legal: "art. 164 da Lei n.º 14.133/2021; art. 5.º da Lei n.º 14.133/2021"
+    relacao_outros_documentos: "Risco operacional direto para o protocolo da impugnação deste projeto — dupla via recomendável enquanto não esclarecido"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E1.edital-assinado-024
+    documento_fonte: "Edital (versão assinada)"
+    dispositivo_editalicio: "Item 7.1 do Edital"
+    transcricao: >-
+      "Até o 5º (quinto) dia anterior ao designado para a data da sessão de abertura do
+      certame, as LICITANTES poderão requerer esclarecimentos ao EDITAL e seus Anexos…"
+    tipo_achado: IRREGULAR
+    categoria: ilegalidade
+    descricao_breve: "Prazo para pedido de esclarecimentos ('até o 5.º dia anterior' à sessão) mais restritivo que o prazo legal de 3 dias úteis antes da abertura, e restrito às 'LICITANTES' quando a lei legitima qualquer pessoa"
+    dispositivo_legal: "art. 164, caput e parágrafo único, da Lei n.º 14.133/2021"
+    relacao_outros_documentos: "A ficha do projeto adota conservadoramente 11/09/2026 como limite de esclarecimento (5.º dia anterior)"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E1.edital-assinado-025
+    documento_fonte: "Edital (versão assinada)"
+    dispositivo_editalicio: "Item 31 (primeiro — Das Metas) × item 46.19 (relação de anexos) do Edital"
+    transcricao: >-
+      "As metas a serem atingidas pela SPE na execução do CONTRATO encontram-se
+      especificadas no Plano Municipal de Gestão Integrada de Resíduos Sólidos – PMGIRS
+      (ANEXO XI) e ANEXO VII – Metas e Obrigações da Concessão Administrativa."
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    descricao_breve: "Metas remetem a 'ANEXO XI' (PMGIRS) e 'ANEXO VII' — anexos inexistentes na relação oficial A-1 a A-18; o PMGIRS (Lei municipal 9.278/2025) não integra o conjunto disponibilizado e o documento de metas é, na verdade, o Anexo II.6"
+    dispositivo_legal: "art. 5.º e art. 25, caput, da Lei n.º 14.133/2021; art. 19 da Lei n.º 12.305/2010"
+    relacao_outros_documentos: "PMGIRS não consta de docs/ (pendência operacional da triagem — omissão de publicidade); Anexo II.6 (E2) é o documento de metas efetivamente publicado"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E1.edital-assinado-026
+    documento_fonte: "Edital (versão assinada)"
+    dispositivo_editalicio: "Item 30.1 do Edital"
+    transcricao: >-
+      "1. O CONTRATO terá como objeto a execução dos SERVIÇOS pela SPE, nos termos do
+      Anexo I deste EDITAL."
+    tipo_achado: IRREGULAR
+    categoria: erro_material
+    descricao_breve: "Objeto do contrato definido por remissão ao 'Anexo I deste EDITAL' — que é a Minuta de Edital, não o TR nem a minuta contratual: remissão errada em cláusula nuclear"
+    dispositivo_legal: "art. 25, caput, da Lei n.º 14.133/2021; art. 92, incisos I e II, da Lei n.º 14.133/2021"
+    relacao_outros_documentos: "O objeto material está no TR (Anexo II) e na Minuta do Contrato (Anexo III) — E2/E3"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E1.edital-assinado-027
+    documento_fonte: "Edital (versão assinada)"
+    dispositivo_editalicio: "Item 44.1 × item 46.9 do Edital"
+    transcricao: >-
+      "44.1 … sendo considerados os dias consecutivos, exceto quando explicitamente
+      disposto em contrário." | "46.9 … Somente serão contados os dias integrais e de
+      expediente na Administração e, desde que não haja disposição diversa procedente do
+      órgão requisitante."
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Regras de contagem de prazos contraditórias no mesmo edital (dias consecutivos × somente dias de expediente), gerando insegurança sobre todos os prazos do certame"
+    dispositivo_legal: "art. 183 da Lei n.º 14.133/2021"
+    relacao_outros_documentos: "Afeta inclusive a fixação do termo final de impugnação/esclarecimento (ver ficha do projeto)"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E1.edital-assinado-028
+    documento_fonte: "Edital (versão assinada)"
+    dispositivo_editalicio: "Item 46.13 do Edital"
+    transcricao: >-
+      "13. Em caso de divergência entre outras disposições e este Edital, prevalecerão
+      as determinações deste edital."
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    descricao_breve: "Ausência de regra de hierarquia/prevalência entre os 18 anexos entre si (a regra só trata de divergência entre 'outras disposições' e o edital), em certame com contradições intersticiais conhecidas"
+    dispositivo_legal: "art. 5.º e art. 25, caput, da Lei n.º 14.133/2021"
+    relacao_outros_documentos: "Consolidador deve cruzar com as contradições apontadas por E2/E3/E4 — a lacuna agrava cada contradição inter-documentos"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E1.edital-assinado-029
+    documento_fonte: "Edital (versão assinada)"
+    dispositivo_editalicio: "Itens 14.6, 18.2, 28.1.1, 29.1.a e numeração dos itens 30–32 do Edital"
+    transcricao: >-
+      "…ou que se enquadrem nas hipóteses do artigo 29 da Lei nº 14.133/2021" (vedações
+      de participação estão no art. 14) | "2. O não atendimento do estabelecido na
+      Subseção I anterior…" (não há 'Subseção I') | "…sob pena de decair de seu direito à
+      contratação … e da aplicação das penalidades previstas no artigo 156, I, da Lei
+      Federal n° 14.133/2021" (inciso I = advertência) | dois itens numerados '31' (Das
+      Metas e Da Regulação e Fiscalização); 'Lei 141.133/2021'; 'Lei Federal n° 11.079/05'.
+    tipo_achado: IRREGULAR
+    categoria: erro_material
+    descricao_breve: "Série de remissões normativas e internas equivocadas (art. 29 por art. 14; art. 156, I para recusa de assinatura; 'Subseção I' inexistente; item '31' duplicado) que comprometem a aplicação segura das regras do certame"
+    dispositivo_legal: "art. 5.º da Lei n.º 14.133/2021 (segurança jurídica e vinculação ao edital); art. 14 e art. 156 da Lei n.º 14.133/2021 (dispositivos corretos)"
+    relacao_outros_documentos: "—"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E1.edital-assinado-030
+    documento_fonte: "Edital (versão assinada)"
+    dispositivo_editalicio: "Item 3, subitem 3, do Edital (receitas alternativas)"
+    transcricao: >-
+      "3. O CONSÓRCIO fará jus à obtenção de receitas alternativas, complementares,
+      acessórias ou de projetos associados, ressalvados os casos previstos no CONTRATO e
+      desde que autorizadas pela PREFEITURA MUNICIPAL DE MARÍLIA."
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: omissao
+    fato_faltante: "Verificar se os Cadernos I e II e o Anexo IV informam a previsão (estimativa quantificada) das receitas acessórias e seu tratamento na proposta — sem isso configura-se descumprimento da determinação 3 do TCE-SP"
+    descricao_breve: "Edital apenas condiciona receitas acessórias a autorização, sem informar sua previsão — ponto objeto de determinação expressa do TCE-SP no certame anterior de mesmo objeto"
+    dispositivo_legal: "TC-001718.989.19-7, TCE-SP, Pleno, 13/03/2019 (determinação 3); art. 11 da Lei n.º 8.987/1995; art. 18, inciso VI, da Lei n.º 8.987/1995"
+    relacao_outros_documentos: "E4 verifica Cadernos I/II e Anexo IV; padrão Rio Claro ponto 9 (receitas acessórias na proposta geram desigualdade)"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E1.edital-assinado-031
+    documento_fonte: "Edital (versão assinada)"
+    dispositivo_editalicio: "Definições DIRETRIZES AMBIENTAIS/LICENÇAS AMBIENTAIS e PLANILHA SINTÉTICA (Capítulo I) e item 34 do Edital"
+    transcricao: >-
+      "…as licenças ambientais expedidas e necessárias (Prévia, Instalação e Operação)
+      e/ou as diretrizes ambientais aplicáveis a obtenção das referidas licenças…" |
+      "…prazo de implantação da(s) rota(s) tecnológica(s) proposta(s) após a obtenção
+      das licenças ambientais prévia e de instalação emitida pelo órgão de controle
+      ambiental estadual." | "34.1. A SPE será responsável pela obtenção de todas as
+      LICENÇAS…"
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    descricao_breve: "Edital não especifica quais licenças ambientais existem e quais faltam ('expedidas e necessárias e/ou diretrizes'); a Planilha Sintética revela que nem a LP foi obtida, e todo o licenciamento é transferido à SPE — ponto objeto de determinação expressa do TCE-SP"
+    dispositivo_legal: "TC-001718.989.19-7, TCE-SP, Pleno, 13/03/2019 (determinação 4); art. 10, inciso VII, da Lei n.º 11.079/2004; arts. 2.º e 8.º da Resolução CONAMA n.º 237/1997"
+    relacao_outros_documentos: "Anexo II.7 – Diretrizes Ambientais (E2) — verificar se as diretrizes suprem o art. 10, VII; Matriz de Riscos (E3) — alocação do risco de licenciamento"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E1.edital-assinado-032
+    documento_fonte: "Edital (versão assinada)"
+    dispositivo_editalicio: "Item 11.4, subitem 7, do Edital"
+    transcricao: >-
+      "Todos os dados referentes às ÁREAS e demais instalações existentes estarão
+      disponíveis para as LICITANTES na sede da PREFEITURA MUNICIPAL DE MARÍLIA, para
+      exame e cópia reprográfica, mediante requerimento e procuração, ou disponibilizados
+      junto ao EDITAL, quando possível seu formato eletrônico."
+    tipo_achado: IRREGULAR
+    categoria: restricao_competitividade
+    descricao_breve: "Acesso aos dados das áreas condicionado a comparecimento presencial 'mediante requerimento e procuração', com disponibilização eletrônica apenas 'quando possível' — publicidade condicionada em certame eletrônico"
+    dispositivo_legal: "art. 5.º e art. 25, § 3.º, da Lei n.º 14.133/2021"
+    relacao_outros_documentos: "Cruzar com determinação 1 do TCE-SP (disponibilizar detalhamento dos custos, estudos e projetos) — verificação principal a cargo do E4 sobre os Cadernos I e II"
+    flag_tecnico: false
+    flag_reserva: false
+
+conformes:
+
+  - id: E1.edital-assinado-C01
+    documento_fonte: "Edital (versão assinada)"
+    dispositivo_editalicio: "Aviso de Convocação (preâmbulo)"
+    transcricao: >-
+      "As cláusulas e condições dispostas neste EDITAL e em seus anexos foram objeto de
+      consulta pública ocorrida entre 23 de outubro de 2025 a 02 de março de 2026 e
+      audiência pública ocorrida em 29 de janeiro de 2026…"
+    tipo_achado: CONFORME
+    descricao_breve: "Consulta e audiência públicas realizadas antes da publicação (art. 10, VI) — checklist verificado; datas e avisos podem ser confirmados no Diário Oficial"
+    dispositivo_legal: "art. 10, inciso VI, da Lei n.º 11.079/2004"
+    relacao_outros_documentos: "Caderno III – Modelagem Jurídica (E4) pode documentar o processamento das contribuições"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E1.edital-assinado-C02
+    documento_fonte: "Edital (versão assinada)"
+    dispositivo_editalicio: "Itens 4.3 a 4.5 do Edital"
+    transcricao: "Prazo de 30 anos, prorrogável até o limite de 35 anos, incluídas as prorrogações."
+    tipo_achado: CONFORME
+    descricao_breve: "Prazo da PPP (30 anos, teto de 35) dentro da faixa legal de 5 a 35 anos; valor do contrato (R$ 213,4 mi) supera o piso legal de R$ 10 mi"
+    dispositivo_legal: "art. 5.º, inciso I, e art. 2.º, § 4.º, inciso I, da Lei n.º 11.079/2004"
+    relacao_outros_documentos: "Ressalva: contradição sobre o marco inicial e o regime de prorrogação registrada nos pontos 008 e 009"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E1.edital-assinado-C03
+    documento_fonte: "Edital (versão assinada)"
+    dispositivo_editalicio: "Preâmbulo e item 14.2 do Edital"
+    transcricao: "Modalidade: Concorrência – Concessão Parceria Público Privada, na forma eletrônica."
+    tipo_achado: CONFORME
+    descricao_breve: "Modalidade concorrência para contratação de concessão administrativa — compatível com a exigência legal"
+    dispositivo_legal: "art. 10, caput, da Lei n.º 11.079/2004; art. 28, inciso II, da Lei n.º 14.133/2021"
+    relacao_outros_documentos: "—"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E1.edital-assinado-C04
+    documento_fonte: "Edital (versão assinada)"
+    dispositivo_editalicio: "Item 8 do Edital"
+    transcricao: >-
+      "Qualquer cidadão é parte legítima para impugnar o EDITAL … em até 3 (três) dias
+      úteis antes da data estipulada para entrega da DOCUMENTAÇÃO, conforme dispõe o
+      artigo 164, da Lei Federal n° 14.133/2021."
+    tipo_achado: CONFORME
+    descricao_breve: "Prazo e legitimidade de impugnação aderentes ao art. 164 (diversamente do prazo de esclarecimentos — ver ponto 024)"
+    dispositivo_legal: "art. 164, caput e parágrafo único, da Lei n.º 14.133/2021"
+    relacao_outros_documentos: "Contradição de canal de protocolo registrada no ponto 023"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E1.edital-assinado-C05
+    documento_fonte: "Edital (versão assinada)"
+    dispositivo_editalicio: "Itens 15.d e 20.g do Edital"
+    transcricao: >-
+      "Verificação da DOCUMENTAÇÃO DE HABILITAÇÃO, apenas da empresa classifciada em
+      primeiro lugar…"
+    tipo_achado: CONFORME
+    descricao_breve: "Inversão de fases (julgamento antes da habilitação, examinada só a primeira classificada) — expressamente admitida para PPPs"
+    dispositivo_legal: "art. 13 da Lei n.º 11.079/2004; art. 17, caput e § 1.º, da Lei n.º 14.133/2021"
+    relacao_outros_documentos: "—"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E1.edital-assinado-C06
+    documento_fonte: "Edital (versão assinada)"
+    dispositivo_editalicio: "Item 28.2.3 do Edital"
+    transcricao: >-
+      "A comprovação do integral ressarcimento da(s) empresa(s) participante(s) do
+      Chamamento Público SMALP nº 001/2017, até o valor global máximo de R$ 1.200.000,00…"
+    tipo_achado: CONFORME
+    descricao_breve: "Ressarcimento dos estudos do PMI pelo vencedor como condição de assinatura — mecanismo admitido em lei; valor e rateio (40/30/30) definidos"
+    dispositivo_legal: "art. 21 da Lei n.º 8.987/1995"
+    relacao_outros_documentos: "E4 pode aferir a razoabilidade do valor frente aos estudos entregues (datados de PMI de 2017, atualização 07/2026)"
+    flag_tecnico: false
+    flag_reserva: false
+
+manifesto_cobertura:
+  documento: "EDITAL -ASSINADO.pdf (38 p.) — texto extraído em docs/extraido/EDITAL -ASSINADO.txt"
+  execucao: "bloco único (documento de 38 p., abaixo do limiar de chunking)"
+  faixas_percorridas:
+    - "pp. 1–3: folha de rosto, identificação do certame (CP 020/2025, valor, critério, modo de disputa)"
+    - "pp. 4–5: aviso de convocação, recurso orçamentário, sessão pública (16/09/2026), agente de contratação, processo administrativo"
+    - "pp. 6–9: Capítulo I — definições (todas lidas)"
+    - "pp. 10–13: legislação aplicável, objeto, valor estimado (itens 4.1–4.6), recursos financeiros"
+    - "pp. 13–14: Capítulo II — disposições iniciais, esclarecimentos, impugnação, alterações"
+    - "pp. 14–18: Capítulo III — custos, condições de participação, consórcio, publicidade, exigências, área/visita técnica"
+    - "pp. 18–21: cadastro/protocolo eletrônico, apresentação da documentação, credenciamento, sessão de abertura"
+    - "pp. 21–24: habilitação (16.1–16.5), proposta comercial (17.1–17.9), abertura e julgamento (18)"
+    - "pp. 24–27: documentação, procedimento, julgamento da habilitação, resultado, homologação, adjudicação, recursos"
+    - "pp. 27–29: constituição da SPE (27), condições para formalização do contrato (28)"
+    - "pp. 29–34: garantias (29), condições gerais do contrato (30–38): metas, regulação, vigência, licenças, área, seguros, bens, penalidades, pagamento, reajuste, garantia de pagamento, subcontratação, riscos"
+    - "pp. 34–36: disposições finais (44–46) e relação de anexos (46.19, A-1 a A-18)"
+    - "pp. 37–38: assinatura e verificação de assinaturas"
+  trechos_ilegiveis:
+    - trecho: "Definição CRITÉRIOS DE DESEMPATE (p. 6)"
+      resolucao: "Conferido no PDF nativo: '…Planilha Sintética e Critérios Julgamento.' — sem divergência de conteúdo"
+    - trecho: "Item 11.3.c (p. 16) — texto desmontado na extração ('ó c d SPE…')"
+      resolucao: "Conferido no PDF nativo: 'será obrigatório promover a constituição e o registro do Instrumento de Constituição do Consórcio ou da SPE, nos termos do compromisso referido no subitem \"b\", antecedente;' — transcrito no ponto 022"
+    - trecho: "Item 46.12 (p. 35) — citação da Lei Municipal 9.184/2024 desmontada"
+      resolucao: "Texto legível na minuta (idêntica): 'Complementando a publicidade obrigatória dos atos oficiais no Portal Nacional de Compras Públicas – PNCP … a publicação também se dará no Diário Oficial do Município de Marília/SP'"
+    - trecho: "Relação de anexos, linha A-7 (p. 36) e A-18 (p. 37)"
+      resolucao: "Legíveis na minuta (idêntica): A-7 = CADERNO III - ANEXO II - TERMO DE REFERÊNCIA; A-18 termina em 'E CRITÉRIOS JULGAMENTO'"
+  conferencia_anexos: >-
+    Relação A-1 a A-18 do item 46.19 confere com os 18 arquivos editalícios recebidos
+    (mais o próprio edital assinado e o DRE.xlsx anexo do Caderno II). Divergência
+    material: o item 31 (Das Metas) referencia 'ANEXO XI' (PMGIRS) e 'ANEXO VII' (Metas
+    e Obrigações), numerações estranhas à relação oficial; o PMGIRS não integra o
+    conjunto disponibilizado — registrado como achado 025 (omissão de publicidade).
+  observacoes:
+    - "Trechos garbled decorrem de fonte estilizada no PDF assinado; todos recuperados no PDF nativo ou na minuta idêntica — nenhuma lacuna de leitura remanescente."
+    - "probabilidade_advogado: campo reservado ao advogado — não preenchido pelo extrator."

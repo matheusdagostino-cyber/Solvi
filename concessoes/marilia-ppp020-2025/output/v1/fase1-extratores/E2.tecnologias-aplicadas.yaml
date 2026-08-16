@@ -1,0 +1,84 @@
+# FASE1 — Extrator E2 | Projeto: marilia-ppp020-2025 | CP 020/2025 — Prefeitura de Marília/SP
+# Documento: CADERNO III - ANEXO II.2 - DAS TECNOLOGIAS APLICADAS (7 p.)
+# Prazos (triagem): esclarecimento e impugnação até 11/09/2026 — 19 dias úteis em 16/08/2026
+# Gerado em: 2026-08-16
+
+pontos:
+  - id: E2.tecnologias-aplicadas-001
+    documento_fonte: "Anexo II.2 (Das Tecnologias Aplicadas)"
+    dispositivo_editalicio: "Item 2, alínea 'f', do Anexo II.2"
+    transcricao: "f) Tecnologias de tratamento térmico, incluindo gaseificação, pirólise, plasma, ou outras tecnologias não mencionadas anteriormente, com exceção da tecnologia de incineração;"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Vedação textual da incineração em contradição com o próprio conjunto editalício: o Anexo II.3 (item 4.4) admite expressamente 'incineração', o Anexo II.4 (item 8.2) lista 'incineração com recuperação energética', e o processo de referência do Anexo II.3 (queima controlada de CDR em caldeira de grelha, 850–1.050°C, residência ≥2s) enquadra-se como incineração pela Resolução CONAMA 316/2002"
+    dispositivo_legal: "art. 5.º da Lei n.º 14.133/2021 (vinculação ao instrumento convocatório); Resolução CONAMA n.º 316/2002"
+    relacao_outros_documentos: "Anexo II.3, itens 4.4 e 11.3 (Etapa 3); Anexo II.4, item 8.2; Anexo II.7, item 18 (aplica a CONAMA 316 ao empreendimento)"
+    flag_tecnico: true
+    flag_reserva: false
+
+  - id: E2.tecnologias-aplicadas-002
+    documento_fonte: "Anexo II.2 (Das Tecnologias Aplicadas)"
+    dispositivo_editalicio: "Seção 3 do Anexo II.2 (itens 3.1 a 3.4)"
+    transcricao: "3.1. LOTE 1 – BIODIGESTÃO (FRAÇÃO ÚMIDA) [...] 3.2. LOTE 2 – TRATAMENTO TÉRMICO (FRAÇÃO SECA) [...] 3.3. LOTE 3 – SOLUÇÃO INTEGRADA [...] 3.4. LOTE 4 – SOLUÇÃO INTEGRADA [seção sem qualquer conteúdo]"
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    descricao_breve: "Única definição de lotes de todo o conjunto E2 é incompleta e incoerente: o Lote 4 tem título idêntico ao Lote 3 ('Solução Integrada') e nenhum conteúdo; não há regras de participação por lote, compatibilização com o objeto único (uma SPE, uma URE) nem justificativa do parcelamento"
+    dispositivo_legal: "art. 40, § 2.º, e art. 25, caput, da Lei n.º 14.133/2021; art. 18, § 1.º, incisos I e VIII, da Lei n.º 14.133/2021"
+    relacao_outros_documentos: "TR itens 4.6/4.7 (julgamento por lote); Anexos II.1, II.3 e II.4 (remissões ao 'LOTE'); abas LOTE 1/2/3 da DRE — sem lote 4 (E4); tema central da matriz de 2026 (pontos 1–4)"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E2.tecnologias-aplicadas-003
+    documento_fonte: "Anexo II.2 (Das Tecnologias Aplicadas)"
+    dispositivo_editalicio: "Item 3.1.2 do Anexo II.2"
+    transcricao: "Requisitos mínimos: Capacidade de processamento compatível com a totalidade dos RSD previstos ao longo da concessão;"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Lote 1 (biodigestão — fração úmida) exige capacidade para a 'totalidade dos RSD', embora a biodigestão trate apenas a fração orgânica (≈45–50% da massa segundo o Anexo II.3) — requisito incoerente com o recorte do próprio lote"
+    dispositivo_legal: "art. 6.º, inciso XXIII, alínea 'a', da Lei n.º 14.133/2021"
+    relacao_outros_documentos: "Anexo II.3 (fração úmida de 90–100 t/dia sobre 200 t/dia recebidas)"
+    flag_tecnico: true
+    flag_reserva: false
+
+  - id: E2.tecnologias-aplicadas-004
+    documento_fonte: "Anexo II.2 (Das Tecnologias Aplicadas)"
+    dispositivo_editalicio: "Itens 2 e 5 do Anexo II.2"
+    transcricao: "As tecnologias deverão ser comprovadamente operacionais e comercialmente testadas, sendo vedada a utilização de soluções em estágio experimental. [...] As tecnologias propostas deverão: possuir comprovação de operação em escala comercial;"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Exigência de operação em escala comercial e vedação a estágio experimental conflita com o TR, que qualifica o sistema como 'inovador no país', e com o Anexo II.3 (item 6), que admite 'soluções inovadoras' — indefinição do padrão de maturidade exigível e potencial restrição contraditória com o objeto"
+    dispositivo_legal: "art. 67, § 1.º, da Lei n.º 14.133/2021; art. 37, inciso XXI, da CF/1988"
+    relacao_outros_documentos: "TR seção 2 ('sistema inovador no país'); Anexo II.3, itens 6 e 10; padrão recorrente 'exigência de experiência em tecnologia inexistente no país'"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E2.tecnologias-aplicadas-005
+    documento_fonte: "Anexo II.2 (Das Tecnologias Aplicadas)"
+    dispositivo_editalicio: "Item 6 (Disposições Finais), n.º 2, do Anexo II.2"
+    transcricao: "Este Anexo integra o Edital e demais documentos da Parceria Público-Privada, prevalecendo suas disposições sobre quaisquer instruções técnicas que conflitem com o objeto licitado."
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Cláusula de prevalência unilateral do Anexo II.2 sobre 'instruções técnicas' conflitantes, sem regra geral de hierarquia entre os documentos do certame — dado que II.2 veda incineração e II.3/II.4 a admitem, a cláusula torna indeterminado qual disposição prevalece"
+    dispositivo_legal: "art. 5.º e art. 25, caput, da Lei n.º 14.133/2021"
+    relacao_outros_documentos: "Verificar regra de hierarquia de documentos no edital principal (E1) e na minuta do contrato (E3)"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E2.tecnologias-aplicadas-006
+    documento_fonte: "Anexo II.2 (Das Tecnologias Aplicadas)"
+    dispositivo_editalicio: "Item 4 (Diretrizes para Licenciamento Ambiental) do Anexo II.2"
+    transcricao: "O licenciamento ambiental do empreendimento deverá observar as diretrizes da CETESB ... em conformidade com o artigo 10, inciso VII, da Lei nº 11.079/2004. [...] Para implantação de Unidades de Produção de CDR, deverá ser observada a regulamentação específica ..."
+    tipo_achado: CONFORME
+    descricao_breve: "Indicação da CETESB como autoridade licenciadora, com remissão à regulamentação específica de unidades de CDR e rol de estudos possíveis — diretrizes de licenciamento presentes, conforme (a suficiência da especificação é tratada no Anexo II.7)"
+    dispositivo_legal: "art. 10, inciso VII, da Lei n.º 11.079/2004; Resolução CONAMA n.º 237/1997"
+    relacao_outros_documentos: "Anexo II.7 (achado E2.diretrizes-ambientais-003 sobre a indefinição do enquadramento)"
+    flag_tecnico: false
+    flag_reserva: false
+
+manifesto_cobertura:
+  documento: "CADERNO III - ANEXO II.2 - DAS TECNOLOGIAS APLICADAS.pdf (7 p.)"
+  fonte_texto: "docs/extraido/ (324 linhas) — leitura integral"
+  secoes_percorridas:
+    - "1. Objeto; 2. Especificação das tecnologias (alíneas a–h); 3. Tecnologias por lote (3.1–3.4); 4. Flexibilidade tecnológica; 5. Maturidade tecnológica; 6. Compatibilidade com o Plano de Trabalho; 7. Conformidade ambiental; 3.(bis) Implementação progressiva; 4.(bis) Licenciamento; 5.(bis) Responsabilidades; 6.(bis) Disposições finais"
+  trechos_ilegiveis: "Nenhum"
+  observacoes: "Numeração de seções duplicada no original (duas sequências '3–6'), registrada aqui como observação por ser reforço do padrão já apontado no TR (achado E2.termo-referencia-017); seção 3.4 (Lote 4) efetivamente vazia no PDF"

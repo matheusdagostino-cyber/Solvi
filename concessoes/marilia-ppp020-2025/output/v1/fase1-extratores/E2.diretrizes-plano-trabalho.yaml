@@ -1,0 +1,60 @@
+# FASE1 — Extrator E2 | Projeto: marilia-ppp020-2025 | CP 020/2025 — Prefeitura de Marília/SP
+# Documento: CADERNO III - ANEXO II.1 – DIRETRIZES PLANO DE TRABALHO (4 p.)
+# Prazos (triagem): esclarecimento e impugnação até 11/09/2026 — 19 dias úteis em 16/08/2026
+# Gerado em: 2026-08-16
+
+pontos:
+  - id: E2.diretrizes-plano-trabalho-001
+    documento_fonte: "Anexo II.1 (Diretrizes Plano de Trabalho)"
+    dispositivo_editalicio: "Item 4 do Anexo II.1 (Disposições Finais)"
+    transcricao: "O Plano de Trabalho deverá: Ser compatível com a solução tecnológica proposta e com o LOTE licitado;"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Remissão ao 'LOTE licitado' sem que o anexo ou o TR definam a estrutura de lotes — a definição existe apenas no Anexo II.2, de forma incompleta (Lote 4 vazio)"
+    dispositivo_legal: "art. 25, caput, e art. 40, § 2.º, da Lei n.º 14.133/2021"
+    relacao_outros_documentos: "Anexo II.2, seção 3 (lotes 1 a 4); TR itens 4.6/4.7 (julgamento por lote)"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E2.diretrizes-plano-trabalho-002
+    documento_fonte: "Anexo II.1 (Diretrizes Plano de Trabalho)"
+    dispositivo_editalicio: "Item 1 do Anexo II.1 (Objetivo)"
+    transcricao: "solução tecnológica proposta para o tratamento de resíduos sólidos domiciliares, incluindo recuperação energética da fração seca (tais como gaseificação, pirólise ou tecnologias equivalentes) e/ou tratamento da fração úmida (biodigestão anaeróbica)."
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Uso de 'e/ou' entre as rotas seca e úmida reforça a indefinição sobre a obrigatoriedade simultânea das duas rotas, em conflito com o TR item 9.2 (URE obrigatória) e com o Anexo II.3 (sistema integrado de 3 etapas)"
+    dispositivo_legal: "art. 6.º, inciso XXIII, alínea 'a', da Lei n.º 14.133/2021"
+    relacao_outros_documentos: "TR itens 2, 4 e 9.2; Anexo II.3, seção 11"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E2.diretrizes-plano-trabalho-003
+    documento_fonte: "Anexo II.1 (Diretrizes Plano de Trabalho)"
+    dispositivo_editalicio: "Item 3.1 do Anexo II.1 (Emissões Atmosféricas)"
+    transcricao: "Estimativa de emissões dos seguintes poluentes: material particulado (MP); SO₂, NOx, CO; hidrocarbonetos (HC e HCNM)."
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    descricao_breve: "Rol de poluentes exigidos no Plano de Trabalho omite parâmetros obrigatórios para tratamento térmico de resíduos segundo a Resolução CONAMA 316/2002 (dioxinas e furanos, HCl, HF, metais pesados — Hg, Cd, Pb etc.), embora a rota térmica integre o objeto"
+    dispositivo_legal: "art. 38 da Resolução CONAMA n.º 316/2002; Decreto Estadual n.º 59.113/2013 (SP)"
+    relacao_outros_documentos: "Anexo II.3 (especificações do tratamento térmico — menciona dioxinas/furanos apenas no desempenho esperado); Anexo II.7 (rol normativo inclui CONAMA 316)"
+    flag_tecnico: true
+    flag_reserva: false
+
+  - id: E2.diretrizes-plano-trabalho-004
+    documento_fonte: "Anexo II.1 (Diretrizes Plano de Trabalho)"
+    dispositivo_editalicio: "Itens 2.3 e 3.4 do Anexo II.1"
+    transcricao: "Destinação ambientalmente adequada do digestato e demais subprodutos. [...] Observar requisitos legais e outros requisitos contidos no ANEXO II.7 – DAS DIRETRIZES AMBIENTAIS BÁSICAS"
+    tipo_achado: CONFORME
+    descricao_breve: "Exigência de fluxogramas, destinação adequada de subprodutos e remissão expressa às diretrizes ambientais do Anexo II.7 — conforme"
+    dispositivo_legal: "art. 9.º, § 1.º, da Lei n.º 12.305/2010; Resolução CONAMA n.º 237/1997"
+    relacao_outros_documentos: "Anexo II.7"
+    flag_tecnico: false
+    flag_reserva: false
+
+manifesto_cobertura:
+  documento: "CADERNO III - ANEXO II.1 – DIRETRIZES PLANO DE TRABALHO.pdf (4 p.)"
+  fonte_texto: "docs/extraido/ (150 linhas) — leitura integral"
+  secoes_percorridas:
+    - "1. Objetivo; 2. Diretrizes técnicas (2.1 recepção, 2.2 armazenamento, 2.3 processo); 3. Diretrizes ambientais (3.1 emissões, 3.2 memória de cálculo, 3.3 ruído, 3.4 conformidade legal); 4. Disposições finais"
+  trechos_ilegiveis: "Nenhum"
+  observacoes: ""

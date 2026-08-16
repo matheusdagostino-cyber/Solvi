@@ -1,0 +1,333 @@
+# FASE1 — Extrator E4 | Documento: CADERNO II - MODELAGEM ECONÔMICO-FINANCEIRA (70 p.)
+# Projeto: marilia-ppp020-2025 | CP 020/2025 — Prefeitura de Marília/SP
+# Prazos (ficha/triagem): sessão 16/09/2026 | esclarecimento 11/09/2026 | impugnação 11/09/2026 | 19 dias úteis restantes em 16/08
+# Gerado em: 2026-08-16
+
+pontos:
+  - id: E4.modelagem-economico-financeira-001
+    documento_fonte: "Caderno II — Modelagem Econômico-Financeira"
+    dispositivo_editalicio: "Itens 2.1 e 2.2 do Caderno II c/c capa (versão 07/2026) e item 17 (Anexo 1)"
+    transcricao: "todos os valores monetários apresentados ao longo do relatório serão apresentados considerando a data base de fevereiro/2025 [...] Fonte: Base no Boletim Focus/BACEN (17/fev/2025) [...] Anexo 1 – DRE – PMI Marília_Modelo Financeiro_20260325.xlsx"
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    descricao_breve: "Data-base monetária e premissas macroeconômicas de fevereiro/2025 (Focus de 17/02/2025) — 19 meses antes da sessão de 16/09/2026, muito além do parâmetro de 6 meses do TCE-SP; a 'versão 07/2026' da capa não atualizou os números (modelo financeiro datado de 03/2026, valores em R$ de fev/2025)"
+    dispositivo_legal: "parâmetro de atualidade de 6 meses adotado pelo TCE-SP para orçamentos de referência; TC-001718.989.19-7, TCE-SP, Pleno, 13/03/2019 (determinação 1 — premissas e referências macroeconômicas); art. 23 da Lei n.º 14.133/2021"
+    relacao_outros_documentos: "Conferir data-base efetiva das abas MacroEco e Premissas do DRE.xlsx"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E4.modelagem-economico-financeira-002
+    documento_fonte: "Caderno II — Modelagem Econômico-Financeira"
+    dispositivo_editalicio: "Itens 13.1.1 e 13.3.1 do Caderno II (premissas de produção) c/c item 11.17.1"
+    transcricao: "Valor de Venda da Energia Elétrica: 682 R$/MWh — Tarifa de venda para a rede [...] Preço da Energia 0,5915 R$/kW [Hip. 1] / Preço da Energia 682,45 R$/MW [Hip. 3] [...] venda de energia elétrica (leilão A-4/A-5)"
+    tipo_achado: IRREGULAR
+    categoria: risco_economico
+    descricao_breve: "Preço de venda de energia elétrica de R$ 682/MWh por 30 anos sem fonte nem memória — o próprio caderno remete a leilões A-4/A-5 como referência de comercialização, sem cotejo com os preços desses leilões; premissa repete o valor do estudo de 2018 já questionado (padrão do certame anterior); linhas auxiliares com unidades erradas e valores conflitantes ('0,5915 R$/kW' na Hip. 1 vs. '682,45 R$/MW' na Hip. 3)"
+    dispositivo_legal: "TC-001718.989.19-7, TCE-SP, Pleno, 13/03/2019 (determinação 1 — detalhamento de premissas); art. 6.º, XXIII, 'i', da Lei n.º 14.133/2021"
+    relacao_outros_documentos: "Conferir preço de energia nas abas Receita CP / DREs do xlsx; jurisprudência e preços de leilão a levantar pelo AN na Fase 2"
+    flag_tecnico: true
+    flag_reserva: false
+
+  - id: E4.modelagem-economico-financeira-003
+    documento_fonte: "Caderno II — Modelagem Econômico-Financeira"
+    dispositivo_editalicio: "Item 8.1 c/c item 12 do Caderno II"
+    transcricao: "foi definida uma contraprestação de R$ 114,00 (cento e quatorze reais) e por tonelada [...] a receita anual garantida com a contraprestação pública é de R$ 7.113.600,00 [...] [item 12:] custo atualmente suportado pelo Município [...] estimado em R$ 592.800,00 mensais, tendo a premissa de 5.200 toneladas mensais x R$ 114,00 por toneladas [...] não se constituindo em valor máximo, mínimo ou vinculante"
+    tipo_achado: IRREGULAR
+    categoria: risco_economico
+    descricao_breve: "Circularidade: a contraprestação de referência da PPP (R$ 114/t) é idêntica ao custo atual de disposição em aterro usado como cenário 'Status Quo' — o parâmetro de vantajosidade é o próprio custo que a PPP deveria superar, e nenhuma economia líquida é demonstrada; ao mesmo tempo o caderno declara que o valor não é teto nem piso, deixando o certame sem valor máximo fundamentado e sem memória de cálculo da contraprestação"
+    dispositivo_legal: "art. 10, I, 'a', da Lei n.º 11.079/2004; art. 6.º, XXIII, 'i', e art. 23 da Lei n.º 14.133/2021; TC-001718.989.19-7, TCE-SP, Pleno, 13/03/2019 (determinação 1)"
+    relacao_outros_documentos: "Cruzar com teto/critério de aceitabilidade de preços do Edital e do Anexo IV; e com a aba VfM do xlsx"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E4.modelagem-economico-financeira-004
+    documento_fonte: "Caderno II — Modelagem Econômico-Financeira"
+    dispositivo_editalicio: "Itens 13.1 a 13.3 do Caderno II (DREs) c/c itens 8.1 e 12"
+    transcricao: "(+) Receita Contraprestação fixa 6.739.200,0 [por ano, Hipóteses 2 e 3] [...] [item 8.1:] contraprestação de R$ 114,00 por tonelada [...] volume anual garantido de 62.400 toneladas [...] receita anual garantida de R$ 7.113.600,00"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Valor unitário implícito nas DREs diverge do declarado: a 'Receita Contraprestação fixa' de R$ 6.739.200/ano sobre 62.400 t corresponde a R$ 108/t, e não aos R$ 114/t (= R$ 7.113.600/ano) afirmados no texto do mesmo caderno — a base da receita principal da modelagem é inconsistente"
+    dispositivo_legal: "art. 6.º, XXIII, 'i', da Lei n.º 14.133/2021; TC-001718.989.19-7, TCE-SP, Pleno, 13/03/2019 (determinação 1)"
+    relacao_outros_documentos: "Conferir valor unitário na aba Receita CP do xlsx e na Planilha Sintética do Anexo IV"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E4.modelagem-economico-financeira-005
+    documento_fonte: "Caderno II — Modelagem Econômico-Financeira"
+    dispositivo_editalicio: "Itens 13.1 a 13.3 do Caderno II (linhas EBIT das DREs; conferidas no PDF nativo, p. 52–57)"
+    transcricao: "OPEX 90.213.924,6 [sinal positivo] (-) Custos com operacionais 89.727.204,6 [...] (=) EBIT [Hip. 2, 2027] 9.444.307,486 [= 19.032.155,7 − 5.527.848,3 − 4.060.000,0, sem dedução do OPEX]"
+    tipo_achado: IRREGULAR
+    categoria: erro_material
+    descricao_breve: "O EBIT das três DREs não deduz os custos operacionais: verifica-se aritmeticamente que EBIT = Receita − Impostos − Depreciação (ex.: Hip. 2/2027: 19.032.155,7 − 5.527.848,3 − 4.060.000,0 = 9.444.307,4, exatamente o EBIT publicado), com o OPEX lançado com sinal positivo e ignorado — o resultado operacional de referência está superestimado em R$ 90 a 333 milhões no horizonte, viciando toda a análise de viabilidade"
+    dispositivo_legal: "art. 6.º, XXIII, 'i', da Lei n.º 14.133/2021; art. 10, I, da Lei n.º 11.079/2004; TC-001718.989.19-7, TCE-SP, Pleno, 13/03/2019 (determinação 1)"
+    relacao_outros_documentos: "Verificar se o mesmo erro consta das abas DRE_URE do xlsx (fórmulas)"
+    flag_tecnico: true
+    flag_reserva: false
+
+  - id: E4.modelagem-economico-financeira-006
+    documento_fonte: "Caderno II — Modelagem Econômico-Financeira"
+    dispositivo_editalicio: "Item 13.3 (bloco 'Controle', conferido no PDF nativo, p. 56) c/c itens 13.1 e 13.2 do Caderno II"
+    transcricao: "WACC 10,00% | VPL 62.373.296,7 MM R$ | TIR projeto 5,70% | Payback 10, anos [somente na Hipótese 3; Hipóteses 1 e 2 não divulgam VPL/TIR/Payback]"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Indicadores de viabilidade matematicamente incompatíveis: TIR de projeto (5,70%) inferior ao WACC (10,00%) implicaria VPL negativo, mas o quadro exibe VPL positivo de R$ 62,4 milhões (com unidade absurda 'MM R$' sobre valor já em reais); os componentes do WACC (Ke, Kd, beta, prêmios) não são divulgados; e as Hipóteses 1 e 2 sequer apresentam VPL/TIR/Payback — assimetria e inconsistência na demonstração de viabilidade"
+    dispositivo_legal: "art. 10, I, 'a', da Lei n.º 11.079/2004; TC-001718.989.19-7, TCE-SP, Pleno, 13/03/2019 (determinação 1)"
+    relacao_outros_documentos: "Conferir bloco de controle e fórmulas na aba correspondente do xlsx (Output 1 - BIO+GAS, DREs por rota)"
+    flag_tecnico: true
+    flag_reserva: false
+
+  - id: E4.modelagem-economico-financeira-007
+    documento_fonte: "Caderno II — Modelagem Econômico-Financeira"
+    dispositivo_editalicio: "Itens 13.1 a 13.3 do Caderno II (cabeçalhos das DREs) c/c item 8.1 e item 11.17"
+    transcricao: "Em termos reais [Hip. 1, com valores crescentes pela inflação] / Em termos nominais [Hip. 2 e 3, com valores constantes por 30 anos] [...] [item 8.1:] Esta receita é indexada a um índice oficial de preços (IPCA)"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Rótulos real × nominal invertidos: a série da Hipótese 1, dita 'em termos reais', cresce pela inflação, enquanto as das Hipóteses 2 e 3, ditas 'em termos nominais', ficam constantes por 30 anos — contradizendo a indexação ao IPCA afirmada nos itens 8.1 e 11.17 e tornando as três hipóteses não comparáveis entre si"
+    dispositivo_legal: "art. 6.º, XXIII, 'i', da Lei n.º 14.133/2021"
+    relacao_outros_documentos: "Conferir tratamento de inflação nas abas MacroEco e DREs do xlsx"
+    flag_tecnico: true
+    flag_reserva: false
+
+  - id: E4.modelagem-economico-financeira-008
+    documento_fonte: "Caderno II — Modelagem Econômico-Financeira"
+    dispositivo_editalicio: "Itens 5 e 13.1 a 13.3 do Caderno II (linhas CAPEX das DREs)"
+    transcricao: "CAPEX -116.512.428,3 [Hip. 1] / -49.820.267,9 [Hip. 2] / -58.927.198,6 [Hip. 3] [...] [item 5:] R$ 101.500.000,00 / R$ 46.500.000,00 / R$ 55.000.000,00"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "CAPEX das DREs diverge em ~7% a 15% dos valores declarados no item 5 do próprio caderno (e no Caderno I), sem memória de conciliação (ex.: solução integrada R$ 116,5 mi na DRE contra R$ 101,5 mi declarados); a depreciação acumulada (R$ 40,6 mi nas Hip. 2/3; R$ 51,4 mi na Hip. 1) é muito inferior ao próprio CAPEX e cessa por volta do 11.º ano"
+    dispositivo_legal: "art. 6.º, XXIII, 'i', da Lei n.º 14.133/2021; TC-001718.989.19-7, TCE-SP, Pleno, 13/03/2019 (determinação 1)"
+    relacao_outros_documentos: "Conferir abas Capex e CAPEX_Input do xlsx; IN RFB 1.700/2017 para taxas de depreciação"
+    flag_tecnico: true
+    flag_reserva: false
+
+  - id: E4.modelagem-economico-financeira-009
+    documento_fonte: "Caderno II — Modelagem Econômico-Financeira"
+    dispositivo_editalicio: "Itens 13.1 a 13.3 do Caderno II c/c item 11.17.3 e Caderno I (item 10)"
+    transcricao: "CAPEX [integral no ano 2025, zerado nos demais 29 anos, nas três DREs] [...] [11.17.3:] Poderá ser constituída uma provisão anual [...] para custear a substituição de equipamentos"
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    descricao_breve: "As DREs de referência não contêm qualquer CAPEX de substituição/reinvestimento ao longo de 30 anos, embora o próprio estudo (Caderno I, item 10) declare vida útil de 5 a 20 anos para os equipamentos críticos e o item 11.17.3 admita a provisão apenas como faculdade ('poderá') — a viabilidade de referência ignora a reposição de ativos que a concessão exige"
+    dispositivo_legal: "art. 6.º, XXIII, 'i', da Lei n.º 14.133/2021; art. 10, I, da Lei n.º 11.079/2004"
+    relacao_outros_documentos: "Cruzar com Plano de Gestão do Ciclo de Vida do Caderno I e obrigações de reinvestimento da minuta de contrato"
+    flag_tecnico: true
+    flag_reserva: false
+
+  - id: E4.modelagem-economico-financeira-010
+    documento_fonte: "Caderno II — Modelagem Econômico-Financeira"
+    dispositivo_editalicio: "Itens 13.2 e 13.3 do Caderno II (DREs das Hipóteses 2 e 3)"
+    transcricao: "(+) Receita CO2 4.252.500,0 e (+) CBIOS 475.380,0 [idênticas na Hip. 2 (biodigestão) e na Hip. 3 (gaseificação/pirólise pura)]; CERs 46.847 tCO₂e/ano [idêntico nas três hipóteses]; Custos de construção -40.600.000,0 [idêntico nas Hip. 2 e 3 apesar de CAPEX distintos]"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Valores idênticos onde deveriam divergir: a Hipótese 3 (rota térmica pura, sem biodigestão/upgrading) replica da Hipótese 2 as receitas de CO₂ (R$ 4,25 mi/ano) e CBIOs (RenovaBio, vinculado a biometano) — receitas fisicamente inexistentes nessa rota; CERs idênticos nas três rotas; depreciação idêntica nas Hip. 2 e 3 apesar de CAPEX diferentes — indício de planilha copiada sem ajuste entre cenários"
+    dispositivo_legal: "art. 6.º, XXIII, 'i', da Lei n.º 14.133/2021; TC-001718.989.19-7, TCE-SP, Pleno, 13/03/2019 (determinações 1 e 3)"
+    relacao_outros_documentos: "Conferir abas DRE_URE MARÍLIA-BIO, -GAS e -BIO+GAS do xlsx"
+    flag_tecnico: true
+    flag_reserva: false
+
+  - id: E4.modelagem-economico-financeira-011
+    documento_fonte: "Caderno II — Modelagem Econômico-Financeira"
+    dispositivo_editalicio: "Itens 13.1.1 e 13.2.1 do Caderno II (premissas de CO₂)"
+    transcricao: "Valor de Venda do CO₂: 3 R$/kg [Hip. 1] / 2,50 R$/kg [Hip. 2] — com Receita CO2 de base idêntica (R$ 4.252.500 = 1.701.000 kg × R$ 2,50) em ambas as DREs"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Preço do CO₂ divergente entre hipóteses para o mesmo produto (R$ 3,00/kg vs. R$ 2,50/kg) e a DRE da Hipótese 1 usa na prática R$ 2,50/kg, contrariando a própria tabela de premissas; o preço de R$ 2.500–3.000 por tonelada de CO₂ não tem fonte de mercado indicada"
+    dispositivo_legal: "TC-001718.989.19-7, TCE-SP, Pleno, 13/03/2019 (determinação 3 — previsão das receitas acessórias); art. 6.º, XXIII, 'i', da Lei n.º 14.133/2021"
+    relacao_outros_documentos: "Conferir aba Receita Acessórias do xlsx"
+    flag_tecnico: true
+    flag_reserva: false
+
+  - id: E4.modelagem-economico-financeira-012
+    documento_fonte: "Caderno II — Modelagem Econômico-Financeira"
+    dispositivo_editalicio: "Itens 13.1.1, 13.2.1 e 13.3.1 do Caderno II (bases operacionais)"
+    transcricao: "Base: 312 dias/ano operacionais [RSU] / Base: 8.400 h/ano (350 dias) [biogás/biometano] / Base: 300 dias/ano [CO₂] / Base: 8.000 h/ano [energia elétrica]"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Quatro bases operacionais distintas e não conciliadas no mesmo conjunto de premissas (312 dias para recebimento de RSU, 350 dias para biogás, 300 dias para CO₂, 8.000 h para energia) — os subprodutos são gerados em regimes incompatíveis entre si e com a entrada de resíduos"
+    dispositivo_legal: "art. 6.º, XXIII, da Lei n.º 14.133/2021; TC-001718.989.19-7, TCE-SP, Pleno, 13/03/2019 (determinação 1)"
+    relacao_outros_documentos: "Cruzar com premissas operacionais da aba OPERACIONAL do xlsx e com 26 dias/mês do Caderno I (26×12 = 312)"
+    flag_tecnico: true
+    flag_reserva: false
+
+  - id: E4.modelagem-economico-financeira-013
+    documento_fonte: "Caderno II — Modelagem Econômico-Financeira"
+    dispositivo_editalicio: "Itens 2.5 e 13 do Caderno II"
+    transcricao: "A geração de RSD cresce de ~201,5 t/dia (2025) para ~261,1 t/dia (2059) [tabela até 2054: 251,5 t/dia] [...] [DREs:] RSU recebido na URE 200 ton/dia / 62.400 ton/ano [constante em toda a projeção, que se estende até 2059]"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Três horizontes e duas demandas conflitantes: o caderno projeta demanda crescente até 261 t/dia (com tabela 2025–2054 e texto até 2059), mas as DREs congelam 200 t/dia por todo o período e se estendem até 2059 (35 anos) para uma concessão de 30 anos — não se define quem trata (nem quem paga) as até 61 t/dia excedentes, e o horizonte da modelagem excede o prazo contratual"
+    dispositivo_legal: "art. 6.º, XXIII, da Lei n.º 14.133/2021; art. 5.º, I, da Lei n.º 11.079/2004 (prazo)"
+    relacao_outros_documentos: "Cruzar com garantia de volume mínimo/máximo do contrato e com a aba OPERACIONAL do xlsx"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E4.modelagem-economico-financeira-014
+    documento_fonte: "Caderno II — Modelagem Econômico-Financeira"
+    dispositivo_editalicio: "Item 2.1 c/c itens 11.12, 11.13, 11.15 e 11.19.3 do Caderno II"
+    transcricao: "Cumpre notar que não foram feitas considerações de alavancagem com recursos de terceiros na modelagem. [...] [11.19.3:] adotou-se uma estrutura de capital referencial de 80% de dívida e 20% de capital próprio"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Contradição estrutural sobre financiamento: o item 2.1 afirma que a modelagem não considera alavancagem, enquanto os itens 11.12–11.19 declaram estrutura referencial de 80% dívida / 20% equity, DSCR, carência e amortização — impossível saber qual premissa sustenta os números de referência"
+    dispositivo_legal: "art. 6.º, XXIII, 'i', da Lei n.º 14.133/2021; TC-001718.989.19-7, TCE-SP, Pleno, 13/03/2019 (determinação 1)"
+    relacao_outros_documentos: "Conferir existência de dívida nas abas do xlsx (Premissas/Apoio)"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E4.modelagem-economico-financeira-015
+    documento_fonte: "Caderno II — Modelagem Econômico-Financeira"
+    dispositivo_editalicio: "Itens 15.1 a 15.8 do Caderno II (Value for Money / PSC)"
+    transcricao: "Componente | PSC – Execução Pública | PPP – Concessão: CAPEX (VPL) Elevado / Otimizado; OPEX (VPL) Elevado / Reduzido; Custo Total Ajustado ao Risco (VPL) Maior / Menor"
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    descricao_breve: "Comparação PSC × PPP puramente qualitativa e adjetivada ('Elevado', 'Otimizado', 'Maior', 'Menor'), sem um único valor de VPL, taxa de desconto, valoração de riscos retidos ou memória de cálculo — a vantajosidade da PPP não é quantitativamente demonstrada no caderno, apesar de o texto anunciar comparação com VPL"
+    dispositivo_legal: "art. 10, I, 'a', da Lei n.º 11.079/2004; TC-001718.989.19-7, TCE-SP, Pleno, 13/03/2019 (determinação 1)"
+    relacao_outros_documentos: "Verificar se a aba VfM do xlsx traz a quantificação omitida no caderno"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E4.modelagem-economico-financeira-016
+    documento_fonte: "Caderno II — Modelagem Econômico-Financeira"
+    dispositivo_editalicio: "Item 15.6 do Caderno II (tabela de sensibilidade)"
+    transcricao: "Volume de resíduos processados -10%: Aumento moderado / Redução moderada / ↓ próximo ao limite [...] [15.6.2:] A modelagem econômico-financeira contemplou análise de sensibilidade abrangente, considerando variações de ±10% e ±20%"
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    descricao_breve: "Análise de sensibilidade sem números: a tabela traz apenas qualificadores verbais e setas para variações de ±10%/±20%, sem impactos quantificados sobre contraprestação, TIR ou DSCR, embora o texto afirme que a análise foi 'abrangente' e com 'avaliação dos impactos'"
+    dispositivo_legal: "TC-001718.989.19-7, TCE-SP, Pleno, 13/03/2019 (determinação 1); art. 6.º, XXIII, 'i', da Lei n.º 14.133/2021"
+    relacao_outros_documentos: "Verificar se o xlsx contém a sensibilidade quantificada"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E4.modelagem-economico-financeira-017
+    documento_fonte: "Caderno II — Modelagem Econômico-Financeira"
+    dispositivo_editalicio: "Item 15.6.1 (gatilhos 1 e 5) c/c itens 11.12 e 11.14 do Caderno II"
+    transcricao: "Gatilho 1 – DSCR: Ocorrência de DSCR inferior a 1,20x por dois exercícios consecutivos [...] Gatilho 5 [...] eventos macroeconômicos excepcionais que impactem diretamente o custo de capital ou a estrutura de financiamento [...] [11.12:] Eventuais variações nas condições de financiamento ou na estrutura de capital adotada não ensejarão, por si só, direito ao reequilíbrio"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Alocação do risco de financiamento contraditória: os itens 11.11–11.14 declaram o risco de financiamento exclusivo da concessionária e insuscetível de reequilíbrio, mas os gatilhos 1 e 5 do item 15.6.1 preveem reequilíbrio por DSCR < 1,20x e por variação do custo de capital — mecanismo que transfere ao erário a proteção da cobertura da dívida do privado"
+    dispositivo_legal: "art. 4.º, VI, e art. 5.º, III, da Lei n.º 11.079/2004 (repartição objetiva de riscos); art. 103, da Lei n.º 14.133/2021"
+    relacao_outros_documentos: "Cruzar com a matriz de riscos (Anexo III.2) e cláusulas de reequilíbrio da minuta de contrato"
+    flag_tecnico: false
+    flag_reserva: true
+
+  - id: E4.modelagem-economico-financeira-018
+    documento_fonte: "Caderno II — Modelagem Econômico-Financeira"
+    dispositivo_editalicio: "Item 9 c/c itens 8.1, 15.6 e 15.7 do Caderno II"
+    transcricao: "Garantia de Fornecimento Mínimo: O poder público se compromete a entregar um volume mínimo e máximo de resíduos [...] Abaixo do mínimo, mecanismos de indenização à concessionária são acionados [...] [15.7:] risco de demanda [...] compartilhado [...] [8.1:] O risco de volume e qualidade do resíduo é geralmente compartilhado ou assumido pela concessionária [...] [15.6:] Volume de resíduos: Risco operacional do privado"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "O risco de demanda/volume recebe quatro tratamentos incompatíveis no mesmo caderno: indenização pública abaixo do mínimo (item 9), risco 'compartilhado' (15.7), 'compartilhado ou assumido pela concessionária' (8.1) e 'risco operacional do privado' (15.6) — sem definição dos volumes mínimo e máximo nem do mecanismo de indenização"
+    dispositivo_legal: "art. 4.º, VI, e art. 5.º, III, da Lei n.º 11.079/2004; art. 103 da Lei n.º 14.133/2021"
+    relacao_outros_documentos: "Cruzar com a matriz de riscos (Anexo III.2) e com o contrato"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E4.modelagem-economico-financeira-019
+    documento_fonte: "Caderno II — Modelagem Econômico-Financeira"
+    dispositivo_editalicio: "Item 8.1 do Caderno II (bullets sobre natureza da contraprestação)"
+    transcricao: "A contraprestação pública possui natureza de remuneração pela disponibilidade [...] não estando automaticamente vinculada aos indicadores de desempenho [...] [três parágrafos depois:] Vinculado ao cumprimento de metas de eficiência (redução de massa destinada a aterro)."
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "O mesmo item 8.1 afirma que a contraprestação NÃO é vinculada aos indicadores de desempenho e, logo adiante, que é 'vinculada ao cumprimento de metas de eficiência' — indefinição sobre o vínculo remuneração × desempenho, que é requisito estrutural de PPP"
+    dispositivo_legal: "art. 6.º, § 1.º, da Lei n.º 11.079/2004 (remuneração variável vinculada ao desempenho); art. 5.º, 'caput', da mesma lei"
+    relacao_outros_documentos: "Cruzar com o mecanismo de pagamento do contrato e com o Anexo II.6 (indicadores)"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E4.modelagem-economico-financeira-020
+    documento_fonte: "Caderno II — Modelagem Econômico-Financeira"
+    dispositivo_editalicio: "Item 12 c/c item 8.1 do Caderno II"
+    transcricao: "[item 12:] composição do valor da proposta a partir dos seguintes elementos: (a) preço unitário por tonelada de resíduos tratados; (b) valor associado aos bens reversíveis; (c) custo de transporte e disposição final dos rejeitos [...] [item 8.1:] estruturada a partir da soma dos seguintes componentes: (i) preço unitário por tonelada; (ii) remuneração dos investimentos em bens reversíveis"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Composição da proposta comercial divergente dentro do próprio caderno: dois componentes no item 8.1 e três no item 12 (o custo de transporte/disposição de rejeitos aparece e desaparece) — e o Caderno I atribui a disposição de rejeitos a 'empresa contratada pela Administração', triplicando a incerteza sobre quem precifica os rejeitos"
+    dispositivo_legal: "art. 6.º, XXIII, da Lei n.º 14.133/2021; art. 11 da Lei n.º 11.079/2004"
+    relacao_outros_documentos: "Cruzar com a composição da Planilha Sintética do Anexo IV (documento deste extrator) e com o TR"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E4.modelagem-economico-financeira-021
+    documento_fonte: "Caderno II — Modelagem Econômico-Financeira"
+    dispositivo_editalicio: "Item 16 do Caderno II (Ressarcimento dos custos dos estudos)"
+    transcricao: "deverão ser ressarcidos pelo ganhador da Licitação no valor de R$ 1.200.000,000 (UM MILHÃO E DUZENTOS MIL REAIS)"
+    tipo_achado: IRREGULAR
+    categoria: erro_material
+    descricao_breve: "Valor do ressarcimento dos estudos grafado com numeral ambíguo ('R$ 1.200.000,000' — três casas decimais, lendo-se 1,2 bilhão ou 1,2 milhão) em cláusula de pagamento obrigatório antes da assinatura do contrato; rateio por caderno (40/30/30) sem memória dos custos efetivos dos estudos"
+    dispositivo_legal: "art. 21 da Lei n.º 8.987/1995; art. 6.º, XXIII, da Lei n.º 14.133/2021"
+    relacao_outros_documentos: "Cruzar com a previsão de ressarcimento no Edital e na minuta de contrato"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E4.modelagem-economico-financeira-022
+    documento_fonte: "Caderno II — Modelagem Econômico-Financeira"
+    dispositivo_editalicio: "Considerações preliminares do Caderno II"
+    transcricao: "CONSIDERANDO que a presente licitação será processada sob o modo de disputa ABERTO, nos termos do artigo 56, inciso II, da Lei nº 14.133/2021 [...] CONSIDERANDO que este Caderno III deve destacar que a modelagem jurídica..."
+    tipo_achado: IRREGULAR
+    categoria: erro_material
+    descricao_breve: "Modo de disputa 'aberto' fundamentado no art. 56, inciso II, da Lei 14.133/2021 — dispositivo que trata do modo de disputa FECHADO (o aberto é o inciso I): fundamentação legal trocada em elemento que define a dinâmica de lances; o considerando seguinte se refere a 'este Caderno III' dentro do Caderno II (cópia sem revisão)"
+    dispositivo_legal: "art. 56, I e II, da Lei n.º 14.133/2021"
+    relacao_outros_documentos: "Cruzar com o modo de disputa definido no Edital e no Anexo IV"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E4.modelagem-economico-financeira-023
+    documento_fonte: "Caderno II — Modelagem Econômico-Financeira"
+    dispositivo_editalicio: "Itens 2.6 e 13.1–13.3 do Caderno II (Receita Reciclável)"
+    transcricao: "[item 2.6:] Metais Vidros 3.154 t/ano [...] [DREs:] (+) Receita Reciclável 4.710,4 [2025] / 5.396,6 [2026, Hip. 1]"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Receita de recicláveis de ~R$ 5 mil/ano para 3.154 t/ano de metais e vidros projetados (≈ R$ 1,50/t) — ordem de grandeza incompatível com a própria projeção de materiais segregados do item 2.6, sem qualquer memória de preço"
+    dispositivo_legal: "TC-001718.989.19-7, TCE-SP, Pleno, 13/03/2019 (determinação 3); art. 6.º, XXIII, 'i', da Lei n.º 14.133/2021"
+    relacao_outros_documentos: "Conferir premissa de preço de recicláveis na aba Receita Acessórias do xlsx"
+    flag_tecnico: true
+    flag_reserva: false
+
+  - id: E4.modelagem-economico-financeira-024
+    documento_fonte: "Caderno II — Modelagem Econômico-Financeira"
+    dispositivo_editalicio: "Itens 13.1 a 13.3 do Caderno II (cronologia das DREs)"
+    transcricao: "CAPEX -116.512.428,3 [integral em 2025] [...] (+) Receita Contraprestação fixa 7.437.015,3 [já em 2026]; Receita Energia Elétrica 12.411.331,5 [já em 2027]"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Cronologia das DREs incompatível com os prazos do próprio estudo: investimento integral no ano 1 (2025 — anterior à própria sessão de setembro/2026) e operação plena com receitas de contraprestação e energia nos anos 2 e 3, quando o Caderno I declara 12–36 meses de licenciamento mais 24–48 meses de implantação conforme a rota"
+    dispositivo_legal: "art. 6.º, XXIII, da Lei n.º 14.133/2021; art. 10, VII, da Lei n.º 11.079/2004"
+    relacao_outros_documentos: "Cruzar com cronograma do Caderno I (item 7) e metas do Anexo II.6"
+    flag_tecnico: true
+    flag_reserva: false
+
+conformes:
+  - id: E4.modelagem-economico-financeira-C01
+    documento_fonte: "Caderno II — Modelagem Econômico-Financeira"
+    dispositivo_editalicio: "Item 2.2 do Caderno II"
+    transcricao: "Projeção dos indicadores macroeconômicos [Selic, IPCA, PIB, 2025–2054] Fonte: Base no Boletim Focus/BACEN (17/fev/2025) [...] cenários base, pessimista e otimista"
+    tipo_achado: CONFORME
+    descricao_breve: "O caderno apresenta tabela de premissas macroeconômicas para 30 anos com fonte identificada (Focus/BACEN) e três cenários — o requisito formal de referências macroeconômicas da determinação 1 existe (sem prejuízo da defasagem apontada no ponto 001)"
+    dispositivo_legal: "TC-001718.989.19-7, TCE-SP, Pleno, 13/03/2019 (determinação 1)"
+    relacao_outros_documentos: "Aba MacroEco do xlsx"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E4.modelagem-economico-financeira-C02
+    documento_fonte: "Caderno II — Modelagem Econômico-Financeira"
+    dispositivo_editalicio: "Itens 10 e 10.1 do Caderno II"
+    transcricao: "cada CONCESSIONÁRIA deverá repassar ao PODER CONCEDENTE o percentual de 1% [...] sobre a receita bruta auferida com receitas acessórias [...] Participação Municipal (PM) = 1% × [Receita Bruta Acessória - Custos Diretos]"
+    tipo_achado: CONFORME
+    descricao_breve: "Existe mecanismo de compartilhamento de receitas acessórias com o poder concedente (1%), com fluxo de apuração trimestral e abatimento na contraprestação — registro de conformidade estrutural; nota-se, porém, oscilação entre base 'receita bruta' (texto) e 'receita bruta menos custos diretos' (fórmula), a apurar na minuta de contrato"
+    dispositivo_legal: "art. 11, II, da Lei n.º 8.987/1995 (receitas alternativas em favor da modicidade)"
+    relacao_outros_documentos: "Cruzar base de cálculo (bruta × líquida) com a minuta de contrato"
+    flag_tecnico: false
+    flag_reserva: false
+
+manifesto_cobertura:
+  documento: "CADERNO II - MODELAGEM ECONÔMICO-FINANCEIRA.pdf (70 p.)"
+  fonte_texto: "docs/extraido/CADERNO II - MODELAGEM ECONÔMICO-FINANCEIRA.txt (4.161 linhas, pdftotext -layout)"
+  blocos_percorridos:
+    - "Bloco 1: capa, considerandos, sumário, caps. 1–6 (premissas, demanda, CAPEX, OPEX) (linhas 1–1200 / p. 1–23)"
+    - "Bloco 2: caps. 7–11.15 (prestação de serviços, receitas, garantias, premissas financeiras) (linhas 1200–2500 / p. 24–44)"
+    - "Bloco 3: caps. 11.16–13.3 (indexação, tributos, viabilidade, DREs das 3 hipóteses) (linhas 2500–3350 / p. 45–56)"
+    - "Bloco 4: caps. 14–17 e termo de encerramento (vantajosidade, VfM/PSC, sensibilidade, ressarcimento) (linhas 3350–4161 / p. 57–70)"
+  tabelas_conferidas_pdf_nativo:
+    - "p. 52–53: DRE Hipótese 1 (waterfall completo 2025–2059) + premissas — confirmado que a Hipótese 1 NÃO possui bloco 'Controle' (VPL/TIR/Payback)"
+    - "p. 54–55: DRE Hipótese 2 + premissas (preço CO₂ 2,50 R$/kg confirmado)"
+    - "p. 56–57: DRE Hipótese 3 + bloco 'Controle' (WACC 10,00%, TIR 5,70%, VPL 62.373.296,7, Payback) + premissas (682 R$/MWh; 682,45 R$/MW)"
+    - "Verificação aritmética das linhas EBIT nas três DREs (EBIT = Receita − Impostos − Depreciação, sem dedução de OPEX) feita sobre os valores do texto extraído e conferida por amostragem no PDF"
+  tabelas_conferidas_texto:
+    - "Tabela macroeconômica 2025–2054; tabela de cenários; projeção anual de RSD 2025–2054; projeção de materiais segregados; tabela PSC×PPP; tabela de sensibilidade; gatilhos de reequilíbrio; tabela de ressarcimento"
+  lacunas: "Miniaturas das DREs no PDF (p. 52, 54, 56, primeira década) têm fonte reduzida; os valores foram lidos primariamente do texto extraído (legível) e conferidos por amostragem nas páginas nativas — sem trechos ilegíveis remanescentes"

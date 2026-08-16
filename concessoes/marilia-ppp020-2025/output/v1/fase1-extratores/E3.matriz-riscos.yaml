@@ -1,0 +1,190 @@
+# FASE1 — Extrator E3 | Projeto: marilia-ppp020-2025 | CP 020/2025 — Prefeitura de Marília/SP
+# Documento: CADERNO III - ANEXO III.2. - MATRIZ DE RISCOS DO CONTRATO (19 p.)
+# Prazos (fase1-triagem.yaml): esclarecimento 11/09/2026 | impugnação 11/09/2026 | 19 dias úteis em 16/08
+# Gerado em: 2026-08-16
+# NOTA DE CONFERÊNCIA: matriz efetivamente PREENCHIDA (alocação + mitigação por fato gerador) —
+# não se confirma o padrão recorrente de anexo publicado em branco. Tabelas I a VI conferidas no
+# PDF nativo (pp. 2, 4, 8, 9, 15, 17) contra o texto plano.
+
+extrator: E3
+documento: "Anexo III.2 — Matriz de Riscos do Contrato (Caderno III — Modelagem Jurídica)"
+
+pontos:
+
+  - id: E3.matriz-riscos-001
+    documento_fonte: "Anexo III.2 (Matriz de Riscos do Contrato)"
+    dispositivo_editalicio: "Item III.1, fato gerador 5 (tabela, p. 8) vs. item III.1, fato gerador 4 (versão narrativa, p. 10) do Anexo III.2"
+    transcricao: "Tabela: '5. Vícios ocultos nos bens vinculados a CONCESSÃO, já existentes ou originados em data anterior à assunção dos serviços — 5. CONCEDENTE [...] CONCEDENTE responde pelos vícios oriundos de fatos anteriores à assunção dos serviços pela CONCESSIONÁRIA.' Narrativa: 'Fato Gerador 4: Vícios ocultos [...] anteriores à assunção dos serviços. Alocação: Concessionária.'"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Vícios ocultos pré-existentes alocados ao CONCEDENTE na tabela e à CONCESSIONÁRIA na versão narrativa do mesmo anexo — a narrativa contradiz também as Cláusulas 23.2 e 45.5 da minuta (concedente responde por fatos anteriores à assunção)"
+    dispositivo_legal: "art. 4.º, inciso VI, e art. 5.º, inciso III, da Lei n.º 11.079/2004 (repartição objetiva de riscos)"
+    relacao_outros_documentos: "Minuta do Contrato, Cláusulas 23.2 e 45.5"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E3.matriz-riscos-002
+    documento_fonte: "Anexo III.2 (Matriz de Riscos do Contrato)"
+    dispositivo_editalicio: "Anexo III.2 — duplicidade tabela × narrativa em todos os blocos (ex.: III.1 com 5 fatos geradores na tabela e 4 na narrativa; III.3, fato gerador 4, 'CONCESSIONÁRIA/CONCEDENTE' na tabela vs. 'Concedente' na narrativa)"
+    transcricao: "Tabela III.3: '4. Dever de atualidade tecnológica — 4. CONCESSIONÁRIA / CONCEDENTE'. Narrativa III.3: 'Fato Gerador 4: Dever de atualidade tecnológica. Alocação: Concedente.'"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Anexo veicula cada bloco de riscos duas vezes (tabela e texto corrido) com renumeração de fatos geradores e alocações divergentes entre as versões — ambiguidade sistêmica sobre qual alocação prevalece"
+    dispositivo_legal: "art. 5.º, inciso III, da Lei n.º 11.079/2004; art. 92, inciso IX, da Lei n.º 14.133/2021 (matriz de riscos clara)"
+    relacao_outros_documentos: ""
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E3.matriz-riscos-003
+    documento_fonte: "Anexo III.2 (Matriz de Riscos do Contrato)"
+    dispositivo_editalicio: "Item III.6 (Demanda) do Anexo III.2"
+    transcricao: "1. Variação da demanda — 1. CONCESSIONÁRIA — 1. Concessionária assume o risco de variação da demanda real verificada nos serviços objeto da CONCESSÃO."
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Risco de demanda alocado integralmente à concessionária, em contradição com a Cláusula 34.2 da minuta (variação superior a ±10% em 12 meses gera revisão extraordinária — risco compartilhado) e com a Cláusula 34.4 (metas de redução de massa compartilhadas)"
+    dispositivo_legal: "art. 4.º, inciso VI, e art. 5.º, inciso III, da Lei n.º 11.079/2004"
+    relacao_outros_documentos: "Minuta do Contrato, Cláusulas 34.1 a 34.4 (ver E3.minuta-contrato-026)"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E3.matriz-riscos-004
+    documento_fonte: "Anexo III.2 (Matriz de Riscos do Contrato)"
+    dispositivo_editalicio: "Itens III.2 (mitigação 1), IV.1 (mitigação 5), IV.2 (mitigação 2), V.2 (mitigação do FG 3), VI.1 (mitigação 3) e item 7 (Observação Final) do Anexo III.2"
+    transcricao: "1. Desempenho é fiscalizado pela Agência Reguladora, por meio da avaliação da qualidade da prestação dos serviços. [...] 5. Fórmula de reajuste, regras de cálculo e periodicidade previamente determinadas no contrato e realizadas pela Agência Reguladora [...] A presente matriz [...] poderá ser revisada e atualizada periodicamente pela Agência Reguladora"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Matriz atribui funções centrais (fiscalização de desempenho, aplicação do reajuste, acompanhamento financeiro, auditorias e revisão da própria matriz) a 'Agência Reguladora' inexistente na modelagem — a minuta atribui regulação e fiscalização ao próprio poder concedente e o reajuste é faturado pelo concessionário sem homologação (Cláusula 19.3)"
+    dispositivo_legal: "art. 21 e art. 11, inciso III, da Lei n.º 11.445/2007; art. 5.º, inciso III, da Lei n.º 11.079/2004"
+    relacao_outros_documentos: "Minuta do Contrato, Cláusulas 12.9, 19.3 e 29 (ver E3.minuta-contrato-004 e 005)"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E3.matriz-riscos-005
+    documento_fonte: "Anexo III.2 (Matriz de Riscos do Contrato)"
+    dispositivo_editalicio: "Item 7 (Observação Final da Matriz de Riscos) do Anexo III.2"
+    transcricao: "A presente matriz, integrante do Edital e do futuro Contrato de Concessão, tem caráter dinâmico e poderá ser revisada e atualizada periodicamente pela Agência Reguladora, de comum acordo entre as partes ou por força de alterações no marco legal e regulatório"
+    tipo_achado: IRREGULAR
+    categoria: risco_economico
+    descricao_breve: "Matriz de riscos declarada 'dinâmica' e revisável periodicamente — instabilidade da repartição objetiva de riscos que fundamenta a equação econômico-financeira e a precificação das propostas"
+    dispositivo_legal: "art. 4.º, inciso VI, e art. 5.º, inciso III, da Lei n.º 11.079/2004; art. 103, § 1.º, da Lei n.º 14.133/2021 (matriz de riscos como parâmetro do equilíbrio)"
+    relacao_outros_documentos: ""
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E3.matriz-riscos-006
+    documento_fonte: "Anexo III.2 (Matriz de Riscos do Contrato)"
+    dispositivo_editalicio: "Item II.1, fato gerador 1, e item II.4, fato gerador 2, do Anexo III.2"
+    transcricao: "1. Erros nos elementos de projeto básico — 1. CONCESSIONÁRIA — 1. Edital apresenta elementos de projeto básico e delega ao Concessionário a responsabilidade pelos projetos executivos. [...] 2. Concessionária assume a responsabilidade pelas variações quantitativas e qualitativas dos unitários decorrentes do projeto básico, sem, portanto, previsão de reequilíbrio econômico na hipótese de erro de estimativa"
+    tipo_achado: IRREGULAR
+    categoria: risco_economico
+    descricao_breve: "Risco de erro nos elementos de projeto básico elaborados pela própria Administração alocado à concessionária, com vedação de reequilíbrio por variação de unitários do projeto básico — transfere ao parceiro privado erro de estudo que ele não produziu e contradiz a mitigação prometida no item I.1 ('divisão razoável dos riscos')"
+    dispositivo_legal: "art. 4.º, inciso VI, e art. 5.º, inciso III, da Lei n.º 11.079/2004; art. 103, caput e § 5.º, da Lei n.º 14.133/2021"
+    relacao_outros_documentos: "elementos de projeto/anteprojeto no Caderno I (E4) e Termo de Referência (E2)"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E3.matriz-riscos-007
+    documento_fonte: "Anexo III.2 (Matriz de Riscos do Contrato)"
+    dispositivo_editalicio: "Item II.4, fato gerador 3, vs. item III.1, fato gerador 1, do Anexo III.2"
+    transcricao: "II.4: '3. Atraso no licenciamento ambiental e na emissão de alvarás [...] — 3. CONCEDENTE / CONCESSIONÁRIA'. III.1: '1. Atraso no licenciamento ambiental e na obtenção de autorizações necessárias — 1. CONCESSIONÁRIA'"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Risco de atraso no licenciamento ambiental alocado de forma divergente entre blocos do próprio anexo (compartilhado em II.4; integral da concessionária em III.1), com critério de imputabilidade descrito apenas na mitigação — indefinição num risco crítico do cronograma (LI é gatilho dos prazos de implantação)"
+    dispositivo_legal: "art. 5.º, inciso III, da Lei n.º 11.079/2004; art. 10, inciso VII, da Lei n.º 11.079/2004"
+    relacao_outros_documentos: "Minuta do Contrato, Cláusulas 15.1, 30.3 e 45.4; Anexo II.7 — Diretrizes Ambientais (E2)"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E3.matriz-riscos-008
+    documento_fonte: "Anexo III.2 (Matriz de Riscos do Contrato)"
+    dispositivo_editalicio: "Item VI.1, fato gerador 3, do Anexo III.2"
+    transcricao: "3. Manipulação dos indicadores de desempenho. — 3. CONCESSIONÁRIA — [narrativa:] Alocação: Concessionária (quando praticada pela Agência Reguladora ou Concedente)."
+    tipo_achado: IRREGULAR
+    categoria: erro_material
+    descricao_breve: "Risco de manipulação dos indicadores de desempenho praticada pelo regulador ou pelo concedente alocado à CONCESSIONÁRIA — alocação logicamente invertida (o risco de conduta do agente público recai sobre a parte privada)"
+    dispositivo_legal: "art. 4.º, inciso VI, e art. 5.º, inciso III, da Lei n.º 11.079/2004"
+    relacao_outros_documentos: "indicadores de desempenho do Anexo II.6 (E2)"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E3.matriz-riscos-009
+    documento_fonte: "Anexo III.2 (Matriz de Riscos do Contrato)"
+    dispositivo_editalicio: "Anexo III.2 — ausência de item específico (verificados blocos I a VI)"
+    transcricao: "[sem previsão no anexo — bloco III.6 trata apenas de 'Variação da demanda']"
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    descricao_breve: "Matriz não aloca o risco de variação da composição gravimétrica e das características dos resíduos (umidade, PCI, fração orgânica), variável determinante da produtividade das rotas de biodigestão e gaseificação/pirólise — apenas a demanda quantitativa é tratada"
+    dispositivo_legal: "art. 5.º, inciso III, da Lei n.º 11.079/2004; TC-001718.989.19-7, TCE-SP, Pleno, 13/03/2019 (determinação 2 — critérios do teor de umidade em cada fase do processo, no que reflete na alocação de riscos)"
+    relacao_outros_documentos: "balanço de massa e gravimetria do Caderno I (E4); Anexo II.3 (E2)"
+    flag_tecnico: true
+    flag_reserva: false
+
+conformes:
+
+  - id: E3.matriz-riscos-010
+    documento_fonte: "Anexo III.2 (Matriz de Riscos do Contrato)"
+    dispositivo_editalicio: "Anexo III.2, blocos I a VI (conjunto)"
+    transcricao: "[matriz com alocação e mitigação preenchidas para riscos de licitação, implantação, operação, ambientais/sociais e institucionais]"
+    tipo_achado: CONFORME
+    descricao_breve: "Matriz de riscos existe e está efetivamente preenchida (alocação e mitigação por fato gerador), conferida no PDF nativo — não se confirma o padrão recorrente de anexo publicado em branco"
+    dispositivo_legal: "art. 5.º, inciso III, da Lei n.º 11.079/2004"
+    relacao_outros_documentos: ""
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E3.matriz-riscos-011
+    documento_fonte: "Anexo III.2 (Matriz de Riscos do Contrato)"
+    dispositivo_editalicio: "Itens VI.3 (fato gerador 1) e II.3 (fato gerador 4) do Anexo III.2"
+    transcricao: "1. Alterações na regulação dos serviços concedidos ou na legislação de modo a afetar a prestação dos serviços. — 1. CONCEDENTE — 1. A alteração na regulação que cause comprovadamente prejuízos à CONCESSIONÁRIA é causa de recomposição do equilíbrio econômico-financeiro do contrato."
+    tipo_achado: CONFORME
+    descricao_breve: "Risco regulatório e legislativo alocado ao concedente com direito a reequilíbrio (inclusive alterações tributárias supervenientes, exceto IR) — não se verifica o padrão de exclusão do risco regulatório do reequilíbrio"
+    dispositivo_legal: "art. 9.º, § 3.º, da Lei n.º 8.987/1995; art. 5.º, inciso III, da Lei n.º 11.079/2004"
+    relacao_outros_documentos: "coerente com a Cláusula 20.2, b–d, da minuta (mas ver contradição com a Cláusula 2.2 — E3.minuta-contrato-007)"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E3.matriz-riscos-012
+    documento_fonte: "Anexo III.2 (Matriz de Riscos do Contrato)"
+    dispositivo_editalicio: "Item IV.1, fatos geradores 1, 6 e 7, do Anexo III.2"
+    transcricao: "1. Variação cambial — 1. CONCESSIONÁRIA [...] 6. Aumento do custo de empréstimos e financiamentos [...] — 6. CONCESSIONÁRIA [...] 7. Taxa de juros aumenta entre o término da licitação e o fechamento do financiamento — 7. CONCESSIONÁRIA"
+    tipo_achado: CONFORME
+    descricao_breve: "Riscos cambial, de custo de financiamento e de taxa de juros alocados expressamente à concessionária — alocação lícita e usual, verificada sem vício (item de checklist)"
+    dispositivo_legal: "art. 5.º, inciso III, da Lei n.º 11.079/2004"
+    relacao_outros_documentos: "premissas de financiamento do Caderno II (E4) — coerência a verificar pelo E4"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E3.matriz-riscos-013
+    documento_fonte: "Anexo III.2 (Matriz de Riscos do Contrato)"
+    dispositivo_editalicio: "Item III.9 do Anexo III.2"
+    transcricao: "1. Concessionária assume os riscos até o limite da cobertura do seguro no valor indicado no Contrato. Eventuais impactos que superarem este valor serão assumidos pelo Poder Concedente sob a cláusula de Caso Fortuito, Força maior ou Fato do Príncipe."
+    tipo_achado: CONFORME
+    descricao_breve: "Caso fortuito, força maior e fato do príncipe alocados ao concedente acima da cobertura securitária, com dever de continuidade do serviço essencial — coerente com as Cláusulas 33 e 34.3 da minuta"
+    dispositivo_legal: "art. 5.º, inciso III, da Lei n.º 11.079/2004"
+    relacao_outros_documentos: "Minuta do Contrato, Cláusulas 33 e 34.3"
+    flag_tecnico: false
+    flag_reserva: false
+
+manifesto_cobertura:
+  documento: "CADERNO III - ANEXO III.2. - MATRIZ DE RISCOS DO CONTRATO.pdf (19 p.)"
+  metodo: "texto integral em docs/extraido (pdftotext -layout, 977 linhas) + conferência das tabelas no PDF nativo"
+  secoes_percorridas:
+    - "Bloco I — Riscos da Licitação (I.1 a I.3): tabela + narrativa"
+    - "Bloco II — Riscos de Implantação (II.1 a II.4, com continuações): tabela + narrativa"
+    - "Bloco III — Riscos de Operação (III.1 a III.9): tabela + narrativa"
+    - "Bloco IV — Riscos na Fase de Operação (IV.1 e IV.2): tabela + narrativa"
+    - "Bloco V — Riscos Ambientais e Sociais (V.1 e V.2): tabela + narrativa"
+    - "Bloco VI — Riscos Institucionais (VI.1 a VI.3): tabela + narrativa"
+    - "Item 7 — Observação Final"
+  tabelas_conferidas_no_pdf_nativo:
+    - "p. 2: tabela I (riscos da licitação) — confere com o texto plano"
+    - "pp. 4 e 6: tabela II (implantação, incl. continuações de II.4) — confere"
+    - "p. 8: tabela III (operação, III.1 a III.9) — alocações conferidas; confirmada a divergência tabela × narrativa em III.1 (vícios ocultos: CONCEDENTE na tabela)"
+    - "p. 9: tabela IV (IV.1 e IV.2) — confere"
+    - "p. 15: tabela V (ambientais e sociais) — confere"
+    - "p. 17: tabela VI (institucionais) — alocações conferidas; confirmado VI.1.3 = CONCESSIONÁRIA na tabela"
+  trechos_ilegiveis: []
+  observacoes:
+    - "Matriz PREENCHIDA — não se confirma o padrão de anexo em branco"
+    - "Erros de digitação sem repercussão ('CONCENDENTE', 'Mutiria pelos usuários', 'RISCOS NATOS DA OPERAÇÃO') descartados como cosméticos"
+    - "Cabeçalhos das páginas indicam 'VERSÃO 07_2026, 21 JULHO 2026' e crédito 'ATUALIZAÇÃO PMI SMALP 001 2017' — origem em PMI de 2017 atualizada"
