@@ -269,7 +269,7 @@ Em concessões, o esclarecimento tem função estratégica adicional: a resposta
 
 > "Considerando que o item [X] do Edital prevê [transcrição], e que o item [Y] do [Caderno/TR/Contrato] dispõe [transcrição contrária], solicita-se esclarecimento sobre qual das disposições prevalece para fins de elaboração da proposta, tendo em vista que [princípio/dispositivo legal] exige [consequência normativa]."
 
-O agente AN, ao sugerir `ESCLARECIMENTO` no roteamento, deve produzir o esboço da pergunta dirigida no campo `nota_roteamento`.
+O agente R, ao marcar `esclarecimento: true`, produz o esboço da pergunta dirigida no campo `esboco_esclarecimento`, seguindo o modelo acima. O esboço é matéria-prima (estrutura e elementos da pergunta); o texto protocolável é redigido pelo advogado na Fase 3. Os esboços são reunidos em seção própria ao final do DOCX Marília ("Esclarecimentos dirigidos — matéria-prima").
 
 ---
 
@@ -283,15 +283,15 @@ Editais de concessão são frequentemente republicados após impugnações, escl
 
 3. **Atenção a retrocessos** — verificar se correções da versão anterior foram revertidas na republicação.
 
-4. **Manter rastreabilidade** — para cada ponto, indicar o dispositivo na versão anterior e na versão nova, com transcrição dos trechos relevantes.
+4. **Manter rastreabilidade** — para cada ponto, preencher `dispositivo_v_anterior`/`dispositivo_v_nova` e as transcrições correspondentes no output (campos definidos no CLAUDE.md raiz).
 
 ---
 
 ## Criando um projeto de concessão
 
 ```bash
-# Exemplo: Concessão de RSU de Rio Claro, Edital 32/2026
-ferramentas/novo_projeto.sh concessao rio-claro-ppp032-2026
+# Exemplo: Concessão de RSU de Rio Claro, Edital 32/2026 (concorrência, concessão comum)
+ferramentas/novo_projeto.sh concessao rio-claro-conc032-2026
 
 # Colocar os documentos do edital em docs/
 # O Claude Code lerá o CLAUDE.md raiz + este arquivo + o CLAUDE.md do projeto
@@ -301,7 +301,7 @@ O script copia `concessoes/_template/`. Convenção de nome e índice dos projet
 
 Estrutura do projeto:
 ```
-concessoes/rio-claro-ppp032-2026/
+concessoes/rio-claro-conc032-2026/
 ├── README.md          # ficha do certame: órgão, objeto, datas, versões, status
 ├── CLAUDE.md          # notas específicas do projeto (ver abaixo)
 ├── docs/
@@ -315,9 +315,16 @@ concessoes/rio-claro-ppp032-2026/
 │   ├── extraido/      # saída de pdftotext/pandoc
 │   └── v2/            # documentos da republicação, quando houver (input do agente CV)
 └── output/
-    ├── fase1-lista-consolidada.yaml
-    ├── fase2-matriz-argumentos.yaml
-    └── [exports .docx]
+    ├── v1/
+    │   ├── fase1-triagem.yaml            # tabela arquivo → extrator + pendências
+    │   ├── fase1-extratores/             # listas parciais por documento (persistência incremental)
+    │   ├── fase1-lista-consolidada.yaml
+    │   ├── fase2-selecao.yaml            # pontos selecionados + direcionamento do advogado
+    │   ├── fase2-matriz-argumentos.yaml
+    │   └── [exports .docx]
+    └── v2/                               # criado na republicação — espelha docs/v2/
+        ├── cv-v1-v2.yaml                 # output do CV
+        └── [exports .docx atualizados]
 ```
 
 O `CLAUDE.md` do projeto individual é opcional e serve para registrar contexto que não está nos documentos: determinações anteriores do TCE sobre o mesmo município/objeto, legislação estadual aplicável, histórico de impugnações em versões anteriores, informações comerciais do grupo sobre atestados disponíveis.

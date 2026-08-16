@@ -54,12 +54,19 @@ concessoes/[projeto]/
 │   ├── extraido/          # saída de pdftotext/pandoc (texto versionado, PDF é o original)
 │   └── v2/                # republicação: nova versão dos documentos, para o agente CV
 └── output/
-    ├── fase1-lista-consolidada.yaml
-    ├── fase2-matriz-argumentos.yaml
-    └── [exports .docx]
+    ├── v1/                # análise da versão original
+    │   ├── fase1-triagem.yaml
+    │   ├── fase1-extratores/
+    │   ├── fase1-lista-consolidada.yaml
+    │   ├── fase2-selecao.yaml
+    │   ├── fase2-matriz-argumentos.yaml
+    │   └── [exports .docx]
+    └── v2/                # criado na republicação
+        ├── cv-v1-v2.yaml
+        └── [exports .docx atualizados]
 ```
 
-`docs/v2/` só é criado quando há republicação. Para uma terceira versão, `docs/v3/`, e assim por diante — a versão original permanece na raiz de `docs/`.
+`docs/v2/` só é criado quando há republicação. Para uma terceira versão, `docs/v3/`, e assim por diante — a versão original permanece na raiz de `docs/`. O `output/` é versionado em espelho (`v1/`, `v2/`...): reanalisar uma republicação **nunca sobrescreve** os YAML da versão anterior, que são o baseline do CV.
 
 ## Índice de projetos
 
