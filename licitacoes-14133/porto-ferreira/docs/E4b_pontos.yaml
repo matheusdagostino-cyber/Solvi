@@ -1,0 +1,195 @@
+# E4b — Extrator: segunda metade do ETP (linhas 4300-8408 de 6f7f6463a1d44293a5c0ebe0032bcf9e.txt)
+# Pregao Eletronico n. 30/2026 (REABERTURA) — Municipio de Porto Ferreira/SP — Processo n. 3.721/2026
+# Constatacao estrutural: todo o trecho analisado e composto por copias integrais de contratos de
+# outros municipios (Itapira/SP, Itapolis/SP, Juquia/SP, Mirandopolis/SP, Santa Cruz das Palmeiras/SP,
+# Xanxere/SC), anexados como suporte da pesquisa de precos. Nao ha, na segunda metade, secoes textuais
+# do ETP (analise de riscos, resultados pretendidos, providencias previas, impactos ambientais,
+# posicionamento conclusivo). A matriz de precos que consome esses contratos esta na primeira metade
+# (linhas 442-467 — campo do extrator E4a).
+
+- id: E4b-001
+  dispositivo_editalicio: "Anexo do ETP (pesquisa de precos) — Contrato n.º 51/2025 do Municipio de Itapolis/SP, Clausula Primeira, itens 3 e 4, cotejado com a matriz de precos do ETP (item 3) e com o Item 3 do TR reaberto"
+  transcricao: "Item 3: 'SERVIÇO DE TRANSBORDO E TRANSPORTE DE RESÍDUOS SÓLIDOS URBANOS [...] ATÉ O ATERRO SANITÁRIO DEVIDAMENTE LICENCIADO — 54.000 TN — R$ 165,95'; Item 4 (apartado): 'SERVIÇO DE DISPOSIÇÃO FINAL DE RESÍDUOS SÓLIDOS URBANOS [...] — 54.000 TN — R$ 153,48'. Na matriz do ETP, o valor de R$ 165,95 compõe a média do item 3 (R$ 249,28/t) ao lado de R$ 262,00 (Mirandopolis) e R$ 319,90 (Juquia), ambos COM destinação final inclusa. O TR reaberto prevê que, operante o transbordo, 'será faturado exclusivamente o Item 3', que inclui a disposição final em aterro de outro município."
+  tipo_achado: IRREGULAR
+  categoria: erro_material
+  descricao_breve: "Média do item 3 (transbordo+transporte+destinação) computa referencial de Itapolis que NÃO inclui destinação final (item apartado de R$ 153,48 no contrato-fonte), misturando escopos heterogêneos e distorcendo o valor estimado"
+  dispositivo_legal: "art. 23, caput e § 1.º, inciso II, da Lei n.º 14.133/2021; art. 18, § 1.º, inciso VI, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4b-002", "E4b-003", "E4b-010"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4b-002
+  dispositivo_editalicio: "Anexo do ETP (pesquisa de precos) — Contrato n.º 37/2025 do Municipio de Juquia/SP (Dispensa de Licitacao n.º 035/2025), preambulo e Clausula Segunda"
+  transcricao: "'em observância às disposições da Lei nº 14.133/2021, artigo 75, inciso VIII, resolvem celebrar o presente Termo de Contrato, decorrente da Dispensa de Licitação nº 035/2025'; 'observando o valor por tonelada de R$ 319,90 [...] e o quantitativo estimado de 280 tonelada por mês' — vigência de 12 meses, vedada prorrogação."
+  tipo_achado: IRREGULAR
+  categoria: risco_economico
+  descricao_breve: "Preço de contratação emergencial (dispensa do art. 75, VIII), de município com 280 t/mês (27% da escala de Porto Ferreira, 1.040 t/mês) e prazo de 12 meses, usado sem qualquer ajuste na média do item 3 do valor estimado"
+  dispositivo_legal: "art. 23, § 1.º, inciso II, da Lei n.º 14.133/2021 (exigência de similaridade das contratações usadas como parâmetro); contrato-fonte fundado no art. 75, inciso VIII, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4b-001", "E4b-009"]
+  flag_tecnico: false
+  flag_reserva: true
+
+- id: E4b-003
+  dispositivo_editalicio: "Anexo do ETP (pesquisa de precos) — Termo de Aditamento do Contrato n.º 93/2024 do Municipio de Mirandopolis/SP, Clausula Segunda, cotejado com os demais referenciais da matriz do ETP"
+  transcricao: "'Fica o Contrato Administrativo nº. 93/2024 reajustado conforme o índice IPCA-IBGE, no percentual de 5,2252%, acumulado de agosto de 2024 a julho de 2025' — R$ 248,99 → R$ 262,00/t (assinatura 15.12.2025). Os referenciais da matriz do ETP reproduzem valores nominais de contratos com datas-base distintas: Itapolis 26/05/2025, Juquia 07/07/2025, Itapira 08/08/2025, Xanxere 10/10/2025, Mirandopolis 12/2025, Santa Cruz das Palmeiras 08/02/2026, sem aplicação de índice de atualização."
+  tipo_achado: IRREGULAR
+  categoria: erro_material
+  descricao_breve: "Cesta de preços mistura datas-base de 05/2025 a 02/2026 sem atualização monetária dos valores nominais para data-base comum, em desacordo com a regra do índice de atualização para contratações similares"
+  dispositivo_legal: "art. 23, § 1.º, inciso II, da Lei n.º 14.133/2021 ('observado o índice de atualização de preços correspondente')"
+  referencias_cruzadas: ["E4b-001"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4b-004
+  dispositivo_editalicio: "Anexos do ETP (pesquisa de precos) — Contrato n.º 21/2026 de Santa Cruz das Palmeiras/SP (item 3) e Contrato n.º 51/2025 de Itapolis/SP (item 4), cotejados com o Item 2 do TR reaberto (disposição final no aterro sanitário municipal, incluída sua operação)"
+  transcricao: "SCP: 'Destinação Final de Resíduos em Aterro Sanitário Licenciado — TONELADA — 6.600,00 — R$ 132,00'; Itapolis: 'SERVIÇO DE DISPOSIÇÃO FINAL [...] EM ATERRO DEVIDAMENTE LICENCIADO — R$ 153,48'. Todos os referenciais do item 2 da matriz (R$ 199,59 / 132,00 / 190,00 / 153,48, média R$ 168,77) são tarifas de porta de aterro de terceiros; nenhum contrato anexado precifica operação, manutenção e monitoramento de aterro municipal como parcela unitária destacada."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: "Item 2 do valor estimado (operação do aterro sanitário municipal + disposição final) lastreado exclusivamente em gate fees de aterros privados de terceiros, estrutura de custos distinta da operação de aterro público (cobertura, chorume, monitoramento, encerramento)"
+  dispositivo_legal: "art. 23, caput e § 1.º, inciso II, da Lei n.º 14.133/2021; art. 18, § 1.º, inciso VI, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4b-005"]
+  flag_tecnico: true
+  flag_reserva: true
+
+- id: E4b-005
+  dispositivo_editalicio: "Anexo do ETP (pesquisa de precos) — Contrato n.º 0248/2025 do Municipio de Xanxere/SC (Dispensa de Licitacao n.º 0045/2025), Clausula Quarta e Anexo I"
+  transcricao: "'Coleta manual, mecanizada, transporte, tratamento e Disposição Final de resíduos sólidos domiciliares e comerciais urbanos, através de operação, manutenção e monitoramento de aterro sanitário — R$ 491.680,63 [mensal]' — 930 t/mês, 6 meses, mais itens de contêineres, galhos/entulhos, RSS e coleta seletiva, todos precificados por valor mensal fixo. Nenhum valor deste contrato aparece nas colunas da matriz de precos do ETP."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: omissao
+  descricao_breve: "Contrato de Xanxere/SC (dispensa emergencial de 6 meses, outro estado, objeto muito mais amplo, precificação mensal agregada não decomponível por tonelada) anexado ao ETP sem utilização demonstrada na composição do valor estimado e sem justificativa de inclusão/descarte"
+  dispositivo_legal: "art. 18, § 1.º, inciso VI, da Lei n.º 14.133/2021 (memórias de cálculo e documentos de suporte da estimativa)"
+  referencias_cruzadas: ["E4b-006"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4b-006
+  dispositivo_editalicio: "Anexo do ETP (pesquisa de precos) — Contrato n.º 0109/2025 do Municipio de Itapira/SP (PE 025/2025), Lote 01, item 01, cotejado com a média do item 1 da matriz do ETP"
+  transcricao: "Itapira, Lote 01, item 01: 'remoção de resíduos — TON — 1.500 [t/mês] — 18.000 [t/ano] — R$ 225,02'. A média do item 1 da matriz (coleta) usa apenas R$ 315,34 / 355,61 / 352,80 / 186,84 (média R$ 302,65); o ETP registra descarte expresso somente do valor de R$ 19.116,00 do item de contêineres ('devidamente descartado [...] por se tratar de um preço que se afastou expressivamente das demais referências')."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: omissao
+  descricao_breve: "Preço de coleta de Itapira (R$ 225,02/t, contrato anexado ao proprio ETP, escala 1.500 t/mês) excluído da média do item 1 sem justificativa expressa — sua inclusão reduziria a média de R$ 302,65 para aproximadamente R$ 287/t"
+  dispositivo_legal: "art. 18, § 1.º, inciso VI, c/c art. 23, § 1.º, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4b-005"]
+  flag_tecnico: false
+  flag_reserva: true
+
+- id: E4b-007
+  dispositivo_editalicio: "Anexo do ETP (pesquisa de precos) — Contrato n.º 21/2026 de Santa Cruz das Palmeiras/SP, Clausula Primeira, itens 1, 4, 5 e 6, cotejado com a média do item 1 da matriz do ETP"
+  transcricao: "'Coleta Manual e Conteinerizada de Resíduos Sólidos Urbanos — 6.600,00 t — R$ 355,61' ao lado de itens apartados: 'Administração Local dos Serviços — UND/MÊS — R$ 4.215,04', 'Locação, Manutenção e Higienização de Contêineres', 'Fornecimento e Implantação de Sistemas de Contêineres Soterrados'."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: "Referencial de coleta de SCP (R$ 355,61/t) provém de estrutura contratual que precifica administração local e contêineres em itens apartados, comprometendo a comparabilidade direta com o item 1 de Porto Ferreira, que deve embutir esses custos no preço por tonelada"
+  dispositivo_legal: "art. 23, § 1.º, inciso II, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4b-008"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4b-008
+  dispositivo_editalicio: "Anexo do ETP (pesquisa de precos) — Contrato n.º 21/2026 de Santa Cruz das Palmeiras/SP, Clausula Primeira, itens 1, 2 e 4"
+  transcricao: "Item 1: 6.600 t × R$ 355,61 = R$ 2.347.026,00, mas consta 'R$ 2.347.012,26'; item 2: 6.600 t × R$ 70,08 = R$ 462.528,00, mas consta 'R$ 462.539,68'; item 4: 240.000 L × R$ 0,49 = R$ 117.600,00, mas consta 'R$ 117.764,70'."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: erro_material
+  descricao_breve: "Inconsistências aritméticas entre preço unitário × quantidade e valor total nos itens 1, 2 e 4 do contrato-fonte de SCP (unitários reais com mais casas decimais), afetando marginalmente a fidedignidade do referencial R$ 355,61 usado na matriz"
+  dispositivo_legal: "art. 23, § 1.º, inciso II, da Lei n.º 14.133/2021 (fiabilidade do parâmetro de preços)"
+  referencias_cruzadas: ["E4b-007"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4b-009
+  dispositivo_editalicio: "Anexos do ETP (pesquisa de precos) — conjunto dos seis contratos anexados, cotejado com as premissas do ETP (1.040 t/mês; 12.480 t/ano) e vigência de 60 meses do TR reaberto"
+  transcricao: "Escalas e prazos dos contratos-fonte: Juquia 280 t/mês (12 meses, dispensa); Mirandopolis 550 t/mês (12+12 meses); SCP 550 t/mês (12 meses); Itapolis 900 t/mês (60 meses); Xanxere 930 t/mês (6 meses, dispensa); Itapira 1.500 t/mês (12 meses). Porto Ferreira: 1.040 t/mês por 60 meses."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: "Cesta referencial heterogênea em porte (280 a 1.500 t/mês) e prazo (6 a 60 meses; duas dispensas emergenciais) sem fator de ajuste de escala ou de amortização de frota/CAPEX para a vigência de 60 meses de Porto Ferreira"
+  dispositivo_legal: "art. 23, § 1.º, inciso II, da Lei n.º 14.133/2021; art. 18, § 1.º, inciso VI, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4b-002"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4b-010
+  dispositivo_editalicio: "Anexos do ETP (pesquisa de precos) — contratos de Itapolis (Clausula Primeira, item 3), Mirandopolis (Clausula Segunda — especificação do caminhão roll-on/roll-off, julieta e 6 contêineres da contratada) e Juquia (Clausula Primeira), cotejados com o TR reaberto (Estação de Transbordo municipal em construção, 'subsidiada', com licença de operação obtida pela Administração)"
+  transcricao: "Mirandopolis: 'Deverá ser disponibilizado para a execução dos serviços um caminhão de no mínimo 300CV [...] equipamento Roll-on/Roll-off [...] reboque Julieta [...] A contratada deverá disponibilizar para o município um total de 06 (seis) Containers'. TR reaberto: 'a Estação de Transbordo está sendo construída' pela Administração; 'Caso a CONTRATADA opte pela utilização da estação de transbordo subsidiada'."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: "Os três referenciais do item 3 pressupõem transbordo integralmente por conta da contratada (infraestrutura e equipamentos), enquanto em Porto Ferreira a estação de transbordo é construída e licenciada pela Administração — estruturas de custo distintas não ajustadas na composição do valor estimado"
+  dispositivo_legal: "art. 23, § 1.º, inciso II, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4b-001", "E4b-011"]
+  flag_tecnico: true
+  flag_reserva: true
+
+- id: E4b-011
+  dispositivo_editalicio: "Anexos do ETP (pesquisa de precos) — contratos de Itapolis, Mirandopolis e Juquia (referenciais do item 3), quanto à logística de transporte"
+  transcricao: "Itapolis: transporte 'até o aterro sanitário devidamente licenciado' (local não indicado); Mirandopolis: 'da Estação de Transbordo do Município [...] para Aterro Sanitário de responsabilidade da contratada' (distância não indicada); Juquia: 'transbordo (transferência), transporte e destinação final' (distância não indicada)."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: omissao
+  descricao_breve: "Nenhum dos referenciais do item 3 informa a distância de transporte até o aterro de destino, e o ETP não normaliza os preços por quilometragem, embora o custo de transporte a aterro de outro município seja função direta da distância — comparação com a logística real de Porto Ferreira impossibilitada"
+  dispositivo_legal: "art. 18, § 1.º, inciso VI, da Lei n.º 14.133/2021 (memórias de cálculo)"
+  referencias_cruzadas: ["E4b-010"]
+  flag_tecnico: true
+  flag_reserva: false
+
+- id: E4b-012
+  dispositivo_editalicio: "Segunda metade do ETP (parte final do documento) — ausência de seção de posicionamento conclusivo"
+  transcricao: "O documento encerra-se com a cópia do contrato de Xanxere/SC (Anexo I — quadro de frequência da coleta seletiva), sem qualquer seção conclusiva sobre a adequação e a viabilidade da contratação após os anexos de pesquisa de precos."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: omissao
+  descricao_breve: "Parte final do ETP não contém posicionamento conclusivo sobre a adequação e viabilidade da contratação (elemento obrigatório do ETP) — verificar se consta da primeira metade (campo do extrator E4a); se ausente também lá, o ETP é deficiente"
+  dispositivo_legal: "art. 18, § 1.º, inciso XIII, c/c § 2.º, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4b-013", "E4b-014", "E4b-017"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4b-013
+  dispositivo_editalicio: "Segunda metade do ETP — ausência de seção de impactos ambientais e medidas mitigadoras"
+  transcricao: "Nenhuma seção sobre impactos ambientais consta das linhas 4300-8408 do ETP (apenas cópias de contratos de terceiros), embora o objeto inclua operação de aterro sanitário municipal e, alternativamente, transporte interurbano e disposição em aterro de outro município."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: omissao
+  descricao_breve: "Descrição de possíveis impactos ambientais e medidas mitigadoras ausente da parte final do ETP — verificar primeira metade; dada a natureza do objeto (aterro, licenciamento CETESB, transporte de resíduos), a omissão seria relevante"
+  dispositivo_legal: "art. 18, § 1.º, inciso XII, da Lei n.º 14.133/2021; Resolução CONAMA n.º 499/2020; Resolução CONAMA n.º 237/1997"
+  referencias_cruzadas: ["E4b-012"]
+  flag_tecnico: true
+  flag_reserva: false
+
+- id: E4b-014
+  dispositivo_editalicio: "Segunda metade do ETP — ausência de tratamento das contratações correlatas/interdependentes, em especial a obra da Estação de Transbordo municipal referida no TR reaberto"
+  transcricao: "TR reaberto: 'A CONTRATADA fica ciente de que a Estação de Transbordo está sendo construída' e 'no primeiro semestre de 2027, a operação migrará para o sistema de transbordo', quando 'será faturado exclusivamente o Item 3'. Na parte final do ETP não há qualquer análise dessa obra como contratação interdependente (cronograma, risco de atraso, licenciamento), embora ela condicione a alternância entre os itens 2 (média R$ 168,77/t) e 3 (média R$ 249,28/t) do valor estimado."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: omissao
+  descricao_breve: "Obra da Estação de Transbordo (contratação interdependente que condiciona a migração do faturamento do item 2 para o item 3, com diferença de ~R$ 80/t) não tratada no ETP como contratação correlata/interdependente — atraso ou antecipação da obra altera materialmente o valor total da contratação"
+  dispositivo_legal: "art. 18, § 1.º, inciso XI, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4b-012", "E4b-010"]
+  flag_tecnico: true
+  flag_reserva: false
+
+- id: E4b-015
+  dispositivo_editalicio: "Anexos do ETP — Cadastro do Responsável e Termos de Ciência e Notificação dos contratos de Santa Cruz das Palmeiras/SP e Itapira/SP, republicados integralmente no processo de Porto Ferreira"
+  transcricao: "Cadastro do Responsável (SCP): campo Endereço com a nota '(*) Não deve ser o endereço do Órgão e/ou Poder. Deve ser o endereço onde poderá ser encontrado(a), caso não esteja mais exercendo o mandato ou cargo' — preenchido com endereço residencial, celular e e-mail pessoais do prefeito; termos de Itapira contêm CPF, RG, e-mail pessoal e celular de agentes públicos e do representante da contratada."
+  tipo_achado: IRREGULAR
+  categoria: ilegalidade
+  descricao_breve: "Republicação, em anexo de ETP divulgado no certame de Porto Ferreira, de dados pessoais excedentes de agentes públicos e particulares de outros municípios (endereço residencial, telefones celulares e e-mails pessoais), sem necessidade para a finalidade de pesquisa de precos"
+  dispositivo_legal: "art. 6.º, inciso III, da Lei n.º 13.709/2018 (princípio da necessidade); art. 5.º, § 3.º, da Lei n.º 14.133/2021"
+  referencias_cruzadas: []
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4b-016
+  dispositivo_editalicio: "Anexos do ETP (contratos de Itapolis, Mirandopolis, Juquia, SCP e Itapira) cotejados com os valores unitários lançados na matriz de precos do ETP"
+  transcricao: "Valores da matriz conferem com os contratos anexados: R$ 186,84, R$ 165,95 e R$ 153,48 (Itapolis); R$ 262,00 (Mirandopolis, valor reajustado); R$ 319,90 (Juquia); R$ 355,61 e R$ 132,00 (SCP); R$ 183,75 (Itapira, contêiner); R$ 19.116,00 (Itapolis, contêiner — descartado expressamente)."
+  tipo_achado: CONFORME
+  categoria: erro_material
+  descricao_breve: "Fidelidade numérica verificada: os valores unitários transportados dos contratos anexados para a matriz de precos do ETP correspondem exatamente aos valores nominais dos contratos-fonte (sem erro de transcrição)"
+  dispositivo_legal: "art. 18, § 1.º, inciso VI, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4b-003"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4b-017
+  dispositivo_editalicio: "Segunda metade do ETP — ausência de análise de riscos da contratação"
+  transcricao: "Nenhuma seção de análise de riscos (matriz de riscos, riscos de execução, risco de indisponibilidade do aterro municipal, risco de atraso da estação de transbordo, risco de variação de tonelagem) consta das linhas 4300-8408 do ETP."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: omissao
+  descricao_breve: "Análise dos riscos que possam comprometer o sucesso da licitação e a boa execução contratual ausente da parte final do ETP — verificar se consta da primeira metade ou de documento apartado do processo"
+  dispositivo_legal: "art. 18, caput, inciso X, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4b-012", "E4b-014"]
+  flag_tecnico: false
+  flag_reserva: false

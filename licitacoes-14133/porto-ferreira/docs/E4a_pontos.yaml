@@ -1,0 +1,346 @@
+# E4a — Extrator: Estudo Técnico Preliminar (ETP) — primeira metade
+# Pregão Eletrônico n. 30/2026 (REABERTURA) — Município de Porto Ferreira/SP — Processo n. 3.721/2026
+# Fonte: /home/user/Solvi/licitacoes-14133/porto-ferreira/docs/6f7f6463a1d44293a5c0ebe0032bcf9e.txt (linhas 1-4300)
+# Corpo do ETP: linhas 1-407. Linhas 408-4300: Quadro Comparativo de Preços e contratos-referência anexos
+# (Altinópolis 148/2025, Artur Nogueira 136/2025, Fernandópolis 001/2026, Itapira 109/2025).
+
+- id: E4a-001
+  dispositivo_editalicio: "Item 7 do ETP (Estimativa das quantidades)"
+  transcricao: "Os quantitativos relacionados abaixo foram estimados conforme últimos contratos realizados pela Administração, de coleta e destinação final de resíduos sólidos."
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: "Estimativa de quantidades sem memória de cálculo: ausência de dados de população atendida, geração per capita, composição gravimétrica e série histórica de pesagens que suportem as 1.300 t/mês declaradas como praticadas"
+  dispositivo_legal: "art. 18, § 1.º, inciso IV, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4a-002", "E4a-003"]
+  flag_tecnico: true
+  flag_reserva: false
+
+- id: E4a-002
+  dispositivo_editalicio: "Item 7 c/c Item 15 (Anexos) do ETP"
+  transcricao: "Os quantitativos relacionados abaixo foram estimados conforme últimos contratos realizados pela Administração [...] 15- ANEXOS: Planilha de Cotação; Contrato n° 001/2026 – Prefeitura Municipal de Fernandópolis, SP; [...]"
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: "Os 'últimos contratos realizados pela Administração', declarados como base da estimativa de quantidades, não são identificados nem anexados — os anexos são exclusivamente contratos de outros municípios, usados só para preços"
+  dispositivo_legal: "art. 18, § 1.º, inciso IV, da Lei n.º 14.133/2021 (documentos que lhe dão suporte)"
+  referencias_cruzadas: ["E4a-001"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4a-003
+  dispositivo_editalicio: "Item 7 do ETP (Estimativa das quantidades)"
+  transcricao: "Com a implementação da cobrança dos grandes geradores, estima-se uma redução de, no mínimo, 20% do total praticado atualmente, reduzindo a quantidade de 1.300 toneladas mensais para 1.040 toneladas mensais."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: "Premissa de redução de 20% da tonelagem condicionada a evento futuro e incerto (implementação da cobrança de grandes geradores), sem demonstração técnica do percentual, sem cronograma de implementação e sem tratamento do risco de a redução não se concretizar em contrato de 60 meses"
+  dispositivo_legal: "art. 18, § 1.º, incisos IV e VI, da Lei n.º 14.133/2021; art. 6.º, inciso XXIII, alínea 'd', da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4a-004", "E4a-019"]
+  flag_tecnico: true
+  flag_reserva: true
+
+- id: E4a-004
+  dispositivo_editalicio: "Item 7 do ETP (Estimativa das quantidades)"
+  transcricao: "Com a implementação da cobrança dos grandes geradores, estima-se uma redução de, no mínimo, 20% do total praticado atualmente"
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: omissao
+  descricao_breve: "ETP não indica o instrumento normativo municipal que institui a cobrança dos grandes geradores (lei/decreto/regulamento), nem define o conceito de grande gerador adotado, premissa que condiciona todo o dimensionamento"
+  dispositivo_legal: "art. 18, § 1.º, inciso I, da Lei n.º 14.133/2021; art. 27, § 1.º, e art. 20 da Lei n.º 12.305/2010"
+  referencias_cruzadas: ["E4a-003"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4a-005
+  dispositivo_editalicio: "Itens 7 e 8 do ETP (tabelas de quantidades e valores) c/c Quadro Comparativo de Preços"
+  transcricao: "Item 2 [...] aterro sanitário devidamente licenciado no Município: 12.480 TON/ANO [...] R$2.106.249,60. Item 3 [...] aterro sanitário devidamente licenciado em outro Município: 12.480 TON/ANO [...] R$3.111.014,40. [...] VALOR TOTAL ESTIMADO R$ 9.193.852,80"
+  tipo_achado: IRREGULAR
+  categoria: erro_material
+  descricao_breve: "Duplicidade de estimativa: os itens 2 e 3 preveem, cada um, a destinação das mesmas 12.480 t/ano (soluções mutuamente excludentes — aterro municipal OU aterro externo), mas ambos são somados integralmente no valor total estimado, inflando a estimativa em mais de R$ 2 milhões/ano"
+  dispositivo_legal: "art. 18, § 1.º, incisos IV e VI, da Lei n.º 14.133/2021; art. 23, caput, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4a-006", "E4a-007", "E4a-015"]
+  flag_tecnico: false
+  flag_reserva: true
+
+- id: E4a-006
+  dispositivo_editalicio: "Item 4 do ETP (Descrição dos requisitos da contratação)"
+  transcricao: "- Destinação final ambientalmente adequada de resíduos sólidos urbanos em aterro sanitário devidamente licenciado no Município. - Destinação final ambientalmente adequada de resíduos sólidos urbanos em aterro sanitário devidamente licenciado em outro Município."
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: "Requisitos mínimos da contratação listam simultaneamente, como exigências cumulativas, a destinação em aterro no Município E em aterro de outro Município, sem indicar o regime de alternatividade, condição de acionamento de cada hipótese ou critério de escolha"
+  dispositivo_legal: "art. 18, § 1.º, inciso III, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4a-005", "E4a-007"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4a-007
+  dispositivo_editalicio: "Item 6 do ETP (Descrição da solução como um todo)"
+  transcricao: "A solução adotada consiste na contratação de empresa especializada para execução completa dos serviços de manejo de resíduos sólidos urbanos, incluindo: - Coleta e transporte; - Destinação final; - Fornecimento, manutenção e higienização de contêineres com capacidade de 1000 litros."
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: "Descrição da solução não define a solução: não decide nem parametriza a escolha entre operação do aterro sanitário municipal e destinação em aterro de outro município, elemento central do objeto licitado"
+  dispositivo_legal: "art. 18, § 1.º, inciso VII, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4a-005", "E4a-006", "E4a-008"]
+  flag_tecnico: true
+  flag_reserva: false
+
+- id: E4a-008
+  dispositivo_editalicio: "Item 1 do ETP (Objeto) c/c Itens 6, 7 e 8 do ETP"
+  transcricao: "incluindo a operação do aterro sanitário municipal ou destinação final de resíduos urbanos em aterro sanitário de outro município"
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: "Objeto declara incluir a 'operação do aterro sanitário municipal', mas o ETP não contém item de serviço, estimativa de custo nem qualquer análise da operação do aterro (capacidade remanescente, vida útil, licença de operação, investimentos, encerramento) — as tabelas de quantidades/valores tratam apenas de 'destinação final' por tonelada"
+  dispositivo_legal: "art. 18, § 1.º, incisos IV, VI e VII, da Lei n.º 14.133/2021; Resolução CONAMA n.º 499/2020"
+  referencias_cruzadas: ["E4a-007", "E4a-026"]
+  flag_tecnico: true
+  flag_reserva: false
+
+- id: E4a-009
+  dispositivo_editalicio: "Itens 7 e 8 do ETP c/c nota do Quadro Comparativo de Preços"
+  transcricao: "As cotações para o item 3 (Destinação Externa) prevê cenários onde a destinação ocorre fora do limite municipal, refletindo o custo logístico adicional de transbordo e transporte."
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: "Nenhuma premissa sobre transbordo: o ETP não indica se haverá estação de transbordo, quem a implanta/licencia/opera, qual a distância estimada até o aterro externo, e adota preços de item 3 que refletem logísticas de outros municípios com distâncias desconhecidas e distintas da realidade local"
+  dispositivo_legal: "art. 18, § 1.º, incisos IV, VI e VII, da Lei n.º 14.133/2021; art. 23, § 1.º, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4a-020"]
+  flag_tecnico: true
+  flag_reserva: false
+
+- id: E4a-010
+  dispositivo_editalicio: "Item 5 do ETP (Levantamento do mercado)"
+  transcricao: "Foram identificadas as seguintes soluções no mercado: - Execução direta pelo município (estrutura própria); - Contratação parcial (apenas coleta ou apenas destinação); - Contratação integrada de empresa especializada (solução adotada). A solução integrada mostra-se mais eficiente, garantindo padronização, controle e economicidade."
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: "Levantamento de mercado sem análise: alternativas apenas listadas, sem comparativo de custos, prós e contras ou demonstração objetiva da maior eficiência/economicidade da solução integrada afirmada"
+  dispositivo_legal: "art. 18, § 1.º, inciso V, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4a-027"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4a-011
+  dispositivo_editalicio: "Item 6 do ETP (Descrição da solução como um todo)"
+  transcricao: "Não há situação restritiva de mercado em relação à quantidade de fornecedores aptos a participar da licitação."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: omissao
+  descricao_breve: "Afirmação de inexistência de restrição de mercado sem qualquer demonstração (número de potenciais fornecedores, histórico de certames), em certame que já teve 6 impugnações e suspensão"
+  dispositivo_legal: "art. 18, § 1.º, inciso V, da Lei n.º 14.133/2021"
+  referencias_cruzadas: []
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4a-012
+  dispositivo_editalicio: "Item 9 do ETP (Justificativa para o parcelamento ou não da contratação)"
+  transcricao: "Sugere-se o parcelamento (agrupamento de itens em lote do objeto), em razão da necessidade de integração operacional, ganho de eficiência logística e responsabilização única da contratada."
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: "Justificativa do parcelamento contraditória e genérica: denomina 'parcelamento' o que descreve como agrupamento de itens em lote único, e se resume a uma frase, sem análise dos fatores de divisibilidade técnica e econômica do objeto (coleta, destinação e contêineres)"
+  dispositivo_legal: "art. 18, § 1.º, inciso VIII, e art. 47, inciso II e § 1.º, da Lei n.º 14.133/2021"
+  referencias_cruzadas: []
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4a-013
+  dispositivo_editalicio: "Item 12 do ETP (Providências prévias) c/c Item 10 do ETP (Contratações correlatas)"
+  transcricao: "Não serão necessárias providências previamente à celebração do contrato. [Item 10:] Há contratos vigentes relacionados à coleta e operação do aterro, que deverão ser considerados para transição operacional."
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: "Contradição interna: o item 12 declara desnecessária qualquer providência prévia, enquanto o item 10 reconhece a necessidade de transição operacional de contratos vigentes de coleta e de operação do aterro"
+  dispositivo_legal: "art. 18, § 1.º, incisos X e XI, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4a-014"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4a-014
+  dispositivo_editalicio: "Item 10 do ETP (Contratações correlatas e/ou interdependentes)"
+  transcricao: "Há contratos vigentes relacionados à coleta e operação do aterro, que deverão ser considerados para transição operacional."
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: "Contratações correlatas não identificadas: ETP não indica números, contratadas, vigências, valores nem escopo dos contratos vigentes de coleta e de operação do aterro, impedindo aferir sobreposição de objeto e planejamento da transição"
+  dispositivo_legal: "art. 18, § 1.º, inciso XI, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4a-013"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4a-015
+  dispositivo_editalicio: "Item 8 do ETP (Estimativa de valores)"
+  transcricao: "Valor Total para 12 (doze) meses [...] R$3.777.072,00 [...] R$2.106.249,60 [...] R$3.111.014,40 [...] R$199.516,80"
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: "Estimativa de valores limitada a 12 meses para contratação com vigência de 60 meses: ETP não apresenta o valor total estimado da contratação para todo o período de vigência nem o impacto orçamentário-financeiro plurianual da despesa continuada"
+  dispositivo_legal: "art. 18, § 1.º, inciso VI, da Lei n.º 14.133/2021; arts. 16 e 17 da LC n.º 101/2000"
+  referencias_cruzadas: ["E4a-005", "E4a-016"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4a-016
+  dispositivo_editalicio: "ETP (ausência de item específico sobre vigência)"
+  transcricao: "[o ETP não contém seção tratando da vigência contratual de 60 meses nem de sua vantajosidade]"
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: omissao
+  descricao_breve: "Ausência, no ETP, de demonstração/atestado de maior vantagem econômica para a celebração de contrato de serviço contínuo com prazo de 5 anos (verificar se consta de outro documento do processo)"
+  dispositivo_legal: "art. 106, inciso I, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4a-015"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4a-017
+  dispositivo_editalicio: "Itens 7 e 8 do ETP (item 4 das tabelas) c/c Quadro Comparativo de Preços (item 4)"
+  transcricao: "Fornecimento, manutenção e higienização de contêineres com capacidade de 1000 litros: 80 UNIDADE [...] Valor Unitário R$207,83, Valor Mensal R$16.626,40, Valor Total para 12 meses R$199.516,80 [Quadro Comparativo: UNIDADE DE MEDIDA UN, QUANTIDADE 960]"
+  tipo_achado: IRREGULAR
+  categoria: erro_material
+  descricao_breve: "Unidade de medida inconsistente para os contêineres: as tabelas do ETP indicam quantidade de 80 'UNIDADE' com valor unitário tratado como mensalidade por contêiner, enquanto o quadro comparativo adota quantidade 960 (unidade×mês), sem explicitar em nenhum documento que a remuneração é por unidade/mês"
+  dispositivo_legal: "art. 18, § 1.º, incisos IV e VI, da Lei n.º 14.133/2021"
+  referencias_cruzadas: []
+  flag_tecnico: false
+  flag_reserva: true
+
+- id: E4a-018
+  dispositivo_editalicio: "Item 7 do ETP (Estimativa das quantidades — contêineres)"
+  transcricao: "Atualmente o município possui 17 pontos de descarte irregular de resíduos, e em cada um dos pontos serão colocados 2 contêineres, totalizando 34. Os 46 restantes serão distribuídos em praças, parques, rodoviária e demais pontos estratégicos."
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: "Dimensionamento parcial dos contêineres: apenas 34 das 80 unidades têm critério objetivo (17 pontos × 2); os 46 restantes são atribuídos genericamente a 'pontos estratégicos' não identificados, sem memória de cálculo"
+  dispositivo_legal: "art. 18, § 1.º, inciso IV, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4a-017"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4a-019
+  dispositivo_editalicio: "Item 7 do ETP (premissas combinadas de tonelagem e contêineres)"
+  transcricao: "estima-se uma redução de, no mínimo, 20% do total praticado atualmente [...] necessidade urgente de mitigar os impactos ambientais e sanitários causados pelos pontos de descarte irregular de resíduos"
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: "Premissas potencialmente antagônicas não conciliadas: a conteinerização de 17 pontos de descarte irregular e de pontos estratégicos tende a incorporar à coleta regular volumes hoje descartados irregularmente, na contramão da premissa de redução de 20% da tonelagem"
+  dispositivo_legal: "art. 18, § 1.º, inciso IV, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4a-003", "E4a-018"]
+  flag_tecnico: true
+  flag_reserva: true
+
+- id: E4a-020
+  dispositivo_editalicio: "Item 8 do ETP c/c Quadro Comparativo de Preços e contratos anexos"
+  transcricao: "A escolha dos fornecedores foi baseada em municípios que contrataram os itens relacionados ao objeto da contratação, através do Portal Nacional de Compras Públicas (PNCP) [...] Buscou-se principalmente municípios do São Paulo, porém, na ausência destes, buscou-se municípios de estados próximos."
+  tipo_achado: IRREGULAR
+  categoria: risco_economico
+  descricao_breve: "Pesquisa de preços sem demonstração de comparabilidade: cotações de contratos com escalas muito díspares (Altinópolis 4.500 t/ano; Fernandópolis 21.600 t/ano; Porto Ferreira 12.480 t/ano), escopos distintos (coleta rural, varrição, triagem, tecnologia embarcada) e município de outro estado (Xanxerê/SC), sem qualquer ajuste ou uniformização de condições"
+  dispositivo_legal: "art. 23, caput e § 1.º, inciso II, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4a-021", "E4a-022", "E4a-023", "E4a-024"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4a-021
+  dispositivo_editalicio: "Quadro Comparativo de Preços (item 4) c/c Contrato n.º 136/2025 de Artur Nogueira (anexo ao ETP)"
+  transcricao: "CONTRATAÇÃO COM DISPENSA DE LICITAÇÃO – LEI Nº 14.133/21, ART. 75, VIII. [...] Contratação, em caráter emergencial [...] FORNECIMENTO, MANUTENÇÃO E HIGIENIZAÇÃO DE CONTÊINER PEAD DE 1.000 LITROS [...] R$ 230,00 [...] O prazo de vigência do presente contrato é de 03 (três) meses"
+  tipo_achado: IRREGULAR
+  categoria: risco_economico
+  descricao_breve: "Uso de contrato emergencial firmado por dispensa de licitação (art. 75, VIII), com vigência de 3 meses, como referência de preço de contêiner (R$ 230,00), sem ponderação de que contratações emergenciais e de curtíssimo prazo tendem a embutir sobrepreço"
+  dispositivo_legal: "art. 23, § 1.º, inciso II, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4a-020"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4a-022
+  dispositivo_editalicio: "Quadro Comparativo de Preços (item 3) — coluna Mirandópolis"
+  transcricao: "Prefeitura Municipal de Mirandópolis, SP - CNPJ n° 44.438.968/0001-70 - TERMO DE ADITAMENTO DO CONTRATO ADMINISTRATIVO 93/2024 [...] R$ 262,00"
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: "Uso de termo de aditamento de contrato originário de 2024 como fonte de preço para o item 3: verificar a data de assinatura do aditamento, pois contratações firmadas há mais de 1 ano da pesquisa (maio/2026) não atendem ao parâmetro legal de contratações similares"
+  dispositivo_legal: "art. 23, § 1.º, inciso II, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4a-020"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4a-023
+  dispositivo_editalicio: "Quadro Comparativo de Preços (item 1) c/c Contratos n.º 109/2025 de Itapira e n.º 136/2025 de Artur Nogueira (anexos ao ETP)"
+  transcricao: "[Quadro, item 1, colunas Mirandópolis, Juquiá, Artur Nogueira, Itapira e Xanxerê:] R$ - [Contrato Itapira, item 01:] Serviços de coleta e remoção de resíduos sólidos domiciliares (rsu) [...] R$225,02 [Contrato Artur Nogueira, item 2:] COLETA, TRANSPORTE E DESTINAÇÃO FINAL DOS RESÍDUOS SÓLIDOS DOMICILIARES [...] R$ 342,30"
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: "Exclusão não justificada de cotações de coleta disponíveis nos próprios contratos anexados (Itapira R$ 225,02/t, inferior à média adotada de R$ 302,65; Artur Nogueira R$ 342,30/t) na composição do preço do item 1 — a única exclusão justificada na nota do quadro foi o outlier de contêiner de R$ 19.116,00"
+  dispositivo_legal: "art. 23, § 1.º, da Lei n.º 14.133/2021; art. 18, § 1.º, inciso VI, da Lei n.º 14.133/2021 (memórias de cálculo)"
+  referencias_cruzadas: ["E4a-020", "E4a-024"]
+  flag_tecnico: false
+  flag_reserva: true
+
+- id: E4a-024
+  dispositivo_editalicio: "Quadro Comparativo de Preços (colunas MÉDIA, MENOR VALOR, MAIOR VALOR, COEFICIENTE DE VARIAÇÃO)"
+  transcricao: "MÉDIA R$ 302,65 [...] COEFICIENTE DE VARIAÇÃO 23% [item 1]; MÉDIA R$ 168,77 [...] 16% [item 2]; MÉDIA R$ 249,28 [...] 25% [item 3]"
+  tipo_achado: IRREGULAR
+  categoria: risco_economico
+  descricao_breve: "Adoção de média simples sobre amostras reduzidas (2 a 4 cotações por item) com coeficientes de variação de até 25%, sem análise crítica dos preços, sem saneamento da cesta e sem justificar a opção pela média em vez da mediana ou do menor preço"
+  dispositivo_legal: "art. 23, § 1.º, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4a-020", "E4a-023"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4a-025
+  dispositivo_editalicio: "Item 11 do ETP (Resultados pretendidos)"
+  transcricao: "Garantir o cumprimento da Política Nacional de Resíduos Sólidos (Lei nº 12.305/2010) assegurando as metas de redução, reutilização, coleta seletiva e reciclagem, entre outras, com vistas a reduzir a quantidade de rejeitos encaminhados para o aterro sanitário."
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: "Resultados pretendidos incluem metas de redução, reutilização, coleta seletiva e reciclagem sem nenhum componente correspondente na solução contratada (que destina 100% da tonelagem coletada a aterro, sem triagem ou recuperação), em descompasso com a ordem de prioridade da PNRS"
+  dispositivo_legal: "art. 9.º, caput, da Lei n.º 12.305/2010; art. 18, § 1.º, inciso IX, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4a-007"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4a-026
+  dispositivo_editalicio: "Item 13 do ETP (Possíveis impactos ambientais e tratamentos)"
+  transcricao: "Principais impactos: Geração de chorume; Emissão de gases e odores; Contaminação do solo e da água. Medidas mitigadoras: Sistema de drenagem e tratamento; Destinação em aterro licenciado; Monitoramento ambiental contínuo."
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: "Análise de impactos ambientais genérica: não trata da situação concreta do aterro sanitário municipal cuja operação integra o objeto (vigência da licença de operação, capacidade remanescente, passivos, condicionantes), nem do licenciamento aplicável à destinação"
+  dispositivo_legal: "art. 18, § 1.º, inciso XII, da Lei n.º 14.133/2021; Resolução CONAMA n.º 237/1997; Resolução CONAMA n.º 499/2020"
+  referencias_cruzadas: ["E4a-008"]
+  flag_tecnico: true
+  flag_reserva: false
+
+- id: E4a-027
+  dispositivo_editalicio: "Item 14 do ETP (Declaração de viabilidade)"
+  transcricao: "conclui pela VIABILIDADE DA CONTRATAÇÃO/AQUISIÇÃO, uma vez considerados os seus potenciais benefícios em termos de eficácia, eficiência, efetividade e economicidade."
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: "Posicionamento conclusivo de viabilidade sem análise econômica que o suporte: o documento não contém avaliação de viabilidade econômica das alternativas nem demonstração de economicidade que fundamente a conclusão"
+  dispositivo_legal: "art. 18, § 1.º, inciso XIII, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4a-010"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4a-028
+  dispositivo_editalicio: "ETP (ausência de premissas operacionais)"
+  transcricao: "[o ETP não contém qualquer premissa de frota, guarnições, setores de coleta, frequências ou pessoal]"
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: "Ausência total de premissas de dimensionamento operacional (número de caminhões compactadores, guarnições, setorização, frequência de coleta, quilometragem, pessoal) para serviço contínuo de 60 meses, impedindo aferir a consistência dos preços por tonelada adotados"
+  dispositivo_legal: "art. 18, § 1.º, incisos IV e VII, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4a-001", "E4a-020"]
+  flag_tecnico: true
+  flag_reserva: false
+
+- id: E4a-029
+  dispositivo_editalicio: "Item 11 do ETP (Resultados pretendidos)"
+  transcricao: "Garantir que 100% da área urbana e distritos industriais sejam atendidos pela coleta de resíduos sólidos urbanos e tenham sua destinação ambientalmente adequada."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: contradicao
+  descricao_breve: "Meta de atendimento de 'distritos industriais' pela coleta pública sem delimitação: resíduos industriais e de grandes geradores estão sujeitos a gerenciamento pelo próprio gerador, e o ETP simultaneamente pressupõe a retirada dos grandes geradores da coleta municipal"
+  dispositivo_legal: "art. 13, inciso I, alínea 'f', e art. 20, incisos I e II, da Lei n.º 12.305/2010"
+  referencias_cruzadas: ["E4a-003", "E4a-004"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4a-030
+  dispositivo_editalicio: "Item 2 do ETP (Alinhamento entre a contratação e o planejamento)"
+  transcricao: "O objeto da contratação está previsto no Plano de Contratações Anual 2026 [...] ID PCA no PNCP: 45339363000194-0-000003/2026; Data de publicação no PNCP: 29/12/2025"
+  tipo_achado: CONFORME
+  categoria: omissao
+  descricao_breve: "Alinhamento com o Plano de Contratações Anual 2026 demonstrado, com identificação dos itens no PNCP (IDs 650 e 637)"
+  dispositivo_legal: "art. 18, caput e § 1.º, inciso II, da Lei n.º 14.133/2021"
+  referencias_cruzadas: []
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4a-031
+  dispositivo_editalicio: "Certificação de abertura do ETP c/c estrutura dos itens 1 a 14"
+  transcricao: "Certifico que neste ETP constam todos os elementos obrigatórios dispostos nos itens 3,7,8,9 e 14, deste modelo (incisos I, V, VI, VII e XIII, do artigo 6º do Decreto Municipal nº 2.684, de 25/01/2024)"
+  tipo_achado: CONFORME
+  categoria: omissao
+  descricao_breve: "Presença formal, no documento, dos elementos mínimos obrigatórios do ETP (descrição da necessidade, estimativa de quantidades, estimativa de valores, justificativa de parcelamento e declaração de viabilidade) — sem prejuízo das deficiências de conteúdo apontadas nos demais achados"
+  dispositivo_legal: "art. 18, § 2.º, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4a-001", "E4a-012", "E4a-015", "E4a-027"]
+  flag_tecnico: false
+  flag_reserva: false

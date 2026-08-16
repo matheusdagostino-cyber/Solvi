@@ -1,0 +1,1913 @@
+# E4 — Lista consolidada do extrator E4 (anexos tecnicos e economicos)
+# Pregao Eletronico n. 30/2026 (REABERTURA) — Municipio de Porto Ferreira/SP — Processo n. 3.721/2026
+# Consolidacao dos parciais E4a (ETP 1a metade), E4b (ETP 2a metade/anexos de precos),
+# E4c (anexos ambientais e tecnicos), E4d (CCT + Anexos IV-VI), E4e (respostas as impugnacoes x edital reaberto).
+# Renumeracao sequencial E4-NNN; id original do parcial preservado em id_origem_parcial.
+# As referencias_cruzadas mantem os ids originais dos parciais (resoluveis via id_origem_parcial).
+
+# E4a — Extrator: Estudo Técnico Preliminar (ETP) — primeira metade
+# Pregão Eletrônico n. 30/2026 (REABERTURA) — Município de Porto Ferreira/SP — Processo n. 3.721/2026
+# Fonte: /home/user/Solvi/licitacoes-14133/porto-ferreira/docs/6f7f6463a1d44293a5c0ebe0032bcf9e.txt (linhas 1-4300)
+# Corpo do ETP: linhas 1-407. Linhas 408-4300: Quadro Comparativo de Preços e contratos-referência anexos
+# (Altinópolis 148/2025, Artur Nogueira 136/2025, Fernandópolis 001/2026, Itapira 109/2025).
+
+- id: E4-001
+  id_origem_parcial: E4a-001
+  dispositivo_editalicio: "Item 7 do ETP (Estimativa das quantidades)"
+  transcricao: "Os quantitativos relacionados abaixo foram estimados conforme últimos contratos realizados pela Administração, de coleta e destinação final de resíduos sólidos."
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: "Estimativa de quantidades sem memória de cálculo: ausência de dados de população atendida, geração per capita, composição gravimétrica e série histórica de pesagens que suportem as 1.300 t/mês declaradas como praticadas"
+  dispositivo_legal: "art. 18, § 1.º, inciso IV, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4a-002", "E4a-003"]
+  flag_tecnico: true
+  flag_reserva: false
+
+- id: E4-002
+  id_origem_parcial: E4a-002
+  dispositivo_editalicio: "Item 7 c/c Item 15 (Anexos) do ETP"
+  transcricao: "Os quantitativos relacionados abaixo foram estimados conforme últimos contratos realizados pela Administração [...] 15- ANEXOS: Planilha de Cotação; Contrato n° 001/2026 – Prefeitura Municipal de Fernandópolis, SP; [...]"
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: "Os 'últimos contratos realizados pela Administração', declarados como base da estimativa de quantidades, não são identificados nem anexados — os anexos são exclusivamente contratos de outros municípios, usados só para preços"
+  dispositivo_legal: "art. 18, § 1.º, inciso IV, da Lei n.º 14.133/2021 (documentos que lhe dão suporte)"
+  referencias_cruzadas: ["E4a-001"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-003
+  id_origem_parcial: E4a-003
+  dispositivo_editalicio: "Item 7 do ETP (Estimativa das quantidades)"
+  transcricao: "Com a implementação da cobrança dos grandes geradores, estima-se uma redução de, no mínimo, 20% do total praticado atualmente, reduzindo a quantidade de 1.300 toneladas mensais para 1.040 toneladas mensais."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: "Premissa de redução de 20% da tonelagem condicionada a evento futuro e incerto (implementação da cobrança de grandes geradores), sem demonstração técnica do percentual, sem cronograma de implementação e sem tratamento do risco de a redução não se concretizar em contrato de 60 meses"
+  dispositivo_legal: "art. 18, § 1.º, incisos IV e VI, da Lei n.º 14.133/2021; art. 6.º, inciso XXIII, alínea 'd', da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4a-004", "E4a-019"]
+  flag_tecnico: true
+  flag_reserva: true
+
+- id: E4-004
+  id_origem_parcial: E4a-004
+  dispositivo_editalicio: "Item 7 do ETP (Estimativa das quantidades)"
+  transcricao: "Com a implementação da cobrança dos grandes geradores, estima-se uma redução de, no mínimo, 20% do total praticado atualmente"
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: omissao
+  descricao_breve: "ETP não indica o instrumento normativo municipal que institui a cobrança dos grandes geradores (lei/decreto/regulamento), nem define o conceito de grande gerador adotado, premissa que condiciona todo o dimensionamento"
+  dispositivo_legal: "art. 18, § 1.º, inciso I, da Lei n.º 14.133/2021; art. 27, § 1.º, e art. 20 da Lei n.º 12.305/2010"
+  referencias_cruzadas: ["E4a-003"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-005
+  id_origem_parcial: E4a-005
+  dispositivo_editalicio: "Itens 7 e 8 do ETP (tabelas de quantidades e valores) c/c Quadro Comparativo de Preços"
+  transcricao: "Item 2 [...] aterro sanitário devidamente licenciado no Município: 12.480 TON/ANO [...] R$2.106.249,60. Item 3 [...] aterro sanitário devidamente licenciado em outro Município: 12.480 TON/ANO [...] R$3.111.014,40. [...] VALOR TOTAL ESTIMADO R$ 9.193.852,80"
+  tipo_achado: IRREGULAR
+  categoria: erro_material
+  descricao_breve: "Duplicidade de estimativa: os itens 2 e 3 preveem, cada um, a destinação das mesmas 12.480 t/ano (soluções mutuamente excludentes — aterro municipal OU aterro externo), mas ambos são somados integralmente no valor total estimado, inflando a estimativa em mais de R$ 2 milhões/ano"
+  dispositivo_legal: "art. 18, § 1.º, incisos IV e VI, da Lei n.º 14.133/2021; art. 23, caput, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4a-006", "E4a-007", "E4a-015"]
+  flag_tecnico: false
+  flag_reserva: true
+
+- id: E4-006
+  id_origem_parcial: E4a-006
+  dispositivo_editalicio: "Item 4 do ETP (Descrição dos requisitos da contratação)"
+  transcricao: "- Destinação final ambientalmente adequada de resíduos sólidos urbanos em aterro sanitário devidamente licenciado no Município. - Destinação final ambientalmente adequada de resíduos sólidos urbanos em aterro sanitário devidamente licenciado em outro Município."
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: "Requisitos mínimos da contratação listam simultaneamente, como exigências cumulativas, a destinação em aterro no Município E em aterro de outro Município, sem indicar o regime de alternatividade, condição de acionamento de cada hipótese ou critério de escolha"
+  dispositivo_legal: "art. 18, § 1.º, inciso III, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4a-005", "E4a-007"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-007
+  id_origem_parcial: E4a-007
+  dispositivo_editalicio: "Item 6 do ETP (Descrição da solução como um todo)"
+  transcricao: "A solução adotada consiste na contratação de empresa especializada para execução completa dos serviços de manejo de resíduos sólidos urbanos, incluindo: - Coleta e transporte; - Destinação final; - Fornecimento, manutenção e higienização de contêineres com capacidade de 1000 litros."
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: "Descrição da solução não define a solução: não decide nem parametriza a escolha entre operação do aterro sanitário municipal e destinação em aterro de outro município, elemento central do objeto licitado"
+  dispositivo_legal: "art. 18, § 1.º, inciso VII, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4a-005", "E4a-006", "E4a-008"]
+  flag_tecnico: true
+  flag_reserva: false
+
+- id: E4-008
+  id_origem_parcial: E4a-008
+  dispositivo_editalicio: "Item 1 do ETP (Objeto) c/c Itens 6, 7 e 8 do ETP"
+  transcricao: "incluindo a operação do aterro sanitário municipal ou destinação final de resíduos urbanos em aterro sanitário de outro município"
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: "Objeto declara incluir a 'operação do aterro sanitário municipal', mas o ETP não contém item de serviço, estimativa de custo nem qualquer análise da operação do aterro (capacidade remanescente, vida útil, licença de operação, investimentos, encerramento) — as tabelas de quantidades/valores tratam apenas de 'destinação final' por tonelada"
+  dispositivo_legal: "art. 18, § 1.º, incisos IV, VI e VII, da Lei n.º 14.133/2021; Resolução CONAMA n.º 499/2020"
+  referencias_cruzadas: ["E4a-007", "E4a-026"]
+  flag_tecnico: true
+  flag_reserva: false
+
+- id: E4-009
+  id_origem_parcial: E4a-009
+  dispositivo_editalicio: "Itens 7 e 8 do ETP c/c nota do Quadro Comparativo de Preços"
+  transcricao: "As cotações para o item 3 (Destinação Externa) prevê cenários onde a destinação ocorre fora do limite municipal, refletindo o custo logístico adicional de transbordo e transporte."
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: "Nenhuma premissa sobre transbordo: o ETP não indica se haverá estação de transbordo, quem a implanta/licencia/opera, qual a distância estimada até o aterro externo, e adota preços de item 3 que refletem logísticas de outros municípios com distâncias desconhecidas e distintas da realidade local"
+  dispositivo_legal: "art. 18, § 1.º, incisos IV, VI e VII, da Lei n.º 14.133/2021; art. 23, § 1.º, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4a-020"]
+  flag_tecnico: true
+  flag_reserva: false
+
+- id: E4-010
+  id_origem_parcial: E4a-010
+  dispositivo_editalicio: "Item 5 do ETP (Levantamento do mercado)"
+  transcricao: "Foram identificadas as seguintes soluções no mercado: - Execução direta pelo município (estrutura própria); - Contratação parcial (apenas coleta ou apenas destinação); - Contratação integrada de empresa especializada (solução adotada). A solução integrada mostra-se mais eficiente, garantindo padronização, controle e economicidade."
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: "Levantamento de mercado sem análise: alternativas apenas listadas, sem comparativo de custos, prós e contras ou demonstração objetiva da maior eficiência/economicidade da solução integrada afirmada"
+  dispositivo_legal: "art. 18, § 1.º, inciso V, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4a-027"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-011
+  id_origem_parcial: E4a-011
+  dispositivo_editalicio: "Item 6 do ETP (Descrição da solução como um todo)"
+  transcricao: "Não há situação restritiva de mercado em relação à quantidade de fornecedores aptos a participar da licitação."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: omissao
+  descricao_breve: "Afirmação de inexistência de restrição de mercado sem qualquer demonstração (número de potenciais fornecedores, histórico de certames), em certame que já teve 6 impugnações e suspensão"
+  dispositivo_legal: "art. 18, § 1.º, inciso V, da Lei n.º 14.133/2021"
+  referencias_cruzadas: []
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-012
+  id_origem_parcial: E4a-012
+  dispositivo_editalicio: "Item 9 do ETP (Justificativa para o parcelamento ou não da contratação)"
+  transcricao: "Sugere-se o parcelamento (agrupamento de itens em lote do objeto), em razão da necessidade de integração operacional, ganho de eficiência logística e responsabilização única da contratada."
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: "Justificativa do parcelamento contraditória e genérica: denomina 'parcelamento' o que descreve como agrupamento de itens em lote único, e se resume a uma frase, sem análise dos fatores de divisibilidade técnica e econômica do objeto (coleta, destinação e contêineres)"
+  dispositivo_legal: "art. 18, § 1.º, inciso VIII, e art. 47, inciso II e § 1.º, da Lei n.º 14.133/2021"
+  referencias_cruzadas: []
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-013
+  id_origem_parcial: E4a-013
+  dispositivo_editalicio: "Item 12 do ETP (Providências prévias) c/c Item 10 do ETP (Contratações correlatas)"
+  transcricao: "Não serão necessárias providências previamente à celebração do contrato. [Item 10:] Há contratos vigentes relacionados à coleta e operação do aterro, que deverão ser considerados para transição operacional."
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: "Contradição interna: o item 12 declara desnecessária qualquer providência prévia, enquanto o item 10 reconhece a necessidade de transição operacional de contratos vigentes de coleta e de operação do aterro"
+  dispositivo_legal: "art. 18, § 1.º, incisos X e XI, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4a-014"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-014
+  id_origem_parcial: E4a-014
+  dispositivo_editalicio: "Item 10 do ETP (Contratações correlatas e/ou interdependentes)"
+  transcricao: "Há contratos vigentes relacionados à coleta e operação do aterro, que deverão ser considerados para transição operacional."
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: "Contratações correlatas não identificadas: ETP não indica números, contratadas, vigências, valores nem escopo dos contratos vigentes de coleta e de operação do aterro, impedindo aferir sobreposição de objeto e planejamento da transição"
+  dispositivo_legal: "art. 18, § 1.º, inciso XI, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4a-013"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-015
+  id_origem_parcial: E4a-015
+  dispositivo_editalicio: "Item 8 do ETP (Estimativa de valores)"
+  transcricao: "Valor Total para 12 (doze) meses [...] R$3.777.072,00 [...] R$2.106.249,60 [...] R$3.111.014,40 [...] R$199.516,80"
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: "Estimativa de valores limitada a 12 meses para contratação com vigência de 60 meses: ETP não apresenta o valor total estimado da contratação para todo o período de vigência nem o impacto orçamentário-financeiro plurianual da despesa continuada"
+  dispositivo_legal: "art. 18, § 1.º, inciso VI, da Lei n.º 14.133/2021; arts. 16 e 17 da LC n.º 101/2000"
+  referencias_cruzadas: ["E4a-005", "E4a-016"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-016
+  id_origem_parcial: E4a-016
+  dispositivo_editalicio: "ETP (ausência de item específico sobre vigência)"
+  transcricao: "[o ETP não contém seção tratando da vigência contratual de 60 meses nem de sua vantajosidade]"
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: omissao
+  descricao_breve: "Ausência, no ETP, de demonstração/atestado de maior vantagem econômica para a celebração de contrato de serviço contínuo com prazo de 5 anos (verificar se consta de outro documento do processo)"
+  dispositivo_legal: "art. 106, inciso I, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4a-015"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-017
+  id_origem_parcial: E4a-017
+  dispositivo_editalicio: "Itens 7 e 8 do ETP (item 4 das tabelas) c/c Quadro Comparativo de Preços (item 4)"
+  transcricao: "Fornecimento, manutenção e higienização de contêineres com capacidade de 1000 litros: 80 UNIDADE [...] Valor Unitário R$207,83, Valor Mensal R$16.626,40, Valor Total para 12 meses R$199.516,80 [Quadro Comparativo: UNIDADE DE MEDIDA UN, QUANTIDADE 960]"
+  tipo_achado: IRREGULAR
+  categoria: erro_material
+  descricao_breve: "Unidade de medida inconsistente para os contêineres: as tabelas do ETP indicam quantidade de 80 'UNIDADE' com valor unitário tratado como mensalidade por contêiner, enquanto o quadro comparativo adota quantidade 960 (unidade×mês), sem explicitar em nenhum documento que a remuneração é por unidade/mês"
+  dispositivo_legal: "art. 18, § 1.º, incisos IV e VI, da Lei n.º 14.133/2021"
+  referencias_cruzadas: []
+  flag_tecnico: false
+  flag_reserva: true
+
+- id: E4-018
+  id_origem_parcial: E4a-018
+  dispositivo_editalicio: "Item 7 do ETP (Estimativa das quantidades — contêineres)"
+  transcricao: "Atualmente o município possui 17 pontos de descarte irregular de resíduos, e em cada um dos pontos serão colocados 2 contêineres, totalizando 34. Os 46 restantes serão distribuídos em praças, parques, rodoviária e demais pontos estratégicos."
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: "Dimensionamento parcial dos contêineres: apenas 34 das 80 unidades têm critério objetivo (17 pontos × 2); os 46 restantes são atribuídos genericamente a 'pontos estratégicos' não identificados, sem memória de cálculo"
+  dispositivo_legal: "art. 18, § 1.º, inciso IV, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4a-017"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-019
+  id_origem_parcial: E4a-019
+  dispositivo_editalicio: "Item 7 do ETP (premissas combinadas de tonelagem e contêineres)"
+  transcricao: "estima-se uma redução de, no mínimo, 20% do total praticado atualmente [...] necessidade urgente de mitigar os impactos ambientais e sanitários causados pelos pontos de descarte irregular de resíduos"
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: "Premissas potencialmente antagônicas não conciliadas: a conteinerização de 17 pontos de descarte irregular e de pontos estratégicos tende a incorporar à coleta regular volumes hoje descartados irregularmente, na contramão da premissa de redução de 20% da tonelagem"
+  dispositivo_legal: "art. 18, § 1.º, inciso IV, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4a-003", "E4a-018"]
+  flag_tecnico: true
+  flag_reserva: true
+
+- id: E4-020
+  id_origem_parcial: E4a-020
+  dispositivo_editalicio: "Item 8 do ETP c/c Quadro Comparativo de Preços e contratos anexos"
+  transcricao: "A escolha dos fornecedores foi baseada em municípios que contrataram os itens relacionados ao objeto da contratação, através do Portal Nacional de Compras Públicas (PNCP) [...] Buscou-se principalmente municípios do São Paulo, porém, na ausência destes, buscou-se municípios de estados próximos."
+  tipo_achado: IRREGULAR
+  categoria: risco_economico
+  descricao_breve: "Pesquisa de preços sem demonstração de comparabilidade: cotações de contratos com escalas muito díspares (Altinópolis 4.500 t/ano; Fernandópolis 21.600 t/ano; Porto Ferreira 12.480 t/ano), escopos distintos (coleta rural, varrição, triagem, tecnologia embarcada) e município de outro estado (Xanxerê/SC), sem qualquer ajuste ou uniformização de condições"
+  dispositivo_legal: "art. 23, caput e § 1.º, inciso II, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4a-021", "E4a-022", "E4a-023", "E4a-024"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-021
+  id_origem_parcial: E4a-021
+  dispositivo_editalicio: "Quadro Comparativo de Preços (item 4) c/c Contrato n.º 136/2025 de Artur Nogueira (anexo ao ETP)"
+  transcricao: "CONTRATAÇÃO COM DISPENSA DE LICITAÇÃO – LEI Nº 14.133/21, ART. 75, VIII. [...] Contratação, em caráter emergencial [...] FORNECIMENTO, MANUTENÇÃO E HIGIENIZAÇÃO DE CONTÊINER PEAD DE 1.000 LITROS [...] R$ 230,00 [...] O prazo de vigência do presente contrato é de 03 (três) meses"
+  tipo_achado: IRREGULAR
+  categoria: risco_economico
+  descricao_breve: "Uso de contrato emergencial firmado por dispensa de licitação (art. 75, VIII), com vigência de 3 meses, como referência de preço de contêiner (R$ 230,00), sem ponderação de que contratações emergenciais e de curtíssimo prazo tendem a embutir sobrepreço"
+  dispositivo_legal: "art. 23, § 1.º, inciso II, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4a-020"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-022
+  id_origem_parcial: E4a-022
+  dispositivo_editalicio: "Quadro Comparativo de Preços (item 3) — coluna Mirandópolis"
+  transcricao: "Prefeitura Municipal de Mirandópolis, SP - CNPJ n° 44.438.968/0001-70 - TERMO DE ADITAMENTO DO CONTRATO ADMINISTRATIVO 93/2024 [...] R$ 262,00"
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: "Uso de termo de aditamento de contrato originário de 2024 como fonte de preço para o item 3: verificar a data de assinatura do aditamento, pois contratações firmadas há mais de 1 ano da pesquisa (maio/2026) não atendem ao parâmetro legal de contratações similares"
+  dispositivo_legal: "art. 23, § 1.º, inciso II, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4a-020"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-023
+  id_origem_parcial: E4a-023
+  dispositivo_editalicio: "Quadro Comparativo de Preços (item 1) c/c Contratos n.º 109/2025 de Itapira e n.º 136/2025 de Artur Nogueira (anexos ao ETP)"
+  transcricao: "[Quadro, item 1, colunas Mirandópolis, Juquiá, Artur Nogueira, Itapira e Xanxerê:] R$ - [Contrato Itapira, item 01:] Serviços de coleta e remoção de resíduos sólidos domiciliares (rsu) [...] R$225,02 [Contrato Artur Nogueira, item 2:] COLETA, TRANSPORTE E DESTINAÇÃO FINAL DOS RESÍDUOS SÓLIDOS DOMICILIARES [...] R$ 342,30"
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: "Exclusão não justificada de cotações de coleta disponíveis nos próprios contratos anexados (Itapira R$ 225,02/t, inferior à média adotada de R$ 302,65; Artur Nogueira R$ 342,30/t) na composição do preço do item 1 — a única exclusão justificada na nota do quadro foi o outlier de contêiner de R$ 19.116,00"
+  dispositivo_legal: "art. 23, § 1.º, da Lei n.º 14.133/2021; art. 18, § 1.º, inciso VI, da Lei n.º 14.133/2021 (memórias de cálculo)"
+  referencias_cruzadas: ["E4a-020", "E4a-024"]
+  flag_tecnico: false
+  flag_reserva: true
+
+- id: E4-024
+  id_origem_parcial: E4a-024
+  dispositivo_editalicio: "Quadro Comparativo de Preços (colunas MÉDIA, MENOR VALOR, MAIOR VALOR, COEFICIENTE DE VARIAÇÃO)"
+  transcricao: "MÉDIA R$ 302,65 [...] COEFICIENTE DE VARIAÇÃO 23% [item 1]; MÉDIA R$ 168,77 [...] 16% [item 2]; MÉDIA R$ 249,28 [...] 25% [item 3]"
+  tipo_achado: IRREGULAR
+  categoria: risco_economico
+  descricao_breve: "Adoção de média simples sobre amostras reduzidas (2 a 4 cotações por item) com coeficientes de variação de até 25%, sem análise crítica dos preços, sem saneamento da cesta e sem justificar a opção pela média em vez da mediana ou do menor preço"
+  dispositivo_legal: "art. 23, § 1.º, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4a-020", "E4a-023"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-025
+  id_origem_parcial: E4a-025
+  dispositivo_editalicio: "Item 11 do ETP (Resultados pretendidos)"
+  transcricao: "Garantir o cumprimento da Política Nacional de Resíduos Sólidos (Lei nº 12.305/2010) assegurando as metas de redução, reutilização, coleta seletiva e reciclagem, entre outras, com vistas a reduzir a quantidade de rejeitos encaminhados para o aterro sanitário."
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: "Resultados pretendidos incluem metas de redução, reutilização, coleta seletiva e reciclagem sem nenhum componente correspondente na solução contratada (que destina 100% da tonelagem coletada a aterro, sem triagem ou recuperação), em descompasso com a ordem de prioridade da PNRS"
+  dispositivo_legal: "art. 9.º, caput, da Lei n.º 12.305/2010; art. 18, § 1.º, inciso IX, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4a-007"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-026
+  id_origem_parcial: E4a-026
+  dispositivo_editalicio: "Item 13 do ETP (Possíveis impactos ambientais e tratamentos)"
+  transcricao: "Principais impactos: Geração de chorume; Emissão de gases e odores; Contaminação do solo e da água. Medidas mitigadoras: Sistema de drenagem e tratamento; Destinação em aterro licenciado; Monitoramento ambiental contínuo."
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: "Análise de impactos ambientais genérica: não trata da situação concreta do aterro sanitário municipal cuja operação integra o objeto (vigência da licença de operação, capacidade remanescente, passivos, condicionantes), nem do licenciamento aplicável à destinação"
+  dispositivo_legal: "art. 18, § 1.º, inciso XII, da Lei n.º 14.133/2021; Resolução CONAMA n.º 237/1997; Resolução CONAMA n.º 499/2020"
+  referencias_cruzadas: ["E4a-008"]
+  flag_tecnico: true
+  flag_reserva: false
+
+- id: E4-027
+  id_origem_parcial: E4a-027
+  dispositivo_editalicio: "Item 14 do ETP (Declaração de viabilidade)"
+  transcricao: "conclui pela VIABILIDADE DA CONTRATAÇÃO/AQUISIÇÃO, uma vez considerados os seus potenciais benefícios em termos de eficácia, eficiência, efetividade e economicidade."
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: "Posicionamento conclusivo de viabilidade sem análise econômica que o suporte: o documento não contém avaliação de viabilidade econômica das alternativas nem demonstração de economicidade que fundamente a conclusão"
+  dispositivo_legal: "art. 18, § 1.º, inciso XIII, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4a-010"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-028
+  id_origem_parcial: E4a-028
+  dispositivo_editalicio: "ETP (ausência de premissas operacionais)"
+  transcricao: "[o ETP não contém qualquer premissa de frota, guarnições, setores de coleta, frequências ou pessoal]"
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: "Ausência total de premissas de dimensionamento operacional (número de caminhões compactadores, guarnições, setorização, frequência de coleta, quilometragem, pessoal) para serviço contínuo de 60 meses, impedindo aferir a consistência dos preços por tonelada adotados"
+  dispositivo_legal: "art. 18, § 1.º, incisos IV e VII, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4a-001", "E4a-020"]
+  flag_tecnico: true
+  flag_reserva: false
+
+- id: E4-029
+  id_origem_parcial: E4a-029
+  dispositivo_editalicio: "Item 11 do ETP (Resultados pretendidos)"
+  transcricao: "Garantir que 100% da área urbana e distritos industriais sejam atendidos pela coleta de resíduos sólidos urbanos e tenham sua destinação ambientalmente adequada."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: contradicao
+  descricao_breve: "Meta de atendimento de 'distritos industriais' pela coleta pública sem delimitação: resíduos industriais e de grandes geradores estão sujeitos a gerenciamento pelo próprio gerador, e o ETP simultaneamente pressupõe a retirada dos grandes geradores da coleta municipal"
+  dispositivo_legal: "art. 13, inciso I, alínea 'f', e art. 20, incisos I e II, da Lei n.º 12.305/2010"
+  referencias_cruzadas: ["E4a-003", "E4a-004"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-030
+  id_origem_parcial: E4a-030
+  dispositivo_editalicio: "Item 2 do ETP (Alinhamento entre a contratação e o planejamento)"
+  transcricao: "O objeto da contratação está previsto no Plano de Contratações Anual 2026 [...] ID PCA no PNCP: 45339363000194-0-000003/2026; Data de publicação no PNCP: 29/12/2025"
+  tipo_achado: CONFORME
+  categoria: omissao
+  descricao_breve: "Alinhamento com o Plano de Contratações Anual 2026 demonstrado, com identificação dos itens no PNCP (IDs 650 e 637)"
+  dispositivo_legal: "art. 18, caput e § 1.º, inciso II, da Lei n.º 14.133/2021"
+  referencias_cruzadas: []
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-031
+  id_origem_parcial: E4a-031
+  dispositivo_editalicio: "Certificação de abertura do ETP c/c estrutura dos itens 1 a 14"
+  transcricao: "Certifico que neste ETP constam todos os elementos obrigatórios dispostos nos itens 3,7,8,9 e 14, deste modelo (incisos I, V, VI, VII e XIII, do artigo 6º do Decreto Municipal nº 2.684, de 25/01/2024)"
+  tipo_achado: CONFORME
+  categoria: omissao
+  descricao_breve: "Presença formal, no documento, dos elementos mínimos obrigatórios do ETP (descrição da necessidade, estimativa de quantidades, estimativa de valores, justificativa de parcelamento e declaração de viabilidade) — sem prejuízo das deficiências de conteúdo apontadas nos demais achados"
+  dispositivo_legal: "art. 18, § 2.º, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4a-001", "E4a-012", "E4a-015", "E4a-027"]
+  flag_tecnico: false
+  flag_reserva: false
+
+# E4b — Extrator: segunda metade do ETP (linhas 4300-8408 de 6f7f6463a1d44293a5c0ebe0032bcf9e.txt)
+# Pregao Eletronico n. 30/2026 (REABERTURA) — Municipio de Porto Ferreira/SP — Processo n. 3.721/2026
+# Constatacao estrutural: todo o trecho analisado e composto por copias integrais de contratos de
+# outros municipios (Itapira/SP, Itapolis/SP, Juquia/SP, Mirandopolis/SP, Santa Cruz das Palmeiras/SP,
+# Xanxere/SC), anexados como suporte da pesquisa de precos. Nao ha, na segunda metade, secoes textuais
+# do ETP (analise de riscos, resultados pretendidos, providencias previas, impactos ambientais,
+# posicionamento conclusivo). A matriz de precos que consome esses contratos esta na primeira metade
+# (linhas 442-467 — campo do extrator E4a).
+
+- id: E4-032
+  id_origem_parcial: E4b-001
+  dispositivo_editalicio: "Anexo do ETP (pesquisa de precos) — Contrato n.º 51/2025 do Municipio de Itapolis/SP, Clausula Primeira, itens 3 e 4, cotejado com a matriz de precos do ETP (item 3) e com o Item 3 do TR reaberto"
+  transcricao: "Item 3: 'SERVIÇO DE TRANSBORDO E TRANSPORTE DE RESÍDUOS SÓLIDOS URBANOS [...] ATÉ O ATERRO SANITÁRIO DEVIDAMENTE LICENCIADO — 54.000 TN — R$ 165,95'; Item 4 (apartado): 'SERVIÇO DE DISPOSIÇÃO FINAL DE RESÍDUOS SÓLIDOS URBANOS [...] — 54.000 TN — R$ 153,48'. Na matriz do ETP, o valor de R$ 165,95 compõe a média do item 3 (R$ 249,28/t) ao lado de R$ 262,00 (Mirandopolis) e R$ 319,90 (Juquia), ambos COM destinação final inclusa. O TR reaberto prevê que, operante o transbordo, 'será faturado exclusivamente o Item 3', que inclui a disposição final em aterro de outro município."
+  tipo_achado: IRREGULAR
+  categoria: erro_material
+  descricao_breve: "Média do item 3 (transbordo+transporte+destinação) computa referencial de Itapolis que NÃO inclui destinação final (item apartado de R$ 153,48 no contrato-fonte), misturando escopos heterogêneos e distorcendo o valor estimado"
+  dispositivo_legal: "art. 23, caput e § 1.º, inciso II, da Lei n.º 14.133/2021; art. 18, § 1.º, inciso VI, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4b-002", "E4b-003", "E4b-010"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-033
+  id_origem_parcial: E4b-002
+  dispositivo_editalicio: "Anexo do ETP (pesquisa de precos) — Contrato n.º 37/2025 do Municipio de Juquia/SP (Dispensa de Licitacao n.º 035/2025), preambulo e Clausula Segunda"
+  transcricao: "'em observância às disposições da Lei nº 14.133/2021, artigo 75, inciso VIII, resolvem celebrar o presente Termo de Contrato, decorrente da Dispensa de Licitação nº 035/2025'; 'observando o valor por tonelada de R$ 319,90 [...] e o quantitativo estimado de 280 tonelada por mês' — vigência de 12 meses, vedada prorrogação."
+  tipo_achado: IRREGULAR
+  categoria: risco_economico
+  descricao_breve: "Preço de contratação emergencial (dispensa do art. 75, VIII), de município com 280 t/mês (27% da escala de Porto Ferreira, 1.040 t/mês) e prazo de 12 meses, usado sem qualquer ajuste na média do item 3 do valor estimado"
+  dispositivo_legal: "art. 23, § 1.º, inciso II, da Lei n.º 14.133/2021 (exigência de similaridade das contratações usadas como parâmetro); contrato-fonte fundado no art. 75, inciso VIII, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4b-001", "E4b-009"]
+  flag_tecnico: false
+  flag_reserva: true
+
+- id: E4-034
+  id_origem_parcial: E4b-003
+  dispositivo_editalicio: "Anexo do ETP (pesquisa de precos) — Termo de Aditamento do Contrato n.º 93/2024 do Municipio de Mirandopolis/SP, Clausula Segunda, cotejado com os demais referenciais da matriz do ETP"
+  transcricao: "'Fica o Contrato Administrativo nº. 93/2024 reajustado conforme o índice IPCA-IBGE, no percentual de 5,2252%, acumulado de agosto de 2024 a julho de 2025' — R$ 248,99 → R$ 262,00/t (assinatura 15.12.2025). Os referenciais da matriz do ETP reproduzem valores nominais de contratos com datas-base distintas: Itapolis 26/05/2025, Juquia 07/07/2025, Itapira 08/08/2025, Xanxere 10/10/2025, Mirandopolis 12/2025, Santa Cruz das Palmeiras 08/02/2026, sem aplicação de índice de atualização."
+  tipo_achado: IRREGULAR
+  categoria: erro_material
+  descricao_breve: "Cesta de preços mistura datas-base de 05/2025 a 02/2026 sem atualização monetária dos valores nominais para data-base comum, em desacordo com a regra do índice de atualização para contratações similares"
+  dispositivo_legal: "art. 23, § 1.º, inciso II, da Lei n.º 14.133/2021 ('observado o índice de atualização de preços correspondente')"
+  referencias_cruzadas: ["E4b-001"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-035
+  id_origem_parcial: E4b-004
+  dispositivo_editalicio: "Anexos do ETP (pesquisa de precos) — Contrato n.º 21/2026 de Santa Cruz das Palmeiras/SP (item 3) e Contrato n.º 51/2025 de Itapolis/SP (item 4), cotejados com o Item 2 do TR reaberto (disposição final no aterro sanitário municipal, incluída sua operação)"
+  transcricao: "SCP: 'Destinação Final de Resíduos em Aterro Sanitário Licenciado — TONELADA — 6.600,00 — R$ 132,00'; Itapolis: 'SERVIÇO DE DISPOSIÇÃO FINAL [...] EM ATERRO DEVIDAMENTE LICENCIADO — R$ 153,48'. Todos os referenciais do item 2 da matriz (R$ 199,59 / 132,00 / 190,00 / 153,48, média R$ 168,77) são tarifas de porta de aterro de terceiros; nenhum contrato anexado precifica operação, manutenção e monitoramento de aterro municipal como parcela unitária destacada."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: "Item 2 do valor estimado (operação do aterro sanitário municipal + disposição final) lastreado exclusivamente em gate fees de aterros privados de terceiros, estrutura de custos distinta da operação de aterro público (cobertura, chorume, monitoramento, encerramento)"
+  dispositivo_legal: "art. 23, caput e § 1.º, inciso II, da Lei n.º 14.133/2021; art. 18, § 1.º, inciso VI, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4b-005"]
+  flag_tecnico: true
+  flag_reserva: true
+
+- id: E4-036
+  id_origem_parcial: E4b-005
+  dispositivo_editalicio: "Anexo do ETP (pesquisa de precos) — Contrato n.º 0248/2025 do Municipio de Xanxere/SC (Dispensa de Licitacao n.º 0045/2025), Clausula Quarta e Anexo I"
+  transcricao: "'Coleta manual, mecanizada, transporte, tratamento e Disposição Final de resíduos sólidos domiciliares e comerciais urbanos, através de operação, manutenção e monitoramento de aterro sanitário — R$ 491.680,63 [mensal]' — 930 t/mês, 6 meses, mais itens de contêineres, galhos/entulhos, RSS e coleta seletiva, todos precificados por valor mensal fixo. Nenhum valor deste contrato aparece nas colunas da matriz de precos do ETP."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: omissao
+  descricao_breve: "Contrato de Xanxere/SC (dispensa emergencial de 6 meses, outro estado, objeto muito mais amplo, precificação mensal agregada não decomponível por tonelada) anexado ao ETP sem utilização demonstrada na composição do valor estimado e sem justificativa de inclusão/descarte"
+  dispositivo_legal: "art. 18, § 1.º, inciso VI, da Lei n.º 14.133/2021 (memórias de cálculo e documentos de suporte da estimativa)"
+  referencias_cruzadas: ["E4b-006"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-037
+  id_origem_parcial: E4b-006
+  dispositivo_editalicio: "Anexo do ETP (pesquisa de precos) — Contrato n.º 0109/2025 do Municipio de Itapira/SP (PE 025/2025), Lote 01, item 01, cotejado com a média do item 1 da matriz do ETP"
+  transcricao: "Itapira, Lote 01, item 01: 'remoção de resíduos — TON — 1.500 [t/mês] — 18.000 [t/ano] — R$ 225,02'. A média do item 1 da matriz (coleta) usa apenas R$ 315,34 / 355,61 / 352,80 / 186,84 (média R$ 302,65); o ETP registra descarte expresso somente do valor de R$ 19.116,00 do item de contêineres ('devidamente descartado [...] por se tratar de um preço que se afastou expressivamente das demais referências')."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: omissao
+  descricao_breve: "Preço de coleta de Itapira (R$ 225,02/t, contrato anexado ao proprio ETP, escala 1.500 t/mês) excluído da média do item 1 sem justificativa expressa — sua inclusão reduziria a média de R$ 302,65 para aproximadamente R$ 287/t"
+  dispositivo_legal: "art. 18, § 1.º, inciso VI, c/c art. 23, § 1.º, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4b-005"]
+  flag_tecnico: false
+  flag_reserva: true
+
+- id: E4-038
+  id_origem_parcial: E4b-007
+  dispositivo_editalicio: "Anexo do ETP (pesquisa de precos) — Contrato n.º 21/2026 de Santa Cruz das Palmeiras/SP, Clausula Primeira, itens 1, 4, 5 e 6, cotejado com a média do item 1 da matriz do ETP"
+  transcricao: "'Coleta Manual e Conteinerizada de Resíduos Sólidos Urbanos — 6.600,00 t — R$ 355,61' ao lado de itens apartados: 'Administração Local dos Serviços — UND/MÊS — R$ 4.215,04', 'Locação, Manutenção e Higienização de Contêineres', 'Fornecimento e Implantação de Sistemas de Contêineres Soterrados'."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: "Referencial de coleta de SCP (R$ 355,61/t) provém de estrutura contratual que precifica administração local e contêineres em itens apartados, comprometendo a comparabilidade direta com o item 1 de Porto Ferreira, que deve embutir esses custos no preço por tonelada"
+  dispositivo_legal: "art. 23, § 1.º, inciso II, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4b-008"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-039
+  id_origem_parcial: E4b-008
+  dispositivo_editalicio: "Anexo do ETP (pesquisa de precos) — Contrato n.º 21/2026 de Santa Cruz das Palmeiras/SP, Clausula Primeira, itens 1, 2 e 4"
+  transcricao: "Item 1: 6.600 t × R$ 355,61 = R$ 2.347.026,00, mas consta 'R$ 2.347.012,26'; item 2: 6.600 t × R$ 70,08 = R$ 462.528,00, mas consta 'R$ 462.539,68'; item 4: 240.000 L × R$ 0,49 = R$ 117.600,00, mas consta 'R$ 117.764,70'."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: erro_material
+  descricao_breve: "Inconsistências aritméticas entre preço unitário × quantidade e valor total nos itens 1, 2 e 4 do contrato-fonte de SCP (unitários reais com mais casas decimais), afetando marginalmente a fidedignidade do referencial R$ 355,61 usado na matriz"
+  dispositivo_legal: "art. 23, § 1.º, inciso II, da Lei n.º 14.133/2021 (fiabilidade do parâmetro de preços)"
+  referencias_cruzadas: ["E4b-007"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-040
+  id_origem_parcial: E4b-009
+  dispositivo_editalicio: "Anexos do ETP (pesquisa de precos) — conjunto dos seis contratos anexados, cotejado com as premissas do ETP (1.040 t/mês; 12.480 t/ano) e vigência de 60 meses do TR reaberto"
+  transcricao: "Escalas e prazos dos contratos-fonte: Juquia 280 t/mês (12 meses, dispensa); Mirandopolis 550 t/mês (12+12 meses); SCP 550 t/mês (12 meses); Itapolis 900 t/mês (60 meses); Xanxere 930 t/mês (6 meses, dispensa); Itapira 1.500 t/mês (12 meses). Porto Ferreira: 1.040 t/mês por 60 meses."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: "Cesta referencial heterogênea em porte (280 a 1.500 t/mês) e prazo (6 a 60 meses; duas dispensas emergenciais) sem fator de ajuste de escala ou de amortização de frota/CAPEX para a vigência de 60 meses de Porto Ferreira"
+  dispositivo_legal: "art. 23, § 1.º, inciso II, da Lei n.º 14.133/2021; art. 18, § 1.º, inciso VI, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4b-002"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-041
+  id_origem_parcial: E4b-010
+  dispositivo_editalicio: "Anexos do ETP (pesquisa de precos) — contratos de Itapolis (Clausula Primeira, item 3), Mirandopolis (Clausula Segunda — especificação do caminhão roll-on/roll-off, julieta e 6 contêineres da contratada) e Juquia (Clausula Primeira), cotejados com o TR reaberto (Estação de Transbordo municipal em construção, 'subsidiada', com licença de operação obtida pela Administração)"
+  transcricao: "Mirandopolis: 'Deverá ser disponibilizado para a execução dos serviços um caminhão de no mínimo 300CV [...] equipamento Roll-on/Roll-off [...] reboque Julieta [...] A contratada deverá disponibilizar para o município um total de 06 (seis) Containers'. TR reaberto: 'a Estação de Transbordo está sendo construída' pela Administração; 'Caso a CONTRATADA opte pela utilização da estação de transbordo subsidiada'."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: "Os três referenciais do item 3 pressupõem transbordo integralmente por conta da contratada (infraestrutura e equipamentos), enquanto em Porto Ferreira a estação de transbordo é construída e licenciada pela Administração — estruturas de custo distintas não ajustadas na composição do valor estimado"
+  dispositivo_legal: "art. 23, § 1.º, inciso II, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4b-001", "E4b-011"]
+  flag_tecnico: true
+  flag_reserva: true
+
+- id: E4-042
+  id_origem_parcial: E4b-011
+  dispositivo_editalicio: "Anexos do ETP (pesquisa de precos) — contratos de Itapolis, Mirandopolis e Juquia (referenciais do item 3), quanto à logística de transporte"
+  transcricao: "Itapolis: transporte 'até o aterro sanitário devidamente licenciado' (local não indicado); Mirandopolis: 'da Estação de Transbordo do Município [...] para Aterro Sanitário de responsabilidade da contratada' (distância não indicada); Juquia: 'transbordo (transferência), transporte e destinação final' (distância não indicada)."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: omissao
+  descricao_breve: "Nenhum dos referenciais do item 3 informa a distância de transporte até o aterro de destino, e o ETP não normaliza os preços por quilometragem, embora o custo de transporte a aterro de outro município seja função direta da distância — comparação com a logística real de Porto Ferreira impossibilitada"
+  dispositivo_legal: "art. 18, § 1.º, inciso VI, da Lei n.º 14.133/2021 (memórias de cálculo)"
+  referencias_cruzadas: ["E4b-010"]
+  flag_tecnico: true
+  flag_reserva: false
+
+- id: E4-043
+  id_origem_parcial: E4b-012
+  dispositivo_editalicio: "Segunda metade do ETP (parte final do documento) — ausência de seção de posicionamento conclusivo"
+  transcricao: "O documento encerra-se com a cópia do contrato de Xanxere/SC (Anexo I — quadro de frequência da coleta seletiva), sem qualquer seção conclusiva sobre a adequação e a viabilidade da contratação após os anexos de pesquisa de precos."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: omissao
+  descricao_breve: "Parte final do ETP não contém posicionamento conclusivo sobre a adequação e viabilidade da contratação (elemento obrigatório do ETP) — verificar se consta da primeira metade (campo do extrator E4a); se ausente também lá, o ETP é deficiente"
+  dispositivo_legal: "art. 18, § 1.º, inciso XIII, c/c § 2.º, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4b-013", "E4b-014", "E4b-017"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-044
+  id_origem_parcial: E4b-013
+  dispositivo_editalicio: "Segunda metade do ETP — ausência de seção de impactos ambientais e medidas mitigadoras"
+  transcricao: "Nenhuma seção sobre impactos ambientais consta das linhas 4300-8408 do ETP (apenas cópias de contratos de terceiros), embora o objeto inclua operação de aterro sanitário municipal e, alternativamente, transporte interurbano e disposição em aterro de outro município."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: omissao
+  descricao_breve: "Descrição de possíveis impactos ambientais e medidas mitigadoras ausente da parte final do ETP — verificar primeira metade; dada a natureza do objeto (aterro, licenciamento CETESB, transporte de resíduos), a omissão seria relevante"
+  dispositivo_legal: "art. 18, § 1.º, inciso XII, da Lei n.º 14.133/2021; Resolução CONAMA n.º 499/2020; Resolução CONAMA n.º 237/1997"
+  referencias_cruzadas: ["E4b-012"]
+  flag_tecnico: true
+  flag_reserva: false
+
+- id: E4-045
+  id_origem_parcial: E4b-014
+  dispositivo_editalicio: "Segunda metade do ETP — ausência de tratamento das contratações correlatas/interdependentes, em especial a obra da Estação de Transbordo municipal referida no TR reaberto"
+  transcricao: "TR reaberto: 'A CONTRATADA fica ciente de que a Estação de Transbordo está sendo construída' e 'no primeiro semestre de 2027, a operação migrará para o sistema de transbordo', quando 'será faturado exclusivamente o Item 3'. Na parte final do ETP não há qualquer análise dessa obra como contratação interdependente (cronograma, risco de atraso, licenciamento), embora ela condicione a alternância entre os itens 2 (média R$ 168,77/t) e 3 (média R$ 249,28/t) do valor estimado."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: omissao
+  descricao_breve: "Obra da Estação de Transbordo (contratação interdependente que condiciona a migração do faturamento do item 2 para o item 3, com diferença de ~R$ 80/t) não tratada no ETP como contratação correlata/interdependente — atraso ou antecipação da obra altera materialmente o valor total da contratação"
+  dispositivo_legal: "art. 18, § 1.º, inciso XI, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4b-012", "E4b-010"]
+  flag_tecnico: true
+  flag_reserva: false
+
+- id: E4-046
+  id_origem_parcial: E4b-015
+  dispositivo_editalicio: "Anexos do ETP — Cadastro do Responsável e Termos de Ciência e Notificação dos contratos de Santa Cruz das Palmeiras/SP e Itapira/SP, republicados integralmente no processo de Porto Ferreira"
+  transcricao: "Cadastro do Responsável (SCP): campo Endereço com a nota '(*) Não deve ser o endereço do Órgão e/ou Poder. Deve ser o endereço onde poderá ser encontrado(a), caso não esteja mais exercendo o mandato ou cargo' — preenchido com endereço residencial, celular e e-mail pessoais do prefeito; termos de Itapira contêm CPF, RG, e-mail pessoal e celular de agentes públicos e do representante da contratada."
+  tipo_achado: IRREGULAR
+  categoria: ilegalidade
+  descricao_breve: "Republicação, em anexo de ETP divulgado no certame de Porto Ferreira, de dados pessoais excedentes de agentes públicos e particulares de outros municípios (endereço residencial, telefones celulares e e-mails pessoais), sem necessidade para a finalidade de pesquisa de precos"
+  dispositivo_legal: "art. 6.º, inciso III, da Lei n.º 13.709/2018 (princípio da necessidade); art. 5.º, § 3.º, da Lei n.º 14.133/2021"
+  referencias_cruzadas: []
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-047
+  id_origem_parcial: E4b-016
+  dispositivo_editalicio: "Anexos do ETP (contratos de Itapolis, Mirandopolis, Juquia, SCP e Itapira) cotejados com os valores unitários lançados na matriz de precos do ETP"
+  transcricao: "Valores da matriz conferem com os contratos anexados: R$ 186,84, R$ 165,95 e R$ 153,48 (Itapolis); R$ 262,00 (Mirandopolis, valor reajustado); R$ 319,90 (Juquia); R$ 355,61 e R$ 132,00 (SCP); R$ 183,75 (Itapira, contêiner); R$ 19.116,00 (Itapolis, contêiner — descartado expressamente)."
+  tipo_achado: CONFORME
+  categoria: erro_material
+  descricao_breve: "Fidelidade numérica verificada: os valores unitários transportados dos contratos anexados para a matriz de precos do ETP correspondem exatamente aos valores nominais dos contratos-fonte (sem erro de transcrição)"
+  dispositivo_legal: "art. 18, § 1.º, inciso VI, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4b-003"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-048
+  id_origem_parcial: E4b-017
+  dispositivo_editalicio: "Segunda metade do ETP — ausência de análise de riscos da contratação"
+  transcricao: "Nenhuma seção de análise de riscos (matriz de riscos, riscos de execução, risco de indisponibilidade do aterro municipal, risco de atraso da estação de transbordo, risco de variação de tonelagem) consta das linhas 4300-8408 do ETP."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: omissao
+  descricao_breve: "Análise dos riscos que possam comprometer o sucesso da licitação e a boa execução contratual ausente da parte final do ETP — verificar se consta da primeira metade ou de documento apartado do processo"
+  dispositivo_legal: "art. 18, caput, inciso X, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4b-012", "E4b-014"]
+  flag_tecnico: false
+  flag_reserva: false
+
+# E4c — Extrator de anexos ambientais e tecnicos
+# Pregao Eletronico n. 30/2026 (REABERTURA) — Municipio de Porto Ferreira/SP — Processo n. 3.721/2026
+# Documentos-fonte: LI CETESB 400000157 (estacao de transbordo), LO CETESB 4011055 (aterro),
+# Decreto municipal 3.367/2026 (grandes geradores), Projeto Basico da Estacao de Transbordo,
+# Tabela de Quilometragem, mapas de itinerario (mapa 1 zip tecnico / mapa 2 PDF avulso 6673b034),
+# cotejados com o edital de reabertura (arquivo 61122568-021ee384a2ef4df4b7959822128a21b8.txt).
+
+- id: E4-049
+  id_origem_parcial: E4c-001
+  dispositivo_editalicio: "Itens 1.1.1 e 9.1 do TR (tabela de quantitativos e de custos) c/c itens 2 e 3 do Lote 1"
+  transcricao: "Item 2 — Destinacao final ... em aterro sanitario devidamente licenciado no Municipio — 12.480 TON/ANO ... Item 3 — ... em aterro sanitario devidamente licenciado em outro Municipio — 12.480 TON/ANO ... O custo estimado total da contratacao e de R$9.193.852,80 ... Os itens 2 e 3 sao mutuamente excludentes e sucessivos"
+  tipo_achado: IRREGULAR
+  categoria: erro_material
+  descricao_breve: "Valor estimado global soma integralmente os itens 2 e 3 (12.480 t/ano cada), declarados mutuamente excludentes, inflando o custo estimado total; a propria LO restringe o item 2 a Vala 05, com vida util estimada apenas ate o 1.º semestre de 2027"
+  dispositivo_legal: "art. 23, caput, e art. 18, § 1.º, inciso VI, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4c-002"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-050
+  id_origem_parcial: E4c-002
+  dispositivo_editalicio: "LO CETESB n.º 4011055 (validade ate 16/09/2029) c/c item 1.1.1 do TR (vigencia de 60 meses) e clausulas da minuta de contrato"
+  transcricao: "LICENCA DE OPERACAO — VALIDADE ATE: 16/09/2029 ... A renovacao da licenca de operacao devera ser requerida com antecedencia minima de 120 dias ... [TR] a vigencia contratual, que sera de 60 (sessenta) meses, contados da emissao da Ordem de Servico"
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: "Contrato de 60 meses (ate ~2031) sem disciplina sobre responsabilidade pelo requerimento de renovacao da LO do aterro (que expira em 16/09/2029) caso a operacao da Vala 05 se estenda alem do previsto; TR e minuta silentes"
+  dispositivo_legal: "art. 6.º, inciso XXIII, alinea 'a', da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4c-001", "E4c-003"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-051
+  id_origem_parcial: E4c-003
+  dispositivo_editalicio: "LO CETESB n.º 4011055 e LI CETESB n.º 400000157 (titular: Municipio de Porto Ferreira, CNPJ 45.339.363/0001-94) c/c item 5.5.16 do TR"
+  transcricao: "IDENTIFICACAO DA ENTIDADE — MUNICIPIO DE PORTO FERREIRA — 45.339.363/0001-94 ... [TR] A CONTRATADA devera realizar a operacao integral do Aterro Sanitario e da Estacao de Transbordo (quando apta)"
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: omissao
+  descricao_breve: "Licencas ambientais em nome do Municipio, mas operacao integral transferida a particular; edital nao disciplina comunicacao/averbacao do operador junto a CETESB nem a alocacao de responsabilidade por autos de infracao ambiental durante a execucao"
+  dispositivo_legal: "art. 10 da Lei n.º 6.938/1981; art. 6.º, inciso XXIII, alinea 'a', da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4c-002", "E4c-011"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-052
+  id_origem_parcial: E4c-004
+  dispositivo_editalicio: "Exigencia Tecnica 08 da LO CETESB n.º 4011055 c/c itens 5.5.5 e 5.5.6 do TR"
+  transcricao: "[LO] Implantar em toda a Vala n.º 05 sistema de drenagem de chorume, impermeabilizacao (manta de PEAD) e drenagem de gases ... [TR] Conforme exigencias da CETESB, devera a CONTRATADA garantir que o Aterro Sanitario possua uma camada de impermeabilizacao de base, constituida de geomembrana de polietileno de alta densidade – PEAD"
+  tipo_achado: IRREGULAR
+  categoria: risco_economico
+  descricao_breve: "TR transfere a contratada o dever de 'garantir' a impermeabilizacao/drenagem exigida pela condicionante 08 da LO sem informar o estado de implantacao da Vala 05 nem prever remuneracao especifica desse investimento em ativo com vida util residual de ~12 meses"
+  dispositivo_legal: "art. 18, § 1.º, incisos IV e VI, e art. 6.º, inciso XXIII, alinea 'a', da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4c-001"]
+  flag_tecnico: true
+  flag_reserva: false
+
+- id: E4-053
+  id_origem_parcial: E4c-005
+  dispositivo_editalicio: "Exigencias Tecnicas 01 a 05 e 07 da LO CETESB n.º 4011055 c/c itens 5.5.3, 5.5.4, 5.5.12 a 5.5.15 do TR"
+  transcricao: "[LO] Os Residuos Solidos Domiciliares destinados ao aterro deverao ser devidamente compactados e recobertos com camada de terra diariamente ... [TR] Os residuos deverao ser compactados atraves de trator de esteiras ... manutencao de uma frente de trabalho coberta constantemente com terra"
+  tipo_achado: CONFORME
+  categoria: omissao
+  descricao_breve: "Rotinas operacionais do TR (compactacao, recobrimento, drenagem pluvial, vedacao de queima) compativeis, em linhas gerais, com as exigencias tecnicas 01 a 05 e 07 da LO do aterro"
+  dispositivo_legal: "Exigencias Tecnicas 01 a 05 e 07 da LO CETESB n.º 4011055; art. 47, inciso II, da Lei n.º 12.305/2010"
+  referencias_cruzadas: []
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-054
+  id_origem_parcial: E4c-006
+  dispositivo_editalicio: "Exigencia Tecnica 06 da LO CETESB n.º 4011055 c/c item 5.3.1.2 do TR"
+  transcricao: "[LO] Fica proibida a disposicao de residuos de servico de saude e/ou industriais no aterro ... [TR] Fica excluida a coleta e o transporte dos seguintes tipos de residuos: ... RSS (Residuos de Servicos de Saude); Residuos provenientes das atividades industriais"
+  tipo_achado: CONFORME
+  categoria: omissao
+  descricao_breve: "Exclusao de RSS e residuos industriais do escopo da coleta coerente com a vedacao da exigencia tecnica 06 da LO do aterro"
+  dispositivo_legal: "Exigencia Tecnica 06 da LO CETESB n.º 4011055; art. 20, incisos I e II, da Lei n.º 12.305/2010"
+  referencias_cruzadas: []
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-055
+  id_origem_parcial: E4c-007
+  dispositivo_editalicio: "Observacao 01 da LO CETESB n.º 4011055 c/c itens 5.2.1 e 5.3.1.5 do TR (frequencias de coleta)"
+  transcricao: "[LO] A presente licenca e valida exclusivamente para a disposicao de 60ton/d de Residuos Solidos Domiciliares (RSU) ... [TR] A coleta ocorrera de maneira diaria (6 vezes na semana) na Regiao Central ... e de maneira alternada nas demais regioes"
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: "Limite licenciado de 60 t/dia no aterro vs. media estimada de 40 t/dia (12.480 t/ano): concentracao da coleta em dias de pico (segunda-feira acumula regiao central + regioes alternadas + residuo represado de domingo) pode ultrapassar o teto diario da LO, sem regra editalicia de escalonamento da descarga"
+  dispositivo_legal: "Observacao 01 da LO CETESB n.º 4011055; art. 60 da Lei n.º 9.605/1998"
+  referencias_cruzadas: ["E4c-028"]
+  flag_tecnico: true
+  flag_reserva: false
+
+- id: E4-056
+  id_origem_parcial: E4c-008
+  dispositivo_editalicio: "Item 5.1.6.4 do TR c/c itens 5.1.6.2 e 5.1.6.5 do TR e LI CETESB n.º 400000157"
+  transcricao: "a) Utilizacao da Estacao de Transbordo Municipal: Caso a obra esteja finalizada, apta e com licenca de operacao emitida ... ou b) Transporte Direto: Destinacao para aterro licenciado em outro municipio, sob inteira responsabilidade da CONTRATADA"
+  tipo_achado: IRREGULAR
+  categoria: risco_economico
+  descricao_breve: "Item 3 possui preco unitario unico (R$ 249,28/t) para duas logisticas radicalmente distintas — transbordo com carretas (custo menor, exige investimento em 3 carretas) ou transporte direto em compactadores a aterros de 67 a 140 km — cuja disponibilidade depende de evento incerto (emissao da LO do transbordo pela Administracao), impedindo precificacao homogenea na proposta"
+  dispositivo_legal: "art. 18, § 1.º, inciso VI, e art. 23, caput, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4c-015", "E4c-017"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-057
+  id_origem_parcial: E4c-009
+  dispositivo_editalicio: "Item 5.5.16 do TR c/c campo 'Atividade principal' da LI CETESB n.º 400000157"
+  transcricao: "[TR] A CONTRATADA devera realizar a operacao integral do Aterro Sanitario e da Estacao de Transbordo (quando apta), compreendendo o recebimento, triagem primaria, transporte e a destinacao final ... [LI] Atividade principal da solicitacao: Estacoes de transferencia de lixo; gestao de"
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: contradicao
+  descricao_breve: "TR atribui a contratada 'triagem primaria' na estacao de transbordo, atividade nao contemplada na LI 400000157, licenciada apenas como estacao de transferencia de RSU; triagem exigiria licenciamento proprio"
+  dispositivo_legal: "art. 10 da Lei n.º 6.938/1981; art. 2.º, caput e § 1.º, da Resolucao CONAMA n.º 237/1997"
+  referencias_cruzadas: ["E4c-011"]
+  flag_tecnico: true
+  flag_reserva: false
+
+- id: E4-058
+  id_origem_parcial: E4c-010
+  dispositivo_editalicio: "Observacao 07 da LI CETESB n.º 400000157 (horario 06:00–22:00) c/c item 5.2.1 do TR (coleta vespertina 16h–24h)"
+  transcricao: "[LI] A presente licenca e valida para: Horario de Funcionamento: Inicio: 06:00 Termino: 22:00 ... [TR] vespertino – das 16h00min as 24h00min. A coleta diaria sera iniciada as 16h00min"
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: contradicao
+  descricao_breve: "Coleta vespertina encerra as 24h, mas o horario de funcionamento licenciado da estacao de transbordo vai so ate 22h: apos a migracao para o transbordo, a descarga das ultimas viagens ocorreria fora do horario da licenca, sem compatibilizacao no TR"
+  dispositivo_legal: "Observacao 07 da LI CETESB n.º 400000157; art. 60 da Lei n.º 9.605/1998"
+  referencias_cruzadas: ["E4c-028"]
+  flag_tecnico: true
+  flag_reserva: false
+
+- id: E4-059
+  id_origem_parcial: E4c-011
+  dispositivo_editalicio: "Exigencias Tecnicas 01 a 09 da LI CETESB n.º 400000157 c/c itens 5.5.16 e 5.5.19 do TR"
+  transcricao: "[LI] 03. Em caso de necessidade de lavagem dos caminhoes, a area de lavagem devera estar provida de caixa de areia e Sistema Separador de Agua e Oleo (SAO) ... 08. Toda area de recepcao de residuos devera ser coberta, dotada de piso impermeabilizado e canaletas para direcionar os efluentes liquidos (chorume) para caixa impermeabilizada ... 09. Na ocasiao da solicitacao da Licenca de Operacao, apresentar o ... CTF/APP obtido junto ao IBAMA"
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: "TR atribui a contratada a operacao integral da estacao de transbordo sem reproduzir nem alocar as condicionantes operacionais da LI (SAO para lavagem, tratamento de esgoto NBR 17076, gestao do chorume da area de recepcao, controle de odores/ruidos, CTF/APP-IBAMA), deixando indefinido quem responde por seu cumprimento continuado"
+  dispositivo_legal: "art. 6.º, inciso XXIII, alinea 'a', da Lei n.º 14.133/2021; Exigencias Tecnicas 01 a 09 da LI CETESB n.º 400000157"
+  referencias_cruzadas: ["E4c-003", "E4c-009"]
+  flag_tecnico: true
+  flag_reserva: false
+
+- id: E4-060
+  id_origem_parcial: E4c-012
+  dispositivo_editalicio: "Item 2.5 do TR c/c data de emissao da LI CETESB n.º 400000157 (22/06/2026)"
+  transcricao: "[TR] A CONTRATADA fica ciente de que a Estacao de Transbordo esta sendo construida na entrada do aterro sanitario, com Licenca de Instalacao n.º 400000157 ... As obras ja foram iniciadas e a previsao de conclusao e ainda em 2026 ... [LI] Data de emissao 22/06/2026"
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: ilegalidade
+  descricao_breve: "Edital afirma obras da estacao de transbordo 'ja iniciadas', mas a LI foi emitida apenas em 22/06/2026 (apos a suspensao do certame em 15/06/2026); caso o inicio das obras seja anterior a LI, ha implantacao de empreendimento sem licenca de instalacao"
+  dispositivo_legal: "art. 8.º, inciso II, da Resolucao CONAMA n.º 237/1997; art. 60 da Lei n.º 9.605/1998"
+  referencias_cruzadas: []
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-061
+  id_origem_parcial: E4c-013
+  dispositivo_editalicio: "Projeto Basico da Estacao de Transbordo (prancha unica 'Projeto Arquitetonico — Folha Unica', ago/2024) c/c itens 2.5 e 5.5.19 do TR"
+  transcricao: "PROJETO ARQUITETONICO — FOLHA UNICA — OBJETO: ESTACAO DE TRANSBORDO - ATERRO SANITARIO ... PLANTA BAIXA ... PLANTA DE COBERTURA ... CORTE LONGITUDINAL ... CORTE TRANSVERSAL"
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: "'Projeto Basico' da estacao de transbordo limita-se a uma prancha arquitetonica (plantas e cortes), sem memorial descritivo, dimensionamento operacional, fluxo de veiculos, balanca ou moega, embora o edital exija carretas 'adequadas conforme Projeto Basico da Estacao de Transbordo em anexo'"
+  dispositivo_legal: "art. 6.º, inciso XXV, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4c-014"]
+  flag_tecnico: true
+  flag_reserva: false
+
+- id: E4-062
+  id_origem_parcial: E4c-014
+  dispositivo_editalicio: "Projeto Basico da Estacao de Transbordo (plataforma +3,50 m com cacambas roll-on e coletor compactador) c/c itens 2.5, 5.4.5 e 5.5.19 do TR"
+  transcricao: "[Projeto] CACAMBA ROLL ON ... COLETOR COMPACTADOR ... NIVEL +3,50 m ... DESCARGA ... [TR] devera disponibilizar 03 (tres) carretas de semirreboque basculante com 3 eixos e capacidade de 30 a 40 toneladas, adequadas conforme Projeto Basico da Estacao de Transbordo"
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: "Concepcao do projeto arquitetonico (descarga em cacambas roll-on e coletores compactadores sob plataforma de +3,50 m) incompativel com o equipamento exigido da contratada (carretas semirreboque basculantes de 30–40 t), sem moega ou funil que viabilize o carregamento direto de carretas"
+  dispositivo_legal: "art. 6.º, inciso XXV, e art. 40, § 1.º, inciso I, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4c-013"]
+  flag_tecnico: true
+  flag_reserva: false
+
+- id: E4-063
+  id_origem_parcial: E4c-015
+  dispositivo_editalicio: "Observacao 01 da LI CETESB n.º 400000157 c/c estimativa de 12.480 t/ano do TR"
+  transcricao: "[LI] A presente Licenca e valida para a implantacao de Estacao de Transbordo de Residuos Solidos Urbanos (RSU) do municipio de Porto Ferreira, com capacidade nominal de 75ton/dia"
+  tipo_achado: CONFORME
+  categoria: risco_economico
+  descricao_breve: "Capacidade nominal licenciada do transbordo (75 t/dia) comporta a demanda projetada (~40–45 t/dia), com folga para crescimento ao longo da vigencia"
+  dispositivo_legal: "Observacao 01 da LI CETESB n.º 400000157"
+  referencias_cruzadas: ["E4c-008"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-064
+  id_origem_parcial: E4c-016
+  dispositivo_editalicio: "Tabela de Quilometragem — quadro 'Quilometragem Media Transbordo' c/c item 5.5.20 do TR"
+  transcricao: "viagens por dia (40 ton/dia)* ... 1,5 ... *considerando 1,5 viagens por dia, cada viagem com 30 toneladas ... [TR] volume operacional disponiveis para receber 40 (quarenta) toneladas por dia"
+  tipo_achado: IRREGULAR
+  categoria: erro_material
+  descricao_breve: "Premissas divergentes na propria tabela: cabecalho refere 40 t/dia, mas a nota (1,5 viagens/dia x 30 t) resulta em 45 t/dia; TR 5.5.20 exige anuencia do aterro receptor para 40 t/dia — inconsistencia nos parametros de dimensionamento do frete do Item 3"
+  dispositivo_legal: "art. 18, § 1.º, inciso VI, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4c-008", "E4c-029"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-065
+  id_origem_parcial: E4c-017
+  dispositivo_editalicio: "Tabela de Quilometragem — quadro 'Quilometragem Media Transbordo' (aterros de referencia)"
+  transcricao: "Sao Carlos Ambiental - Grupo Solvi — 67 km ... Aterro Casa Branca - Grupo Seleta — 67 km ... CGR Guatapara - Estre Ambiental — 86 km ... Orizon Ecoparque - Paulinia — 123 km ... CTR Essencial - Rio das Pedras — 140 km ... **principais destinos considerados, sem prejuizo de outras opcoes"
+  tipo_achado: CONFORME
+  categoria: risco_economico
+  descricao_breve: "[USO INTERNO] Referencial de frete do Item 3 ancorado nos aterros mais proximos (67 km), sendo um deles ativo do proprio grupo (Sao Carlos Ambiental): assimetria favoravel na precificacao do transporte e da taxa de disposicao final em relacao a concorrentes sem aterro proprio na regiao"
+  dispositivo_legal: "nao ha irregularidade; premissa constante do proprio anexo do edital"
+  referencias_cruzadas: ["E4c-008"]
+  flag_tecnico: false
+  flag_reserva: true
+
+- id: E4-066
+  id_origem_parcial: E4c-018
+  dispositivo_editalicio: "Mapa de Itinerario 1 (zip tecnico) x Mapa de Itinerario 2 (PDF avulso 6673b034) x item 5.2.1 do TR — frequencia da regiao central"
+  transcricao: "[Mapa 1] Diaria - 16h as 00h (regiao central) ... [Mapa 2] 6 coletas semanais (seg a sab, inicio 16h) ... [TR 5.2.1] A coleta ocorrera de maneira diaria (6 vezes na semana) na Regiao Central e Avenida do Comercio"
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: "Anexos divergem quanto a frequencia da coleta na regiao central: 'diaria' (mapa 1, sugerindo 7 dias) x '6 coletas semanais, seg a sab' (mapa 2 e Tabela de Quilometragem, 24 coletas/mes), com o TR usando a expressao ambigua 'diaria (6 vezes na semana)' — indefinicao sobre coleta dominical afeta dimensionamento de equipes e frota"
+  dispositivo_legal: "art. 6.º, inciso XXIII, alinea 'a', e art. 25, caput, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4c-019", "E4c-020"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-067
+  id_origem_parcial: E4c-019
+  dispositivo_editalicio: "Mapa de Itinerario 2 (PDF avulso 6673b034) x Mapa de Itinerario 1, Tabela de Quilometragem (linha 'Rural (sexta)') e item 5.3.1.6 do TR"
+  transcricao: "[Tabela] Rural (sexta) — roxo — Rural — 21,7 km/dia — 1 coleta na semana — 4 no mes — 86,8 km/mes ... [TR] Nas residencias localizadas nas zonas rurais do municipio, a coleta sera realizada com frequencia diferenciada de 1 (um) dia na semana"
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: "Mapa 2 (PDF avulso) nao contempla a rota rural, prevista no mapa 1, na Tabela de Quilometragem (roxo, sexta-feira, 86,8 km/mes) e no TR 5.3.1.6 — anexos inconsistentes entre si quanto a existencia/tracado do itinerario rural"
+  dispositivo_legal: "art. 6.º, inciso XXIII, alinea 'a', e art. 25, caput, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4c-018"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-068
+  id_origem_parcial: E4c-020
+  dispositivo_editalicio: "Tabela de Quilometragem (total 4.078 km/mes) c/c item 5.2.1.1 do TR"
+  transcricao: "[Tabela] 4078 km media mensal ... [TR] A quilometragem media mensal para coleta de residuos domiciliares (RSU), sem considerar o trajeto ate o aterro, e de 4.078 quilometros"
+  tipo_achado: CONFORME
+  categoria: erro_material
+  descricao_breve: "Somatorio das rotas da Tabela de Quilometragem (1.365,6 + 464,4 + 426 + 297,6 + 777,6 + 660 + 86,8 = 4.078 km/mes) confere com o valor declarado no TR 5.2.1.1"
+  dispositivo_legal: "art. 18, § 1.º, inciso VI, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4c-018", "E4c-019"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-069
+  id_origem_parcial: E4c-021
+  dispositivo_editalicio: "Art. 3.º, caput e paragrafo unico, do Decreto municipal n.º 3.367/2026 c/c itens 5.3.1.3, 5.3.1.7 e 5.3.1.16 do TR"
+  transcricao: "[Decreto] A responsabilidade pelo gerenciamento dos residuos gerados pelo grande gerador, incluindo coleta, transporte e destinacao final ... e do proprio gerador ... [TR] recolhimento de todo e quaisquer residuos solidos apresentados regularmente ou esporadicamente nas vias e logradouros publicos ... A CONTRATADA devera recolher os residuos solidos domiciliares sempre, sejam quais forem os recipientes utilizados"
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: "Decreto atribui ao grande gerador a responsabilidade pela propria coleta (servico publico apenas mediante adesao e preco publico), mas o TR obriga a contratada a recolher todo residuo apresentado nas vias, com mero dever de comunicacao (5.3.1.16), sem disciplina de recusa ou de tratamento da massa de grandes geradores nao aderentes"
+  dispositivo_legal: "art. 20, inciso II, alinea 'b', e art. 27 da Lei n.º 12.305/2010; art. 3.º do Decreto municipal n.º 3.367/2026"
+  referencias_cruzadas: ["E4c-022", "E4c-023"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-070
+  id_origem_parcial: E4c-022
+  dispositivo_editalicio: "Decreto municipal n.º 3.367/2026 (vigente desde 07/01/2026) c/c estimativa de 12.480 t/ano do item 1.1.1 do TR"
+  transcricao: "[Decreto] Caso o grande gerador opte pelo servico publico de coleta, devera aderir ao regime de Preco Publico ... [TR] Item 1 — Servicos de coleta e transporte de residuos solidos urbanos com caminhao compactador — 12.480 TON/ANO"
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: "Estimativa de 12.480 t/ano nao indica se desconta a massa de grandes geradores que migrarem para coleta privada apos a regulamentacao (prazos de cadastro de 90/120 dias ja decorridos em 2026); remuneracao por tonelada efetiva transfere a contratada o risco de queda da tonelagem com custos fixos de frota/equipe mantidos"
+  dispositivo_legal: "art. 18, § 1.º, incisos IV e VI, e art. 23, caput, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4c-021", "E4c-023"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-071
+  id_origem_parcial: E4c-023
+  dispositivo_editalicio: "Arts. 7.º, paragrafo unico, 9.º e 14 do Decreto municipal n.º 3.367/2026 c/c item 5.9 do TR (criterio de medicao)"
+  transcricao: "[Decreto] A cobranca referente ao custo do servico prestado sera calculada com base na massa mensal declarada, adotando-se o valor do preco publico por centena de quilogramas (100 kg) ... 5,00 UFM POR CADA 100Kg ... [TR] O pagamento do Item 1 sera realizado de acordo com o peso, em tonelada, dos residuos solidos efetivamente coletados"
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: "Edital nao disciplina a medicao segregada da massa dos grandes geradores aderentes ao servico publico: Municipio cobra do gerador por massa autodeclarada (5 UFM/100 kg) e paga a contratada por pesagem efetiva, sem mecanismo de conciliacao entre as duas bases nem identificacao dessa massa nos tickets de pesagem"
+  dispositivo_legal: "art. 6.º, inciso XXIII, alinea 'a', da Lei n.º 14.133/2021; art. 35, caput, da Lei n.º 11.445/2007"
+  referencias_cruzadas: ["E4c-021", "E4c-022"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-072
+  id_origem_parcial: E4c-024
+  dispositivo_editalicio: "Item 5.6.1 do TR c/c itens 5.1.6.3 e 1.1.1 (nota informativa) do TR"
+  transcricao: "[TR] O aterro sanitario de Porto Ferreira/SP gera cerca de 190 litros de chorume por tonelada de residuo recebida. Essa quantidade devera ser coletada, transportada e tratada, sob responsabilidade operacional de custos da CONTRATADA ... A partir da constatacao do encerramento do Aterro Municipal, fica expressamente vedada a cobranca do Item 2"
+  tipo_achado: IRREGULAR
+  categoria: risco_economico
+  descricao_breve: "Responsabilidade da contratada pelo chorume do aterro municipal sem limite temporal, mas o faturamento do Item 2 cessa com o encerramento da vala (previsto para o 1.º semestre de 2027): geracao de chorume persiste por anos apos o encerramento, sem item remuneratorio para essa gestao nos ~48 meses restantes de contrato"
+  dispositivo_legal: "art. 18, § 1.º, inciso VI, e art. 6.º, inciso XXIII, alinea 'a', da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4c-025"]
+  flag_tecnico: true
+  flag_reserva: false
+
+- id: E4-073
+  id_origem_parcial: E4c-025
+  dispositivo_editalicio: "Itens 5.5.7, 5.5.18 e 5.1.6.2 do TR c/c LO CETESB n.º 4011055 (Vala 05)"
+  transcricao: "[TR] As camadas finais do aterro e dos taludes acabados de cada celula deverao ser impermeabilizadas atraves de uma camada de solo compactado, as quais receberao cobertura vegetal em grama ... Diante da exaustao da capacidade volumetrica e constatacao tecnica do encerramento do espaco fisico do Aterro Municipal"
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: "Edital nao define responsavel, escopo nem remuneracao do encerramento da Vala 05 (cobertura final, conformacao de taludes, monitoramento pos-encerramento) apos a cessacao do faturamento do Item 2, embora o encerramento ocorra em plena vigencia contratual"
+  dispositivo_legal: "art. 6.º, inciso XXIII, alinea 'a', da Lei n.º 14.133/2021; ABNT NBR 13.896/1997 (referida no item 2.6 do TR)"
+  referencias_cruzadas: ["E4c-024", "E4c-004"]
+  flag_tecnico: true
+  flag_reserva: false
+
+- id: E4-074
+  id_origem_parcial: E4c-026
+  dispositivo_editalicio: "Anexo II — Exigencias para Habilitacao (item 1.3 — Qualificacao Tecnica) c/c Exigencia Tecnica 09 da LI CETESB n.º 400000157"
+  transcricao: "[Anexo II] 1.3 Qualificacao Tecnica: 1.3.1 declaracao de conhecimento das condicoes ... 1.3.2 Certidoes de registro ... CREA ... 1.3.3 ... atestado(s) de Capacidade Tecnica ... [sem exigencia de regularidade ambiental]"
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: "Habilitacao nao exige qualquer comprovacao de regularidade ambiental da licitante/contratada (inscricao no CTF/APP-IBAMA, licenca ambiental para transporte de residuos ou operacao de unidades), embora o objeto inclua operacao de aterro e de estacao de transbordo e a LI condicione a LO a apresentacao do CTF/APP"
+  dispositivo_legal: "art. 67, caput, da Lei n.º 14.133/2021; art. 17, inciso II, da Lei n.º 6.938/1981; art. 27 da Lei n.º 12.305/2010"
+  referencias_cruzadas: ["E4c-011", "E4c-003"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-075
+  id_origem_parcial: E4c-027
+  dispositivo_editalicio: "Item 5.4.5 do TR x itens 2.5 e 5.5.19 do TR"
+  transcricao: "[5.4.5] Caso a CONTRATADA opte pela utilizacao da estacao de transbordo subsidiada por convenio estadual ... [2.5] a Estacao de Transbordo esta sendo construida na entrada do aterro sanitario ... Apos a conclusao, a Administracao solicitara a licenca de operacao"
+  tipo_achado: IRREGULAR
+  categoria: erro_material
+  descricao_breve: "Inconsistencia interna do TR sobre a natureza/financiamento da estacao de transbordo: item 5.4.5 refere obra 'subsidiada por convenio estadual', enquanto os itens 2.5/5.5.19 tratam de obra municipal, sem indicacao de fonte ou convenio nos demais documentos"
+  dispositivo_legal: "art. 25, caput, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4c-012"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-076
+  id_origem_parcial: E4c-028
+  dispositivo_editalicio: "Campo 'Horario de Funcionamento' da LO CETESB n.º 4011055 c/c item 5.2.1 do TR"
+  transcricao: "[LO] Horario de Funcionamento (h): Inicio 00:01 as 00:01 ... [TR] vespertino – das 16h00min as 24h00min"
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: erro_material
+  descricao_breve: "LO do aterro registra horario de funcionamento inconsistente ('00:01 as 00:01'), deixando indefinido o horario licenciado de recebimento de residuos; a coleta vespertina ate 24h pressupoe descarga noturna no aterro, sem respaldo claro no documento"
+  dispositivo_legal: "art. 60 da Lei n.º 9.605/1998; LO CETESB n.º 4011055 (campo Horario de Funcionamento)"
+  referencias_cruzadas: ["E4c-007", "E4c-010"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-077
+  id_origem_parcial: E4c-029
+  dispositivo_editalicio: "Item 5.5.20 do TR c/c estimativa de 12.480 t/ano do item 1.1.1 do TR"
+  transcricao: "[TR] devera possuir licenca de operacao vigente e carta de anuencia atestando que o local possui ... infraestrutura e volume operacional disponiveis para receber 40 (quarenta) toneladas por dia de residuos domiciliares provenientes de Porto Ferreira"
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: "Anuencia do aterro receptor dimensionada para exatamente 40 t/dia, igual a media estimada atual (12.480 t/ano), sem margem para crescimento vegetativo da geracao ao longo dos 60 meses; excedentes futuros podem ficar sem cobertura da carta de anuencia exigida"
+  dispositivo_legal: "art. 18, § 1.º, inciso IV, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4c-016", "E4c-008"]
+  flag_tecnico: true
+  flag_reserva: false
+
+- id: E4-078
+  id_origem_parcial: E4c-030
+  dispositivo_editalicio: "Art. 2.º, inciso I, do Decreto municipal n.º 3.367/2026 c/c item 5.3.1.16 do TR"
+  transcricao: "[Decreto] grandes geradores ... volume superior a 200 (duzentos) litros diarios ou massa superior a 50 (cinquenta) quilogramas diarios ... [TR] toda coleta cujo volume de residuos solidos urbanos com caracteristica domiciliar ... que exceda 200 litros ou 50 kg diarios por estabelecimento"
+  tipo_achado: CONFORME
+  categoria: omissao
+  descricao_breve: "Limiar de enquadramento de grande gerador adotado no TR (200 L ou 50 kg/dia) coerente com o art. 2.º, I, do Decreto 3.367/2026 e com o art. 20, II, 'b', da Lei 12.305/2010"
+  dispositivo_legal: "art. 20, inciso II, alinea 'b', da Lei n.º 12.305/2010; art. 2.º, inciso I, do Decreto municipal n.º 3.367/2026"
+  referencias_cruzadas: ["E4c-021"]
+  flag_tecnico: false
+  flag_reserva: false
+
+# E4d — Extrator: CCT 2025/2026 SIEMACO Araraquara + Anexos IV, V e VI do Edital
+# Pregão Eletrônico n.º 30/2026 (REABERTURA) — Município de Porto Ferreira/SP — Processo n.º 3.721/2026
+# Fontes: Convencao_Coletiva_de_Trabalho_CCT_2025_2026_SIEMACO_Araraquara.txt (íntegra);
+#         61122568-021ee384a2ef4df4b7959822128a21b8.txt, linhas 4788-5170 (Anexos IV-VI),
+#         com verificações pontuais no TR (itens 4.12, 5.4.28-5.4.29, 7.11-7.12, 9.1), Anexo II (1.3, 1.5.1) e minuta (cláusula 5ª)
+
+# ============ CCT 2025/2026 SIEMACO ARARAQUARA ============
+
+- id: E4-079
+  id_origem_parcial: E4d-001
+  dispositivo_editalicio: "Item 5.4.29 do TR c/c cláusula 9.4.29 da minuta de contrato"
+  transcricao: "A CONTRATADA deverá atender integralmente à Convenção Coletiva de Trabalho 2025/2026 (em anexo) do SIEMACO Araraquara (...), sindicato este que atende os trabalhadores da categoria em Porto Ferreira."
+  tipo_achado: IRREGULAR
+  categoria: ilegalidade
+  descricao_breve: "Imposição editalícia de CCT específica (SIEMACO Araraquara) como obrigação contratual, quando o enquadramento sindical decorre da atividade preponderante e da base territorial definidas em lei, não de escolha do edital"
+  dispositivo_legal: "art. 511, § 2.º, e art. 611 da CLT (Decreto-Lei n.º 5.452/1943); art. 135, inciso II, da Lei n.º 14.133/2021 (proposta vinculada ao instrumento coletivo da categoria do próprio licitante)"
+  referencias_cruzadas: ["E4d-002", "E4d-003"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-080
+  id_origem_parcial: E4d-002
+  dispositivo_editalicio: "Item 5.4.29 do TR c/c Cláusula Segunda (Abrangência) da CCT 2025/2026"
+  transcricao: "CCT, cláusula 2ª: 'abrangência territorial em Américo Brasiliense/SP, Araraquara/SP, Boa Esperança do Sul/SP, Bocaina/SP, Dourado/SP, Ibaté/SP, Ibitinga/SP, Jaboticabal/SP, Jaú/SP, Matão/SP, Ribeirão Bonito/SP e Taquaritinga/SP' — Porto Ferreira não consta do rol; TR afirma que o SIEMACO Araraquara 'atende os trabalhadores da categoria em Porto Ferreira'."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: contradicao
+  descricao_breve: "A CCT anexada não inclui Porto Ferreira em sua abrangência territorial (cláusula 2ª), contradizendo a afirmação do TR de que o sindicato atende a categoria no Município; necessário apurar o real enquadramento sindical territorial da categoria em Porto Ferreira"
+  dispositivo_legal: "arts. 570, 611 e 612 da CLT (representação e âmbito de aplicação da convenção coletiva)"
+  referencias_cruzadas: ["E4d-001", "E4d-004"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-081
+  id_origem_parcial: E4d-003
+  dispositivo_editalicio: "Cláusula Primeira da CCT 2025/2026 c/c item 5.4.29 do TR e alínea 'b' do Anexo IV"
+  transcricao: "CCT, cláusula 1ª: 'vigência (...) no período de 01º de março de 2025 a 28 de fevereiro de 2026 e a data-base da categoria em 01º de março'; Anexo IV, 'b': custos das 'convenções coletivas de trabalho (...) vigentes na data de entrega das propostas'."
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: "Edital reaberto após 28/02/2026 exige atendimento integral a CCT 2025/2026 já expirada, ao mesmo tempo em que a declaração do Anexo IV vincula a proposta às CCTs vigentes na data de entrega — o instrumento anexado não estará vigente na data da sessão"
+  dispositivo_legal: "art. 63, § 1.º, da Lei n.º 14.133/2021; art. 614, § 3.º, da CLT (vigência máxima de dois anos e vedação de ultratividade)"
+  referencias_cruzadas: ["E4d-001", "E4d-004", "E4d-019"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-082
+  id_origem_parcial: E4d-004
+  dispositivo_editalicio: "Item 9.1 do TR (custo estimado) c/c cláusula 1ª da CCT 2025/2026"
+  transcricao: "O custo estimado total da contratação é de R$9.193.852,80 (...) conforme custos unitários apostos na tabela abaixo."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: "Orçamento estimado possivelmente elaborado sobre pisos e benefícios da CCT 2025/2026 vencida; a CCT 2026/2027 (data-base 01/03/2026), não anexada nem referida, deverá reger a proposta e pode defasar o valor estimado e as propostas — verificar a memória de cálculo da Administração e a existência/registro do novo instrumento"
+  dispositivo_legal: "art. 23 da Lei n.º 14.133/2021 (valor estimado compatível com os preços de mercado); art. 63, § 1.º, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4d-003", "E4d-007"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-083
+  id_origem_parcial: E4d-005
+  dispositivo_editalicio: "Cláusula 5.2, alínea 'a', da minuta de contrato c/c cláusula 1ª da CCT (data-base 1º de março)"
+  transcricao: "O interregno mínimo de 1 (um) ano para a primeira repactuação será contado: a) Para os custos relativos à mão de obra (...) a partir da data de início dos efeitos financeiros do acordo, convenção ou dissídio coletivo de trabalho ao qual a proposta estiver vinculada."
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: "Edital não define a qual instrumento coletivo a proposta estará vinculada (CCT 2025/2026 anexada, com efeitos desde 01/03/2025, ou CCT 2026/2027, com efeitos desde 01/03/2026), gerando incerteza sobre o marco da primeira repactuação e sobre a precificação do período entre a data-base e o início da execução"
+  dispositivo_legal: "art. 135, caput e inciso II, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4d-003", "E4d-004"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-084
+  id_origem_parcial: E4d-006
+  dispositivo_editalicio: "Cláusula Sexta da CCT 2025/2026 (Isonomia Salarial)"
+  transcricao: "na ocorrência de novos contratos de limpeza urbana, oriundos de processos licitatórios ou concessão, as empresas se obrigarão a considerar para a formação de seus preços, o mesmo salário base mensal previsto aos empregados varredores (...) àquelas funções operacionais com salários inferiores a este, e, implantá-lo nos locais onde ocorrerem tais fatos."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: "Cláusula de isonomia salarial obriga a adoção do salário-base do varredor como piso mínimo de formação de preços para funções operacionais com salário inferior em novos contratos licitados — parâmetro obrigatório de precificação a verificar no orçamento estimado"
+  dispositivo_legal: "art. 611 da CLT c/c art. 63, § 1.º, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4d-004"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-085
+  id_origem_parcial: E4d-007
+  dispositivo_editalicio: "Cláusula Sétima da CCT 2025/2026 (Salários Funcionais) c/c item 5.4.29 do TR"
+  transcricao: "A) Salários funcionais para empresas que concederam reajuste salarial de 9,5% (...) em 2015 [coletores R$1.724,40; varredores/serventes R$1.662,36; operador de máquina de aterro R$2.691,38]. B) Salários funcionais para empresas que concederam reajuste salarial de 8,5% (...) em 2015 [coletores R$1.708,65; operador de máquina de aterro R$2.666,81]."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: omissao
+  descricao_breve: "CCT prevê duas tabelas de pisos (empresas que reajustaram 9,5% ou 8,5% em 2015) e o edital exige atendimento 'integral' sem definir a tabela aplicável a licitante sem histórico na base territorial — ambiguidade de precificação entre concorrentes"
+  dispositivo_legal: "art. 63, § 1.º, da Lei n.º 14.133/2021; art. 5.º da Lei n.º 14.133/2021 (isonomia e julgamento objetivo)"
+  referencias_cruzadas: ["E4d-004"]
+  flag_tecnico: false
+  flag_reserva: true
+
+- id: E4-086
+  id_origem_parcial: E4d-008
+  dispositivo_editalicio: "Cláusula Sétima da CCT 2025/2026 c/c item 5.4.28 do TR (quadro mínimo)"
+  transcricao: "TR 5.4.28: 'quadro mínimo de: 03 coletores e 01 motorista por caminhão, e mais 01 coletor reserva, totalizando 13 (treze) coletores e 4 (quatro) motoristas'. A tabela de salários funcionais da CCT contempla apenas coletores/bueristas, varredores/serventes, operador de máquina de aterro e operador de roçadeira/motosserra/capinador."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: omissao
+  descricao_breve: "CCT anexada não fixa piso salarial para a função de motorista, essencial ao dimensionamento exigido no TR; possível enquadramento dos motoristas como categoria diferenciada (outro instrumento coletivo), com impacto de custo não parametrizado"
+  dispositivo_legal: "art. 511, § 3.º, da CLT (categoria diferenciada); art. 63, § 1.º, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4d-002", "E4d-007"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-087
+  id_origem_parcial: E4d-009
+  dispositivo_editalicio: "Cláusula Décima Segunda da CCT 2025/2026 (Adicional de Insalubridade)"
+  transcricao: "a) varrição (...), usinas de tratamento de lixo e transbordo municipal, operador de máquina de aterro (...): grau médio, que corresponde a 20% (...) do salário-mínimo federal. b) coletores e bueristas: grau máximo, que corresponde a 40% (...) do salário-mínimo federal."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: "Adicional de insalubridade convencional (40% do salário-mínimo para coletores/bueristas e 20% para operador de aterro e demais) é custo obrigatório relevante — verificar contemplação no orçamento estimado e nas propostas"
+  dispositivo_legal: "art. 192 da CLT c/c cláusula 12ª da CCT; art. 63, § 1.º, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4d-004"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-088
+  id_origem_parcial: E4d-010
+  dispositivo_editalicio: "Cláusulas Décima Quinta e Décima Sexta da CCT 2025/2026 (Tíquete Refeição e Vale Alimentação)"
+  transcricao: "Tíquete-refeição mensal R$483,68; Vale Alimentação mensal R$241,85 (tabela A, mar/25); concedidos também nas faltas por doença e acidente de trabalho e licença-maternidade (limitado a 150 dias) e no período de gozo de férias."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: "Benefícios de alimentação somam R$725,53/mês por empregado (valores mar/2025), devidos inclusive em férias e afastamentos de até 150 dias — custo relevante de precificação, a reajustar na CCT 2026/2027"
+  dispositivo_legal: "cláusulas 15ª e 16ª da CCT 2025/2026 c/c art. 63, § 1.º, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4d-004"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-089
+  id_origem_parcial: E4d-011
+  dispositivo_editalicio: "Cláusula Décima Oitava da CCT 2025/2026 (Convênio Médico Hospitalar)"
+  transcricao: "As empresas deverão implantar um plano de Convênio Médico (...) no valor de R$203,00 (duzentos e três reais) por vida (...). O saldo resultante da despesa total mensal do convênio após deduzida a importância oriunda do desconto salarial dos empregados será custeado pela empresa."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: "Plano de saúde obrigatório de R$203,00/vida com custeio residual patronal (descontos do empregado limitados a 8,9% do salário) — custo obrigatório a verificar no orçamento estimado"
+  dispositivo_legal: "cláusula 18ª da CCT 2025/2026 c/c art. 63, § 1.º, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4d-004"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-090
+  id_origem_parcial: E4d-012
+  dispositivo_editalicio: "Cláusula Décima Nona da CCT 2025/2026 (Auxílio Creche)"
+  transcricao: "As empresas pagarão, a título de Auxílio Creche, para as empregadas mães de filhos, com até 05 (cinco) anos de idade, o valor correspondente a 30% (trinta por cento) do valor do salário base do varredor."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: "Auxílio creche de 30% do salário-base do varredor por empregada mãe de filho de até 5 anos — custo variável conforme perfil do efetivo, a considerar na precificação"
+  dispositivo_legal: "cláusula 19ª da CCT 2025/2026 c/c art. 63, § 1.º, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4d-004"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-091
+  id_origem_parcial: E4d-013
+  dispositivo_editalicio: "Cláusula Vigésima da CCT 2025/2026 (Seguro de Vida)"
+  transcricao: "As empresas concederão seguro de vida, gratuitamente, a todos os seus empregados (...) a cobertura será de 06 (seis) vezes o menor salário funcional."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: "Seguro de vida obrigatório e gratuito (cobertura de 6 vezes o menor salário funcional) para todos os empregados — custo obrigatório de precificação"
+  dispositivo_legal: "cláusula 20ª da CCT 2025/2026 c/c art. 63, § 1.º, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4d-004"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-092
+  id_origem_parcial: E4d-014
+  dispositivo_editalicio: "Cláusula Vigésima Segunda, §§ 2.º e 4.º, da CCT 2025/2026 (Benefício Social Sindical)"
+  transcricao: "as empresas (...) compulsoriamente, a título de contribuição social, recolherão até o dia 10 (dez) de cada mês o valor total de R$ 14,08 (...) por trabalhador (...). Parágrafo Quarto: Em todas as planilhas de custos e editais de licitações deverão constar previsão financeira para cumprimento desta assistência social."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: omissao
+  descricao_breve: "Contribuição patronal compulsória de R$14,08/trabalhador/mês (BSS), com exigência convencional de previsão financeira expressa em planilhas de custos e editais — verificar se o orçamento estimado da Administração a contempla"
+  dispositivo_legal: "cláusula 22ª, §§ 2.º e 4.º, da CCT 2025/2026; art. 63, § 1.º, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4d-004", "E4d-016"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-093
+  id_origem_parcial: E4d-015
+  dispositivo_editalicio: "Cláusula Sexagésima Sexta da CCT 2025/2026 (Taxa Assistencial Patronal)"
+  transcricao: "As empresas contribuirão em favor do SELUR com a importância equivalente a 0,5% (cinco décimos por cento) mensalmente, sobre o total bruto de salários pagos aos empregados (...), incluindo o 13º (décimo terceiro) salário."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: "Taxa assistencial patronal de 0,5% sobre a folha bruta mensal (inclusive 13º) em favor do sindicato patronal — custo recorrente a considerar na precificação; repasse em repactuação potencialmente excluído pela cláusula 5.7 da minuta"
+  dispositivo_legal: "cláusula 66ª da CCT 2025/2026; art. 135, §§ 1.º e 2.º, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4d-014", "E4d-016"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-094
+  id_origem_parcial: E4d-016
+  dispositivo_editalicio: "Item 5.4.29 do TR c/c cláusula 5.7 da minuta de contrato"
+  transcricao: "TR 5.4.29: 'atender integralmente à Convenção Coletiva de Trabalho 2025/2026'; minuta 5.7: 'o contratante não se vinculará às disposições contidas em acordos, convenções ou dissídios coletivos de trabalho que tratem (...) de matéria não trabalhista, de pagamento de participação dos trabalhadores nos lucros ou resultados (...), ou que estabeleçam direitos não previstos em lei'."
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: "Contradição interna: o TR exige cumprimento integral da CCT (incluindo BSS, taxa patronal, PPR e demais obrigações convencionais), mas a minuta veda a consideração dessas mesmas parcelas na repactuação — custos exigidos na execução sem correspondente recomposição"
+  dispositivo_legal: "art. 135, §§ 1.º e 2.º, da Lei n.º 14.133/2021; art. 92, inciso V, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4d-014", "E4d-015", "E4d-017"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-095
+  id_origem_parcial: E4d-017
+  dispositivo_editalicio: "Cláusula Décima Quarta da CCT 2025/2026 (Plano de Participação nos Resultados)"
+  transcricao: "Se ainda assim persistir frustrada a negociação, fica avençada a multa de caráter indenizatório de 70% (setenta por cento) do salário do empregado abrangido por essa Convenção, a ser paga em 2 parcelas de 35% (...) em cada semestre."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: "Obrigação convencional de implantar PPR sob pena de multa indenizatória anual de 70% do salário por empregado — custo potencial relevante, expressamente excluído da repactuação pela cláusula 5.7 da minuta (PLR)"
+  dispositivo_legal: "cláusula 14ª da CCT 2025/2026; art. 135, § 1.º, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4d-016"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-096
+  id_origem_parcial: E4d-018
+  dispositivo_editalicio: "Cláusula Trigésima Nona, § 4.º, da CCT 2025/2026 (jornada 12x36)"
+  transcricao: "a jornada de trabalho de 12x36h em aterros sanitários demandará prévia anuência do Sindicato Laboral caso haja necessidade de adotá-la nas suas 'frentes de descarga'."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: "Adoção de escala 12x36 nas frentes de descarga do aterro condicionada a anuência sindical prévia — restrição de dimensionamento de equipe da operação do aterro municipal, com impacto no custo de mão de obra do item 2"
+  dispositivo_legal: "art. 59-A da CLT c/c cláusula 39ª, § 4.º, da CCT 2025/2026"
+  referencias_cruzadas: ["E4d-027"]
+  flag_tecnico: true
+  flag_reserva: false
+
+- id: E4-097
+  id_origem_parcial: E4d-019
+  dispositivo_editalicio: "Cláusula Septagésima Primeira da CCT 2025/2026 (Ultratividade)"
+  transcricao: "As partes acordam que será mantida a vigência das cláusulas durante o período de negociação da Convenção Coletiva de Trabalho."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: "Cláusula de ultratividade convencionada colide com a vedação legal de ultratividade (art. 614, § 3.º, da CLT), agravando a incerteza sobre quais pisos e benefícios vigoram na data de entrega das propostas caso a CCT 2026/2027 não esteja registrada"
+  dispositivo_legal: "art. 614, § 3.º, da CLT; art. 63, § 1.º, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4d-003", "E4d-004"]
+  flag_tecnico: false
+  flag_reserva: false
+
+# ============ ANEXO IV — MODELO DE DECLARAÇÃO (FASE DE HABILITAÇÃO) ============
+
+- id: E4-098
+  id_origem_parcial: E4d-020
+  dispositivo_editalicio: "Anexo IV, alíneas 'a', 'c', 'd', 'f', 'g', 'h', 'k', 'l' e 'm', c/c item 1.5.1 do Anexo II"
+  transcricao: "a) cumpre as exigências de reserva de cargos para pessoa com deficiência e para reabilitado da Previdência Social (...); g) nos termos do inciso VI do artigo 68 da Lei Federal nº 14.133 (...) situação regular (...) inciso XXXIII do artigo 7º da Constituição Federal; k) nos 5 (cinco) anos anteriores à divulgação deste edital, não fui condenada (...) por exploração de trabalho infantil (...)."
+  tipo_achado: CONFORME
+  categoria: omissao
+  descricao_breve: "Declarações-padrão de habilitação (reserva de cargos PCD/reabilitado, requisitos de habilitação, fato impeditivo, idoneidade, menor aprendiz, trabalho escravo/infantil, disponibilidade de máquinas e pessoal, normas de SST) têm amparo legal"
+  dispositivo_legal: "art. 63, incisos I e IV, art. 14, inciso VI, e art. 68, inciso VI, da Lei n.º 14.133/2021; art. 7.º, inciso XXXIII, da CF/1988"
+  referencias_cruzadas: []
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-099
+  id_origem_parcial: E4d-021
+  dispositivo_editalicio: "Anexo IV, alínea 'e'"
+  transcricao: "não haverá prestação de serviço, na execução do futuro contrato, de cônjuge, companheiro(a) ou parente em linha reta ou colateral, por consanguinidade ou afinidade, até o terceiro grau, de agente público que exerce cargo em comissão ou função de confiança no âmbito do Município."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: restricao_competitividade
+  descricao_breve: "Vedação de contratação, pela futura contratada, de parentes até 3.º grau de qualquer comissionado do Município extrapola o rol legal de impedimentos da Lei 14.133 (restrito a agente público do órgão contratante com atuação na licitação) — verificar existência de norma municipal antinepotismo que a fundamente"
+  dispositivo_legal: "art. 14, inciso IV, e art. 9.º, § 1.º, da Lei n.º 14.133/2021"
+  referencias_cruzadas: []
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-100
+  id_origem_parcial: E4d-022
+  dispositivo_editalicio: "Anexo IV, alínea 'i', c/c itens 1.4 e 1.5.1 do Anexo II"
+  transcricao: "possui os seguintes contratos firmados vigentes com a iniciativa privada e Administração Pública: (...) Valor Total dos Contratos R$__________ — Transferir para cálculo do PL."
+  tipo_achado: CONFORME
+  categoria: omissao
+  descricao_breve: "Exigência de relação de compromissos/contratos vigentes para cotejo com o patrimônio líquido tem amparo na disciplina da habilitação econômico-financeira; o critério de cálculo do 'PL' referido deve estar objetivamente definido no Anexo II"
+  dispositivo_legal: "art. 69 da Lei n.º 14.133/2021"
+  referencias_cruzadas: []
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-101
+  id_origem_parcial: E4d-023
+  dispositivo_editalicio: "Anexo IV, alínea 'j', c/c itens 7.11 e 7.12 do TR"
+  transcricao: "j) autoriza a criação de Conta Vinculada para a Quitação de Obrigações Trabalhistas (...). TR 7.11: 'depositados pelo Município em conta vinculada específica, conforme o disposto na Instrução Normativa SLTI/MP nº 02, de 30 de abril de 2008'."
+  tipo_achado: IRREGULAR
+  categoria: erro_material
+  descricao_breve: "Disciplina da conta vinculada remete à IN SLTI/MP 02/2008, norma federal revogada e não autoaplicável ao Município, sem fixação no edital dos percentuais de provisionamento e da operacionalização — insegurança sobre a retenção que impacta o fluxo de caixa da contratada"
+  dispositivo_legal: "art. 121, § 3.º, da Lei n.º 14.133/2021; art. 92 da Lei n.º 14.133/2021 (cláusulas necessárias)"
+  referencias_cruzadas: []
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-102
+  id_origem_parcial: E4d-024
+  dispositivo_editalicio: "Anexo IV, alínea 'n', c/c item 1.5.1, parte final, do Anexo II"
+  transcricao: "apresentará por ocasião da assinatura do contrato, caso sagre-se vencedora, comprovação de que os responsáveis técnicos indicados no(s) atestado(s) ou certidão(ões) apresentados na fase de habilitação pertencem ao quadro permanente da Licitante, conforme SÚMULA N° 25 (TCE)."
+  tipo_achado: IRREGULAR
+  categoria: restricao_competitividade
+  descricao_breve: "Exigência de que os responsáveis técnicos pertençam ao 'quadro permanente' da licitante restringe as formas admitidas de comprovação de vínculo profissional (a lei exige apenas a apresentação de profissional detentor de atestado/CAT); confrontar com o teor da própria Súmula 25 do TCE-SP invocada pelo edital"
+  dispositivo_legal: "art. 67, inciso I, da Lei n.º 14.133/2021"
+  referencias_cruzadas: []
+  flag_tecnico: false
+  flag_reserva: false
+
+# ============ ANEXO V — MINUTA DA PROPOSTA COMERCIAL ============
+
+- id: E4-103
+  id_origem_parcial: E4d-025
+  dispositivo_editalicio: "Anexo V, itens 4 e 4.1, c/c item 9.1 do TR (Nota Informativa) e critério de julgamento menor preço por lote"
+  transcricao: "Anexo V, item 4: Lote 1 — Item 2 'Destinação final (...) em aterro sanitário devidamente licenciado no Município' 12.480 TON/ANO; Item 3 'Destinação final (...) em aterro sanitário devidamente licenciado em outro Município' 12.480 TON/ANO; '4.1 Valor Total da Proposta R$'. TR 9.1, Nota: 'Os itens 2 e 3 são mutuamente excludentes e sucessivos'."
+  tipo_achado: IRREGULAR
+  categoria: ilegalidade
+  descricao_breve: "Julgamento pelo menor valor global do lote somando itens 2 e 3, mutuamente excludentes e ambos com a tonelagem anual integral (12.480 t), faz o critério de julgamento não refletir o dispêndio real e permite desbalanceamento dos preços unitários entre os itens conforme a expectativa de vida útil do aterro municipal (jogo de planilha)"
+  dispositivo_legal: "art. 5.º, art. 33, inciso I, e art. 34, caput e § 1.º, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4d-026", "E4d-027"]
+  flag_tecnico: true
+  flag_reserva: true
+
+- id: E4-104
+  id_origem_parcial: E4d-026
+  dispositivo_editalicio: "Anexo V, item 4, c/c item 9.1 do TR (Nota Informativa)"
+  transcricao: "TR 9.1, Nota Informativa: 'a Contratada não fará jus ao recebimento da soma integral de todos os itens simultaneamente. Os itens 2 e 3 são mutuamente excludentes e sucessivos (...) sendo vedada a cumulatividade de faturamento entre ambos' — regra não reproduzida no modelo de proposta do Anexo V."
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: "O Anexo V não reproduz a regra de exclusão mútua e sucessividade dos itens 2 e 3 constante do TR 9.1, induzindo o proponente que se guiar pelo modelo a precificar execução simultânea das duas destinações"
+  dispositivo_legal: "art. 25, caput, e art. 92 da Lei n.º 14.133/2021; art. 5.º da Lei n.º 14.133/2021 (julgamento objetivo)"
+  referencias_cruzadas: ["E4d-025"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-105
+  id_origem_parcial: E4d-027
+  dispositivo_editalicio: "Anexo V, itens 1.1 e 4 (Item 2 da planilha)"
+  transcricao: "1.1 (...) incluindo a operação do aterro sanitário municipal ou destinação final de resíduos urbanos em aterro sanitário de outro município (...). Item 2: 'Destinação final ambientalmente adequada (...) em aterro sanitário devidamente licenciado no Município' — 12.480 TON/ANO."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: omissao
+  descricao_breve: "Objeto inclui a operação do aterro sanitário municipal, mas a planilha remunera o item 2 exclusivamente por tonelada destinada, sem parcela fixa para custos de operação do aterro (recobrimento, drenagem, tratamento de chorume, monitoramento), transferindo à contratada risco de demanda sobre custos fixos"
+  dispositivo_legal: "art. 6.º, inciso XXIII, alínea 'e', e art. 23 da Lei n.º 14.133/2021; art. 92, inciso V, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4d-025", "E4d-018"]
+  flag_tecnico: true
+  flag_reserva: false
+
+- id: E4-106
+  id_origem_parcial: E4d-028
+  dispositivo_editalicio: "Anexo V, item 4 (colunas da tabela de preços)"
+  transcricao: "Quantidade 12.480 — Unidade TON/ANO — Valor Unitário — Valor Mensal — Valor Total para 12 (doze) meses."
+  tipo_achado: IRREGULAR
+  categoria: erro_material
+  descricao_breve: "Inconsistência de unidades no modelo de proposta: quantidade anual em TON/ANO combinada com coluna de 'Valor Mensal', enquanto a remuneração contratual é por tonelada efetivamente medida (R$/TON) — o 'valor mensal' uniforme não corresponde ao regime real de medição"
+  dispositivo_legal: "art. 25, caput, da Lei n.º 14.133/2021 (edital com regras claras e objetivas)"
+  referencias_cruzadas: ["E4d-025"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-107
+  id_origem_parcial: E4d-029
+  dispositivo_editalicio: "Anexo V, item 4 (Item 4 da planilha), c/c itens 5.1.4 e 9.1 do TR"
+  transcricao: "Anexo V/TR 9.1: 'Fornecimento, manutenção e higienização de contêineres com capacidade de 1000 litros'; TR 5.1.4: 'Locação Manutenção e higienização de contêineres com capacidade de 1000 litros'."
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: "Divergência entre 'fornecimento' (Anexo V e TR 9.1) e 'locação' (TR 5.1.4) dos contêineres — indefinição sobre a propriedade/reversão dos bens ao final do contrato, com impacto direto na precificação (CAPEX vs. aluguel)"
+  dispositivo_legal: "art. 6.º, inciso XXIII, e art. 40, § 1.º, inciso I, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4d-030"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-108
+  id_origem_parcial: E4d-030
+  dispositivo_editalicio: "Anexo V, item 4 (Item 4 da planilha)"
+  transcricao: "Item 4 — Fornecimento, manutenção e higienização de contêineres com capacidade de 1000 litros — 80 — UNIDADE."
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: "Modelo de proposta não indica a periodicidade do preço unitário do item 4 ('UNIDADE' — por mês ou preço único), embora a estimativa do TR 9.1 (R$207,83 unitário x 80 = R$16.626,40 mensal) pressuponha valor mensal por contêiner"
+  dispositivo_legal: "art. 25, caput, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4d-029"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-109
+  id_origem_parcial: E4d-031
+  dispositivo_editalicio: "Anexo V, item 3.2, c/c item 5.1.5 do TR"
+  transcricao: "O serviço será iniciado mediante emissão de Ordem de Serviço, devendo ter início das atividades em 30 (trinta) dias, ficando a critério do poder público escolher a data conveniente para emissão de tal ordem."
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: "Ausência de prazo máximo para emissão da Ordem de Serviço após a assinatura ('a critério do poder público escolher a data conveniente'), deixando indefinido o termo inicial da execução e da fluência dos preços propostos, com risco de defasagem entre proposta e mobilização"
+  dispositivo_legal: "art. 92, caput, da Lei n.º 14.133/2021 (cláusulas necessárias: prazos e condições de execução); art. 115 da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4d-005"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-110
+  id_origem_parcial: E4d-032
+  dispositivo_editalicio: "Anexo V, item 5.1, c/c itens 7.10 do TR"
+  transcricao: "5.1. Em até 10 (dez) dias, após a entrega do objeto e emissão da nota fiscal devidamente atestada pelo solicitante."
+  tipo_achado: IRREGULAR
+  categoria: erro_material
+  descricao_breve: "Condição de pagamento do modelo de proposta redigida para fornecimento de bens ('entrega do objeto'), incompatível com o regime de serviço contínuo com medição mensal por tonelada previsto no TR — resquício de modelo-padrão de compras"
+  dispositivo_legal: "art. 92, incisos V e VI, e art. 141 da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4d-028"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-111
+  id_origem_parcial: E4d-033
+  dispositivo_editalicio: "Anexo V, item 4.5, c/c item 10.1 do TR (dotação orçamentária)"
+  transcricao: "os quantitativos indicados no item 4 consideram um horizonte de 12 (doze) meses. Tal referência não altera a vigência contratual, que será de 60 (sessenta) meses (...). TR 10.1: dotações indicadas apenas para 2026 (R$3.041.419,20) e 2027 (R$6.152.433,60)."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: omissao
+  descricao_breve: "Edital não explicita o valor estimado total para os 60 meses de vigência (aprox. 5x o valor anual) nem demonstra a previsão orçamentário-financeira plurianual além de 2027 — base de cálculo de garantias, capital mínimo e limites fica referida apenas ao valor de 12 meses"
+  dispositivo_legal: "art. 23 e art. 105 da Lei n.º 14.133/2021; art. 16, §§ 1.º e 2.º, da LC n.º 101/2000"
+  referencias_cruzadas: ["E4d-025"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-112
+  id_origem_parcial: E4d-034
+  dispositivo_editalicio: "Anexo V, item 6.1"
+  transcricao: "A validade da proposta comercial será de .... (.......) dias, contados a partir da data da sessão pública. — Prazo não inferior a 60 (sessenta) dias."
+  tipo_achado: CONFORME
+  categoria: omissao
+  descricao_breve: "Prazo mínimo de validade da proposta de 60 dias coincide com o parâmetro legal supletivo"
+  dispositivo_legal: "art. 90, § 3.º, da Lei n.º 14.133/2021"
+  referencias_cruzadas: []
+  flag_tecnico: false
+  flag_reserva: false
+
+# ============ ANEXO VI — VISITA TÉCNICA / DECLARAÇÕES ============
+
+- id: E4-113
+  id_origem_parcial: E4d-035
+  dispositivo_editalicio: "Anexo VI (fls. 1/3 a 3/3) c/c item 4.12 do TR e item 1.3.1 do Anexo II"
+  transcricao: "TR 4.12: 'A avaliação prévia do local de execução dos serviços é imprescindível (...) sendo assegurado ao interessado o direito de realização de vistoria prévia'; 4.12.1.1: opção pela não realização mediante folha 3/3 do Anexo VI; 4.12.1.2: agendamento 'de modo que seu agendamento não coincida com o agendamento de outros licitantes'."
+  tipo_achado: CONFORME
+  categoria: omissao
+  descricao_breve: "Regime de vistoria facultativa, com declaração substitutiva de conhecimento das condições (fls. 3/3) e agendamento individualizado por licitante, observa o modelo legal e o entendimento sumulado (Súmula 272 do TCU)"
+  dispositivo_legal: "art. 63, §§ 2.º, 3.º e 4.º, da Lei n.º 14.133/2021; Súmula 272 do TCU"
+  referencias_cruzadas: ["E4d-036", "E4d-037"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-114
+  id_origem_parcial: E4d-036
+  dispositivo_editalicio: "Anexo VI, folha 3/3 (Declaração de Conhecimento das Condições de Execução)"
+  transcricao: "que somos detentores de todas as informações relativas a execução do objeto deste certame e que não alegaremos posteriormente o desconhecimento de fatos para solicitar qualquer alteração do valor do contrato que viermos a celebrar."
+  tipo_achado: IRREGULAR
+  categoria: ilegalidade
+  descricao_breve: "Declaração substitutiva impõe renúncia genérica a 'qualquer alteração do valor do contrato' por desconhecimento de 'fatos', sem restrição a fatos verificáveis à época — redação apta a ser oposta a pleitos de reequilíbrio por fatos supervenientes ou álea extraordinária, em conflito com o regime legal de manutenção do equilíbrio econômico-financeiro"
+  dispositivo_legal: "art. 124, inciso II, alínea 'd', e art. 103, § 5.º, da Lei n.º 14.133/2021; art. 37, inciso XXI, da CF/1988"
+  referencias_cruzadas: ["E4d-035", "E4d-037"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-115
+  id_origem_parcial: E4d-037
+  dispositivo_editalicio: "Anexo VI, folhas 2/3 e 3/3 (comparação das redações)"
+  transcricao: "Fls. 2/3: 'não alegaremos posteriormente o desconhecimento de fatos evidentes à época da visita'; fls. 3/3: 'não alegaremos posteriormente o desconhecimento de fatos' (sem o qualificador 'evidentes à época')."
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: "Assimetria entre as declarações: quem realiza a vistoria renuncia apenas quanto a fatos 'evidentes à época da visita', enquanto quem opta pela declaração substitutiva assume renúncia mais ampla (qualquer fato) — tratamento desigual que onera a opção legal de não vistoriar"
+  dispositivo_legal: "art. 5.º e art. 63, § 3.º, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4d-035", "E4d-036"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-116
+  id_origem_parcial: E4d-038
+  dispositivo_editalicio: "Anexo VI, folha 3/3 (campo de assinatura)"
+  transcricao: "por intermédio do(a) Sr(a) (...), devidamente credenciado(a) por nossa empresa (...) — Assinatura do profissional."
+  tipo_achado: IRREGULAR
+  categoria: erro_material
+  descricao_breve: "Modelo da declaração substitutiva de vistoria prevê assinatura de 'profissional credenciado' genérico, sem exigir que seja o responsável técnico do licitante, como prevê a lei para a declaração formal substitutiva"
+  dispositivo_legal: "art. 63, § 3.º, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4d-035"]
+  flag_tecnico: false
+  flag_reserva: false
+
+# E4e — Extrator: Respostas às impugnações (1ª a 6ª) x Edital de Reabertura
+# Pregão Eletrônico n. 30/2026 (REABERTURA) — Município de Porto Ferreira/SP — Processo n. 3.721/2026
+# Fontes: respostas às 6 impugnações (docs 34c7e787, 80b37147, 049efb6d, 6975477f, 265eebb1, 2cf65ab3)
+# cruzadas com o edital reaberto (doc 61122568).
+# Casos: (a) acolhido mas não refletido; (b) alterado sem anúncio; (c) resposta contradiz edital reaberto;
+# (d) regra nova "escondida" em resposta; (e) rejeitado e mantido tal como impugnado.
+
+# ============================================================
+# BLOCO A — PROMESSAS DE RETIFICAÇÃO NÃO REFLETIDAS OU PARCIALMENTE REFLETIDAS (caso a)
+# ============================================================
+
+- id: E4-117
+  id_origem_parcial: E4e-001
+  dispositivo_editalicio: "Resposta à 6ª impugnação (Revita), item III.4, vs. itens 5.5 do TR e cláusulas da minuta (Anexo III) do edital reaberto"
+  transcricao: "Resposta: 'a contratada não responderá por passivos ambientais, estruturais ou operacionais anteriores ao início da execução, o que será consignado expressamente'. Edital reaberto: nenhuma cláusula com esse teor (termo 'passivo' inexistente no documento)."
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: "Cláusula de não responsabilização da contratada por passivos ambientais anteriores, prometida expressamente na resposta à 6ª impugnação, não foi incorporada ao edital reaberto nem à minuta de contrato"
+  dispositivo_legal: "art. 164, parágrafo único, c/c art. 92 e art. 5º da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4e-002", "E4e-003"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-118
+  id_origem_parcial: E4e-002
+  dispositivo_editalicio: "Resposta à 6ª impugnação (Revita), item III.4, vs. itens 5.5 e 4.12 do TR do edital reaberto"
+  transcricao: "Resposta: 'com registro das condições iniciais da unidade por ocasião da assunção'. Edital reaberto: não há previsão de vistoria conjunta, inventário ou termo de assunção operacional do aterro municipal."
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: "Registro das condições iniciais do aterro por ocasião da assunção (termo de assunção operacional), prometido na resposta à 6ª impugnação, não consta do edital reaberto"
+  dispositivo_legal: "art. 164, parágrafo único, c/c art. 6º, inciso XXIII, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4e-001"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-119
+  id_origem_parcial: E4e-003
+  dispositivo_editalicio: "Resposta à 6ª impugnação (Revita), item III.5, vs. itens 2.3, 5.6.1 e 15.1 do TR do edital reaberto"
+  transcricao: "Resposta: 'serão disponibilizados os documentos técnicos objetivos de que dispõe a Administração, notadamente a Licença de Operação CETESB e condicionantes, o histórico de pesagens, os dados de geração de chorume...'. Edital reaberto: traz apenas número/validade da LO (2.3) e a média de 190 L de chorume/ton (5.6.1); histórico de pesagens e condicionantes não são anexados nem relacionados."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: omissao
+  descricao_breve: "Documentos técnicos prometidos na resposta à 6ª impugnação (LO com condicionantes, histórico de pesagens) não aparecem anexados nem relacionados no edital reaberto; apenas dados pontuais foram inseridos no corpo do TR"
+  dispositivo_legal: "art. 6º, inciso XXIII, alíneas 'a' e 'i', c/c art. 18 da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4e-004", "E4e-038"]
+  flag_tecnico: true
+  flag_reserva: false
+
+- id: E4-120
+  id_origem_parcial: E4e-004
+  dispositivo_editalicio: "Item 15.1 do TR (Anexo I) do edital reaberto"
+  transcricao: "'15.1. Compõem ainda o presente Anexo os arquivos abaixo relacionados, em formato PDF.' — segue-se diretamente o ANEXO II, sem relação de arquivo algum."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: erro_material
+  descricao_breve: "Rol de 'arquivos adicionais que compõem o TR' está vazio no texto do edital reaberto, embora o corpo do TR referencie diversos anexos prometidos nas respostas (Mapa de Itinerário, Tabela de Quilometragem, Projeto Básico do Transbordo, CCT SIEMACO, Decreto 3.367/2026, KPI); verificar se os PDFs foram efetivamente publicados na plataforma BLL"
+  dispositivo_legal: "art. 25, § 3º, c/c art. 6º, inciso XXIII, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4e-003", "E4e-005", "E4e-006"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-121
+  id_origem_parcial: E4e-005
+  dispositivo_editalicio: "Resposta à 4ª impugnação (R4), item III.IV, vs. itens 2.5 e 5.5.19 do TR do edital reaberto"
+  transcricao: "Resposta: '• Será anexado o projeto básico da Estação de Transbordo; • Será anexada a Licença de Instalação.' Edital reaberto: cita 'Licença de Instalação nº 400000157, vinculada ao Processo CETESB.026002/2026-04' e 'Projeto Básico da Estação de Transbordo em anexo', mas a LI não é referida como anexa e o rol de arquivos (15.1) está vazio."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: omissao
+  descricao_breve: "Anexação da Licença de Instalação da Estação de Transbordo, prometida na resposta à 4ª impugnação, não é confirmada no edital reaberto (apenas menção ao número da LI); anexação do projeto básico depende de verificação dos arquivos publicados"
+  dispositivo_legal: "art. 164, parágrafo único, c/c art. 6º, inciso XXIII, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4e-004", "E4e-024"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-122
+  id_origem_parcial: E4e-006
+  dispositivo_editalicio: "Resposta à 4ª impugnação (R4), item III.VI, vs. itens 5.2.1.1 e 5.3.1.6 do TR do edital reaberto"
+  transcricao: "Resposta: 'A coleta na zona rural ocorre 1 vez por semana, e seu trajeto é de 21 km... Estes dados estarão presente na planilha a ser anexada ao próximo edital.' Edital reaberto: 5.3.1.6 fixa frequência de 1 dia na semana, mas a quilometragem rural (21 km) não consta do corpo do TR; a Tabela de Quilometragem é referida 'em anexo' sem estar relacionada no rol 15.1."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: omissao
+  descricao_breve: "Quilometragem da coleta rural (21 km), prometida para a planilha anexa, não consta do corpo do edital reaberto; cumprimento depende de verificação da Tabela de Quilometragem anexada"
+  dispositivo_legal: "art. 6º, inciso XXIII, alínea 'a', da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4e-004"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-123
+  id_origem_parcial: E4e-007
+  dispositivo_editalicio: "Resposta à 6ª impugnação (Revita), item III.1, vs. item 10.6.2 do edital reaberto"
+  transcricao: "Edital reaberto: '10.6.2. Propostas com preços unitários manifestamente inexequíveis ou excessivos em qualquer item relevante poderão ser desclassificadas...'. Pedidos 'c' e 'd' da impugnante incluíam fixação expressa de critérios de aceitabilidade de preços unitários (e preços máximos) para os itens 1 a 4."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: omissao
+  descricao_breve: "Acolhimento parcial: incluída cláusula genérica de desclassificação por preço unitário inexequível/excessivo (10.6.2), mas sem critérios objetivos de aceitabilidade ou preços máximos unitários, mantendo margem discricionária no julgamento do lote com itens mutuamente excludentes (risco de jogo de planilha entre itens 2 e 3)"
+  dispositivo_legal: "art. 5º (julgamento objetivo) c/c art. 59, incisos III e IV, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4e-028"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-124
+  id_origem_parcial: E4e-008
+  dispositivo_editalicio: "Resposta à 6ª impugnação (Revita), item III.10.3, vs. item 9.1.2.2 do edital reaberto e itens 4.2/4.3 do TR"
+  transcricao: "Resposta: 'A exigência de indicação de marca é inaplicável ao presente objeto... e não será utilizada como fundamento de desclassificação, harmonizando-se o item 9.1.1.2 com o Termo de Referência.' Edital reaberto: '9.1.2.2 Indicação da marca do produto cotado... sob pena de desclassificação.' TR: '4.2. ...não será admitida a indicação de marca(s)...' e '4.3. ...não há vedação de marca ou produto.'"
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: "Promessa de harmonização não cumprida: edital reaberto mantém exigência de indicação de marca sob pena de desclassificação (9.1.2.2) em contradição com o TR (4.2 e 4.3) e com a própria resposta da Administração"
+  dispositivo_legal: "art. 41, inciso I, c/c art. 5º da Lei n.º 14.133/2021"
+  referencias_cruzadas: []
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-125
+  id_origem_parcial: E4e-009
+  dispositivo_editalicio: "Respostas à 5ª (Morato, item d) e à 6ª impugnação (Revita, item III.10.4), vs. Anexo V e item 10.8 do edital reaberto"
+  transcricao: "Resposta à 5ª: 'Serão exigidas da licitante melhor classificada a planilha de composição de custos e a formação de preços... conforme modelo disponibilizado no edital (Anexo V)'. Resposta à 6ª: 'Será disponibilizada planilha-modelo de composição de custos'. Edital reaberto: Anexo V é mera 'MINUTA DA PROPOSTA COMERCIAL' com tabela de preços unitários, sem estrutura de composição de custos (encargos, BDI, insumos); item 10.8 mantém convocação condicional ('Caso o custo global estimado... tenha sido decomposto...')."
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: "Planilha-modelo de composição de custos prometida nas respostas não foi disponibilizada: Anexo V do edital reaberto é apenas minuta de proposta com preços unitários, e a convocação para apresentação de planilha permanece condicional"
+  dispositivo_legal: "art. 164, parágrafo único, c/c art. 6º, inciso XXIII, alínea 'i', da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4e-010"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-126
+  id_origem_parcial: E4e-010
+  dispositivo_editalicio: "Resposta à 6ª impugnação (Revita), item III.7, alíneas 'a' e 'd', vs. itens 1.3.2 e 1.3.4 do Anexo II do edital reaberto"
+  transcricao: "Resposta: objeto é 'serviço comum de limpeza pública, conforme ETP' e 'as referências incompatíveis com o regime efetivamente adotado serão eliminadas do instrumento'. Edital reaberto (Anexo II): mantém '1.3.2 Certidões de registro... no Conselho Regional de Engenharia e Agronomia – CREA', atestados registrados em entidade profissional, CAT e Súmulas 23, 24 e 25 do TCE-SP."
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: "Promessa de eliminar referências incompatíveis com o regime de serviço comum cumprida apenas quanto ao critério de inexequibilidade (75% suprimido); Anexo II mantém exigências típicas de serviço de engenharia (registro CREA, CAT), em tensão com a qualificação do objeto como serviço comum"
+  dispositivo_legal: "art. 6º, incisos XIII e XXI-A, c/c art. 67 da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4e-032", "E4e-033"]
+  flag_tecnico: false
+  flag_reserva: true
+
+- id: E4-127
+  id_origem_parcial: E4e-011
+  dispositivo_editalicio: "Resposta à 4ª impugnação (R4), item III.X, vs. itens 5.4.28/5.4.29 do TR do edital reaberto"
+  transcricao: "Resposta: 'Quanto ao rodízio entre coletores, a previsão será convertida em diretriz de organização do trabalho voltada à saúde e à isonomia entre os empregados, sem interferência na gestão interna da contratada'. Edital reaberto: a previsão de rodízio foi integralmente suprimida (termo 'rodízio' inexistente); o item 5.4.29 passou a tratar de convenção coletiva."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: contradicao
+  descricao_breve: "Divergência entre o anunciado e o retificado: rodízio obrigatório entre coletores foi suprimido do edital reaberto, e não convertido em diretriz como afirmado na resposta"
+  dispositivo_legal: "art. 164, parágrafo único, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4e-012", "E4e-034"]
+  flag_tecnico: false
+  flag_reserva: false
+
+# ============================================================
+# BLOCO B — CONTRADIÇÕES ENTRE RESPOSTA E EDITAL REABERTO (caso c)
+# ============================================================
+
+- id: E4-128
+  id_origem_parcial: E4e-012
+  dispositivo_editalicio: "Resposta à 6ª impugnação (Revita), item III.10.4, vs. item 5.4.29 do TR e cláusula 9.4.29 da minuta do edital reaberto"
+  transcricao: "Resposta: 'caberá a cada licitante adotar a convenção coletiva aplicável à sua categoria e base territorial, com a correspondente composição de custos'. Edital reaberto: '5.4.29. A CONTRATADA deverá atender integralmente à Convenção Coletiva de Trabalho 2025/2026 (em anexo) do SIEMACO Araraquara..., sindicato este que atende os trabalhadores da categoria em Porto Ferreira.'"
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: "Contradição direta: resposta afirma liberdade de cada licitante adotar sua CCT, mas o edital reaberto impõe atendimento integral à CCT 2025/2026 do SIEMACO Araraquara, com impacto direto na composição de custos e comparabilidade das propostas"
+  dispositivo_legal: "art. 5º (julgamento objetivo e vinculação ao edital) c/c art. 6º, inciso XXIII, alínea 'i', da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4e-009", "E4e-011"]
+  flag_tecnico: false
+  flag_reserva: true
+
+- id: E4-129
+  id_origem_parcial: E4e-013
+  dispositivo_editalicio: "Resposta à 4ª impugnação (R4), item III.IV, vs. item 5.5.16 do TR (e 9.5.16 da minuta) frente aos itens 2.5, 5.1.6.4 e 5.4.5 do edital reaberto"
+  transcricao: "Resposta: 'Conforme itens 2.5, 5.1.6.2, 5.1.6.4 está claro que a Contratada PODERÁ OPTAR por utilizar a Estação de Transbordo ou fazer o transporte direto.' Edital reaberto: '5.5.16. A CONTRATADA deverá realizar a operação integral do Aterro Sanitário e da Estação de Transbordo (quando apta), compreendendo o recebimento, triagem primária, transporte e a destinação final...'"
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: "Contradição interna e com a resposta: item 5.5.16 impõe operação integral da Estação de Transbordo 'quando apta' como obrigação da contratada, enquanto os itens 2.5, 5.1.6.4 e 5.4.5 (e a resposta à 4ª impugnação) tratam a utilização do transbordo como faculdade da contratada"
+  dispositivo_legal: "art. 6º, inciso XXIII, alínea 'a', c/c art. 5º da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4e-005", "E4e-024"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-130
+  id_origem_parcial: E4e-014
+  dispositivo_editalicio: "Resposta à 2ª impugnação (THV), item 6, vs. itens 2.4, 5.1.6.2 e 5.5.17 do TR do edital reaberto"
+  transcricao: "Resposta à 2ª: 'o município de Porto Ferreira dispõe de aterro sanitário municipal a 4 km do centro da cidade, com vida útil e licença de operação vigente até 2029'. Edital reaberto: LO válida até 16/09/2029, porém Vala nº 05 'próxima do final de sua vida útil, estimada para o primeiro semestre de 2027' (2.4 e 5.5.17)."
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: "Resposta à 2ª impugnação sugere vida útil do aterro até 2029, enquanto o edital reaberto estima o esgotamento da Vala 05 para o 1º semestre de 2027 — premissa fática divergente utilizada para rejeitar a impugnação da exigência de operação de aterro"
+  dispositivo_legal: "art. 6º, inciso XXIII, c/c art. 18 da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4e-030", "E4e-038"]
+  flag_tecnico: true
+  flag_reserva: false
+
+- id: E4-131
+  id_origem_parcial: E4e-015
+  dispositivo_editalicio: "Resposta à 1ª impugnação (Cardeal), item 6.a (soma de índices), vs. item 1.4.2 do Anexo II do edital reaberto"
+  transcricao: "Resposta: 'O acréscimo incidirá na comprovação de capital mínimo no valor de R$ 919.385,28... equivalente a 10% do valor estimado da licitação'. Edital reaberto: '1.4.2. comprovação de capital mínimo no valor de R$ 708.760,32... equivalente a 10% do valor máximo anual efetivamente executável (soma dos itens 1, 3 e 4)'."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: contradicao
+  descricao_breve: "Resposta vinculante à 1ª impugnação refere capital mínimo de R$ 919.385,28 (base antiga), superado pelo edital reaberto (R$ 708.760,32 sobre nova base); a incidência do acréscimo de 15% para consórcios sobre o novo valor não foi reafirmada em texto editalício"
+  dispositivo_legal: "art. 15, § 1º, c/c art. 69, inciso II, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4e-020", "E4e-021"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-132
+  id_origem_parcial: E4e-016
+  dispositivo_editalicio: "Resposta à 4ª impugnação (R4), item III.I (parte final), vs. item 4.12 do TR do edital reaberto"
+  transcricao: "Resposta à 4ª: 'a avaliação prévia do local de execução dos serviços é facultativa e se destina ao conhecimento pleno das condições e peculiaridades do objeto (item 4.12)'. Edital reaberto: '4.12. A avaliação prévia do local de execução dos serviços é imprescindível para o conhecimento pleno das condições...'"
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: contradicao
+  descricao_breve: "Divergência terminológica com efeito prático: resposta qualifica a avaliação prévia do local como facultativa; edital reaberto a qualifica como imprescindível (admitida declaração substitutiva), o que pode gerar controvérsia sobre inabilitação de licitantes sem vistoria"
+  dispositivo_legal: "art. 63, inciso IV, da Lei n.º 14.133/2021 e Súmula 272 do TCU"
+  referencias_cruzadas: ["E4e-038"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-133
+  id_origem_parcial: E4e-017
+  dispositivo_editalicio: "Item 5.5.20 do TR (e 9.5.20 da minuta) do edital reaberto — dispositivo alterado na retificação"
+  transcricao: "'...deverá possuir licença de operação vigente e carta de anuência atestando que o local possui ambiental válida, infraestrutura e volume operacional disponíveis para receber 40 (quarenta) toneladas por dia...'"
+  tipo_achado: IRREGULAR
+  categoria: erro_material
+  descricao_breve: "Erro material introduzido na retificação do item 5.5.20 (supressão do IQR): frase truncada 'o local possui ambiental válida' (falta o substantivo, presumivelmente 'licença'), comprometendo a definição do documento exigido para o aterro externo"
+  dispositivo_legal: "art. 6º, inciso XXIII, alínea 'a', da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4e-013"]
+  flag_tecnico: false
+  flag_reserva: false
+
+# ============================================================
+# BLOCO C — REGRAS NOVAS "ESCONDIDAS" EM RESPOSTA, NÃO INCORPORADAS AO EDITAL (caso d)
+# ============================================================
+
+- id: E4-134
+  id_origem_parcial: E4e-018
+  dispositivo_editalicio: "Resposta à 1ª impugnação (Cardeal), item 6.a (cadastramento BLL), vs. itens 7.10 e 8 do edital reaberto"
+  transcricao: "Resposta: 'Caso o consórcio já esteja formalmente constituído e possua CNPJ próprio, o cadastro e a operação na plataforma são realizados em nome do próprio consórcio... Caso... não esteja formalmente constituído, as empresas deverão eleger uma líder, que será responsável pelo cadastro na plataforma, envio da proposta, participação nos lances...'. Edital reaberto: itens 7.10 e 8 não disciplinam o credenciamento/operação de consórcios no sistema BLL."
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: "Regra operacional de credenciamento e lances de consórcio na plataforma BLL consta apenas da resposta à 1ª impugnação, sem incorporação ao texto do edital reaberto"
+  dispositivo_legal: "art. 15 c/c art. 25 da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4e-019", "E4e-020"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-135
+  id_origem_parcial: E4e-019
+  dispositivo_editalicio: "Resposta à 1ª impugnação (Cardeal), item 6.a (habilitação), vs. itens 7.10.3/7.10.4 do edital reaberto e itens 1.3.5/1.4.2.1 do Anexo II"
+  transcricao: "Resposta: 'cada empresa consorciada deverá apresentar a totalidade dos documentos exigidos para habilitação, sendo certo que a inabilitação de uma das empresas inabilita o consórcio'. Edital reaberto: 7.10.4 e Anexo II admitem somatório de quantitativos (habilitação técnica) e de valores (econômico-financeira) entre consorciadas."
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: "Regra da resposta (totalidade dos documentos por consorciada e inabilitação em cadeia) não incorporada ao edital reaberto e em tensão com o regime de somatório dos itens 7.10.4, 1.3.5 e 1.4.2.1, gerando insegurança sobre o padrão de habilitação de consórcios"
+  dispositivo_legal: "art. 15, inciso III, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4e-018", "E4e-015"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-136
+  id_origem_parcial: E4e-020
+  dispositivo_editalicio: "Resposta à 1ª impugnação (Cardeal), item 6.a (garantia), vs. item 4.8 do TR e cláusula oitava da minuta do edital reaberto"
+  transcricao: "Resposta: 'a garantia contratual poderá ser apresentada em nome da empresa líder, assim como poderá conter informações adicionais sobre a constituição do consórcio...'. Edital reaberto: item 4.8 do TR e cláusula 8ª da minuta silentes quanto à titularidade da garantia em caso de consórcio."
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: "Regra de emissão da garantia contratual em nome da empresa líder do consórcio consta apenas da resposta à 1ª impugnação, sem previsão no edital reaberto"
+  dispositivo_legal: "art. 15 c/c arts. 96 a 98 da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4e-018"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-137
+  id_origem_parcial: E4e-021
+  dispositivo_editalicio: "Resposta à 4ª impugnação (R4), item III.VIII, vs. item 5.6.1 do TR do edital reaberto"
+  transcricao: "Resposta: 'a Carta de Anuência de ETE... deverá ser apresentada apenas quando a empresa for realizar a destinação, ou seja, posterior à execução do contrato. A escolha da ETE fica a cargo da interessada.' Edital reaberto: '5.6.1. ...Será obrigatório apresentar a carta de anuência da Estação de Tratamento para recebimento do chorume...' — sem definição do momento de apresentação nem de documentos equivalentes."
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: "Momento de exigência da carta de anuência da ETE (somente na fase de execução) definido apenas na resposta à 4ª impugnação; o texto do edital reaberto permanece sem essa delimitação, mantendo risco de interpretação como condição de habilitação/contratação"
+  dispositivo_legal: "art. 164, parágrafo único, c/c art. 9º, inciso I, e art. 6º, inciso XXIII, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4e-017"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-138
+  id_origem_parcial: E4e-022
+  dispositivo_editalicio: "Resposta à 4ª impugnação (R4), item III.XI, vs. item 4.1.1 do TR e item 5.8, alínea 'e', do TR do edital reaberto"
+  transcricao: "Resposta: 'As ações de educação ambiental... possuem caráter estritamente eventual e complementar, operando sob o regime de demanda direcionada... sem impacto orçamentário e operacional à Contratada.' Edital reaberto: mantém 'Adoção de ações de educação ambiental voltadas à população' (4.1.1) e 'Campanhas sobre segregação de resíduos' (5.8.e) sem escopo, periodicidade, medição ou custo."
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: "Delimitação das ações de educação ambiental (caráter eventual, sob demanda, sem impacto orçamentário) consta apenas da resposta; edital reaberto mantém obrigação genérica e sem parâmetros de medição/remuneração"
+  dispositivo_legal: "art. 6º, inciso XXIII, alíneas 'a' e 'e', da Lei n.º 14.133/2021"
+  referencias_cruzadas: []
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-139
+  id_origem_parcial: E4e-023
+  dispositivo_editalicio: "Resposta à 6ª impugnação (Revita), item III.6.c, vs. itens 4.5/4.6 do TR e Anexo II do edital reaberto"
+  transcricao: "Resposta: 'A capacidade técnica de eventual subcontratada da destinação final poderá ser considerada para comprovação da viabilidade do Item 3 (destinação em aterro licenciado em outro município).' Edital reaberto: Anexo II e itens 4.5/4.6 do TR não preveem aproveitamento de capacidade técnica de subcontratada para nenhum fim."
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: "Regra de aproveitamento da capacidade técnica da subcontratada para comprovar a viabilidade do Item 3 admitida apenas na resposta à 6ª impugnação, sem incorporação ao edital reaberto"
+  dispositivo_legal: "art. 122, § 1º, c/c art. 67 da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4e-030"]
+  flag_tecnico: false
+  flag_reserva: true
+
+- id: E4-140
+  id_origem_parcial: E4e-024
+  dispositivo_editalicio: "Resposta à 4ª impugnação (R4), item III.IV, vs. itens 2.5, 5.1.6.4.a, 5.4.5 e 5.5.19 do TR do edital reaberto"
+  transcricao: "Resposta: 'Os dados mínimos de capacidade operacional seguem a estimativa de 1.040 toneladas/mês (12.480 ton./ano), necessitando de 03 (três) carretas..., sendo uma carreta reserva.' Edital reaberto: exige 03 carretas semirreboque basculantes sem indicar capacidade operacional da estação nem que uma das carretas é reserva."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: omissao
+  descricao_breve: "Parâmetros da Estação de Transbordo revelados apenas na resposta (capacidade de 1.040 t/mês; uma das três carretas como reserva) não incorporados ao texto do edital reaberto"
+  dispositivo_legal: "art. 6º, inciso XXIII, alínea 'a', da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4e-005", "E4e-013"]
+  flag_tecnico: true
+  flag_reserva: false
+
+- id: E4-141
+  id_origem_parcial: E4e-025
+  dispositivo_editalicio: "Resposta à 4ª impugnação (R4), item III.II, vs. item 11 do TR (vigência) e ETP do edital reaberto"
+  transcricao: "Resposta: 'a coleta domiciliar de resíduos exige mobilização relevante de frota, contêineres, sede operacional e mão de obra dedicada, de modo que o prazo quinquenal permite a amortização desses investimentos...'. Edital reaberto: item 11.1 fixa 60 meses prorrogáveis até 10 anos sem justificativa expressa da opção pelo prazo quinquenal no corpo do edital/TR."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: omissao
+  descricao_breve: "Motivação técnico-econômica da vigência inicial de 60 meses apresentada apenas na resposta à 4ª impugnação, sem incorporação formal ao edital reaberto ou ao ETP disponibilizado"
+  dispositivo_legal: "art. 106, caput e inciso I, c/c art. 5º (motivação) da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4e-026"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-142
+  id_origem_parcial: E4e-026
+  dispositivo_editalicio: "Resposta à 4ª impugnação (R4), item III.II, vs. itens 9 e 10 do TR, cláusula terceira da minuta e Anexo V do edital reaberto"
+  transcricao: "Resposta: 'o valor global estimado da contratação corresponde à projeção anual multiplicada pelo período de vigência, observados os reajustes...'. Edital reaberto: item 9.1 mantém 'custo estimado total da contratação... R$9.193.852,80' (12 meses); cláusula 3ª e Anexo V seguem com 'valor total para 12 (doze) meses'; dotações indicadas apenas para 2026/2027; nenhum valor global de 60 meses é declarado."
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: "Regra do valor global (anual x 60 meses) enunciada apenas em resposta: edital reaberto segue sem valor global estimado para a vigência de 60 meses, sem memória de cálculo plurianual e com dotações indicadas somente para 2026/2027"
+  dispositivo_legal: "art. 6º, inciso XXIII, alínea 'i', art. 92, inciso VIII, da Lei n.º 14.133/2021 e arts. 16 e 17 da LC n.º 101/2000"
+  referencias_cruzadas: ["E4e-025", "E4e-028"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-143
+  id_origem_parcial: E4e-027
+  dispositivo_editalicio: "Respostas à 2ª (THV, item 6) e 3ª impugnações (Ramos & Forte, item 6.1), vs. TR/ETP do edital reaberto"
+  transcricao: "Resposta à 2ª: 'dois dos aterros sanitários particulares mais próximos e com capacidade para o recebimento dos resíduos aqui gerados, estão a 65 km do município'. Resposta à 3ª: 'existência concreta de aterros sanitários licenciados em distância operacionalmente compatível..., tais como os situados em São Carlos, Casa Branca e Guatapará'. Edital reaberto: não incorpora relação de aterros externos aptos, distâncias ou capacidades."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: omissao
+  descricao_breve: "Dados de mercado de destinação externa (aterros disponíveis, distâncias de referência) usados nas respostas para justificar o lote único e a viabilidade do Item 3 não foram incorporados ao edital/ETP, permanecendo assimetria informacional para precificação do Item 3"
+  dispositivo_legal: "art. 6º, inciso XXIII, alíneas 'a' e 'i', c/c art. 18, § 1º, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4e-029", "E4e-038"]
+  flag_tecnico: true
+  flag_reserva: false
+
+# ============================================================
+# BLOCO D — PONTOS REJEITADOS QUE PERMANECEM NO EDITAL REABERTO (caso e)
+# ============================================================
+
+- id: E4-144
+  id_origem_parcial: E4e-028
+  dispositivo_editalicio: "Item 9.1 do TR e Nota Informativa (itens 1.1 e 9 do TR) do edital reaberto — impugnado na 4ª (III.I) e 5ª (item a) impugnações"
+  transcricao: "'O custo estimado total da contratação é de R$9.193.852,80', somando item 2 (R$ 2.106.249,60) e item 3 (R$ 3.111.014,40), ambos sobre as mesmas 12.480 ton/ano; nota informativa mantém que 'a contratada não fará jus ao recebimento da soma integral de todos os itens simultaneamente'."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: "Rejeição mantida: valor estimado global segue somando integralmente os itens 2 e 3 (mutuamente excludentes, mesma massa de resíduos), corrigida apenas a base de habilitação/garantia (itens 1+3+4); o orçamento estimado e o empenho global permanecem somando cenários alternativos"
+  dispositivo_legal: "art. 6º, inciso XXIII, alínea 'i', c/c art. 18 e art. 23 da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4e-007", "E4e-026"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-145
+  id_origem_parcial: E4e-029
+  dispositivo_editalicio: "Estrutura de lote único (Lote 1, itens 1 a 4 — item 1.1 do TR) do edital reaberto — impugnada na 3ª, 5ª e 6ª impugnações; rejeitada"
+  transcricao: "Respostas: 'a segregação dos serviços de transporte e destinação final mitiga a eficiência administrativa... A cisão do objeto certamente implicaria perda da economia de escala'. Edital reaberto: mantém lote único com coleta/transporte, destinação (itens 2 e 3) e contêineres."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: restricao_competitividade
+  descricao_breve: "Rejeição mantida: aglutinação de coleta/transporte, destinação final e contêineres em lote único permanece no edital reaberto, com justificativa apresentada apenas nas respostas (fiscalização unificada, economia de escala), sem estudo comparativo incorporado ao ETP"
+  dispositivo_legal: "art. 40, inciso V, alínea 'b', c/c art. 47, inciso II, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4e-027", "E4e-030"]
+  flag_tecnico: false
+  flag_reserva: true
+
+- id: E4-146
+  id_origem_parcial: E4e-030
+  dispositivo_editalicio: "Itens 1.3.3, alínea 'b', e 1.3.4, alínea 'b', do Anexo II do edital reaberto — impugnados na 2ª, 3ª, 4ª e 6ª impugnações; rejeitados"
+  transcricao: "'b) Operação de aterro sanitário de resíduos sólidos urbanos (Classe IIA) – 520 toneladas/mês' mantida como parcela de maior relevância para capacitação operacional e profissional, a despeito da subcontratação da destinação final admitida no item 4.5 do TR."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: restricao_competitividade
+  descricao_breve: "Rejeição mantida: exigência de experiência em operação de aterro sanitário (520 t/mês) como parcela de maior relevância permanece no edital reaberto para todas as licitantes, mesmo com subcontratação da destinação final admitida"
+  dispositivo_legal: "art. 67, inciso II e § 1º, c/c art. 9º, inciso I, da Lei n.º 14.133/2021 e art. 37, inciso XXI, da CF/1988"
+  referencias_cruzadas: ["E4e-014", "E4e-023", "E4e-029"]
+  flag_tecnico: false
+  flag_reserva: true
+
+- id: E4-147
+  id_origem_parcial: E4e-031
+  dispositivo_editalicio: "Item 1.3.3.2 do Anexo II do edital reaberto — impugnado na 3ª e 6ª impugnações; rejeitado"
+  transcricao: "'1.3.3.2. A empresa licitante deverá comprovar, para os itens de maior relevância, que já prestou serviços – de maneira ininterrupta ou não – de ao menos 36 meses.'"
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: restricao_competitividade
+  descricao_breve: "Rejeição mantida: exigência de 36 meses de experiência prévia para os itens de maior relevância permanece no edital reaberto, justificada nas respostas com base no art. 67, § 5º, sem motivação técnica específica incorporada aos autos"
+  dispositivo_legal: "art. 67, § 5º, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4e-030"]
+  flag_tecnico: false
+  flag_reserva: true
+
+- id: E4-148
+  id_origem_parcial: E4e-032
+  dispositivo_editalicio: "Item 5.4.28 do TR (e 9.4.28 da minuta) do edital reaberto — impugnado na 4ª impugnação (III.X); rejeitado"
+  transcricao: "'...quadro mínimo de: 03 coletores e 01 motorista por caminhão, e mais 01 coletor reserva, totalizando 13 (treze) coletores e 4 (quatro) motoristas..., 01 (um) Encarregado...'"
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: "Rejeição mantida: quadro mínimo de pessoal (13 coletores, 4 motoristas, 1 encarregado) permanece sem memória de cálculo/estudo de dimensionamento incorporado ao edital reaberto, com justificativa apenas na resposta (4 caminhões, itinerários e quilometragem)"
+  dispositivo_legal: "art. 6º, inciso XXIII, alínea 'e', c/c art. 5º (motivação) da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4e-011"]
+  flag_tecnico: true
+  flag_reserva: false
+
+- id: E4-149
+  id_origem_parcial: E4e-033
+  dispositivo_editalicio: "Item 20.2, alínea 'e', do TR do edital reaberto (sede local, Cartão Cidadão e senha do extrato previdenciário, domicílio bancário local) — impugnado na 6ª impugnação (III.9); rejeitado"
+  transcricao: "Resposta: 'são cláusulas obrigatórias do edital impostas... por força do disposto no Termo de Ajuste de Conduta (TAC) nº 088/2014 – MPT/PRT 15ª Região – PTM Araraquara..., não podendo o Município suprimi-las'. Edital reaberto: mantém as três exigências no item 20.2.e."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: restricao_competitividade
+  descricao_breve: "Rejeição mantida: exigências acessórias (sede/filial local em 30 dias, Cartão Cidadão com senha de extrato previdenciário dos empregados, domicílio bancário no Município) permanecem, fundamentadas em TAC do MPT não disponibilizado como anexo do edital reaberto; questão de dados pessoais (LGPD) não enfrentada"
+  dispositivo_legal: "art. 9º, inciso I, da Lei n.º 14.133/2021 e art. 6º, inciso III, da Lei n.º 13.709/2018"
+  referencias_cruzadas: ["E4e-010"]
+  flag_tecnico: false
+  flag_reserva: true
+
+- id: E4-150
+  id_origem_parcial: E4e-034
+  dispositivo_editalicio: "Item 1.4.3, alínea 'c', do Anexo II do edital reaberto — impugnado na 6ª impugnação (III.10.7); rejeitado"
+  transcricao: "'...Índices de Liquidez Geral (LG), Solvência Geral (SG) e Liquidez Corrente (LC)... valor mínimo igual a 1 (um) e Patrimônio Líquido (PL) superior a 1/12 (um doze avos) do valor total dos contratos firmados com a Administração Pública e com a iniciativa privada...'"
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: restricao_competitividade
+  descricao_breve: "Rejeição mantida: exigência cumulativa de índices contábeis e de PL superior a 1/12 do valor total dos contratos vigentes (regra do regime da Lei 8.666/1993) permanece no edital reaberto, com justificativa genérica ao final do item 1.4.3"
+  dispositivo_legal: "art. 69, caput e § 5º, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4e-015"]
+  flag_tecnico: false
+  flag_reserva: true
+
+- id: E4-151
+  id_origem_parcial: E4e-035
+  dispositivo_editalicio: "Ausência de matriz de riscos no edital reaberto — impugnada na 1ª (item d), 4ª (III.III.III) e 6ª (III.5) impugnações; rejeitada"
+  transcricao: "Respostas: 'O §3º do artigo 22 da Lei 14.133/2021 traz a obrigatoriedade... somente nos casos de contratações de obras e serviços de grande vulto..., o que não é o caso'. Edital reaberto: sem matriz de riscos (termo inexistente no documento); alocação de riscos tratada pontualmente no item 5.1.6.5."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: "Rejeição mantida: edital reaberto segue sem matriz de riscos ou disciplina equivalente de alocação de riscos (para além do item 5.1.6.5), em contrato de 60 meses com transição de destinação final e operação de aterro em fim de vida útil"
+  dispositivo_legal: "art. 22, caput e § 3º, c/c art. 103 da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4e-028"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-152
+  id_origem_parcial: E4e-036
+  dispositivo_editalicio: "Ausência de garantia de proposta no edital reaberto — impugnada na 1ª impugnação (item c); rejeitada"
+  transcricao: "Resposta: 'a lei não traz a exigência como um dever, e sim como uma possibilidade..., conferindo à Administração o poder discricionário'. Edital reaberto: mantém apenas a garantia de contratação (item 4.8 do TR), sem garantia de proposta."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: "Rejeição mantida: edital reaberto segue sem exigir garantia de proposta (faculdade do art. 58); ponto permanece tal como impugnado, de baixa densidade como vício autônomo"
+  dispositivo_legal: "art. 58, caput, da Lei n.º 14.133/2021"
+  referencias_cruzadas: []
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-153
+  id_origem_parcial: E4e-037
+  dispositivo_editalicio: "Item 7.8 do edital reaberto — impugnado na 1ª impugnação (item e); rejeitado"
+  transcricao: "'7.8 O custo de operacionalização e uso do sistema ficará a cargo do Licitante vencedor do certame, que pagará a provedora do sistema eletrônico, o percentual estabelecido, a título de taxa pela utilização dos recursos de tecnologia da informação.'"
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: "Rejeição mantida: repasse ao licitante vencedor do custo de utilização da plataforma BLL permanece no edital reaberto, sem indicação do percentual da taxa no instrumento convocatório"
+  dispositivo_legal: "art. 5º da Lei n.º 14.133/2021 (ausência de dispositivo autorizador específico na lei de regência)"
+  referencias_cruzadas: []
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4-154
+  id_origem_parcial: E4e-038
+  dispositivo_editalicio: "Itens 2.4, 5.5.17 e 5.6.1 do TR do edital reaberto — descritivo técnico do aterro impugnado na 5ª (item c) e 6ª (III.5) impugnações; rejeitado em parte"
+  transcricao: "Edital reaberto acrescenta apenas: vida útil da Vala 05 'estimada para o primeiro semestre de 2027' e geração de 'cerca de 190 litros de chorume por tonelada'. Permanecem ausentes: volume geométrico remanescente da vala, taxas de adensamento, dados topográficos, histórico de recebimento e custos operacionais do aterro."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: omissao
+  descricao_breve: "Atendimento parcial: edital reaberto incorpora estimativa de encerramento da vala e taxa média de chorume, mas o descritivo técnico do aterro permanece sem volume remanescente, dados topográficos e histórico operacional, mantendo assimetria em favor de quem conhece a operação da unidade"
+  dispositivo_legal: "art. 6º, inciso XXIII, alíneas 'a' e 'i', c/c art. 18 da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4e-003", "E4e-014", "E4e-016", "E4e-027"]
+  flag_tecnico: true
+  flag_reserva: false

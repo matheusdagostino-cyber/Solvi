@@ -1,0 +1,336 @@
+# E4c — Extrator de anexos ambientais e tecnicos
+# Pregao Eletronico n. 30/2026 (REABERTURA) — Municipio de Porto Ferreira/SP — Processo n. 3.721/2026
+# Documentos-fonte: LI CETESB 400000157 (estacao de transbordo), LO CETESB 4011055 (aterro),
+# Decreto municipal 3.367/2026 (grandes geradores), Projeto Basico da Estacao de Transbordo,
+# Tabela de Quilometragem, mapas de itinerario (mapa 1 zip tecnico / mapa 2 PDF avulso 6673b034),
+# cotejados com o edital de reabertura (arquivo 61122568-021ee384a2ef4df4b7959822128a21b8.txt).
+
+- id: E4c-001
+  dispositivo_editalicio: "Itens 1.1.1 e 9.1 do TR (tabela de quantitativos e de custos) c/c itens 2 e 3 do Lote 1"
+  transcricao: "Item 2 — Destinacao final ... em aterro sanitario devidamente licenciado no Municipio — 12.480 TON/ANO ... Item 3 — ... em aterro sanitario devidamente licenciado em outro Municipio — 12.480 TON/ANO ... O custo estimado total da contratacao e de R$9.193.852,80 ... Os itens 2 e 3 sao mutuamente excludentes e sucessivos"
+  tipo_achado: IRREGULAR
+  categoria: erro_material
+  descricao_breve: "Valor estimado global soma integralmente os itens 2 e 3 (12.480 t/ano cada), declarados mutuamente excludentes, inflando o custo estimado total; a propria LO restringe o item 2 a Vala 05, com vida util estimada apenas ate o 1.º semestre de 2027"
+  dispositivo_legal: "art. 23, caput, e art. 18, § 1.º, inciso VI, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4c-002"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4c-002
+  dispositivo_editalicio: "LO CETESB n.º 4011055 (validade ate 16/09/2029) c/c item 1.1.1 do TR (vigencia de 60 meses) e clausulas da minuta de contrato"
+  transcricao: "LICENCA DE OPERACAO — VALIDADE ATE: 16/09/2029 ... A renovacao da licenca de operacao devera ser requerida com antecedencia minima de 120 dias ... [TR] a vigencia contratual, que sera de 60 (sessenta) meses, contados da emissao da Ordem de Servico"
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: "Contrato de 60 meses (ate ~2031) sem disciplina sobre responsabilidade pelo requerimento de renovacao da LO do aterro (que expira em 16/09/2029) caso a operacao da Vala 05 se estenda alem do previsto; TR e minuta silentes"
+  dispositivo_legal: "art. 6.º, inciso XXIII, alinea 'a', da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4c-001", "E4c-003"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4c-003
+  dispositivo_editalicio: "LO CETESB n.º 4011055 e LI CETESB n.º 400000157 (titular: Municipio de Porto Ferreira, CNPJ 45.339.363/0001-94) c/c item 5.5.16 do TR"
+  transcricao: "IDENTIFICACAO DA ENTIDADE — MUNICIPIO DE PORTO FERREIRA — 45.339.363/0001-94 ... [TR] A CONTRATADA devera realizar a operacao integral do Aterro Sanitario e da Estacao de Transbordo (quando apta)"
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: omissao
+  descricao_breve: "Licencas ambientais em nome do Municipio, mas operacao integral transferida a particular; edital nao disciplina comunicacao/averbacao do operador junto a CETESB nem a alocacao de responsabilidade por autos de infracao ambiental durante a execucao"
+  dispositivo_legal: "art. 10 da Lei n.º 6.938/1981; art. 6.º, inciso XXIII, alinea 'a', da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4c-002", "E4c-011"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4c-004
+  dispositivo_editalicio: "Exigencia Tecnica 08 da LO CETESB n.º 4011055 c/c itens 5.5.5 e 5.5.6 do TR"
+  transcricao: "[LO] Implantar em toda a Vala n.º 05 sistema de drenagem de chorume, impermeabilizacao (manta de PEAD) e drenagem de gases ... [TR] Conforme exigencias da CETESB, devera a CONTRATADA garantir que o Aterro Sanitario possua uma camada de impermeabilizacao de base, constituida de geomembrana de polietileno de alta densidade – PEAD"
+  tipo_achado: IRREGULAR
+  categoria: risco_economico
+  descricao_breve: "TR transfere a contratada o dever de 'garantir' a impermeabilizacao/drenagem exigida pela condicionante 08 da LO sem informar o estado de implantacao da Vala 05 nem prever remuneracao especifica desse investimento em ativo com vida util residual de ~12 meses"
+  dispositivo_legal: "art. 18, § 1.º, incisos IV e VI, e art. 6.º, inciso XXIII, alinea 'a', da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4c-001"]
+  flag_tecnico: true
+  flag_reserva: false
+
+- id: E4c-005
+  dispositivo_editalicio: "Exigencias Tecnicas 01 a 05 e 07 da LO CETESB n.º 4011055 c/c itens 5.5.3, 5.5.4, 5.5.12 a 5.5.15 do TR"
+  transcricao: "[LO] Os Residuos Solidos Domiciliares destinados ao aterro deverao ser devidamente compactados e recobertos com camada de terra diariamente ... [TR] Os residuos deverao ser compactados atraves de trator de esteiras ... manutencao de uma frente de trabalho coberta constantemente com terra"
+  tipo_achado: CONFORME
+  categoria: omissao
+  descricao_breve: "Rotinas operacionais do TR (compactacao, recobrimento, drenagem pluvial, vedacao de queima) compativeis, em linhas gerais, com as exigencias tecnicas 01 a 05 e 07 da LO do aterro"
+  dispositivo_legal: "Exigencias Tecnicas 01 a 05 e 07 da LO CETESB n.º 4011055; art. 47, inciso II, da Lei n.º 12.305/2010"
+  referencias_cruzadas: []
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4c-006
+  dispositivo_editalicio: "Exigencia Tecnica 06 da LO CETESB n.º 4011055 c/c item 5.3.1.2 do TR"
+  transcricao: "[LO] Fica proibida a disposicao de residuos de servico de saude e/ou industriais no aterro ... [TR] Fica excluida a coleta e o transporte dos seguintes tipos de residuos: ... RSS (Residuos de Servicos de Saude); Residuos provenientes das atividades industriais"
+  tipo_achado: CONFORME
+  categoria: omissao
+  descricao_breve: "Exclusao de RSS e residuos industriais do escopo da coleta coerente com a vedacao da exigencia tecnica 06 da LO do aterro"
+  dispositivo_legal: "Exigencia Tecnica 06 da LO CETESB n.º 4011055; art. 20, incisos I e II, da Lei n.º 12.305/2010"
+  referencias_cruzadas: []
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4c-007
+  dispositivo_editalicio: "Observacao 01 da LO CETESB n.º 4011055 c/c itens 5.2.1 e 5.3.1.5 do TR (frequencias de coleta)"
+  transcricao: "[LO] A presente licenca e valida exclusivamente para a disposicao de 60ton/d de Residuos Solidos Domiciliares (RSU) ... [TR] A coleta ocorrera de maneira diaria (6 vezes na semana) na Regiao Central ... e de maneira alternada nas demais regioes"
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: "Limite licenciado de 60 t/dia no aterro vs. media estimada de 40 t/dia (12.480 t/ano): concentracao da coleta em dias de pico (segunda-feira acumula regiao central + regioes alternadas + residuo represado de domingo) pode ultrapassar o teto diario da LO, sem regra editalicia de escalonamento da descarga"
+  dispositivo_legal: "Observacao 01 da LO CETESB n.º 4011055; art. 60 da Lei n.º 9.605/1998"
+  referencias_cruzadas: ["E4c-028"]
+  flag_tecnico: true
+  flag_reserva: false
+
+- id: E4c-008
+  dispositivo_editalicio: "Item 5.1.6.4 do TR c/c itens 5.1.6.2 e 5.1.6.5 do TR e LI CETESB n.º 400000157"
+  transcricao: "a) Utilizacao da Estacao de Transbordo Municipal: Caso a obra esteja finalizada, apta e com licenca de operacao emitida ... ou b) Transporte Direto: Destinacao para aterro licenciado em outro municipio, sob inteira responsabilidade da CONTRATADA"
+  tipo_achado: IRREGULAR
+  categoria: risco_economico
+  descricao_breve: "Item 3 possui preco unitario unico (R$ 249,28/t) para duas logisticas radicalmente distintas — transbordo com carretas (custo menor, exige investimento em 3 carretas) ou transporte direto em compactadores a aterros de 67 a 140 km — cuja disponibilidade depende de evento incerto (emissao da LO do transbordo pela Administracao), impedindo precificacao homogenea na proposta"
+  dispositivo_legal: "art. 18, § 1.º, inciso VI, e art. 23, caput, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4c-015", "E4c-017"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4c-009
+  dispositivo_editalicio: "Item 5.5.16 do TR c/c campo 'Atividade principal' da LI CETESB n.º 400000157"
+  transcricao: "[TR] A CONTRATADA devera realizar a operacao integral do Aterro Sanitario e da Estacao de Transbordo (quando apta), compreendendo o recebimento, triagem primaria, transporte e a destinacao final ... [LI] Atividade principal da solicitacao: Estacoes de transferencia de lixo; gestao de"
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: contradicao
+  descricao_breve: "TR atribui a contratada 'triagem primaria' na estacao de transbordo, atividade nao contemplada na LI 400000157, licenciada apenas como estacao de transferencia de RSU; triagem exigiria licenciamento proprio"
+  dispositivo_legal: "art. 10 da Lei n.º 6.938/1981; art. 2.º, caput e § 1.º, da Resolucao CONAMA n.º 237/1997"
+  referencias_cruzadas: ["E4c-011"]
+  flag_tecnico: true
+  flag_reserva: false
+
+- id: E4c-010
+  dispositivo_editalicio: "Observacao 07 da LI CETESB n.º 400000157 (horario 06:00–22:00) c/c item 5.2.1 do TR (coleta vespertina 16h–24h)"
+  transcricao: "[LI] A presente licenca e valida para: Horario de Funcionamento: Inicio: 06:00 Termino: 22:00 ... [TR] vespertino – das 16h00min as 24h00min. A coleta diaria sera iniciada as 16h00min"
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: contradicao
+  descricao_breve: "Coleta vespertina encerra as 24h, mas o horario de funcionamento licenciado da estacao de transbordo vai so ate 22h: apos a migracao para o transbordo, a descarga das ultimas viagens ocorreria fora do horario da licenca, sem compatibilizacao no TR"
+  dispositivo_legal: "Observacao 07 da LI CETESB n.º 400000157; art. 60 da Lei n.º 9.605/1998"
+  referencias_cruzadas: ["E4c-028"]
+  flag_tecnico: true
+  flag_reserva: false
+
+- id: E4c-011
+  dispositivo_editalicio: "Exigencias Tecnicas 01 a 09 da LI CETESB n.º 400000157 c/c itens 5.5.16 e 5.5.19 do TR"
+  transcricao: "[LI] 03. Em caso de necessidade de lavagem dos caminhoes, a area de lavagem devera estar provida de caixa de areia e Sistema Separador de Agua e Oleo (SAO) ... 08. Toda area de recepcao de residuos devera ser coberta, dotada de piso impermeabilizado e canaletas para direcionar os efluentes liquidos (chorume) para caixa impermeabilizada ... 09. Na ocasiao da solicitacao da Licenca de Operacao, apresentar o ... CTF/APP obtido junto ao IBAMA"
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: "TR atribui a contratada a operacao integral da estacao de transbordo sem reproduzir nem alocar as condicionantes operacionais da LI (SAO para lavagem, tratamento de esgoto NBR 17076, gestao do chorume da area de recepcao, controle de odores/ruidos, CTF/APP-IBAMA), deixando indefinido quem responde por seu cumprimento continuado"
+  dispositivo_legal: "art. 6.º, inciso XXIII, alinea 'a', da Lei n.º 14.133/2021; Exigencias Tecnicas 01 a 09 da LI CETESB n.º 400000157"
+  referencias_cruzadas: ["E4c-003", "E4c-009"]
+  flag_tecnico: true
+  flag_reserva: false
+
+- id: E4c-012
+  dispositivo_editalicio: "Item 2.5 do TR c/c data de emissao da LI CETESB n.º 400000157 (22/06/2026)"
+  transcricao: "[TR] A CONTRATADA fica ciente de que a Estacao de Transbordo esta sendo construida na entrada do aterro sanitario, com Licenca de Instalacao n.º 400000157 ... As obras ja foram iniciadas e a previsao de conclusao e ainda em 2026 ... [LI] Data de emissao 22/06/2026"
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: ilegalidade
+  descricao_breve: "Edital afirma obras da estacao de transbordo 'ja iniciadas', mas a LI foi emitida apenas em 22/06/2026 (apos a suspensao do certame em 15/06/2026); caso o inicio das obras seja anterior a LI, ha implantacao de empreendimento sem licenca de instalacao"
+  dispositivo_legal: "art. 8.º, inciso II, da Resolucao CONAMA n.º 237/1997; art. 60 da Lei n.º 9.605/1998"
+  referencias_cruzadas: []
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4c-013
+  dispositivo_editalicio: "Projeto Basico da Estacao de Transbordo (prancha unica 'Projeto Arquitetonico — Folha Unica', ago/2024) c/c itens 2.5 e 5.5.19 do TR"
+  transcricao: "PROJETO ARQUITETONICO — FOLHA UNICA — OBJETO: ESTACAO DE TRANSBORDO - ATERRO SANITARIO ... PLANTA BAIXA ... PLANTA DE COBERTURA ... CORTE LONGITUDINAL ... CORTE TRANSVERSAL"
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: "'Projeto Basico' da estacao de transbordo limita-se a uma prancha arquitetonica (plantas e cortes), sem memorial descritivo, dimensionamento operacional, fluxo de veiculos, balanca ou moega, embora o edital exija carretas 'adequadas conforme Projeto Basico da Estacao de Transbordo em anexo'"
+  dispositivo_legal: "art. 6.º, inciso XXV, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4c-014"]
+  flag_tecnico: true
+  flag_reserva: false
+
+- id: E4c-014
+  dispositivo_editalicio: "Projeto Basico da Estacao de Transbordo (plataforma +3,50 m com cacambas roll-on e coletor compactador) c/c itens 2.5, 5.4.5 e 5.5.19 do TR"
+  transcricao: "[Projeto] CACAMBA ROLL ON ... COLETOR COMPACTADOR ... NIVEL +3,50 m ... DESCARGA ... [TR] devera disponibilizar 03 (tres) carretas de semirreboque basculante com 3 eixos e capacidade de 30 a 40 toneladas, adequadas conforme Projeto Basico da Estacao de Transbordo"
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: "Concepcao do projeto arquitetonico (descarga em cacambas roll-on e coletores compactadores sob plataforma de +3,50 m) incompativel com o equipamento exigido da contratada (carretas semirreboque basculantes de 30–40 t), sem moega ou funil que viabilize o carregamento direto de carretas"
+  dispositivo_legal: "art. 6.º, inciso XXV, e art. 40, § 1.º, inciso I, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4c-013"]
+  flag_tecnico: true
+  flag_reserva: false
+
+- id: E4c-015
+  dispositivo_editalicio: "Observacao 01 da LI CETESB n.º 400000157 c/c estimativa de 12.480 t/ano do TR"
+  transcricao: "[LI] A presente Licenca e valida para a implantacao de Estacao de Transbordo de Residuos Solidos Urbanos (RSU) do municipio de Porto Ferreira, com capacidade nominal de 75ton/dia"
+  tipo_achado: CONFORME
+  categoria: risco_economico
+  descricao_breve: "Capacidade nominal licenciada do transbordo (75 t/dia) comporta a demanda projetada (~40–45 t/dia), com folga para crescimento ao longo da vigencia"
+  dispositivo_legal: "Observacao 01 da LI CETESB n.º 400000157"
+  referencias_cruzadas: ["E4c-008"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4c-016
+  dispositivo_editalicio: "Tabela de Quilometragem — quadro 'Quilometragem Media Transbordo' c/c item 5.5.20 do TR"
+  transcricao: "viagens por dia (40 ton/dia)* ... 1,5 ... *considerando 1,5 viagens por dia, cada viagem com 30 toneladas ... [TR] volume operacional disponiveis para receber 40 (quarenta) toneladas por dia"
+  tipo_achado: IRREGULAR
+  categoria: erro_material
+  descricao_breve: "Premissas divergentes na propria tabela: cabecalho refere 40 t/dia, mas a nota (1,5 viagens/dia x 30 t) resulta em 45 t/dia; TR 5.5.20 exige anuencia do aterro receptor para 40 t/dia — inconsistencia nos parametros de dimensionamento do frete do Item 3"
+  dispositivo_legal: "art. 18, § 1.º, inciso VI, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4c-008", "E4c-029"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4c-017
+  dispositivo_editalicio: "Tabela de Quilometragem — quadro 'Quilometragem Media Transbordo' (aterros de referencia)"
+  transcricao: "Sao Carlos Ambiental - Grupo Solvi — 67 km ... Aterro Casa Branca - Grupo Seleta — 67 km ... CGR Guatapara - Estre Ambiental — 86 km ... Orizon Ecoparque - Paulinia — 123 km ... CTR Essencial - Rio das Pedras — 140 km ... **principais destinos considerados, sem prejuizo de outras opcoes"
+  tipo_achado: CONFORME
+  categoria: risco_economico
+  descricao_breve: "[USO INTERNO] Referencial de frete do Item 3 ancorado nos aterros mais proximos (67 km), sendo um deles ativo do proprio grupo (Sao Carlos Ambiental): assimetria favoravel na precificacao do transporte e da taxa de disposicao final em relacao a concorrentes sem aterro proprio na regiao"
+  dispositivo_legal: "nao ha irregularidade; premissa constante do proprio anexo do edital"
+  referencias_cruzadas: ["E4c-008"]
+  flag_tecnico: false
+  flag_reserva: true
+
+- id: E4c-018
+  dispositivo_editalicio: "Mapa de Itinerario 1 (zip tecnico) x Mapa de Itinerario 2 (PDF avulso 6673b034) x item 5.2.1 do TR — frequencia da regiao central"
+  transcricao: "[Mapa 1] Diaria - 16h as 00h (regiao central) ... [Mapa 2] 6 coletas semanais (seg a sab, inicio 16h) ... [TR 5.2.1] A coleta ocorrera de maneira diaria (6 vezes na semana) na Regiao Central e Avenida do Comercio"
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: "Anexos divergem quanto a frequencia da coleta na regiao central: 'diaria' (mapa 1, sugerindo 7 dias) x '6 coletas semanais, seg a sab' (mapa 2 e Tabela de Quilometragem, 24 coletas/mes), com o TR usando a expressao ambigua 'diaria (6 vezes na semana)' — indefinicao sobre coleta dominical afeta dimensionamento de equipes e frota"
+  dispositivo_legal: "art. 6.º, inciso XXIII, alinea 'a', e art. 25, caput, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4c-019", "E4c-020"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4c-019
+  dispositivo_editalicio: "Mapa de Itinerario 2 (PDF avulso 6673b034) x Mapa de Itinerario 1, Tabela de Quilometragem (linha 'Rural (sexta)') e item 5.3.1.6 do TR"
+  transcricao: "[Tabela] Rural (sexta) — roxo — Rural — 21,7 km/dia — 1 coleta na semana — 4 no mes — 86,8 km/mes ... [TR] Nas residencias localizadas nas zonas rurais do municipio, a coleta sera realizada com frequencia diferenciada de 1 (um) dia na semana"
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: "Mapa 2 (PDF avulso) nao contempla a rota rural, prevista no mapa 1, na Tabela de Quilometragem (roxo, sexta-feira, 86,8 km/mes) e no TR 5.3.1.6 — anexos inconsistentes entre si quanto a existencia/tracado do itinerario rural"
+  dispositivo_legal: "art. 6.º, inciso XXIII, alinea 'a', e art. 25, caput, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4c-018"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4c-020
+  dispositivo_editalicio: "Tabela de Quilometragem (total 4.078 km/mes) c/c item 5.2.1.1 do TR"
+  transcricao: "[Tabela] 4078 km media mensal ... [TR] A quilometragem media mensal para coleta de residuos domiciliares (RSU), sem considerar o trajeto ate o aterro, e de 4.078 quilometros"
+  tipo_achado: CONFORME
+  categoria: erro_material
+  descricao_breve: "Somatorio das rotas da Tabela de Quilometragem (1.365,6 + 464,4 + 426 + 297,6 + 777,6 + 660 + 86,8 = 4.078 km/mes) confere com o valor declarado no TR 5.2.1.1"
+  dispositivo_legal: "art. 18, § 1.º, inciso VI, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4c-018", "E4c-019"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4c-021
+  dispositivo_editalicio: "Art. 3.º, caput e paragrafo unico, do Decreto municipal n.º 3.367/2026 c/c itens 5.3.1.3, 5.3.1.7 e 5.3.1.16 do TR"
+  transcricao: "[Decreto] A responsabilidade pelo gerenciamento dos residuos gerados pelo grande gerador, incluindo coleta, transporte e destinacao final ... e do proprio gerador ... [TR] recolhimento de todo e quaisquer residuos solidos apresentados regularmente ou esporadicamente nas vias e logradouros publicos ... A CONTRATADA devera recolher os residuos solidos domiciliares sempre, sejam quais forem os recipientes utilizados"
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: "Decreto atribui ao grande gerador a responsabilidade pela propria coleta (servico publico apenas mediante adesao e preco publico), mas o TR obriga a contratada a recolher todo residuo apresentado nas vias, com mero dever de comunicacao (5.3.1.16), sem disciplina de recusa ou de tratamento da massa de grandes geradores nao aderentes"
+  dispositivo_legal: "art. 20, inciso II, alinea 'b', e art. 27 da Lei n.º 12.305/2010; art. 3.º do Decreto municipal n.º 3.367/2026"
+  referencias_cruzadas: ["E4c-022", "E4c-023"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4c-022
+  dispositivo_editalicio: "Decreto municipal n.º 3.367/2026 (vigente desde 07/01/2026) c/c estimativa de 12.480 t/ano do item 1.1.1 do TR"
+  transcricao: "[Decreto] Caso o grande gerador opte pelo servico publico de coleta, devera aderir ao regime de Preco Publico ... [TR] Item 1 — Servicos de coleta e transporte de residuos solidos urbanos com caminhao compactador — 12.480 TON/ANO"
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: "Estimativa de 12.480 t/ano nao indica se desconta a massa de grandes geradores que migrarem para coleta privada apos a regulamentacao (prazos de cadastro de 90/120 dias ja decorridos em 2026); remuneracao por tonelada efetiva transfere a contratada o risco de queda da tonelagem com custos fixos de frota/equipe mantidos"
+  dispositivo_legal: "art. 18, § 1.º, incisos IV e VI, e art. 23, caput, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4c-021", "E4c-023"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4c-023
+  dispositivo_editalicio: "Arts. 7.º, paragrafo unico, 9.º e 14 do Decreto municipal n.º 3.367/2026 c/c item 5.9 do TR (criterio de medicao)"
+  transcricao: "[Decreto] A cobranca referente ao custo do servico prestado sera calculada com base na massa mensal declarada, adotando-se o valor do preco publico por centena de quilogramas (100 kg) ... 5,00 UFM POR CADA 100Kg ... [TR] O pagamento do Item 1 sera realizado de acordo com o peso, em tonelada, dos residuos solidos efetivamente coletados"
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: "Edital nao disciplina a medicao segregada da massa dos grandes geradores aderentes ao servico publico: Municipio cobra do gerador por massa autodeclarada (5 UFM/100 kg) e paga a contratada por pesagem efetiva, sem mecanismo de conciliacao entre as duas bases nem identificacao dessa massa nos tickets de pesagem"
+  dispositivo_legal: "art. 6.º, inciso XXIII, alinea 'a', da Lei n.º 14.133/2021; art. 35, caput, da Lei n.º 11.445/2007"
+  referencias_cruzadas: ["E4c-021", "E4c-022"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4c-024
+  dispositivo_editalicio: "Item 5.6.1 do TR c/c itens 5.1.6.3 e 1.1.1 (nota informativa) do TR"
+  transcricao: "[TR] O aterro sanitario de Porto Ferreira/SP gera cerca de 190 litros de chorume por tonelada de residuo recebida. Essa quantidade devera ser coletada, transportada e tratada, sob responsabilidade operacional de custos da CONTRATADA ... A partir da constatacao do encerramento do Aterro Municipal, fica expressamente vedada a cobranca do Item 2"
+  tipo_achado: IRREGULAR
+  categoria: risco_economico
+  descricao_breve: "Responsabilidade da contratada pelo chorume do aterro municipal sem limite temporal, mas o faturamento do Item 2 cessa com o encerramento da vala (previsto para o 1.º semestre de 2027): geracao de chorume persiste por anos apos o encerramento, sem item remuneratorio para essa gestao nos ~48 meses restantes de contrato"
+  dispositivo_legal: "art. 18, § 1.º, inciso VI, e art. 6.º, inciso XXIII, alinea 'a', da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4c-025"]
+  flag_tecnico: true
+  flag_reserva: false
+
+- id: E4c-025
+  dispositivo_editalicio: "Itens 5.5.7, 5.5.18 e 5.1.6.2 do TR c/c LO CETESB n.º 4011055 (Vala 05)"
+  transcricao: "[TR] As camadas finais do aterro e dos taludes acabados de cada celula deverao ser impermeabilizadas atraves de uma camada de solo compactado, as quais receberao cobertura vegetal em grama ... Diante da exaustao da capacidade volumetrica e constatacao tecnica do encerramento do espaco fisico do Aterro Municipal"
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: "Edital nao define responsavel, escopo nem remuneracao do encerramento da Vala 05 (cobertura final, conformacao de taludes, monitoramento pos-encerramento) apos a cessacao do faturamento do Item 2, embora o encerramento ocorra em plena vigencia contratual"
+  dispositivo_legal: "art. 6.º, inciso XXIII, alinea 'a', da Lei n.º 14.133/2021; ABNT NBR 13.896/1997 (referida no item 2.6 do TR)"
+  referencias_cruzadas: ["E4c-024", "E4c-004"]
+  flag_tecnico: true
+  flag_reserva: false
+
+- id: E4c-026
+  dispositivo_editalicio: "Anexo II — Exigencias para Habilitacao (item 1.3 — Qualificacao Tecnica) c/c Exigencia Tecnica 09 da LI CETESB n.º 400000157"
+  transcricao: "[Anexo II] 1.3 Qualificacao Tecnica: 1.3.1 declaracao de conhecimento das condicoes ... 1.3.2 Certidoes de registro ... CREA ... 1.3.3 ... atestado(s) de Capacidade Tecnica ... [sem exigencia de regularidade ambiental]"
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: "Habilitacao nao exige qualquer comprovacao de regularidade ambiental da licitante/contratada (inscricao no CTF/APP-IBAMA, licenca ambiental para transporte de residuos ou operacao de unidades), embora o objeto inclua operacao de aterro e de estacao de transbordo e a LI condicione a LO a apresentacao do CTF/APP"
+  dispositivo_legal: "art. 67, caput, da Lei n.º 14.133/2021; art. 17, inciso II, da Lei n.º 6.938/1981; art. 27 da Lei n.º 12.305/2010"
+  referencias_cruzadas: ["E4c-011", "E4c-003"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4c-027
+  dispositivo_editalicio: "Item 5.4.5 do TR x itens 2.5 e 5.5.19 do TR"
+  transcricao: "[5.4.5] Caso a CONTRATADA opte pela utilizacao da estacao de transbordo subsidiada por convenio estadual ... [2.5] a Estacao de Transbordo esta sendo construida na entrada do aterro sanitario ... Apos a conclusao, a Administracao solicitara a licenca de operacao"
+  tipo_achado: IRREGULAR
+  categoria: erro_material
+  descricao_breve: "Inconsistencia interna do TR sobre a natureza/financiamento da estacao de transbordo: item 5.4.5 refere obra 'subsidiada por convenio estadual', enquanto os itens 2.5/5.5.19 tratam de obra municipal, sem indicacao de fonte ou convenio nos demais documentos"
+  dispositivo_legal: "art. 25, caput, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4c-012"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4c-028
+  dispositivo_editalicio: "Campo 'Horario de Funcionamento' da LO CETESB n.º 4011055 c/c item 5.2.1 do TR"
+  transcricao: "[LO] Horario de Funcionamento (h): Inicio 00:01 as 00:01 ... [TR] vespertino – das 16h00min as 24h00min"
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: erro_material
+  descricao_breve: "LO do aterro registra horario de funcionamento inconsistente ('00:01 as 00:01'), deixando indefinido o horario licenciado de recebimento de residuos; a coleta vespertina ate 24h pressupoe descarga noturna no aterro, sem respaldo claro no documento"
+  dispositivo_legal: "art. 60 da Lei n.º 9.605/1998; LO CETESB n.º 4011055 (campo Horario de Funcionamento)"
+  referencias_cruzadas: ["E4c-007", "E4c-010"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4c-029
+  dispositivo_editalicio: "Item 5.5.20 do TR c/c estimativa de 12.480 t/ano do item 1.1.1 do TR"
+  transcricao: "[TR] devera possuir licenca de operacao vigente e carta de anuencia atestando que o local possui ... infraestrutura e volume operacional disponiveis para receber 40 (quarenta) toneladas por dia de residuos domiciliares provenientes de Porto Ferreira"
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: "Anuencia do aterro receptor dimensionada para exatamente 40 t/dia, igual a media estimada atual (12.480 t/ano), sem margem para crescimento vegetativo da geracao ao longo dos 60 meses; excedentes futuros podem ficar sem cobertura da carta de anuencia exigida"
+  dispositivo_legal: "art. 18, § 1.º, inciso IV, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4c-016", "E4c-008"]
+  flag_tecnico: true
+  flag_reserva: false
+
+- id: E4c-030
+  dispositivo_editalicio: "Art. 2.º, inciso I, do Decreto municipal n.º 3.367/2026 c/c item 5.3.1.16 do TR"
+  transcricao: "[Decreto] grandes geradores ... volume superior a 200 (duzentos) litros diarios ou massa superior a 50 (cinquenta) quilogramas diarios ... [TR] toda coleta cujo volume de residuos solidos urbanos com caracteristica domiciliar ... que exceda 200 litros ou 50 kg diarios por estabelecimento"
+  tipo_achado: CONFORME
+  categoria: omissao
+  descricao_breve: "Limiar de enquadramento de grande gerador adotado no TR (200 L ou 50 kg/dia) coerente com o art. 2.º, I, do Decreto 3.367/2026 e com o art. 20, II, 'b', da Lei 12.305/2010"
+  dispositivo_legal: "art. 20, inciso II, alinea 'b', da Lei n.º 12.305/2010; art. 2.º, inciso I, do Decreto municipal n.º 3.367/2026"
+  referencias_cruzadas: ["E4c-021"]
+  flag_tecnico: false
+  flag_reserva: false

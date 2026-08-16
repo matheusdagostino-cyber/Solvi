@@ -1,0 +1,431 @@
+# E4d — Extrator: CCT 2025/2026 SIEMACO Araraquara + Anexos IV, V e VI do Edital
+# Pregão Eletrônico n.º 30/2026 (REABERTURA) — Município de Porto Ferreira/SP — Processo n.º 3.721/2026
+# Fontes: Convencao_Coletiva_de_Trabalho_CCT_2025_2026_SIEMACO_Araraquara.txt (íntegra);
+#         61122568-021ee384a2ef4df4b7959822128a21b8.txt, linhas 4788-5170 (Anexos IV-VI),
+#         com verificações pontuais no TR (itens 4.12, 5.4.28-5.4.29, 7.11-7.12, 9.1), Anexo II (1.3, 1.5.1) e minuta (cláusula 5ª)
+
+# ============ CCT 2025/2026 SIEMACO ARARAQUARA ============
+
+- id: E4d-001
+  dispositivo_editalicio: "Item 5.4.29 do TR c/c cláusula 9.4.29 da minuta de contrato"
+  transcricao: "A CONTRATADA deverá atender integralmente à Convenção Coletiva de Trabalho 2025/2026 (em anexo) do SIEMACO Araraquara (...), sindicato este que atende os trabalhadores da categoria em Porto Ferreira."
+  tipo_achado: IRREGULAR
+  categoria: ilegalidade
+  descricao_breve: "Imposição editalícia de CCT específica (SIEMACO Araraquara) como obrigação contratual, quando o enquadramento sindical decorre da atividade preponderante e da base territorial definidas em lei, não de escolha do edital"
+  dispositivo_legal: "art. 511, § 2.º, e art. 611 da CLT (Decreto-Lei n.º 5.452/1943); art. 135, inciso II, da Lei n.º 14.133/2021 (proposta vinculada ao instrumento coletivo da categoria do próprio licitante)"
+  referencias_cruzadas: ["E4d-002", "E4d-003"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4d-002
+  dispositivo_editalicio: "Item 5.4.29 do TR c/c Cláusula Segunda (Abrangência) da CCT 2025/2026"
+  transcricao: "CCT, cláusula 2ª: 'abrangência territorial em Américo Brasiliense/SP, Araraquara/SP, Boa Esperança do Sul/SP, Bocaina/SP, Dourado/SP, Ibaté/SP, Ibitinga/SP, Jaboticabal/SP, Jaú/SP, Matão/SP, Ribeirão Bonito/SP e Taquaritinga/SP' — Porto Ferreira não consta do rol; TR afirma que o SIEMACO Araraquara 'atende os trabalhadores da categoria em Porto Ferreira'."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: contradicao
+  descricao_breve: "A CCT anexada não inclui Porto Ferreira em sua abrangência territorial (cláusula 2ª), contradizendo a afirmação do TR de que o sindicato atende a categoria no Município; necessário apurar o real enquadramento sindical territorial da categoria em Porto Ferreira"
+  dispositivo_legal: "arts. 570, 611 e 612 da CLT (representação e âmbito de aplicação da convenção coletiva)"
+  referencias_cruzadas: ["E4d-001", "E4d-004"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4d-003
+  dispositivo_editalicio: "Cláusula Primeira da CCT 2025/2026 c/c item 5.4.29 do TR e alínea 'b' do Anexo IV"
+  transcricao: "CCT, cláusula 1ª: 'vigência (...) no período de 01º de março de 2025 a 28 de fevereiro de 2026 e a data-base da categoria em 01º de março'; Anexo IV, 'b': custos das 'convenções coletivas de trabalho (...) vigentes na data de entrega das propostas'."
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: "Edital reaberto após 28/02/2026 exige atendimento integral a CCT 2025/2026 já expirada, ao mesmo tempo em que a declaração do Anexo IV vincula a proposta às CCTs vigentes na data de entrega — o instrumento anexado não estará vigente na data da sessão"
+  dispositivo_legal: "art. 63, § 1.º, da Lei n.º 14.133/2021; art. 614, § 3.º, da CLT (vigência máxima de dois anos e vedação de ultratividade)"
+  referencias_cruzadas: ["E4d-001", "E4d-004", "E4d-019"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4d-004
+  dispositivo_editalicio: "Item 9.1 do TR (custo estimado) c/c cláusula 1ª da CCT 2025/2026"
+  transcricao: "O custo estimado total da contratação é de R$9.193.852,80 (...) conforme custos unitários apostos na tabela abaixo."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: "Orçamento estimado possivelmente elaborado sobre pisos e benefícios da CCT 2025/2026 vencida; a CCT 2026/2027 (data-base 01/03/2026), não anexada nem referida, deverá reger a proposta e pode defasar o valor estimado e as propostas — verificar a memória de cálculo da Administração e a existência/registro do novo instrumento"
+  dispositivo_legal: "art. 23 da Lei n.º 14.133/2021 (valor estimado compatível com os preços de mercado); art. 63, § 1.º, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4d-003", "E4d-007"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4d-005
+  dispositivo_editalicio: "Cláusula 5.2, alínea 'a', da minuta de contrato c/c cláusula 1ª da CCT (data-base 1º de março)"
+  transcricao: "O interregno mínimo de 1 (um) ano para a primeira repactuação será contado: a) Para os custos relativos à mão de obra (...) a partir da data de início dos efeitos financeiros do acordo, convenção ou dissídio coletivo de trabalho ao qual a proposta estiver vinculada."
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: "Edital não define a qual instrumento coletivo a proposta estará vinculada (CCT 2025/2026 anexada, com efeitos desde 01/03/2025, ou CCT 2026/2027, com efeitos desde 01/03/2026), gerando incerteza sobre o marco da primeira repactuação e sobre a precificação do período entre a data-base e o início da execução"
+  dispositivo_legal: "art. 135, caput e inciso II, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4d-003", "E4d-004"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4d-006
+  dispositivo_editalicio: "Cláusula Sexta da CCT 2025/2026 (Isonomia Salarial)"
+  transcricao: "na ocorrência de novos contratos de limpeza urbana, oriundos de processos licitatórios ou concessão, as empresas se obrigarão a considerar para a formação de seus preços, o mesmo salário base mensal previsto aos empregados varredores (...) àquelas funções operacionais com salários inferiores a este, e, implantá-lo nos locais onde ocorrerem tais fatos."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: "Cláusula de isonomia salarial obriga a adoção do salário-base do varredor como piso mínimo de formação de preços para funções operacionais com salário inferior em novos contratos licitados — parâmetro obrigatório de precificação a verificar no orçamento estimado"
+  dispositivo_legal: "art. 611 da CLT c/c art. 63, § 1.º, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4d-004"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4d-007
+  dispositivo_editalicio: "Cláusula Sétima da CCT 2025/2026 (Salários Funcionais) c/c item 5.4.29 do TR"
+  transcricao: "A) Salários funcionais para empresas que concederam reajuste salarial de 9,5% (...) em 2015 [coletores R$1.724,40; varredores/serventes R$1.662,36; operador de máquina de aterro R$2.691,38]. B) Salários funcionais para empresas que concederam reajuste salarial de 8,5% (...) em 2015 [coletores R$1.708,65; operador de máquina de aterro R$2.666,81]."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: omissao
+  descricao_breve: "CCT prevê duas tabelas de pisos (empresas que reajustaram 9,5% ou 8,5% em 2015) e o edital exige atendimento 'integral' sem definir a tabela aplicável a licitante sem histórico na base territorial — ambiguidade de precificação entre concorrentes"
+  dispositivo_legal: "art. 63, § 1.º, da Lei n.º 14.133/2021; art. 5.º da Lei n.º 14.133/2021 (isonomia e julgamento objetivo)"
+  referencias_cruzadas: ["E4d-004"]
+  flag_tecnico: false
+  flag_reserva: true
+
+- id: E4d-008
+  dispositivo_editalicio: "Cláusula Sétima da CCT 2025/2026 c/c item 5.4.28 do TR (quadro mínimo)"
+  transcricao: "TR 5.4.28: 'quadro mínimo de: 03 coletores e 01 motorista por caminhão, e mais 01 coletor reserva, totalizando 13 (treze) coletores e 4 (quatro) motoristas'. A tabela de salários funcionais da CCT contempla apenas coletores/bueristas, varredores/serventes, operador de máquina de aterro e operador de roçadeira/motosserra/capinador."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: omissao
+  descricao_breve: "CCT anexada não fixa piso salarial para a função de motorista, essencial ao dimensionamento exigido no TR; possível enquadramento dos motoristas como categoria diferenciada (outro instrumento coletivo), com impacto de custo não parametrizado"
+  dispositivo_legal: "art. 511, § 3.º, da CLT (categoria diferenciada); art. 63, § 1.º, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4d-002", "E4d-007"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4d-009
+  dispositivo_editalicio: "Cláusula Décima Segunda da CCT 2025/2026 (Adicional de Insalubridade)"
+  transcricao: "a) varrição (...), usinas de tratamento de lixo e transbordo municipal, operador de máquina de aterro (...): grau médio, que corresponde a 20% (...) do salário-mínimo federal. b) coletores e bueristas: grau máximo, que corresponde a 40% (...) do salário-mínimo federal."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: "Adicional de insalubridade convencional (40% do salário-mínimo para coletores/bueristas e 20% para operador de aterro e demais) é custo obrigatório relevante — verificar contemplação no orçamento estimado e nas propostas"
+  dispositivo_legal: "art. 192 da CLT c/c cláusula 12ª da CCT; art. 63, § 1.º, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4d-004"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4d-010
+  dispositivo_editalicio: "Cláusulas Décima Quinta e Décima Sexta da CCT 2025/2026 (Tíquete Refeição e Vale Alimentação)"
+  transcricao: "Tíquete-refeição mensal R$483,68; Vale Alimentação mensal R$241,85 (tabela A, mar/25); concedidos também nas faltas por doença e acidente de trabalho e licença-maternidade (limitado a 150 dias) e no período de gozo de férias."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: "Benefícios de alimentação somam R$725,53/mês por empregado (valores mar/2025), devidos inclusive em férias e afastamentos de até 150 dias — custo relevante de precificação, a reajustar na CCT 2026/2027"
+  dispositivo_legal: "cláusulas 15ª e 16ª da CCT 2025/2026 c/c art. 63, § 1.º, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4d-004"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4d-011
+  dispositivo_editalicio: "Cláusula Décima Oitava da CCT 2025/2026 (Convênio Médico Hospitalar)"
+  transcricao: "As empresas deverão implantar um plano de Convênio Médico (...) no valor de R$203,00 (duzentos e três reais) por vida (...). O saldo resultante da despesa total mensal do convênio após deduzida a importância oriunda do desconto salarial dos empregados será custeado pela empresa."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: "Plano de saúde obrigatório de R$203,00/vida com custeio residual patronal (descontos do empregado limitados a 8,9% do salário) — custo obrigatório a verificar no orçamento estimado"
+  dispositivo_legal: "cláusula 18ª da CCT 2025/2026 c/c art. 63, § 1.º, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4d-004"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4d-012
+  dispositivo_editalicio: "Cláusula Décima Nona da CCT 2025/2026 (Auxílio Creche)"
+  transcricao: "As empresas pagarão, a título de Auxílio Creche, para as empregadas mães de filhos, com até 05 (cinco) anos de idade, o valor correspondente a 30% (trinta por cento) do valor do salário base do varredor."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: "Auxílio creche de 30% do salário-base do varredor por empregada mãe de filho de até 5 anos — custo variável conforme perfil do efetivo, a considerar na precificação"
+  dispositivo_legal: "cláusula 19ª da CCT 2025/2026 c/c art. 63, § 1.º, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4d-004"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4d-013
+  dispositivo_editalicio: "Cláusula Vigésima da CCT 2025/2026 (Seguro de Vida)"
+  transcricao: "As empresas concederão seguro de vida, gratuitamente, a todos os seus empregados (...) a cobertura será de 06 (seis) vezes o menor salário funcional."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: "Seguro de vida obrigatório e gratuito (cobertura de 6 vezes o menor salário funcional) para todos os empregados — custo obrigatório de precificação"
+  dispositivo_legal: "cláusula 20ª da CCT 2025/2026 c/c art. 63, § 1.º, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4d-004"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4d-014
+  dispositivo_editalicio: "Cláusula Vigésima Segunda, §§ 2.º e 4.º, da CCT 2025/2026 (Benefício Social Sindical)"
+  transcricao: "as empresas (...) compulsoriamente, a título de contribuição social, recolherão até o dia 10 (dez) de cada mês o valor total de R$ 14,08 (...) por trabalhador (...). Parágrafo Quarto: Em todas as planilhas de custos e editais de licitações deverão constar previsão financeira para cumprimento desta assistência social."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: omissao
+  descricao_breve: "Contribuição patronal compulsória de R$14,08/trabalhador/mês (BSS), com exigência convencional de previsão financeira expressa em planilhas de custos e editais — verificar se o orçamento estimado da Administração a contempla"
+  dispositivo_legal: "cláusula 22ª, §§ 2.º e 4.º, da CCT 2025/2026; art. 63, § 1.º, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4d-004", "E4d-016"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4d-015
+  dispositivo_editalicio: "Cláusula Sexagésima Sexta da CCT 2025/2026 (Taxa Assistencial Patronal)"
+  transcricao: "As empresas contribuirão em favor do SELUR com a importância equivalente a 0,5% (cinco décimos por cento) mensalmente, sobre o total bruto de salários pagos aos empregados (...), incluindo o 13º (décimo terceiro) salário."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: "Taxa assistencial patronal de 0,5% sobre a folha bruta mensal (inclusive 13º) em favor do sindicato patronal — custo recorrente a considerar na precificação; repasse em repactuação potencialmente excluído pela cláusula 5.7 da minuta"
+  dispositivo_legal: "cláusula 66ª da CCT 2025/2026; art. 135, §§ 1.º e 2.º, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4d-014", "E4d-016"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4d-016
+  dispositivo_editalicio: "Item 5.4.29 do TR c/c cláusula 5.7 da minuta de contrato"
+  transcricao: "TR 5.4.29: 'atender integralmente à Convenção Coletiva de Trabalho 2025/2026'; minuta 5.7: 'o contratante não se vinculará às disposições contidas em acordos, convenções ou dissídios coletivos de trabalho que tratem (...) de matéria não trabalhista, de pagamento de participação dos trabalhadores nos lucros ou resultados (...), ou que estabeleçam direitos não previstos em lei'."
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: "Contradição interna: o TR exige cumprimento integral da CCT (incluindo BSS, taxa patronal, PPR e demais obrigações convencionais), mas a minuta veda a consideração dessas mesmas parcelas na repactuação — custos exigidos na execução sem correspondente recomposição"
+  dispositivo_legal: "art. 135, §§ 1.º e 2.º, da Lei n.º 14.133/2021; art. 92, inciso V, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4d-014", "E4d-015", "E4d-017"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4d-017
+  dispositivo_editalicio: "Cláusula Décima Quarta da CCT 2025/2026 (Plano de Participação nos Resultados)"
+  transcricao: "Se ainda assim persistir frustrada a negociação, fica avençada a multa de caráter indenizatório de 70% (setenta por cento) do salário do empregado abrangido por essa Convenção, a ser paga em 2 parcelas de 35% (...) em cada semestre."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: "Obrigação convencional de implantar PPR sob pena de multa indenizatória anual de 70% do salário por empregado — custo potencial relevante, expressamente excluído da repactuação pela cláusula 5.7 da minuta (PLR)"
+  dispositivo_legal: "cláusula 14ª da CCT 2025/2026; art. 135, § 1.º, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4d-016"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4d-018
+  dispositivo_editalicio: "Cláusula Trigésima Nona, § 4.º, da CCT 2025/2026 (jornada 12x36)"
+  transcricao: "a jornada de trabalho de 12x36h em aterros sanitários demandará prévia anuência do Sindicato Laboral caso haja necessidade de adotá-la nas suas 'frentes de descarga'."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: "Adoção de escala 12x36 nas frentes de descarga do aterro condicionada a anuência sindical prévia — restrição de dimensionamento de equipe da operação do aterro municipal, com impacto no custo de mão de obra do item 2"
+  dispositivo_legal: "art. 59-A da CLT c/c cláusula 39ª, § 4.º, da CCT 2025/2026"
+  referencias_cruzadas: ["E4d-027"]
+  flag_tecnico: true
+  flag_reserva: false
+
+- id: E4d-019
+  dispositivo_editalicio: "Cláusula Septagésima Primeira da CCT 2025/2026 (Ultratividade)"
+  transcricao: "As partes acordam que será mantida a vigência das cláusulas durante o período de negociação da Convenção Coletiva de Trabalho."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: "Cláusula de ultratividade convencionada colide com a vedação legal de ultratividade (art. 614, § 3.º, da CLT), agravando a incerteza sobre quais pisos e benefícios vigoram na data de entrega das propostas caso a CCT 2026/2027 não esteja registrada"
+  dispositivo_legal: "art. 614, § 3.º, da CLT; art. 63, § 1.º, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4d-003", "E4d-004"]
+  flag_tecnico: false
+  flag_reserva: false
+
+# ============ ANEXO IV — MODELO DE DECLARAÇÃO (FASE DE HABILITAÇÃO) ============
+
+- id: E4d-020
+  dispositivo_editalicio: "Anexo IV, alíneas 'a', 'c', 'd', 'f', 'g', 'h', 'k', 'l' e 'm', c/c item 1.5.1 do Anexo II"
+  transcricao: "a) cumpre as exigências de reserva de cargos para pessoa com deficiência e para reabilitado da Previdência Social (...); g) nos termos do inciso VI do artigo 68 da Lei Federal nº 14.133 (...) situação regular (...) inciso XXXIII do artigo 7º da Constituição Federal; k) nos 5 (cinco) anos anteriores à divulgação deste edital, não fui condenada (...) por exploração de trabalho infantil (...)."
+  tipo_achado: CONFORME
+  categoria: omissao
+  descricao_breve: "Declarações-padrão de habilitação (reserva de cargos PCD/reabilitado, requisitos de habilitação, fato impeditivo, idoneidade, menor aprendiz, trabalho escravo/infantil, disponibilidade de máquinas e pessoal, normas de SST) têm amparo legal"
+  dispositivo_legal: "art. 63, incisos I e IV, art. 14, inciso VI, e art. 68, inciso VI, da Lei n.º 14.133/2021; art. 7.º, inciso XXXIII, da CF/1988"
+  referencias_cruzadas: []
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4d-021
+  dispositivo_editalicio: "Anexo IV, alínea 'e'"
+  transcricao: "não haverá prestação de serviço, na execução do futuro contrato, de cônjuge, companheiro(a) ou parente em linha reta ou colateral, por consanguinidade ou afinidade, até o terceiro grau, de agente público que exerce cargo em comissão ou função de confiança no âmbito do Município."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: restricao_competitividade
+  descricao_breve: "Vedação de contratação, pela futura contratada, de parentes até 3.º grau de qualquer comissionado do Município extrapola o rol legal de impedimentos da Lei 14.133 (restrito a agente público do órgão contratante com atuação na licitação) — verificar existência de norma municipal antinepotismo que a fundamente"
+  dispositivo_legal: "art. 14, inciso IV, e art. 9.º, § 1.º, da Lei n.º 14.133/2021"
+  referencias_cruzadas: []
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4d-022
+  dispositivo_editalicio: "Anexo IV, alínea 'i', c/c itens 1.4 e 1.5.1 do Anexo II"
+  transcricao: "possui os seguintes contratos firmados vigentes com a iniciativa privada e Administração Pública: (...) Valor Total dos Contratos R$__________ — Transferir para cálculo do PL."
+  tipo_achado: CONFORME
+  categoria: omissao
+  descricao_breve: "Exigência de relação de compromissos/contratos vigentes para cotejo com o patrimônio líquido tem amparo na disciplina da habilitação econômico-financeira; o critério de cálculo do 'PL' referido deve estar objetivamente definido no Anexo II"
+  dispositivo_legal: "art. 69 da Lei n.º 14.133/2021"
+  referencias_cruzadas: []
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4d-023
+  dispositivo_editalicio: "Anexo IV, alínea 'j', c/c itens 7.11 e 7.12 do TR"
+  transcricao: "j) autoriza a criação de Conta Vinculada para a Quitação de Obrigações Trabalhistas (...). TR 7.11: 'depositados pelo Município em conta vinculada específica, conforme o disposto na Instrução Normativa SLTI/MP nº 02, de 30 de abril de 2008'."
+  tipo_achado: IRREGULAR
+  categoria: erro_material
+  descricao_breve: "Disciplina da conta vinculada remete à IN SLTI/MP 02/2008, norma federal revogada e não autoaplicável ao Município, sem fixação no edital dos percentuais de provisionamento e da operacionalização — insegurança sobre a retenção que impacta o fluxo de caixa da contratada"
+  dispositivo_legal: "art. 121, § 3.º, da Lei n.º 14.133/2021; art. 92 da Lei n.º 14.133/2021 (cláusulas necessárias)"
+  referencias_cruzadas: []
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4d-024
+  dispositivo_editalicio: "Anexo IV, alínea 'n', c/c item 1.5.1, parte final, do Anexo II"
+  transcricao: "apresentará por ocasião da assinatura do contrato, caso sagre-se vencedora, comprovação de que os responsáveis técnicos indicados no(s) atestado(s) ou certidão(ões) apresentados na fase de habilitação pertencem ao quadro permanente da Licitante, conforme SÚMULA N° 25 (TCE)."
+  tipo_achado: IRREGULAR
+  categoria: restricao_competitividade
+  descricao_breve: "Exigência de que os responsáveis técnicos pertençam ao 'quadro permanente' da licitante restringe as formas admitidas de comprovação de vínculo profissional (a lei exige apenas a apresentação de profissional detentor de atestado/CAT); confrontar com o teor da própria Súmula 25 do TCE-SP invocada pelo edital"
+  dispositivo_legal: "art. 67, inciso I, da Lei n.º 14.133/2021"
+  referencias_cruzadas: []
+  flag_tecnico: false
+  flag_reserva: false
+
+# ============ ANEXO V — MINUTA DA PROPOSTA COMERCIAL ============
+
+- id: E4d-025
+  dispositivo_editalicio: "Anexo V, itens 4 e 4.1, c/c item 9.1 do TR (Nota Informativa) e critério de julgamento menor preço por lote"
+  transcricao: "Anexo V, item 4: Lote 1 — Item 2 'Destinação final (...) em aterro sanitário devidamente licenciado no Município' 12.480 TON/ANO; Item 3 'Destinação final (...) em aterro sanitário devidamente licenciado em outro Município' 12.480 TON/ANO; '4.1 Valor Total da Proposta R$'. TR 9.1, Nota: 'Os itens 2 e 3 são mutuamente excludentes e sucessivos'."
+  tipo_achado: IRREGULAR
+  categoria: ilegalidade
+  descricao_breve: "Julgamento pelo menor valor global do lote somando itens 2 e 3, mutuamente excludentes e ambos com a tonelagem anual integral (12.480 t), faz o critério de julgamento não refletir o dispêndio real e permite desbalanceamento dos preços unitários entre os itens conforme a expectativa de vida útil do aterro municipal (jogo de planilha)"
+  dispositivo_legal: "art. 5.º, art. 33, inciso I, e art. 34, caput e § 1.º, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4d-026", "E4d-027"]
+  flag_tecnico: true
+  flag_reserva: true
+
+- id: E4d-026
+  dispositivo_editalicio: "Anexo V, item 4, c/c item 9.1 do TR (Nota Informativa)"
+  transcricao: "TR 9.1, Nota Informativa: 'a Contratada não fará jus ao recebimento da soma integral de todos os itens simultaneamente. Os itens 2 e 3 são mutuamente excludentes e sucessivos (...) sendo vedada a cumulatividade de faturamento entre ambos' — regra não reproduzida no modelo de proposta do Anexo V."
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: "O Anexo V não reproduz a regra de exclusão mútua e sucessividade dos itens 2 e 3 constante do TR 9.1, induzindo o proponente que se guiar pelo modelo a precificar execução simultânea das duas destinações"
+  dispositivo_legal: "art. 25, caput, e art. 92 da Lei n.º 14.133/2021; art. 5.º da Lei n.º 14.133/2021 (julgamento objetivo)"
+  referencias_cruzadas: ["E4d-025"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4d-027
+  dispositivo_editalicio: "Anexo V, itens 1.1 e 4 (Item 2 da planilha)"
+  transcricao: "1.1 (...) incluindo a operação do aterro sanitário municipal ou destinação final de resíduos urbanos em aterro sanitário de outro município (...). Item 2: 'Destinação final ambientalmente adequada (...) em aterro sanitário devidamente licenciado no Município' — 12.480 TON/ANO."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: omissao
+  descricao_breve: "Objeto inclui a operação do aterro sanitário municipal, mas a planilha remunera o item 2 exclusivamente por tonelada destinada, sem parcela fixa para custos de operação do aterro (recobrimento, drenagem, tratamento de chorume, monitoramento), transferindo à contratada risco de demanda sobre custos fixos"
+  dispositivo_legal: "art. 6.º, inciso XXIII, alínea 'e', e art. 23 da Lei n.º 14.133/2021; art. 92, inciso V, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4d-025", "E4d-018"]
+  flag_tecnico: true
+  flag_reserva: false
+
+- id: E4d-028
+  dispositivo_editalicio: "Anexo V, item 4 (colunas da tabela de preços)"
+  transcricao: "Quantidade 12.480 — Unidade TON/ANO — Valor Unitário — Valor Mensal — Valor Total para 12 (doze) meses."
+  tipo_achado: IRREGULAR
+  categoria: erro_material
+  descricao_breve: "Inconsistência de unidades no modelo de proposta: quantidade anual em TON/ANO combinada com coluna de 'Valor Mensal', enquanto a remuneração contratual é por tonelada efetivamente medida (R$/TON) — o 'valor mensal' uniforme não corresponde ao regime real de medição"
+  dispositivo_legal: "art. 25, caput, da Lei n.º 14.133/2021 (edital com regras claras e objetivas)"
+  referencias_cruzadas: ["E4d-025"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4d-029
+  dispositivo_editalicio: "Anexo V, item 4 (Item 4 da planilha), c/c itens 5.1.4 e 9.1 do TR"
+  transcricao: "Anexo V/TR 9.1: 'Fornecimento, manutenção e higienização de contêineres com capacidade de 1000 litros'; TR 5.1.4: 'Locação Manutenção e higienização de contêineres com capacidade de 1000 litros'."
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: "Divergência entre 'fornecimento' (Anexo V e TR 9.1) e 'locação' (TR 5.1.4) dos contêineres — indefinição sobre a propriedade/reversão dos bens ao final do contrato, com impacto direto na precificação (CAPEX vs. aluguel)"
+  dispositivo_legal: "art. 6.º, inciso XXIII, e art. 40, § 1.º, inciso I, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4d-030"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4d-030
+  dispositivo_editalicio: "Anexo V, item 4 (Item 4 da planilha)"
+  transcricao: "Item 4 — Fornecimento, manutenção e higienização de contêineres com capacidade de 1000 litros — 80 — UNIDADE."
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: "Modelo de proposta não indica a periodicidade do preço unitário do item 4 ('UNIDADE' — por mês ou preço único), embora a estimativa do TR 9.1 (R$207,83 unitário x 80 = R$16.626,40 mensal) pressuponha valor mensal por contêiner"
+  dispositivo_legal: "art. 25, caput, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4d-029"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4d-031
+  dispositivo_editalicio: "Anexo V, item 3.2, c/c item 5.1.5 do TR"
+  transcricao: "O serviço será iniciado mediante emissão de Ordem de Serviço, devendo ter início das atividades em 30 (trinta) dias, ficando a critério do poder público escolher a data conveniente para emissão de tal ordem."
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: "Ausência de prazo máximo para emissão da Ordem de Serviço após a assinatura ('a critério do poder público escolher a data conveniente'), deixando indefinido o termo inicial da execução e da fluência dos preços propostos, com risco de defasagem entre proposta e mobilização"
+  dispositivo_legal: "art. 92, caput, da Lei n.º 14.133/2021 (cláusulas necessárias: prazos e condições de execução); art. 115 da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4d-005"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4d-032
+  dispositivo_editalicio: "Anexo V, item 5.1, c/c itens 7.10 do TR"
+  transcricao: "5.1. Em até 10 (dez) dias, após a entrega do objeto e emissão da nota fiscal devidamente atestada pelo solicitante."
+  tipo_achado: IRREGULAR
+  categoria: erro_material
+  descricao_breve: "Condição de pagamento do modelo de proposta redigida para fornecimento de bens ('entrega do objeto'), incompatível com o regime de serviço contínuo com medição mensal por tonelada previsto no TR — resquício de modelo-padrão de compras"
+  dispositivo_legal: "art. 92, incisos V e VI, e art. 141 da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4d-028"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4d-033
+  dispositivo_editalicio: "Anexo V, item 4.5, c/c item 10.1 do TR (dotação orçamentária)"
+  transcricao: "os quantitativos indicados no item 4 consideram um horizonte de 12 (doze) meses. Tal referência não altera a vigência contratual, que será de 60 (sessenta) meses (...). TR 10.1: dotações indicadas apenas para 2026 (R$3.041.419,20) e 2027 (R$6.152.433,60)."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: omissao
+  descricao_breve: "Edital não explicita o valor estimado total para os 60 meses de vigência (aprox. 5x o valor anual) nem demonstra a previsão orçamentário-financeira plurianual além de 2027 — base de cálculo de garantias, capital mínimo e limites fica referida apenas ao valor de 12 meses"
+  dispositivo_legal: "art. 23 e art. 105 da Lei n.º 14.133/2021; art. 16, §§ 1.º e 2.º, da LC n.º 101/2000"
+  referencias_cruzadas: ["E4d-025"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4d-034
+  dispositivo_editalicio: "Anexo V, item 6.1"
+  transcricao: "A validade da proposta comercial será de .... (.......) dias, contados a partir da data da sessão pública. — Prazo não inferior a 60 (sessenta) dias."
+  tipo_achado: CONFORME
+  categoria: omissao
+  descricao_breve: "Prazo mínimo de validade da proposta de 60 dias coincide com o parâmetro legal supletivo"
+  dispositivo_legal: "art. 90, § 3.º, da Lei n.º 14.133/2021"
+  referencias_cruzadas: []
+  flag_tecnico: false
+  flag_reserva: false
+
+# ============ ANEXO VI — VISITA TÉCNICA / DECLARAÇÕES ============
+
+- id: E4d-035
+  dispositivo_editalicio: "Anexo VI (fls. 1/3 a 3/3) c/c item 4.12 do TR e item 1.3.1 do Anexo II"
+  transcricao: "TR 4.12: 'A avaliação prévia do local de execução dos serviços é imprescindível (...) sendo assegurado ao interessado o direito de realização de vistoria prévia'; 4.12.1.1: opção pela não realização mediante folha 3/3 do Anexo VI; 4.12.1.2: agendamento 'de modo que seu agendamento não coincida com o agendamento de outros licitantes'."
+  tipo_achado: CONFORME
+  categoria: omissao
+  descricao_breve: "Regime de vistoria facultativa, com declaração substitutiva de conhecimento das condições (fls. 3/3) e agendamento individualizado por licitante, observa o modelo legal e o entendimento sumulado (Súmula 272 do TCU)"
+  dispositivo_legal: "art. 63, §§ 2.º, 3.º e 4.º, da Lei n.º 14.133/2021; Súmula 272 do TCU"
+  referencias_cruzadas: ["E4d-036", "E4d-037"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4d-036
+  dispositivo_editalicio: "Anexo VI, folha 3/3 (Declaração de Conhecimento das Condições de Execução)"
+  transcricao: "que somos detentores de todas as informações relativas a execução do objeto deste certame e que não alegaremos posteriormente o desconhecimento de fatos para solicitar qualquer alteração do valor do contrato que viermos a celebrar."
+  tipo_achado: IRREGULAR
+  categoria: ilegalidade
+  descricao_breve: "Declaração substitutiva impõe renúncia genérica a 'qualquer alteração do valor do contrato' por desconhecimento de 'fatos', sem restrição a fatos verificáveis à época — redação apta a ser oposta a pleitos de reequilíbrio por fatos supervenientes ou álea extraordinária, em conflito com o regime legal de manutenção do equilíbrio econômico-financeiro"
+  dispositivo_legal: "art. 124, inciso II, alínea 'd', e art. 103, § 5.º, da Lei n.º 14.133/2021; art. 37, inciso XXI, da CF/1988"
+  referencias_cruzadas: ["E4d-035", "E4d-037"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4d-037
+  dispositivo_editalicio: "Anexo VI, folhas 2/3 e 3/3 (comparação das redações)"
+  transcricao: "Fls. 2/3: 'não alegaremos posteriormente o desconhecimento de fatos evidentes à época da visita'; fls. 3/3: 'não alegaremos posteriormente o desconhecimento de fatos' (sem o qualificador 'evidentes à época')."
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: "Assimetria entre as declarações: quem realiza a vistoria renuncia apenas quanto a fatos 'evidentes à época da visita', enquanto quem opta pela declaração substitutiva assume renúncia mais ampla (qualquer fato) — tratamento desigual que onera a opção legal de não vistoriar"
+  dispositivo_legal: "art. 5.º e art. 63, § 3.º, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4d-035", "E4d-036"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E4d-038
+  dispositivo_editalicio: "Anexo VI, folha 3/3 (campo de assinatura)"
+  transcricao: "por intermédio do(a) Sr(a) (...), devidamente credenciado(a) por nossa empresa (...) — Assinatura do profissional."
+  tipo_achado: IRREGULAR
+  categoria: erro_material
+  descricao_breve: "Modelo da declaração substitutiva de vistoria prevê assinatura de 'profissional credenciado' genérico, sem exigir que seja o responsável técnico do licitante, como prevê a lei para a declaração formal substitutiva"
+  dispositivo_legal: "art. 63, § 3.º, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E4d-035"]
+  flag_tecnico: false
+  flag_reserva: false
