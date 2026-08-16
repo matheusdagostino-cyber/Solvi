@@ -1,0 +1,34 @@
+                                  PREFEITURA MUNICIPAL DE PORTO FERREIRA
+                                         Secretaria de Meio Ambiente e Zeladoria
+                                            DIVISÃO DE MEIO AMBIENTE
+
+                                INDICADORES CHAVE DE DESEMPENHO (KPI)
+  Categoria       Parâmetro /             Prazo/Critério                                        Penalidade
+                    Indicador
+Operacional    Intervalo entre      Máximo de 48 horas.           Glosa do valor da rota não executada + Multa de 1% sobre o valor
+               Coletas                                            mensal por dia de atraso.
+Operacional    Frota Mínima         Mínimo de 03 caminhões        Multa diária por veículo faltante ou em desacordo com as normas.
+               Operacional          em operação
+Operacional    Veículo Reserva      Disponibilidade imediata      Multa de 0,5% do valor mensal por dia de indisponibilidade do reserva.
+                                    (01 veículo)
+Operacional    Rastreamento GPS     Visualização em tempo         Glosa de 0,1% por dia em que o sinal de GPS do veículo em rota estiver
+                                    real pela Contratante         offline.
+Ambiental      Vazamento de         Limpeza em até 02 horas       Multa por hora de atraso + Sanção grave se houver dano ambiental
+               Chorume              após a ocorrência             comprovado.
+Ambiental      Destinação Final     Pesagem obrigatória e         Suspensão do pagamento da quinzena até a regularização da
+                                    tickets quinzenais            comprovação documental.
+Recipientes    Manutenção de        Substituição em até 24        Multa fixa por unidade/dia de atraso.
+               Contêineres          horas após notificação
+Recipientes    Higienização de      Mínimo de 02 vezes por        Glosa proporcional ao valor unitário do Item 4 por falha na higienização
+               Contêineres          semana                        atestada.
+Recipientes    Limpeza do           Diária (raio de 2 metros do   Multa de 0,05% do valor mensal por infração detectada pela
+               Entorno              contêiner)                    fiscalização.
+RH /           Quadro de            03 coletores e 01             Glosa do valor da mão de obra faltante no período de medição.
+Segurança      Funcionários         motorista por caminhão
+RH /           Uso de EPIs /        Uso obrigatório e             Multa por funcionário flagrado sem EPI ou com uniforme inadequado.
+Segurança      Uniformes            substituição imediata
+Atendimento    Canal 0800           Disponibilidade para          Multa de 0,2% do valor mensal por dia em que o serviço de
+                                    sugestões e reclamações       atendimento estiver inoperante.
+Administrativo Plano de             Entrega em até 30 dias        Multa de 1% sobre o valor total do contrato por atraso na instalação da
+               Infraestrutura       (Garagem, Escritório, etc.)   base operacional.
+

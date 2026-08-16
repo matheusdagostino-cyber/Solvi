@@ -1,0 +1,38 @@
+                                    QUILOMETRAGEM MÉDIA MENSAL DA COLETA
+                                                                    coletas na              coletas no
+         Frequência           Cor (Mapa)       Região     km/dia                                          km/mês
+                                                                     semana                    mês
+                                         Região Central +
+Diário (início 16h)          preto                         56,9         6                      24         1365,6
+                                         Av. Comércio
+                             rosa        Região Oeste      38,7         3                      12         464,4    Trajeto segunda, quarta e sexta
+Segunda, quarta e sexta
+                             verde       Região Sudeste    35,5         3                      12          426          177,6 km
+(início 7h)
+                             amarelo     Região Sul        24,8         3                      12         297,6
+Terça, quinta e sábado       laranja     Região Norte      64,8         3                      12         777,6    Trajeto terça, quinta e sábado
+(início 7h)                  azul        Região Leste       55          3                      12          660          176,7 km
+Rural (sexta)                roxo        Rural             21,7         1                       4          86,8
+
+                                                                                             4078   km média mensal
+Link Mapa com as Rotas
+https://www.google.com/maps/d/u/0/viewer?mid=1EG6R4ChjVjwtqNSgWjMXyiOUVujxHgU&ll=-21.863422682913075%2C-47.4844544167168&z=13
+
+
+
+
+                                       QUILOMETRAGEM MÉDIA TRANSBORDO
+
+                                                             ida e volta   viagens por dia viagens por
+ Aterros sanitários (Classe IIA) próximos   distância (km)                                                km/mês
+                                                                (km)        (40 ton/dia)* mês (26 dias)
+São Carlos Ambiental - Grupo Solví               67              134             1,5           39          5226
+Aterro Casa Branca - Grupo Seleta                67              134             1,5           39          5226
+CGR Guatapará - Estre Ambiental                  86              172             1,5           39          6708
+Orizon Ecoparque - Paulínia                      123             246             1,5           39          9594
+CTR Essencial - Rio das Pedras                   140             280             1,5           39         10920
+
+
+*considerando 1,5 viagens por dia, cada viagem com 30 toneladas.
+**principais destinos considerados, sem prejuízo de outras opções.
+
