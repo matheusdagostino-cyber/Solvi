@@ -1,0 +1,828 @@
+# =====================================================================
+# AGENTE E3 — MINUTA DE CONTRATO (ANEXO III)
+# Pregão Eletrônico nº 30/2026 REABERTURA — Município de Porto Ferreira/SP
+# Processo Administrativo nº 3.721/2026
+# Fonte: 61122568-021ee384a2ef4df4b7959822128a21b8.txt, linhas 2991-4787
+# Fase 1 — varredura exaustiva, sem jurisprudência, sem juízo de força
+# [USO INTERNO]
+# =====================================================================
+
+- id: E3-001
+  dispositivo_editalicio: "Cláusula 1ª, item 1.1, inciso V"
+  transcricao: "As normas regulamentares aplicáveis a este edital e seus anexos são: a) Decreto Municipal nº 1.288, de 24/03/2020 (...) t) Decreto Municipal nº 1.925, de 17/12/2021"
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: omissao
+  descricao_breve: "Rol de 20 decretos municipais listados como normas aplicáveis sem indicação da matéria de cada um nem de onde podem ser consultados; impossibilidade de o licitante conhecer o conteúdo regulamentar que o vincula"
+  dispositivo_legal: "art. 5º da Lei n.º 14.133/2021 (princípios da publicidade e da transparência)"
+  referencias_cruzadas: ["E3-056"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E3-002
+  dispositivo_editalicio: "Cláusula 2ª, item 2.3"
+  transcricao: "O regime de execução do contrato será continuado."
+  tipo_achado: IRREGULAR
+  categoria: erro_material
+  descricao_breve: "Confusão conceitual: 'continuado' é natureza do serviço, não regime de execução; o contrato não define o regime de execução propriamente dito (cláusula necessária), embora a remuneração por tonelada indique lógica de preço unitário"
+  dispositivo_legal: "art. 92, inciso II, da Lei n.º 14.133/2021"
+  referencias_cruzadas: []
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E3-003
+  dispositivo_editalicio: "Cláusula 3ª, itens 3.1 e 3.3"
+  transcricao: "O valor total deste contrato é R$ ............. (...) os quantitativos indicados no quadro acima consideram um horizonte de 12 (doze) meses. Tal referência não altera a vigência contratual, que será de 60 (sessenta) meses"
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: "Indefinição sobre se o 'valor total do contrato' (3.1) corresponde a 12 ou a 60 meses de execução; a ambiguidade repercute em garantia, base de multas, limite de 25% para aditivos e empenho"
+  dispositivo_legal: "art. 92, incisos I e V, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E3-023", "E3-066"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E3-004
+  dispositivo_editalicio: "Cláusula 3ª, itens 3.2 e 3.5"
+  transcricao: "Os itens 2 e 3 são mutuamente excludentes e sucessivos: a execução e o respectivo pagamento do item 3 somente serão iniciados após o encerramento definitivo da execução do item 2, sendo vedada a cumulatividade de faturamento entre ambos."
+  tipo_achado: IRREGULAR
+  categoria: risco_economico
+  descricao_breve: "Julgamento por menor preço global do lote somando itens mutuamente excludentes (2 e 3) com durações incertas permite alocação estratégica de preços entre itens ('jogo de planilha') sem ponderação temporal definida, comprometendo a comparabilidade objetiva das propostas"
+  dispositivo_legal: "art. 5º e art. 9º, inciso I, alínea 'a', da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E3-005", "E3-027"]
+  flag_tecnico: false
+  flag_reserva: true
+
+- id: E3-005
+  dispositivo_editalicio: "Cláusula 3ª, item 3.2 c/c Cláusula 9ª, item 9.1.6.2"
+  transcricao: "Diante da exaustão da capacidade volumétrica e constatação técnica do encerramento do espaço físico do Aterro Municipal, provavelmente no primeiro semestre de 2027, a operação migrará para o sistema de transbordo ou transporte externo."
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: "Quantitativos anuais idênticos (12.480 t/ano) atribuídos aos itens 2 e 3, que são sucessivos e com marco de transição incerto; ausência de cronograma físico-financeiro estimando a duração de cada fase, elemento necessário à precificação; assimetria informacional favorece quem conhece a vida útil real da Vala 05"
+  dispositivo_legal: "art. 6º, inciso XXIII, alínea 'a', c/c art. 23 da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E3-004", "E3-048"]
+  flag_tecnico: true
+  flag_reserva: true
+
+- id: E3-006
+  dispositivo_editalicio: "Cláusula 3ª, item 3.2 (Item 4) c/c Cláusula 9ª, item 9.1.4"
+  transcricao: "Fornecimento, manutenção e higienização de contêineres com capacidade de 1000 litros. (...) 9.1.4. Locação Manutenção e higienização de contêineres com capacidade de 1000 litros."
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: "Item 4 descrito ora como 'fornecimento' (tabela de preços) ora como 'locação' (9.1.4); a divergência afeta titularidade dos bens, regime tributário, amortização do investimento e destino dos contêineres ao término contratual"
+  dispositivo_legal: "art. 92, inciso I, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E3-052", "E3-069"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E3-007
+  dispositivo_editalicio: "Cláusula 3ª, item 3.2 (tabela)"
+  transcricao: "Quantidade 12.480 Unidade TON/ANO (...) Valor Mensal (...) Valor Total para 12 (doze) meses"
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: erro_material
+  descricao_breve: "Tabela de preços mistura unidade anual (TON/ANO) com colunas de valor mensal e valor para 12 meses, sem indicar expressamente o preço unitário de julgamento (R$/ton); a leitura só se harmoniza com o critério R$/TON do item 9.9; conferir coerência com a planilha da proposta"
+  dispositivo_legal: "art. 92, inciso V, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E3-052"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E3-008
+  dispositivo_editalicio: "Cláusula 4ª, itens 4.1 e 4.4.1"
+  transcricao: "correrá o prazo de dez dias úteis para fins de liquidação (...) prorrogáveis por igual período. (...) 4.4.1 Os pagamentos serão efetuados (...) em até 10 (dez) dias após sua entrega, condicionados à apresentação das notas fiscais devidamente atestadas"
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: "Sobreposição de prazos de liquidação (10 dias úteis prorrogáveis) e de pagamento (10 dias da entrega da NF): não fica claro o prazo total efetivo de pagamento nem o termo inicial de cada etapa"
+  dispositivo_legal: "art. 92, inciso V, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E3-037"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E3-009
+  dispositivo_editalicio: "Cláusula 4ª, item 4.4.5"
+  transcricao: "Nenhum pagamento será efetuado à Contratada enquanto pendente de liquidação qualquer obrigação legal, ou financeira municipal que lhe for imposta em virtude de penalidade ou inadimplência, a qual poderá ser compensada com o(s) pagamento(s) pendente(s), sem que isso gere direito a acréscimos de qualquer natureza."
+  tipo_achado: IRREGULAR
+  categoria: ilegalidade
+  descricao_breve: "Retenção integral de pagamento por serviços já prestados em razão de qualquer pendência (inclusive estranha ao contrato), com compensação unilateral; colide com o dever de pagar a parcela incontroversa e com a cláusula 13.1.e do próprio contrato"
+  dispositivo_legal: "art. 143 da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E3-055"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E3-010
+  dispositivo_editalicio: "Cláusula 4ª, itens 4.5 e 4.6 c/c Cláusula 12ª, item 12.2.b"
+  transcricao: "serão depositados pelo Município em conta vinculada específica, conforme o disposto na Instrução Normativa SLTI/MP nº 02, de 30 de abril de 2008. (...) nos termos das Instruções Normativas n.02 e 03 do Ministério do Planejamento"
+  tipo_achado: IRREGULAR
+  categoria: erro_material
+  descricao_breve: "Conta vinculada fundamentada em norma federal revogada (IN SLTI/MP n.º 2/2008, revogada pela IN SEGES/MP n.º 5/2017) e não autoaplicável ao Município sem regulamento local; insegurança sobre o procedimento efetivamente aplicável de provisionamento e liberação"
+  dispositivo_legal: "art. 121, § 3.º, inciso III, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E3-011"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E3-011
+  dispositivo_editalicio: "Cláusula 4ª, item 4.6.5"
+  transcricao: "Somente será liberado o saldo da Conta Vinculada à empresa vencedora depois de comprovada a execução correta do contrato e a quitação de todos os encargos trabalhistas e previdenciários relativos ao objeto."
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: "Liberação do saldo da conta vinculada condicionada a critério genérico ('execução correta do contrato'), sem parâmetros objetivos, documentação exigível nem prazo para a Administração liberar os valores"
+  dispositivo_legal: "art. 121, § 3.º, inciso III, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E3-010"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E3-012
+  dispositivo_editalicio: "Cláusula 4ª, item 4.7.1 c/c Cláusula 9ª, item 9.9.h, e Cláusula 14ª"
+  transcricao: "Será indicada a retenção ou glosa no pagamento, proporcional à irregularidade verificada, sem prejuízo das sanções cabíveis"
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: ilegalidade
+  descricao_breve: "Possibilidade de cumulação, sobre o mesmo fato, de glosa/retenção por KPI e multa contratual (0,5% a 30%), sem regra de non bis in idem nem delimitação entre desconto remuneratório e sanção"
+  dispositivo_legal: "art. 156, § 1.º, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E3-013", "E3-065"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E3-013
+  dispositivo_editalicio: "Cláusula 9ª, item 9.9.h c/c Cláusula 4ª, item 4.7"
+  transcricao: "O Relatório de Desempenho (KPI) é documento obrigatório e vinculante para a aprovação da medição quinzenal, permitindo a retenção direta de valores em caso de descumprimento dos índices."
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: "Retenção 'direta' de valores por descumprimento de KPI sem procedimento definido no contrato (percentuais, fórmula de desconto, notificação, defesa prévia); parâmetros remetidos integralmente a anexo do TR"
+  dispositivo_legal: "art. 92, inciso V, da Lei n.º 14.133/2021 c/c art. 5.º, inciso LV, da CF/1988"
+  referencias_cruzadas: ["E3-012"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E3-014
+  dispositivo_editalicio: "Cláusula 5ª, item 5.9"
+  transcricao: "Quando a repactuação solicitada pelo contratado se referir aos custos decorrentes do mercado, o respectivo aumento será apurado mediante a aplicação do índice de reajustamento IPCA"
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: "Adoção de índice geral (IPCA) para a parcela de custos de mercado em serviço com peso relevante de combustível, frota e disposição final, sem cesta de índices setoriais nem justificativa da escolha"
+  dispositivo_legal: "art. 25, § 7.º, da Lei n.º 14.133/2021"
+  referencias_cruzadas: []
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E3-015
+  dispositivo_editalicio: "Cláusula 5ª, itens 5.1 a 5.8, 5.15 a 5.24"
+  transcricao: "Os preços contratados serão repactuados para manutenção do equilíbrio econômico-financeiro, após o interregno de um ano, mediante solicitação do contratado."
+  tipo_achado: CONFORME
+  categoria: risco_economico
+  descricao_breve: "Regime de repactuação estruturado conforme a lei: interregno anual por parcela, data-base da mão de obra vinculada ao instrumento coletivo, repasse integral da CCT, vedação de benefícios não previstos, retroação dos efeitos, apostilamento, preclusão e ressalva da revisão extraordinária"
+  dispositivo_legal: "art. 135, caput e §§ 1.º a 5.º, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E3-041", "E3-042"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E3-016
+  dispositivo_editalicio: "Cláusula 6ª, itens 6.1 e 6.2"
+  transcricao: "A dotação relativa aos exercícios financeiros subsequentes será indicada após aprovação da Lei Orçamentária respectiva e liberação dos créditos correspondentes, mediante apostilamento."
+  tipo_achado: CONFORME
+  categoria: risco_economico
+  descricao_breve: "Indicação das dotações orçamentárias do exercício corrente com previsão de apostilamento anual para exercícios subsequentes, compatível com contratação plurianual de serviço contínuo"
+  dispositivo_legal: "art. 105 e art. 106 da Lei n.º 14.133/2021"
+  referencias_cruzadas: []
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E3-017
+  dispositivo_editalicio: "Cláusula 7ª, item 7.1 c/c Cláusula 9ª, item 9.1.5"
+  transcricao: "O prazo de vigência da contratação é de 60 (sessenta) meses contados a partir da emissão da ordem de serviço (...) ficando a critério do poder público escolher a data conveniente para emissão de tal ordem."
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: "Termo inicial da vigência vinculado à emissão de Ordem de Serviço sem prazo máximo para sua expedição após a assinatura: período de hiato indeterminado, com garantia e preços já vinculados e sem disciplina do interregno"
+  dispositivo_legal: "art. 105 c/c art. 92, caput, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E3-024"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E3-018
+  dispositivo_editalicio: "Cláusula 7ª, item 7.1"
+  transcricao: "prazo de vigência da contratação é de 60 (sessenta) meses (...) prorrogável por até 10 anos, na forma dos artigos 106 e 107 da Lei n° 14.133, de 2021"
+  tipo_achado: IRREGULAR
+  categoria: ilegalidade
+  descricao_breve: "Redação 'prorrogável por até 10 anos' somada aos 60 meses iniciais admite leitura de vigência total de 15 anos, excedendo o limite decenal; a forma legal seria prorrogação até completar 10 anos totais"
+  dispositivo_legal: "art. 107 da Lei n.º 14.133/2021"
+  referencias_cruzadas: []
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E3-019
+  dispositivo_editalicio: "Cláusula 8ª, item 8.1"
+  transcricao: "A contratação conta com garantia de execução (...) na modalidade Seguro Garantia (...) OU 8.1. O contratado apresentará, no prazo máximo de 10 (dez) dias (...) podendo optar por caução em dinheiro ou títulos da dívida pública, fiança bancária ou título de capitalização"
+  tipo_achado: IRREGULAR
+  categoria: erro_material
+  descricao_breve: "Minuta mantém duas redações alternativas do item 8.1 separadas por 'OU', sem definição de qual regra vigerá; o licitante não sabe se a modalidade de garantia será imposta ou de livre escolha"
+  dispositivo_legal: "art. 92, caput, c/c art. 96 da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E3-020", "E3-021", "E3-022"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E3-020
+  dispositivo_editalicio: "Cláusula 8ª, item 8.1 (primeira redação)"
+  transcricao: "A contratação conta com garantia de execução, nos moldes do art. 96 da Lei nº 14.133, de 2021, na modalidade Seguro Garantia, em valor correspondente a 5% (cinco por cento) do valor anual da contratação"
+  tipo_achado: IRREGULAR
+  categoria: ilegalidade
+  descricao_breve: "Primeira redação impõe modalidade única de garantia (seguro-garantia), suprimindo a opção legal do contratado entre as modalidades; a imposição de seguro-garantia é reservada às hipóteses de obras e serviços de engenharia de grande vulto"
+  dispositivo_legal: "art. 96, § 1.º, da Lei n.º 14.133/2021 (c/c art. 102, a contrario sensu)"
+  referencias_cruzadas: ["E3-019"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E3-021
+  dispositivo_editalicio: "Cláusula 8ª, item 8.1 (segunda redação) c/c itens 8.2 a 8.5 e 8.13.2"
+  transcricao: "podendo optar por caução em dinheiro ou títulos da dívida pública, fiança bancária ou título de capitalização (...) 8.2. Caso utilizada a modalidade de seguro-garantia, a apólice deverá ter validade durante a execução do contrato"
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: "Segunda redação do 8.1 omite o seguro-garantia do rol de modalidades à disposição do contratado, embora os itens 8.2 a 8.5 e 8.13.2 disciplinem extensamente essa modalidade"
+  dispositivo_legal: "art. 96, § 1.º, inciso II, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E3-019"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E3-022
+  dispositivo_editalicio: "Cláusula 8ª, item 8.1 (segunda redação)"
+  transcricao: "O contratado apresentará, no prazo máximo de 10 (dez) dias, prorrogáveis por igual período, a critério do contratante, contado da assinatura do contrato, comprovante de prestação de garantia"
+  tipo_achado: IRREGULAR
+  categoria: ilegalidade
+  descricao_breve: "Prazo de 10 dias contado da assinatura para comprovar a garantia conflita com a regra legal de prazo mínimo de 1 mês, contado da homologação e anterior à assinatura, quando a opção for seguro-garantia"
+  dispositivo_legal: "art. 96, § 3.º, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E3-019"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E3-023
+  dispositivo_editalicio: "Cláusula 8ª, item 8.1 c/c Cláusula 12ª, item 12.2.d"
+  transcricao: "em valor correspondente a 5% (cinco por cento) do valor anual da contratação, considerando como base de cálculo o valor máximo efetivamente executável, ou seja, o resultado da soma dos itens 1, 3 e 4"
+  tipo_achado: CONFORME
+  categoria: risco_economico
+  descricao_breve: "Percentual de 5% dentro do teto legal; base de cálculo anual sobre o cenário máximo executável (itens 1+3+4, excluído o item 2 excludente) é coerente com a nota do item 3.5, resultando em garantia proporcionalmente reduzida frente ao valor quinquenal"
+  dispositivo_legal: "art. 98 da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E3-003", "E3-004"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E3-024
+  dispositivo_editalicio: "Cláusula 9ª, item 9.1.5 c/c itens 9.4.22 e 12.2.e"
+  transcricao: "O serviço será iniciado mediante emissão de Ordem de Serviço, devendo ter início das atividades em 30 (trinta) dias"
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: restricao_competitividade
+  descricao_breve: "Prazo de 30 dias da OS para iniciar operação exigindo simultaneamente frota adesivada com GPS, garagem, oficina, almoxarifado com 6 jogos de pneus, 0800, 80 contêineres instalados e sede local: mobilização exígua tende a favorecer empresas já instaladas na região"
+  dispositivo_legal: "art. 9.º, inciso I, alínea 'a', da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E3-017", "E3-059"]
+  flag_tecnico: true
+  flag_reserva: true
+
+- id: E3-025
+  dispositivo_editalicio: "Cláusula 9ª, item 9.1.6.5 c/c item 9.1.6.2"
+  transcricao: "A ocorrência extraordinária e comprovada do esgotamento da vida útil do aterro sanitário municipal, aliada à não emissão da licença de operação da estação de transbordo (obtida pela Administração), ensejará a revisão e o reequilíbrio econômico-financeiro do contrato"
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: "O esgotamento da Vala 05 é tratado como evento previsível e datado no item 9.1.6.2 ('provavelmente no primeiro semestre de 2027') e como 'ocorrência extraordinária' no item 9.1.6.5 para fins de reequilíbrio: qualificações incompatíveis do mesmo evento na alocação de riscos"
+  dispositivo_legal: "art. 103 c/c art. 124, inciso II, alínea 'd', da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E3-005", "E3-028"]
+  flag_tecnico: true
+  flag_reserva: false
+
+- id: E3-026
+  dispositivo_editalicio: "Cláusula 9ª, item 9.1.6.4 c/c itens 9.4.5 e 9.5.19"
+  transcricao: "a CONTRATADA poderá optar por: a) Utilização da Estação de Transbordo Municipal: Caso a obra esteja finalizada, apta e com licença de operação emitida, a CONTRATADA deverá disponibilizar 03 (três) carretas semirreboque basculantes (...) ou b) Transporte Direto"
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: "Ambiguidade sobre o uso da estação de transbordo: o caput do 9.1.6.4 o apresenta como opção da contratada, mas a alínea 'a' emprega 'deverá' quando a estação estiver apta; indefinição sobre ser faculdade ou obrigação impacta diretamente a precificação do item 3"
+  dispositivo_legal: "art. 92, inciso I, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E3-027", "E3-034"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E3-027
+  dispositivo_editalicio: "Cláusula 9ª, itens 9.1.6.4 e 9.1.6.5"
+  transcricao: "permanecem a cargo da contratada os custos ordinários e previsíveis da destinação externa, já precificáveis a partir dos parâmetros do edital, como frete, equipamentos, combustível, manutenção e taxa de disposição final"
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: omissao
+  descricao_breve: "Minuta não fixa cenário-base referencial para precificação do item 3 (com ou sem transbordo municipal; distância máxima ou aterro de referência): propostas podem partir de premissas logísticas distintas, prejudicando a comparabilidade; verificar se o TR supre a lacuna"
+  dispositivo_legal: "art. 5º c/c art. 6º, inciso XXIII, alínea 'a', da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E3-004", "E3-026"]
+  flag_tecnico: true
+  flag_reserva: false
+
+- id: E3-028
+  dispositivo_editalicio: "Cláusula 9ª, item 9.1.6.5"
+  transcricao: "Todos os custos previsíveis decorrentes da transição para o Item 3 são de responsabilidade exclusiva da CONTRATADA, uma vez que a composição de preço já é diferenciada para o item."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: "Alocação à contratada de todos os custos previsíveis da transição, com reequilíbrio expressamente ressalvado apenas para as hipóteses do art. 124, II, 'd' e para a hipótese composta esgotamento + não licenciamento do transbordo; a precificabilidade real depende de dados logísticos do edital"
+  dispositivo_legal: "art. 103 c/c art. 124, inciso II, alínea 'd', da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E3-025", "E3-027", "E3-029"]
+  flag_tecnico: true
+  flag_reserva: false
+
+- id: E3-029
+  dispositivo_editalicio: "Minuta de Contrato (ausência de cláusula) c/c Cláusula 9ª, item 9.1.6"
+  transcricao: "(não há cláusula de matriz de alocação de riscos na minuta)"
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: omissao
+  descricao_breve: "Contrato de 60 meses com transição operacional relevante (aterro municipal para destinação externa) sem matriz de alocação de riscos consolidada; alocações dispersas em cláusulas esparsas (9.1.6.5, 9.3.1.6.1, 9.4.37, 12.1.u); matriz é facultativa salvo grande vulto, a confirmar pelo valor estimado"
+  dispositivo_legal: "art. 22, caput e § 3.º, c/c art. 103 da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E3-028", "E3-033", "E3-043"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E3-030
+  dispositivo_editalicio: "Cláusula 9ª, item 9.2.1 c/c item 9.3.1.5"
+  transcricao: "Matutino – das 07h00min às 16h00min e vespertino – das 16h00min às 24h00min. A coleta diária será iniciada às 16h00min para otimizar a logística em áreas de trânsito mais intenso."
+  tipo_achado: IRREGULAR
+  categoria: erro_material
+  descricao_breve: "Períodos designados incorretamente ('matutino' até 16h; 'vespertino' até 24h); turno até 24h abrange trabalho noturno após 22h (adicional noturno e repercussões na planilha de custos) sem menção expressa a esse regime"
+  dispositivo_legal: "art. 92, inciso I, da Lei n.º 14.133/2021; art. 73 da CLT"
+  referencias_cruzadas: ["E3-031"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E3-031
+  dispositivo_editalicio: "Cláusula 9ª, itens 9.2.1 e 9.3.1.5 c/c item 9.7.3.b"
+  transcricao: "vespertino – das 16h00min às 24h00min (...) 9.7.3. Ruídos: (...) b. Horário de operação: 6h–22h."
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: "Coleta autorizada até 24h, mas horário de operação do aterro limitado a 6h-22h: não há disciplina sobre a descarga dos resíduos coletados entre 22h e 24h (permanência em veículo, descarga no dia seguinte, dupla viagem)"
+  dispositivo_legal: "art. 92, inciso I, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E3-030"]
+  flag_tecnico: true
+  flag_reserva: false
+
+- id: E3-032
+  dispositivo_editalicio: "Cláusula 9ª, item 9.3.1.13 c/c itens 9.2.1 e 9.3.1.5"
+  transcricao: "Não poderá haver interrupção por mais de 48 (quarenta e oito) horas entre duas coletas consecutivas"
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: "Vedação de interrupção superior a 48h é aritmeticamente incompatível com a própria frequência alternada fixada no contrato (seg/qua/sex e ter/qui/sáb), cujos intervalos de fim de semana alcançam cerca de 72h (sexta a segunda; sábado a terça)"
+  dispositivo_legal: "art. 92, inciso I, da Lei n.º 14.133/2021"
+  referencias_cruzadas: []
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E3-033
+  dispositivo_editalicio: "Cláusula 9ª, item 9.3.1.6.1"
+  transcricao: "Eventuais chuvas ou intempéries que impossibilitem o tráfego do caminhão compactador nas vias rurais não justificam a suspensão dos serviços. Nesses casos, a CONTRATADA fica obrigada a realizar a coleta por meio de veículos utilitários próprios"
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: "Transferência integral do risco climático na zona rural com obrigação de manter veículos utilitários com tração adequada, não incluídos na frota mínima do item 9.4.2 nem em item remuneratório próprio: custo de frota adicional implícito"
+  dispositivo_legal: "art. 103 da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E3-029"]
+  flag_tecnico: true
+  flag_reserva: false
+
+- id: E3-034
+  dispositivo_editalicio: "Cláusula 9ª, itens 9.4.5, 9.1.6.4.a e 9.5.19"
+  transcricao: "Caso a CONTRATADA opte pela utilização da estação de transbordo subsidiada por convenio estadual deve disponibilizar de 03 Carretas de semirreboque basculante com 3 eixos, com capacidade de 30–40 ton."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: "Investimento em 3 carretas semirreboque condicionado a evento incerto (conclusão da obra e licença de operação do transbordo), sem item remuneratório próprio, sem prazo definido para disponibilização após a opção e sem regra sobre o destino do investimento se o transbordo não operar"
+  dispositivo_legal: "art. 92, incisos I e V, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E3-026", "E3-027", "E3-069"]
+  flag_tecnico: true
+  flag_reserva: false
+
+- id: E3-035
+  dispositivo_editalicio: "Cláusula 9ª, itens 9.4.6 e 9.4.8 c/c item 9.5.16"
+  transcricao: "O controle quanto à pesagem dos resíduos sólidos urbanos será realizado no Aterro Sanitário em balança eletrônica instalada pelo responsável pela operação do Aterro Sanitário, devidamente aferida pelo INMETRO."
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: "Durante a fase do item 2 o responsável pela operação do aterro é a própria contratada: a medição que lastreia o pagamento (tickets de pesagem) fica sob controle exclusivo do credor, sem previsão de contrapesagem independente, presença obrigatória da fiscalização ou acesso remoto da contratante ao sistema da balança"
+  dispositivo_legal: "art. 117, caput, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E3-036"]
+  flag_tecnico: true
+  flag_reserva: false
+
+- id: E3-036
+  dispositivo_editalicio: "Cláusula 9ª, item 9.9.f c/c itens 9.4.6 a 9.4.8"
+  transcricao: "O pagamento do Item 3 será realizado de acordo com o peso, em tonelada, dos resíduos sólidos efetivamente destinados a aterro sanitário licenciado em outro município"
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: "Critério de medição do item 3 não define o ponto de pesagem que prevalece (balança do transbordo municipal, do aterro receptor ou outra), nem trata de divergências entre pesagens de origem e destino (perdas, umidade), abrindo margem a controvérsia de faturamento"
+  dispositivo_legal: "art. 92, inciso V, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E3-035"]
+  flag_tecnico: true
+  flag_reserva: false
+
+- id: E3-037
+  dispositivo_editalicio: "Cláusula 9ª, item 9.4.8 c/c itens 9.9.a a 9.9.f"
+  transcricao: "os quais deverão ser apresentados à CONTRATANTE quinzenalmente junto com a Nota Fiscal e os relatórios diários (...) O pagamento do Item 1 será realizado de acordo com o peso, em tonelada, dos resíduos sólidos efetivamente coletados em cada mês"
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: "Periodicidade de faturamento ambígua: o item 9.4.8 prevê Nota Fiscal quinzenal acompanhando os tickets, enquanto os itens 9.9.c/e/f estabelecem pagamento por apuração mensal; não fica claro se há uma ou duas NFs por mês e qual o ciclo de medição"
+  dispositivo_legal: "art. 92, inciso V, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E3-008"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E3-038
+  dispositivo_editalicio: "Cláusula 9ª, item 9.4.22"
+  transcricao: "A CONTRATADA deverá apresentar Plano de Instalação de infraestrutura adequada com prazo máximo de 30 (trinta) dias após a assinatura/ordem de serviço"
+  tipo_achado: IRREGULAR
+  categoria: erro_material
+  descricao_breve: "Termo inicial do prazo de 30 dias indefinido ('assinatura/ordem de serviço'): eventos podem distar meses entre si, dada a ausência de prazo para emissão da OS"
+  dispositivo_legal: "art. 92, caput, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E3-017", "E3-024"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E3-039
+  dispositivo_editalicio: "Cláusula 9ª, item 9.4.23 c/c item 9.4.22.a"
+  transcricao: "Caso a Contratada possua sede situada dentro do perímetro urbano do município é proibido a pernoite dos veículos de coleta neste local."
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: "Proibição de pernoite dos veículos na sede localizada no perímetro urbano conflita com a exigência de garagem/pátio de estacionamento (9.4.22.a), sem indicar onde a frota deve pernoitar nem a finalidade da restrição"
+  dispositivo_legal: "art. 92, inciso I, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E3-024"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E3-040
+  dispositivo_editalicio: "Cláusula 9ª, item 9.4.28 c/c itens 9.4.2 e 9.4.13"
+  transcricao: "quadro mínimo de: 03 coletores e 01 motorista por caminhão, e mais 01 coletor reserva, totalizando 13 (treze) coletores e 4 (quatro) motoristas"
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: ilegalidade
+  descricao_breve: "Fixação de quadro mínimo de pessoal (equipe inclusive para o caminhão reserva) em contrato remunerado por resultado (R$/ton): possível intervenção no dimensionamento gerencial da contratada e ônus fixo dissociado da produtividade; contrasta com a vedação de ingerência reproduzida na cláusula 13.1.h"
+  dispositivo_legal: "art. 48 da Lei n.º 14.133/2021"
+  referencias_cruzadas: []
+  flag_tecnico: true
+  flag_reserva: false
+
+- id: E3-041
+  dispositivo_editalicio: "Cláusula 9ª, item 9.4.29"
+  transcricao: "A CONTRATADA deverá atender integralmente à Convenção Coletiva de Trabalho 2025/2026 (em anexo) do SIEMACO Araraquara (...) sindicato este que atende os trabalhadores da categoria em Porto Ferreira."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: restricao_competitividade
+  descricao_breve: "Imposição de CCT de sindicato nominado a todas as licitantes, quando o enquadramento sindical decorre da atividade preponderante de cada empresa e de sua base territorial; obrigar adesão integral a instrumento coletivo alheio pode onerar licitantes com enquadramento diverso"
+  dispositivo_legal: "art. 511 da CLT c/c art. 9.º, inciso I, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E3-015", "E3-042"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E3-042
+  dispositivo_editalicio: "Cláusula 9ª, item 9.4.29 c/c Cláusula 5ª, item 5.2.a"
+  transcricao: "Para os custos relativos à mão de obra, vinculados à data-base da categoria profissional: a partir da data de início dos efeitos financeiros do acordo, convenção ou dissídio coletivo de trabalho ao qual a proposta estiver vinculada"
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: omissao
+  descricao_breve: "CCT 2025/2026 anexada pode estar superada por novo instrumento na data da sessão/assinatura; contrato não esclarece qual instrumento coletivo vincula a proposta nem como fica a primeira repactuação se a data-base ocorrer entre a proposta e o início da execução"
+  dispositivo_legal: "art. 135, caput, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E3-015", "E3-041"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E3-043
+  dispositivo_editalicio: "Cláusula 9ª, item 9.4.37"
+  transcricao: "Em caso de greve ou paralização dos funcionários, a CONTRATADA deverá tomar as providências necessárias para a realização da coleta, ficando sujeita às penalidades previstas no caso de não realização dos serviços que são classificados como essenciais."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: "Risco de greve alocado integralmente à contratada com sujeição a penalidades, sem ressalva para movimentos de categoria alheios à sua gestão (greve geral do setor) nem interface com as hipóteses de caso fortuito/força maior da cláusula 20ª"
+  dispositivo_legal: "art. 103 c/c art. 124, inciso II, alínea 'd', da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E3-029"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E3-044
+  dispositivo_editalicio: "Cláusula 9ª, itens 9.5.5 a 9.5.15 c/c Cláusula 12ª, item 12.1.jj"
+  transcricao: "deverá a CONTRATADA garantir que o Aterro Sanitário possua uma camada de impermeabilização de base, constituída de geomembrana de polietileno de alta densidade – PEAD, assentada entre camadas de argila compactada (sistema trifásico)."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: "Contratada obrigada a 'garantir' características estruturais (impermeabilização de base, drenagens, conformidade com NBR 8.419 e 13.896) de vala já implantada pelo Município: assunção de responsabilidade por infraestrutura preexistente que não projetou nem construiu, sem baseline/laudo de estado inicial nem inventário de passivos"
+  dispositivo_legal: "art. 92, inciso I, da Lei n.º 14.133/2021 c/c art. 6.º, inciso II, da Lei n.º 12.305/2010"
+  referencias_cruzadas: ["E3-045", "E3-063", "E3-070"]
+  flag_tecnico: true
+  flag_reserva: false
+
+- id: E3-045
+  dispositivo_editalicio: "Cláusula 9ª, item 9.6.1 c/c item 9.7.1"
+  transcricao: "O aterro sanitário de Porto Ferreira/SP gera cerca de 190 litros de chorume por tonelada de resíduo recebida. Essa quantidade deverá ser coletada, transportada e tratada, sob responsabilidade operacional de custos da CONTRATADA."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: "Custo integral de coleta, transporte e tratamento do chorume do aterro municipal atribuído à contratada, sem distinguir o percolado gerado pela massa histórica das valas anteriores (passivo preexistente) daquele decorrente dos resíduos que ela própria aportar; parâmetro de 190 L/t requer validação"
+  dispositivo_legal: "art. 6.º, inciso II, da Lei n.º 12.305/2010 c/c art. 92, inciso I, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E3-044", "E3-046"]
+  flag_tecnico: true
+  flag_reserva: false
+
+- id: E3-046
+  dispositivo_editalicio: "Cláusula 9ª, itens 9.6.1 e 9.7 (ausência de disciplina) c/c item 9.1.6.3"
+  transcricao: "A partir da constatação do encerramento do Aterro Municipal, fica expressamente vedada a cobrança do Item 2 do objeto, passando a ser faturado exclusivamente o Item 3"
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: "Contrato não define quem responde pelo chorume e pelo monitoramento ambiental do aterro após o encerramento da Vala 05 (fase do item 3): o percolado continua sendo gerado, mas cessa a remuneração do item 2 e não há item de custeio nem atribuição expressa dessas obrigações de pós-encerramento"
+  dispositivo_legal: "art. 92, inciso I, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E3-045", "E3-070"]
+  flag_tecnico: true
+  flag_reserva: false
+
+- id: E3-047
+  dispositivo_editalicio: "Cláusula 9ª, item 9.5.16"
+  transcricao: "A CONTRATADA deverá realizar a operação integral do Aterro Sanitário e da Estação de Transbordo (quando apta), compreendendo o recebimento, triagem primária, transporte e a destinação final ambientalmente adequada."
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: "'Triagem primária' incluída na operação integral sem constar do objeto (cláusula 2ª), da tabela de itens de preço ou de especificação que defina seu escopo: serviço adicional sem remuneração própria nem parâmetros"
+  dispositivo_legal: "art. 92, incisos I e V, da Lei n.º 14.133/2021"
+  referencias_cruzadas: []
+  flag_tecnico: true
+  flag_reserva: false
+
+- id: E3-048
+  dispositivo_editalicio: "Cláusula 9ª, item 9.5.18 c/c itens 9.1.6.2 e 9.1.6.3"
+  transcricao: "É de responsabilidade dos técnicos da CONTRATANTE a validação contínua da utilização da vala, monitorando a capacidade de carga e estabilidade dos taludes conforme projeto, viabilizando o momento técnico oportuno para o fim do recebimento de resíduos."
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: "Gatilho da transição item 2 para item 3 (constatação do encerramento da vala) definido unilateralmente pela contratante sem critérios técnicos objetivos no contrato, sem procedimento formal de constatação e sem participação ou manifestação da contratada, embora o ato altere a estrutura de receitas do contrato"
+  dispositivo_legal: "art. 92, inciso I, da Lei n.º 14.133/2021 c/c art. 5.º, inciso LV, da CF/1988"
+  referencias_cruzadas: ["E3-005", "E3-025"]
+  flag_tecnico: true
+  flag_reserva: false
+
+- id: E3-049
+  dispositivo_editalicio: "Cláusula 9ª, item 9.5.20"
+  transcricao: "A escolha do aterro sanitário dependerá de autorização prévia e expressa da Administração, e deverá possuir licença de operação vigente e carta de anuência atestando que o local possui [licença] ambiental válida, infraestrutura e volume operacional disponíveis para receber 40 (quarenta) toneladas por dia"
+  tipo_achado: CONFORME
+  categoria: risco_economico
+  descricao_breve: "Condicionantes para escolha do aterro externo (autorização prévia, LO vigente, carta de anuência) compatíveis com o controle da destinação final; capacidade de 40 t/dia coerente com o quantitativo anual de 12.480 t"
+  dispositivo_legal: "art. 92, inciso I, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E3-062"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E3-050
+  dispositivo_editalicio: "Cláusula 9ª, item 9.8"
+  transcricao: "d) Contingências - Plano de Ação para Emergências: - Falha no transporte: Frota alternativa. - Comunicação Social - Envolvimento da População: e) Campanhas sobre segregação de resíduos. (...) g) Indicadores de Desempenho h) Planos a serem realizados pela CONTRATADA:"
+  tipo_achado: IRREGULAR
+  categoria: erro_material
+  descricao_breve: "Item 9.8 com estrutura textual corrompida: alíneas sem verbo ou comando, tópicos truncados e níveis misturados (contingências, comunicação social, indicadores, planos), comprometendo a determinação exata das obrigações de gestão documental e compliance"
+  dispositivo_legal: "art. 92, caput, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E3-051"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E3-051
+  dispositivo_editalicio: "Cláusula 9ª, item 9.8.k c/c Cláusula 12ª, item 12.1.jj"
+  transcricao: "k) Plano de manutenção da frota e dos equipamentos (seguindo a norma ABNT 13.221/2010); (...) NBR 13.221 – Transporte terrestre de resíduos"
+  tipo_achado: IRREGULAR
+  categoria: erro_material
+  descricao_breve: "Remissão normativa equivocada: o item 9.8.k indica a NBR 13.221 como norma para plano de manutenção de frota, mas a mesma minuta (12.1.jj) a descreve corretamente como norma de transporte terrestre de resíduos; a norma técnica aplicável à manutenção não é identificada"
+  dispositivo_legal: "art. 92, caput, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E3-050"]
+  flag_tecnico: true
+  flag_reserva: false
+
+- id: E3-052
+  dispositivo_editalicio: "Cláusula 9ª, itens 9.9.c e 9.9.d c/c Cláusula 3ª, item 3.2 (Item 4)"
+  transcricao: "acrescido do valor fixo (R$/UN) referente ao fornecimento, manutenção e higienização de contêineres (Item 4). d) A medicação para efeito de pagamento dos contêineres (Item 4), será realizada por unidade utilizada no decorrer do mês."
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: "Critério de pagamento do item 4 contraditório: 'valor fixo (R$/UN)' no 9.9.c versus pagamento 'por unidade utilizada no decorrer do mês' no 9.9.d; a contratada fornece 80 contêineres mas a quantidade 'utilizada' depende de indicação da contratante (risco de demanda não disciplinado); registre-se ainda o erro material 'medicação' por 'medição'"
+  dispositivo_legal: "art. 92, inciso V, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E3-006", "E3-007"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E3-053
+  dispositivo_editalicio: "Cláusula 9ª, item 9.10"
+  transcricao: "Procedimentos de transição e finalização do contrato: O cronograma de transição, mobilização e implantação deverá ocorrer conforme o disposto em anexo."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: omissao
+  descricao_breve: "Procedimentos de transição, mobilização e finalização remetidos integralmente a anexo não transcrito na minuta; verificar se o anexo existe no caderno editalício e se disciplina a desmobilização e a continuidade do serviço essencial no encerramento"
+  dispositivo_legal: "art. 92, caput, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E3-069", "E3-070"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E3-054
+  dispositivo_editalicio: "Cláusula 10ª, item 10.1"
+  transcricao: "Recebimento em conformidade com o artigo 140 da Lei Federal nº. 14.133/2.021."
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: "Recebimento provisório e definitivo disciplinado por remissão genérica ao art. 140, sem fixação de prazos, responsáveis e procedimento no contrato — justamente os elementos que a lei remete ao regulamento ou ao instrumento contratual; a mecânica de recebimento de serviço contínuo mensal fica indefinida"
+  dispositivo_legal: "art. 140 da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E3-055"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E3-055
+  dispositivo_editalicio: "Cláusula 10ª, item 10.2 c/c Cláusula 13ª, item 13.1.e"
+  transcricao: "após a notificação por escrito à Contratada serão interrompidos os prazos de recebimento e suspenso o pagamento, até que sanada a situação."
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: "Suspensão integral do pagamento em caso de desconformidade parcial (10.2) conflita com a obrigação, assumida na cláusula 13.1.e, de liquidar e pagar a parcela incontroversa da execução na forma do art. 143"
+  dispositivo_legal: "art. 143 da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E3-009", "E3-054"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E3-056
+  dispositivo_editalicio: "Cláusula 11ª, itens 11.1 e 11.2.1"
+  transcricao: "Em conformidade com os Decretos Municipais 2683, de 25 de janeiro de 2024 e 1925, de 17 de dezembro de 2021."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: omissao
+  descricao_breve: "Modelo de gestão do contrato definido por remissão a decretos municipais cujo conteúdo não é transcrito nem resumido; as rotinas essenciais de fiscalização (competências do gestor e dos fiscais, fluxos, instrumentos) dependem de normas externas de acesso não indicado"
+  dispositivo_legal: "art. 92, caput, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E3-001"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E3-057
+  dispositivo_editalicio: "Cláusula 12ª, item 12.1.f c/c Cláusula 19ª, item 19.1"
+  transcricao: "Responsabilizar-se pelos vícios e danos decorrentes da execução do objeto, de acordo com o Código de Defesa do Consumidor (Lei nº 8.078, de 1990) (...) e, subsidiariamente, segundo as disposições contidas na Lei nº 8.078, de 1990 – Código de Defesa do Consumidor"
+  tipo_achado: IRREGULAR
+  categoria: erro_material
+  descricao_breve: "Invocação do CDC como regime de responsabilidade da contratada e como fonte subsidiária dos casos omissos em contrato administrativo regido por normas de direito público: não há relação de consumo entre as partes; o regime aplicável é o da própria Lei 14.133 e preceitos de direito público"
+  dispositivo_legal: "art. 89, caput, da Lei n.º 14.133/2021"
+  referencias_cruzadas: []
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E3-058
+  dispositivo_editalicio: "Cláusula 12ª, item 12.1.kk"
+  transcricao: "não respondendo o Município, em hipótese alguma, por ressarcimentos e indenizações, seja a que título for."
+  tipo_achado: IRREGULAR
+  categoria: ilegalidade
+  descricao_breve: "Cláusula de exoneração absoluta de responsabilidade do Município ('em hipótese alguma') incompatível com a responsabilidade civil objetiva do Estado por danos a terceiros decorrentes da prestação de serviço público, que não pode ser afastada por convenção entre as partes"
+  dispositivo_legal: "art. 37, § 6.º, da CF/1988"
+  referencias_cruzadas: []
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E3-059
+  dispositivo_editalicio: "Cláusula 12ª, item 12.2.e"
+  transcricao: "Abertura e manutenção de sede, filial ou escritório no local da prestação de serviços com capacidade operacional para receber e solucionar qualquer demanda da Administração Pública, bem como realizar todos os procedimentos pertinentes à seleção, treinamento, admissão e demissão dos empregados."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: restricao_competitividade
+  descricao_breve: "Obrigação de instalar sede/filial/escritório local com estrutura administrativa completa em 30 dias da assinatura/OS; exigência pós-contratação é menos gravosa que requisito de habilitação, mas o prazo e a amplitude ('todos os procedimentos' de RH no local) oneram licitantes de fora e favorecem empresas já instaladas; nota-se ainda incongruência com exigência de alvará 'do município da sede da licitante'"
+  dispositivo_legal: "art. 9.º, inciso I, alínea 'a', da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E3-024"]
+  flag_tecnico: false
+  flag_reserva: true
+
+- id: E3-060
+  dispositivo_editalicio: "Cláusula 12ª, item 12.2.e"
+  transcricao: "Cartão Cidadão expedido pela Caixa Econômica Federal (CEF) e senha para acesso ao Extrato de Informações Previdenciárias para todos os empregados que vier a contratar."
+  tipo_achado: IRREGULAR
+  categoria: ilegalidade
+  descricao_breve: "Exigência de obtenção de Cartão Cidadão e senha de acesso a extrato previdenciário de todos os empregados: tratamento de dados pessoais dos trabalhadores (inclusive credenciais de acesso) além do mínimo necessário à fiscalização trabalhista, sem base de necessidade/adequação"
+  dispositivo_legal: "art. 6.º, inciso III, da Lei n.º 13.709/2018"
+  referencias_cruzadas: ["E3-073"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E3-061
+  dispositivo_editalicio: "Cláusula 12ª, item 12.2.e c/c item 12.1.cc"
+  transcricao: "Fixação de domicílio bancário dos empregados terceirizados no Município de Porto Ferreira."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: ilegalidade
+  descricao_breve: "Imposição de domicílio bancário dos empregados no Município (e de agência na localidade, 12.1.cc) interfere na relação empregatícia e na liberdade de escolha bancária do trabalhador, tensionando a vedação de ingerência na gestão interna do contratado reproduzida na cláusula 13.1.h"
+  dispositivo_legal: "art. 48 da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E3-059"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E3-062
+  dispositivo_editalicio: "Cláusula 12ª, itens 12.3 a 12.5"
+  transcricao: "Poderão ser subcontratadas as seguintes parcelas do objeto: 12.3.1. Destinação final ambientalmente adequada de resíduos sólidos urbanos em aterro sanitário devidamente licenciado em outro Município."
+  tipo_achado: CONFORME
+  categoria: restricao_competitividade
+  descricao_breve: "Subcontratação delimitada à parcela de disposição final (item 3), com justificativa de ampliação da competição (empresas sem aterro próprio), responsabilidade integral mantida com a contratada, autorização prévia e vedações de vínculo: disciplina compatível com a lei e ampliadora do universo de licitantes"
+  dispositivo_legal: "art. 122 da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E3-049"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E3-063
+  dispositivo_editalicio: "Cláusula 13ª (ausência de disciplina) c/c Cláusula 9ª, itens 9.5.17 e 9.5.19"
+  transcricao: "A Licença de Operação CETESB nº 4011055 do aterro sanitário corresponde apenas à Vala nº 05, delimitada por projeto e próxima do final de sua vida útil"
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: "Rol de obrigações do contratante silencia sobre deveres ligados ao aterro municipal: manutenção/renovação da LO da Vala 05 durante o item 2, entrega da infraestrutura existente em condições operacionais, responsabilidade por passivos anteriores à contratação e consequências para a contratada em caso de suspensão ou cassação da licença por fato alheio à sua gestão"
+  dispositivo_legal: "art. 92, inciso I, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E3-044", "E3-046", "E3-070"]
+  flag_tecnico: true
+  flag_reserva: false
+
+- id: E3-064
+  dispositivo_editalicio: "Cláusula 13ª, itens 13.1.j, 13.1.k e 13.1.l"
+  transcricao: "a Administração terá o prazo de até 30 dias, a contar da data do protocolo do requerimento para decidir, admitida a prorrogação motivada, por igual período. (...) Responder eventuais pedidos de reestabelecimento do equilíbrio econômico-financeiro feitos pelo contratado no prazo máximo de até 30 dias."
+  tipo_achado: CONFORME
+  categoria: omissao
+  descricao_breve: "Dever de decisão expressa sobre solicitações e reclamações em 30 dias prorrogáveis e de resposta a pedidos de reequilíbrio em 30 dias: disciplina compatível com o dever legal de decisão em 1 mês"
+  dispositivo_legal: "art. 123 da Lei n.º 14.133/2021"
+  referencias_cruzadas: []
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E3-065
+  dispositivo_editalicio: "Cláusula 14ª, item 14.2.iv"
+  transcricao: "A multa será recolhida em percentual de 0,5% a 30% incidente sobre o valor do contrato licitado."
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: "Multa fixada em faixa única de 0,5% a 30% sem gradação por tipo ou gravidade de infração, sem distinção entre multa moratória e compensatória e sem parâmetros objetivos de dosimetria, transferindo à discricionariedade do aplicador a definição do quantum dentro de amplitude de 60 vezes"
+  dispositivo_legal: "art. 156, §§ 1.º e 3.º, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E3-012", "E3-066"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E3-066
+  dispositivo_editalicio: "Cláusula 14ª, item 14.2.iv c/c Cláusula 3ª, item 3.5"
+  transcricao: "incidente sobre o valor do contrato licitado. (...) O somatório total dos itens constantes nesta tabela de preços possui caráter exclusivamente de estimativa para fins de empenho global."
+  tipo_achado: IRREGULAR
+  categoria: risco_economico
+  descricao_breve: "Base de cálculo da multa ('valor do contrato licitado') não definida em face da nota do item 3.5: o valor global soma itens mutuamente excludentes (2 e 3) que jamais serão pagos cumulativamente, inflando a base potencial da sanção acima do valor efetivamente executável"
+  dispositivo_legal: "art. 156, § 3.º, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E3-003", "E3-004", "E3-065"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E3-067
+  dispositivo_editalicio: "Cláusula 14ª, itens 14.3.2, 14.4 e 14.5"
+  transcricao: "Antes da aplicação da multa será facultada a defesa do interessado no prazo de 15 (quinze) dias úteis (...) observando-se o procedimento previsto no caput e parágrafos do art. 158 da Lei nº 14.133, de 2021, para as penalidades de impedimento de licitar e contratar e de declaração de inidoneidade"
+  tipo_achado: CONFORME
+  categoria: ilegalidade
+  descricao_breve: "Processo sancionatório alinhado à lei: defesa prévia de 15 dias úteis para multa, rito do art. 158 para sanções graves, critérios de dosimetria do art. 156, § 1.º, apuração conjunta com a Lei Anticorrupção e comunicação ao Ceis/Cnep/TCE-SP"
+  dispositivo_legal: "arts. 156 a 161 da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E3-065"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E3-068
+  dispositivo_editalicio: "Cláusula 15ª, itens 15.2 a 15.4"
+  transcricao: "O contrato poderá ser extinto antes do prazo nele fixado, sem ônus para o contratante, quando esta não dispuser de créditos orçamentários para sua continuidade ou quando entender que o contrato não mais lhe oferece vantagem."
+  tipo_achado: CONFORME
+  categoria: risco_economico
+  descricao_breve: "Faculdade de extinção anual sem ônus na data de aniversário, com aviso mínimo de 2 meses, reproduz o regime legal dos contratos contínuos plurianuais; ponto de atenção para precificação: investimentos de mobilização (contêineres, carretas, instalações) sujeitos a horizonte de amortização potencialmente anual"
+  dispositivo_legal: "art. 106, incisos II e III e § 1.º, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E3-034", "E3-069"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E3-069
+  dispositivo_editalicio: "Cláusula 15ª (ausência de disciplina) c/c Cláusula 3ª, item 3.2 (Item 4)"
+  transcricao: "(não há cláusula sobre destino de bens, desmobilização ou reversão na extinção contratual)"
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: "Extinção contratual sem disciplina do destino dos bens empregados (80 contêineres, carretas, benfeitorias incorporadas ao aterro municipal como drenos e impermeabilizações): a indefinição fornecimento/locação do item 4 agrava a lacuna sobre titularidade e eventual indenização de parcelas não amortizadas"
+  dispositivo_legal: "art. 92, incisos I e V, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E3-006", "E3-034", "E3-053"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E3-070
+  dispositivo_editalicio: "Cláusula 15ª (ausência de disciplina) c/c Cláusula 9ª, itens 9.5 e 9.6"
+  transcricao: "(não há cláusula sobre passivo ambiental, vistoria de devolução do aterro ou responsabilidades pós-contratuais)"
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: "Extinção contratual sem regras de devolução do aterro municipal: ausência de vistoria/termo de devolução, de marco divisor entre passivo ambiental preexistente e o gerado na operação da contratada, e de definição sobre responsabilidades de encerramento e monitoramento pós-fechamento da Vala 05 (cobertura final, drenagens, chorume, gases)"
+  dispositivo_legal: "art. 92, inciso I, da Lei n.º 14.133/2021 c/c art. 6.º, inciso II, da Lei n.º 12.305/2010"
+  referencias_cruzadas: ["E3-044", "E3-045", "E3-046", "E3-063"]
+  flag_tecnico: true
+  flag_reserva: false
+
+- id: E3-071
+  dispositivo_editalicio: "Cláusula 16ª, itens 16.1 a 16.4"
+  transcricao: "O contratado é obrigado a aceitar, nas mesmas condições contratuais, os acréscimos ou supressões que se fizerem necessários, até o limite de 25% (vinte e cinco por cento) do valor inicial atualizado do contrato."
+  tipo_achado: CONFORME
+  categoria: risco_economico
+  descricao_breve: "Regime de alterações remetido aos arts. 124 e seguintes, com limite de 25% para acréscimos e supressões, termo aditivo com aprovação jurídica prévia e apostila para registros sem alteração: disciplina compatível com a lei; a base 'valor inicial atualizado' depende, porém, da definição do valor do contrato (ver E3-003)"
+  dispositivo_legal: "arts. 124, 125, 132 e 136 da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E3-003"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E3-072
+  dispositivo_editalicio: "Cláusula 18ª, itens 18.1 e 18.2"
+  transcricao: "sob pena de imediata rescisão do presente contrato. (...) sob pena de imediata rescisão contratual e sem prejuízo das demais cominações cabíveis."
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: "Previsão de 'imediata rescisão' por uso do nome do contratante sem menção ao devido processo, em contraste com a própria cláusula 15.5, que assegura contraditório e ampla defesa na extinção por ato unilateral; a sanção máxima (extinção) para infração de divulgação também carece de gradação"
+  dispositivo_legal: "arts. 137 e 138 da Lei n.º 14.133/2021 c/c art. 5.º, inciso LV, da CF/1988"
+  referencias_cruzadas: ["E3-065"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E3-073
+  dispositivo_editalicio: "Cláusula 22ª, item 22.1"
+  transcricao: "...............(Qualificação do preposto) responsável pelo tratamento dos dados pessoais enumerados nos incisos I, II e III, Art. 5º, Lei Federal n. º 13709/2018."
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: "Cláusula de proteção de dados reduzida à designação de um preposto, sem disciplina de papéis (controlador/operador), finalidades, medidas de segurança, comunicação de incidentes e destino dos dados no término; a remissão é tecnicamente equivocada, pois os incisos I a III do art. 5º da LGPD contêm definições (dado pessoal, dado sensível, dado anonimizado), não enumeração de dados tratados"
+  dispositivo_legal: "arts. 6.º e 39 da Lei n.º 13.709/2018"
+  referencias_cruzadas: ["E3-060"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E3-074
+  dispositivo_editalicio: "Cláusula 23ª, item 23.1"
+  transcricao: "Fica eleito o foro da cidade de Porto Ferreira, SP, como competente para dirimir quaisquer questões oriundas do presente contrato, com exclusão de qualquer outro, por mais privilegiado que seja."
+  tipo_achado: CONFORME
+  categoria: omissao
+  descricao_breve: "Eleição do foro da sede da Administração contratante, em cláusula exclusiva: prática usual e compatível com o regime da Lei 14.133"
+  dispositivo_legal: "art. 92 da Lei n.º 14.133/2021"
+  referencias_cruzadas: []
+  flag_tecnico: false
+  flag_reserva: false
+
+# =====================================================================
+# RESUMO E3 — 74 pontos
+# IRREGULAR: 44 | DEPENDE_DE_FATO: 20 | CONFORME: 10
+# flag_tecnico: 19 pontos | flag_reserva: 4 pontos (E3-004, E3-005, E3-024, E3-059)
+# =====================================================================
