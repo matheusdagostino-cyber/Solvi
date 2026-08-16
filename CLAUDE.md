@@ -370,9 +370,11 @@ O resultado é gravado em `output/vN/cv-vAnterior-vN.yaml` (ex.: `output/v2/cv-v
 ### API Lei na Mão (TCU/TCE)
 
 - **Endpoint:** `https://tce.leinamao.com.br/api/v1/decisions`
-- **Autenticação:** variável de ambiente `LEINAMAO_API_KEY`
+- **Autenticação:** `Authorization: Bearer` com a chave da variável de ambiente `LEINAMAO_API_KEY`
 - **Client:** `ferramentas/buscar_tce.py`
-- **Funcionalidades:** busca por palavras-chave (AND/OR), filtro por tribunal, paginação por índice, exportação CSV
+- **Semântica de busca (verificada):** termos separados por espaço = E implícito; **não usar AND/OR textuais** (a API os trata como palavras literais e zera o resultado)
+- **Funcionalidades:** filtro por tribunal (`TCU`, `TCE-SP`, `TCE-MS`...), paginação por índice (`total`/`limit`/`offset`), exportação CSV
+- **Atenção:** o campo de resumo (`ai_summary`) é gerado por IA pela plataforma — **não é a ementa oficial**; o `source_url` aponta para o inteiro teor
 - **Uso no pipeline:** Agente AN, para pontos roteados a Tribunal de Contas
 - **Regra:** toda citação extraída desta fonte recebe flag `[VIT]` até verificação do inteiro teor no portal do tribunal
 
@@ -541,10 +543,11 @@ pandoc -t markdown documento.docx -o documento.md
 ### Client Lei na Mão
 
 ```bash
-python ferramentas/buscar_tce.py --query "qualificação técnica parcelas relevância" --tribunal TCU --operador AND
+python ferramentas/buscar_tce.py --query "qualificação técnica parcelas relevância" --tribunal TCU
+python ferramentas/buscar_tce.py --query "parcela de maior relevância" --csv resultado.csv
 ```
 
-O script exporta CSV com coluna de flag de verificação (`verificado: false`). Resultados não verificados recebem `[VIT]` automaticamente.
+Termos separados por espaço funcionam como E implícito (não usar AND/OR — a API os trata como palavras literais). O CSV exportado traz coluna `flag=[VIT]`, `verificado=false` e a URL do inteiro teor; o campo `resumo_ia` não é a ementa oficial.
 
 ---
 

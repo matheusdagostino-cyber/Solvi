@@ -3,23 +3,27 @@
 Client para a API Lei na Mão — busca de decisões em Tribunais de Contas.
 
 Endpoint: https://tce.leinamao.com.br/api/v1/decisions
-Autenticação: variável LEINAMAO_API_KEY (ou arquivo .env na raiz do repo)
+Autenticação: Authorization: Bearer <LEINAMAO_API_KEY> (env var ou .env na raiz)
+
+Semântica de busca (comportamento verificado da API):
+- termos separados por espaço = E implícito (todos devem ocorrer);
+- NÃO usar AND/OR textuais — a API os trata como termos literais;
+- a query é enviada como digitada (frases podem ir entre aspas).
 
 Uso:
     python ferramentas/buscar_tce.py --query "qualificação técnica parcelas relevância"
-    python ferramentas/buscar_tce.py --query '"parcela de maior relevância" concessão' --tribunal TCE-SP
-    python ferramentas/buscar_tce.py --query "SRP serviço contínuo" --operador OR --limite 20
-    python ferramentas/buscar_tce.py --query "PPP garantia pública FGP" --csv resultado.csv
+    python ferramentas/buscar_tce.py --query "parcela de maior relevância" --tribunal TCE-SP
+    python ferramentas/buscar_tce.py --query "PPP garantia pública" --csv resultado.csv
 
-Frases entre aspas são preservadas como termo único. Se a query já contém
-AND/OR explícitos, é enviada como está (equivalente a --operador RAW).
+Nota: o campo de resumo retornado (ai_summary) é gerado por IA pela própria
+plataforma — NÃO é a ementa oficial. Toda citação permanece [VIT] até
+verificação do inteiro teor no portal do tribunal (source_url ajuda).
 """
 
 import argparse
 import csv
 import json
 import os
-import shlex
 import sys
 import urllib.error
 import urllib.parse
@@ -46,27 +50,17 @@ def _load_api_key():
     sys.exit(1)
 
 
-def montar_query(query, operador):
-    """Monta a expressão de busca preservando frases entre aspas.
-
-    - tokens com espaço (frases citadas) são re-citados;
-    - tokens que já são AND/OR não recebem operador duplicado;
-    - query com AND/OR explícito ou operador RAW é enviada como está.
-    """
-    if operador == "RAW":
-        return query
-
-    try:
-        tokens = shlex.split(query)
-    except ValueError:
-        # aspas desbalanceadas — enviar como está em vez de corromper
-        return query
-
+def validar_query(query):
+    """Alerta sobre AND/OR textuais, que a API trata como termos literais."""
+    tokens = query.split()
     if any(t.upper() in ("AND", "OR") for t in tokens):
-        return query
-
-    tokens = [f'"{t}"' if " " in t else t for t in tokens]
-    return f" {operador} ".join(tokens)
+        print(
+            "AVISO: a API não entende AND/OR — serão buscados como palavras "
+            "literais e provavelmente zeram o resultado. Termos separados por "
+            "espaço já funcionam como E implícito.",
+            file=sys.stderr,
+        )
+    return query
 
 
 def _extrair_items(resultados):
@@ -100,20 +94,18 @@ def _extrair_items(resultados):
     sys.exit(1)
 
 
-def buscar(query, tribunal=None, operador="AND", limite=10, offset=0):
+def buscar(query, tribunal=None, limite=10, offset=0):
     """Busca decisões na API Lei na Mão. Retorna dict/list com resultados."""
     api_key = _load_api_key()
 
-    q = montar_query(query, operador)
-
-    params = {"q": q, "limit": limite, "offset": offset}
+    params = {"q": validar_query(query), "limit": limite, "offset": offset}
     if tribunal:
         params["tribunal"] = tribunal
 
     url = f"{API_BASE}?{urllib.parse.urlencode(params)}"
 
     req = urllib.request.Request(url, headers={
-        "X-API-Key": api_key,
+        "Authorization": f"Bearer {api_key}",
         "Accept": "application/json",
         "User-Agent": "solvi-editais/1.0",
     })
@@ -126,7 +118,12 @@ def buscar(query, tribunal=None, operador="AND", limite=10, offset=0):
         body = ""
         if e.fp:
             body = e.read().decode("utf-8", errors="replace")[:500]
-        print(f"ERRO HTTP {e.code}: {body}", file=sys.stderr)
+        if e.code == 500:
+            print(f"ERRO HTTP 500 do servidor da API: {body}", file=sys.stderr)
+            print("(instabilidade conhecida em algumas buscas de termo único — "
+                  "tente reformular com dois ou mais termos)", file=sys.stderr)
+        else:
+            print(f"ERRO HTTP {e.code}: {body}", file=sys.stderr)
         sys.exit(1)
     except urllib.error.URLError as e:
         print(f"ERRO de conexão: {e.reason}", file=sys.stderr)
@@ -143,21 +140,43 @@ def buscar(query, tribunal=None, operador="AND", limite=10, offset=0):
         sys.exit(1)
 
 
+def _campo_tribunal(item):
+    trib = item.get("tribunals") or {}
+    if isinstance(trib, dict):
+        return trib.get("name") or trib.get("code") or "?"
+    return str(trib)
+
+
+def _identificacao(item):
+    """Ex.: 'Acórdão 447/2021' / 'Decisão Monocrática 6195/2020'."""
+    tipos = {"acordao": "Acórdão", "decisao_monocratica": "Decisão Monocrática"}
+    tipo = tipos.get(item.get("type", ""), (item.get("type") or "Decisão").replace("_", " ").title())
+    numero = item.get("number", "?")
+    ano = item.get("year", "?")
+    return f"{tipo} {numero}/{ano}"
+
+
 def formatar_resultado(item, idx):
     """Formata um resultado para exibição no terminal."""
     linhas = [f"\n{'='*60}"]
-    linhas.append(f"  [{idx}] {item.get('tribunal', '?')} — {item.get('numero', '?')}")
-    if item.get("relator"):
-        linhas.append(f"  Rel.: {item['relator']}")
-    if item.get("data_julgamento"):
-        linhas.append(f"  Data: {item['data_julgamento']}")
-    if item.get("ementa"):
-        ementa = item["ementa"][:500]
-        if len(item["ementa"]) > 500:
-            ementa += "..."
-        linhas.append(f"  Ementa: {ementa}")
-    if item.get("url"):
-        linhas.append(f"  URL: {item['url']}")
+    linhas.append(f"  [{idx}] {_campo_tribunal(item)} — {_identificacao(item)}")
+    if item.get("collegiate"):
+        linhas.append(f"  Órgão: {item['collegiate']}")
+    if item.get("rapporteur"):
+        linhas.append(f"  Rel.: {item['rapporteur']}")
+    if item.get("session_date"):
+        linhas.append(f"  Sessão: {item['session_date']}")
+    if item.get("subject"):
+        linhas.append(f"  Assunto: {item['subject']}")
+    if item.get("ai_summary"):
+        resumo = item["ai_summary"][:500]
+        if len(item["ai_summary"]) > 500:
+            resumo += "..."
+        linhas.append(f"  Resumo (gerado por IA — não é a ementa oficial): {resumo}")
+    if item.get("cited_laws"):
+        linhas.append(f"  Normas citadas: {'; '.join(item['cited_laws'])}")
+    if item.get("source_url"):
+        linhas.append(f"  Inteiro teor: {item['source_url']}")
     linhas.append(f"  [VIT] Verificar inteiro teor antes de citar em peça formal.")
     return "\n".join(linhas)
 
@@ -168,26 +187,37 @@ def exportar_csv(items, caminho):
         print("Nenhum resultado para exportar.", file=sys.stderr)
         return
 
-    campos = ["flag", "tribunal", "numero", "relator", "data_julgamento", "ementa", "url", "verificado"]
+    campos = ["flag", "tribunal", "identificacao", "orgao_julgador", "relator",
+              "data_sessao", "assunto", "resumo_ia", "normas_citadas",
+              "url_inteiro_teor", "verificado"]
     with open(caminho, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=campos, extrasaction="ignore")
+        writer = csv.DictWriter(f, fieldnames=campos)
         writer.writeheader()
         for item in items:
-            row = {k: item.get(k, "") for k in campos}
-            row["flag"] = "[VIT]"
-            row["verificado"] = "false"
-            writer.writerow(row)
-    print(f"Exportado: {caminho} ({len(items)} registros, todos [VIT])", file=sys.stderr)
+            writer.writerow({
+                "flag": "[VIT]",
+                "tribunal": _campo_tribunal(item),
+                "identificacao": _identificacao(item),
+                "orgao_julgador": item.get("collegiate") or "",
+                "relator": item.get("rapporteur") or "",
+                "data_sessao": item.get("session_date") or "",
+                "assunto": item.get("subject") or "",
+                "resumo_ia": item.get("ai_summary") or "",
+                "normas_citadas": "; ".join(item.get("cited_laws") or []),
+                "url_inteiro_teor": item.get("source_url") or "",
+                "verificado": "false",
+            })
+    print(f"Exportado: {caminho} ({len(items)} registros, todos [VIT]; "
+          f"coluna resumo_ia NÃO é ementa oficial)", file=sys.stderr)
 
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Busca decisões de Tribunais de Contas via API Lei na Mão."
+        description="Busca decisões de Tribunais de Contas via API Lei na Mão. "
+                    "Termos separados por espaço = E implícito; não usar AND/OR."
     )
-    parser.add_argument("--query", "-q", required=True, help="Termos de busca (frases entre aspas são preservadas)")
-    parser.add_argument("--tribunal", "-t", help="Filtrar por tribunal (ex.: TCU, TCE-SP)")
-    parser.add_argument("--operador", choices=["AND", "OR", "RAW"], default="AND",
-                        help="Operador entre termos (default: AND; RAW envia a query como está)")
+    parser.add_argument("--query", "-q", required=True, help="Termos de busca (E implícito entre termos)")
+    parser.add_argument("--tribunal", "-t", help="Filtrar por tribunal (ex.: TCU, TCE-SP, TCE-MS)")
     parser.add_argument("--limite", "-l", type=int, default=10, help="Quantidade de resultados (default: 10)")
     parser.add_argument("--offset", type=int, default=0, help="Paginação por índice")
     parser.add_argument("--csv", dest="csv_path", help="Exportar para CSV")
@@ -198,7 +228,6 @@ def main():
     resultados = buscar(
         query=args.query,
         tribunal=args.tribunal,
-        operador=args.operador,
         limite=args.limite,
         offset=args.offset,
     )
@@ -227,9 +256,9 @@ def main():
         if isinstance(total, int) and total > args.offset + len(items):
             print(f"Mostrando {args.offset + 1}-{args.offset + len(items)} de {total}; "
                   f"use --offset {args.offset + len(items)} para a próxima página.")
-    if len(items) == args.limite:
-        print(f"Pode haver mais resultados: use --offset {args.offset + args.limite}.")
-    print("[VIT] = Verificar Inteiro Teor — citação não verificada no portal do tribunal.")
+        elif len(items) == args.limite and total is None:
+            print(f"Pode haver mais resultados: use --offset {args.offset + args.limite}.")
+    print("[VIT] = Verificar Inteiro Teor — resumo gerado por IA, não é a ementa oficial.")
 
 
 if __name__ == "__main__":
