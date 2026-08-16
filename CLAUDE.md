@@ -16,6 +16,8 @@ solvi-editais/
 │   └── utils/
 ├── licitacoes-14133/
 │   ├── CLAUDE.md              (agentes e normativa para pregões/concorrências 14.133)
+│   ├── README.md              (convenção de nomes + índice dos projetos)
+│   ├── _template/             (esqueleto: README de ficha, CLAUDE.md, docs/, output/)
 │   └── [projeto]/
 └── concessoes/
     ├── CLAUDE.md              (agentes e normativa para concessões/PPPs)
