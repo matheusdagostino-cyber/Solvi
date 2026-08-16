@@ -1,0 +1,147 @@
+# FASE1 — Extrator E4 | Documento: CADERNO III - ANEXO IV - PROPOSTA PREÇO, DRE, PLANILHA SINTÉTICA E CRITÉRIOS DE JULGAMENTO (13 p.)
+# Projeto: marilia-ppp020-2025 | CP 020/2025 — Prefeitura de Marília/SP
+# Prazos (ficha/triagem): sessão 16/09/2026 | esclarecimento 11/09/2026 | impugnação 11/09/2026 | 19 dias úteis restantes em 16/08
+# Gerado em: 2026-08-16
+
+pontos:
+  - id: E4.proposta-criterios-julgamento-001
+    documento_fonte: "Anexo IV — Proposta, DRE, Planilha Sintética e Critérios de Julgamento"
+    dispositivo_editalicio: "Itens 1, 3, 8.5 e 8.7 do Anexo IV"
+    transcricao: "(A+B)/5.200, resultando no preço por tonelada que deverá ser inserido nos lances [...] A soma dos itens (A+B+C/5200) deverá compor o PREÇO UNITÁRIO DA TONELADA [...] [item 3:] soma dos itens (A+B – valor Licitante) + (C – Aterro já contratado pela Administração) dividido por 5.200 [...] (A+B+(C)) [...] [8.7:] O resultado terá caráter exclusivamente informativo [...] não devendo ser considerado pela Licitante na composição do preço da proposta"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "A fórmula de julgamento é escrita de pelo menos quatro formas matematicamente distintas — (A+B)/5.200; (A+B+C/5.200); [(A+B)+(C)]/5.200; (A+B+(C)) — e o papel do componente C é contraditório: o item 3 o inclui no critério de julgamento, o item 8.7 o declara 'exclusivamente informativo' e fora da composição do preço; impossível saber qual valor decide o certame e sobre qual base incide o teto"
+    dispositivo_legal: "art. 12 da Lei n.º 11.079/2004; arts. 33 e 59 da Lei n.º 14.133/2021 (julgamento objetivo); art. 5.º da Lei n.º 14.133/2021"
+    relacao_outros_documentos: "Cruzar com o critério de julgamento do Edital e da minuta de edital (padrão Marília: fórmula escrita de quatro formas); e com a composição em 2 ou 3 componentes do Caderno II (itens 8.1 × 12)"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E4.proposta-criterios-julgamento-002
+    documento_fonte: "Anexo IV — Proposta, DRE, Planilha Sintética e Critérios de Julgamento"
+    dispositivo_editalicio: "Item 8 (Planilha Sintética) c/c item 8.2 do Anexo IV"
+    transcricao: "LOTE 1 BIODIGESTÃO (FRAÇÃO ÚMIDA) — VOLUME MENSAL ESTIMADO 5.200 [t/mês]; LOTE 2 TRATAMENTO TÉRMICO (FRAÇÃO SECA) — 5.200; LOTE 3 SOLUÇÃO INTEGRADA — 5.200; LOTE 4 SOLUÇÃO ALTERNATIVA — 5.200 [...] Cálculo: A + B / 5.200"
+    tipo_achado: IRREGULAR
+    categoria: risco_economico
+    descricao_breve: "Base de cálculo incoerente com o objeto de cada lote: a Planilha Sintética atribui volume de 5.200 t/mês (100% dos RSD) aos quatro lotes e usa 5.200 como denominador universal, mas o Lote 1 trata apenas a fração úmida (45% ≈ 2.340 t/mês) e o Lote 2 apenas a fração seca (34% ≈ 1.768 t/mês) — o 'preço unitário por tonelada' resultante não corresponde à tonelada efetivamente tratada em cada lote, distorce a comparação entre lotes e o teto de R$ 114/t"
+    dispositivo_legal: "art. 6.º, XXIII, e art. 33 da Lei n.º 14.133/2021; TC-001718.989.19-7, TCE-SP, Pleno, 13/03/2019 (determinação 1)"
+    relacao_outros_documentos: "Cruzar com a gravimetria do Caderno I (90/68 t/dia por fração) e com as abas LOTE do DRE.xlsx (que também usam 62.400 t/ano em todas as rotas)"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E4.proposta-criterios-julgamento-003
+    documento_fonte: "Anexo IV — Proposta, DRE, Planilha Sintética e Critérios de Julgamento"
+    dispositivo_editalicio: "Item 1 (considerandos do valor máximo) e item 8.7 do Anexo IV"
+    transcricao: "o valor máximo estipulado [...] com base nos custos atualmente praticados pelo Município [...] é de R$ 114,00 por tonelada [...] montante total estimado de R$ 213.408.000,00 [...] ao longo do prazo contratual de 30 (trinta) anos [...] comprovação de inalterabilidade da dotação originária [...] demonstrar a não necessidade de suplementação orçamentária [...] [8.7:] multiplicação do volume [...] pelo valor unitário de R$ 114,00 [...] custo atualmente suportado pela Prefeitura"
+    tipo_achado: IRREGULAR
+    categoria: risco_economico
+    descricao_breve: "Circularidade e teto sem memória: o preço máximo da PPP (R$ 114/t) é o próprio custo atual de aterro — o parâmetro de vantajosidade é o custo que a PPP deveria superar, sem memória de cálculo nem cotações anexadas; e o valor global de R$ 213,4 milhões/30 anos é obtido sem qualquer indexação (contradizendo o reajuste por IPCA previsto no Caderno II), servindo de 'comprovação' indevida de suficiência orçamentária para três décadas"
+    dispositivo_legal: "art. 6.º, XXIII, 'i', e art. 23 da Lei n.º 14.133/2021; art. 10, II, da Lei n.º 11.079/2004; TC-001718.989.19-7, TCE-SP, Pleno, 13/03/2019 (determinação 1)"
+    relacao_outros_documentos: "Cruzar com a estimativa de impacto orçamentário do processo administrativo (não localizada nos cadernos) e com a análise de RCL quebrada da aba VfM do DRE.xlsx"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E4.proposta-criterios-julgamento-004
+    documento_fonte: "Anexo IV — Proposta, DRE, Planilha Sintética e Critérios de Julgamento"
+    dispositivo_editalicio: "Item 1 do Anexo IV"
+    transcricao: "As propostas que não contemplarem o aproveitamento energético e consequente atendimento a Política Nacional de Resíduos Sólidos, serão INABILITADAS."
+    tipo_achado: IRREGULAR
+    categoria: erro_material
+    descricao_breve: "Confusão entre habilitação e julgamento: desconformidade do conteúdo da proposta conduz à desclassificação, não à 'inabilitação' (que se refere aos requisitos do licitante) — o anexo comina sanção processual errada para vício de proposta, gerando insegurança sobre o rito e o momento da exclusão"
+    dispositivo_legal: "arts. 59, 62 a 64 da Lei n.º 14.133/2021"
+    relacao_outros_documentos: "Cruzar com as regras de desclassificação do Edital"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E4.proposta-criterios-julgamento-005
+    documento_fonte: "Anexo IV — Proposta, DRE, Planilha Sintética e Critérios de Julgamento"
+    dispositivo_editalicio: "Itens 3 e 9, alíneas 'C', 'D' e 'F', do Anexo IV"
+    transcricao: "MENOR PREÇO UNITÁRIO DA TONELADA DE CADA LOTE [...] [9.C:] A adjudicação poderá ocorrer de forma isolada, por lote, ou de forma combinada [...] [9.D:] O Poder Concedente poderá, a seu exclusivo critério, contratar uma única solução integrada ou contratar operadores distintos para diferentes LOTES"
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    descricao_breve: "Não há regra objetiva de decisão entre lotes concorrentes sobre o mesmo resíduo: os Lotes 1+2, o Lote 3 e o Lote 4 disputam as mesmas 5.200 t/mês, mas o anexo não define como a Administração comparará a combinação de lotes isolados contra a solução integrada (soma de preços? mesma base?), reservando a escolha ao 'exclusivo critério' do Poder Concedente — discricionariedade incompatível com o julgamento objetivo e fonte de insegurança sobre o que, afinal, será contratado"
+    dispositivo_legal: "art. 5.º e art. 33 da Lei n.º 14.133/2021 (julgamento objetivo); art. 12 da Lei n.º 11.079/2004; art. 47, § 1.º, II, da Lei n.º 14.133/2021"
+    relacao_outros_documentos: "Tema central da divisão em lotes (padrão Marília pontos 1–4) — cruzar com Edital e TR"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E4.proposta-criterios-julgamento-006
+    documento_fonte: "Anexo IV — Proposta, DRE, Planilha Sintética e Critérios de Julgamento"
+    dispositivo_editalicio: "Item 8.1 (nota) c/c item 5 e item 9.E do Anexo IV"
+    transcricao: "*QUALQUER DOS LOTES DEVERÁ CONTEMPLAR UM GALPÃO PARA A INSTALAÇÃO DE SISTEMA DE RECEPÇÃO, SEGREGAÇÃO E TRITURAÇÃO DOS RESÍDUOS. [...] [item 5:] A Administração poderá ainda optar por contratar rotas distintas com Licitantes distintas, e propor o compartilhamento dos custos com galpão, sistema de segregação e trituração"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Indefinição sobre a infraestrutura comum: cada lote deve precificar galpão + segregação + trituração próprios (investimento de ~R$ 18 mi segundo o Caderno I), mas a Administração 'poderá propor' compartilhamento desses custos após o certame, sem regra de rateio, titularidade ou reequilíbrio — as licitantes não sabem se precificam a infraestrutura integral ou compartilhada, comprometendo a comparabilidade das propostas"
+    dispositivo_legal: "art. 6.º, XXIII, da Lei n.º 14.133/2021; art. 92, I, da Lei n.º 14.133/2021"
+    relacao_outros_documentos: "Cruzar com itens 9.5–9.6 do Caderno I (galpão R$ 5 mi + trituração R$ 13 mi) e com a minuta de contrato"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E4.proposta-criterios-julgamento-007
+    documento_fonte: "Anexo IV — Proposta, DRE, Planilha Sintética e Critérios de Julgamento"
+    dispositivo_editalicio: "Item 8.1 do Anexo IV (Lote 4)"
+    transcricao: "Lote 4 – Solução alternativa, a qual poderá contemplar quaisquer outras rotas com exceção dos itens 1, 2 e 3 acima e rota de incineração."
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "A incineração é expressamente vedada no Lote 4, mas o Caderno I do mesmo conjunto lista 'incineração com recuperação energética' como processo elegível, descreve o mass burning em detalhe e o processo térmico proposto (queima de syngás em câmara de combustão >850 °C acoplada a caldeira) aproxima-se da definição de tratamento térmico da CONAMA 316/2002 — contradição interna sobre a rota vedada (padrão 'incineração proibida mas prevista')"
+    dispositivo_legal: "Resolução CONAMA 316/2002; art. 5.º da Lei n.º 14.133/2021 (vinculação e coerência do instrumento convocatório)"
+    relacao_outros_documentos: "Cruzar com Resumo Executivo item 4 e itens 5.5/6.3.1 do Caderno I e com o Anexo II.2 (tecnologias aplicadas)"
+    flag_tecnico: true
+    flag_reserva: false
+
+  - id: E4.proposta-criterios-julgamento-008
+    documento_fonte: "Anexo IV — Proposta, DRE, Planilha Sintética e Critérios de Julgamento"
+    dispositivo_editalicio: "Item 1 (objeto) e item 8.7 do Anexo IV"
+    transcricao: "os rejeitos deverão ser disponibilizados para carregamento, transporte e destinação para o Aterro Sanitário contratado pela Administração, os quais continuarão sob responsabilidade dos prestadores de serviços de coleta e transporte atualmente contratados pela PREFEITURA [...] [8.7:] o custo referente à disposição final dos rejeitos permanecerá sob responsabilidade da Prefeitura"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Alocação dos rejeitos contraditória entre documentos: o Anexo IV mantém transporte e disposição dos rejeitos com a Administração e seus contratos 'atualmente' vigentes (por 30 anos?), enquanto o Caderno II (item 12) inclui 'custo de transporte e disposição final dos rejeitos' na composição da proposta e o Caderno I ora manda cinzas para 'aterro anexo ao empreendimento', ora para aterro de terceiro — três versões sobre quem paga e executa a disposição dos rejeitos"
+    dispositivo_legal: "art. 6.º, XXIII, da Lei n.º 14.133/2021; art. 4.º, VI, da Lei n.º 11.079/2004"
+    relacao_outros_documentos: "Cruzar com item 12 do Caderno II, itens 6.3.1/8 do Caderno I, TR e matriz de riscos"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E4.proposta-criterios-julgamento-009
+    documento_fonte: "Anexo IV — Proposta, DRE, Planilha Sintética e Critérios de Julgamento"
+    dispositivo_editalicio: "Item 4 do Anexo IV (critério de desempate)"
+    transcricao: "Em caso de empate entre propostas classificadas, terá preferência a LICITANTE que apresentar o maior percentual de redução do envio de resíduos ao aterro sanitário [...] O percentual informado deverá ser comprovado operacionalmente"
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    descricao_breve: "Critério de desempate único e sem procedimento: não há regra para empate persistente (segundo critério), não se indica como o 'percentual de redução' será verificado no julgamento (a comprovação é remetida à operação futura), e o critério não é cotejado com a ordem legal de desempate do art. 60 da Lei 14.133/2021, de aplicação subsidiária"
+    dispositivo_legal: "art. 60 da Lei n.º 14.133/2021; art. 12 da Lei n.º 11.079/2004"
+    relacao_outros_documentos: "Cruzar com o critério de desempate do Edital"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E4.proposta-criterios-julgamento-010
+    documento_fonte: "Anexo IV — Proposta, DRE, Planilha Sintética e Critérios de Julgamento"
+    dispositivo_editalicio: "Itens 6 e 8.2 do Anexo IV"
+    transcricao: "DRE projetado para todo o prazo da concessão, elaborado conforme MODELO disponibilizado no Caderno II [...] Para fins de estruturação da Proposta de Preço, os custos operacionais deverão contemplar, incluindo, mas não se restringindo a: [lista inexistente — o texto salta direto para 'O DRE deverá demonstrar'] [...] [8.2:] não constituindo garantia de demanda mínima ou máxima [...] podendo sofrer variações de +- 10%"
+    tipo_achado: IRREGULAR
+    categoria: erro_material
+    descricao_breve: "Defeitos de texto e de remissão com efeito prático: a lista de custos operacionais anunciada está vazia (frase truncada); o DRE é exigido 'conforme modelo do Caderno II' — modelo cujo arquivo publicado está mutilado (#REF!) e cuja reprodução o próprio Caderno II veda; e a mesma cláusula nega garantia de volume mínimo mas admite variação de ±10%, enquanto o Caderno II (item 9) promete 'garantia de fornecimento mínimo' com indenização — mais uma camada de contradição sobre o risco de demanda"
+    dispositivo_legal: "art. 6.º, XXIII, da Lei n.º 14.133/2021; art. 92, I, da Lei n.º 14.133/2021"
+    relacao_outros_documentos: "Cruzar com item 9 do Caderno II (garantia de volume) e com o ponto 001 do extrator do DRE.xlsx (modelo mutilado)"
+    flag_tecnico: false
+    flag_reserva: false
+
+conformes:
+  - id: E4.proposta-criterios-julgamento-C01
+    documento_fonte: "Anexo IV — Proposta, DRE, Planilha Sintética e Critérios de Julgamento"
+    dispositivo_editalicio: "Itens 2, 7 e 10 do Anexo IV"
+    transcricao: "A presente licitação será realizada sob o Modo de Disputa ABERTO [...] [7:] A Administração poderá solicitar documentos, memórias de cálculo [...] Poderão ser desclassificadas propostas que apresentem inconsistências relevantes [...] [10:] A presente proposta é válida pelo prazo de 120 (cento e vinte) dias"
+    tipo_achado: CONFORME
+    descricao_breve: "O anexo define modo de disputa aberto com lances públicos e sucessivos (aqui sem o erro de inciso dos cadernos II/III), prevê análise de exequibilidade com desclassificação por inconsistência entre proposta/DRE/plano de negócios, e fixa validade de proposta de 120 dias — estruturas formais presentes"
+    dispositivo_legal: "art. 56, I e § 1.º, art. 59, IV, e art. 90, § 3.º, da Lei n.º 14.133/2021"
+    relacao_outros_documentos: "—"
+    flag_tecnico: false
+    flag_reserva: false
+
+manifesto_cobertura:
+  documento: "CADERNO III - ANEXO IV - PROPOSTA PREÇO, DRE, PLANILHA SINTÉTICA E CRITÉRIOS DE JULGAMENTO.pdf (13 p.)"
+  fonte_texto: "docs/extraido/CADERNO III - ANEXO IV - ....txt (596 linhas, pdftotext -layout)"
+  blocos_percorridos:
+    - "Documento lido integralmente em bloco único: itens 1 (objeto e teto), 2 (modo de disputa), 3 (critério de julgamento), 4 (desempate), 5 (orientações de proposta), 6 (DRE), 7 (exequibilidade), 8 (Planilha Sintética + instruções 8.1–8.7), 9 (participação e adjudicação), 10 (modelo de proposta) e termo de encerramento"
+  tabelas_conferidas:
+    - "Planilha Sintética (p. 9): estrutura de colunas (A), (B), (A+B), (C) volume, (C) gasto e campos da Prefeitura, com os 4 lotes e volume 5.200 t/mês — legível na extração de texto (layout preservado); cabeçalhos conferidos contra o texto corrido dos itens 8.3–8.7, sem necessidade de retorno ao PDF nativo para valores (a planilha é formulário em branco)"
+    - "Modelo de Proposta de Preço (p. 13–14): campos A, B, (A+B)/5.200, C — conferidos"
+  lacunas: "Nenhuma seção saltada; único conteúdo potencialmente gráfico (logotipos de capa) sem relevância material"
