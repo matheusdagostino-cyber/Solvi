@@ -28,7 +28,7 @@ Exemplos típicos em SP: Dec. Estadual 8.468/1976 (padrões ambientais), Lei Est
 
 ## Determinações anteriores do TCE sobre o mesmo município/objeto
 
-Certames anteriores sobre o mesmo objeto e o que o Tribunal determinou. Descumprimento reiterado de decisão vinculante é argumento de peso institucional (ver `concessoes/CLAUDE.md`, E4).
+Certames anteriores sobre o mesmo objeto e o que o Tribunal determinou. Registrar descumprimento reiterado de decisão vinculante como fato autônomo, com a determinação identificada (ver `concessoes/CLAUDE.md`, E4) — a valoração do peso é do advogado.
 
 | Processo | Decisão/Acórdão | Determinação | Cumprida no edital atual? |
 |---|---|---|---|

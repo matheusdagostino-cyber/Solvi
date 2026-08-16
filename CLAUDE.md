@@ -417,8 +417,8 @@ Legislação aplicável a ambos os regimes (14.133 e concessões). Os CLAUDE.md 
 - **IN RFB 1.700/2017** — Vida útil de bens para fins fiscais (referência para depreciação em modelagem)
 
 ### Súmulas e orientações vinculantes
-- **Súmula 272 do TCU** — Visita técnica e declaração substitutiva
-- **Súmulas 24 e 30 do TCE-SP** — Qualificação técnica
+- **Súmula 272 do TCU** — invocada para visita técnica e declaração substitutiva (enunciado a confirmar no portal do TCU antes de citar em peça)
+- **Súmulas 24 e 30 do TCE-SP** — Qualificação técnica (enunciados a confirmar no portal do TCE-SP antes de citar em peça)
 - Precedentes consolidados do TCU sobre qualificação técnica, SRP e concessões devem ser buscados via API, não citados de memória
 
 ---

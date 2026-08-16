@@ -12,17 +12,17 @@ Além da legislação compartilhada definida no CLAUDE.md raiz, os agentes deste
 
 | Diploma | Escopo | Artigos-chave para extração |
 |---|---|---|
-| **Lei 8.987/1995** | Concessões comuns | arts. 2º (definições), 5º (licitação obrigatória), 9º–13 (política tarifária), 15 (critério de julgamento), 18–19 (edital e proposta), 23 (cláusulas essenciais), 25 (subconcessão), 29 (encampação), 35–36 (extinção e reversão), 37 (caducidade) |
-| **Lei 11.079/2004** | PPPs | arts. 2º (definições), 4º (diretrizes), 5º (cláusulas essenciais), 6º (contraprestação), 7º (condições para contraprestação), 8º (garantias ao parceiro privado), 9º (SPE), 10 (condições prévias à licitação), 11 (edital), 14 (julgamento), 22 (FGP) |
-| **Lei 14.133/2021** | Aplicação subsidiária | arts. 5º (publicidade e vinculação), 25 (orçamento estimado), 37 (banca de especialistas), 63 (visita técnica), 67 (qualificação técnica), 96–97 (garantia de execução) |
+| **Lei 8.987/1995** | Concessões comuns | arts. 2º (definições), 5º (justificativa prévia da outorga), 9º–13 (política tarifária), 14 (licitação obrigatória), 15 (critério de julgamento), 18 (edital), 19 (consórcios), 23 (cláusulas essenciais), 26 (subconcessão), 29 (encargos do poder concedente), 35–36 (extinção e reversão), 37 (encampação), 38 (caducidade) |
+| **Lei 11.079/2004** | PPPs | arts. 2º (definições), 4º (diretrizes), 5º (cláusulas essenciais), 6º (contraprestação), 7º (condições para contraprestação), 8º (garantia das obrigações pecuniárias do parceiro público), 9º (SPE), 10 (condições prévias à licitação), 11 (edital), 12 (procedimento e julgamento), 16–21 (FGP), 22 (limite fiscal da União — 1% da RCL), 28 (limite de 5% da RCL para PPPs dos entes) |
+| **Lei 14.133/2021** | Aplicação subsidiária | arts. 5º (publicidade e vinculação), 23 (orçamento estimado), 25 (conteúdo do edital), 37 (banca de especialistas), 63 (visita técnica), 67 (qualificação técnica), 96–97 (garantia de execução) |
 
 ### Saneamento e RSU
 
 | Diploma | Escopo | Artigos-chave |
 |---|---|---|
-| **Lei 11.445/2007** (redação Lei 14.026/2020) | Saneamento básico | arts. 10-A (condições de validade), 11 (acesso a recursos federais), 21–22 (entidade reguladora), 29 (estrutura tarifária), 35 (licitação e contratação) |
-| **Lei 12.305/2010** (PNRS) | Resíduos sólidos | arts. 3º (definições), 9º e §1º (ordem de prioridade vinculante), 13 (classificação), 19 (PMGIRS), 33 (logística reversa), 36 (responsabilidade do gerador) |
-| **NR n.º 7/2024 da ANA** (Resolução ANA 187/2024) | Contratos de manejo de RSU | arts. 2º (escopo), 8º (instalações licenciadas), 34–36 (tarifas/reajuste/revisão), 35 (reciclagem antes de tratamento), 40–41 (recuperação energética condicionada), 71/76/80/88 (entidade reguladora) |
+| **Lei 11.445/2007** (redação Lei 14.026/2020) | Saneamento básico | arts. 10 (licitação e contrato de concessão obrigatórios), 10-A (cláusulas essenciais dos contratos), 11 (condições de validade), 21–22 (entidade reguladora), 29 (estrutura tarifária), 35 (taxas e tarifas de RSU), 50 (condicionantes de acesso a recursos federais) |
+| **Lei 12.305/2010** (PNRS) | Resíduos sólidos | arts. 3º (definições), 9º e §1º (ordem de prioridade vinculante), 13 (classificação), 19 (PMGIRS), 20 e 27 (responsabilidade do gerador; art. 27, §2º — remuneração ao poder público pelas etapas que realizar), 33 (logística reversa), 36 (deveres do titular do serviço público) |
+| **NR n.º 7/2024 da ANA** (Resolução ANA 187/2024) | Contratos de manejo de RSU | arts. 2º (escopo), 8º (instalações licenciadas), 34–36 (tarifas/reajuste/revisão), 35 (reciclagem antes de tratamento), 40–41 (recuperação energética condicionada), 71/76/80/88 (entidade reguladora) — atribuições de artigo não conferidas em fonte primária; verificar no texto oficial da ANA antes de citar em peça |
 
 ### Ambiental
 
@@ -37,7 +37,7 @@ Além da legislação compartilhada definida no CLAUDE.md raiz, os agentes deste
 
 | Diploma | Escopo | Artigos-chave |
 |---|---|---|
-| **LC 101/2000** (LRF) | Responsabilidade fiscal | arts. 5º, 16–17 (adequação orçamentária), 28 (limite de PPP sobre RCL) |
+| **LC 101/2000** (LRF) | Responsabilidade fiscal | arts. 5º, 16–17 (adequação orçamentária) — o limite de despesa com PPP sobre a RCL não está na LRF: é o art. 28 da Lei 11.079/2004 |
 | **CF/1988** | PPA, LDO, LOA | arts. 165–169; art. 149-A (COSIP); art. 167 IV (não vinculação de receitas) |
 
 ---
@@ -58,13 +58,15 @@ Os agentes seguem a arquitetura definida no CLAUDE.md raiz (E1–E4, C, AN, R, C
 - Confirmar prazo: concessão comum sem limite fixo na lei, PPP entre 5 e 35 anos (art. 5º, I, da Lei 11.079/2004)
 
 **Condições prévias à licitação (PPP — art. 10 da Lei 11.079/2004):**
-- [ ] Autorização legislativa específica (art. 10, I, "a")
+- [ ] Autorização da autoridade competente, fundamentada em estudo técnico (art. 10, I)
 - [ ] Estudo técnico que demonstre conveniência e oportunidade (art. 10, I, "a")
+- [ ] Autorização legislativa específica — exigível apenas para concessão patrocinada com mais de 70% da remuneração paga pela Administração (art. 10, §3º)
 - [ ] Estimativa de impacto orçamentário-financeiro nos exercícios de vigência (art. 10, II)
-- [ ] Declaração do ordenador de despesas de compatibilidade com LDO e PPA (art. 10, III)
+- [ ] Declaração do ordenador de despesas de compatibilidade com a LDO e previsão na LOA (art. 10, III)
 - [ ] Licença ambiental prévia ou diretrizes para o licenciamento (art. 10, VII)
-- [ ] Inclusão da despesa no PPA (art. 10, VI, e CF art. 165 §1º)
-- [ ] Limite de 5% da RCL para PPPs (art. 22 c/c art. 28 da LRF)
+- [ ] Objeto previsto no PPA em vigor (art. 10, V, e CF art. 165, §1º)
+- [ ] Submissão da minuta de edital e de contrato à consulta pública (art. 10, VI)
+- [ ] Limite de 5% da RCL para despesas com PPPs de Estados/DF/Municípios (art. 28 da Lei 11.079/2004); para a União, 1% da RCL (art. 22 da mesma lei)
 
 **Participação e consórcio:**
 - Regras de participação: verificar se admite consórcio e em que condições
@@ -73,7 +75,7 @@ Os agentes seguem a arquitetura definida no CLAUDE.md raiz (E1–E4, C, AN, R, C
 
 **Qualificação técnica:**
 - Exigência restrita às parcelas de maior relevância (art. 67, §1º, da Lei 14.133/2021, aplicável subsidiariamente)
-- Exigência de 12 meses consecutivos só para serviços contínuos, não para projetos (art. 67, §5º)
+- Prazo mínimo de execução em atestados: cabível só para serviços contínuos, limitado a 3 anos, admitidos períodos sucessivos ou não (art. 67, §5º) — exigência editalícia de consecutividade dos atestados não tem amparo no dispositivo e é vício a capturar
 - Quantitativos de atestados: verificar proporcionalidade e justificativa
 - Exigência de experiência em tecnologias que o próprio edital admite não ter operação comercial no Brasil (contradição interna — ver padrão Marília ponto 16)
 
@@ -125,7 +127,7 @@ Os agentes seguem a arquitetura definida no CLAUDE.md raiz (E1–E4, C, AN, R, C
 
 **Remuneração e estrutura tarifária:**
 - Modelo: tarifa ao usuário vs. contraprestação pública vs. misto
-- Grandes geradores: responsabilidade do gerador (art. 36, I, da Lei 12.305/2010), não do erário (ver padrão Rio Claro ponto 2)
+- Grandes geradores: responsabilidade do próprio gerador (arts. 20 e 27 da Lei 12.305/2010; art. 27, §2º — etapas realizadas pelo poder público são remuneradas pelo gerador), não do erário (ver padrão Rio Claro ponto 2)
 - Preço público vs. tarifa: insegurança jurídica na nomenclatura (ver padrão Rio Claro ponto 2)
 - Receitas acessórias futuras e incertas incluídas na proposta comercial: gera desigualdade (ver padrão Rio Claro ponto 9)
 
@@ -142,7 +144,7 @@ Os agentes seguem a arquitetura definida no CLAUDE.md raiz (E1–E4, C, AN, R, C
 - Funções indelegáveis da entidade reguladora segundo a NR 7/2024
 
 **Compatibilidade com PNRS e PMGIRS:**
-- Ordem de prioridade: não redução → reutilização → reciclagem → tratamento → disposição final (art. 9º da Lei 12.305/2010)
+- Ordem de prioridade: não geração → redução → reutilização → reciclagem → tratamento → disposição final ambientalmente adequada dos rejeitos (art. 9º da Lei 12.305/2010)
 - Rota térmica: verificar se reciclagem foi esgotada antes do tratamento (ver padrão Marília ponto 17)
 - Coerência com o PMGIRS do município (ver padrão Marília ponto 17: PMGIRS não menciona gaseificação/pirólise)
 - Condições da NR 7/2024 para recuperação energética: arts. 35, 40, 41
@@ -161,7 +163,7 @@ Os agentes seguem a arquitetura definida no CLAUDE.md raiz (E1–E4, C, AN, R, C
 
 **Alocação de riscos:**
 - Matriz de riscos: verificar se existe e se está preenchida (ver padrão CIAS: anexo vazio)
-- Risco regulatório: edição ou modificação de normas da entidade reguladora não pode ser excluída de reequilíbrio — contraria fato do príncipe e NR 5 da ANA (ver padrão Rio Claro ponto 14)
+- Risco regulatório: edição ou modificação de normas da entidade reguladora não pode ser excluída de reequilíbrio — lógica do fato do príncipe; a norma de referência da ANA aplicável deve ser identificada com número e artigo no texto oficial antes de citar (não usar "NR 5" sem verificação) (ver padrão Rio Claro ponto 14)
 - Risco de demanda
 - Risco cambial e de taxa de juros
 - Risco ambiental e de licenciamento
@@ -225,7 +227,7 @@ Os agentes seguem a arquitetura definida no CLAUDE.md raiz (E1–E4, C, AN, R, C
 **Determinações anteriores do TCE:**
 - Verificar se o município já foi objeto de determinações em certames anteriores sobre o mesmo objeto (ver padrão Marília ponto 10)
 - Verificar cumprimento de cada determinação no novo edital
-- Descumprimento reiterado de decisão vinculante: argumento de maior peso institucional perante o Tribunal
+- Registrar descumprimento reiterado de decisão vinculante como fato autônomo, com identificação precisa da determinação descumprida (processo, acórdão, item) — a valoração do peso do argumento é do advogado
 
 ---
 
@@ -237,7 +239,7 @@ Padrões extraídos de análises anteriores. Os agentes devem verificar a ocorr�
 O edital de concessão tipicamente contém 10+ documentos (edital, TR, cadernos, minuta, anexos). Contradições entre eles são frequentes e configuram irregularidade autônoma (art. 5º da Lei 14.133/2021 — vinculação ao instrumento convocatório). O Consolidador (C) deve cruzar sistematicamente: edital × TR, TR × caderno de encargos, TR × minuta do contrato, caderno de encargos × plano de negócios, edital × anexo de proposta.
 
 ### Incineração proibida mas prevista
-Editais de WtE frequentemente proíbem "incineração" textualmente mas descrevem processos que configuram incineração segundo a Resolução CONAMA 316/2002 (queima controlada de CDR em caldeira de grelha, 850–1.050°C, residência de gases ≥ 2 segundos). A contradição interna é o eixo de ataque mais seguro — não a inadequação da tecnologia em si (o TCE-SP já rejeitou essa linha genérica em 2019).
+Editais de WtE frequentemente proíbem "incineração" textualmente mas descrevem processos que configuram incineração segundo a Resolução CONAMA 316/2002 (queima controlada de CDR em caldeira de grelha, 850–1.050°C, residência de gases ≥ 2 segundos). Formular a tese como contradição interna do edital, não como inadequação da tecnologia em si (o TCE-SP rejeitou a linha genérica da inadequação em 2019 — localizar o precedente via API antes de citar).
 
 ### Entidade reguladora ausente
 A Lei 11.445/2007 (art. 21) e a NR 7/2024 exigem designação de entidade reguladora com independência decisória. Municípios pequenos e médios frequentemente omitem essa designação ou atribuem a função ao próprio poder concedente, sem autonomia. Condição de validade do contrato.
