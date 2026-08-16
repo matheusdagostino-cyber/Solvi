@@ -1,0 +1,96 @@
+# FASE1 — Extrator E2 | Projeto: marilia-ppp020-2025 | CP 020/2025 — Prefeitura de Marília/SP
+# Documento: CADERNO III - ANEXO II.7 – DAS DIRETRIZES AMBIENTAIS BÁSICAS (15 p.)
+# Prazos (triagem): esclarecimento e impugnação até 11/09/2026 — 19 dias úteis em 16/08/2026
+# Gerado em: 2026-08-16
+
+pontos:
+  - id: E2.diretrizes-ambientais-001
+    documento_fonte: "Anexo II.7 (Diretrizes Ambientais Básicas)"
+    dispositivo_editalicio: "Item 6 do Anexo II.7 (Princípios de Economia Circular)"
+    transcricao: "Sempre que tecnicamente viável, deverá ser buscada a meta de destinação inferior a 20% dos resíduos gerados para aterros sanitários."
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Terceira referência distinta para a meta central de desvio de aterro: <20% de aterramento aqui (equivalente a ≥80% de desvio, e apenas 'sempre que tecnicamente viável') vs 'redução de até 50%' no TR vs 'meta contratual' indefinida no Anexo II.6 vs 84% implícito no balanço do Anexo II.3"
+    dispositivo_legal: "art. 9.º da Lei n.º 12.305/2010; art. 6.º, inciso XXIII, alínea 'e', da Lei n.º 14.133/2021"
+    relacao_outros_documentos: "TR item 9.5.3; Anexo II.6, item 5.2; Anexo II.3, Etapa 3, item 5"
+    flag_tecnico: true
+    flag_reserva: false
+
+  - id: E2.diretrizes-ambientais-002
+    documento_fonte: "Anexo II.7 (Diretrizes Ambientais Básicas)"
+    dispositivo_editalicio: "Item 5 do Anexo II.7 (Diretrizes de Gestão Integrada de Resíduos)"
+    transcricao: "A gestão integrada de resíduos sólidos deverá priorizar: I – Redução da geração de resíduos na fonte; II – Reutilização e reciclagem de materiais; III – Recuperação energética; IV – Tratamento ambientalmente adequado dos resíduos; V – Disposição final ambientalmente adequada dos rejeitos."
+    tipo_achado: IRREGULAR
+    categoria: ilegalidade
+    descricao_breve: "Ordem de prioridade da PNRS reproduzida com alteração: omite a 'não geração' e posiciona a 'recuperação energética' (III) como categoria autônoma anterior ao 'tratamento' (IV), quando o art. 9.º da Lei 12.305/2010 fixa não geração → redução → reutilização → reciclagem → tratamento → disposição final, sendo a recuperação energética condicionada pelo § 1.º do mesmo artigo"
+    dispositivo_legal: "art. 9.º, caput e § 1.º, da Lei n.º 12.305/2010"
+    relacao_outros_documentos: "TR seção 10, item 1 (transcreve a ordem corretamente — contradição interna entre TR e II.7); Anexo II.3 (rota sem esgotamento da reciclagem)"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E2.diretrizes-ambientais-003
+    documento_fonte: "Anexo II.7 (Diretrizes Ambientais Básicas)"
+    dispositivo_editalicio: "Itens 1 e 12 do Anexo II.7"
+    transcricao: "os itens aqui relacionados constituem referências legais ... sem que isso represente qualquer antecipação de exigências ou supressão da competência exclusiva da CETESB ... Dependendo do porte do empreendimento poderão ser exigidos a critério do órgão de controle ambiental estadual, os seguintes estudos: EAS; RAS; RAP; EIA; RIMA."
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    descricao_breve: "Determinação 4 do TCE-SP (prever especificações e tipos de licenças ambientais necessárias) atendida apenas em parte: o anexo lista genericamente LP/LI/LO e cinco estudos possíveis, mas abstém-se expressamente de definir o enquadramento aplicável ao empreendimento (EAS vs EIA/RIMA, código de ramo, porte), remetendo tudo à CETESB — a incerteza sobre o estudo exigível impede a precificação do prazo e do risco de licenciamento pelas licitantes"
+    dispositivo_legal: "TC-001718.989.19-7, TCE-SP, Pleno, 13/03/2019 (determinação 4); art. 10, inciso VII, da Lei n.º 11.079/2004; Resolução CONAMA n.º 237/1997"
+    relacao_outros_documentos: "Anexo II.2, item 4; TR itens 10.21–10.25; DD CETESB 023/2024/C/I e Resolução SIMA 47/2020 (citadas no rol sem aplicação ao caso)"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E2.diretrizes-ambientais-004
+    documento_fonte: "Anexo II.7 (Diretrizes Ambientais Básicas)"
+    dispositivo_editalicio: "Item 7 do Anexo II.7 (Caracterização dos Resíduos)"
+    transcricao: "Previamente à implantação do empreendimento deverá ser realizada caracterização gravimétrica, físico-química e energética dos resíduos sólidos domiciliares. Os parâmetros mínimos ... incluem: composição gravimétrica; teor de umidade; poder calorífico inferior (PCI); teor de carbono orgânico; presença de metais pesados."
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    descricao_breve: "Dados essenciais ao dimensionamento (gravimetria, umidade, PCI) não são fornecidos no edital: a caracterização é remetida à concessionária 'previamente à implantação', ou seja, após a contratação — as propostas serão formuladas sem a base de dados que o próprio anexo reputa necessária, e a lacuna alcança a determinação 2 do TCE-SP (critérios de umidade por fase)"
+    dispositivo_legal: "TC-001718.989.19-7, TCE-SP, Pleno, 13/03/2019 (determinação 2); art. 18, § 1.º, incisos I e VIII, da Lei n.º 14.133/2021; art. 10, inciso I, alínea 'a', da Lei n.º 11.079/2004"
+    relacao_outros_documentos: "Caderno I — Modelagem Técnico-Operacional (E4) — verificar se traz gravimetria/PCI de referência; achado E2.tratamento-termico-biodigestao-005"
+    flag_tecnico: true
+    flag_reserva: false
+
+  - id: E2.diretrizes-ambientais-005
+    documento_fonte: "Anexo II.7 (Diretrizes Ambientais Básicas)"
+    dispositivo_editalicio: "Itens 4.2 e 18.6 do Anexo II.7"
+    transcricao: "Deverá ser observado o disposto no artigo 24 da Resolução CONAMA nº 316/2002: 'A implantação do sistema de tratamento térmico ... deve ser precedida da implementação de um programa de segregação de resíduos, em ação integrada com os responsáveis pelo sistema de coleta ..., para fins de reciclagem ou reaproveitamento' ... [metas de segregação de 6% a 30% por biênio]"
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    descricao_breve: "O anexo impõe a observância do art. 24 da CONAMA 316/2002 (programa prévio de segregação para reciclagem, integrado à coleta, com metas de 6% a 30% por biênio) e transcreve as metas do PLANARES (30%/50% de reciclagem de embalagens; 13,5% da fração orgânica), mas nenhum documento do certame estrutura esse programa, define responsável ou compatibiliza tais metas com a rota de referência, que destina os recicláveis secos ao CDR"
+    dispositivo_legal: "art. 24, caput e parágrafo único, da Resolução CONAMA n.º 316/2002; art. 9.º da Lei n.º 12.305/2010; Decreto n.º 11.043/2022 (PLANARES)"
+    relacao_outros_documentos: "Anexo II.3 (recuperação material limitada a metais/vidros — achado 012); TR seção 20 (educação ambiental não supre o programa de segregação); PMGIRS não disponibilizado"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E2.diretrizes-ambientais-006
+    documento_fonte: "Anexo II.7 (Diretrizes Ambientais Básicas)"
+    dispositivo_editalicio: "Itens 18.7, 18.8 e 21.1 do Anexo II.7"
+    transcricao: "mesmo para tecnologias que operem com temperatura inferior aos 800ºC ... Para fins deste ANEXO, a temperatura mínima de operação para tecnologias de tratamento térmico de resíduos sólidos deve considerar a temperatura inicial de formação de Dioxinas e Furanos que é de 200ºC;"
+    tipo_achado: IRREGULAR
+    categoria: erro_material
+    descricao_breve: "Diretriz de temperatura tecnicamente incoerente: fixar a 'temperatura mínima de operação' por referência à temperatura inicial de formação de dioxinas/furanos (200°C) inverte a lógica de controle (a janela de 200–450°C é justamente a faixa crítica de formação na zona de resfriamento) e conflita com os parâmetros do Anexo II.3 (850–1.050°C) e com os critérios da CONAMA 316/2002"
+    dispositivo_legal: "Resolução CONAMA n.º 316/2002; Decreto Estadual n.º 8.468/1976 (SP) e Decreto Estadual n.º 59.113/2013 (SP)"
+    relacao_outros_documentos: "Anexo II.3 (Especificações do Tratamento Térmico)"
+    flag_tecnico: true
+    flag_reserva: false
+
+  - id: E2.diretrizes-ambientais-007
+    documento_fonte: "Anexo II.7 (Diretrizes Ambientais Básicas)"
+    dispositivo_editalicio: "Itens 4 e 16 do Anexo II.7 (Marco Legal e Requisitos Legais)"
+    transcricao: "Lei nº 15.190, de 8 de agosto de 2025. Dispõe sobre o licenciamento ambiental ... Resolução do CONAMA Nº 506/2024 ... Resolução ANA nº 187, de 19 de março de 2024. Aprova a Norma de Referência nº 7/2024 ... Resolução SIMA Nº 047/2020 ... CETESB, Decisão de Diretoria nº 023/2024/C/I"
+    tipo_achado: CONFORME
+    descricao_breve: "Rol normativo abrangente e atualizado (inclusive Lei 15.190/2025 de licenciamento ambiental, CONAMA 506/2024, NR 7/2024 da ANA e regulamentação paulista de CDR) — item de checklist verificado sem vício autônomo"
+    dispositivo_legal: "Lei n.º 15.190/2025; Resolução CONAMA n.º 506/2024; NR n.º 7/2024 da ANA (Resolução ANA 187/2024); Resolução SIMA n.º 47/2020"
+    relacao_outros_documentos: "A citação da NR 7/2024 não vem acompanhada de designação de entidade reguladora (achado E2.termo-referencia-010)"
+    flag_tecnico: false
+    flag_reserva: false
+
+manifesto_cobertura:
+  documento: "CADERNO III - ANEXO II.7 – DAS DIRETRIZES AMBIENTAIS BÁSICAS.pdf (15 p.)"
+  fonte_texto: "docs/extraido/ (715 linhas) — leitura integral"
+  secoes_percorridas:
+    - "1. Objeto; 2. Objetivos; 3. Princípios; 4. Marco legal (4.1 PNRS, 4.2 PLANARES, 4.3 saneamento, 4.4 legislação ambiental); 5. Gestão integrada; 6. Economia circular; 7. Caracterização dos resíduos; 8. Arquitetura tecnológica; 9. Biodigestão; 10. Biometano; 11. Tratamento térmico; 12. Licenciamento (12.1–12.5 EAS/RAS/RAP/EIA/RIMA); 13. Avaliação de impactos; 14. Programas de controle; 15. Benefícios; 16. Requisitos legais; 18. Diretrizes gerais; 19. Procedimentos de licenciamento; 20. Diretrizes técnicas específicas (estudo de dispersão); 21. Considerações finais"
+  trechos_ilegiveis: "Nenhum"
+  observacoes: "Numeração salta do item 16 para o 18 no original (sem item 17 próprio — o rol de requisitos absorve os subitens); sem ambiguidade de sentido, não registrado como achado"

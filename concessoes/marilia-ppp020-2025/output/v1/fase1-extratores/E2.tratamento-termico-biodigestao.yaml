@@ -1,0 +1,168 @@
+# FASE1 — Extrator E2 | Projeto: marilia-ppp020-2025 | CP 020/2025 — Prefeitura de Marília/SP
+# Documento: CADERNO III - ANEXO II.3 – DIRETRIZES TRATAMENTO E APROVEITAMENTO — TRATAMENTO TÉRMICO E BIODIGESTÃO (16 p.)
+# Prazos (triagem): esclarecimento e impugnação até 11/09/2026 — 19 dias úteis em 16/08/2026
+# Gerado em: 2026-08-16
+
+pontos:
+  - id: E2.tratamento-termico-biodigestao-001
+    documento_fonte: "Anexo II.3 (Diretrizes Tratamento Térmico e Biodigestão)"
+    dispositivo_editalicio: "Item 11.3 (Etapa 3) e Especificações Técnicas do Processo de Tratamento Térmico do Anexo II.3"
+    transcricao: "Sistema: Unidade de conversão térmica para queima controlada de CDR em caldeira de grelha móvel ou leito fluidizado; Faixa de Temperatura de Operação: 850–1.050°C na zona primária; até 1.100°C na zona secundária ...; Tempo de Residência dos Gases: ≥ 2 segundos a ≥ 850°C ... Durante o processo, o CDR é submetido à combustão controlada ..."
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Contradição interna do edital: o processo de referência da Etapa 3 (combustão controlada de CDR em caldeira de grelha/leito fluidizado, 850–1.050°C, residência de gases ≥2s, geração de vapor para turbina) configura tratamento térmico por incineração nos termos da Resolução CONAMA 316/2002, tecnologia expressamente vedada pelo Anexo II.2, item 2.f"
+    dispositivo_legal: "Resolução CONAMA n.º 316/2002; art. 5.º da Lei n.º 14.133/2021 (vinculação ao instrumento convocatório)"
+    relacao_outros_documentos: "Anexo II.2, item 2.f (vedação); Anexo II.4, item 8.2 (admite incineração); Anexo II.7, itens 18.6–18.7 (aplica a CONAMA 316 ao empreendimento); Resolução SIMA 47/2020 (recuperação energética com CDR)"
+    flag_tecnico: true
+    flag_reserva: false
+
+  - id: E2.tratamento-termico-biodigestao-002
+    documento_fonte: "Anexo II.3 (Diretrizes Tratamento Térmico e Biodigestão)"
+    dispositivo_editalicio: "Item 4.4 do Anexo II.3"
+    transcricao: "Aplicação de processos térmicos, incluindo, mas não se restringindo a incineração, gaseificação, pirólise ou tecnologias equivalentes;"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Admissão textual da incineração como processo elegível para a fração seca, em contradição frontal com a vedação do Anexo II.2, item 2.f"
+    dispositivo_legal: "art. 5.º da Lei n.º 14.133/2021"
+    relacao_outros_documentos: "Anexo II.2, item 2.f; Anexo II.4, item 8.2"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E2.tratamento-termico-biodigestao-003
+    documento_fonte: "Anexo II.3 (Diretrizes Tratamento Térmico e Biodigestão)"
+    dispositivo_editalicio: "Seções 3, 7 e 10 c/c Especificações Técnicas das Etapas 1 a 3 do Anexo II.3"
+    transcricao: "Os fluxogramas, parâmetros operacionais e configurações tecnológicas apresentados neste Anexo possuem caráter referencial, ilustrativo e não vinculante ... Os parâmetros técnicos ... constituem referências de mercado, não sendo obrigatórios ... [mas] Eficiências Mínimas de Separação ... Poder Calorífico Inferior (PCI): Mínimo de 14 MJ/kg (em conformidade com parâmetro contratual)"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Indefinição sobre o que vincula: o anexo declara três vezes que seus parâmetros são referenciais e não obrigatórios, mas as especificações trazem 'eficiências mínimas' e PCI 'em conformidade com parâmetro contratual', e o TR qualifica os KPIs como 'mandatários' — impossível saber o padrão exigível na proposta e na execução"
+    dispositivo_legal: "art. 5.º e art. 6.º, inciso XXIII, alínea 'a', da Lei n.º 14.133/2021"
+    relacao_outros_documentos: "TR item 9.5 (KPIs 'de caráter mandatário'); Anexo II.6 (pontuação por faixas)"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E2.tratamento-termico-biodigestao-004
+    documento_fonte: "Anexo II.3 (Diretrizes Tratamento Térmico e Biodigestão)"
+    dispositivo_editalicio: "Especificações Técnicas das Etapas 1 e 3 do Anexo II.3 (Desempenho Esperado)"
+    transcricao: "Recuperação de fração úmida para biodigestão: ≥85% ...; Recuperação de fração seca ...: ≥80% ...; Eficiência de Conversão Energética: 20–30% ...; Fator de Capacidade da Unidade: ≥ 85%; Disponibilidade Operacional: ≥ 90% ao longo do ano"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Parâmetros de desempenho divergentes dos KPIs do TR: segregação ≥85%/≥80% aqui vs 70% no TR; disponibilidade ≥90% aqui vs mínimo de 70% no TR; conversão energética em faixa 20–30% aqui vs mínimo de 25% no TR — três padrões distintos para os mesmos indicadores"
+    dispositivo_legal: "art. 5.º da Lei n.º 14.133/2021; art. 6.º, § 1.º, da Lei n.º 11.079/2004"
+    relacao_outros_documentos: "TR itens 9.5.1, 9.5.5; Anexo II.6, itens 5.1 e 5.3"
+    flag_tecnico: true
+    flag_reserva: true
+
+  - id: E2.tratamento-termico-biodigestao-005
+    documento_fonte: "Anexo II.3 (Diretrizes Tratamento Térmico e Biodigestão)"
+    dispositivo_editalicio: "Especificações do CDR (Etapa 1, alínea 'b') e Parâmetros de Processo do Tratamento Térmico (Etapa 3, alínea 'd') do Anexo II.3"
+    transcricao: "Umidade: ≤20% [Etapa 1] ... Umidade do CDR: Máximo de 20–25% para garantir estabilidade térmica [Etapa 3]"
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    descricao_breve: "Determinação 2 do TCE-SP (detalhar critérios do teor de umidade dos resíduos em cada fase do processo) atendida apenas parcialmente: umidade especificada só para o CDR e com dois limites divergentes (≤20% vs 20–25%); ausentes critérios para o RSD in natura, frações úmida e seca pós-segregação e digestato — a caracterização (inclusive umidade) é remetida à concessionária após a contratação (Anexo II.7, item 7)"
+    dispositivo_legal: "TC-001718.989.19-7, TCE-SP, Pleno, 13/03/2019 (determinação 2); art. 6.º, inciso XXIII, alínea 'a', da Lei n.º 14.133/2021"
+    relacao_outros_documentos: "Anexo II.7, item 7 (caracterização prévia à implantação, pela concessionária); Caderno I — Modelagem Técnico-Operacional (E4) — verificar se supre a lacuna"
+    flag_tecnico: true
+    flag_reserva: false
+
+  - id: E2.tratamento-termico-biodigestao-006
+    documento_fonte: "Anexo II.3 (Diretrizes Tratamento Térmico e Biodigestão)"
+    dispositivo_editalicio: "Figura 2 (Arranjo Tecnológico, p. 7), Figura 2 (Fluxograma da Biodigestão, p. 9) e itens 11.2–11.3 do Anexo II.3"
+    transcricao: "Figura Arranjo: RSD 200 t/dia; Metais/Vidros 10 t/dia; Fração Seca 68 t/dia; Fração Orgânica 90 t/dia; CO2 5 t/dia; Biometano 5.400 Nm³/dia; Digestato 54 m³/dia; Cinzas 3,4 t/dia; Rejeitos 32 t/dia. Texto e fluxograma da biodigestão: fração úmida 100 t/dia; biogás 10.873 m³/dia; biometano 5.526 Nm³/dia; digestato 109,6 m³/dia."
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Balanço de massa de referência internamente contraditório e incompleto: fração úmida de 90 t/dia (figura) vs 100 t/dia (texto); digestato de 54 vs 109,6 m³/dia; biometano de 5.400 vs 5.526 Nm³/dia; e o fluxo de 'rejeitos 32 t/dia' (84% de desvio) não contabiliza o destino do digestato (sem previsão de desidratação; destinação agrícola apenas 'conforme viabilidade') nem das cinzas — se digestato e cinzas não forem valorizados, a massa aterrada supera as metas anunciadas"
+    dispositivo_legal: "art. 6.º, inciso XXIII, alíneas 'a' e 'e', da Lei n.º 14.133/2021; art. 9.º da Lei n.º 12.305/2010"
+    relacao_outros_documentos: "TR item 9.5.3 (redução de até 50%); Anexo II.7, item 6 (<20% ao aterro); Caderno I (E4) — conferir balanço completo; padrão Marília ponto 14 (digestato sem desidratação)"
+    flag_tecnico: true
+    flag_reserva: false
+
+  - id: E2.tratamento-termico-biodigestao-007
+    documento_fonte: "Anexo II.3 (Diretrizes Tratamento Térmico e Biodigestão)"
+    dispositivo_editalicio: "Item 11.2, n.º 4, e Especificações Técnicas do Processo de Biodigestão (Desempenho Esperado) do Anexo II.3"
+    transcricao: "O biogás bruto gerado, com produção estimada de 10.873 m³/dia ... Produção específica de biogás: 80-120 Nm³/t SV alimentado ... Geração de digestato: 60-70% da massa alimentada (úmida)"
+    tipo_achado: IRREGULAR
+    categoria: erro_material
+    descricao_breve: "Produção de biogás declarada (10.873 m³/dia) incompatível com a produção específica indicada no próprio anexo: 100 t/dia de FORSU com 80–120 Nm³/t SV implicaria ordem de grandeza de 1.600–2.400 Nm³/dia (assumidas frações usuais de sólidos voláteis), cerca de 4 a 7 vezes menos que o declarado — as receitas de biometano/CO₂ derivam do número maior"
+    dispositivo_legal: "art. 6.º, inciso XXIII, alínea 'a', da Lei n.º 14.133/2021; art. 10, inciso I, alínea 'a', da Lei n.º 11.079/2004"
+    relacao_outros_documentos: "Caderno I e DRE (E4) — verificar premissas de receita de biometano/CO₂; parecer técnico Eleusis (subsídio Fase 2)"
+    flag_tecnico: true
+    flag_reserva: false
+
+  - id: E2.tratamento-termico-biodigestao-008
+    documento_fonte: "Anexo II.3 (Diretrizes Tratamento Térmico e Biodigestão)"
+    dispositivo_editalicio: "Item 11.3, n.º 2, e Especificações Técnicas do Tratamento Térmico (alínea 'h') do Anexo II.3"
+    transcricao: "O tratamento térmico é conduzido em sistema de conversão energética baseado em caldeira de alta eficiência, dimensionada para processar entre 16 e 25 toneladas por hora de CDR ... h) Produção de Vapor: Entre 16 e 25 t/h"
+    tipo_achado: IRREGULAR
+    categoria: erro_material
+    descricao_breve: "Caldeira 'dimensionada para processar 16–25 t/h de CDR' equivale a 384–600 t/dia — 6 a 9 vezes a produção declarada de CDR (68 t/dia); os mesmos números aparecem como 'produção de vapor (16–25 t/h)', indicando confusão entre alimentação de CDR e vazão de vapor no dimensionamento de referência"
+    dispositivo_legal: "art. 6.º, inciso XXIII, alínea 'a', da Lei n.º 14.133/2021"
+    relacao_outros_documentos: "Caderno I (E4) — conferir dimensionamento da unidade térmica"
+    flag_tecnico: true
+    flag_reserva: false
+
+  - id: E2.tratamento-termico-biodigestao-009
+    documento_fonte: "Anexo II.3 (Diretrizes Tratamento Térmico e Biodigestão)"
+    dispositivo_editalicio: "Item 11.3, n.º 3, e Especificações Técnicas do Tratamento Térmico do Anexo II.3"
+    transcricao: "capacidade nominal de geração de aproximadamente 2,5 MW/h dependendo da tecnologia a ser aplicada, valor sujeito a detalhamento na fase de modelagem final e projeto executivo ... Eficiência de Conversão Energética: 20–30% ..."
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    descricao_breve: "Determinação 7 do TCE-SP (informar especificações de desempenho, inclusive do sistema de conversão energética acoplado à gaseificação) descumprida: as únicas especificações de conversão referem-se a caldeira de queima direta de CDR com turbina a vapor; não há qualquer especificação de desempenho de sistema acoplado a gaseificação/pirólise (qualidade e limpeza do syngas, motores/turbinas a gás, eficiências); a capacidade é grafada em unidade inexistente ('2,5 MW/h') e remetida ao projeto executivo"
+    dispositivo_legal: "TC-001718.989.19-7, TCE-SP, Pleno, 13/03/2019 (determinação 7); art. 6.º, inciso XXIII, alínea 'a', da Lei n.º 14.133/2021"
+    relacao_outros_documentos: "TR item 9.5.5 (25% mínimo); Anexo II.6 (sem indicador de desempenho energético); Caderno I (E4)"
+    flag_tecnico: true
+    flag_reserva: false
+
+  - id: E2.tratamento-termico-biodigestao-010
+    documento_fonte: "Anexo II.3 (Diretrizes Tratamento Térmico e Biodigestão)"
+    dispositivo_editalicio: "Item 11.2, n.º 1, do Anexo II.3"
+    transcricao: "A operação inicia-se com a chegada da fração úmida, estimada em 100 toneladas por dia, composta majoritariamente por resíduos orgânicos provenientes de coleta seletiva ou de sistemas de segregação complementar."
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Origem da fração úmida contraditória com o TR: o TR prevê recebimento de RSD indiferenciado com segregação mecânica na planta, enquanto o Anexo II.3 supõe FORSU 'proveniente de coleta seletiva' — a interface com a coleta seletiva municipal (existência, responsabilidade, qualidade do material) não é definida em nenhum documento, tocando a determinação 5 do TCE-SP (responsabilidades sobre entrega/segregação em cada etapa)"
+    dispositivo_legal: "TC-001718.989.19-7, TCE-SP, Pleno, 13/03/2019 (determinação 5); art. 6.º, inciso XXIII, alínea 'a', da Lei n.º 14.133/2021"
+    relacao_outros_documentos: "TR item 4 (objeto) e item 9.2; achado E2.termo-referencia-019"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E2.tratamento-termico-biodigestao-011
+    documento_fonte: "Anexo II.3 (Diretrizes Tratamento Térmico e Biodigestão)"
+    dispositivo_editalicio: "Item 11.3, n.º 4, do Anexo II.3"
+    transcricao: "O processo térmico resulta na formação de cinzas, em quantidade estimada de 3,4 toneladas por dia. ... A destinação se dará conforme legislação aplicável, podendo incluir: envio a aterro industrial classe II, usos específicos em coprocessamento ..."
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    descricao_breve: "Cinzas do tratamento térmico (3,4 t/dia): classificação classe II presumida sem caracterização (cinzas de combustão de CDR podem ser classe I) e sem definição de responsabilidade/custo pelo transporte e disposição — o TR atribui ao Município apenas os rejeitos destinados ao aterro sanitário já contratado, que não recebe resíduos industriais"
+    dispositivo_legal: "art. 13 da Lei n.º 12.305/2010; Resolução CONAMA n.º 316/2002 (gestão de cinzas); art. 6.º, inciso XXIII, alínea 'e', da Lei n.º 14.133/2021"
+    relacao_outros_documentos: "TR itens 9.3 e 10.27; Matriz de Riscos (E3)"
+    flag_tecnico: true
+    flag_reserva: false
+
+  - id: E2.tratamento-termico-biodigestao-012
+    documento_fonte: "Anexo II.3 (Diretrizes Tratamento Térmico e Biodigestão)"
+    dispositivo_editalicio: "Item 11.1 (Etapa 1) e Figura 2 (Arranjo) do Anexo II.3"
+    transcricao: "os metais serão retirados do sistema por um ímã ... segrega os metais ferrosos para reciclagem [Figura: 'Metais/Vidros 10 ton/dia']. A fração seca pode ser encaminhada para o processo de tratamento térmico ..."
+    tipo_achado: IRREGULAR
+    categoria: ilegalidade
+    descricao_breve: "Rota de referência sem esgotamento da reciclagem antes do tratamento: a recuperação material limita-se a metais ferrosos/vidros (10 t/dia; 5% da massa), com papel e plásticos recicláveis integrando o CDR destinado à queima — desconformidade com a ordem de prioridade do art. 9.º da Lei 12.305/2010 (reciclagem antes do tratamento), com o art. 24 da CONAMA 316/2002 (programa prévio de segregação para reciclagem) e com a condição do art. 35 da NR 7/2024 da ANA"
+    dispositivo_legal: "art. 9.º, caput e § 1.º, da Lei n.º 12.305/2010; art. 24 da Resolução CONAMA n.º 316/2002; art. 35 da NR n.º 7/2024 da ANA (Resolução ANA 187/2024 — atribuição de artigo a confirmar no texto oficial)"
+    relacao_outros_documentos: "Anexo II.7, itens 5, 6 e 18.6 (transcreve o art. 24 da CONAMA 316 sem estruturar o programa); TR item 4 (objeto anuncia 'recuperação material'); PMGIRS (não disponibilizado)"
+    flag_tecnico: true
+    flag_reserva: false
+
+  - id: E2.tratamento-termico-biodigestao-013
+    documento_fonte: "Anexo II.3 (Diretrizes Tratamento Térmico e Biodigestão)"
+    dispositivo_editalicio: "Especificações Técnicas das Etapas 2 e 3 do Anexo II.3"
+    transcricao: "Conformidade: Resolução ANP 685/2017 e especificações da Rede de Gás Natural ... Tratamento da fração líquida para reuso ou lançamento conforme Resolução CONAMA 430/2011 ... Sistema de Limpeza de Gases: Multietapas – ciclones, lavadores, filtros, catalisadores ... Conformidade Emissões Atmosféricas: Atendimento integral às normas estaduais e federais, incluindo limites para particulados, NOx, SOx, dioxinas e furanos."
+    tipo_achado: CONFORME
+    descricao_breve: "Remissões normativas do biometano (ANP), do efluente líquido do digestato (CONAMA 430/2011) e do sistema de limpeza de gases com menção a dioxinas/furanos — itens de checklist verificados sem vício autônomo"
+    dispositivo_legal: "Resolução ANP n.º 685/2017; Resolução CONAMA n.º 430/2011; Resolução CONAMA n.º 316/2002"
+    relacao_outros_documentos: "Anexo II.1 (rol de poluentes incompleto — achado E2.diretrizes-plano-trabalho-003)"
+    flag_tecnico: false
+    flag_reserva: false
+
+manifesto_cobertura:
+  documento: "CADERNO III - ANEXO II.3 – DIRETRIZES TRATAMENTO E APROVEITAMENTO ... TRATAMENTO TÉRMICO E BIODIGESTÃO.pdf (16 p.)"
+  fonte_texto: "docs/extraido/ (903 linhas) — leitura integral; figuras conferidas no PDF nativo"
+  secoes_percorridas:
+    - "Introdução; 1. Objeto; 2. Diretriz geral; 3. Caráter referencial; 4. Estrutura mínima (4.1–4.5); 5. Desempenho mínimo; 6. Flexibilidade; 7. Parâmetros referenciais; 8. Responsabilidade; 9. Disposições finais; 10. Diretrizes de referência/arranjos alternativos; 11. Arranjos estudados (11.1 Etapa 1, 11.2 Etapa 2, 11.3 Etapa 3) com especificações técnicas"
+  trechos_ilegiveis: "Figuras não renderizadas no texto plano — conferidas no PDF nativo (p. 6–9): Figura 'Arranjo Tecnológico' (p. 7) e Figura 'Fluxograma do Processo de Biodigestão' (p. 9); valores das figuras transcritos no achado 006"
+  observacoes: "Divergências figura × texto registradas no achado 006 (90 vs 100 t/dia; 54 vs 109,6 m³/dia; 5.400 vs 5.526 Nm³/dia); cabeçalho das páginas indica 'Prefeitura de Marília — Secretaria de Meio Ambiente' com logomarcas de consultorias privadas (Aquarela, WBio)"

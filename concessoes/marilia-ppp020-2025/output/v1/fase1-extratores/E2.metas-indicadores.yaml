@@ -1,0 +1,96 @@
+# FASE1 — Extrator E2 | Projeto: marilia-ppp020-2025 | CP 020/2025 — Prefeitura de Marília/SP
+# Documento: CADERNO III - ANEXO II.6 - DAS METAS E OBRIGAÇÕES DA CONCESSÃO ADMINISTRATIVA E INDICADORES DE DESEMPENHO (7 p.)
+# Prazos (triagem): esclarecimento e impugnação até 11/09/2026 — 19 dias úteis em 16/08/2026
+# Gerado em: 2026-08-16
+
+pontos:
+  - id: E2.metas-indicadores-001
+    documento_fonte: "Anexo II.6 (Metas e Indicadores de Desempenho)"
+    dispositivo_editalicio: "Caput do Anexo II.6"
+    transcricao: "A CONCESSIONÁRIA deverá atender integralmente ao quanto previsto no PLANO MUNICIPAL DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS – PMGIRS, aprovado pela Lei 9.278/2021 no que tange às metas e obrigações ..."
+    tipo_achado: IRREGULAR
+    categoria: erro_material
+    descricao_breve: "PMGIRS referido como 'Lei 9.278/2021', enquanto o TR o identifica como Lei 9.278, de 26 de junho de 2025 — divergência sobre o diploma que veicula as metas vinculantes da concessão"
+    dispositivo_legal: "art. 19 da Lei n.º 12.305/2010; art. 5.º da Lei n.º 14.133/2021"
+    relacao_outros_documentos: "TR seção 2 e item 10.19 (Lei 9.278/2025); achado E2.termo-referencia-021 (PMGIRS não disponibilizado)"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E2.metas-indicadores-002
+    documento_fonte: "Anexo II.6 (Metas e Indicadores de Desempenho)"
+    dispositivo_editalicio: "Item 5.2 do Anexo II.6"
+    transcricao: "REDUÇÃO DE ENVIO AO ATERRO (20 PONTOS) ... Fórmula: 1 – (resíduos enviados ao aterro / resíduos recebidos). Desempenho: ≥ meta contratual = 20; até 10% abaixo = 10; > 10% abaixo = 0"
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    descricao_breve: "O indicador central da concessão pontua contra uma 'meta contratual' que nenhum documento fixa: o TR fala em 'redução de até 50%', o Anexo II.7 em destinação inferior a 20% ao aterro e o balanço do Anexo II.3 implica 84% de desvio — referência circular que inviabiliza a aferição objetiva"
+    dispositivo_legal: "art. 6.º, § 1.º, da Lei n.º 11.079/2004; art. 6.º, inciso XXIII, alínea 'e', da Lei n.º 14.133/2021"
+    relacao_outros_documentos: "TR item 9.5.3; Anexo II.7, item 6; Anexo II.3, Etapa 3, item 5; minuta do contrato (E3) — verificar se fixa a meta"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E2.metas-indicadores-003
+    documento_fonte: "Anexo II.6 (Metas e Indicadores de Desempenho)"
+    dispositivo_editalicio: "Itens 2, 4 (inciso V) e 5–6 do Anexo II.6"
+    transcricao: "vincular a remuneração da CONCESSIONÁRIA ao desempenho efetivo ... V. Aplicação do fator de desempenho sobre a contraprestação."
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    descricao_breve: "Mecanismo de remuneração por desempenho incompleto: o anexo prevê nota mensal de 0 a 100 e 'aplicação do fator de desempenho sobre a contraprestação', mas não traz a fórmula de conversão da nota em redução/glosa da contraprestação, nem faixas, limites ou procedimento — o núcleo do pagamento por desempenho fica indefinido"
+    dispositivo_legal: "art. 6.º, § 1.º, e art. 7.º da Lei n.º 11.079/2004; art. 6.º, inciso XXIII, alínea 'j', da Lei n.º 14.133/2021"
+    relacao_outros_documentos: "TR seção 18 (medições); minuta do contrato (E3) — verificar se disciplina o fator; Anexo IV (E4)"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E2.metas-indicadores-004
+    documento_fonte: "Anexo II.6 (Metas e Indicadores de Desempenho)"
+    dispositivo_editalicio: "Seção 6 do Anexo II.6 (Indicadores de Serviço — 30 pontos)"
+    transcricao: "6.1. RECLAMAÇÕES DE USUÁRIOS (10 PONTOS) — Índice de Reclamação por mil habitantes (IRU). 6.2. ATENDIMENTO (10 PONTOS) — percentual de solicitações atendidas dentro do prazo. 6.3. SATISFAÇÃO DO USUÁRIO (10 PONTOS) — pesquisa semestral"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "30% da nota de desempenho baseia-se em indicadores de interface com usuários (reclamações por mil habitantes, atendimento de solicitações, satisfação), mas o objeto não inclui coleta nem atendimento direto à população — a percepção do munícipe reflete serviços que permanecem municipais, avaliando a concessionária por desempenho alheio"
+    dispositivo_legal: "art. 6.º, § 1.º, da Lei n.º 11.079/2004 (critérios objetivos vinculados ao serviço concedido); art. 6.º, inciso XXIII, alínea 'e', da Lei n.º 14.133/2021"
+    relacao_outros_documentos: "TR item 4 (objeto restrito ao tratamento; coleta e disposição final permanecem com o Município)"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E2.metas-indicadores-005
+    documento_fonte: "Anexo II.6 (Metas e Indicadores de Desempenho)"
+    dispositivo_editalicio: "Itens 5.1 e 5.3 do Anexo II.6"
+    transcricao: "5.1: ≥ 95% = 20; 85% a 94% = 15; 70% a 84% = 10; < 70% = 0. 5.3: ≥ 90% = 15; 70% a 89% = 10; < 69% = 0"
+    tipo_achado: IRREGULAR
+    categoria: erro_material
+    descricao_breve: "Faixas de pontuação com lacunas e limiares incompatíveis com os demais documentos: intervalos não cobertos (94–95%, 84–85%, 69–70%) e pontuação plena de disponibilidade em ≥90%, enquanto o TR fixa mínimo 'mandatário' de 70% e o Anexo II.3 exige ≥90% — três réguas distintas para o mesmo indicador"
+    dispositivo_legal: "art. 6.º, § 1.º, da Lei n.º 11.079/2004; art. 5.º da Lei n.º 14.133/2021"
+    relacao_outros_documentos: "TR item 9.5.5; Anexo II.3 (Desempenho Esperado); achados E2.termo-referencia-009 e E2.tratamento-termico-biodigestao-004"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E2.metas-indicadores-006
+    documento_fonte: "Anexo II.6 (Metas e Indicadores de Desempenho)"
+    dispositivo_editalicio: "Item 5.4 e sistema de indicadores do Anexo II.6"
+    transcricao: "5.4. QUALIDADE DOS SUBPRODUTOS (15 PONTOS) — Mede a conformidade técnica dos produtos gerados (biogás, biometano, CDR, energia). Desempenho: Conforme especificações = 15; Parcialmente conforme = 8; Não conforme = 0"
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    descricao_breve: "Sistema de indicadores sem qualquer métrica de desempenho energético (kWh/t, eficiência de conversão, geração de biometano) e com o indicador de subprodutos aferido por critério não parametrizado ('parcialmente conforme', sem definição) — lacuna que toca a determinação 7 do TCE-SP (especificações de desempenho, inclusive do sistema de conversão energética)"
+    dispositivo_legal: "TC-001718.989.19-7, TCE-SP, Pleno, 13/03/2019 (determinação 7); art. 6.º, § 1.º, da Lei n.º 11.079/2004"
+    relacao_outros_documentos: "Anexo II.3 (especificações de conversão apenas para caldeira — achado E2.tratamento-termico-biodigestao-009)"
+    flag_tecnico: true
+    flag_reserva: false
+
+  - id: E2.metas-indicadores-007
+    documento_fonte: "Anexo II.6 (Metas e Indicadores de Desempenho)"
+    dispositivo_editalicio: "Seção 7 do Anexo II.6 (Pesquisa de Avaliação dos Serviços)"
+    transcricao: "A amostra deverá ser definida pelo PODER CONCEDENTE de maneira que a margem de erro tolerável para as informações seja de até 5%, para um grau de confiança de 95%."
+    tipo_achado: CONFORME
+    descricao_breve: "Pesquisa semestral de satisfação com parâmetros estatísticos definidos (margem de erro 5%, confiança 95%) e amostra definida pelo poder concedente — metodologia da pesquisa em si sem vício autônomo (a pertinência do indicador ao objeto é o achado 004)"
+    dispositivo_legal: "art. 6.º, § 1.º, da Lei n.º 11.079/2004"
+    relacao_outros_documentos: "Achado E2.metas-indicadores-004"
+    flag_tecnico: false
+    flag_reserva: false
+
+manifesto_cobertura:
+  documento: "CADERNO III - ANEXO II.6 - DAS METAS E OBRIGAÇÕES DA CONCESSÃO ADMINISTRATIVA E INDICADORES DE DESEMPENHO.pdf (7 p.)"
+  fonte_texto: "docs/extraido/ (353 linhas) — leitura integral"
+  secoes_percorridas:
+    - "Caput (PMGIRS e princípios); 1. Disposições gerais; 2. Finalidade; 3. Estrutura da avaliação (70+30 pontos); 4. Metodologia; 5. Indicadores operacionais (5.1–5.4); 6. Indicadores de serviço (6.1–6.3); 7. Pesquisa de avaliação"
+  trechos_ilegiveis: "Nenhum — tabelas de faixas simples, conferidas no texto plano"
+  observacoes: ""

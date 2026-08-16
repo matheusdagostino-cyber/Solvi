@@ -1,0 +1,60 @@
+# FASE1 — Extrator E2 | Projeto: marilia-ppp020-2025 | CP 020/2025 — Prefeitura de Marília/SP
+# Documento: CADERNO III - ANEXO II.4 – DAS DIRETRIZES DE ENGENHARIA DO EMPREENDIMENTO (8 p.)
+# Prazos (triagem): esclarecimento e impugnação até 11/09/2026 — 19 dias úteis em 16/08/2026
+# Gerado em: 2026-08-16
+
+pontos:
+  - id: E2.diretrizes-engenharia-001
+    documento_fonte: "Anexo II.4 (Diretrizes de Engenharia)"
+    dispositivo_editalicio: "Item 8.2 do Anexo II.4 (Fração Seca)"
+    transcricao: "Deverá ser tratada por processos térmicos, incluindo, mas não se restringindo a: Incineração com recuperação energética; Gaseificação; Pirólise; Tecnologias equivalentes."
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "'Incineração com recuperação energética' listada como primeira rota admitida para a fração seca, em contradição frontal com a vedação expressa da incineração no Anexo II.2, item 2.f"
+    dispositivo_legal: "art. 5.º da Lei n.º 14.133/2021; Resolução CONAMA n.º 316/2002"
+    relacao_outros_documentos: "Anexo II.2, item 2.f; Anexo II.3, item 4.4 e Etapa 3"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E2.diretrizes-engenharia-002
+    documento_fonte: "Anexo II.4 (Diretrizes de Engenharia)"
+    dispositivo_editalicio: "Item 14 do Anexo II.4 (Compatibilidade com o Contrato)"
+    transcricao: "A solução de engenharia deverá ser compatível com: O LOTE ao qual a PROPONENTE esteja concorrendo;"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Nova remissão ao 'LOTE' sem definição da estrutura de lotes no documento — dependência da definição incompleta do Anexo II.2 (Lote 4 vazio)"
+    dispositivo_legal: "art. 25, caput, e art. 40, § 2.º, da Lei n.º 14.133/2021"
+    relacao_outros_documentos: "Anexo II.2, seção 3; TR itens 4.6/4.7"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E2.diretrizes-engenharia-003
+    documento_fonte: "Anexo II.4 (Diretrizes de Engenharia)"
+    dispositivo_editalicio: "Item 4 do Anexo II.4 (Capacidade e Dimensionamento)"
+    transcricao: "Ser dimensionada para processar a totalidade dos resíduos sólidos domiciliares gerados ao longo da concessão; Considerar variações sazonais e crescimento populacional;"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Exigência de dimensionamento para a 'totalidade dos RSD ao longo da concessão' conflita com o TR, que fixa como 'parâmetro mínimo' o 'tratamento de ATÉ 200 t/dia' (expressão de teto usada como piso) e capacidade firme 'mínima inicial' de 200 t/dia — indefinição do requisito de capacidade que baliza CAPEX e proposta"
+    dispositivo_legal: "art. 6.º, inciso XXIII, alínea 'a', da Lei n.º 14.133/2021"
+    relacao_outros_documentos: "TR itens 9.5.4 e 10.19; Anexo II.2, item 3.1.2 ('totalidade dos RSD' no lote de biodigestão); Caderno I (E4) — projeção de geração"
+    flag_tecnico: true
+    flag_reserva: false
+
+  - id: E2.diretrizes-engenharia-004
+    documento_fonte: "Anexo II.4 (Diretrizes de Engenharia)"
+    dispositivo_editalicio: "Item 3 do Anexo II.4 (Nível de Detalhamento)"
+    transcricao: "O Plano de Trabalho deverá ser apresentado em nível conceitual, compatível com a fase licitatória, não sendo exigido detalhamento equivalente a projeto executivo."
+    tipo_achado: CONFORME
+    descricao_breve: "Exigência de detalhamento em nível conceitual na fase licitatória, com projeto executivo remetido à fase contratual — proporcional e conforme"
+    dispositivo_legal: "art. 18, § 3.º, e art. 25 da Lei n.º 14.133/2021; art. 10, inciso I, da Lei n.º 11.079/2004"
+    relacao_outros_documentos: "Anexo II.1 (conteúdo mínimo do Plano de Trabalho)"
+    flag_tecnico: false
+    flag_reserva: false
+
+manifesto_cobertura:
+  documento: "CADERNO III - ANEXO II.4 – DAS DIRETRIZES DE ENGENHARIA DO EMPREENDIMENTO.pdf (8 p.)"
+  fonte_texto: "docs/extraido/ (477 linhas) — leitura integral"
+  secoes_percorridas:
+    - "1. Objeto; 2. Diretriz geral; 3. Nível de detalhamento; 4. Capacidade e dimensionamento; 5. Conteúdo mínimo do Plano de Trabalho (5.1–5.5); 6. Recepção; 7. Segregação e trituração; 8. Tratamento das frações (8.1–8.2); 9. Produção e aproveitamento energético; 10. Sistemas auxiliares; 11. Disponibilidade e confiabilidade; 12. Manutenção; 13. Flexibilidade; 14. Compatibilidade com o contrato; 15. Responsabilidade; 16. Disposições finais"
+  trechos_ilegiveis: "Nenhum"
+  observacoes: "Documento essencialmente principiológico; requisitos quantitativos concentram-se no TR e no Anexo II.3"

@@ -1,0 +1,50 @@
+# FASE1 — Extrator E2 | Projeto: marilia-ppp020-2025 | CP 020/2025 — Prefeitura de Marília/SP
+# Documento: CADERNO III - ANEXO II.5 - DO PROGRAMA DE MONITORAMENTO AMBIENTAL DE ÁGUAS SUBTERRÂNEAS E AR DO SOLO (3 p.)
+# Prazos (triagem): esclarecimento e impugnação até 11/09/2026 — 19 dias úteis em 16/08/2026
+# Gerado em: 2026-08-16
+
+pontos:
+  - id: E2.monitoramento-ambiental-001
+    documento_fonte: "Anexo II.5 (Monitoramento Ambiental de Águas Subterrâneas e Ar do Solo)"
+    dispositivo_editalicio: "Itens 1, 2 e 3 do Anexo II.5"
+    transcricao: "A Licitante vencedora deverá elaborar monitoramento ambiental da qualidade das águas subterrâneas e ar do solo ... O monitoramento ambiental de área contaminada tem como objetivo verificar as concentrações dos contaminantes ... para ao final ... solicitar ao órgão ambiental a reabilitação do imóvel. ... deverá monitorar semanalmente o gás metano ... nos poços de monitoramento de gases existentes no interior do aterro sanitário"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Anexo transfere à concessionária o monitoramento (e a condução até a reabilitação) de área contaminada preexistente — poços 'existentes no interior do aterro sanitário' —, em contradição com o TR item 10.23, que declara a mitigação da área impactada pelo antigo lixão 'responsabilidade exclusiva da Prefeitura'; sem delimitação de baseline entre passivo preexistente e nova atividade"
+    dispositivo_legal: "Lei Estadual n.º 13.577/2009 (SP) e Decreto Estadual n.º 59.263/2013, art. 57; DD CETESB 038/2017/C; art. 5.º, inciso III, da Lei n.º 11.079/2004"
+    relacao_outros_documentos: "TR item 10.23; Matriz de Riscos do Contrato (E3) — verificar alocação do risco ambiental preexistente"
+    flag_tecnico: true
+    flag_reserva: false
+
+  - id: E2.monitoramento-ambiental-002
+    documento_fonte: "Anexo II.5 (Monitoramento Ambiental de Águas Subterrâneas e Ar do Solo)"
+    dispositivo_editalicio: "Itens 2 e 3 do Anexo II.5"
+    transcricao: "para ao final se constatada uma linearidade das concentrações desde que abaixo dos limites apontados no CMA, solicitar ao órgão ambiental a reabilitação do imóvel ... Serão coletadas amostras de água subterrânea nos poços de monitoramento instalados no site em tela"
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: omissao
+    fato_faltante: "Investigação confirmatória/detalhada da área, relatórios de monitoramento pregressos, rede de poços existente e valores de referência (CMA) — dados necessários para dimensionar o encargo de monitoramento e o risco do passivo; verificar se constam do Caderno I (E4) ou de anexo não disponibilizado"
+    descricao_breve: "O anexo pressupõe área contaminada com rede de poços e CMA definidos, mas nenhum dado da investigação da área (plumas, contaminantes de interesse, histórico) é disponibilizado — encargo não precificável pelas licitantes"
+    dispositivo_legal: "art. 18, § 1.º, incisos I e VIII, da Lei n.º 14.133/2021; Lei Estadual n.º 13.577/2009 (SP)"
+    relacao_outros_documentos: "Caderno I — Modelagem Técnico-Operacional (E4); TR item 10.23"
+    flag_tecnico: true
+    flag_reserva: false
+
+  - id: E2.monitoramento-ambiental-003
+    documento_fonte: "Anexo II.5 (Monitoramento Ambiental de Águas Subterrâneas e Ar do Solo)"
+    dispositivo_editalicio: "Item 3, n.º 3, do Anexo II.5"
+    transcricao: "A Licitante vendedora deverá monitorar semanalmente o gás metano com equipamento GEM 5000 nos poços de monitoramento de gases existentes no interior do aterro sanitário, bem como emitir relatórios mensais."
+    tipo_achado: IRREGULAR
+    categoria: restricao_competitividade
+    descricao_breve: "Indicação de equipamento por marca/modelo específico ('GEM 5000') sem a ressalva 'ou equivalente' — especificação dirigida vedada, ainda que em obrigação de execução"
+    dispositivo_legal: "art. 41, inciso I, da Lei n.º 14.133/2021"
+    relacao_outros_documentos: "—"
+    flag_tecnico: false
+    flag_reserva: false
+
+manifesto_cobertura:
+  documento: "CADERNO III - ANEXO II.5 - DO PROGRAMA DE MONITORAMENTO AMBIENTAL DE ÁGUAS SUBTERRÂNEAS E AR DO SOLO.pdf (3 p.)"
+  fonte_texto: "docs/extraido/ (95 linhas) — leitura integral"
+  secoes_percorridas:
+    - "1. Elaboração do monitoramento; 2. Objetivo do monitoramento de área contaminada; 3. Serviços de campo (coleta e análise de água subterrânea; monitoramento de gases; descontaminação; cadeia de custódia)"
+  trechos_ilegiveis: "Nenhum"
+  observacoes: "Erros de digitação sem repercussão ('Licitante vendedora') não registrados como achado"

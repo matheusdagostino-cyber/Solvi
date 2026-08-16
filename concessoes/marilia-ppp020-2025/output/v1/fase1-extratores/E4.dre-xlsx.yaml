@@ -1,0 +1,246 @@
+# FASE1 — Extrator E4 | Documento: CADERNO II - Anexo 1 - DEMONSTRATIVO DE RESULTADOS DO EXERCÍCIO DRE.xlsx (22 abas)
+# Projeto: marilia-ppp020-2025 | CP 020/2025 — Prefeitura de Marília/SP
+# Prazos (ficha/triagem): sessão 16/09/2026 | esclarecimento 11/09/2026 | impugnação 11/09/2026 | 19 dias úteis restantes em 16/08
+# Leitura: python3/openpyxl, todas as abas (valores e fórmulas) — 2026-08-16
+
+pontos:
+  - id: E4.dre-xlsx-001
+    documento_fonte: "Caderno II — Anexo 1 (DRE.xlsx)"
+    dispositivo_editalicio: "Aba Índice c/c abas Premissas e VfM do DRE.xlsx"
+    transcricao: "Índice: 'Demonstração de Fluxo de Caixa... MF A170 #REF!', 'Cálculo dos indicadores econômicos: VPL... MF A40 #REF!', 'WACC... MF A1518 #REF!', 'Análises de Sensibilidade... Controle A202 #REF!' [as abas 'Controle', 'MF' e 'Output 2' referenciadas não existem no arquivo publicado]; Premissas: 'Taxa de desconto para projeto: #REF!'; 'Taxa de desconto para acionista: #REF!'"
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    descricao_breve: "O modelo financeiro publicado está mutilado: as abas nucleares ('MF' — modelo econômico-financeiro, 'Controle' e 'Output 2') foram removidas, deixando #REF! em cadeia nas taxas de desconto, financiamento, fluxo de caixa, WACC e sensibilidade — o próprio Índice da planilha aponta para conteúdo inexistente; o modelo é inauditável e as licitantes não têm acesso às memórias de cálculo que o Caderno II manda consultar neste anexo"
+    dispositivo_legal: "TC-001718.989.19-7, TCE-SP, Pleno, 13/03/2019 (determinação 1 — disponibilizar detalhamento dos custos, estudos e premissas); art. 5.º e art. 25 da Lei n.º 14.133/2021 (publicidade e transparência)"
+    relacao_outros_documentos: "O Caderno II, item 13, remete expressamente a este anexo para 'análise detalhada do modelo referencial'"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E4.dre-xlsx-002
+    documento_fonte: "Caderno II — Anexo 1 (DRE.xlsx)"
+    dispositivo_editalicio: "Aba VfM do DRE.xlsx (linhas 4–28)"
+    transcricao: "Concessão: #REF! a.a. real; Contraprestação: #REF! [toda a série]; Impostos: #REF!; Fator de desconto: #REF! | PSC: 0,06 a.a. real — 'TESOURO IPCA+ 2035... Acesso em: 28/03/2023'; Sobrecusto/Desconto opção PSC: 0,20 / 0,20 / 0,04"
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    descricao_breve: "A única comparação quantitativa PSC × PPP do certame (aba VfM) está integralmente quebrada: todas as linhas do cenário 'Concessão' e os fatores de desconto retornam #REF!; sobram apenas a taxa do PSC (6% real, benchmark de 28/03/2023) e sobrecustos arbitrados (20%/20%/4%) sem fonte — a vantajosidade quantitativa exigida para PPP não está demonstrada em nenhum documento do certame (o Caderno II só traz adjetivos)"
+    dispositivo_legal: "art. 10, I, 'a', da Lei n.º 11.079/2004; TC-001718.989.19-7, TCE-SP, Pleno, 13/03/2019 (determinação 1)"
+    relacao_outros_documentos: "Cruzar com item 15 do Caderno II (tabela PSC×PPP qualitativa)"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E4.dre-xlsx-003
+    documento_fonte: "Caderno II — Anexo 1 (DRE.xlsx)"
+    dispositivo_editalicio: "Aba VfM do DRE.xlsx (linhas 35–74 — RCL e cenários de taxa)"
+    transcricao: "%RCL: 7.996,27 | [célula vizinha:] 'ERRO' | RCL 2020: 718,69; 2021: 753,66; 2022: 797,28 [MM R$, finbraRREO] | 'Cenário 1: taxa de R$ 14,8 por domicílio / mês' [com #REF! em 2025–2027]"
+    tipo_achado: IRREGULAR
+    categoria: erro_material
+    descricao_breve: "A análise de impacto fiscal está inutilizada: o comprometimento da contraprestação sobre a RCL é exibido como '7.996,27%' com a anotação 'ERRO' gravada na própria planilha (falha de unidade — deveria ser ~0,8%), sobre RCL histórica de 2020–2022; o estudo de cenário com taxa de lixo de R$ 14,80/domicílio/mês existe apenas na planilha e não é mencionado em nenhum caderno — a verificação do limite do art. 28 da Lei 11.079/2004 e a estimativa de impacto orçamentário ficam sem demonstração válida"
+    dispositivo_legal: "art. 10, II e III, e art. 28 da Lei n.º 11.079/2004; LC n.º 101/2000, arts. 16–17"
+    relacao_outros_documentos: "Nenhum caderno reproduz a análise de RCL/taxa — verificar se o E1/E3 encontram a estimativa de impacto orçamentário exigida pelo art. 10, II"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E4.dre-xlsx-004
+    documento_fonte: "Caderno II — Anexo 1 (DRE.xlsx)"
+    dispositivo_editalicio: "Abas Receita CP, Receita Acessórias, Capex, Opex, MacroEco e Premissas do DRE.xlsx"
+    transcricao: "Índice de inflação brasileira (IPCA): 28/02/2023 [data-base, em quatro abas]; OPEX 'k R$ @set/2022'; 'Preços unitários... 01/10/2020' [recicláveis]; fator alfa TLP até 2023; 'Fonte... Modelagem Econ-Finan CONVALE' [três células]; VfM: 'MM R$ @fev/23'"
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    descricao_breve: "A data-base efetiva do modelo é fev/2023 (com camadas de set/2022 e preços de recicláveis de out/2020) e diversas premissas declaram como fonte a 'Modelagem Econ-Finan CONVALE' — modelo reaproveitado de outro projeto/município e não atualizado, contrariando a data-base de fev/2025 declarada no Caderno II e a 'versão 07/2026' da capa; defasagem de 3,5 a 6 anos frente à sessão de 16/09/2026, muito além do parâmetro de 6 meses do TCE-SP"
+    dispositivo_legal: "parâmetro de atualidade de 6 meses do TCE-SP; TC-001718.989.19-7, TCE-SP, Pleno, 13/03/2019 (determinação 1); art. 23 da Lei n.º 14.133/2021"
+    relacao_outros_documentos: "Cruzar com item 2.1 do Caderno II (data-base declarada fev/2025)"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E4.dre-xlsx-005
+    documento_fonte: "Caderno II — Anexo 1 (DRE.xlsx)"
+    dispositivo_editalicio: "Blocos 'Controle' das abas LOTE 1, LOTE 2 e LOTE 3 do DRE.xlsx"
+    transcricao: "Contraprestação fixa: 2,85 MM R$/ano | Contraprestação variável - Parcela B Volume: 110 R$/ton | Contraprestação variável - Parcela C População: 4,73 R$/hab/mês | Considera limpeza urbana? 1 [1=sim;0=não] | colunas 'COM LPU' / 'SEM LPU' | Outorga variável: 0"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Os painéis de controle dos três LOTES operam com estrutura remuneratória de contrato de limpeza urbana alheia ao certame (parcela fixa de R$ 2,85 mi/ano, Parcela B de R$ 110/t, Parcela C de R$ 4,73/hab/mês, chave 'considera limpeza urbana = sim', cenários com/sem LPU) — resquício ativo do modelo de origem, sem correspondência com a composição de proposta do Anexo IV (preço/t + bens reversíveis), tornando indeterminado o que o modelo de referência efetivamente calcula"
+    dispositivo_legal: "art. 6.º, XXIII, da Lei n.º 14.133/2021; TC-001718.989.19-7, TCE-SP, Pleno, 13/03/2019 (determinação 1)"
+    relacao_outros_documentos: "Cruzar com a composição da proposta do Anexo IV e itens 8.1/12 do Caderno II"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E4.dre-xlsx-006
+    documento_fonte: "Caderno II — Anexo 1 (DRE.xlsx)"
+    dispositivo_editalicio: "Abas LOTE 1 (Controle × Waterfall VPL), LOTE 2 e LOTE 3 do DRE.xlsx c/c item 13.3 do Caderno II"
+    transcricao: "LOTE 1: VPL 93.296.696,22 'MM R$' [Controle] × VPL 30.075.359,70 [Waterfall]; LOTE 3: VPL 95.957.005,65 × 102.015.699,81; LOTE 2: VPL 62.373.296,72 | TIR projeto 0,12 | Payback 6,70 [× Caderno II, Hip. 3: mesmo VPL com 'TIR projeto 5,70%' e 'Payback 10 anos']"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Indicadores de viabilidade duplicados e conflitantes: cada aba LOTE traz dois VPLs distintos para o mesmo cenário (ex.: R$ 93,3 mi no painel × R$ 30,1 mi no waterfall do LOTE 1) e TIR de 12% com payback de 6,7 anos, enquanto o Caderno II publica, para o mesmo VPL do lote térmico (R$ 62,37 mi), TIR de 5,70% e payback de 10 anos — nenhum par é conciliável e a linha 'Fluxo de caixa livre para firma' soma acumulados (R$ 5,1 a 9,3 bilhões) sem sentido econômico"
+    dispositivo_legal: "art. 10, I, 'a', da Lei n.º 11.079/2004; TC-001718.989.19-7, TCE-SP, Pleno, 13/03/2019 (determinação 1)"
+    relacao_outros_documentos: "Cruzar com o bloco 'Controle' impresso no Caderno II, p. 56"
+    flag_tecnico: true
+    flag_reserva: false
+
+  - id: E4.dre-xlsx-007
+    documento_fonte: "Caderno II — Anexo 1 (DRE.xlsx)"
+    dispositivo_editalicio: "Abas LOTE 1/2/3, linhas OPEX e EBIT do DRE.xlsx"
+    transcricao: "LOTE 1, 2027: Receita 19.032.155,74 | Impostos -5.527.848,25 | OPEX -5.222.794,20 | Depreciação -4.060.000 | (=) EBIT 9.444.307,49 [= Receita − Impostos − Depreciação; o OPEX não é subtraído]"
+    tipo_achado: IRREGULAR
+    categoria: erro_material
+    descricao_breve: "Confirmado na planilha-fonte o vício aritmético das DREs do Caderno II: o EBIT das três abas LOTE ignora a linha de OPEX (EBIT = Receita − Impostos − Depreciação), superestimando o resultado operacional de referência em R$ 178 a 333 milhões acumulados por lote — o vício está na fórmula do modelo, não apenas na transcrição do caderno"
+    dispositivo_legal: "art. 6.º, XXIII, 'i', da Lei n.º 14.133/2021; art. 10, I, da Lei n.º 11.079/2004"
+    relacao_outros_documentos: "Mesmo vício transcrito nas DREs impressas do Caderno II, item 13 (ver extrator do Caderno II)"
+    flag_tecnico: true
+    flag_reserva: false
+
+  - id: E4.dre-xlsx-008
+    documento_fonte: "Caderno II — Anexo 1 (DRE.xlsx)"
+    dispositivo_editalicio: "Aba OPERACIONAL do DRE.xlsx (linhas 11–17)"
+    transcricao: "REJEITOS NÃO VALORIZADOS / Massa aterrada total: 2025: 10.091,20 t; 2026: 38.777,70 t; ... 2059: 49.855,30 t [= rejeito (16%) + fração úmida (45%); apenas fração seca e metais/vidros são valorizados a partir de 2026]"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "O balanço operacional do modelo manda a fração úmida (45% da massa) para o aterro em todos os anos a partir de 2026 — massa aterrada de ~61% da geração —, incompatível com a biodigestão dos LOTES 1 e 3, com as metas de desvio de 45%/79% e com as receitas de biometano/CO₂ calculadas nas mesmas planilhas; e no ano 2025 (pré-operacional) aterra apenas o rejeito de 16%, invertendo a lógica temporal — corrobora o texto do Caderno I que manda a fração orgânica 'para o aterro'"
+    dispositivo_legal: "art. 9.º da Lei n.º 12.305/2010; art. 6.º, XXIII, da Lei n.º 14.133/2021; TC-001718.989.19-7, TCE-SP, Pleno, 13/03/2019 (determinação 1)"
+    relacao_outros_documentos: "Cruzar com metas do Anexo II.6 e com o item 6.3.1 do Caderno I (fração orgânica → aterro)"
+    flag_tecnico: true
+    flag_reserva: false
+
+  - id: E4.dre-xlsx-009
+    documento_fonte: "Caderno II — Anexo 1 (DRE.xlsx)"
+    dispositivo_editalicio: "Abas OPERACIONAL e Output 1 - BIO+GAS c/c aba Apoio do DRE.xlsx"
+    transcricao: "OPERACIONAL/Output: População atendida 2025: 236.158,93 hab → 2028: 254.313 [salto]; 2046: 294.098; 2047: 294.098 [repetido] | Apoio/Caderno II: 2025: 248.526 hab"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Duas séries populacionais incompatíveis dentro do mesmo modelo: as abas operacionais partem de 236.159 hab (12 mil abaixo da série do caderno), com salto abrupto em 2028 e valor duplicado em 2046–2047, enquanto a aba Apoio (fonte das tabelas do caderno) parte de 248.526 hab — a demanda que remunera a concessionária deriva de série inconsistente"
+    dispositivo_legal: "art. 6.º, XXIII, da Lei n.º 14.133/2021"
+    relacao_outros_documentos: "Cruzar com item 2.5 do Caderno II e item 4 do Caderno I"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E4.dre-xlsx-010
+    documento_fonte: "Caderno II — Anexo 1 (DRE.xlsx)"
+    dispositivo_editalicio: "Aba Receita CP c/c abas LOTE 1/2/3 do DRE.xlsx"
+    transcricao: "Receita CP: 'Contraprestação anual... fator 114 R$/ton' sobre 63.070→79.320 t/ano, com 'CP unitário RSU corrigido' de 122,14 R$/t (2025) ['Fonte: Cotações de destinação final disponibilizadas pela Pr...'] | Abas LOTE: '(+) Receita Contraprestação fixa 6.739.200' constante [= 108 R$/t × 62.400 t]"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "O modelo contém duas contraprestações incompatíveis: a aba Receita CP calcula R$ 114/t (corrigido a R$ 122–296/t) sobre tonelagem crescente, mas as DREs dos LOTES usam R$ 6.739.200/ano constantes (R$ 108/t sobre 62.400 t fixas) — a aba de receita não alimenta as DREs, e nenhum dos dois valores concilia com o caderno impresso"
+    dispositivo_legal: "art. 6.º, XXIII, 'i', da Lei n.º 14.133/2021; TC-001718.989.19-7, TCE-SP, Pleno, 13/03/2019 (determinação 1)"
+    relacao_outros_documentos: "Mesma divergência 108 × 114 apontada no extrator do Caderno II (ponto 004)"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E4.dre-xlsx-011
+    documento_fonte: "Caderno II — Anexo 1 (DRE.xlsx)"
+    dispositivo_editalicio: "Abas OPEX Input, Opex e LOTE 1/2/3 do DRE.xlsx"
+    transcricao: "OPEX Input (BIO+GÁS): 10.396.951,80/ano [itens 'mês | 35'; inclui 'Despesas mão de obra Biodigestão (3 turnos)' na URE GÁS] | Aba Opex (BIO+GÁS): 'Total anual 171.613.648,18' (2027), 'Mão de Obra 103.000.707' ['k R$ @set/2022'] | Abas LOTE: OPEX -5.222.794,20/ano"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Três camadas de OPEX inconciliáveis no mesmo modelo — R$ 10,4 mi/ano no OPEX Input, R$ 171,6 mi/ano na aba Opex (ordem de grandeza incompatível, unidades trocadas) e R$ 5,2 mi/ano nas DREs; itens com quantidade '35' em unidade 'mês', e a URE GÁS (rota térmica pura) carrega custo de 'mão de obra Biodigestão' — cópia sem ajuste entre cenários"
+    dispositivo_legal: "TC-001718.989.19-7, TCE-SP, Pleno, 13/03/2019 (determinação 1); art. 6.º, XXIII, 'i', da Lei n.º 14.133/2021"
+    relacao_outros_documentos: "Cruzar com item 6 do Caderno II (OPEX 'referencial' sem números no texto)"
+    flag_tecnico: true
+    flag_reserva: false
+
+  - id: E4.dre-xlsx-012
+    documento_fonte: "Caderno II — Anexo 1 (DRE.xlsx)"
+    dispositivo_editalicio: "Abas CAPEX_Input e Capex do DRE.xlsx"
+    transcricao: "CAPEX_Input: 'Equipamentos | un | 101.500.000 | 1' [BIO+GÁS]; 'Equipamentos | un | 46.500.000 | 1'; 'Equipamentos | un | 55.000.000 | 1'; 'Licenciamento... 375.000'; 'Custos pré-operacionais 900.000' [idênticos nas três UREs]; Preço Unitário '-1' | Aba Capex: URE BIO+GÁS 5.505.675,31 'K R$' [@fev/23]"
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    descricao_breve: "O 'detalhamento' de CAPEX do modelo é uma linha única de 'Equipamentos, un, quantidade 1' por lote, sem qualquer composição de custos (obras civis, sistemas, montagem); licenciamento (R$ 375 mil) e pré-operacionais (R$ 900 mil) idênticos para os três lotes; e a aba Capex de cronograma/depreciação opera em base distinta ('K R$' de fev/2023, totais de R$ 5,5/2,6/3,0 mi) inconciliável com o input — a determinação de detalhamento dos custos segue descumprida na própria planilha"
+    dispositivo_legal: "TC-001718.989.19-7, TCE-SP, Pleno, 13/03/2019 (determinação 1); art. 6.º, XXIII, 'i', da Lei n.º 14.133/2021"
+    relacao_outros_documentos: "Cruzar com itens 9.5–9.11 do Caderno I (mesmos 7 macrovalores sem memória)"
+    flag_tecnico: true
+    flag_reserva: false
+
+  - id: E4.dre-xlsx-013
+    documento_fonte: "Caderno II — Anexo 1 (DRE.xlsx)"
+    dispositivo_editalicio: "Aba TRIBUTAÇÃO do DRE.xlsx c/c item 11.18.1 do Caderno II"
+    transcricao: "ATIVIDADE 1 - PRESTAÇÃO DE SERVIÇOS: ISS 2% + PIS/COFINS 9% + IRPJ+CSLL 8% = 19% ['¹ Lucro presumido'] | ATIVIDADE 2 - VENDA BIOMETANO: ICMS 12% + PIS/COFINS 9% + 'IRPJ + COFINS' 2% = 23%"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Regime tributário do modelo (lucro presumido, IRPJ+CSLL de 8% sobre a receita) contradiz o Caderno II, que declara lucro real obrigatório com alíquota de 34% sobre o lucro — os impostos das DREs são calculados sobre receita bruta e rotulados 'sobre EBIT'; rubrica grafada 'IRPJ + COFINS' e alíquotas sem fonte normativa"
+    dispositivo_legal: "art. 6.º, XXIII, 'i', da Lei n.º 14.133/2021; TC-001718.989.19-7, TCE-SP, Pleno, 13/03/2019 (determinação 1)"
+    relacao_outros_documentos: "Cruzar com item 11.18.1 do Caderno II (34% lucro real)"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E4.dre-xlsx-014
+    documento_fonte: "Caderno II — Anexo 1 (DRE.xlsx)"
+    dispositivo_editalicio: "Aba Premissas do DRE.xlsx (Timing e Financiamento)"
+    transcricao: "Anos de projeto: 35 | Término de projeto: 01/01/2060 | 1º ano de operação: 2027 | Alavancagem: 0 [em todas as 8 linhas de financiamento] | Linha de financiamento: FINEM... Início de captação: 2024 | 'Baseado em condições de financiamento do PIL 2015' | CAPEX DE MANUTENÇÃO: % de valor reinvestido: #REF!"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Premissas estruturais do modelo incompatíveis com o certame: horizonte de 35 anos (2025–2059, término 2060) para concessão de 30; alavancagem zerada em todas as linhas (contradizendo a estrutura 80/20 do Caderno II), com parâmetros de financiamento herdados (FINEM/FINAME, captação iniciando em 2024, referência ao PIL 2015); e o CAPEX de manutenção/reinvestimento retorna #REF! — confirmando que o modelo não computa reposição de ativos"
+    dispositivo_legal: "art. 5.º, I, da Lei n.º 11.079/2004 (prazo); art. 6.º, XXIII, 'i', da Lei n.º 14.133/2021; TC-001718.989.19-7, TCE-SP, Pleno, 13/03/2019 (determinação 1)"
+    relacao_outros_documentos: "Cruzar com prazo de 30 anos do contrato e com itens 2.1/11.12 do Caderno II (contradição sobre alavancagem)"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E4.dre-xlsx-015
+    documento_fonte: "Caderno II — Anexo 1 (DRE.xlsx)"
+    dispositivo_editalicio: "Abas Output 1 - BIO+GAS, MacroEco e Apoio do DRE.xlsx"
+    transcricao: "Output: Selic 0,08 [8% a.a. constante em 35 anos]; ano 1 = 2024 | OPERACIONAL: ano 1 = 2025 | Premissas: 1º ano de projeção = 2026 | Apoio: tabelas macro e de demanda duplicadas com deslocamento de um ano (2025 = ano 1 × 2026 = ano 1)"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Cronologias divergentes entre abas (ano 1 ora 2024, ora 2025, ora 2026) e premissas macro do Output (Selic constante de 8% a.a.) que não correspondem à tabela do próprio caderno (Selic 15% → 6,5%); a aba Apoio traz as mesmas tabelas em duas versões deslocadas de um ano — sem definição de qual série alimenta o quê"
+    dispositivo_legal: "art. 6.º, XXIII, 'i', da Lei n.º 14.133/2021; TC-001718.989.19-7, TCE-SP, Pleno, 13/03/2019 (determinação 1)"
+    relacao_outros_documentos: "Cruzar com item 2.2 do Caderno II (tabela Selic/IPCA/PIB)"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E4.dre-xlsx-016
+    documento_fonte: "Caderno II — Anexo 1 (DRE.xlsx)"
+    dispositivo_editalicio: "Aba Receita Acessórias do DRE.xlsx"
+    transcricao: "Receitas Acessórias [linha-total]: #REF! [toda a série] | Venda de Recicláveis: 4,71 R$/ton [série 2024→] | 'Preços unitários... 01/10/2020' | Vidro 946 t/ano; Metal 2.207 t/ano"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "A aba de receitas acessórias tem a linha-total inteira em #REF! e precifica recicláveis a ~R$ 4,71/t com preços unitários de 01/10/2020 — origem do valor irrisório de 'Receita Reciclável' das DREs (~R$ 5 mil/ano para 3.154 t/ano); a previsão de receitas acessórias determinada pelo TCE-SP em 2019 permanece sem quantificação confiável"
+    dispositivo_legal: "TC-001718.989.19-7, TCE-SP, Pleno, 13/03/2019 (determinação 3 — informar a previsão das receitas acessórias)"
+    relacao_outros_documentos: "Cruzar com ponto 023 do extrator do Caderno II"
+    flag_tecnico: true
+    flag_reserva: false
+
+conformes:
+  - id: E4.dre-xlsx-C01
+    documento_fonte: "Caderno II — Anexo 1 (DRE.xlsx)"
+    dispositivo_editalicio: "Aba CAPEX_Input do DRE.xlsx"
+    transcricao: "Equipamentos: 101.500.000 [BIO+GÁS] / 46.500.000 [BIO] / 55.000.000 [GÁS]"
+    tipo_achado: CONFORME
+    descricao_breve: "Os valores agregados de equipamentos do CAPEX_Input conferem com os montantes declarados nos Cadernos I e II (R$ 101,5 / 46,5 / 55 mi) — consistência inter-documental verificada neste item (sem prejuízo da ausência de composição, ponto 012)"
+    dispositivo_legal: "—"
+    relacao_outros_documentos: "Cadernos I (item 9) e II (item 5)"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E4.dre-xlsx-C02
+    documento_fonte: "Caderno II — Anexo 1 (DRE.xlsx)"
+    dispositivo_editalicio: "Estrutura de abas do DRE.xlsx"
+    transcricao: "Abas: Capa, Índice, LOTE 3, Premissas, Apoio, VfM, LOTE 1, LOTE 2, OPERACIONAL, Receita Acessórias, Receita CP, Capex, CAPEX_Input, Opex, OPEX Input, MacroEco, Output 1 - BIO+GAS, DRE_URE MARÍLIA-BIO+GAS, DRE_URE MARÍLIA-BIO, DRE_URE MARÍLIA-GAS, TRIBUTAÇÃO, End"
+    tipo_achado: CONFORME
+    descricao_breve: "As 20 abas de conteúdo anunciadas existem e a correspondência LOTE 1=biodigestão, LOTE 2=térmico, LOTE 3=integrada é coerente com a definição de lotes dos Cadernos I/II — porém não existe aba para o LOTE 4 (tecnologia alternativa) previsto nos cadernos, divergência estrutural anotada no ponto 004 do extrator do Caderno I"
+    dispositivo_legal: "—"
+    relacao_outros_documentos: "Caderno I, itens 9.1–9.4 (4 lotes)"
+    flag_tecnico: false
+    flag_reserva: false
+
+manifesto_cobertura:
+  documento: "CADERNO II - Anexo 1 - DEMONSTRATIVO DE RESULTADOS DO EXERCÍCIO DRE.xlsx (22 abas, 20 de conteúdo)"
+  metodo: "python3 + openpyxl (data_only=True e False); dump integral de cada aba em texto para análise; verificação aritmética por amostragem (EBIT, contraprestação implícita, massa aterrada)"
+  abas_conferidas:
+    - "Capa/End: capa e encerramento (chartsheet/vazias) — sem conteúdo material"
+    - "Índice: mapa do modelo — aponta para abas 'Controle', 'MF' e 'Output 2' INEXISTENTES no arquivo (links #REF!) [ponto 001]"
+    - "LOTE 1 (=BIO): painel Controle (VPL/TIR/parcelas de limpeza urbana), waterfall nominal/real, VPL [pontos 005, 006, 007]"
+    - "LOTE 2 (=GÁS): idem, VPL 62,37 mi, TIR 12% [ponto 006]"
+    - "LOTE 3 (=BIO+GÁS): idem, dois VPLs (95,9/102,0 mi) [ponto 006]"
+    - "Premissas: valoração (2026), timing (35 anos, término 2060), financiamento FINEM/FINAME/CAIXA com alavancagem 0 e #REF!, CAPEX de manutenção #REF!, vida útil fiscal/efetiva, tributos (fonte CONVALE) [pontos 004, 014]"
+    - "Apoio: tabelas macro e de demanda em duas versões deslocadas de um ano [ponto 015]"
+    - "VfM: comparação Concessão × PSC toda em #REF!; RCL 2020–2022; comprometimento RCL '7.996,27' com célula 'ERRO'; cenário taxa R$ 14,80/dom/mês [pontos 002, 003]"
+    - "OPERACIONAL: demanda 63.070→81.730 t/ano; massa aterrada = rejeito + fração úmida desde 2026 [pontos 008, 009]"
+    - "Receita Acessórias: linha-total #REF!; recicláveis R$ 4,71/t @out/2020; câmbio USD/EUR [ponto 016]"
+    - "Receita CP: contraprestação 114 R$/t × tonelagem crescente; CP corrigido 122→296 R$/t; parcelas A/B [ponto 010]"
+    - "Capex: cronograma/depreciação em 'K R$' @fev/2023 (totais 5,5/2,6/3,0 mi) [ponto 012]"
+    - "CAPEX_Input: equipamentos em linha única por lote (101,5/46,5/55 mi), licenciamento 375 mil [pontos 012, C01]"
+    - "Opex: totais anuais 20,8→171,6 mi 'k R$ @set/2022' — ordem de grandeza incompatível [ponto 011]"
+    - "OPEX Input: itens por URE (quantidade '35', unidade 'mês'); mão de obra de biodigestão na URE GÁS [ponto 011]"
+    - "MacroEco: séries históricas FGVDados, índices base 2023-02-28 e [2026=1,00] [pontos 004, 015]"
+    - "Output 1 - BIO+GAS: ano 1 = 2024; Selic 8% constante; população 236.159 [pontos 009, 015]"
+    - "DRE_URE MARÍLIA-BIO+GAS / -BIO / -GAS: DREs anuais por hipótese (receita 19.027.080/29.946.280 — espelham as abas LOTE com pequenas divergências de recicláveis); mesmas premissas"
+    - "TRIBUTAÇÃO: alíquotas por atividade (lucro presumido; 'IRPJ + COFINS') [ponto 013]"
+  formulas_e_valores: "Workbook aberto também com data_only=False; células com fórmulas quebradas (#REF!) identificadas nas abas Índice, Premissas, VfM e Receita Acessórias"
+  lacunas: "Abas 'Controle', 'MF' e 'Output 2' referenciadas pelo Índice não existem no arquivo publicado — impossível auditar fluxo de caixa completo, WACC e sensibilidade (registrado como achado 001)"
