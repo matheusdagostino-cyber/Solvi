@@ -11,7 +11,7 @@ Um repositório único, um diretório por certame. Não abrir repositório novo 
 ferramentas/novo_projeto.sh concessao rio-claro-conc032-2026
 ```
 
-O script cria o diretório a partir de `_template/` e abre a ficha do projeto para preenchimento. Sem o script, basta copiar o template:
+O script cria o diretório a partir de `_template/` e lista os próximos passos. Sem o script, basta copiar o template:
 
 ```bash
 cp -r concessoes/_template concessoes/rio-claro-conc032-2026
@@ -32,7 +32,7 @@ Depois:
 | Modalidade | Prefixo | Exemplo |
 |---|---|---|
 | Concorrência (concessão comum) | `conc` | `marilia-conc020-2025` |
-| Concorrência (PPP patrocinada/administrativa) | `ppp` | `rio-claro-ppp032-2026` |
+| Concorrência (PPP patrocinada/administrativa) | `ppp` | `santos-ppp008-2026` |
 | Chamamento público / PMI / MIP | `pmi` | `macaiba-pmi003-2026` |
 
 Município com nome composto mantém os hífens: `sao-jose-dos-campos-conc011-2026`.

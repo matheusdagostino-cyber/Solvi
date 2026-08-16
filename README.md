@@ -35,13 +35,15 @@ Repositório único para todos os certames — um diretório por projeto, não u
 - Variável de ambiente `LEINAMAO_API_KEY` configurada
 - Conector Jus IA habilitado na conta Claude (MCP)
 - Python 3.10+ (para `buscar_tce.py`)
+- Node.js (biblioteca `docx` via npm, para os exports .docx)
 - Pandoc e Poppler (`pdftotext`, `pdftoppm`) instalados no ambiente
+- Tesseract com pacote de idioma português (`por`), para PDFs escaneados
 
 ## Fluxo de trabalho
 
 O pipeline opera em três fases:
 
-**Fase 1 — Varredura.** Os agentes extratores leem todos os documentos do edital e produzem uma lista bruta de pontos identificados, sem filtro. O consolidador agrupa, cruza referências entre documentos e elimina duplicatas. Output: lista consolidada.
+**Fase 1 — Varredura.** Após a triagem (arquivo → extrator, conferência de anexos e prazos), os agentes extratores leem todos os documentos do edital e capturam os achados materiais. O consolidador agrupa, cruza referências entre documentos, elimina duplicatas e funde sub-questões — entregando uma lista depurada de 15–30 pontos substanciais. Output: lista consolidada.
 
 **Fase 2 — Análise.** O advogado seleciona pontos da lista. Para cada ponto selecionado, o analista normativo desenvolve o argumento, busca jurisprudência (Lei na Mão + Jus IA) e antecipa contra-argumentos. O roteador sugere canal (impugnação / esclarecimento / representação TCE) e foro. Output: matriz de argumentos.
 
@@ -64,12 +66,12 @@ EXPORTAR RIOCLARO [projeto]                  → gerar .docx no formato Tracker 
 | Formato | Uso | Colunas |
 |---|---|---|
 | **Matriz de Argumentos** (Marília) | Entregável principal de análise | Nº, Tema, Problema, Argumento, Fundamento, Esclarecimentos?, Aplicação |
-| **Tracker de Pontos** (Rio Claro) | Acompanhamento de republicação de edital | Nº, Previsão editalícia, Comentário, Manutenção na republicação |
+| **Tracker de Pontos** (Rio Claro) | Acompanhamento de republicação de edital | Nº, Previsão editalícia, Comentário, Probabilidade de acolhimento (preenchida só pelo advogado), Manutenção na republicação |
 
 ## Criando um novo projeto
 
 ```bash
-ferramentas/novo_projeto.sh concessao rio-claro-ppp032-2026
+ferramentas/novo_projeto.sh concessao rio-claro-conc032-2026
 ```
 
 O script copia o esqueleto de `concessoes/_template/` (ficha do certame, `CLAUDE.md` do projeto, `docs/`, `output/`) para o novo diretório. Em seguida:
@@ -79,7 +81,7 @@ O script copia o esqueleto de `concessoes/_template/` (ficha do certame, `CLAUDE
 3. Registre o projeto no índice de `concessoes/README.md`
 4. No Claude Code, execute `FASE1 [projeto]`
 
-Regime jurídico: pregão/concorrência da Lei 14.133 → `licitacao`; concessão/PPP → `concessao`. Convenção de nome do diretório: `[municipio]-[modalidade][numero]-[ano]` (ex.: `macaiba-pe023-2026`, `marilia-conc020-2025`). Detalhes em [`concessoes/README.md`](concessoes/README.md).
+Regime jurídico: pregão/concorrência da Lei 14.133 → `licitacao`; concessão/PPP → `concessao`. Convenção de nome do diretório: `[municipio]-[modalidade][numero]-[ano]` (ex.: `macaiba-pe023-2026`, `marilia-conc020-2025`). Prefixos de modalidade em [`concessoes/README.md`](concessoes/README.md) e [`licitacoes-14133/README.md`](licitacoes-14133/README.md).
 
 ## Regras de segurança
 

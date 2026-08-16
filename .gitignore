@@ -9,11 +9,15 @@ __pycache__/
 .venv/
 venv/
 
+# Node (biblioteca docx para geração dos exports)
+node_modules/
+
 # Artefatos temporários de extração/OCR
 # (imagens intermediárias de pdftoppm — o texto extraído em docs/extraido/ é versionado)
-**/docs/**/pagina-*.jpg
-**/docs/**/pagina-*.png
-**/docs/**/*.ocr.tmp
+pagina-*.jpg
+pagina-*.png
+pagina-*.ppm
+*.ocr.tmp
 
 # Sistema
 .DS_Store

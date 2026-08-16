@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # Cria um diretório de projeto a partir do template do regime jurídico.
 #
-#   ferramentas/novo_projeto.sh concessao rio-claro-ppp032-2026
+#   ferramentas/novo_projeto.sh concessao rio-claro-conc032-2026
 #   ferramentas/novo_projeto.sh licitacao macaiba-pe023-2026
 #
 # Convenção de nome: [municipio]-[modalidade][numero]-[ano]
@@ -15,7 +15,7 @@ uso: novo_projeto.sh <regime> <nome-do-projeto>
 
   regime          concessao | licitacao
   nome-do-projeto [municipio]-[modalidade][numero]-[ano]
-                  ex.: rio-claro-ppp032-2026, marilia-conc020-2025
+                  ex.: rio-claro-conc032-2026, macaiba-pe023-2026
 
 opções:
   -h, --help      esta mensagem
@@ -42,7 +42,9 @@ case "$regime" in
     *) echo "erro: regime desconhecido '$regime' (use: concessao | licitacao)" >&2; exit 1 ;;
 esac
 
-if ! printf '%s' "$projeto" | grep -Eq '^[a-z0-9]+(-[a-z0-9]+)*$'; then
+# regex nativo do bash valida a string inteira (grep -q por linha aceitaria
+# nome com newline embutido e criaria diretório fora da convenção)
+if ! [[ "$projeto" =~ ^[a-z0-9]+(-[a-z0-9]+)*$ ]]; then
     echo "erro: '$projeto' foge da convenção de nome" >&2
     echo "      use minúsculas, dígitos e hífen: [municipio]-[modalidade][numero]-[ano]" >&2
     exit 1
