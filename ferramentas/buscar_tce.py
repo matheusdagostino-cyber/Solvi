@@ -2,11 +2,13 @@
 """Client da API Lei na Mão (TCU/TCE).
 
 Uso:
-  python ferramentas/buscar_tce.py --query "qualificação técnica parcelas relevância" --tribunal TCU --operador AND
+  python ferramentas/buscar_tce.py --query "qualificação técnica quantitativos mínimos" --tribunal TCU
   python ferramentas/buscar_tce.py --query "aterro sanitário operação" --tribunal TCE-SP --paginas 2 --csv resultados.csv
-  python ferramentas/buscar_tce.py --query "teste" --debug          # inspeciona a resposta bruta da API
 
-Autenticação: variável de ambiente LEINAMAO_API_KEY.
+Autenticação: variável de ambiente LEINAMAO_API_KEY (Authorization: Bearer).
+Observação: a API exige User-Agent de navegador (filtro anti-bot).
+Parâmetros reais da API: q (palavras-chave), tribunal, type, limit, offset.
+Resposta: {"data": [...], "total": N, "limit": N, "offset": N, "meta": {...}}
 Toda citação extraída desta fonte recebe flag [VIT] até verificação do inteiro teor.
 """
 import argparse
@@ -23,125 +25,104 @@ except ImportError:
 
 ENDPOINT = "https://tce.leinamao.com.br/api/v1/decisions"
 CA_BUNDLE = "/root/.ccr/ca-bundle.crt"
+UA = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
+      "(KHTML, like Gecko) Chrome/126.0 Safari/537.36")
 
 
-def montar_sessao(api_key: str, auth_header: str) -> requests.Session:
+def montar_sessao(api_key: str) -> requests.Session:
     s = requests.Session()
-    if auth_header == "bearer":
-        s.headers["Authorization"] = f"Bearer {api_key}"
-    elif auth_header == "x-api-key":
-        s.headers["X-API-Key"] = api_key
-    elif auth_header == "api-key":
-        s.headers["api-key"] = api_key
+    s.headers["Authorization"] = f"Bearer {api_key}"
     s.headers["Accept"] = "application/json"
+    s.headers["User-Agent"] = UA
     if os.path.exists(CA_BUNDLE):
         s.verify = CA_BUNDLE
     return s
 
 
-def buscar(sessao, query, tribunal, operador, pagina, tamanho, extra):
-    params = {
-        "query": query,
-        "operator": operador,
-        "page": pagina,
-        "size": tamanho,
-    }
+def buscar(sessao, q, tribunal, tipo, limit, offset):
+    params = {"q": q, "limit": limit, "offset": offset}
     if tribunal:
-        params["court"] = tribunal
-    for kv in extra or []:
-        k, _, v = kv.partition("=")
-        params[k] = v
+        params["tribunal"] = tribunal
+    if tipo:
+        params["type"] = tipo
     r = sessao.get(ENDPOINT, params=params, timeout=60)
-    return r
+    if r.status_code in (401, 403):
+        sys.exit(f"Autenticação recusada (HTTP {r.status_code}): {r.text[:300]}")
+    if r.status_code != 200:
+        sys.exit(f"Erro HTTP {r.status_code}: {r.text[:500]}")
+    return r.json()
 
 
-def extrair_itens(payload):
-    """Aceita os formatos usuais de paginação: lista direta, {data|results|items|decisions: [...]}"""
-    if isinstance(payload, list):
-        return payload
-    if isinstance(payload, dict):
-        for k in ("data", "results", "items", "decisions", "content"):
-            if isinstance(payload.get(k), list):
-                return payload[k]
-    return []
-
-
-def campo(item, *nomes, default=""):
-    for n in nomes:
-        if isinstance(item, dict) and item.get(n) not in (None, ""):
-            return item[n]
-    return default
+def formatar_identificacao(item):
+    numero = item.get("number") or item.get("id", "")
+    ano = item.get("year") or ""
+    colegiado = item.get("collegiate") or ""
+    trib = (item.get("tribunals") or {}).get("name") or ""
+    ident = f"{numero}/{ano}" if ano and "/" not in str(numero) else str(numero)
+    partes = [p for p in [ident, trib, colegiado] if p]
+    return " — ".join(partes)
 
 
 def main():
     ap = argparse.ArgumentParser(description="Busca decisões TCU/TCE na API Lei na Mão")
-    ap.add_argument("--query", required=True, help="Palavras-chave da busca")
+    ap.add_argument("--query", required=True, help="Palavras-chave (parâmetro q da API)")
     ap.add_argument("--tribunal", default=None, help="Filtro de tribunal (ex.: TCU, TCE-SP)")
-    ap.add_argument("--operador", default="AND", choices=["AND", "OR", "and", "or"], help="Operador entre palavras")
-    ap.add_argument("--paginas", type=int, default=1, help="Quantas páginas buscar (default 1)")
+    ap.add_argument("--type", dest="tipo", default=None, help="Tipo de decisão (ex.: acordao)")
+    ap.add_argument("--paginas", type=int, default=1, help="Quantas páginas (default 1)")
     ap.add_argument("--tamanho", type=int, default=20, help="Resultados por página (default 20)")
-    ap.add_argument("--pagina-inicial", type=int, default=1, help="Índice da primeira página (default 1)")
     ap.add_argument("--csv", default=None, help="Exportar resultados para CSV")
-    ap.add_argument("--auth-header", default="bearer", choices=["bearer", "x-api-key", "api-key"],
-                    help="Formato do header de autenticação (default bearer)")
-    ap.add_argument("--param", action="append", metavar="CHAVE=VALOR",
-                    help="Parâmetro extra de query string (repetível)")
-    ap.add_argument("--debug", action="store_true", help="Imprime status e corpo bruto da primeira resposta e sai")
+    ap.add_argument("--json", action="store_true", help="Imprimir itens em JSON bruto")
+    # compatibilidade com a interface documentada no CLAUDE.md
+    ap.add_argument("--operador", default=None, choices=["AND", "OR", "and", "or"],
+                    help="(compatibilidade) a API usa busca por relevância; AND/OR não são parâmetros nativos")
     args = ap.parse_args()
 
     api_key = os.environ.get("LEINAMAO_API_KEY")
+    if not api_key and os.path.exists("/root/.leinamao_key"):
+        api_key = Path("/root/.leinamao_key").read_text().strip()
     if not api_key:
         sys.exit("LEINAMAO_API_KEY não configurada no ambiente.")
 
-    sessao = montar_sessao(api_key, args.auth_header)
-    todos = []
+    sessao = montar_sessao(api_key)
+    todos, total_api = [], None
     for i in range(args.paginas):
-        pagina = args.pagina_inicial + i
-        r = buscar(sessao, args.query, args.tribunal, args.operador.upper(), pagina, args.tamanho, args.param)
-        if args.debug:
-            print(f"HTTP {r.status_code}")
-            print(dict(r.headers))
-            print(r.text[:5000])
-            return
-        if r.status_code == 401 or r.status_code == 403:
-            sys.exit(f"Autenticação recusada (HTTP {r.status_code}). Tente --auth-header x-api-key ou api-key. Corpo: {r.text[:300]}")
-        if r.status_code != 200:
-            sys.exit(f"Erro HTTP {r.status_code}: {r.text[:500]}")
-        try:
-            payload = r.json()
-        except json.JSONDecodeError:
-            sys.exit(f"Resposta não-JSON: {r.text[:500]}")
-        itens = extrair_itens(payload)
-        if not itens:
-            if i == 0:
-                print("Nenhum resultado. Payload bruto (primeiros 800 chars):")
-                print(json.dumps(payload, ensure_ascii=False)[:800])
-            break
+        payload = buscar(sessao, args.query, args.tribunal, args.tipo,
+                         args.tamanho, i * args.tamanho)
+        total_api = payload.get("total", total_api)
+        itens = payload.get("data") or []
         todos.extend(itens)
+        if len(todos) >= (total_api or 0):
+            break
 
-    print(f"{len(todos)} decisão(ões) encontradas para: {args.query!r}"
+    print(f"{len(todos)} de {total_api} decisão(ões) para: {args.query!r}"
           + (f" [tribunal: {args.tribunal}]" if args.tribunal else ""))
+
+    if args.json:
+        print(json.dumps(todos, ensure_ascii=False, indent=1))
+
     linhas = []
     for item in todos:
         linha = {
-            "tribunal": campo(item, "court", "tribunal", "orgao"),
-            "identificacao": campo(item, "identification", "acordao", "decision", "numero", "id"),
-            "orgao_julgador": campo(item, "chamber", "orgao_julgador", "colegiado"),
-            "relator": campo(item, "rapporteur", "relator"),
-            "data_julgamento": campo(item, "judgment_date", "data_julgamento", "date", "data"),
-            "processo": campo(item, "case_number", "processo", "tc"),
-            "ementa_trecho": str(campo(item, "summary", "ementa", "excerpt", "text", "conteudo"))[:2000],
-            "url": campo(item, "url", "link"),
+            "tribunal": (item.get("tribunals") or {}).get("name", ""),
+            "numero": item.get("number", ""),
+            "ano": item.get("year", ""),
+            "data_sessao": item.get("session_date", ""),
+            "tipo": item.get("type", ""),
+            "relator": item.get("rapporteur") or "",
+            "colegiado": item.get("collegiate") or "",
+            "assunto": str(item.get("subject") or "")[:500],
+            "resumo_ia": str(item.get("ai_summary") or "")[:2000],
+            "url": item.get("source_url") or "",
             "verificado": "false",
             "flag": "[VIT]",
         }
         linhas.append(linha)
-        print(f"\n[VIT] {linha['tribunal']} — {linha['identificacao']}"
-              + (f" — Rel. {linha['relator']}" if linha['relator'] else "")
-              + (f" — j. {linha['data_julgamento']}" if linha['data_julgamento'] else "")
-              + (f" — {linha['processo']}" if linha['processo'] else ""))
-        if linha["ementa_trecho"]:
-            print(f"   {linha['ementa_trecho'][:400]}")
+        if not args.json:
+            print(f"\n[VIT] {formatar_identificacao(item)}"
+                  + (f" — Rel. {linha['relator']}" if linha["relator"] else "")
+                  + (f" — sessão {linha['data_sessao']}" if linha["data_sessao"] else ""))
+            if linha["resumo_ia"]:
+                print(f"   {linha['resumo_ia'][:500]}")
 
     if args.csv and linhas:
         destino = Path(args.csv)
