@@ -1,0 +1,294 @@
+# FASE1 — Extrator E4 | Documento: CADERNO I - MODELAGEM TÉCNICO-OPERACIONAL (91 p.)
+# Projeto: marilia-ppp020-2025 | CP 020/2025 — Prefeitura de Marília/SP
+# Prazos (ficha/triagem): sessão 16/09/2026 | esclarecimento 11/09/2026 | impugnação 11/09/2026 | 19 dias úteis restantes em 16/08
+# Gerado em: 2026-08-16
+
+pontos:
+  - id: E4.modelagem-tecnico-operacional-001
+    documento_fonte: "Caderno I — Modelagem Técnico-Operacional"
+    dispositivo_editalicio: "Introdução (p. 16), item 3.3 e item 8.2 do Caderno I"
+    transcricao: "O volume estimado é de 6.000 (SEIS MIL) toneladas por mês, o que equivale a 72.000 (SETENTA E DUAS MIL) toneladas por ano. Porém a municipalidade atualizou o volume de geração para 62.400 (SESSENTA E DUAS MIL E QUATROCENTAS) toneladas por ano. [...] adotou-se como base um quantitativo de 5.200 (CINCO MIL E DUZENTAS) toneladas mensais"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Base de dimensionamento (62.400 t/ano / 200 t/dia) diverge em ~13% do volume contratual vigente declarado no próprio caderno (72.000 t/ano), sem memória ou fonte da 'atualização' da municipalidade"
+    dispositivo_legal: "art. 6.º, XXIII, 'a' e 'i', e art. 23 da Lei n.º 14.133/2021 (aplicação subsidiária); art. 10, I, da Lei n.º 11.079/2004"
+    relacao_outros_documentos: "Conferir volume adotado no Caderno II, no DRE.xlsx (aba OPERACIONAL) e no Termo de Referência"
+    flag_tecnico: true
+    flag_reserva: false
+
+  - id: E4.modelagem-tecnico-operacional-002
+    documento_fonte: "Caderno I — Modelagem Técnico-Operacional"
+    dispositivo_editalicio: "Resumo Executivo, item 6, e item 9 do Caderno I"
+    transcricao: "Cenário com Biodigestão + Tratamento Térmico: Estimado um total de R$ 101.5000,00 (CENTO E UM MILHÕES E QUINHENTOS MIL REAIS)"
+    tipo_achado: IRREGULAR
+    categoria: erro_material
+    descricao_breve: "CAPEX do cenário integrado grafado como 'R$ 101.5000,00' (numeral incompatível com o extenso de R$ 101,5 milhões), repetido em duas passagens — valor que serve de parâmetro para a análise econômico-financeira e para o limite da garantia de proposta"
+    dispositivo_legal: "art. 5.º e art. 25 da Lei n.º 14.133/2021 (clareza e precisão do instrumento convocatório e seus anexos)"
+    relacao_outros_documentos: "Conferir o valor do investimento por lote no Caderno II e na aba Capex do DRE.xlsx"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E4.modelagem-tecnico-operacional-003
+    documento_fonte: "Caderno I — Modelagem Técnico-Operacional"
+    dispositivo_editalicio: "Itens 9.5 a 9.11 do Caderno I (composição do CAPEX) c/c Resumo Executivo item 6"
+    transcricao: "Cenário com Implantação do Tratamento Térmico: Estimado um total de R$ 55.000.000,00 [...] 9.7 SISTEMA DE GASEIFICAÇÃO OU PIRÓLISE [...] Investimento Estimado: R$ 55.000.000,00"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "CAPEX do cenário térmico isolado (R$ 55 mi) corresponde apenas ao sistema de gaseificação/pirólise (item 9.7), sem incluir galpão industrial (R$ 5 mi) e sistema de trituração/segregação (R$ 13 mi) que o próprio caderno declara indispensáveis à produção do CDR — subdimensionamento do investimento de referência do lote térmico"
+    dispositivo_legal: "art. 6.º, XXIII, 'i', e art. 23 da Lei n.º 14.133/2021; TC-001718.989.19-7, TCE-SP, Pleno, 13/03/2019 (determinação 1 — detalhamento dos custos)"
+    relacao_outros_documentos: "Cruzar com CAPEX_Input do DRE.xlsx e com o Caderno II"
+    flag_tecnico: true
+    flag_reserva: false
+
+  - id: E4.modelagem-tecnico-operacional-004
+    documento_fonte: "Caderno I — Modelagem Técnico-Operacional"
+    dispositivo_editalicio: "Itens 9.1 a 9.4 do Caderno I (Investimentos por LOTE 1 a 4)"
+    transcricao: "9.4 INVESTIMENTOS – LOTE 4 (TECNOLOGIA ALTERNATIVA) [...] As tecnologias propostas no âmbito deste LOTE deverão: Possuir comprovação de operação em escala comercial"
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    descricao_breve: "Caderno I estrutura os investimentos em 4 LOTES (biodigestão, térmico, integrada, tecnologia alternativa) 'conforme definido no EDITAL', mas não define conteúdo, metas nem capacidade de cada lote; e exige do LOTE 4 comprovação de operação comercial enquanto admite no LOTE 2 rota (pirólise) que o próprio caderno reconhece sem planta comercial com RSU no Brasil — assimetria de exigências entre lotes"
+    dispositivo_legal: "art. 47, § 1.º, II, e art. 40, § 2.º, da Lei n.º 14.133/2021 (parcelamento e definição do objeto); art. 18 da Lei n.º 8.987/1995"
+    relacao_outros_documentos: "Divergência estrutural provável com o DRE.xlsx (que só traz abas LOTE 1/2/3) e com a definição de lotes do Edital — verificar"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E4.modelagem-tecnico-operacional-005
+    documento_fonte: "Caderno I — Modelagem Técnico-Operacional"
+    dispositivo_editalicio: "Item 6.3.1, 1ª Etapa, subitem 4 (Classificação) do Caderno I"
+    transcricao: "A fração orgânica cairá em caçambas e seguirá para o aterro, enquanto a fração energética seguirá para o processo de produção de CDR."
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Descrição do processo de produção de CDR manda a fração orgânica (45% da massa) para o aterro, contradizendo o modelo integrado do próprio caderno (orgânica → biodigestão) e inviabilizando aritmeticamente as metas de desvio de 45%/79% no cenário térmico"
+    dispositivo_legal: "art. 9.º da Lei n.º 12.305/2010 (ordem de prioridade); art. 6.º, XXIII, da Lei n.º 14.133/2021"
+    relacao_outros_documentos: "Cruzar com metas de desempenho do Anexo II.6 e balanço de massa do TR"
+    flag_tecnico: true
+    flag_reserva: false
+
+  - id: E4.modelagem-tecnico-operacional-006
+    documento_fonte: "Caderno I — Modelagem Técnico-Operacional"
+    dispositivo_editalicio: "Item 6.3.3 (Tratamento e Valorização do Digestato) c/c item 8.2 (Balanço de Massa) do Caderno I"
+    transcricao: "Para uma entrada de 100 toneladas por dia (t/d) de fração orgânica, estima-se uma produção de aproximadamente 109,6 m³/dia de digestato [...] [item 8.2:] Digestato (biofertilizante): 54 m³/dia [para entrada de 90 t/d]"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Volumes de digestato incompatíveis no mesmo caderno: 109,6 m³/dia para entrada de 100 t/d (item 6.3.3) contra 54 m³/dia para entrada de 90 t/d (item 8.2) — e a própria entrada da biodigestão oscila entre 100 e 90 t/d; sem consideração da diluição da via úmida"
+    dispositivo_legal: "TC-001718.989.19-7, TCE-SP, Pleno, 13/03/2019 (determinação 6 — descritivo técnico de efluentes líquidos e rejeitos em m³/dia); art. 6.º, XXIII, da Lei n.º 14.133/2021"
+    relacao_outros_documentos: "Cruzar com Anexo II.3 (diretrizes de biodigestão) e com o OPEX de tratamento de efluentes no DRE.xlsx"
+    flag_tecnico: true
+    flag_reserva: false
+
+  - id: E4.modelagem-tecnico-operacional-007
+    documento_fonte: "Caderno I — Modelagem Técnico-Operacional"
+    dispositivo_editalicio: "Resumo Executivo, item 4.2 c/c item 8.2 (Balanço de Massa) do Caderno I"
+    transcricao: "CO₂ Purificado: ~1,5 milhões ton/ano para comercialização. [...] [item 8.2:] CO₂ do Biogás (separado no upgrading): 5 t/d"
+    tipo_achado: IRREGULAR
+    categoria: erro_material
+    descricao_breve: "Projeção de CO₂ purificado com erro de três ordens de grandeza: 1,5 milhão t/ano no Resumo Executivo contra 5 t/d (~1.560 t/ano) no balanço de massa — infla a percepção de receita acessória do projeto"
+    dispositivo_legal: "TC-001718.989.19-7, TCE-SP, Pleno, 13/03/2019 (determinação 3 — previsão das receitas acessórias); art. 6.º, XXIII, 'i', da Lei n.º 14.133/2021"
+    relacao_outros_documentos: "Cruzar com a aba Receita Acessórias do DRE.xlsx"
+    flag_tecnico: true
+    flag_reserva: false
+
+  - id: E4.modelagem-tecnico-operacional-008
+    documento_fonte: "Caderno I — Modelagem Técnico-Operacional"
+    dispositivo_editalicio: "Itens 8.3.2 e 8.3.3 do Caderno I (Balanço energético)"
+    transcricao: "Com base no fluxo de massa apresentado, que indica uma geração de 2,5 MWh, e considerando as premissas acima, temos: Geração de Energia Bruta Indicada: 2,5 MWh (produção em uma hora de operação à plena carga)."
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    descricao_breve: "Balanço energético apresenta apenas geração bruta (com confusão de unidades MW/MWh) e faixas amplas de eficiência (14%–45%), sem cálculo da geração líquida — não desconta consumo parasita da planta nem energia de secagem do CDR (umidade exigida de 18%–25%)"
+    dispositivo_legal: "TC-001718.989.19-7, TCE-SP, Pleno, 13/03/2019 (determinação 7 — especificações de desempenho do sistema de conversão energética acoplado à gaseificação); art. 6.º, XXIII, da Lei n.º 14.133/2021"
+    relacao_outros_documentos: "Cruzar com a receita de energia elétrica projetada no Caderno II e no DRE.xlsx"
+    flag_tecnico: true
+    flag_reserva: false
+
+  - id: E4.modelagem-tecnico-operacional-009
+    documento_fonte: "Caderno I — Modelagem Técnico-Operacional"
+    dispositivo_editalicio: "Item 5.9 (tabela de vantagens/desvantagens) e item 5.10 do Caderno I"
+    transcricao: "Como não temos uma planta em operação em regime comercial, não foi possível estimar a vida útil do empreendimento. [...] Vida útil do empreendimento é de 20 anos [...] A tecnologia de pirólise apresenta maturidade consolidada no exterior, porém ainda não há plantas em regime comercial com RSU no Brasil"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Tabela de tecnologias afirma, para a pirólise, simultaneamente que 'não foi possível estimar a vida útil' e que 'a vida útil é de 20 anos'; o caderno reconhece expressamente a inexistência de planta comercial de pirólise com RSU no Brasil e maturidade apenas emergente da gaseificação de RSU — reconhecimento relevante para exigências de qualificação técnica e alocação de risco"
+    dispositivo_legal: "TC-001718.989.19-7, TCE-SP, Pleno, 13/03/2019 (determinação 1 — demonstração das vantagens das tecnologias adotadas)"
+    relacao_outros_documentos: "Cruzar com exigências de atestação de experiência do Edital (padrão: exigência de experiência em tecnologia sem operação comercial no país) e com a matriz de riscos do Anexo III.2"
+    flag_tecnico: true
+    flag_reserva: false
+
+  - id: E4.modelagem-tecnico-operacional-010
+    documento_fonte: "Caderno I — Modelagem Técnico-Operacional"
+    dispositivo_editalicio: "Resumo Executivo item 4.3 c/c item 8.1.1 (tabelas 3 e 4) do Caderno I"
+    transcricao: "Economia Municipal: Redução de custos com aterro de R$ 5,27 milhões/ano no cenário integrado (economia acumulada de R$ 158 milhões em 30 anos). [...] [item 8.1.1:] Economia Anual R$ 5.548.608,00 [...] R$ 166.458.240,00 [em 30 anos]"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Valores de 'economia municipal' divergentes no mesmo caderno (R$ 5,27 mi/ano e R$ 158 mi/30 anos no Resumo Executivo contra R$ 5,55 mi/ano e R$ 166,5 mi/30 anos no item 8.1.1); percentuais de desvio também oscilam (79% no resumo, 78% no cenário, fração seca ora 34% ora 33%)"
+    dispositivo_legal: "art. 6.º, XXIII, 'i', da Lei n.º 14.133/2021; TC-001718.989.19-7, TCE-SP, Pleno, 13/03/2019 (determinação 1)"
+    relacao_outros_documentos: "Cruzar com a aba VfM do DRE.xlsx"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E4.modelagem-tecnico-operacional-011
+    documento_fonte: "Caderno I — Modelagem Técnico-Operacional"
+    dispositivo_editalicio: "Item 8.1.1 (Vantagens Econômicas) do Caderno I"
+    transcricao: "foi adotado, a título referencial, custo médio de R$ 114,00 (cento e quatorze reais) por tonelada para transporte e disposição final em aterro sanitário [...] Economia anual total gerada [...] = R$ 5.548.608,00/ano"
+    tipo_achado: IRREGULAR
+    categoria: risco_economico
+    descricao_breve: "A 'economia' apresentada como vantagem do projeto é o custo bruto de aterro evitado (R$ 114/t, sem fonte nem data-base), sem abater a contraprestação pública a ser paga à concessionária — não demonstra economia líquida nem vantajosidade da PPP frente ao cenário atual"
+    dispositivo_legal: "art. 10, I, 'a', da Lei n.º 11.079/2004 (estudo técnico que demonstre conveniência e oportunidade); TC-001718.989.19-7, TCE-SP, Pleno, 13/03/2019 (determinação 1)"
+    relacao_outros_documentos: "Cruzar com a comparação PSC × PPP da aba VfM do DRE.xlsx e com o teto da contraprestação no Caderno II / Anexo IV"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E4.modelagem-tecnico-operacional-012
+    documento_fonte: "Caderno I — Modelagem Técnico-Operacional"
+    dispositivo_editalicio: "Item 6.1 c/c item 8 do Caderno I"
+    transcricao: "A área destinada à construção da SITVR está localizada na: Estr. Mun. Danilo Gonzáles, km 06 – Avencas [...] [item 8:] área onde antigamente funcionava o Aterro Sanitário Municipal, localizado na Rodovia Eduardo Zucari, Km 2,5 - MARÍLIA - SP; e que esta área está impactada ambientalmente, á área em questão será disponibilidade para que o licitante construa a(s) unidade(s) de tratamento neste local"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Duas localizações distintas para a área disponibilizada à usina no mesmo caderno (Estr. Danilo Gonzáles km 06 vs. Rod. Eduardo Zucari km 2,5); a área do item 8 é declarada 'impactada ambientalmente' sem menção a investigação confirmatória ou diretrizes de gerenciamento de área contaminada"
+    dispositivo_legal: "art. 10, VII, da Lei n.º 11.079/2004 (licença ambiental prévia ou diretrizes para licenciamento); Lei Estadual n.º 13.577/2009 (SP)"
+    relacao_outros_documentos: "Cruzar com Anexo II.5 (monitoramento ambiental) e Anexo II.7 (diretrizes ambientais); verificar qual endereço consta do TR e do contrato"
+    flag_tecnico: true
+    flag_reserva: false
+
+  - id: E4.modelagem-tecnico-operacional-013
+    documento_fonte: "Caderno I — Modelagem Técnico-Operacional"
+    dispositivo_editalicio: "Resumo Executivo item 5 c/c item 5.9 (tabela) e item 7 do Caderno I"
+    transcricao: "Implantação Gradual: Metas de redução de 45% (15 meses) e com 79% (30 meses) [...] [tabela 5.9:] Tempo estimado para licenciamento é de 24 a 36 meses (EIRA-RIMA) e construção é de 48 meses [incineração]; [gaseificação/pirólise:] 24–36 meses [implantação]"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Cronologia incompatível: meta de 45% de desvio em 15 meses e 79% em 30 meses contra prazos de licenciamento e implantação declarados no próprio caderno (12 a 36 meses de licenciamento + 24 a 48 meses de construção, conforme a rota) — as metas vencem antes de a planta poder existir"
+    dispositivo_legal: "art. 6.º, XXIII, da Lei n.º 14.133/2021; art. 10, VII, da Lei n.º 11.079/2004"
+    relacao_outros_documentos: "Cruzar com o cronograma e as metas do Anexo II.6 e da minuta de contrato"
+    flag_tecnico: true
+    flag_reserva: false
+
+  - id: E4.modelagem-tecnico-operacional-014
+    documento_fonte: "Caderno I — Modelagem Técnico-Operacional"
+    dispositivo_editalicio: "Item 6.3.1, 3ª Etapa (Produção de Vapor em Caldeira) do Caderno I"
+    transcricao: "A água necessária para a utilização no empreendimento será por intermédio de caminhões pipa [...] Sendo assim, o empreendimento está dispensado de solicitação de outorga. Será instalado [...] tanque de armazenamento com capacidade de aproximadamente 30.000 litros d'água [...] O consumo de água para utilização na caldeira de recuperação está estimado em 20 m³/h."
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Suprimento de água tecnicamente inconsistente: consumo declarado de 20 m³/h (~480 m³/dia) na caldeira contra abastecimento por caminhão-pipa e tanque de 30 m³ (~1,5 h de autonomia); dispensa de outorga afirmada unilateralmente; texto em primeira pessoa ('não somos atendidos pela concessionária') denota reaproveitamento de estudo de terceiro"
+    dispositivo_legal: "art. 6.º, XXIII, da Lei n.º 14.133/2021; TC-001718.989.19-7, TCE-SP, Pleno, 13/03/2019 (determinação 1)"
+    relacao_outros_documentos: "Cruzar com OPEX de utilidades no DRE.xlsx (custo de água por caminhão-pipa)"
+    flag_tecnico: true
+    flag_reserva: false
+
+  - id: E4.modelagem-tecnico-operacional-015
+    documento_fonte: "Caderno I — Modelagem Técnico-Operacional"
+    dispositivo_editalicio: "Item 6.3.1 (Estágio 1 — cinzas) c/c item 8 do Caderno I"
+    transcricao: "As cinzas e os outros sub-produtos serão encaminhados para o aterro que fica anexo ao empreendimento [...] [item 8:] Os rejeitos provenientes dos processos de tratamento deverão ser encaminhados para a disposição final ambientalmente adequada, em aterro sanitário devidamente licenciado, em empresa contratada pela Administração."
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Destino das cinzas/rejeitos contraditório: ora 'aterro anexo ao empreendimento' (o antigo aterro municipal, encerrado e ambientalmente impactado — não licenciado para receber resíduos), ora aterro licenciado de terceiro contratado pela Administração; indefinição sobre quem paga a disposição dos rejeitos"
+    dispositivo_legal: "art. 9.º e art. 3.º, VIII, da Lei n.º 12.305/2010; Resolução CONAMA 499/2020"
+    relacao_outros_documentos: "Cruzar com TR e minuta de contrato (alocação do custo de disposição de rejeitos) e com OPEX Input do DRE.xlsx"
+    flag_tecnico: true
+    flag_reserva: false
+
+  - id: E4.modelagem-tecnico-operacional-016
+    documento_fonte: "Caderno I — Modelagem Técnico-Operacional"
+    dispositivo_editalicio: "Itens 3.2 e 3.3 do Caderno I (gravimetria)"
+    transcricao: "Sem dados locais, a gravimetria nacional serve como proxy técnico ou dado de entrada padrão para iniciar os cálculos. [...] Os valores gravimétricos aqui utilizados possuem caráter estimativo e serão obrigatoriamente verificados em campanha gravimétrica de 3 estações [...] a ser executada pela concessionária vencedora antes da assinatura do contrato."
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    descricao_breve: "Todo o dimensionamento (frações 45/34/5/16%) usa a gravimetria média nacional ABRELPE 2020 como proxy, sem campanha gravimétrica local — a verificação real é postergada para depois da licitação, transferindo às propostas uma premissa central não validada do certame de município que já foi objeto de determinação de detalhamento em 2019"
+    dispositivo_legal: "TC-001718.989.19-7, TCE-SP, Pleno, 13/03/2019 (determinação 1 — detalhamento dos estudos e premissas); art. 6.º, XXIII, 'a', da Lei n.º 14.133/2021"
+    relacao_outros_documentos: "Cruzar com a gravimetria eventualmente adotada no TR e no PMGIRS (Lei municipal 9.278/2025)"
+    flag_tecnico: true
+    flag_reserva: false
+
+  - id: E4.modelagem-tecnico-operacional-017
+    documento_fonte: "Caderno I — Modelagem Técnico-Operacional"
+    dispositivo_editalicio: "Item 6.3.1, 1ª Etapa, subitem 1 (Recepção) c/c item 4.5 do Caderno I"
+    transcricao: "capacidade para o recebimento diário de 257 ton/dia [...] [item 4.5:] Geração (2059) ≈ 261,07 toneladas/dia"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Área de recepção dimensionada para 257 t/dia, abaixo da geração projetada pelo próprio estudo para o fim do horizonte da concessão (261 t/dia em 2059)"
+    dispositivo_legal: "art. 6.º, XXIII, da Lei n.º 14.133/2021"
+    relacao_outros_documentos: "—"
+    flag_tecnico: true
+    flag_reserva: false
+
+  - id: E4.modelagem-tecnico-operacional-018
+    documento_fonte: "Caderno I — Modelagem Técnico-Operacional"
+    dispositivo_editalicio: "Resumo Executivo item 4 e item 5.5 do Caderno I"
+    transcricao: "Processos térmicos, como gaseificação, pirólise e incineração com recuperação energética"
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: contradicao
+    fato_faltante: "Confirmar se Edital/TR/PMGIRS vedam a incineração ou restringem as rotas tecnológicas admitidas — o Caderno I a lista como rota elegível e descreve mass burning em detalhe"
+    descricao_breve: "Caderno I admite incineração (mass burning) como rota elegível do modelo 'flexível', em potencial contradição com os documentos vinculantes do certame e com o PMGIRS; a queima do syngás em câmara de combustão >850 °C com caldeira descrita no próprio caderno aproxima o processo da definição de tratamento térmico da CONAMA 316/2002"
+    dispositivo_legal: "Resolução CONAMA 316/2002; art. 9.º, § 1.º, da Lei n.º 12.305/2010"
+    relacao_outros_documentos: "Cruzar com Anexo II.2 (tecnologias aplicadas), Anexo II.3 e Edital; padrão recorrente 'incineração proibida mas prevista'"
+    flag_tecnico: true
+    flag_reserva: false
+
+  - id: E4.modelagem-tecnico-operacional-019
+    documento_fonte: "Caderno I — Modelagem Técnico-Operacional"
+    dispositivo_editalicio: "Item 9 e itens 9.5–9.11 do Caderno I"
+    transcricao: "A orçamentação foi baseada em pesquisas de mercado e orçamentos referenciais para projetos de médio porte. [...] o valor total apresentado é definitivo para este escopo."
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    descricao_breve: "CAPEX apresentado em 7 macrovalores fechados (ex.: 'Sistema de Gaseificação: R$ 55 mi') sem memória de cálculo, composição de custos, cotações ou fontes das 'pesquisas de mercado' — não atende o detalhamento de custos determinado pelo TCE-SP em 2019 para o mesmo objeto; não há qualquer detalhamento de OPEX no caderno além de faixas genéricas por tonelada"
+    dispositivo_legal: "TC-001718.989.19-7, TCE-SP, Pleno, 13/03/2019 (determinação 1 — disponibilizar detalhamento dos custos, estudos e projetos, premissas e referências macroeconômicas); art. 6.º, XXIII, 'i', da Lei n.º 14.133/2021"
+    relacao_outros_documentos: "Cruzar com CAPEX_Input e OPEX Input do DRE.xlsx (verificar se há abertura de composição)"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E4.modelagem-tecnico-operacional-020
+    documento_fonte: "Caderno I — Modelagem Técnico-Operacional"
+    dispositivo_editalicio: "Caderno I, itens 5.9, 6.3.1 e 6.3.2 (menções esparsas a umidade)"
+    transcricao: "O resíduo deve estar seco, com umidade controlada de 18% a 25% [...] O ideal é umidade < 20% para maximizar rendimento energético"
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    descricao_breve: "O caderno não detalha os critérios de teor de umidade dos resíduos em cada fase do processo (recepção, triagem, produção de CDR, alimentação do reator, secagem — fonte de calor e consumo), limitando-se a duas menções genéricas de faixa-alvo — determinação 2 do TCE-SP de 2019 para o mesmo objeto permanece não atendida no estudo técnico"
+    dispositivo_legal: "TC-001718.989.19-7, TCE-SP, Pleno, 13/03/2019 (determinação 2 — detalhar os critérios do teor de umidade dos resíduos em cada fase do processo)"
+    relacao_outros_documentos: "Verificar se o Anexo II.3 (diretrizes de tratamento térmico e biodigestão) supre o detalhamento"
+    flag_tecnico: true
+    flag_reserva: false
+
+  - id: E4.modelagem-tecnico-operacional-021
+    documento_fonte: "Caderno I — Modelagem Técnico-Operacional"
+    dispositivo_editalicio: "Resumo Executivo item 4.2 e item 11 do Caderno I"
+    transcricao: "Receitas: Venda de energia, biometano, CO₂ e créditos de carbono. [...] Todos os valores, estimativas e projeções constantes deste Caderno possuem caráter meramente indicativo"
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    descricao_breve: "Receitas acessórias (energia, biometano, CO₂, créditos de carbono, biofertilizante, CDR) são listadas apenas qualitativamente no caderno técnico, sem preços de referência, volumes comercializáveis ou fonte de mercado — a previsão quantitativa exigida pela determinação 3 do TCE-SP não consta do estudo técnico-operacional"
+    dispositivo_legal: "TC-001718.989.19-7, TCE-SP, Pleno, 13/03/2019 (determinação 3 — informar a previsão das receitas acessórias)"
+    relacao_outros_documentos: "Verificar quantificação na aba Receita Acessórias do DRE.xlsx e no Caderno II — se lá houver, o achado se reduz à desconexão entre cadernos"
+    flag_tecnico: false
+    flag_reserva: false
+
+conformes:
+  - id: E4.modelagem-tecnico-operacional-C01
+    documento_fonte: "Caderno I — Modelagem Técnico-Operacional"
+    dispositivo_editalicio: "Capa e rodapés do Caderno I"
+    transcricao: "VERSÃO 07_2026, 21 JULHO 2026"
+    tipo_achado: CONFORME
+    descricao_breve: "Data-base do estudo (21/07/2026) dentro do parâmetro de 6 meses do TCE-SP em relação à sessão de 16/09/2026 — atualidade formal do documento atendida (sem prejuízo do achado 016 sobre dados de partida antigos: ABRELPE 2020, PMI 2017)"
+    dispositivo_legal: "parâmetro de atualidade de 6 meses adotado pelo TCE-SP para orçamentos de referência"
+    relacao_outros_documentos: "Conferir data-base do Caderno II e do DRE.xlsx"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E4.modelagem-tecnico-operacional-C02
+    documento_fonte: "Caderno I — Modelagem Técnico-Operacional"
+    dispositivo_editalicio: "Resumo Executivo item 4.2 c/c item 8.2 do Caderno I"
+    transcricao: "Biometano: Potencial de ~1,6 milhões Nm³/ano [...] Biometano (CH₄) produzido: 5.400 Nm³/dia"
+    tipo_achado: CONFORME
+    descricao_breve: "Projeção de biometano internamente consistente (5.400 Nm³/dia × ~300 dias ≈ 1,6 mi Nm³/ano) e dentro da faixa de rendimento declarada (80–120 Nm³ biogás/t com 55–65% CH₄ sobre 90 t/d) — coerência aritmética verificada, sem validação de engenharia do rendimento em si"
+    dispositivo_legal: "—"
+    relacao_outros_documentos: "Cruzar com volume de biometano da aba Receita CP / DREs por rota do xlsx"
+    flag_tecnico: true
+    flag_reserva: false
+
+manifesto_cobertura:
+  documento: "CADERNO I - MODELAGEM TÉCNICO-OPERACIONAL.pdf (91 p.)"
+  fonte_texto: "docs/extraido/CADERNO I  - MODELAGEM TÉCNICO-OPERACIONAL.txt (4.848 linhas, pdftotext -layout)"
+  blocos_percorridos:
+    - "Bloco 1: capa, apresentação, considerações preliminares, sumário, resumo executivo, caps. 1–5 (linhas 1–1200 / p. 1–23)"
+    - "Bloco 2: caps. 4.4–7 (projeção populacional, tecnologias, síntese da proposta, processos, cronograma) (linhas 1200–3700 / p. 23–71)"
+    - "Bloco 3: caps. 8–11 e termo de encerramento (linhas 3700–4848 / p. 71–91)"
+  tabelas_conferidas:
+    - "Tabela 1 (projeções populacionais), Tabela 2 (vantagens/desvantagens), Tabela 5.10 (comparação de tecnologias), Tabelas 3 e 4 (cenários econômicos) — legíveis no texto extraído; não foi necessária conferência no PDF nativo"
+  figuras_ilegiveis:
+    - "Figuras 1–16 (fluxogramas, balanço de massa gráfico, layout) não têm conteúdo textual na extração — o balanço de massa da Figura 16 foi avaliado apenas pelos números transcritos no corpo do texto"
+  lacunas: "Nenhuma seção saltada; conteúdo gráfico das figuras não verificado (limitação da camada de texto)"
