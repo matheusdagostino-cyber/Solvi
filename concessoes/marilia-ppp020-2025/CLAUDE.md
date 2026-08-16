@@ -60,6 +60,7 @@ Em `docs/subsidios/` (não são documentos editalícios — não entram na varre
 | `anexo-ii-fontes-bibliograficas-digestao.docx` | Fontes bibliográficas — digestão anaeróbia | Anexo de peça (Fase 3) |
 | `anexo-iii-fontes-bibliograficas-gaseificacao.docx` | Fontes bibliográficas — gaseificação | Anexo de peça (Fase 3) |
 | `706644.pdf` | Inteiro teor TCE-SP TC-001718.989.19-7 (2019) | Fonte primária das determinações anteriores |
+| `civap/` | Base documental da CP 001/2021 do CIVAP (PPP análoga contratada a R$ 85/t em 2022) — edital, TR, contrato, impugnações Revita/Energy com julgamentos, dossiê societário da SPE | Benchmark fático de preço e paradigma de definição para o AN (ver `civap/README.md`); nunca citar como fundamento normativo |
 
 ## Pontos que dependem de validação de engenharia `[VALIDAÇÃO TÉCNICA]`
 

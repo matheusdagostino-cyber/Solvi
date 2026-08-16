@@ -1,0 +1,133 @@
+# FASE1 — Extrator E4 | Documento: 3 CADERNO III - MODELAGEM JURÍDICA (19 p.)
+# Projeto: marilia-ppp020-2025 | CP 020/2025 — Prefeitura de Marília/SP
+# Prazos (ficha/triagem): sessão 16/09/2026 | esclarecimento 11/09/2026 | impugnação 11/09/2026 | 19 dias úteis restantes em 16/08
+# Gerado em: 2026-08-16
+
+pontos:
+  - id: E4.modelagem-juridica-001
+    documento_fonte: "Caderno III — Modelagem Jurídica"
+    dispositivo_editalicio: "Considerações preliminares, item 1.13.3 e item 4 do Caderno III"
+    transcricao: "A presente licitação será processada sob o modo de disputa ABERTO, nos termos do artigo 56, inciso II, da Lei nº 14.133/2021. [...] [item 4:] adotando-se modo de disputa ABERTO, em razão de: [...] b) Necessidade de sigilo empresarial nas estratégias de precificação; c) Mitigação de propostas aventureiras"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Modo de disputa juridicamente indeterminado: o caderno declara modo ABERTO mas o fundamenta no art. 56, II (que trata do modo FECHADO) e o justifica por 'sigilo empresarial nas estratégias de precificação' — razão típica do modo fechado; a definição da dinâmica de lances do certame fica contraditória na própria modelagem jurídica"
+    dispositivo_legal: "art. 56, I e II, e § 1.º, da Lei n.º 14.133/2021"
+    relacao_outros_documentos: "Cruzar com o modo de disputa do Edital e do Anexo IV; mesma citação errada aparece no Caderno II"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E4.modelagem-juridica-002
+    documento_fonte: "Caderno III — Modelagem Jurídica"
+    dispositivo_editalicio: "Item 1.12 do Caderno III"
+    transcricao: "VII -...destinação de resíduos que inclui a reutilização, a reciclagem, a compostagem, a recuperação e o aproveitamento energético térmico ou biodigestão ou outras destinações admitidas..."
+    tipo_achado: IRREGULAR
+    categoria: erro_material
+    descricao_breve: "Transcrição adulterada de texto legal: o caderno cita entre aspas o art. 3.º, VII, da Lei 12.305/2010 com a expressão 'aproveitamento energético térmico ou biodigestão', inexistente na redação legal ('a recuperação e o aproveitamento energético') — inserção de palavras no dispositivo transcrito, justamente para encaixar as rotas tecnológicas do projeto"
+    dispositivo_legal: "art. 3.º, VII, da Lei n.º 12.305/2010 (redação oficial)"
+    relacao_outros_documentos: "Verificar se a mesma transcrição adulterada foi replicada no TR ou no Edital"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E4.modelagem-juridica-003
+    documento_fonte: "Caderno III — Modelagem Jurídica"
+    dispositivo_editalicio: "Itens 1.13.1 (item 2), 1.13.4 (item 2) e 1.13 do Caderno III"
+    transcricao: "uso do Procedimento de Manifestação de Interesse (PMI) para receber estudos da iniciativa privada conforme artigo 80 da Lei 14.133/21, aprovada e homologada [...] em 14 de Junho de 2018 [...] Exigência de garantias contratuais conforme artigos 96, II e artigo 121, § 1º da Lei 14.133/21 [...] amparada pelas legislações e normativas supramencionadas na Cláusula Terceira"
+    tipo_achado: IRREGULAR
+    categoria: erro_material
+    descricao_breve: "Fundamentação legal trocada em série: o PMI é atribuído ao art. 80 da Lei 14.133/2021 (pré-qualificação; o PMI é o art. 81) e a lei de 2021 é aplicada retroativamente a PMI homologado em 2018; as garantias contratuais invocam o art. 121, § 1.º (responsabilidade trabalhista em serviços contínuos), estranho à matéria; e o texto remete a uma 'Cláusula Terceira' inexistente no caderno (resíduo de copy-paste de contrato)"
+    dispositivo_legal: "arts. 80, 81, 96 e 121 da Lei n.º 14.133/2021; art. 5.º, VIII, da Lei n.º 11.079/2004"
+    relacao_outros_documentos: "Cruzar com o instrumento de autorização do PMI (SMALP 001/2017) e com as garantias da minuta de contrato"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E4.modelagem-juridica-004
+    documento_fonte: "Caderno III — Modelagem Jurídica"
+    dispositivo_editalicio: "Itens 1.4 e 1.9 do Caderno III"
+    transcricao: "Resolução CONAMA 382/2002; Resolução CONAMA 386/2002 [...] [1.9:] Os limites máximos de emissão de poluentes atmosféricos para fontes fixas estão estabelecidos na Resolução CONAMA n. 386/2002"
+    tipo_achado: IRREGULAR
+    categoria: erro_material
+    descricao_breve: "Base normativa ambiental com números e anos trocados: a resolução de emissões de fontes fixas é a CONAMA 382/2006 (complementada pela 436/2011, não citada), grafada como '382/2002' e '386/2002'; o item de efluentes líquidos (1.8) omite a CONAMA 430/2011 (padrões de lançamento vigentes), citando apenas a 357/2005 — o enquadramento normativo-ambiental do empreendimento está errado no estudo jurídico"
+    dispositivo_legal: "Resoluções CONAMA 382/2006, 436/2011, 357/2005 e 430/2011"
+    relacao_outros_documentos: "Cruzar com Anexo II.7 (diretrizes ambientais) — verificar se repete os números errados"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E4.modelagem-juridica-005
+    documento_fonte: "Caderno III — Modelagem Jurídica"
+    dispositivo_editalicio: "Itens 1.5.1, 1.6.1 e 1.12 do Caderno III"
+    transcricao: "compromissos do País e do Estado de São Paulo no Protocolo Internacional de Copenhagen [...] A recente legislação ambiental do Estado de São Paulo [...] Resolução SMA 079/2009 [...] O PL do Hidrogênio Verde (PL 2.308/2023) [...] A Portaria 44/2015 (revogada em 2020)"
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    descricao_breve: "Estudo jurídico 'atualizado em 2026' ancorado em quadro normativo anacrônico: invoca o 'Protocolo de Copenhagen' (2009) como compromisso climático vigente (ignorando o Acordo de Paris), trata a Resolução SMA 79/2009 como 'recente', cita o PL 2.308/2023 como projeto quando já convertido em lei, e apoia-se em portaria que o próprio texto admite revogada — reaproveitamento do estudo de 2017/2018 sem atualização jurídica efetiva"
+    dispositivo_legal: "regra de vigência e atualidade da fundamentação normativa (art. 6.º, XXIII, da Lei n.º 14.133/2021); TC-001718.989.19-7, TCE-SP, Pleno, 13/03/2019 (determinação 1)"
+    relacao_outros_documentos: "Confirmar no Jus IA, na Fase 2, o status atual dos diplomas citados (conversão do PL 2.308/2023, revogações CONAMA/SMA)"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E4.modelagem-juridica-006
+    documento_fonte: "Caderno III — Modelagem Jurídica"
+    dispositivo_editalicio: "Item 3.1 do Caderno III"
+    transcricao: "o Município demonstrou: que a reciclagem foi priorizada como etapa prévia; que a Usina de Recuperação Energética será utilizada apenas para as frações que não foram recicladas; [...] que há viabilidade econômica e ambiental comprovada."
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    descricao_breve: "Afirmações conclusórias sem demonstração: o caderno declara 'demonstrada' a priorização da reciclagem e 'comprovada' a viabilidade econômica, mas não apresenta nenhum dado, estudo ou remissão que o comprove — e os documentos econômicos do mesmo conjunto exibem análise de vantajosidade quebrada e balanço operacional que aterra a fração orgânica, contradizendo a premissa"
+    dispositivo_legal: "art. 9.º, § 1.º, da Lei n.º 12.305/2010; art. 10, I, 'a', da Lei n.º 11.079/2004; TC-001718.989.19-7, TCE-SP, Pleno, 13/03/2019 (determinação 1)"
+    relacao_outros_documentos: "Contrastar com aba OPERACIONAL do DRE.xlsx (fração úmida aterrada) e aba VfM (#REF!)"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E4.modelagem-juridica-007
+    documento_fonte: "Caderno III — Modelagem Jurídica"
+    dispositivo_editalicio: "Itens 1.13.1 a 1.13.5 do Caderno III (conjunto)"
+    transcricao: "3. Análise de conveniência e oportunidade, com demonstração de que a PPP é a melhor forma de contratação. 4. Estimativa de impacto orçamentário-financeiro e respeito à Lei de Responsabilidade Fiscal. [...] Consulta e audiência pública conforme artigo 10 da Lei 11.079/2004; Submissão ao Tribunal de Contas do Estado de São Paulo."
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    descricao_breve: "A modelagem jurídica apenas lista, como etapas de fluxograma, as condições prévias do art. 10 da Lei 11.079/2004, sem verificar nem documentar nenhuma delas: não há autorização fundamentada da autoridade competente, estimativa de impacto orçamentário, declaração de compatibilidade LDO/LOA, demonstração do limite de 5% da RCL (art. 28), lei autorizativa municipal, comprovação de consulta pública, licença prévia ou diretrizes de licenciamento — e o caderno silencia por completo sobre a garantia pública ao parceiro privado (art. 8.º), núcleo da bancabilidade da PPP"
+    dispositivo_legal: "art. 10, I a VII, art. 8.º e art. 28 da Lei n.º 11.079/2004; arts. 16–17 da LC n.º 101/2000"
+    relacao_outros_documentos: "Cruzar com E1/E3 (edital e contrato) — verificar se os atos do art. 10 constam de outros documentos; ficha do projeto registra lei autorizativa e FGP como '[não levantado]'"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E4.modelagem-juridica-008
+    documento_fonte: "Caderno III — Modelagem Jurídica"
+    dispositivo_editalicio: "Itens 3 e 1.13 do Caderno III"
+    transcricao: "O projeto prevê o tratamento de resíduos sólidos urbanos mediante: a) Gaseificação e/ou Pirólise da fração seca [...] b) Biodigestão anaeróbia da fração úmida [...] [sem qualquer menção a LOTES]"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "A modelagem jurídica estrutura uma concessão administrativa única e integrada (URE com gaseificação/pirólise + biodigestão) e não menciona a divisão em LOTES que estrutura os Cadernos I e II e o Edital — nenhuma análise jurídica do parcelamento: multiplicidade de concessionárias/SPEs na mesma área pública, compartilhamento de infraestrutura, julgamento por lote, limite fiscal agregado das contraprestações simultâneas"
+    dispositivo_legal: "art. 47, § 1.º, II, e art. 40, § 2.º, da Lei n.º 14.133/2021; art. 10 e art. 28 da Lei n.º 11.079/2004"
+    relacao_outros_documentos: "Tema central da divisão em lotes (padrão Marília pontos 1–4) — cruzar com Edital, TR e Anexo IV"
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E4.modelagem-juridica-009
+    documento_fonte: "Caderno III — Modelagem Jurídica"
+    dispositivo_editalicio: "Item 10 (Disposições Finais) do Caderno III"
+    transcricao: "Todos os dispositivos deste Caderno são vinculantes ao contrato da PPP. [...] Em caso de contradição entre anexos, prevalecerá a interpretação mais favorável ao interesse público e à sustentabilidade."
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Regra de prevalência entre documentos vaga e subjetiva ('interpretação mais favorável ao interesse público e à sustentabilidade') em conjunto editalício repleto de contradições internas — sem ordem objetiva de prevalência, o risco interpretativo é integralmente transferido às licitantes; e a vinculação integral 'deste Caderno' contradiz o caráter 'referencial e não vinculante' que os Cadernos I e II declaram para si"
+    dispositivo_legal: "art. 5.º e art. 92, I, da Lei n.º 14.133/2021 (vinculação ao edital e definição clara do objeto); art. 10 da Lei n.º 8.987/1995"
+    relacao_outros_documentos: "Cruzar com a cláusula de ordem de prevalência da minuta de contrato e do Edital"
+    flag_tecnico: false
+    flag_reserva: false
+
+conformes:
+  - id: E4.modelagem-juridica-C01
+    documento_fonte: "Caderno III — Modelagem Jurídica"
+    dispositivo_editalicio: "Item 1.13.3 e capa do Caderno III"
+    transcricao: "Realizada sob modalidade Concorrência conforme Lei 14.133/2021, artigo 28, II. [...] VERSÃO 07_2026, 21 JULHO 2026"
+    tipo_achado: CONFORME
+    descricao_breve: "Modalidade Concorrência corretamente fundamentada (art. 28, II) e data formal do documento (21/07/2026) dentro do parâmetro de 6 meses da sessão — conformidades pontuais, sem prejuízo da desatualização material do conteúdo (ponto 005)"
+    dispositivo_legal: "art. 28, II, da Lei n.º 14.133/2021"
+    relacao_outros_documentos: "—"
+    flag_tecnico: false
+    flag_reserva: false
+
+manifesto_cobertura:
+  documento: "3 CADERNO III - MODELAGEM JURÍDICA.pdf (19 p.)"
+  fonte_texto: "docs/extraido/3 CADERNO III - MODELAGEM JURÍDICA.txt (860 linhas, pdftotext -layout)"
+  blocos_percorridos:
+    - "Documento lido integralmente em bloco único (19 p.): considerandos, introdução, sumário, itens 1 (normas), 1.12–1.13 (justificativas e fluxo), 2–10 (PMGIRS, modelo tecnológico, licitação, PMI, contrato, fluxograma, conformidade ambiental, indicadores, disposições finais), lista de anexos e termo de encerramento"
+  tabelas_conferidas: "Documento sem tabelas ou seções tabulares — não houve necessidade de conferência no PDF nativo"
+  lacunas: "O 'fluxograma' prometido no item 1.13 e o do item 7 não têm conteúdo gráfico na extração (figuras); numeração do sumário inconsistente (itens '3.1'/'1.2') registrada como cosmética, sem achado próprio"
