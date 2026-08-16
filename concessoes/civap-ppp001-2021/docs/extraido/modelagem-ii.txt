@@ -1,0 +1,989 @@
+        CONSÓRCIO CIVAP
+  Consórcio Intermunicipal do Vale do Paranapanema
+
+
+
+  MODELO PARA GERAÇÃO DE ENERGIA
+ATRAVÉS DOS RESÍDUOS SÓLIDOS URBANOS
+
+
+ VOLUME 2 - MODELAGEM ECONÔMICO-
+             FINANCEIRA
+                     NOVEMBRO/2021
+                       REVISÃO 01
+
+
+
+
+                                                     1
+                                  CONSÓRCIO CIVAP
+
+        MODELO PARA GERAÇÃO DE ENERGIA ATRAVÉS DOS RESÍDUOS SÓLIDOS
+                                 URBANOS
+
+
+
+APRESENTAÇÃO
+
+O presente documento revisado incorpora alterações decorrentes das determinações do
+Tribunal de Contas do Estado de São Paulo, conforme decisão em sua 33ª Sessão Ordinária do
+Tribunal Pleno, realizada em 20/10/2021.
+
+Assim os pontos alterados neste documento incorpora adequações e coplementações do estudo
+referentes aos seguintes pontos:
+
+- Redução de 16 para 14 Municípios considerados no projeto, os quais aderiram à Parceria
+Público-Privada proposta;
+
+- Sobre a redução de massa de rejeitos admitida para a destinação final, após os processos de
+tratamento e geração de energia;
+
+- Composição do valor médio de tonelada de resíduo para disposição final;
+
+- Detalhamento da matriz de investimentos;
+
+- Caracterização dos resíduos considerados, limitados aos resíduos sólidos urbanos, não
+incoporando resíduos perigosos ou de serviços de saúde.
+
+
+
+
+                                                                                           2
+    1. O PROJETO
+
+
+O presente Estudo de modelagem e viabilidade está direcionado para constituir uma solução para
+Municípios integrantes do Consórcio CIVAP, com vistas ao tratamento e destinação final dos
+resíduos sólidos urbanos, com objetivo de atender às diretrizes da Política Nacional de Resíduos
+Sólidos e o aproveitamento energético.
+
+Os Municípios que aderirem ao Projeto deverão delegar, através dos Contratos de Programa o
+CONSÓRCIO CIVAP, para licitar a Parceria Público-Privada dos serviços de tratamento e
+destinação final dos resíduos sólidos urbanos, com aproveitamento energético.
+
+Até a presente data foram recebidas 14 adesões formais dos Municípios à concessão objeto
+deste Estudo, conforme quadro baixo:
+
+
+                           CIVAP - CONSÓRCIO INTERMUNICIPAL DO VALE DO
+                                         PARANAPANEMA
+                     Nº           Municípios - Adesão à PPP     População
+
+                      1      Assis                                    102.924
+                      2      Santa Cruz do Rio Pardo                   47.148
+                      3      Paraguaçú Paulista                        45.255
+                      4      Cândido Mota                              31.263
+                      5      Palmital                                  22.196
+                      6      Tarumã                                    14.547
+                      7      Ibirarema                                  7.540
+                      8      Echaporã                                   6.247
+                      9      Platina                                    3.488
+                      10     Pedrinhas Paulista                         3.087
+                      11     Florínea                                   2.758
+                      12     Lutécia                                    2.705
+                      13     Oscar Bressane                             2.616
+                      14     Cruzália                                   2.161
+                                       TOTAL                          293.935
+
+ Este conjunto de Municípios perfaz uma população total de 293.935 habitantes.
+
+
+
+
+                                                                                              3
+    2. PREMISSAS DO MODELO
+
+
+
+O projeto está focado na questão do tratamento e destinação final dos resíduos sólidos urbanos,
+ressaltando a necessidade de uma solução conjunta que possa agragar o maior número de
+Municípios possíveis, garantindo condições de qualidade e que atendam as normas ambientais.
+
+Ao CONSÓRCIO CIVAP, considerando as condições contratuais, envolvendo volume de
+investimentos, tipo de serviços, padrões de qualidade e desempenho, entre outros, caberá
+estabelecer as qualificações mínimas exigidas como condição para o parceiro privado participar
+da Licitação e do futuro contrato de Parceria Público-Privada.
+
+Estima-se que no início do projeto possa se viabilizar um primeiro módulo com capacidade de
+atendimento médio diário de 300 toneladas/dias.
+
+Do ponto de vista operacional, como já abordado anteriormente, os Municípios continuarão com
+a sua responsabilidade de coleta domiciliar e programas de coleta seletiva, incluindo as
+cooperativas integradas nesta atividade, tendo ainda a obrigação de transportar o resíduo sólido
+a ser descartado até o ponto de tratamento, destinação final e geração de energia pela futura
+concessionária.
+
+Ao CONSÓCIO CIVAP e seus Municípios, caberá apenas entregar os Resíduos Sólidos Urbanos –
+RSU, provenientes de seu sistema de coleta no local da futura instalação de tratamento e geração,
+não tendo qualquer responsabilidade pela atividade de geração de energia ou outras formas de
+comercialização sob o risco exclusivo do concessionário.
+
+Caberá sim ao CONSÓRCIO CIVAP E seus Municípios, constituir um mecanismo de garantia para
+o efetivo pagamento das contraprestações mensais devidas ao concessionário.
+
+Constitui-se, portanto, uma conta garantia, para que o CIVAP possa fazer frente às obrigações
+contratuais assumidas, com a distribuição proporcional a cada Município que estabelecer o
+Contrato de Rateio com o CIVAP.
+
+
+
+
+                                                                                               4
+Para facilitar o entendimento dos fluxos de contraprestações que caberá a cada Município, o
+gráfico a seguir apresentado indica as relações individuais para cada ente e suas
+responsabilidades.
+
+
+
+
+           Município B      Município B          Município N
+
+                     R$       R$                 R$
+
+
+  Garantia de
+                            TRANSFERÊNCIAS
+  Pagamento (3 meses                                                  CONSÓRCIO
+                            FONTE 1: Orçamento
+  de contraprestação) (*)                              R$               CIVAP
+                            CONTA VINCULADA
+  FUNDO CONTÁBIL
+
+                                                            RSU
+      BANCO FIDUCIÁRIO
+                                                                    CONTRAPRESTAÇÕES
+                                                 RSU                 Pagamentos à SPE
+
+                                          RSU
+
+                                                                                                  PARCEIRO
+                                                                         SPE
+                                                                                                  PRIVADO
+
+                                                                             IMPLANTAÇÃO E
+                                                                             OPERAÇÃO
+
+
+
+                                VENDA DE RECICLÁVEIS              TRATAMENTO DE RSU          VENDA DE ENERGIA
+                                   Receita Acessória              E PLANTA DE ENERGIA         Receita Acessória
+
+
+
+
+Trata-se assim de um fluxo de pagamento vinculado com as quantidades de resíduos disposto por
+cada Município na Planta de Tratamento, com cada qual o CIVAP manterá um Contrato de Rateio,
+baseado numa projeção estimada de volume de resíduos a serem depositados, sendo que um
+sistema de controle de pesagem garantirá o correto valor a ser remunerado.
+
+
+
+
+                                                                                                                  5
+    3. INVESTIMENTOS – CAPEX
+
+
+Considerando as condições de recepção dos resíduos sólidos urbanos e a sua evolução no tempo,
+concebeu-se um conjunto de elementos que pudesse atender ao montante projetado.
+
+Assim a estrutura considerada neste estudo tem capacidade para atender até 300 t/dia de
+resíduos sólidos urbanos.
+
+Foram consideradas todas as instalações necessárias à recepção, tratamento e geração de
+energia para o volume esperado.
+
+A estrutura é constituída de:
+
+- Unidade de recepção e produção de CDR – Combustível Derivado de Resíduos;
+
+- Unidade de gaseificação (reator);
+
+- Unidade de geração de energia elétrica.
+
+- Subestação e Transmissão
+
+Cotação junto ao mercado possibilitou dimensionar um valor de investimento que totaliza R$
+151.285.500,00 conforme componentes constantes do cronograma a seguir apresentado.
+
+                                     CRONOGRAMA DE INVESTIMENTOS
+               ITEM                         Total (R$ mil)  ano1          ano2
+               Projetos e Licenças                8.725,00
+                                                       -
+                                                               8.725,00
+
+               Obras civis e Terraplenagem        2.170,00
+                                                       -
+                                                               2.170,00
+
+               Linha de CDR                      34.627,50
+                                                       -
+                                                              34.627,50
+
+               Reator                            50.683,00
+                                                       -
+                                                              38.012,25    12.670,75
+
+               Modulo de Geração                 33.210,00
+                                                       -
+                                                              13.284,00    19.926,00
+
+               Subestação e transmissão          20.250,00
+                                                       -
+                                                               8.100,00    12.150,00
+
+               Transporte                         1.620,00     1.134,00      486,00
+
+               Total                            151.285,50   106.052,75    45.232,75
+
+
+Os investimentos estão estimados para ocorrer em 18 meses do início do contrato, distribuídos
+em R$ 106.052,55 mil no primeiro ano e R$ 45.232,75 mil no segundo ano.
+
+
+
+
+                                                                                           6
+INVESTIMENTOS – Em R$ 1000
+
+        120.000,00
+                       106.052,75
+        100.000,00
+
+
+         80.000,00
+
+
+         60.000,00
+                                    45.232,75
+         40.000,00
+
+
+         20.000,00
+
+
+              0,00
+                         ANO1        ANO2
+
+
+
+
+                                                7
+       4. CUSTOS OPERACIONAIS – OPEX
+
+
+
+
+Os custos operacionais englobam as despesas de manutenção e operação da Central de
+Tratamento e Geração de Energia (CTGE) e as despesas administrativas de gestão pela
+concessionária.
+
+
+Custos da Estrutura da SPE
+             Função              Funcionarios          Salario Base      Sub-total        Encargos              Total /mês        Total /ano
+
+Diretor                               1                     25.000,00      25.000,00               17.000,00        42.000,00       504.000,00
+Gerente Administrativo/Financ.        1                     15.000,00      15.000,00               10.200,00        25.200,00       302.400,00
+Gerente Operacional                   1                     15.000,00      15.000,00               10.200,00        25.200,00       302.400,00
+Assist Administrativo                 5                      5.000,00      25.000,00               17.000,00        42.000,00       504.000,00
+Contador                              1                      2.000,00       2.000,00                1.360,00         3.360,00        40.320,00
+Motorista                             3                      3.000,00       9.000,00                6.120,00        15.120,00       181.440,00
+Serv. Limp.                           1                      2.000,00       2.000,00                1.360,00         3.360,00        40.320,00
+Total                                13                                    93.000,00               63.240,00       156.240,00     1.874.880,00
+
+
+
+Custos da Estrutura Operacional
+             Função              Funcionarios          Salario Base      Sub-total        Encargos              Total /mês        Total /ano
+
+Encarregado de turno                  3                       8.000,00     24.000,00               16.320,00        40.320,00       483.840,00
+Aux. de produção                     12                       4.000,00     48.000,00               32.640,00        80.640,00       967.680,00
+Operador de maquina                   2                       5.000,00     10.000,00                6.800,00        16.800,00       201.600,00
+Tec. Laboratorio                      1                       5.000,00      5.000,00                3.400,00         8.400,00       100.800,00
+Tec. Manutenção                       3                       5.000,00     15.000,00               10.200,00        25.200,00       302.400,00
+Motorista                             3                       4.000,00     12.000,00                8.160,00        20.160,00       241.920,00
+Serv. Limp.                           3                       2.000,00      6.000,00                4.080,00        10.080,00       120.960,00
+Total                                27                                   120.000,00               81.600,00       201.600,00     2.419.200,00
+
+
+Custos de Despesas Gerais
+                 Item                     Quantidade             Valor unitario        Sub-total           Total /mês           Total /ano
+
+Alimentação                                  1200                            35,00      42.000,00               42.000,00         504.000,00
+Treinamento                                   27                          3.000,00      81.000,00               81.000,00         972.000,00
+Material de segurança                         80                            200,00      16.000,00               16.000,00         192.000,00
+Aluguel/locação                                2                          5.000,00      10.000,00               10.000,00         120.000,00
+Manutenção de veiculos e comb                 90                            200,00      18.000,00               18.000,00         216.000,00
+Comunicação (Verba)                            1                         12.000,00      12.000,00               12.000,00         144.000,00
+Viagens e estadias                             1                          3.000,00       3.000,00                3.000,00          36.000,00
+Material de consumo (esc)                      1                          2.500,00       2.500,00                2.500,00          30.000,00
+TI e manutenção informatica                    1                          5.000,00       5.000,00                5.000,00          60.000,00
+Diversos                                       1                          5.000,00       5.000,00                5.000,00          60.000,00
+Total                                                                                  194.500,00              194.500,00       2.334.000,00
+
+
+
+
+Somados a estes custos tem-se ainda os custos de manutenção do maquinário e equipamentos
+da usina (O&M serviços/fornecedor) e o custo de locação do terreno em que será implantada a
+unidade, o que resulta num custo total no prazo da concessão de R$ 341.229.160,00, conforme
+demonstra quadro a seguir.
+
+
+
+
+                                                                                                                                               8
+RESUMO – CUSTOS OPERACIONAIS TOTAIS (EM R$ 1000)
+
+CUSTOS OPERACIONAIS 1                                                                        CUSTOS OPERACIONAIS 2                                    TOTAL
+                                                                                                                                                      GERAL
+                 O&M               Estrutura              Locação                                      Adm                     Desp Pré-
+                                                                             TOTAL 1                             Custos SPE              TOTAL 2      OPEX
+                Serviços          Operacional             Terreno                                      SPE                      Operac
+ANO 1                  -                      -                 84,00                84,00   ANO 1      937,44      1.167,00   1.420,00   3.524,44    3.608,44
+ANO 2             3.240,00               1.209,60               84,00             4.533,60   ANO 2    1.874,88      2.334,00        -     4.208,88    8.742,48
+ANO 3             3.420,00               2.419,20               84,00             5.923,20   ANO 3    1.874,88      2.334,00        -     4.208,88   10.132,08
+ANO 4             3.780,00               2.419,20               84,00             6.283,20   ANO 4    1.874,88      2.334,00        -     4.208,88   10.492,08
+ANO 5             5.040,00               2.419,20               84,00             7.543,20   ANO 5    1.874,88      2.334,00        -     4.208,88   11.752,08
+ANO 6             3.960,00               2.419,20               84,00             6.463,20   ANO 6    1.874,88      2.334,00        -     4.208,88   10.672,08
+ANO 7             6.480,00               2.419,20               84,00             8.983,20   ANO 7    1.874,88      2.334,00        -     4.208,88   13.192,08
+ANO 8             4.500,00               2.419,20               84,00             7.003,20   ANO 8    1.874,88      2.334,00        -     4.208,88   11.212,08
+ANO 9             5.760,00               2.419,20               84,00             8.263,20   ANO 9    1.874,88      2.334,00        -     4.208,88   12.472,08
+ANO 10            4.680,00               2.419,20               84,00             7.183,20   ANO 10   1.874,88      2.334,00        -     4.208,88   11.392,08
+ANO 11            4.140,00               2.419,20               84,00             6.643,20   ANO 11   1.874,88      2.334,00        -     4.208,88   10.852,08
+ANO 12            4.500,00               2.419,20               84,00             7.003,20   ANO 12   1.874,88      2.334,00        -     4.208,88   11.212,08
+ANO 13            8.100,00               2.419,20               84,00            10.603,20   ANO 13   1.874,88      2.334,00        -     4.208,88   14.812,08
+ANO 14            4.320,00               2.419,20               84,00             6.823,20   ANO 14   1.874,88      2.334,00        -     4.208,88   11.032,08
+ANO 15            4.320,00               2.419,20               84,00             6.823,20   ANO 15   1.874,88      2.334,00        -     4.208,88   11.032,08
+ANO 16            4.320,00               2.419,20               84,00             6.823,20   ANO 16   1.874,88      2.334,00        -     4.208,88   11.032,08
+ANO 17            4.500,00               2.419,20               84,00             7.003,20   ANO 17   1.874,88      2.334,00        -     4.208,88   11.212,08
+ANO 18            5.580,00               2.419,20               84,00             8.083,20   ANO 18   1.874,88      2.334,00        -     4.208,88   12.292,08
+ANO 19            4.860,00               2.419,20               84,00             7.363,20   ANO 19   1.874,88      2.334,00        -     4.208,88   11.572,08
+ANO 20            7.020,00               2.419,20               84,00             9.523,20   ANO 20   1.874,88      2.334,00        -     4.208,88   13.732,08
+ANO 21            4.140,00               2.419,20               84,00             6.643,20   ANO 21   1.874,88      2.334,00        -     4.208,88   10.852,08
+ANO 22            4.500,00               2.419,20               84,00             7.003,20   ANO 22   1.874,88      2.334,00        -     4.208,88   11.212,08
+ANO 23            8.100,00               2.419,20               84,00            10.603,20   ANO 23   1.874,88      2.334,00        -     4.208,88   14.812,08
+ANO 24            4.320,00               2.419,20               84,00             6.823,20   ANO 24   1.874,88      2.334,00        -     4.208,88   11.032,08
+ANO 25            4.320,00               2.419,20               84,00             6.823,20   ANO 25   1.874,88      2.334,00        -     4.208,88   11.032,08
+ANO 26            4.320,00               2.419,20               84,00             6.823,20   ANO 26   1.874,88      2.334,00        -     4.208,88   11.032,08
+ANO 27            4.500,00               2.419,20               84,00             7.003,20   ANO 27   1.874,88      2.334,00        -     4.208,88   11.212,08
+ANO 28            5.580,00               2.419,20               84,00             8.083,20   ANO 28   1.874,88      2.334,00        -     4.208,88   12.292,08
+ANO 29            4.860,00               2.419,20               84,00             7.363,20   ANO 29   1.874,88      2.334,00        -     4.208,88   11.572,08
+ANO 30            7.020,00               2.419,20               84,00             9.523,20   ANO 30   1.874,88      2.334,00        -     4.208,88   13.732,08
+1 - Cus tos Opera ci ona i s , i níci o da opera çã o da us i na a pós 18º mês
+
+
+
+
+                                                                                                                                                              9
+    5. RECEITAS OPERACIONAIS E CONTRAPRESTAÇÃO
+
+
+    5.1. RECEITAS COM RECICLÁVEIS
+
+
+Os resíduos destinados à Central de Tratamento e Geração de Energia (CTGE), mesmo após os
+processos de coleta seletiva, passarão por um processo automatizado de seleção de materiais
+recicláveis, retirando para reaproveitamento metais ferrosos e alumínio.
+
+
+Volume Reciclável                                       %             ton/dia         preço (R$)
+   Metais Ferros os                                    1,0%            2,6858              120,00
+   Aluminio                                            2,0%            5,3716            2.000,00
+   Outros                                              0,5%            1,3429              120,00
+
+
+
+RECEITAS ESTIMADAS
+        QUANTIDADE DE RECICLÁVEIS (T/dia)                                       RECEITA RECICLÁVEIS (R$)
+                                            TOTAL
+             Metais                                                                                                  TOTAL
+  ANO                  Alumíno   Outros   Quantidade          ANO   Metais Ferrosos     Alumíno       Outros
+            Ferrosos                                                                                             RECEITA EM R$
+                                           em T/dia
+   1         0,00       0,00     0,00         0               1               -                -           -              -
+   2         1,50       3,00     0,75       300,0             2         64.800,00     2.160.000,00   32.400,00   2.257.200,00
+   3         3,02       6,03     1,51       301,5             3        130.248,00     4.341.600,00   65.124,00   4.536.972,00
+   4         3,03       6,06     1,52       303,0             4        130.899,24     4.363.308,00   65.449,62   4.559.656,86
+   5         3,05       6,09     1,52       304,5             5        131.553,74     4.385.124,54   65.776,87   4.582.455,14
+   6         3,06       6,12     1,53       306,0             6        132.211,50     4.407.050,16   66.105,75   4.605.367,42
+   7         3,08       6,15     1,54       307,6             7        132.872,56     4.429.085,41   66.436,28   4.628.394,26
+   8         3,09       6,18     1,55       309,1             8        133.536,93     4.451.230,84   66.768,46   4.651.536,23
+   9         3,11       6,21     1,55       310,7             9        134.204,61     4.473.486,99   67.102,30   4.674.793,91
+   10        3,12       6,24     1,56       312,2             10       134.875,63     4.495.854,43   67.437,82   4.698.167,88
+   11        3,14       6,28     1,57       313,8             11       135.550,01     4.518.333,70   67.775,01   4.721.658,72
+   12        3,15       6,31     1,58       315,3             12       136.227,76     4.540.925,37   68.113,88   4.745.267,01
+   13        3,17       6,34     1,58       316,9             13       136.908,90     4.563.630,00   68.454,45   4.768.993,35
+   14        3,19       6,37     1,59       318,5             14       137.593,44     4.586.448,15   68.796,72   4.792.838,31
+   15        3,20       6,40     1,60       320,1             15       138.281,41     4.609.380,39   69.140,71   4.816.802,51
+   16        3,22       6,43     1,61       321,7             16       138.972,82     4.632.427,29   69.486,41   4.840.886,52
+   17        3,23       6,47     1,62       323,3             17       139.667,68     4.655.589,43   69.833,84   4.865.090,95
+   18        3,25       6,50     1,62       324,9             18       140.366,02     4.678.867,37   70.183,01   4.889.416,41
+   19        3,27       6,53     1,63       326,5             19       141.067,85     4.702.261,71   70.533,93   4.913.863,49
+   20        3,28       6,56     1,64       328,2             20       141.773,19     4.725.773,02   70.886,60   4.938.432,80
+   21        3,30       6,60     1,65       329,8             21       142.482,06     4.749.401,88   71.241,03   4.963.124,97
+   22        3,31       6,63     1,66       331,5             22       143.194,47     4.773.148,89   71.597,23   4.987.940,59
+   23        3,33       6,66     1,67       333,1             23       143.910,44     4.797.014,64   71.955,22   5.012.880,30
+   24        3,35       6,70     1,67       334,8             24       144.629,99     4.820.999,71   72.315,00   5.037.944,70
+   25        3,36       6,73     1,68       336,5             25       145.353,14     4.845.104,71   72.676,57   5.063.134,42
+   26        3,38       6,76     1,69       338,1             26       146.079,91     4.869.330,23   73.039,95   5.088.450,09
+   27        3,40       6,80     1,70       339,8             27       146.810,31     4.893.676,88   73.405,15   5.113.892,34
+   28        3,42       6,83     1,71       341,5             28       147.544,36     4.918.145,27   73.772,18   5.139.461,81
+   29        3,43       6,86     1,72       343,2             29       148.282,08     4.942.736,00   74.141,04   5.165.159,11
+   30        3,45       6,90     1,72       345,0             30       149.023,49     4.967.449,68   74.511,75   5.190.984,91
+
+
+
+
+                                                                                                                            10
+    5.2. RECEITAS COM ENERGIA
+
+
+Como forma de obtenção de receita que viabilize a planta de geração de energia, considerou-se
+um padrão de negócio em que a futura concessionária não comercialize a energia produzida, mas
+que faça a locação das unidades de geração e a manutenção, de forma que um grande
+consumidor ou um consórcio de consumidores se constituam como autoprodutores, adequando
+o valor da locação e O&M ao preço do MWh médio que pagaria para o sistema.
+
+Neste sentido, adotou-se o valor médio total equivalente a R$ 360,00 por MWh, multiplicado
+pelo número de horas produtivas das unidades de geração, conforme demonstram os quadros a
+seguir.
+
+
+
+                             Geração de Energia     Mw       preço
+
+                         Potência Instalada         9,15
+                         Fator de Capacidade        92%
+                         Consumo Interno            1,45
+                         Potência disponível        7,7       320,00
+                         Horas produtivas ano        8.059
+
+
+
+Para um conjunto de 2 geradores com potência de 9.150 kWh (4.575 kWh cada), pode-se exportar
+7.700 kWh, deduzido o consumo interno de 1.450 kWh, o que resultaria em duas unidades de
+3,85 MWh, podendo se enquadrar como Geração Distribuída para aquele que for o auto
+produtor/locador da unidade.
+
+No cálculo do volume de energia produzida, considerou-se um fator de capacidade de 92% e
+8.059 horas produtivas por ano.
+
+Para o cálculo da receita com locação e O&M da planta de energia adotou-se uma equivalência
+com o valor por MWh (R$ 320,00/MWh) compatível com o mercado usuário de energia da área
+de atendimento do projeto.
+
+
+
+
+                                                                                          11
+                Geração de Energia
+
+             Horas
+  ANO                     MWh        RECEITA ANUAL(*)
+           Produtivas
+   1
+   2        4029,6       31.027,92     9.928.934,40
+   3        8059,2       62.055,84    19.857.868,80
+   4        8059,2       62.055,84    19.857.868,80
+   5        8059,2       62.055,84    19.857.868,80
+   6        8059,2       62.055,84    19.857.868,80
+   7        8059,2       62.055,84    19.857.868,80
+   8        8059,2       62.055,84    19.857.868,80
+   9        8059,2       62.055,84    19.857.868,80
+   10       8059,2       62.055,84    19.857.868,80
+   11       8059,2       62.055,84    19.857.868,80
+   12       8059,2       62.055,84    19.857.868,80
+   13       8059,2       62.055,84    19.857.868,80
+   14       8059,2       62.055,84    19.857.868,80
+   15       8059,2       62.055,84    19.857.868,80
+   16       8059,2       62.055,84    19.857.868,80
+   17       8059,2       62.055,84    19.857.868,80
+   18       8059,2       62.055,84    19.857.868,80
+   19       8059,2       62.055,84    19.857.868,80
+   20       8059,2       62.055,84    19.857.868,80
+   21       8059,2       62.055,84    19.857.868,80
+   22       8059,2       62.055,84    19.857.868,80
+   23       8059,2       62.055,84    19.857.868,80
+   24       8059,2       62.055,84    19.857.868,80
+   25       8059,2       62.055,84    19.857.868,80
+   26       8059,2       62.055,84    19.857.868,80
+   27       8059,2       62.055,84    19.857.868,80
+   28       8059,2       62.055,84    19.857.868,80
+   29       8059,2       62.055,84    19.857.868,80
+   30       8059,2       62.055,84    19.857.868,80
+
+(*) Locação e contrato de O&M = Valor de venda da energia
+
+
+
+
+                                                            12
+    5.3. RECEITAS DE CONTRAPRESTAÇÃO (TON/RSU)
+
+
+Os estudos consideram um volume médio de 269,9 toneladas/dia de resíduos sólidos urbanos à
+partir do ano 2 do contrato, com uma taxa de crescimento anual de 0,5% em função da evolução
+da população média. O valor da tonelada para efeito dos estudos foi considerado em R$ 94,00
+para cada tonelada disposta na unidade de tratamento.
+
+
+
+                      CONTRAPRESTAÇÃO - RESÍDUOS SÓLIDOS URBANOS
+
+                               TOTAL           TOTAL            TOTAL
+                    ANO     Quantidade em   Quantidade em   Receita R$/ano
+                                T/dia           T/ano         (R$94,0/t)
+                     1           0               0                0
+                     2         269,9         48.586,21      4.567.103,30
+                     3         271,3         97.658,27      9.179.877,63
+                     4         272,6         98.146,56      9.225.777,02
+                     5         274,0         98.637,30      9.271.905,90
+                     6         275,4         99.130,48      9.318.265,43
+                     7         276,7         99.626,14      9.364.856,76
+                     8         278,1         100.124,27     9.411.681,04
+                     9         279,5         100.624,89     9.458.739,45
+                     10        280,9         101.128,01     9.506.033,15
+                     11        282,3         101.633,65     9.553.563,31
+                     12        283,7         102.141,82     9.601.331,13
+                     13        285,1         102.652,53     9.649.337,78
+                     14        286,6         103.165,79     9.697.584,47
+                     15        288,0         103.681,62     9.746.072,39
+                     16        289,4         104.200,03     9.794.802,76
+                     17        290,9         104.721,03     9.843.776,77
+                     18        292,3         105.244,63     9.892.995,65
+                     19        293,8         105.770,86     9.942.460,63
+                     20        295,3         106.299,71     9.992.172,94
+                     21        296,8         106.831,21     10.042.133,80
+                     22        298,2         107.365,37     10.092.344,47
+                     23        299,7         107.902,19     10.142.806,19
+                     24        301,2         108.441,70     10.193.520,22
+                     25        302,7         108.983,91     10.244.487,82
+                     26        304,2         109.528,83     10.295.710,26
+                     27        305,8         110.076,48     10.347.188,81
+                     28        307,3         110.626,86     10.398.924,76
+                     29        308,8         111.179,99     10.450.919,38
+                     30        310,4         111.735,89     10.503.173,98
+
+
+
+                                                                                         13
+O valor total das contraprestações a serem pagas pelos Municípios no período deverá atingir R$
+279,73 milhões. Se dividirmos este montante por 28 anos e meio, que é o período de operação
+do projeto, chega-se a uma contraprestação publica média de R$ 9,8 milhões/ano, equivalente a
+R$ 94,00 por tonelada de resíduo sólido a ser disposto e tratado pelo concessionário.
+
+Na distribuição de obrigações da concessionária, no período de 30 anos, tem-se uma composição
+do valor médio da tonelada, remunerando principalmente os custos operacionais (35,3%) e os
+investimentos (33,1%), seguidos de impostos e taxas (23%) e resultado ao concessionário (8,5%).
+
+
+
+
+                  COMPOSIÇÃO DO VALOR MÉDIO DE TONELADA DE
+                             RSU - EM VPL 6%a.a.
+
+                                               8,5%
+                                                            35,3%
+                                  33,1%
+
+
+                                                            9,9%
+                                               13,1%
+
+
+
+
+                CUSTOS OPERACIONAIS   TAXAS E TRIBUTOS   IR/CS     INVESTIMENTOS   RESULTADO
+
+
+
+
+                                                                                               14
+       6. ANÁLISE ECONÔMICO-FINANCEIRA
+
+       6.1. Metodologia da Análise Econômica e Financeira
+
+A avaliação dos procedimentos e critérios para a elaboração dos estudos econômicos e dos
+estudos financeiros deve ser abordada em dois planos.
+
+Em um plano mais amplo, a macroestrutura metodológica aplicável à elaboração de estudos de
+viabilidade de um projeto de Parceria Público Privada que tenha por objeto a prestação de
+serviços de tratamento e destinação final de resíduos sólidos consubstanciar-se-á em um modelo
+de fluxo de caixa descontado, tanto em sua vertente de Value for Money quanto em sua vertente
+financeira. Porém, ao se detalhar de forma mais apurada os critérios, as premissas e a forma de
+interpretação dos resultados dependerão de diversos fatores, uma vez que os estudos possuem
+finalidades, portanto objetivos e métricas distintos.
+
+O objetivo da análise socioeconômica é apoiar o processo de decisão em relação à viabilidade do
+projeto sob o prisma do gestor público, traduzido no interesse da sociedade pela sua
+implantação, por meio da verificação dos efeitos econômicos decorrentes de sua implantação
+quantificados monetariamente em termos de benefícios e custos.
+
+O estudo de viabilidade financeira tem por objetivo determinar as condições nas quais o
+empreendimento é viável, seja ele para uma função pública ou privada, na perspectiva de um
+investidor financeiro.
+
+Diversas questões se colocam de forma subjacentes à avaliação econômica e financeira, dentre
+as quais pode-se destacar a definição do objetivo específico que se busca com a implantação do
+projeto de PPP.
+
+Em serviços inexistentes, o objetivo do Contrato de Parceria pode ser a simples viabilização do
+serviço. Mas em serviços que já são prestados no âmbito do Município, a transição do serviço
+prestado por um contrato simples ou execução direta para um modelo mais abrangente de
+Parceria Público-Privada - PPP pode ter como propósito:
+
+   -     Reduzir o custo global com a prestação dos serviços na comparação com os contratos
+         correntes;
+   -     Simplificar os procedimentos de contratação, gestão e monitoramento dos serviços por
+         parte da Prefeitura do Município;
+
+                                                                                            15
+   -     Elevar o padrão de qualidade dos serviços prestados na comparação com a situação
+         corrente;
+   -     Promover o desenvolvimento tecnológico setorial, viabilizando o acesso do agente
+         público a tecnologias que não são disponíveis no modelo de contratação corrente, seja
+         por serem específicas para o caso em tela, seja por estarem além da capacidade de
+         investimento a curto prazo.
+
+Os custos econômicos podem ser subdivididos em custos de investimentos necessários para
+implantação do empreendimento, custos pré-operacionais, custos operacionais para pleno
+funcionamento do empreendimento e custos de manutenção durante a fase de operação.
+
+Os benefícios são gerados pelas externalidades positivas do projeto, tais como a redução do
+dispêndio público com os serviços prestados e os ganhos monetizáveis de melhoras que
+porventura sejam implantadas nos serviços prestados.
+
+Os critérios adotados na avaliação econômica se baseiam na relação benefício-custo. A análise
+econômica e financeira pode se valer de diversos indicadores que serão apresentados na
+sequência: Taxa Interna de Retorno (TIR), Valor Presente Líquido (VPL), Período de Recuperação
+do Investimento, entre outros. A TIR, como será explicitado, costuma ser o principal indicador
+para definição da viabilidade econômico e acompanhamento do desempenho do Contrato.
+
+
+       6.2. Taxa Interna de Retorno - TIR
+
+A taxa interna de retorno é a taxa que iguala o valor presente dos recebimentos com o dos
+pagamentos previstos no caixa, adotando-se como data focal a data de início da operação para
+comparação dos fluxos de caixa no tempo, sendo o fluxo de caixa do momento zero representado
+pelo investimento inicial e os demais representados pelos valores das receitas e prestações
+devidas.
+
+Pode-se dizer que a TIR representa “[...] a rentabilidade do projeto expressa em termos de taxa
+de juros composta equivalente periódica” (ASSAF NETO, 2009, p. 326), e sua formulação pode ser
+representada da seguinte forma, supondo-se que todos os movimentos de caixa são atualizados
+para o momento zero:
+
+
+
+
+                                                                                            16
+                                     𝑛                𝑛
+                                         𝐼𝑡          𝐹𝐶𝑡
+                               𝐼0 + ∑          = ∑
+                                      (1 + 𝐾)𝑡     (1 + 𝐾)𝑡
+                                    𝑡=1              𝑡=1
+
+
+
+
+Onde: 𝐼0 = montante de investimento no início do projeto; 𝐼𝑡 = montantes previstos de investimento
+em cada momento subsequente; 𝐾 = taxa de rentabilidade equivalente periódica (TIR); 𝐹𝐶 = fluxos
+previstos de entradas de caixa em cada período do projeto.
+
+Por meio do método da TIR podemos encontrar a remuneração exata de um investimento em
+termos percentuais. A TIR é a taxa de juros que permite igualar receitas e despesas na data 0,
+transformando o valor presente do investimento em 0. Portanto, ao calcularmos a TIR de um
+investimento, estaremos extraindo dele o percentual de ganho que ele oferece ao investidor,
+visto que todas as entradas e saídas de caixa se deslocarão para a data 0.
+
+Vale destacar que o Fluxo de Caixa Previsto reflete expectativas em relação ao comportamento
+das receitas e das despesas do respectivo projeto, assim como o montante de investimentos
+esperados para o futuro. Ao se analisar a viabilidade econômico-financeira de um dado projeto
+toma-se como dado essas expectativas. Alterações no fluxo de receitas, custos dos serviços ou
+montante dos investimentos necessários podem alterar a TIR dos projetos, onde se coloca o risco
+dos mesmos.
+
+De acordo com a natureza do risco e com a capacidade de se proteger do mesmo, ou não, define-
+se eventuais alterações contratuais para o reequilíbrio. Daí a importância de se definir com
+clareza os parâmetros utilizados na análise econômica do Contrato.
+
+
+    6.3. TIR Alavancada e Não Alavancada
+
+É preciso conceituar e clarificar as diferenças fundamentais entre as chamadas Taxas Internas de
+Retorno do Projeto e do Acionista, para o estabelecimento da justa remuneração do capital.
+
+Sob a ótica do projeto, a TIR não-alavancada pode ser definida como a rentabilidade estimada do
+empreendimento, em relação ao investimento realizado. Matematicamente, é a taxa de
+desconto que anula o VPL do fluxo de caixa do projeto, conforme definido anteriormente.
+
+
+
+
+                                                                                               17
+A TIR do projeto representa a rentabilidade intrínseca ao mesmo, na medida em que o fluxo de
+caixa é calculado sob o conceito “All Equity Cost of Capital”, ou seja, considerando que o projeto
+seja financiado 100% por recursos dos acionistas.
+
+Sob a ótica do acionista, a TIR alavancada leva em conta a alavancagem financeira do
+empreendimento, ou seja, a influência do endividamento na elaboração do fluxo de caixa. Para
+se ter o fluxo de caixa resultante do acionista, tem que se considerar a parcela de capital de
+terceiros no financiamento do empreendimento.
+
+A TIR do acionista, também conhecida como TIR alavancada, representa a taxa de juros que anula
+o VPL do fluxo de caixa para o acionista, descontada as modalidades de financiamento utilizadas;
+ou seja, neste caso considera-se como entradas os financiamentos e saídas os pagamentos de
+juros e amortizações realizadas.
+
+A TIR do acionista será tanto maior quanto melhor forem as condicionantes financeiras que
+envolvem os empréstimos, que variam de empresa para empresa e de acordo com as opções de
+financiamento escolhidas, sendo mérito do empreendedor a obtenção de um financiamento a
+taxas menores.
+
+Sempre que as condições de financiamento (taxa de juros dos empréstimos) para a realização do
+investimento forem melhores (taxas de juros mais baixas) do que a taxa de retorno do projeto,
+isto ampliará o retorno do acionista, ou seja, aumentará a TIR alavancada.
+
+Para a análise do projeto, não é considerada sua alavancagem financeira, uma vez que deve ser
+avaliada a capacidade e mérito do Projeto isoladamente, do ponto de vista operacional. Sendo
+assim, será utilizado o método da TIR Não Alavancada. Porém, é importante que o projeto conte
+com um financiamento para alavancar a rentabilidade dos potenciais empreendedores.
+
+Portanto, o apoio de importantes fontes de financiamento competitivas, tais como BNDES, são
+fundamentais para aumentar a atratividade do projeto.
+
+Além da Taxa Interna de Retorno, outros métodos podem ser utilizados para analisar o retorno
+de um investimento, como o Valor Presente Líquido - VPL e o Payback.
+
+
+
+
+                                                                                               18
+    6.4. Valor Presente Líquido - VPL
+
+O VPL é a diferença entre o valor investido e o valor resgatado ao final do investimento, trazido
+a valor presente, ou seja, o somatório dos valores presentes dos fluxos estimados de uma
+aplicação, calculados a partir de uma taxa dada e de seu período de duração.
+
+Se o VPL for positivo, significa que o investimento é economicamente viável, aumentando o ativo
+do investidor. Se o VPL for nulo, significa que o investimento é economicamente viável, mas o
+ativo do investidor não irá mudar, e se o VPL for negativo, significa que o investimento não é
+economicamente viável e que o investidor terá perdas em seu ativo.
+
+Este método, apesar da baixa complexidade, não é amplamente utilizado para o cálculo de
+retorno de um investimento, pois há dificuldade em definir qual é a taxa de desconto mais
+adequada, isto é, qual a taxa de juros que vigoraria no longo prazo.
+
+Uma dificuldade adicional deste método, além da escolha da taxa de desconto, é a sua previsão
+ao longo do tempo, pois esta tende a variar no tempo, em especial, em uma economia como a
+brasileira que tem apresentado significativa volatilidade e mudanças acentuadas na percepção
+de risco pelos agentes econômicos, apesar de já ter se alcançado padrões de estabilidade muito
+mais elevados do que no passado recente. Além disso, o cálculo do VPL traz como resultado um
+valor monetário, isto é, o valor excedente que sobra do projeto, já considerando a remuneração
+dada pela taxa de desconto aplicada, e não uma taxa de juros.
+
+
+    6.5. Payback
+
+Outro método utilizado na avaliação de projetos de investimento é o método do Payback. O
+Payback é a extensão de tempo necessária para que as entradas de caixa do projeto se igualem
+ao valor a ser investido, ou seja, o tempo de recuperação do investimento realizado.
+
+A determinação do período de retorno é um cálculo simples de dividir o valor do investimento
+pelo fluxo de caixa projetado. Apesar de sua simplicidade, este método não considera o custo de
+oportunidade do capital. Pode também ser considerado o Payback Descontado, que considera o
+fluxo de caixa descontado, ou seja, considera o valor do dinheiro no tempo. Ainda assim, estes
+métodos não medem a rentabilidade do investimento, exigem um limite arbitrário de tempo para
+a tomada de decisão e também não consideram os fluxos posteriores ao período de Payback.
+
+
+
+                                                                                              19
+Como o método de Payback se concentra em rentabilidade a curto prazo, um projeto atraente
+pode ser recusado se o tempo de retorno for a única variável considerada. Dadas as duas
+limitações, estes métodos geralmente são utilizados como análises adicionais e auxiliares na
+tomada de decisão.
+
+Dadas as limitações dos métodos citados, o método da Taxa Interna de Retorno é o mais indicado
+e mais amplamente utilizado para a análise de retornos de projetos. Sendo assim, foi este o
+método selecionado para a análise em questão.
+
+
+    6.6. Resultados do Fluxo de Caixa
+
+Com base nas informações acima, foi simulado um fluxo de caixa estimado a partir de tecnologias
+existentes, adotadas atualmente e aceitas pelo órgão regulador. Estas tecnologias serviram de
+base para a projeção dos custos operacionais e administrativos. Incorporou-se aos custos o
+pagamento de impostos conforme legislação atual nos diferentes entes da federação.
+
+O cenário de se ter 100% de capital próprio reduz o risco de alavancagem financeira mas exige
+maior comprometimento de aporte de recurso da concessionária, limitando a capacidade de
+investimento à disponibilidade de caixa do acionista. Portanto, o número da estrutura de capital
+nessa situação é 100% de capital próprio.
+
+Outro aspecto a ser destacado em relação ao fluxo de caixa foi a opção pela depreciação total do
+investimento, considerando as características dos investimentos realizados dentro do prazo da
+concessão, o que permite que não precise ser computado como receita ao final do contrato o
+ressarcimento ao prestador de serviço do valor residual dos investimentos realizados. De acordo
+com as hipóteses adotadas, a Taxa Interna de Retorno foi estimada em 8,28% a.a. que é
+condizente com atuais custos de oportunidades do mercado e cenário de juros brasileiro.
+
+
+
+
+                                                                                             20
+                                 RECEITAS ESTIMADAS - R$
+            600.000.000                                               565.949.261
+
+
+            500.000.000
+
+            400.000.000
+
+            300.000.000      279.729.547
+
+
+            200.000.000
+                                                  138.250.767
+
+            100.000.000
+
+                     0
+                          CONTRAPRESTAÇÃO    VENDA DE RECICLÁVEIS   VENDA DE ENERGIA
+
+
+
+
+Para a viabilização do projeto, na composição das receitas a contraprestação a ser paga pelos
+Municípios deve representar 28% do total que a concessão necessitará.
+
+
+                             RECEITAS ESTIMADAS
+
+
+                                            28%
+                                                                      CONTRAPRESTAÇÃO
+                           58%
+                                                                      RECICLÁVEIS
+                                            14%
+                                                                      ENERGIA
+
+
+
+
+O cálculo do valor da Contraprestação foi realizado de forma a viabilizar a cobertura integral dos
+custos, ao mesmo tempo em que se produz um retorno adequado para os agentes privados
+interessados em realizarem investimentos no setor, aplicando as diversas tecnologias disponíveis
+no mercado.
+
+Foram consideradas também receitas acessórias advindas de geração de energia e venda de
+recicláveis para viabilizar as estruturas de tratamento e o projeto como um todo.
+                                                                                               21
+Para se ter uma análise mais precisa dos usos dos recursos advindos das receitas esperadas,
+considerou-se uma taxa de desconto de 6,0 % a.a., de forma a melhor comparar os valores no
+tempo, dado que ocorrem em prazos distintos.
+
+                                 TOTAIS EM VPL (6,0% a.a.)
+                            CUSTOS OPERACIONAIS     158.632.034
+                              TAXAS E TRIBUTOS        44.703.726
+                                    IR/CS             58.891.962
+                               INVESTIMENTOS        148.725.156
+                                 RESULTADO            38.355.146
+
+Os estudos elaborados indicam a viabilidade do empreendimento, considerando um
+investimento de R$ 151,2 milhões de reais, a ser implantado em um ano e meio e num prazo de
+contrato de 30 anos.
+
+    Premissas adotadas:
+
+    - Período de Contrato: 30 anos
+
+    - Início da operação: 19º mês do contrato
+
+    - Valores constantes base out/2020
+
+    - Sobre Faturamento Cofins (3,00%); PIS (0,65%)
+
+    - Serviços: ISSQN (5,00%)
+
+    - Venda de recicláveis: ICMS (18,00%)
+
+    - Imposto de Renda: 25%
+
+    - Contribuição social: 9%
+
+    - Depreciação dos investimentos da usina: 25 anos
+
+
+
+
+                                                                                        22
+A seguir são apresentados os resultados obtidos nos estudos considerando as premissas
+adotadas.
+
+
+    •   PRAZO CONTRATUAL: 30 ANOS (18 meses de implantação + 342 meses de operação)
+    •   INVESTIMENTO: R$ 151.285.500,00
+    •   TEMPO DE CONSTRUÇÃO: 12 meses
+    •   PROJETO E APROVAÇÕES: 6 meses
+    •   CUSTO OPERACIONAL TOTAL: R$ 341.229.160,00
+
+
+    •   PREÇO DA ENERGIA: R$ 320,00/MWh
+    •   PREÇO DA DESTINAÇÃO FINAL DO RESÍDUO/CONTRAPRESTAÇÃO (PPP): R$94,00/Ton
+    •   PAYBACK SIMPLES: 13 anos
+    •   TAXA INTERNA DE RETORNO DO PROJETO(TIR): 8,28% a.a.
+
+
+
+
+                                                                                      23
+6.7. FLUXO DE CAIXA
+      FLUXO DE CAIXA DO PROJETO
+      ESTUDOS DE VIABILIDADE PARA O TRATAMENTO E DESTINAÇÃO FINAL DE RSU COM GERAÇÃO DE ENERGIA                                                                             TIR            8,28%
+
+                                                                                               TOTAL CUSTOS
+                                                                                     DEMAIS
+                                                                     Taxas e                   OPERACIONAIS        LUCRO
+         ANO DA         CONTRA         OUTRAS                                      DESPESAS E                                                RESULTADO      INVESTIMEN RESULTADO RESULTADO
+                                                     RECEITA TOTAL Tributos s/                    E TAXAS E     LÍQUIDO DA      IR/CS
+       CONCESSÃO       PRESTAÇÃO       RECEITAS                                      CUSTOS                                                  APÓS IR/CS         TOS        FC    Acumulado
+                                                                    RECEITA                     IMPOSTOS S/      OPERAÇÃO
+                                                                                  OPERACIONAIS
+                                                                                                  RECEITAS
+
+             1                     0             0               0            0       3.608.440     3.608.440     -3.608.440             0     -3.608.440   106.052.751 -109.661.191   -109.661.191
+             2             4.567.103    12.186.134      16.753.238    1.660.203       8.742.480    10.402.683      6.350.554       101.706      6.248.849    45.232.749 -38.983.900    -148.645.091
+             3             9.179.878    24.394.841      33.574.718    3.328.420      10.132.080    13.460.500     20.114.218     4.781.351     15.332.867             0 15.332.867     -133.312.224
+             4             9.225.777    24.417.526      33.643.303    3.336.474      10.492.080    13.828.554     19.814.749     4.679.532     15.135.217             0 15.135.217     -118.177.007
+             5             9.271.906    24.440.324      33.712.230    3.344.567      11.752.080    15.096.647     18.615.582     4.271.815     14.343.767             0 14.343.767     -103.833.240
+             6             9.318.265    24.463.236      33.781.502    3.352.702      10.672.080    14.024.782     19.756.720     4.659.802     15.096.918             0 15.096.918      -88.736.322
+             7             9.364.857    24.486.263      33.851.120    3.360.877      13.192.080    16.552.957     17.298.163     3.823.893     13.474.270             0 13.474.270      -75.262.051
+             8             9.411.681    24.509.405      33.921.086    3.369.093      11.212.080    14.581.173     19.339.913     4.518.088     14.821.826             0 14.821.826      -60.440.226
+             9             9.458.739    24.532.663      33.991.402    3.377.350      12.472.080    15.849.430     18.141.973     4.110.788     14.031.185             0 14.031.185      -46.409.041
+            10             9.506.033    24.556.037      34.062.070    3.385.648      11.392.080    14.777.728     19.284.342     4.499.193     14.785.149             0 14.785.149      -31.623.892
+            11             9.553.563    24.579.528      34.133.091    3.393.987      10.852.080    14.246.067     19.887.023     4.704.105     15.182.918             0 15.182.918      -16.440.974
+            12             9.601.331    24.603.136      34.204.467    3.402.369      11.212.080    14.614.449     19.590.018     4.603.123     14.986.895             0 14.986.895       -1.454.079
+            13             9.649.338    24.626.862      34.276.200    3.410.792      14.812.080    18.222.872     16.053.328     3.400.649     12.652.679             0 12.652.679       11.198.600
+            14             9.697.584    24.650.707      34.348.292    3.419.258      11.032.080    14.451.338     19.896.954     4.707.482     15.189.472             0 15.189.472       26.388.072
+            15             9.746.072    24.674.671      34.420.744    3.427.765      11.032.080    14.459.845     19.960.898     4.729.223     15.231.676             0 15.231.676       41.619.748
+            16             9.794.803    24.698.755      34.493.558    3.436.316      11.032.080    14.468.396     20.025.162     4.751.072     15.274.090             0 15.274.090       56.893.838
+            17             9.843.777    24.722.960      34.566.737    3.444.909      11.212.080    14.656.989     19.909.748     4.711.831     15.197.916             0 15.197.916       72.091.754
+            18             9.892.996    24.747.285      34.640.281    3.453.545      12.292.080    15.745.625     18.894.656     4.366.700     14.527.956             0 14.527.956       86.619.710
+            19             9.942.461    24.771.732      34.714.193    3.462.224      11.572.080    15.034.304     19.679.889     4.633.679     15.046.210             0 15.046.210      101.665.920
+            20             9.992.173    24.796.302      34.788.475    3.470.947      13.732.080    17.203.027     17.585.448     3.921.570     13.663.879             0 13.663.879      115.329.798
+            21            10.042.134    24.820.994      34.863.128    3.479.713      10.852.080    14.331.793     20.531.335     4.923.171     15.608.164             0 15.608.164      130.937.962
+            22            10.092.344    24.845.809      34.938.154    3.488.523      11.212.080    14.700.603     20.237.551     4.823.285     15.414.267             0 15.414.267      146.352.229
+            23            10.142.806    24.870.749      35.013.555    3.497.377      14.812.080    18.309.457     16.704.098     3.621.911     13.082.188             0 13.082.188      159.434.416
+            24            10.193.520    24.895.813      35.089.334    3.506.275      11.032.080    14.538.355     20.550.979     4.929.850     15.621.129             0 15.621.129      175.055.545
+            25            10.244.488    24.921.003      35.165.491    3.515.218      11.032.080    14.547.298     20.618.193     4.952.703     15.665.490             0 15.665.490      190.721.035
+            26            10.295.710    24.946.319      35.242.029    3.524.206      11.032.080    14.556.286     20.685.744     6.417.987     14.267.756             0 14.267.756      204.988.791
+            27            10.347.189    24.971.761      35.318.950    3.533.238      11.212.080    14.745.318     20.573.632     6.995.035     13.578.597             0 13.578.597      218.567.388
+            28            10.398.925    24.997.331      35.396.255    3.542.316      12.292.080    15.834.396     19.561.860     6.651.032     12.910.827             0 12.910.827      231.478.216
+            29            10.450.919    25.023.028      35.473.947    3.551.439      11.572.080    15.123.519     20.350.428     6.919.146     13.431.283             0 13.431.283      244.909.499
+            30            10.503.174    25.048.854      35.552.028    3.560.607      13.732.080    17.292.687     18.259.340     6.208.176     12.051.165             0 12.051.165      256.960.663
+          TOTAL          279.729.547   704.200.028     983.929.575   98.036.355     341.229.160   439.265.515    544.664.060   136.417.897    408.246.163   151.285.500 256.960.663
+       VPL (6% a.a.)     126.347.465   322.960.558     449.308.023   44.703.726     158.632.034   203.335.759    245.972.264    58.891.962    187.080.302   148.725.156   38.355.146
+
+                                                                                                                                                                                                      24
+

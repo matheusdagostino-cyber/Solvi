@@ -1,0 +1,294 @@
+# Manifesto do acervo BASE DOCUMENTAL CIVAP
+# Origem: Google Drive, file id 16TLigxWmHAWefGkAHvkVlxPdwkqlu7ly (zip 385MB, baixado em 16/08/2026)
+# Política: originais ate 10MB com texto nativo versionados em docs/; demais ficam no Drive (hash abaixo garante integridade)
+arquivos:
+  - arquivo: "ADESÃO DOS MUNICÍPIOS.pdf"
+    bytes: 3582099
+    sha256_16: 75be062eb123d8d8
+    texto: ocr_pendente
+    original_no_git: false
+  - arquivo: "ALTERAÇÃO CONTRATUAL ..pdf"
+    bytes: 52688387
+    sha256_16: 68dee717bd173cfd
+    texto: ocr_pendente
+    original_no_git: false
+  - arquivo: "ALTERAÇÃO CONTRATUAL DE INCLUSÃO DOS SÓCIOS AQUI ESTÁ O GATO.pdf"
+    bytes: 50522459
+    sha256_16: 4b206e363fbd1494
+    texto: ocr_pendente
+    original_no_git: false
+  - arquivo: "ALTERAÇÃO CONTRATUAL SSSS.pdf"
+    bytes: 25301574
+    sha256_16: 1ce34d4f998668c2
+    texto: ocr_pendente
+    original_no_git: false
+  - arquivo: "ANEXO - INDICADORES DE DESEMPENHO.pdf"
+    bytes: 155014
+    sha256_16: 982d01fd87309382
+    texto: texto_nativo
+    original_no_git: true
+  - arquivo: "ANEXO - MATRIZ DE RISCOS.pdf"
+    bytes: 133144
+    sha256_16: f9a9790ff044d49a
+    texto: texto_nativo
+    original_no_git: true
+  - arquivo: "ANEXO - METAS E OBRIGAÇÕES.pdf"
+    bytes: 120523
+    sha256_16: 2ab8f5eb755dbe76
+    texto: texto_nativo
+    original_no_git: true
+  - arquivo: "ANEXO - MODELO DE PROPOSTA.pdf"
+    bytes: 415378
+    sha256_16: f0176cf91819fe61
+    texto: texto_nativo
+    original_no_git: true
+  - arquivo: "ANEXO I EDITAL - MODELOS E DECLARAÇÕES.pdf"
+    bytes: 200254
+    sha256_16: eb1464ac97f62dd5
+    texto: texto_nativo
+    original_no_git: true
+  - arquivo: "ANEXO IV.pdf"
+    bytes: 204672
+    sha256_16: ecb9436c37c37d65
+    texto: texto_nativo
+    original_no_git: true
+  - arquivo: "ANEXO V - OBTENÇÃO DE LICENÇAS.pdf"
+    bytes: 220550
+    sha256_16: e98e0c662d92f61a
+    texto: texto_nativo
+    original_no_git: true
+  - arquivo: "ASSEMBLEIA DE APROVAÇÃO DE PLANOS DE NEGÓCIOS.pdf"
+    bytes: 65679859
+    sha256_16: a4ad4b874b151f84
+    texto: ocr_pendente
+    original_no_git: false
+  - arquivo: "ATA JUCESP.pdf"
+    bytes: 26481945
+    sha256_16: f0f94ffcdcfde6be
+    texto: ocr_pendente
+    original_no_git: false
+  - arquivo: "ATA JULGAMENTO PROPOSTA.pdf"
+    bytes: 1728731
+    sha256_16: fa12e6000f1aa3ab
+    texto: ocr_pendente
+    original_no_git: false
+  - arquivo: "Alteração contratual.pdf"
+    bytes: 93511821
+    sha256_16: 15975bda0531dd77
+    texto: ocr_pendente
+    original_no_git: false
+  - arquivo: "CNPJ CARBOGÁS SOCIO NOVO.pdf"
+    bytes: 481208
+    sha256_16: 1fa830b8a405197d
+    texto: ocr_pendente
+    original_no_git: false
+  - arquivo: "CNPJ NOVO SOCIO REDSTONE.pdf"
+    bytes: 383934
+    sha256_16: 2207f3214db0ae77
+    texto: ocr_pendente
+    original_no_git: false
+  - arquivo: "CNPJ SÓCIO I NOVA LIMA.pdf"
+    bytes: 460167
+    sha256_16: 0a716effd75b7201
+    texto: ocr_pendente
+    original_no_git: false
+  - arquivo: "CNPJ SÓCIO II RIO DE JANEIRO.pdf"
+    bytes: 1224234
+    sha256_16: 82b63f61e2ef294e
+    texto: ocr_pendente
+    original_no_git: false
+  - arquivo: "CNPJ.pdf"
+    bytes: 382269
+    sha256_16: 1ef41600cef29f55
+    texto: ocr_pendente
+    original_no_git: false
+  - arquivo: "COMUNICADO PROSSEGUIMENTO.pdf"
+    bytes: 104571
+    sha256_16: c40f455d6538605a
+    texto: texto_nativo
+    original_no_git: true
+  - arquivo: "CONTRATO CONCESSÃO.pdf"
+    bytes: 23122287
+    sha256_16: 4da3b8b3b243dfa5
+    texto: ocr_pendente
+    original_no_git: false
+  - arquivo: "DISPENSA MACARAÍ.pdf"
+    bytes: 319444
+    sha256_16: ba40fa51c1e07915
+    texto: texto_nativo
+    original_no_git: true
+  - arquivo: "DISPENSA OURINHOS.pdf"
+    bytes: 319555
+    sha256_16: e7cad7d1620119a6
+    texto: texto_nativo
+    original_no_git: true
+  - arquivo: "DSDSDSS.pdf"
+    bytes: 3405057
+    sha256_16: 3bba3a598ad32227
+    texto: ocr_pendente
+    original_no_git: false
+  - arquivo: "Dossie_Documental_SPE_BAL_CIVAP.docx"
+    bytes: 109220
+    sha256_16: 51496c18a855f1b7
+    texto: docx_convertido
+    original_no_git: true
+  - arquivo: "Dossie_Documental_SPE_BAL_CIVAP.pdf"
+    bytes: 441655
+    sha256_16: 857fb00ae8e2a1a7
+    texto: texto_nativo
+    original_no_git: true
+  - arquivo: "EDITAL 01.2021.pdf"
+    bytes: 423332
+    sha256_16: 398671ae728b0db9
+    texto: texto_nativo
+    original_no_git: true
+  - arquivo: "HABILITAÇÃO CONSÓRCIO BAL.pdf"
+    bytes: 104621
+    sha256_16: 619743c2946cbc13
+    texto: texto_nativo
+    original_no_git: true
+  - arquivo: "HABILITAÇÃO FORTNORT.pdf"
+    bytes: 1996435
+    sha256_16: 1bb53cec75043e23
+    texto: ocr_pendente
+    original_no_git: false
+  - arquivo: "HOMOLOGAÇÃO CONSORCIO.pdf"
+    bytes: 223827
+    sha256_16: 2806e74f9156dd4f
+    texto: ocr_pendente
+    original_no_git: false
+  - arquivo: "IMPUGNAÇÃO ENERGY.pdf"
+    bytes: 5958472
+    sha256_16: b446754e010da145
+    texto: ocr_pendente
+    original_no_git: false
+  - arquivo: "IMPUGNAÇÃO REVITA.pdf"
+    bytes: 9658188
+    sha256_16: 1567d705727f2009
+    texto: ocr_pendente
+    original_no_git: false
+  - arquivo: "JULGAMENTO IMPUGNAÇÃO ENERGY.pdf"
+    bytes: 673069
+    sha256_16: 4e9514f9dabb35b3
+    texto: texto_nativo
+    original_no_git: true
+  - arquivo: "JULGAMENTO IMPUGNAÇÃO REVITA.pdf"
+    bytes: 188054
+    sha256_16: cd65e1044e8efb22
+    texto: texto_nativo
+    original_no_git: true
+  - arquivo: "MINUTA DE CONTRATO.pdf"
+    bytes: 580813
+    sha256_16: 25af32de66ea6acf
+    texto: texto_nativo
+    original_no_git: true
+  - arquivo: "MODELAGEM II.pdf"
+    bytes: 1404425
+    sha256_16: c546db7b2ad53c4f
+    texto: texto_nativo
+    original_no_git: true
+  - arquivo: "MODELAGEM III.pdf"
+    bytes: 1709217
+    sha256_16: 19397bec4198720c
+    texto: texto_nativo
+    original_no_git: true
+  - arquivo: "MODELAGEM.pdf"
+    bytes: 4502094
+    sha256_16: d5d67d10b687ac24
+    texto: texto_nativo
+    original_no_git: true
+  - arquivo: "PRAZO SUPLEMENTAR.pdf"
+    bytes: 106466
+    sha256_16: 90685dea7c88202e
+    texto: texto_nativo
+    original_no_git: true
+  - arquivo: "QUADRO SOCIETÁRIO.pdf"
+    bytes: 163847
+    sha256_16: 17e5bb1082293d16
+    texto: ocr_pendente
+    original_no_git: false
+  - arquivo: "QUESTIONAMENTOS II.pdf"
+    bytes: 172104
+    sha256_16: 8f9f3e30eeb3bf35
+    texto: texto_nativo
+    original_no_git: true
+  - arquivo: "QUESTIONAMENTOS.pdf"
+    bytes: 168923
+    sha256_16: df27663b3ded4883
+    texto: texto_nativo
+    original_no_git: true
+  - arquivo: "Quadro societário carbogas.pdf"
+    bytes: 179614
+    sha256_16: 76ef26701fd7fe89
+    texto: ocr_pendente
+    original_no_git: false
+  - arquivo: "Quadro societário sócio I.pdf"
+    bytes: 141903
+    sha256_16: 68dec816b1f42ca2
+    texto: ocr_pendente
+    original_no_git: false
+  - arquivo: "Quadro societário sócio II.pdf"
+    bytes: 145792
+    sha256_16: 4721681c97c4d476
+    texto: ocr_pendente
+    original_no_git: false
+  - arquivo: "RENUNCIA.pdf"
+    bytes: 3716407
+    sha256_16: 43ebf6c02aa8c91b
+    texto: ocr_pendente
+    original_no_git: false
+  - arquivo: "Retirada de sócio pica união.pdf"
+    bytes: 11745576
+    sha256_16: 0240c084ab355f58
+    texto: ocr_pendente
+    original_no_git: false
+  - arquivo: "SUBSTITUIÇÃO DE PRESIDENTE.pdf"
+    bytes: 9786832
+    sha256_16: 564eb73792bba40f
+    texto: ocr_pendente
+    original_no_git: false
+  - arquivo: "SUSPENÇÃO EDITAL.pdf"
+    bytes: 144072
+    sha256_16: c0a044cd2ecbc422
+    texto: texto_nativo
+    original_no_git: true
+  - arquivo: "Simplificada.pdf"
+    bytes: 543364
+    sha256_16: ee61ec9507a26b22
+    texto: ocr_pendente
+    original_no_git: false
+  - arquivo: "TERMO DE REFERÊNCIA.pdf"
+    bytes: 206789
+    sha256_16: 8b8f79e7f5f295cc
+    texto: texto_nativo
+    original_no_git: true
+  - arquivo: "aLTERAÇÃO DE CONSELHEIROS E DIRETORES.pdf"
+    bytes: 24549587
+    sha256_16: edf5c2029cbd2baf
+    texto: ocr_pendente
+    original_no_git: false
+  - arquivo: "ata de eleição 2022.pdf"
+    bytes: 43869194
+    sha256_16: 72acc2badd7121fb
+    texto: ocr_pendente
+    original_no_git: false
+  - arquivo: "cnpj sócio III Santos.pdf"
+    bytes: 555005
+    sha256_16: 4a46299aadc6d8ab
+    texto: ocr_pendente
+    original_no_git: false
+  - arquivo: "justiça RJ - AQUI DÁ PRA PEDIR A DISSOLUÇÃO DO CONSÓRCIO.pdf"
+    bytes: 945776
+    sha256_16: d25160a821208f83
+    texto: texto_nativo
+    original_no_git: true
+  - arquivo: "qUADRO Societário Red STONE.pdf"
+    bytes: 166481
+    sha256_16: 39ed1cb9a7b40b3a
+    texto: ocr_pendente
+    original_no_git: false
+  - arquivo: "quadro societário sócio III.pdf"
+    bytes: 150463
+    sha256_16: b14ed60756eba3de
+    texto: ocr_pendente
+    original_no_git: false

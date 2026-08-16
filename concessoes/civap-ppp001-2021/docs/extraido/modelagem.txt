@@ -1,0 +1,3317 @@
+              ��     ��       �   ��
+
+
+
+J.,   "§). \jj�� lJD r �   �J�JJ� s@.L_(�;� l!!J.1 l0),l) � o �
+        CONSÓRCIO CIVAP
+  Consórcio Intermunicipal do Vale do Paranapanema
+
+
+
+  MODELO PARA GERAÇÃO DE ENERGIA
+ATRAVÉS DOS RESÍDUOS SÓLIDOS URBANOS
+
+
+ VOLUME 1 - MODELAGEM DO PROJETO
+      TÉCNICO-OPERACIONAL
+                     NOVEMBRO/2021
+                       REVISÃO 01
+
+
+
+
+                                                     1
+                                   CONSÓRCIO CIVAP
+
+       MODELO PARA GERAÇÃO DE ENERGIA ATRAVÉS DOS RESÍDUOS SÓLIDOS
+                                URBANOS
+
+
+APRESENTAÇÃO
+
+O presente documento revisado incorpora alterações decorrentes das determinações do
+Tribunal de Contas do Estado de São Paulo, conforme decisão em sua 33ª Sessão Ordinária do
+Tribunal Pleno, realizada em 20/10/2021.
+
+Assim os pontos alterados neste documento incorpora adequações e coplementações do estudo
+referentes aos seguintes pontos:
+
+   ‐   Redução de 16 para 14 Municípios considerados no projeto, os quais aderiram à Parceria
+       Público-Privada proposta;
+
+   ‐   - Sobre a redução de massa de rejeitos admitida para a destinação final, após os processos
+       de tratamento e geração de energia;
+
+   ‐   - Composição do valor médio de tonelada de resíduo para disposição final;
+
+   ‐   - Detalhamento da matriz de investimentosl;
+
+   ‐   - Caracterização dos resíduos considerados, limitados aos resíduos sólidos urbanos, não
+       incoporando resíduos perigosos ou de serviços de saúde.
+
+
+
+
+                                                                                               2
+   1. O PROJETO
+
+O Estudo de modelagem e viabilidade está direcionado para constituir uma solução para
+Municípios integrantes do Consórcio CIVAP, com vistas ao tratamento e destinação final
+dos resíduos sólidos urbanos, com objetivo de atender às diretrizes da Política Nacional
+de Resíduos Sólidos e o aproveitamento energético, nos termos do Art.3º, inciso VII, da
+Lei Federal n 12.305/2010:
+
+VII - destinação final ambientalmente adequada: destinação de resíduos que inclui a
+reutilização, a reciclagem, a compostagem, a recuperação e o aproveitamento
+energético ou outras destinações admitidas pelos órgãos competentes do Sisnama, do
+SNVS e do Suasa, entre elas a disposição final, observando normas operacionais
+específicas de modo a evitar danos ou riscos à saúde pública e à segurança e a minimizar
+os impactos ambientais adversos;
+
+O Consórcio CIVAP é composto por 37 Municípios, totalizando 633 mil habitantes,
+podendo ampliar o número de participantes, cujas adesões estão em processo de
+análise.
+
+
+                          CIVAP                                         CIVAP
+       Nº           Municípios        População     Nº            Municípios      População
+        1   Ourinhos                     113.542     20 Taciba                        6.193
+        2   Assis                        102.924     21 Campos Novos Paulista         4.900
+        3   Santa Cruz do Rio Pardo       47.148     22 Narandiba                     4.746
+        4   Paraguaçú Paulista            45.255     23 Espirito Santo do Turvo       4.713
+        5   Agudos                        37.214     24 Lupércio                      4.584
+        6   Cândido Mota                  31.263     25 João Ramalho                  4.468
+        7   Rancharia                     29.821     26 Ocauçú                        4.308
+        8   Pirapozinho                   27.021     27 Sandovalina                   4.174
+        9   Palmital                      22.196     28 Platina                       3.488
+       10   Bastos                        21.073     29 Pedrinhas Paulista            3.087
+       11   Tarumã                        14.547     30 Nantes                        3.049
+       12   Maracaí                       13.981     31 Florínea                      2.758
+       13   Quatá                         13.893     32 Lutécia                       2.705
+       14   Duartina                      12.549     33 Oscar Bressane                2.616
+       15   Manduri                        9.846     34 Cruzália                      2.161
+       16   Iepê                           8.103     35 Paulistânia                   1.841
+       17   Ibirarema                      7.540     36 Fernão                        1.691
+       18   Gália                          6.776     37 Borá                            839
+       19   Echaporã                       6.247   TOTAL                            633.260
+
+
+
+
+A maior parte dos integrantes já possuem contratos de limpeza urbana tercerizada,
+principalmente para a destinação final dos resíduos sólidos domiciliares.
+
+Da totalidade dos 14 (quatorze) municípios aderente à parceria público-privada
+concebida pelo CIVAP, 8 (oito) deles utilizam-se de aterros privados para a destinação
+                                                                                              3
+ final dos resíduos sólidos.
+
+ Os demais 6 municípios que possuem aterro próprio já apresentam vida útil limitada a
+ um horizonte curto, necessitando buscar alternativa para estes serviços.
+
+ A tabela a seguir identifica tais municípios, os aterros utilizados e o valor pago para a
+ destinação final em reais por tonelada.
+
+  Nº de
+                 MUNICÍPIO           DESTINAÇÃO        TRANSPORTE                EMPRESA CONTRATADA                   VALOR/TON R$
+  Ordem
+   1      ASSIS                      Aterro Privado      Próprio    REVITA ENGENHARIA S.A/QUATÁ-SP                       98,73
+   2      CÂNDIDO MOTA              Aterro Municipal        -       -
+   3      CRUZÁLIA                  Aterro Municipal        -       -
+   4      ECHAPORÃ                   Aterro Privado      Próprio    REVITA ENGENHARIA S.A/QUATÁ-SP                       113,00
+   5      FLORÍNEA                  Aterro Municipal        -       -
+   6      IBIRAREMA                 Aterro Municipal        -       -
+   7      LUTÉCIA                    Aterro Privado    Contratado   PRIME AMBIENTAL/ REVITA ENGENHARIA S.A/QUATÁ-SP      135,74
+   8      OSCAR BRESSANE            Aterro Municipal        -       -
+   9      PALMITAL                   Aterro Privado    Contratado   PRIME AMBIENTAL/ REVITA ENGENHARIA S.A/QUATÁ         179,00
+   10     PARAGUAÇU PAULISTA         Aterro Privado      Próprio    MONTE VERDE/ REVITA ENGENHARIA S.A/QUATÁ-SP          118,17
+   11     PEDRINHAS PAULISTA        Aterro Municipal        -       -
+   12     PLATINA                    Aterro privado    Contratado   PRIME AMBIENTAL/ REVITA ENGENHARIA S.A/QUATÁ          92,61
+   13     SANTA CRUZ DO RIO PARDO    Aterro Privado    Contratado   CGR GUATAPARÁ/PIRATININGA                            105,00
+   14     TARUMÃ                     Aterro Privado      Próprio    REVITA ENGENHARIA S.A/QUATÁ-SP                       118,11
+
+
+
+ Como alternativas analisadas preliminarmente, foram consideradas as hipóteses de
+ Parceria Público-Privada, Concessão ou mesmo Contrato de Programa com a SABESP
+ (anterior ao Novo Marco do Saneamento), tendo como objeto os serviços de tratamento
+ e destinação final dos resíduos sólidos urbanos, com aproveitamento energético.
+
+O Consórcio Intermunicipal CIVAP instituído pelas leis municipais de autorização de participação,
+estabelece em seu protoco de Intenções que:
+
+ “2.1. O CONSÓRCIO INTERMUNICIPAL DO VALE DO PARANAPANEMA - CIVAP – fica
+ transformado em Consórcio Público, a ser organizado e constituído na forma de
+ Associação Pública, com personalidade jurídica de direito público, sem fins lucrativos,
+ com autonomia administrativa, financeira e patrimonial, em consonância com as
+ disposições emanadas da Lei Federal nº 11.107/05, Decreto Federal nº 6.017/07, demais
+ legislações pertinentes e aplicáveis à espécie, pelo seu Estatuto, além de normas e
+ regulamentos que vier a adotar através de seus órgãos constitutivos.”
+
+ “3.3.1.        O presente protocolo documenta e define, inclusive, as atuais intenções
+ dos Municípios, constituindo manifestação expressa dos mesmos de transferir para a
+ iniciativa privada, por meio da realização de procedimento licitatório para outorga de
+ concessão, a ser delegada por meio do CONSÓRCIO, a gestão e tratamento de todos os
+ resíduos sólidos coletados na área do CONSÓRCIO, incluindo lixo doméstico, lixo
+ originário da varrição e limpeza de logradouros e vias públicas, lixo industrial, resíduos
+ industriais provenientes de atividades de transformação de matérias primas e
+                                                                                                                                     4
+substâncias orgânicas ou inorgânicas em novos produtos, resíduos de serviços de saúde,
+resíduos de atividades rurais, resíduos provenientes de portos, aeroportos, terminais
+rodoviários e ferroviários, postos de fronteira e estruturas similares, resíduos da
+construção civil, e quaisquer resíduos coletados na área do CONSÓRCIO, que servirão
+para a geração de energia e fabricação de material de pavimentação, e que serão
+necessários à prestação dos serviços de gestão e o tratamento de resíduos pela iniciativa
+privada.”
+
+
+
+
+                                                                                            5
+      2. PREMISSAS DO MODELO PROPOSTO
+
+Como premissas do Modelo proposto, adotou-se o conceito de Contrato de Parceria
+Público-Privada, onde a adesão de Municípios integrantes do Consórcio, parte-se de
+alguns princípios básicos nos quais os estudos devem estar fundamentados:
+
+  ‐    Garantia de solução a longo prazo para a destinação final adequada com o tratamento de
+       100% dos resíduos sólidos urbanos coletados;
+
+  ‐     Estabelecer exigência de redução de massa para o menor volume possível de resíduos ao
+        destino final;
+
+  ‐     Criar solução integrada com municípios interessados para a viabilização dos investimentos
+        necessários e o custeio dos serviços;
+
+  ‐     Definir valor máximo por tonelada a ser tratada em condições comparáveis aos gastos
+        atuais, garantindo seu valor a longo prazo;
+
+  ‐     Possibilitar soluções como geração de energia, como alternativa para a redução de massa
+        a ser disposta em aterro;
+
+  ‐     O CONSÓRCIO CIVAP assumirá em nome dos Municípios a delegação para firmar e gerir
+        os Contratos, conforme já previsto nas leis que constituíram o Consórcio; (Anexo 1 –
+        Estatuto do Consórcio);
+
+  ‐     Os Municípios assumirão os custos individuais de transporte até a Unidade a ser
+        implantada e a destinação final dos resíduos pagarão valorescompatíveis ao que gastam
+        atualmente;
+
+  ‐     Os valores serão repassados pelos Municípios à um Fundo Único, administrado pelo
+        CONSÓRCIO CIVAP, através de um agente financeiro a ser contratado;
+
+  ‐     A implantação poderá se dar por fases de adesão de Municípios, considerando um
+        mínimo adequado por módulo de implantação;
+
+  ‐     Os Municípios farão a transferência dos recursos ao Fundo por via do orçamento e deverá
+        constituir garantia ao repasse orçamentário municipal, conforme previsto nas Leis
+        Municipais e respectivo Protocolo de Constituição do Consórcio.
+
+
+
+
+                                                                                               6
+    3. O MODELO PROPOSTO
+
+
+
+
+-    Lei Federal nº 11.107/2005 – Dispõe sobra a contratação de Consórcios Públicos
+
+-    Lei Federal nº 11.079/2004 – Institui a a Parceria Público-Privada
+
+-    Lei Federal nº 8.666/1993 – Regula as Licitações e Contratações Públicas
+
+-    Lei Federal nº 12.305/2010 – Institui a Política Nacional dos Resíduos Sólidos
+
+-    Decreto Federal nº 7.404/2010 – Regulamenta a Lei Federal nº12.305/2010
+
+-    Portaria Interministerial nº 274/2019 – Trata do Art.37 do Decreto nº
+     7.404/2010: trata da recuperação energética dos resíduos sólidos urbanos de
+     autoria dos Ministérios do Meio Ambiente, Minas e Energia e Desenvolvimento
+     Regional e regulamenta a implantação de Usina de Recuperação Energética de
+     Resíduos Sólidos Urbanos (URE), com vistas a redução dos rejeitos e a disposição
+     final adequada.
+
+-    Lei Federal nº 14.026, de 15 de julho de 2020 que instituiu o NOVO MARCO
+     REGULATÓRIO DO SANEAMENTO BÁSICO: estabelece prazos para a disposição
+     final ambientalmente adequada de resíduos sólidos e sua sustentabilidade
+     econômica.
+
+-    Lei Federal nº12.305/2010 – Política Nacional dos Resíduos Sólidos
+
+-    DAS DIRETRIZES APLICÁVEIS À GESTÃO E GERENCIAMENTO DOS RESÍDUOS
+     SÓLIDOS
+
+-    Art. 9o Na gestão e gerenciamento de resíduos sólidos, deve ser observada a
+     seguinte ordem de prioridade: não geração, redução, reutilização, reciclagem,
+     tratamento dos resíduos sólidos e disposição final ambientalmente adequada
+     dos rejeitos.
+
+-    § 1o Poderão ser utilizadas tecnologias visando à recuperação energética dos
+     resíduos sólidos urbanos, desde que tenha sido comprovada sua viabilidade
+     técnica e ambiental e com a implantação de programa de monitoramento de
+     emissão de gases tóxicos aprovado pelo órgão ambiental.
+
+-    Decreto Federal nº 7.404/2010 – Regulamenta a Lei Federal da Política Nacional
+     dos Resíduos Sólidos
+
+-    DAS DIRETRIZES APLICÁVEIS À GESTÃO E GERENCIAMENTO DOS RESÍDUOS
+
+                                                                                        7
+    SÓLIDOS
+
+-   Art. 35. Na gestão e gerenciamento de resíduos sólidos, deverá ser observada a
+    seguinte ordem de prioridade: não geração, redução, reutilização, reciclagem,
+    tratamento dos resíduos sólidos e disposição final ambientalmente adequada
+    dos rejeitos.
+
+-   Art. 36. A utilização de resíduos sólidos nos processos de recuperação
+    energética, incluindo o coprocessamento, obedecerá às normas estabelecidas
+    pelos órgãos competentes.
+
+-   Art. 37. A recuperação energética dos resíduos sólidos urbanos referida no § 1º
+    do art. 9º da Lei nº 12.305, de 2010, assim qualificados consoante o art. 13, inciso
+    I, alínea “c”, daquela Lei, deverá ser disciplinada, de forma específica, em ato
+    conjunto dos Ministérios do Meio Ambiente, de Minas e Energia e das Cidades.
+
+-   Parágrafo único. O disposto neste artigo não se aplica ao aproveitamento
+    energético dos gases gerados na biodigestão e na decomposição da matéria
+    orgânica dos resíduos sólidos urbanos em aterros sanitários.
+
+-   Portaria Interministerial nº 274/2019 – Trata do Art.37 do Decreto nº
+    7.404/2010
+
+-   Portaria 274: Base Legal Federal que trata da recuperação energética dos resíduos
+    sólidos urbanos por ato conjunto dos Ministérios do Meio Ambiente, Minas e
+    Energia e Desenvolvimento Regional.
+
+-   Art. 1º Disciplinar a recuperação energética dos resíduos sólidos urbanos, em
+    atendimento ao disposto no art. 37 do Decreto nº 7.404, de 23 de dezembro de
+    2010.
+
+-   Art. 2º Para efeito desta Portaria Interministerial, são adotadas as seguintes
+    definições:
+
+       •   Usina de Recuperação Energética de Resíduos Sólidos Urbanos - URE:
+           qualquer unidade dedicada ao tratamento térmico de resíduos sólidos
+           urbanos com recuperação de energia térmica gerada pela combustão,
+           com vistas à redução de volume e periculosidade, preferencialmente
+           associada à geração de energia térmica ou elétrica;
+
+
+
+
+                                                                                           8
+    4. O MODELO PROPOSTO
+
+
+
+ Os Municípios que aderirem ao Projeto deverão delegar, através dos Contratos de
+ Programa o CONSÓRCIO CIVAP, para contratar a Parceria Público-Privada dos serviços
+ de tratamento e destinação final dos resíduos sólidos urbanos, com aproveitamento
+ energético, nos termos do Art. 13 da Lei Federal nº 11.107/2005;
+
+
+ Foram formalizadas 14 adesões por Municípios integrantes do Consórcio, conforme lista
+ baixo:
+   1. Assis
+   2. Santa Cruz do Rio Pardo
+   3. Paraguaçu Paulista
+   4. Cândido Mota
+   5. Palmital
+   6. Tarumã
+   7. Ibirarema
+   8. Echaporã
+   9. Platina
+   10. Pedrinhas Paulista
+   11. Florínea
+   12. Lutécia
+   13. Oscar Bressane
+   14. Cruzália
+
+Este conjunto de Municípios perfaz uma População Total de 293.935 habitantes.
+
+ Todos estes Municípios apresentam Plano de Saneamento – Resíduos Sólidos aprovados
+ e que repaldam os estudos elaborados.
+
+
+ Em sua quase totalidade o maior problema está alocado na questão do tratamento e
+ destinação final dos resíduos sólidos urbanos, ressaltando a necessidade de uma solução
+ conjunta que possa agragar o maior número de Municípios possíveis, garantindo
+ condições de qualidade e que atendam as normas ambientais.
+
+
+ A solução por um contrato que agregue vários Municípios possibilitará a viabilização de
+ muitos casos que isoladamente seriam de difícil equacionamento sem que recaia sobre
+ eles um custo elevado à Municipalidade.
+                                                                                           9
+                     CIVAP - CONSÓRCIO INTERMUNICIPAL DO VALE DO
+                                   PARANAPANEMA
+               Nº           Municípios - Adesão à PPP     População
+
+                1      Assis                                   102.924
+                2      Santa Cruz do Rio Pardo                  47.148
+                3      Paraguaçú Paulista                       45.255
+                4      Cândido Mota                             31.263
+                5      Palmital                                 22.196
+                6      Tarumã                                   14.547
+                7      Ibirarema                                 7.540
+                8      Echaporã                                  6.247
+                9      Platina                                   3.488
+                10     Pedrinhas Paulista                        3.087
+                11     Florínea                                  2.758
+                12     Lutécia                                   2.705
+                13     Oscar Bressane                            2.616
+                14     Cruzália                                  2.161
+                                 TOTAL                         293.935
+
+
+
+Ao CONSÓRCIO CIVAP, considerando as condições contratuais, envolvendo volume de
+investimentos, tipo de serviços, padrões de qualidade e desempenho, entre outros,
+caberá estabelecer as qualificações mínimas exigidas como condição para o parceiro
+privado participar da Licitação e do futuro contrato de Parceria Público-Privada.
+
+
+
+
+                                                                                     10
+   5. AÇÕES PELOS MUNICÍPIOS (CONSÓRCIO) E PELO CONCESSIONÁRIO
+
+Os Municípios continuarão a manter os serviços de limpeza urbana e coleta dominciliar
+sob sua responsanbilidade, restanto apenas o transporte e destinação final para o local
+a ser definido no projeto.
+
+
+
+
+      COLETA DOMICILIAR       COLETA SELETIVA       LIMPEZA URBANA         MUNICÍPIO
+                                                TRANSPORTE
+
+
+
+
+                                    RECEPÇÃO
+
+ TRATAMENTO E
+  GERAÇÃO DE
+    ENERGIA
+                                                                          CONCESSIONÁRIO
+
+
+                                    DESTINAÇÃO
+                                  FINAL – MÁXIMO
+                                  15% DO VOLUME
+
+
+O concessionário deverá possuir sistema de pesagem de caminão na recepção para a
+aferição da massa de resíduos destinada pelos Municípios à Central de Tratamento e
+Geração de Energia (CTGE).
+
+
+A CTGE deverá ter capacidade para receber do mínimo 300 t/dia, sendo que do total
+recebido, poderá dispensar até no máximo 15% desta massa como rejeito inerte a ser
+depositado em aterro devidamente licenciado.
+
+
+
+
+                                                                                          11
+    6. ESTRUTURA DE PARTICIPAÇÃO DE INTEGRANTES DO CONSÓRCIO
+
+A participação dos Municípios será opcional, diante da análise de suas vantagens para
+aderir ao modelo proposto e deverá contar com um número mínimo de volume de
+resíduos que justifique a solução proposta.
+
+
+Estima-se que no início do projeto possa se viabilizar um primeiro módulo com
+capacidade de atendimento médio diário entre 250 a 300 toneladas/dias.
+
+
+Existe todo um trâmite a ser cumprido para a efetivação do projeto, passando pela
+aprovação junto à Assembléia do CIVAP, a Adesão pelos Municípios interessados, a
+Aprovação do Modelo de Negócio, a Consulta Pública e a própria licitação do processo.
+
+
+                      Adesão de Municípios integrantes do Consórcio
+
+          Município A                Município B                   Município N
+
+
+
+
+                                                          Municípios devem assumir:
+                                     CONSÓRCIO            - Firmar Termo de Adesão ao projeto
+                                       CIVAP                 de Concessão;
+                                                          - Firmar CONTRATO DE RATEIO para
+                                                             pagar os serviços delegados
+CONSÓRCIO CIVAP:                                          - Prestar as garantias de pagamento
+-   Aprovar em Assembleia Geral a Concessão (Cláusula        nos termos da Cláusula 5.4. – “a” do
+    4.1.1.2 – “m” do Protocolo do CONSÓRCIO)                 Protocolo do CONSÓRCIO
+-   Gestão do Contrato de Concessão Administrativa
+-   Administração do Fundo de Arrecadação
+-   Pagamento das CONTRAPRESTAÇÕES à SPE
+
+
+
+
+                                                                                                12
+   7. FLUXOS OPERACIONAIS
+
+
+Do ponto de vista operacional, como já abordado anteriormente, os Municípios
+continuarão com a sua responsabilidade de coleta domiciliar e programas de coleta
+seletiva, incluindo as cooperativas integradas nesta atividade, tendo ainda a obrigação
+de transportar o resíduo sólido a ser descartado até o ponto de tratamento, destinação
+final e geração de energia pela futura concessionária.
+
+
+Assim as responsabilidades dos Municípios, do Consórcio CIVAP e da futura
+concessionária ficam sob as seguintes exigências técnicas para os serviços integrantes
+do contrato de concessão:
+
+
+    Caberá ao CIVAP Manter o controle do volume de resíduos a serem entregues
+     pelos municípios à CONCESSIONÁRIA, na Central de Tratamento e Geração de
+     Energia (CTGE) a ser implantada.
+
+    Aos Municípios caberá o transporte dos resíduos sólidos urbanos domiciliares
+     coletados até a CTGE a ser implantada pela CONCESSIONÁRIA.
+
+    À CONCESSIONÁRIA caberá receber os resíduos sólidos urbanos domiciliares
+     entregues pelos municípios, pesando cada volume entregue e registrando em
+     relatório específico.
+
+    Caberá à CONCESSIONÁRIA desenvolver o projeto, adquirir área e aprovar
+     perante aos órgãos públicos e ambientais a implantação da Central de
+     Tratamento e Geração de Energia (CTGE) para os resíduos sólidos domiciliares
+     entregues pelo CIVAP.
+
+    O tratamento dos resíduos sólidos urbanos recebidos na CTGE e os processos de
+     geração de energia e consequentes geração de efluentes sólidos, líquidos e
+     gasosos, serão de responsabilidade da CONCESSIONÁRIA.
+
+    O acesso ao local da CTGE, assim como os acessos internos deverão ser perenes
+     o ano todo, permitindo desta maneira o movimento de caminhões coletores
+     compactadores e outros veículos de carga a descarga dos resíduos nas
+     respectivas frentes de serviço de recepção dos resíduos.
+
+    As áreas de disposição de resíduos deverão ser monitoradas constantemente,
+     como determinado pelo Órgão Ambiental que autorizar a implantação e
+     operação da CTGE.
+
+    Caberá à CONCESSIONÁRIA manter registro atualizado de todo o processo de
+     recepção de resíduos encaminhados pelo CIVAP e as condições da sua destinação
+                                                                                          13
+          final e dos respectivos efluentes.
+
+      Deverá ser emitido pela CONCESSIONÁRIA relatório mensal com as
+       movimentações discriminadas por município atendido, o qual deverá ser
+       encaminhado em até 10 (dez) dias do mês subsequente.
+
+
+                                Municípios integrantes da Concessão
+                                               CIVAP
+                                                                         Contratos de Programa e
+                                                                                 de Rateio
+
+
+                  Município A             Município B                                Município N
+
+
+                                                                    Transporte dos Resíduos
+                                                                     Urbanos até a Central
+
+
+
+ •   Os    Municípios    são         CENTRAL DE TRATAMENTO DE
+     responsáveis       pela                                                           Caminhão Compactador,
+     entrega dos resíduos na
+                                       RESÍDUOS E GERAÇÃO DE                             Carreta (transbordo)
+     Central.                                 ENERGIA
+                                         (CONCESSIONÁRIA)
+ •   A    Concessionária    é
+     responsável         pelo          Recepção dos caminhões com
+     tratamento dos resíduos             pesagem e instalações de
+     e pela redução de                       manobra e apoio
+     massa em no mínimo
+     85%,     através     da
+     geração de energia
+
+
+
+
+A importância para a viabilização do projeto está na combinação de duas receitas
+principais: o valor da energia produzida e o pagamento pela destinação final dos
+resíduos domiciliares pelos municípios, compatíveis aos valores atualmente praticados
+e que suportariam os custos de investimentos e operação do sistema.
+
+A legislação aprovada pelos municípios transfere ao CONSÓRCIO o poder de conceder
+os serviços e estabelece a forma de garantia, inclusive com a vinculação de recebíveis
+como as transferências em Conta Vinculada.
+
+De forma a possibilitar um processo de fluidez e garantia aos pagamentos das
+contraprestações mensais pelos municípios, prevê-se uma Conta Garantia com o
+depósito no valor de 3 (três) contraprestações mensais para cobertura de eventuais
+inadimplências.
+
+A constação da inadimplência, possibilitará ao Agente Fiduciário utilizar parte da Conta
+Garantia, sendo que o inadimplente terá um prazo máximo para a cobertura do valor
+utilizado, sob pena de multas.
+
+
+
+                                                                                                                14
+    8. ESTRUTURA DE RELAÇÕES CONTRATUAIS
+
+O CONSÓRCIO CIVAP delegado pelos Municípios que aderirem ao projeto, licita, contrata
+e remunera a parcela referente à contraprestação da PPP ao futuro concessionário.
+
+A licitante vencedora deverá constituir Sociedade de Finalidade Específica (SPE), a qual
+terá como objeto a execução do contrato de concessão.
+
+Todo o risco de geração de energia e sua comercialização é de exclusiva
+responsabilidade do concessionário.
+
+
+
+ESTRUTURA GERAL DA PPP
+
+
+           CONSÓRCIO
+             CIVAP
+
+
+
+
+       LICITAÇÃO PÚBLICA
+
+                                                                 VIABILIZA ÁREA
+           LICITANTE/                       PARCEIRO             APROVA NO MEIO AMBIENTE
+               SPE                          PRIVADO              IMPLANTA USINA
+                                                                 OPERA E MANTEM
+                                       SPE CONCESSIONÁRIA
+                  Propriedade
+                  e operação
+
+
+      TRATAMENTO DE RSU
+      E PLANTA DE ENERGIA
+
+
+ OBJETO DO CONTRATO
+ • Tratamento de RSU
+ • Redução de Massa através da
+   implantação de Geração de Energia
+ • Operação e Manutenção
+ • Disposição Final de no máximo 15%
+   dos Resíduos
+
+
+
+
+                                                                                           15
+      9. ESTRUTURA DE PAGAMENTOS E GARANTIAS
+
+
+Ao CONSÓCIO CIVAP e seu Municípios, caberá apenas entregar os Resíduos Sólidos Urbanos –
+RSU, provenientes de seu sistema de coleta no local da futura instalção de tratamento e geração,
+não tendo qualquer responsabilidade pela atividade de geração de energia ou outras formas de
+comercialização sob o risco exclusivo do concessionário.
+
+Os Municípios, através de Contratos de Rateio, transferem os valores mensalmente para conta
+vinculada, para fazer frente às contraprestações.
+
+Caberá sim ao CONSÓRCIO CIVAP E SEU MUNICÍPIOS, constituir um mecanismo de garantia para
+o efetivo pagamento das contraprestações mensais devidas ao concessionário.
+
+
+
+           Município B       Município B             Município N
+
+
+
+
+   Garantia de
+                               TRANSFERÊNCIAS
+   Pagamento (3 meses                                                  CONSÓRCIO
+                               FONTE 1: Orçamento
+   de contraprestação) (*)                                               CIVAP
+                               CONTA VINCULADA
+   FUNDO CONTÁBIL
+ 2 - Conta Garantia            1 - Conta Pagamento
+
+ (*) Média mensal estimada
+                                                                    CONTRAPRESTAÇÕES
+                                                                     Pagamentos à SPE
+
+
+
+
+                                                                                              PARCEIRO
+                                                                          SPE
+                                                                                              PRIVADO
+
+                                                                              IMPLANTAÇÃO E
+                                                                              OPERAÇÃO
+
+
+
+                                VENDA DE ENERGIA                   TRATAMENTO DE RSU
+                                 Receita Acessória                 E PLANTA DE ENERGIA
+
+
+
+
+                                                                                                         16
+Para facilitar o entendimento dos fluxos de contraprestações que caberá a cada Município, o
+gráfico a seguir apresentado indica as relações individuais para cada ente e suas
+responsabilidades.
+
+
+
+
+           Município B      Município B          Município N
+
+                     R$       R$                 R$
+
+
+  Garantia de
+                            TRANSFERÊNCIAS
+  Pagamento (3 meses                                                  CONSÓRCIO
+                            FONTE 1: Orçamento
+  de contraprestação) (*)                              R$               CIVAP
+                            CONTA VINCULADA
+  FUNDO CONTÁBIL
+
+                                                            RSU
+      BANCO FIDUCIÁRIO
+                                                                    CONTRAPRESTAÇÕES
+                                                 RSU                 Pagamentos à SPE
+
+                                          RSU
+
+                                                                                                  PARCEIRO
+                                                                         SPE
+                                                                                                  PRIVADO
+
+                                                                             IMPLANTAÇÃO E
+                                                                             OPERAÇÃO
+
+
+
+                                VENDA DE RECICLÁVEIS              TRATAMENTO DE RSU          VENDA DE ENERGIA
+                                   Receita Acessória              E PLANTA DE ENERGIA         Receita Acessória
+
+
+
+
+                                                                                                                  17
+    10. PROJEÇÃO DE RESÍDUOS ADOTADA NOS ESTUDOS
+
+Para os 14 municípios estima-se uma produção média de 269,9 toneladas por dia no ano 2 da
+concessão, evoluindo até atingir 310,4 toneladas/dia no ano 30.
+
+Considerou-se em média uma projeção de 0,5% (cinco décimos por cento) a evolução da geração
+de resíduos no tempo.
+
+Admitiu-se ainda que ao final 18 meses já se tenha implantado o tratamento dos resíduos, tendo
+sido projetado 6 meses de RSU no 2º ano da concessão.
+
+                             PROJEÇÃO - RESÍDUOS SÓLIDOS URBANOS
+                                         14 MUNICÍPIOS
+                                        TOTAL
+                                                            TOTAL
+                             ANO     Quantidade em
+                                                     Quantidade em T/ano
+                                         T/dia
+                              1           0                  0
+                              2         269,9            48.586,21
+                              3         271,3            97.658,27
+                              4         272,6            98.146,56
+                              5         274,0            98.637,30
+                              6         275,4            99.130,48
+                              7         276,7            99.626,14
+                              8         278,1            100.124,27
+                              9         279,5            100.624,89
+                              10        280,9            101.128,01
+                              11        282,3            101.633,65
+                              12        283,7            102.141,82
+                              13        285,1            102.652,53
+                              14        286,6            103.165,79
+                              15        288,0            103.681,62
+                              16        289,4            104.200,03
+                              17        290,9            104.721,03
+                              18        292,3            105.244,63
+                              19        293,8            105.770,86
+                              20        295,3            106.299,71
+                              21        296,8            106.831,21
+                              22        298,2            107.365,37
+                              23        299,7            107.902,19
+                              24        301,2            108.441,70
+                              25        302,7            108.983,91
+                              26        304,2            109.528,83
+                              27        305,8            110.076,48
+                              28        307,3            110.626,86
+                              29        308,8            111.179,99
+                              30        310,4            111.735,89
+
+
+
+
+                                                                                           18
+GRAVIMETRIA DOS RESÍDUOS SÓLIDOS URBANOS
+
+Com base em dados da ABRELPE – Associação Brasileira de Empresas de Limpeza Urbana e Resíduos
+Especiais, Panorama dos Resíduos Sólidos no Brasil – 2020, admite-se para o conjunto de municípios
+integrantes do projeto a gravimetria média do Brasil, a qual serve de referência a longo prazo para o
+projeto.
+
+
+
+                            GRAVIMETRIA - RESÍDUOS SÓLIDOS URBANOS
+                           Matéria Orgânica                       45,30%
+                           Têxteis, Couros e Borrachas             5,60%
+                           Metais                                  2,30%
+                           Vidros                                  2,70%
+                           Plásticos                              16,80%
+                           Papel/Papelão                          10,40%
+                           Embalagens Multicamadas                 1,40%
+                           Rejeitos (Resíduos sanitários,etc)     14,10%
+                           Outros(Eletrônicos, Pneus, Outros)      1,40%
+                           TOTAL                                 100,00%
+                                        Fonte: ABRELPE – 2020
+
+
+
+Esta referência gravimetria embora possa ser utilizada como uma referência a longo prazo para o
+projeto, as características dos resíduos sólidos urbanos podem sofrer alterações e os seus impactos
+nos processos da Central de Tratamento e Geração de Energia deverão ser equacionados pelo
+concessionário, sendo de sua exclusiva responsabilidade as composições gravimétricas dos resíduos
+recebidos.
+
+
+
+
+                                                                                                  19
+   11. TECNOLOGIAS PARA A UNIDADE DE TRATAMENTO E GERAÇÃO DE RSU
+
+
+
+Diante as várias tecnologias disponíveis no mercado para o tratamento de resíduos
+sólidos urbanos com a geração de energia, foram avaliadas as condições específicas
+apresentadas pelo Consórcio CIVAP, quanto ao volume e características dos resíduos e
+optou-se pela análise de viabilidade com o emprego das tecnologias de gaseificação e
+incineração.
+
+A tecnologia adotada atualmente de utilização de aterro sanitário como solução, não
+está sendo considerada diante das condições apontadas pelos estudos bem como pela
+determinação das adminsitrações públicas estaduais e municipais em se adotar solução
+envolvendo aproveitamento energético imediato dos resíduos, como forma de reduzir
+o volume de resíduos depositados em aterros.
+
+Desta forma, a análise deste trabalho está voltada para a geração termoelétrica
+proveniente dos Resíduos Sólidos Urbanos – RSU, por ser uma fonte de energia
+substituta aos combustíveis fósseis atualmente utilizados, além do atendimento da lei
+12.305/10 que propõe um destino final ao “lixo”, com participação na logística reversa
+de produtos como pneu e linha branca, eliminação da contaminação do solo e lençol
+freático pelo chorume proveniente da decomposição dos compostos orgânicos
+presentes no RSU e principalmente, pela utilização de uma fonte de energia descartada
+e inesgotável, em uma fonte de energia nobre, crescente e utilizável, como a energia
+elétrica.
+
+                                                   USINA
+                                                TERMELÉTRICA
+
+
+
+                                                    BIOMASA
+
+
+
+                                               RESÍDUO SÓLIDO
+                                                   URBANO
+
+
+
+           GASEIFICAÇÃO                          INCINERAÇÃO                                  BIOGÁS
+
+
+
+                  Potenci a l Bra s i l ei ro de Gera çã o de Energi a : a prox. 2.750 MW médi os
+                         Potenci a l no Es tado de Sã o Pa ul o: a prox. 770 MW médi os
+
+
+
+                                                                                                       20
+11.1.     CONCEITUAÇÃO
+
+O conceito de URE (Unidade de Recuperação de Energia) para destinação de RSU (resíduo
+solido urbano) vem sendo aplicado rapidamente nos países mais desenvolvidos.
+
+Estão em operação no mundo atualmente centenas de unidades especialmente na Europa,
+Japão e China.
+
+A utilização de tecnologia de incineração é a aplicada na maioria dos projetos, contudo, por
+questão de qualidade de processo, que será tratada sequência, a gaseificação começa a ser
+utilizada ganhando espaço rapidamente no mercado.
+
+Aqui no Brasil e mesmo na America Latina ainda não foi implantada nenhuma unidade com
+estas características.
+
+Contudo, com a valorização das áreas e avanço das politicas ambientais este processo passa
+a se impor como solução.
+
+11.2.     A UNIDADE DE RECUPERAÇÃO DE ENERGIA
+
+As UREs em sua quase totalidade utilizam o ciclo Rankine como forma de produção de
+energia, em resumo, a energia contida no RSU, transformada em calor/vapor aciona um turbo
+gerador, simplificadamente este é o conceito.
+
+Assim sendo pode-se (também simplificadamente) dividir em 3 (três) as fases das referidas
+UREs, a saber:
+
+          a) Unidade de recepção e preparo dos resíduos
+          b) Unidade de recuperação de energia dos resíduos
+          c) Unidade de geração de energia
+
+Considerando cada tecnologia de recuperação de energia que seja aplicada tem-se um
+tratamento e equipamento diferente em cada etapa
+
+
+
+
+                                                                                         21
+11.3.     INCINERAÇÃO
+
+A incineração de resíduos utiliza equipamentos de recepção dos resíduos equivalentes aos
+utilizados em outros processos podendo ser simplesmente fossos ou silos de fundo móvel.
+
+A partir dai, não é obrigatório, mas pode-se implantar uma linha de recuperação de
+recicláveis considerando o impacto econômico que esta receita certamente ira gerar no
+projeto.
+
+Assim sendo deverão ser instalados :
+
+           a) Equipamento rasga saco
+           b) Separadores magnéticos
+           c) Separadores aerolicos
+           d) Separadores de não ferrosos
+           e) Outros trituradores se for o caso
+Em sequência tem um forno de queima acoplado a caldeira para geração de vapor. Existem
+diversos fabricantes no mercado cada um com sua tecnologia aplicada própria. O ponto mais
+importante neste momento é o controle das emissões provocadas pelo grande consumo de
+oxigênio que o processo exige contribuindo na formação de emissões nocivas tais como SOX,
+NOX, Dioxinas e Furanos dentre outras.
+
+                                                                                      22
+No caso da utilização de processo oxidação se torna necessário uma bateria de filtros que
+eliminem ou ao menos diminuam a patamares aceitáveis estas emissões estabelecidos pelo
+CONAMA e CETESB (SMA 079) no caso de São Paulo.
+
+
+
+
+São necessários então a utilização de filtros de manga, filtros de carvão ativado bem como a
+instalação de processos de lavagem dos gases de emissão provenientes dos processos de
+produção de calor e vapor.
+
+
+
+
+Atualmente existem projetos em fase adiantada de licenciamento ambiental no estado de
+São Paulo.
+
+
+                                                                                         23
+11.4.     GASEIFICAÇÃO
+
+O processo de gaseificação se difere do de incineração pela baixa quantidade de oxigênio que
+este utiliza no interior do reator. A geração de energia continua utilizando o ciclo Rankine
+com emprego de caldeira e turbo-gerador a vapor.
+
+O processo exige um cuidado adicional no preparo prévio do resíduo considerando que este
+deve ter uma certa homogeneidade bem como granulometria e umidade especificas.
+
+É um equipamento que exige um projeto e operação mais complexos que um incinerador.
+Contudo possui por características do próprio processo uma qualidade ambiental mais
+adequada às exigências atuais.
+
+
+
+
+Existem também, vários tipos de processo de gaseificação, cada um adequado a um
+determinado tipo de aplicação. Desta forma o processo possui uma flexibilidade maior
+quanto a sua aplicação, podendo ser :
+
+    - Leito fixo
+    - Leito fluidizado
+    - Leito borbulhante
+    - Grelha móvel, etc
+A tecnologia de gasificação foi desenvolvida a partir de 1920 tendo sido largamente utilizada
+desde então basicamente em plantas de produção de combustível liquido a partir da
+gaseificação de carvão.
+
+Atualmente existem mais de 600 plantas em operação no mundo com diversas tecnologias
+próprias e para atender demandas as mais diversas.
+                                                                                          24
+No caso especifico de destinação de RSU existem unidades em operação na Finlandia, Suecia,
+Noruega, Japão e UK.
+
+Os maiores fabricantes são a Energos, Kobelco, Valmet/Foster e FYSB.
+
+No Brasil a tecnologia foi aplicada largamente na indústria cerâmica e metalúrgica sendo que
+existem atualmente fabricantes com capacidade para atender a demanda do mercado.
+
+
+
+
+A definição da tecnologia a ser utilizada pelo futuro concessionário deve levar em
+consideração a qualidade e gravimetria do resíduo, sua quantidade (massa critica), espaço
+para as instalações, logística etc.
+
+11.5.      COMPARATIVO - GASEIFICAÇÃO E INCINERAÇÃO
+
+Cada tecnologia tem suas características que resulta em vantagem para aplicação em
+determinadas situações.
+
+São apresentadas sumariamente a seguir suas principais diferenças que resultam em
+vantagens comparativas em determinadas situações.
+
+   a) Preparo do resíduo
+
+        A receita de produtos recicláveis obtida com a utilização de equipamentos cada dia
+        mais sofisticados e eficientes torna sua aplicação quase que uma obrigatoriedade em
+        projetos modernos de UREs.
+                                                                                         25
+   Contudo nos processos de gaseificação um tratamento mais adequado buscando
+   uniformidade além de outras características no produto gaseificável exige que seja
+   investido, obrigatoriamente, em um sistema certamente maior e mais caro do que os
+   necessários em uma planta de incineração.
+
+
+
+
+b) Unidade de recuperação de energia
+
+   Nesta etapa residem as maiores diferenças entre os dois processos, apesar de em sua
+   maioria ambos se utilizarem preferencialmente do leito circulante, também podem
+   ser utilizados processos com emprego de grelha fixa ou móvel.
+
+
+
+
+                                                                                   26
+   Para facilitar a analise utiliza-se neste estudo o leito fluidizado em ambos os processos,
+   gaseificação e incineração.
+
+   No primeiro caso, a gaseificação, tem-se um consumo de oxigênio em volume muito
+   menor do que o exigido na incineração, aproximadamente e simplificadamente 7
+   vezes menor. Isto implica em conjuntos menores com equipamentos periféricos de
+   menor dimensão e potencia.
+
+   No caso dos incineradores a caldeira é acoplada ao combustor diminuindo perdas de
+   energia no processo aumentando sua eficiência. Nos gaseificadores os gases
+   produzidos (syngas) são lavados para queima posterior. O que é uma perda de
+   eficiência se transforma em uma maior flexibilidade de lay-out da planta considerando
+   que o gaseificador e a caldeira não são acoplados podendo ser implantados em locais
+   diferentes e afastados.
+
+   No quesito de emissões a tecnologia de gaseificação apresenta uma grande vantagem
+   considerando que a baixa utilização de oxigênio elimina grande parte da produção de
+   gases poluentes como SOX, NOX, dioxinas e furanos, além do mais todo cloro e
+   enxofre é abatido pela atuação de calcário adicionado no leito permitindo a destruição
+   a baixo custo de resíduos perigosos.
+
+   Os gases produzidos pelo gaseificador (syngas) pode ser tratado entes da queima na
+   caldeira, o que não ocorre no incinerador.
+
+c) Sistema de geração
+
+   Neste quesito ambas as tecnologias utilizam turbinas acionadas por vapor acopladas
+   a gerador podendo ser absolutamente iguais.
+
+d) Sistema de filtragem e limpeza das emissões
+
+   No caso dos incineradores será necessário a utilização de bateria de filtros de manga
+   e outros de carvão ativado além da utilização da lavadores para abater particulados e
+   eventualmente enxofre e cloro.
+
+   Nos gaseificadores este sistema seria muito simples ou inexistente a menos nos
+   lavadores scruber e venturi para limpeza dos gases antes de sua queima.
+
+
+
+                                                                                          27
+   e) Prazo de implantação
+
+        Ambas as tecnologias podem ser implantadas em prazos no entorno de 24 meses
+        entre projeto, fabricação, montagem e inicio de operação.
+
+   f) Redução de massa
+
+        Ambas as tecnologias apresentam redução de massa após o tratamento térmico
+        contudo considera-se que neste quesito a gaseificação tem uma ligeira vantagem
+        gerando uma redução de 90% a 95% enquanto que a incineração possui números que
+        variam de de 90% a 85%.
+
+        Resta a informação que tais resíduos são inertes podendo também ser reutilizados
+        como na fabricação de cimento.
+
+
+
+11.6.      ESPECIFICAÇÕES BÁSICAS DAS PLANTAS
+
+Para efeito de comparação as UREs estariam dimensionadas com as seguintes características:
+
+   -    Destinação de RSU - 300 ton/dia
+   -    Potencia instalada – de 6,5 MW a 9,15 MW
+   -    Energia gerada – de 5,0 MW a 7,7 MW
+   -    Área de terreno necessária – 20.000 m2
+   -    Conexão – na área
+
+
+
+11.7.      CONSIDERAÇÕES
+
+As condições comparativas apresentadas referem-se a plantas para destinação de 300
+ton/dia de RSU e neste caso a opção pela utilização do gaseificador indicou ser a mais
+adequada, embora cada proponente na licitação da concessão, tem à disposição no mercado
+várias outras alternativas como a própria incineração.
+
+Contudo, que, importante ressaltar que se a quantidade a ser destinada se situar em
+patamares acima de 1.000 ton/dia a opção por incineração poderá ser a melhor
+considerando-se os grandes investimentos que serão necessários na planta de tratamento
+prévio dos resíduos, no caso da gaseificação.
+
+No caso em referencia o custo de operação da planta de gaseificação devera se situar em
+patamares 30% abaixo dos da planta de incineração.
+
+                                                                                       28
+   São várias as vantagens no emprego da tecnologia pelos municípios, podendo serem listadas
+   as principais como sendo :
+
+              a) Redução da massa dos resíduos tratados de 90% a 95%, sendo que os rejeitos
+                 são materiais inertes
+              b) Redução dos problemas de logística e transporte
+              c) Eliminação de passivos ambientais que ficam confinados no município como
+                 autenticas bombas relógio
+              d) Aumento da receita de ISS pelo município
+              e) Aumento da receita de participação no rateio de ICMS do estado
+              f) Receita de créditos de carbono do projeto pela redução das emissões
+              g) Possibilidade de compra de energia mais barata diretamente do projeto.
+
+Como se observa o processo será irreversível considerando a quantidade e qualidade dos
+benefícios que este tipo de operação pode trazer ao município que opte pela sua adoção.
+
+
+
+    12. SOLUÇÃO ADOTADA PARA A UNIDADE DE TRATAMENTO E GERAÇÃO DE RSU –
+        ANTEPROJETO
+
+Conforme exposto no item anterior entre estes a tecnologia que apresentou a maior
+rentabilidade e melhores referencias ambientais no que tange a emissões e resíduos
+remanescentes foi a de gaseificação, adotado como referência no presente estudo.
+
+Os modelos estudados consideraram as propostas anteriormente referidas como alternativas
+para a viabilização do processo de tratamento e destinação final de resíduos, tendo considerado
+uma premissa de redução da carga de umidade conforme quadro a seguir.
+
+
+                                                 UMIDADE
+                                        UMIDADE           AMOSTRA AMOSTRA
+                  COMPONENTES                      PÓS
+                                           %               BRUTA%   SECA %
+                                                 SECAGEM
+         Restos Orgânicos                  70,0%    45,0%     42,8%    32,4%
+         Papeis e Papelão                  39,7%    34,2%      8,2%    10,3%
+         Embalagens Cartonadas             33,0%    28,8%      0,1%     0,1%
+         PET                                2,3%     7,1%      0,1%     0,1%
+         PEAD                               2,7%     7,4%      0,1%     0,1%
+         PEBD                               1,5%     6,6%      0,1%     0,1%
+         Outros Plásticos                   4,7%     8,6%     15,1%    21,6%
+         Fraldas e Aborventes              90,0%    86,4%      6,9%     6,9%
+         Couros, Texteis e Madeira         40,0%    34,5%     14,0%    17,6%
+         Borracha e Pneus                   1,0%     6,3%      4,7%     6,8%
+         Inorgânicos                        3,0%     0,0%      7,4%     3,0%
+
+
+                                                                                            29
+O processo de tratamento e geração de energi,a conforme demonstrados nas imagens
+a seguir, necessita uma preparação previa do RSU transformando-o em CDR com
+caracteristicas proprias. É importante considerar que qualquer proposta deverá ter seus
+aspectos ambientais submetidos e validados quanto a sua eficiência e qualidade pela
+Cetesb.
+
+
+
+
+Fonte:WEG
+
+
+
+Para atendimento integral dos limites da SMA 079, se faz necessário a utilização de uma
+sistema de lavador alcalino de gases, incluso no fornecimento do projeto
+
+O CDR, após transitar pelas válvulas alimentadoras, é alimentado no reator por meio de
+uma rosca sem fim. A dosagem de CDR no reator é realizada por “software”, que
+compilam as leituras dos instrumentos online (termopares, transdutores de pressão e
+medidores de vazão) instalados ao longo do reator, que resulta em movimento rotativo
+da esteira extratora do silo de alimentação, aumentando ou diminuindo a quantidade
+mássica de produto a ser inserido no reator, em função das características do CDR no
+processo de combustão.
+
+
+
+
+                                                                                          30
+Fonte:WEG
+
+
+Dentro do reator, o CDR em contato com o leito fluidizado circulante, composto de sílica
+a 850°C juntamente com o ar de processo proveniente dos sopradores, transforma-se
+em um gás combustível através de reações químicas.
+
+O desenho esquemático a seguir apresenta todas as fases do processo.
+
+O CDR com 15% de umidade, será descarregado em uma esteira transportadora metálica
+situada abaixo do secador rotativo para ser enfardado ou ser armazenado a granel.
+
+
+
+
+                                                                                           31
+32
+Considera-se que a operação se dará em alta temperatura para inertizar os patogenos e
+eliminar gases provenientes do processo de aquecimento, tornando os resultados
+compatíveis e sempre muito menores que as normas vigentes em nosso Estado.
+
+De posse das informações a respeito das tecnologias apresentadas, das viabilidades
+econômicas e das vantagens mencionadas do aproveitamento energético de resíduos
+sólidos urbanos, o presente trabalho considera a implantação de uma unidade de
+tratamento de 300 toneladas dia de resíduos classe II-A, que consistirá na recepção,
+processamento, trituração, separação magnética de metais, prensagem, abatimento de
+umidade, enfardamento e acondicionamento para destinação térmica por meio de
+gaseificação em leito fluidizado circulante com posterior geração de energia elétrica
+utilizando caldeira e turbina a vapor.
+
+Os resíduos que chegarem à usina serão controlados quanto à origem, quantidade e
+natureza, por meio de um sistema de rastreabilidade. A pesagem em balança permitirá
+também, através da diferença de peso bruto obtido na chegada e a tara obtida na saída
+do veículo, determinar a quantidade, em massa, de resíduo consumido na usina
+objetivando o controle de rendimento global da planta.
+
+Esse sistema de tratamento de RSU é uma forte vertente apresentada neste trabalho
+com finalidade de recuperação energética de resíduos sólidos urbanos, na qual o
+produto final será um gás combustível para aproveitamento energético por meio de
+moto-geradores ou ciclo Rankine a vapor.
+
+A mesma está dividida em três blocos distintos, porém, integrados e dependentes entre
+si, sendo eles;
+
+1 - Unidade de recepção e produção de CDR – Combustível Derivado de Resíduos de
+origem industrial ou urbana: Trata-se de unidade composta por equipamentos que
+atuam no material recebido promovendo sua trituração, desumidificação e seleção
+mecânica, com ou sem auxílio de pessoas, produzindo um combustível homogêneo e
+específico para o reator. Esse processo se retroalimenta da propria energia gerada pelo
+sistema.
+
+2 - Unidade de gaseificação: Trata-se do setor destinado a converter a energia
+potencialmente contida no CDR, em gás combustível de múltiplas aplicações. Nesta
+unidade a massa de vapor partir dos gases de combustão do syngás dos materiais
+chegam em 420 ºC, a uma pressão de 40 kgf/cm²(g).
+
+Lavador de Gases: O sistema de bombeamento para os bicos ejetores e pulverizadores
+
+                                                                                          33
+operam em circuito fechado. O lavador de gases opera de forma contínua e o efluente
+gerado é destinado para estação de tratamento.
+
+
+
+
+                                       Fonte: WEG
+
+
+3 - Unidade de geração de energia elétrica: Como uma das aplicações possíveis para o
+gás produzido no processo, a geração de energia elétrica é a que possibilita o melhor
+aproveitamento energético e financeiro do mesmo.
+
+Atende dois modelos diferentes de geração: ciclo Otto e o ciclo Rankine; ou seja, o gás
+gerado poderá ser utilizado como combustível diretamente em moto-geradores, de ciclo
+Otto, onde a explosão interna aciona geradores acoplados. Ou, em diretamente em
+combustores do tipo caldeiras aquatubular e turbo-geradores, acionados pelo vapor
+gerado pelo processo.
+
+A melhor eficiência no aproveitamento energético está no ciclo Otto com 35%, mas sua
+viabilidade econômica é limitada a 2 MWe. Para a geração de potências superiores a 2
+MWe, a utilização do ciclo Rankine com rendimento de 30%, torna-se a opção mais
+viável economicamente para a geração elétrica na utilização de gaseificadores, devido
+ao ganho de escala e consequentemente ao menor investimento R$/MW instalado.
+
+
+
+
+                                                                                          34
+                     Fonte: WEG
+
+
+
+Planta Geral
+
+
+
+
+Corte Longitudinal
+
+
+
+
+                                  35
+Cortes Transversais
+
+
+
+
+INVESTIMENTOS ESTIMADOS
+
+Para a implantação da Central de Tratamento e Geração de Energia, estima-se um investimento
+total de R$ 151.285.500,00, distribuídos nos seguintes componentes:
+                                                         INVESTIMENTOS
+                                     ITEM                             Total (R$ mil)
+                                     Projetos e Licenças                                  8.725,00
+                                                                                               -
+                                     Obras civis e Terraplenagem                          2.170,00
+                                                                                               -
+                                     Linha de CDR                                        34.627,50
+                                                                                               -
+                                     Reator                                              50.683,00
+                                                                                               -
+                                     Modulo de Geração                                   33.210,00
+                                                                                               -
+                                     Subestação e transmissão                            20.250,00
+                                                                                               -
+                                     Transporte                                           1.620,00
+
+                                     Total                                              151.285,50
+
+                                               INVESTIMENTOS Total (R$ mil)
+
+
+                                                                                          2.170,00
+                                                             1.620,00
+
+                                                                        8.725,00
+                                             20.250,00
+
+
+
+                                                                                                        34.627,50
+
+
+                33.210,00
+
+
+
+
+                                                                            50.683,00
+
+
+
+
+                       Projetos e Licenças                Obras civis e Terraplenagem         Linha de CDR
+
+
+                       Reator                             Modulo de Geração                   Subestação e transmissão
+
+
+                       Transporte
+
+
+
+
+                                                                                                                         36
+    13. LOCALIZAÇÃO DA CENTRAL DE TRATAMENTO E GERAÇÃO DE ENERGIA
+
+
+A localização da futura Unidade de Tratamento deverá levar em conta os aspectos
+logísticos, acessibilidade, topografia, meio ambiente e de restrições quanto aos
+aeroportos regionais na área de abrangência do projeto.
+
+
+
+
+Uma distância razoável para o transporte dos resíduos alcançaria 60 quilômetros, tendo
+como centro a região dos municípios de Assis/Palmital.
+
+
+
+
+                                                                                         37
+    14. ESTRUTURA ORGANIZACIONAL DA CONCESSIONÁRIA
+
+
+Com o objetivo de administrar operar e manter a unidade de tratamento, a concessionária
+deverá manter uma estrutura que garanta o funcionamento ininterrupto das instalações e
+operações.
+
+
+
+
+                       Estrutura da SPE - Administração
+
+                                       Função             Funcionarios
+
+                       Diretores                               1
+                       Gerente Administrativo/Financ.          1
+                       Gerente Operacional                     1
+                       Assist Administrativo                   5
+                       Contador                                1
+                       Motorista                               3
+                       Serv. Limp.                             1
+                       Total                                  13
+
+
+
+                       Estrutura da SPE - Operacional
+
+                                       Função             Funcionarios
+
+                       Encarregado de turno                    3
+                       Aux. de produção                       12
+                       Operador de maquina                     2
+                       Tec. Laboratorio                        1
+                       Tec. Manutenção                         3
+                       Motorista                               3
+                       Serv. Limp.                             3
+                       Total                                  27
+
+
+
+
+                                                                                          38
+Estrutura da SPE - Despesas Anuais
+
+                 Item                Quantidade
+
+Alimentação                             1200
+Treinamento                              27
+Material de segurança                    80
+Aluguel/locação                           2
+Manutenção de veiculos e comb            90
+Comunicação (Verba)                       1
+Viagens e estadias                        1
+Material de consumo (esc)                 1
+TI e manutenção informatica               1
+Diversos                                  1
+Total                                   1404
+
+
+
+
+                                                  39
+           ANEXO - ESPECIFICAÇÕES TÉCNICAS PARA EXECUÇÃO DO CONTRATO
+
+CONSÓRCIO INTERMUNICIPAL DO VALE DO PARANAPANEMA – CIVAP com o objetivo de
+conceder os serviços de tratamento e destinação final dos resíduos, com previsão de
+aproveitamento energético visando a redução de massa que se encaminhará destino final,
+apresenta o Termo Referência para o atendimento das exigências técnicas estipuladas no
+CONTRATO DE CONCESSÃO.
+
+   1. ASPECTOS GERAIS
+
+De acordo com o previsto na Constituição Federal de 5 de outubro de 1988, a titularidade dos
+serviços de manejo de resíduos sólidos e de limpeza urbana é uma prerrogativa das
+Administrações Municipais.
+De acordo com a Lei 12.305/2010, que instituiu a Política Nacional de Resíduos Sólidos, compete
+ao titular destes serviços, entre outras atribuições, a adoção de medidas e procedimentos que
+possam permitir o reaproveitamento dos resíduos sólidos reutilizáveis, ou passíveis de
+reciclagem, a implantação ou a ampliação da coleta seletiva e de dar o destino final adequado
+aos rejeitos gerados nos serviços.
+
+   2. CONSÓCIO CIVAP E OS SERVIÇOS INTEGRANTES DO CONTRATO
+
+Cada município integrante do Consórcio é responsável pela coleta domiciliar, processos de coleta
+seletiva, transporte, tratamento e destinação final dos resíduos sólidos urbanos coletados.
+
+No CONTRATO DE CONCESSÃO estão incluídos os serviços de tratamento e destinação final dos
+resíduos, com previsão de aproveitamento energético visando a redução de massa que se
+encaminhará ao destino final.
+
+   3. EXIGÊNCIAS TÉCNICAS PARA OS SERVIÇOS INTEGRANTES DO CONTRATO DE CONCESSÃO
+
+   3.1.       Caberá ao CIVAP Manter o controle do volume de resíduos a serem entregues
+       pelos municípios à CONCESSIONÁRIA, na Central de Tratamento e Geração de Energia
+       (CTGE) a ser implantada.
+
+   3.2.       Aos municípios caberá o transporte dos resíduos sólidos urbanos domiciliares
+       coletados até a CTGE a ser implantada pela CONCESSIONÁRIA.
+
+   3.3.        À CONCESSIONÁRIA caberá receber os resíduos sólidos urbanos domiciliares
+       entregues pelos municípios, pesando cada volume entregue e registrando em relatório
+       específico.
+
+   3.4.       Caberá à CONCESSIONÁRIA desenvolver o projeto, adquirir área e aprovar perante
+       aos órgãos públicos e ambientais a implantação da Central de Tratamento e Geração de
+       Energia para os resíduos sólidos domiciliares entregues pelo CIVAP.
+
+
+
+                                                                                             40
+3.5.       O tratamento dos resíduos sólidos urbanos recebidos na CTGE e os processos de
+    geração de energia e consequentes geração de efluentes sólidos, líquidos e gasosos, serão
+    de responsabilidade da CONCESSIONÁRIA.
+
+3.6.       O acesso ao local da CTGE, assim como os acessos internos deverão ser perenes o
+    ano todo, permitindo desta maneira o movimento de caminhões coletores
+    compactadores e outros veículos de carga a descarga dos resíduos nas respectivas frentes
+    de serviço de recepção dos resíduos.
+
+3.7.      As áreas de disposição de resíduos deverão ser monitoradas constantemente,
+    como determinado pelo Órgão Ambiental que autorizar a implantação e operação da
+    CTGE.
+
+3.8.       Caberá à CONCESSIONÁRIA manter registro atualizado de todo o processo de
+    recepção de resíduos encaminhados pelo CIVAP e as condições da sua destinação final e
+    dos respectivos efluentes.
+
+3.9.       Deverá ser emitido pela CONCESSIONÁRIA relatório mensal com as
+    movimentações discriminadas por município atendido, o qual deverá ser encaminhado
+    em até 10 (dez) dias do mês subsequente.
+
+
+4. TRATAMENTO DE RESIDUOS E GERAÇÃO DE ENERGIA
+
+
+4.1.       OBJETIVOS E TECNOLOGIA:
+
+    A CONCESSIONARIA deverá propor e implementar novas e melhores tecnologias de
+reciclagem e minimização de resíduos sólidos urbanos, de forma a reduzir a massa a ser
+disposta em aterro sanitário a no máximo 15% (quinze por cento) dos resíduos recebidos na
+Central.
+
+A CONCESSIONARIA deverá apresentar tal solução ao PODER CONCEDENTE até o mês 12
+(doze) da CONCESSAO.
+
+5. IMPLANTAÇÃO, OPERAÇÃO, MANUTENÇÃO E MONITORAMENTO DE UNIDADE DE
+   COMPACTAÇÃO DE RESÍDUOS SÓLIDOS DOMICILIARES
+
+    A CONCESSIONÁRIA, deverá implantar e operar unidade compactação de resíduos sólidos
+domiciliares. A unidade deverá ser instalada em galpão fechado, devidamente licenciada
+pelos órgãos de controle de poluição ambiental competentes, com capacidade de
+processamento compatível com as quantidades de resíduos projetados pelos municípios
+integrantes do projeto do CIVAP, até o final do mês 24 (vinte quatro) da CONCESSAO.
+
+
+
+
+                                                                                          41
+6. IMPLANTAÇÃO, OPERAÇÃO, MANUTENÇÃO E MONITORAMENTO DE UNIDADE DE
+   TRATAMENTO DE RESÍDUOS DOMICILIARES, UTILIZANDO TECNOLOGIA DE REDUÇÃO DE
+   MASSA E GERAÇÃO DE ENERGIA.
+
+ A CONCESSIONÁRIA deverá apresentar até o mês 06 (seis) da CONCESSÃO, projeto de
+unidade de tratamento de resíduos sólidos domiciliares contemplando redução de massa
+compatível com as quantidades de resíduos contratados com o CIVAP.
+
+O projeto para implantar a unidade de tratamento de resíduos sólidos domiciliares, após
+aprovação do PODER CONCEDENTE, deverá ser licenciado pelos órgãos de controle de
+poluição ambiental competentes e implantado, após licenciamento, em até 12 (doze) meses,
+pela CONCESSIONÁRIA.
+
+Até que implantada a Unidade de Tratamento referida no item anterior a CONCESSIONÁRIA
+deverá prover e garantir o tratamento dos resíduos sólidos domiciliares, de serviços de saúde
+e seu respectivo efluente (líquidos percolados), em unidades de tratamento próprias ou de
+terceiros, devidamente licenciadas pelos órgãos de controle de poluição ambiental
+competentes, com capacidade de processamento compatível com as quantidades de resíduos
+contratados com o CIVAP.
+
+Captação e tratamento de efluentes líquidos e/ou gasosos: o sistema previsto no item
+anterior deverá prever o tratamento dos efluentes líquidos e/ou gasosos decorrente do
+processo de tratamento mencionado no item anterior, para operação em prazo compatível
+com a implantação e operação do sistema.
+
+A CONCESSIONÁRIA deverá licenciar junto aos órgãos ambientais, implantar, operar, dar
+manutenção e realizar o monitoramento ambiental em até 12 (doze) meses após o
+Licenciamento Ambiental, usina de geração de energia.
+
+7. EXIGÊNCIAS TÉCNICAS PARA OS SERVIÇOS INTEGRANTES DO CONTRATO DE CONCESSÃO
+
+7.1.       Recepção dos caminhões compactadores e carretas:
+
+Consiste em receber os resíduos sólidos urbanos recolhidos pelos caminhões coletores ou
+carretas transportadoras, devidamente autorizados pelo CIVAP.
+
+7.2.       Descarga:
+
+A descarga dos caminhões coletores deverá ser efetuada diretamente, por gravidade, em
+equipamentos com maior capacidade de carga que ao completar a carga total, rumarão
+incontinente para efetuar a descarga em Central de Tratamento devidamente licenciada pela
+CETESB.
+
+7.3.       Cadastramento dos veículos:
+
+Todos os veículos utilizados no transporte dos resíduos até o local de destinação final,
+compostos por caminhões coletores ou unidades compostas de “cavalo mecânico” e
+respectivas carretas com capacidade para até 50 metros cúbicos de resíduos deverão estar
+                                                                                          42
+devidamente cadastrados junto ao CIVAP e à CONCESSIONÁRIA.
+
+8. INDICADORES DE DESEMPENHO PARA O CONTROLE DOS SERVIÇOS OBJETO DO
+   CONTRATO, CABENDO NO CASO DE DESCONFORMIDADE A APLICAÇÃO DAS PENALIDADES
+   ORA ESTIPULADAS.
+
+8.1.        TEMPO DE ATENDIMENTO: O veículo transportador do resíduo sólido urbano
+    encaminhado pelo CIVAP, não poderá ficar retido na operação de controle de acesso,
+    desembarque e liberação, por mais de 60 minutos em pelo menos 95% (noventa e cinco
+    por cinco por cento) das operações.
+
+          Período de Análise: Mensal
+          Penalidade:
+               o Advertência na primeira notificação
+               o Multa de 0,5% (cinco décimos por cento) da Contraprestação Mensal na 2ª
+                  (segunda) notificação
+               o Multa de 1% (um por cento) da Contraprestação Mensal à partir da 3ª
+                  (terceira) notificação
+
+8.2.        CONDIÇÕES DE TRATAMENTO E ARMAZENAGEM: Todos os resíduos depositados
+    deverão submeter a tratamento adequado, atendendo as normas técnicas e armazenado
+    em local que não ofereça risco ambiental e permita a separação e o tratamento adequado
+    aos resíduos que serão descartados.
+        Período de Análise: Não há
+        Penalidade:
+               o Advertência na primeira notificação
+               o Multa de 1% (um por cento) da Contraprestação Mensal na 2ª (segunda)
+                  notificação
+               o Multa de 2% (dois por cento) da Contraprestação Mensal à partir da 3ª
+                  (terceira) notificação
+
+8.3.       REDUÇÃO DE MASSA: A Central de Tratamento e Geração de Energia deverá ter
+    capacidade de redução de pelo menos 85% do resíduo em toneladas recebidas para
+    descarte em aterro.
+        Período de Análise: Anual
+        Penalidade:
+              o Advertência na primeira notificação
+              o Multa de 1,0% (um por cento) da Contraprestação Mensal na 2ª (segunda)
+                  notificação
+              o Multa de 2% (dois por cento) da Contraprestação Mensal à partir da 3ª
+                  (terceira) notificação
+
+
+                                                                                       43
+8.4.       CAPACIDADE DE RECEPÇÃO: A Central de Tratamento e Geração de Energia deverá
+    ter capacidade para atender a 100% dos resíduos sólidos urbanos encaminhados pelo
+    CIVAP.
+         Período de Análise: Não há
+         Penalidade:
+               o Advertência na primeira notificação
+               o Multa de 1% (um por cento) da Contraprestação Mensal na 2ª (segunda)
+                  notificação
+               o Multa de 2% (dois por cento) da Contraprestação Mensal à partir da 3ª
+                  (terceira) notificação
+
+8.5.      DISPONIBILIDADE DE INFORMAÇÃO: A CONCESSIONÁRIA deverá em até 48h,
+    sempre quando demandada, relatório contendo as informações de controle das
+    operações da Central de Tratamento dos Resíduos.
+        Período de Análise: Não há
+        Penalidade:
+              o Advertência na primeira notificação
+              o Multa de 0,5% (cinco décimos por cento) da Contraprestação Mensal na 2ª
+                  (segunda) notificação
+              o Multa de 1% (um por cento) da Contraprestação Mensal à partir da 3ª
+                  (terceira) notificação
+
+8.6.       EMISSÃO DE POLUENTES: A CONCESSIONÁRIA deverá manter permanentemente
+    sistema de controle de emissão de gases, com registro em tempo real das características
+    e volume de gases emitidos na atmosfera.
+         Período de Análise: Não há
+         Penalidade:
+              o Advertência na primeira notificação
+              o Multa de 1% (um por cento) da Contraprestação Mensal na 2ª (segunda)
+                  notificação
+              o Multa de 2% (dois por cento) da Contraprestação Mensal à partir da 3ª
+                  (terceira) notificação
+
+8.7.       TRATAMENTO DE EFLUENTES LÍQUIDOS: A Central de Tratamento deverá possuir
+    sistema de coleta, depósito e tratamento de efluentes líquidos contaminantes.
+         Período de Análise: Não há
+         Penalidade:
+              o Advertência na primeira notificação
+              o Multa de 1% (um por cento) da Contraprestação Mensal na 2ª (segunda)
+                  notificação
+
+
+                                                                                        44
+o Multa de 2% (dois por cento) da Contraprestação Mensal à partir da 3ª
+  (terceira) notificação
+
+
+
+
+                                                                    45
+      ANEXO – DIRETRIZES BÁSICAS PARA A OBTENÇÃO DAS LICENÇAS AMBIENTAIS
+                 NECESSÁRIAS À EXECUÇÃO DOS SERVIÇOS E OBRAS
+
+O CONSÓRCIO INTERMUNICIPAL DO VALE DO PARANAPANEMA – CIVAP com o objetivo de
+conceder os serviços de tratamento e destinação final dos resíduos, com previsão de
+aproveitamento energético visando a redução de massa que se encaminhará destino final,
+apresenta as Diretrizes Ambientais para o atendimento das exigências técnicas estipuladas no
+CONTRATO DE CONCESSÃO.
+
+    1. ASPECTOS GERAIS
+
+
+As Diretrizes ambientais a serem atendidas pela CONCESSIONÁRIA para a implantação de Central
+de Tratamento e Geração de Energia (CTGE) devem se pautar pelos princípios a seguir
+relacionados:
+
+-      A prevalência do interesse público;
+
+-      A melhoria contínua da qualidade ambiental;
+
+-      O combate à miséria e seus efeitos, que prejudicam não apenas a qualidade de vida mas
+também a qualidade ambiental da região e de seus recursos naturais onde se instalará a Central
+de Tratamento e Geração de Energia (CTGE);
+
+-      A multidisciplinariedade no trato das questões ambientais;
+
+-      A participação comunitária na defesa do Meio Ambiente;
+
+-      A integração com as políticas de Meio Ambiente nas esferas de competência da União,
+Estado, Município e as demais ações do governo;
+
+-      A manutenção de equilíbrio ambiental;
+
+-      O uso racional dos recursos naturais;
+
+-      A mitigação e minimização dos impactos ambientais;
+
+-      A Educação e a Conscientização Ambiental como ação mobilizadora da sociedade;
+
+-     O incentivo a pesquisa científica e tecnológica direcionada para o uso, proteção,
+monitoramento e recuperação dos recursos ambientais;
+
+-      O estímulo à produção responsável;
+
+-      A recuperação do dano ambiental.
+
+Para o cumprimento do disposto no artigo 30 da Constituição Federal, no que concerne ao Meio
+Ambiente, considera-se como de interesse local:
+
+-      O incentivo a adoção de posturas e práticas sociais e econômicas ambientalmente
+                                                                                           46
+sustentáveis;
+
+-      A adequação das atividades e ações econômicas, sociais, urbanas e do Poder Público, às
+imposições do equilíbrio ambiental;
+
+-       A busca permanente de soluções negociadas entre o Poder Público e a iniciativa privada
+para a redução dos impactos ambientais;
+
+-      A adoção no processo de planejamento, de normas relativas ao desenvolvimento urbano
+e econômico que priorize a proteção ambiental, a utilização adequada do espaço territorial e dos
+recursos naturais e que possibilitem novas oportunidades de geração de trabalho e renda;
+
+-      A ação na defesa e conservação ambiental no âmbito regional, na área de influência da
+Central de Tratamento e Geração de Energia (CTGE);
+
+-      O licenciamento ambiental e o controle das atividades potencial ou efetivamente
+poluidoras;
+
+-      A melhoria constante da qualidade do ar, da água, do solo, da paisagem e dos níveis de
+ruído e vibrações, mantendo-os dentro dos padrões técnicos estabelecidos pelas legislações de
+Controle de Poluição Ambiental Federal, Estadual e do Município no que couber;
+
+-      O acondicionamento, armazenamento, a reciclagem, o tratamento e a disposição final dos
+resíduos sólidos;
+
+-      Tratamento adequado dos efluentes líquidos e gasosos provenientes dos sistemas
+operacionais da Central de Tratamento e Geração de Energia (CTGE);
+
+-      O cumprimento de normas de segurança no tocante à manipulação, armazenagem e
+transporte de produtos, substâncias, materiais e resíduos perigosos ou tóxicos.
+
+-      A criação de unidades de conservação;
+
+-     A conservação e recuperação dos rios, córregos e matas ciliares e áreas florestadas
+impactadas;
+
+-      A garantia de crescentes níveis de salubridade ambiental, através do provimento de infra-
+estrutura sanitária e de condições de salubridade das edificações e instalações operacionais;
+
+-      O estabelecimento de indicadores ambientais;
+
+-      Obtenção das licenças ambientais necessárias para o início das operações.
+
+A gestão dos resíduos sólidos a serem tratados e o desenvolvimento sustentável deverá ter
+ênfase na qualidade de vida de sua população, tendo como base a educação, direito fundamental
+para o exercício da cidadania e contemplar a Lei Federal 12.305/10.
+I
+nsere-se no contexto da gestão integrada dos resíduos sólidos e desenvolvimento sustentável, o
+programa de Coleta Seletiva como forma de geração de trabalho, renda, inclusão social e
+minimização de impactos ambientais.
+                                                                                             47
+Estímulo à Pesquisa e ao uso de matérias primas recicladas e viabilizadas através de programas
+governamentais e de parcerias com universidades, indústrias, estabelecimentos comerciais,
+empresas prestadoras de serviços, comunidade organizada e instituições interessadas.
+
+
+     2. PREVENÇÃO DE POLUIÇÃO E DA DEGRADAÇÃO SÓCIO - AMBIENTAL
+
+
+      Com relação ao tratamento e destinação final dos resíduos sólidos urbanos e posterior
+ geração de energia, estes deverão após estudos de alternativas tecnológicas e de localização,
+ ter sua caracterização realizada com base nas informações e subsídios a seguir relacionados:
+ -    localização do empreendimento, considerando a(s) região(ões) administrativa(s)
+      atingida(s), os pontos de captação de água e lançamento de efluentes, enquadramento
+      dos corpos d’água em sua respectiva classe de uso (Resolução CONAMA), bacia
+      hidrográfica e coordenadas geográficas;
+ -    concepção e forma operacional da unidade;
+ -    sistemas de proteção ambiental (sistemas de drenagem superficial, sub-superficial,
+      impermeabilização, coleta e tratamento de líquidos percolados e gases, dentre outros)
+      para atendimento às disposições Associação Brasileira de Normas Técnicas – ABNT.
+ -    sistemática e forma de transporte dos resíduos, acessos e condições de tráfego;
+ -    obras de implantação;
+ -    monitoramento ambiental (monitoramento da qualidade das águas subterrâneas,
+      superficiais, líquidos percolados, gases, estabilidade de talude dentre outros.)
+      Especificamente para a implantação da unidade de triagem, compactação, estação de
+ recepção, e usina de compactação e geração de energia deverá ser elaborado um diagnóstico
+ da área diretamente afetada pelo empreendimento, refletindo as atuais condições dos meios
+ físico, biológico e sócio econômico. As informações deverão se inter-relacionadas, resultando
+ num diagnóstico integrado que permita a avaliação dos impactos resultantes da implantação
+ do empreendimento.
+      Para tanto, as seguintes informações deverão ser consideradas:
+
+ -    delimitação da área de influência do empreendimento;
+
+ -    compatibilidade do empreendimento com a legislação incidente: do Município, d o
+      E s t a d o e do Governo Federal, em especial com relação às áreas de interesse ambiental,
+      com mapeamento das restrições à ocupação, de acordo com as disposições da Resolução
+      CONAMA;
+
+                                                                                              48
+-     caracterização do uso e ocupação atual do solo;
+
+-     caracterização da área quanto aos aspectos geológicos, geotécnicos e hidrogeológicos;
+
+-   caracterização da infra-estrutura básica existente no local, tais como fornecimento de
+    energia elétrica, abastecimento de água, redes de esgoto, dentre outros;
+
+-   caracterização das áreas de vegetação nativa e/ou de interesse específico para a fauna,
+    considerando Código Florestal Vigente;
+
+-   caracterização das condições climáticas (pluviometria, temperatura, velocidade, direção
+    e predominância dos ventos);
+
+-   dados sobre a qualidade do ar, considerando as disposições da resolução CONAMA e
+    demais Legislações;
+
+-   indicação dos níveis de ruído, de acordo com as Normas da Associação Brasileira de
+Normas
+
+    Técnicas – ABNT NBR 10151 e NBR 10152;
+
+-    levantamento da existência de sítios arqueológicos, em conformidade com a Portaria
+IPHAN n.º 230/02 e demais Legislações.
+
+    Diante do diagnóstico ambiental da área de influência do empreendimento e de sua
+caracterização, devem ser identificados os principais impactos que poderão ocorrer, em
+função das diversas ações previstas para a sua implantação e operação, tais como: alteração
+da qualidade do ar, alteração de regime hídrico superficial e/ou subterrâneo, erosão e
+assoreamento, conflitos de uso e ocupação do solo e de água, re-locação de cobertura vegetal,
+interferência com infra-estrutura existente, desapropriações e re-locação de população,
+dentre outros.
+    Considerando os impactos identificados deverão ser previstas medidas mitigadoras,
+compensatórias e/ou de controle ambiental, tais como:
+-   implantação de sistemas de coleta seletiva e/ou triagem dos resíduos, com
+    posterior reaproveitamento dos materiais com reciclagem e geração de energia;
+
+-    captação e tratamento dos gases gerados, com possibilidade de aproveitamento
+energético;
+
+-     tratamento de líquidos percolados, para atendimento às disposições da legislação.
+
+
+                                                                                              49
+  3. SISTEMA DE MONITORAMENTO ÁGUAS SUPERFICIAIS E SUBTERRÂNEAS, LÍQUIDOS
+     PERCOLADOS, RESÍDUOS SÓLIDOS E ESTABILIDADE DE TALUDES.
+
+        A amostragem, armazenagem e preservação das amostras de líquidos percolados,
+águas superficiais e subterrâneas e de resíduos sólidos não inertes deverão seguir normas
+técnicas da ABNT e recomendações do órgão ambiental do município onde for instalada a
+Central de Tratamento e Geração de Energia.
+        A característica e a frequência de amostragem deverão ser as seguintes:
+   a. Líquidos percolados (chorume e água): Frequência Mensal
+   b. Águas superficiais e subterrânea: Frequência Quadrimestral
+   c. Estabilidade de talude: Frequência Mensal
+   d. Resíduos sólidos: Frequência Anual
+
+
+      Deverão ser analisados periodicamente os parâmetros descritos a seguir:
+
+Líquidos Percolados
+
+         Parâmetros: pH, Condutividade elétrica, Potencial redox, DQO, DBO, Ferro Total,
+Zinco, Cobre, Chumbo, Manganês, Níquel, Cromo Total, Fenol, Temperatura.
+
+Águas subterrâneas
+
+       As amostragens e análises de águas subterrâneas deverão ser realizadas em poços de
+monitoramento, localizados à jusante do aterro sanitário que for instalado para os rejeitos,
+no sentido preferencial do fluxo, bem como no poço de montante do empreendimento.
+
+        Parâmetros: pH, Cor, Turbidez, Alcalinidade Total, Condutividade elétrica, Dureza
+Total, DQO, DBO, Óleos e Graxas, Cloretos, Ferro Total, Zinco, Cobre, Chumbo, Manganês,
+Fenol, Temperatura, Coliformes Total e Fecal.
+
+Resíduos sólidos
+
+          Deverão ser retiradas anualmente das células do aterro sanitário de rejeitos,
+amostras de resíduos sólidos em decomposição, para a realização de ensaios de lixiviação
+e solubilização.
+
+Fase Sólida - Lixiviação de resíduos sólidos -ABNT NBR 10.005
+
+Fase Sólida - Ensaio de solubilização de resíduos sólidos –ABNT NBR 10.006
+
+        Parâmetros: Peso específico aparente, Peso específico aparente seco, Peso úmido,
+Peso seco, Porcentagem de umidade, Sólidos totais, Sólidos totais fixos, Sólidos totais
+voláteis, Porcentagem de sólidos totais fixos, Porcentagem de sólidos totais voláteis.
+
+
+
+                                                                                            50
+  4. CARACTERIZAÇÃO GEOLÓGICA,                TOPOGRAFIA,       DOS      RECURSOS       HÍDRICOS,
+     CLIMATOLÓGICA E DE VEGETAÇÃO
+
+Geologia Regional
+
+        Deverá ser identificada a geologia regional do empreendimento, utilizando – se mapas
+geomorfológicos do município onde se instalará o empreendimento e outros institutos e/ou
+instituições.
+
+Geologia local
+
+       A geologia local deverá ser aferida através da realização de sondagens a percussão
+executadas no local, realizando-se ensaios de SPT (Standard Penetration Test), identificação
+do nível do lençol freático, Granulometria, Limite de Liquidez (LL), limite de Plasticidade (LP) e
+ensaio de permeabilidade.
+
+Topografia
+
+       A área do empreendimento deverá ter levantamento planialtimétrico em escala
+1:1000 com curvas de nível de metro em metro e coordenadas geográficas.
+
+Climatologia
+
+Visando a caracterização climatológica da região deverão ser obtidos periodicamente
+dados pluviométricos, de temperatura do ar, evapotranspiração e predominância e
+direção dos ventos.
+
+Balanço Hídrico
+
+       Com base nos dados climatológicos da região, deverá ser calculado anualmente o
+balanço hídrico para empreendimentos no qual o ciclo hidrológico é de fundamental
+importância.
+
+        A água que precipita sobre o aterro sanitário de rejeitos, parte é devolvida para a
+atmosfera por evapotranspiração, parte escoa superficialmente e o restante infiltra-se,
+podendo ficar retida na camada de cobertura ou produzir um fluxo de percolação quando for
+atingida a saturação desta camada. Portanto o cálculo do balanço hídrico é de fundamental
+importância para a estimativa de vazão de líquidos percolados provenientes do aterro sanitário
+de rejeitos.
+
+Monitoramento Geotécnico
+
+      O aterro sanitário deverá ser monitorado através de marcos superficiais de observação,
+medidores de recalque, piezômetros e medidores de nível d'água.
+
+       Os marcos superficiais serão instalados logo que se atinja a cota de terraplanagem de
+                                                                                                51
+implantação do aterro, e a partir deste momento, serão medidos os deslocamentos nas três
+direções. Para tanto, serão efetuados levantamentos planialtimétricos periódicos.
+
+       Os marcos serão implantados nas bermas, base e crista dos taludes, distanciados a cada
+50 m, além dos patamares de topo do aterro sanitário.
+
+Vegetação
+
+        Nas áreas de mata ciliar e onde serão implantados os empreendimentos ambientais,
+deverá ser realizado levantamento florístico das espécies arbóreas de fragmentos da mata
+nativa.
+
+       Mata ciliar é a formação vegetal que ocorre nas margens dos rios, córregos, lagos,
+lagoas, olhos d’água, represas e nascentes. É considerada pelo Código Florestal Federal
+como área de preservação permanente.
+
+           Também é conhecida por mata de galeria, mata de várzea, vegetação ou floresta
+ripária.
+
+       A mata ciliar funciona como filtro ambiental, retendo poluentes e sedimentos que
+chegariam aos cursos d’água, sendo fundamental para o equilíbrio dos ecossistemas
+aquáticos. Portanto, a manutenção da mata ciliar protege contra a erosão das ribanceiras e
+o conseqüente assoreamento dos recursos hídricos, conservando a qualidade e o volume
+das águas.
+
+  5. OBJETIVOS DO PROGRAMA AMBIENTAL
+
+
+           A recuperação das matas ciliares dos cursos d’água das bacias abrangidas caso aplicável
+           no empreendimento em questão tem por objetivos:
+
+           - diminuir os processos de erosão e assoreamento, melhorando a qualidade e a
+           quantidade dos recursos hídricos;
+
+           - regularizar a vazão das águas superficiais pela redução de sua velocidade de
+           escoamento;
+
+           - aumentar a infiltração das águas provenientes das chuvas para o abastecimento dos
+           lençóis freáticos;
+
+           - formar corredores naturais que garantam o fluxo entre populações silvestres que
+           sofreram fragmentação e isolamento pela perda dos seus habitats;
+
+           - conscientizar os proprietários rurais adjacentes sobre a importância da manutenção da
+           biodiversidade
+
+           - promoção de campanhas e estímulo à educação ambiental.
+
+                                                                                               52
+  6. PROCESSOS DE RESTAURAÇÃO
+
+
+       A restauração de matas ciliares é uma medida que pode ser realizada por diferentes
+processos. O cercamento da área é fundamental para que animais domésticos não danifiquem
+as mudas, nem compactem o solo, o que prejudica o crescimento da vegetação. É importante
+plantar espécies pioneiras que atraiam a fauna silvestre que serve de dispersora de sementes,
+principalmente pássaros, auxiliando no processo de regeneração natural.
+       Para diversificar a vegetação que nasceu espontaneamente no local, pode-se fazer o
+plantio de sementes ou mudas de espécies de maior valor ecológico e econômico. Também
+podem ser reintroduzidas espécies ameaçadas de extinção e outras que apresentam diferentes
+estágios de crescimento, misturando-se grupos ecológicos distintos, como acontece na
+natureza.
+
+
+
+
+                                                                                           53
+ANEXO – PROPOSTA DE FORNECEDOR DE TECNOLOGIA PARA TRATAMENTO E
+ GERAÇÃO DE ENERGIA ATRAVÉS DE RESÍDUOS SÓLIDOS URBANOS (WEG)
+
+
+
+
+                                                                 54
+14 de outubro de 2020
+
+PROJETO                 : URE CIVAP
+
+CLIENTE                 : CPD ‐ Companhia Paulista de Desenvolvimento
+
+REFERÊNCIA WEG          : 21212715 T1/C1 - Preliminar
+
+At.: Sr. Mário Silvério
+E-mail: mariosilverio@copade.com.br
+Telefone: (11) 3530-2040
+
+
+Prezado Sr. Mário Silvério,
+
+Atendendo a vossa consulta, temos a satisfação de apresentar-lhes nossa proposta para o fornecimento dos
+equipamentos em referência, serviços de engenharia, sistema de automação, materiais e serviços de
+instalação elétrica e mecânica, comissionamento, start-up e operação assistida descritos a seguir, os quais
+serão construídos de acordo com as características técnicas mencionadas nessa oferta.
+
+Esperamos desta forma ter correspondido as suas expectativas e colocamo-nos ao seu dispor para quaisquer
+esclarecimentos complementares.
+
+
+
+
+Atenciosamente,
+
+ Samantha H. Hayashi                                      Leonardo Parente Buranello
+ WEG Equipamentos Elétricos S.A.                          WEG Equipamentos Elétricos S.A.
+ Depto Centro de Negócios de Energia                      Depto Centro de Negócios de Energia
+ Tel.: (47) 3276-7069                                     Tel.: (16) 2105 - 2578 / (16) 99633 - 1740
+ samantha@weg.net                                         lburanello@weg.net
+WEG Equipamentos Elétricos S/A
+
+
+ Proposta nº 21212715 T1/C1 - Preliminar                                                        Emissão:14/10/2020                           Página: 2 / 29
+
+                                                                         SUMÁRIO
+
+1.  Escopo Resumido ...................................................................................................................................... 4
+1.  Layout de Implantação Orientativo ............................................................................................................. 6
+  1.1.   Tecnologia Aplicada ........................................................................................................................... 7
+  1.2.   Composição Gravimétrica RSU Bruto considerada: .......................................................................... 7
+2. COMPONENTES ....................................................................................................................................... 7
+  2.1.   Quantidade de RSU por módulo: ....................................................................................................... 7
+  2.2.   Massa de gases combustos a partir da gaseificação dos materiais processados Padrão ................ 7
+  2.3.   Massa de vapor partir dos gases de combustão do syngás dos materiais processados Padrão ..... 7
+  2.4.   Geração de energia a partir da massa de vapor ................................................................................ 7
+  2.5.   Diagrama de geração de energia elétrica x CDRU processado X PCI do CDRU ............................. 8
+  2.6.   O&M orientativa sem reciclagem........................................................................................................ 8
+3. Preparo de CDRU ...................................................................................................................................... 9
+  3.1.   Características do CDRU produzido: ................................................................................................. 9
+4. Secador de leito fluidizado ......................................................................................................................... 9
+  4.1.   Características .................................................................................................................................... 9
+5. Gaseificador................................................................................................................................................ 9
+  5.1.   Gaseificador........................................................................................................................................ 9
+  5.2.   Câmara de Combustão ...................................................................................................................... 9
+  5.3.   Projeto do Gaseificador e combustor de gases derivados de resíduos ...........................................10
+6. Caldeira ....................................................................................................................................................11
+  6.1.   Descritivo geral .................................................................................................................................11
+  6.2.   Dados de processo ...........................................................................................................................11
+7. Lavador de Gases ....................................................................................................................................12
+  7.1.   Descritivo geral .................................................................................................................................12
+  7.2.   Características Técnicas – Lavador de Gases .................................................................................12
+8. Turbina......................................................................................................................................................12
+  8.1.   Características Técnicas – Turbina ..................................................................................................12
+  8.2.   Condensador à Vácuo ......................................................................................................................13
+  8.3.   Torres de resfriamento e Bombas de Resfriamento ........................................................................14
+9. Gerador.....................................................................................................................................................15
+  9.1.   Características Técnicas ..................................................................................................................15
+10.    Quadros Elétricos .................................................................................................................................16
+  10.1.     Sistema Integrado de Distribuição, Manobra e Controle – SID ...................................................16
+11.    Transformador Isolador e Cargas Auxiliares ........................................................................................17
+  11.1.     Características Técnicas – Transformador Isolador .....................................................................17
+  11.2.     Características Técnicas – Transformador Cargas Auxiliares .....................................................17
+12.    Serviços e Materiais .............................................................................................................................18
+  12.1.     Projeto e obras civis .....................................................................................................................18
+  12.2.     Interligação Mecânica ...................................................................................................................18
+  12.3.     Interligação Elétrica ......................................................................................................................19
+  12.4.     Sistema de Automação ................................................................................................................19
+13.    Geral .....................................................................................................................................................20
+14.    Limites de Fornecimento ......................................................................................................................21
+15.    Exclusões .............................................................................................................................................21
+16.    Condições Comerciais ..........................................................................................................................22
+  16.1.     Preços ...........................................................................................................................................22
+  16.2.     Data Base .....................................................................................................................................22
+  16.3.     Tabela de Tributos ........................................................................................................................22
+  16.4.     Prazo de Entrega ..........................................................................................................................22
+  16.5.     Transporte ....................................................................................................................................22
+  16.6.     Validade da Cotação ....................................................................................................................22
+17.    Condições Gerais de Vendas ...............................................................................................................23
+  17.1.     Condições Gerais de Fornecimento de Bens e Serviços WEG ...................................................23
+  17.2.     Preços e sua Definição .................................................................................................................23
+  17.3.     Sistemática de Cobrança e de Pagamentos ................................................................................23
+WEG Equipamentos Elétricos S/A
+
+
+Proposta nº 21212715 T1/C1 - Preliminar                                                  Emissão:14/10/2020                            Página: 3 / 29
+
+ 17.4.    Condições de Reajuste ................................................................................................................24
+ 17.5.    Aceitações ....................................................................................................................................24
+ 17.6.    Prazos ...........................................................................................................................................24
+ 17.7.    Cancelamento da Ordem de Compra ..........................................................................................25
+ 17.8.    Armazenagem ..............................................................................................................................25
+ 17.9.    Embalagem ...................................................................................................................................25
+ 17.10.   Serviços ........................................................................................................................................26
+ 17.11.   Garantia ........................................................................................................................................28
+ 17.12.   Dados do Fornecedor ...................................................................................................................29
+WEG Equipamentos Elétricos S/A
+
+
+Proposta nº 21212715 T1/C1 - Preliminar                  Emissão:14/10/2020           Página: 4 / 29
+
+1. Escopo Resumido
+
+ Quantidade   Preparo do CDRU / Acessórios
+    01        Moega dosadora de resíduos
+    06        Esteiras transportadoras
+    01        Abridor de sacos
+    01        Separador magnético
+    01        Peneira de discos
+    01        Separador a ar
+    01        Mesa de separação manual
+    01        Triturador
+    01        Painel elétrico de comando
+
+ Quantidade   Secador de leito fluidizado / Acessórios
+    01        Ventilador de Admissão
+    01        Moega de Alimentação
+    01        Cabeçote de Entrada
+    04        Módulo de Secagem
+    01        Cabeçote de Saída
+    01        Exaustor
+    01        Damper de Regulagem
+    01        Painel de Comando
+
+ Quantidade   Gaseificador / Câmara de combustão / Acessórios
+    03        Câmara de gaseificação
+    03        Câmara de combustão
+    03        Queimador completo com sensores e quadro elétrico
+    03        Ventiladores de ar/gases para câmara de gaseificação com acionamento
+    03        Sistema de coleta de cinzas com acionamento
+    03        Silo dosador de combustível com acionamentos
+     -        Dutos de ar e gases
+     -        Escadas e passarelas para os equipamentos de nosso fornecimento
+     -        Instrumentação de campo + pneumáticos para os equipamentos fornecidos
+    03        Silo de alimentação do gaseificador
+    03        Unidade hidráulica e pistões de acionamento
+     -        Sistema de despoeiramento do syngás
+     -        PLC/ Supervisório + Licenças / Programação
+     -        CCM e inversores de frequência
+
+ Quantidade   Caldeira de recuperação / Acessórios
+    03        Caldeira aquatubular
+    03        Ventilador induzido
+    01        Desaerador
+    02        Moto-bombas de água de alimentação
+    03        Conjunto de Instrumentação
+    03        Tanque de descarga contínuo/fundo
+    03        Chaminé / Duto de gás
+    03        Painel elétrico de controle
+
+ Quantidade   Tratamento de gases / Acessórios
+    03        Lavador de gases
+    03        Tanque externo de recirculação
+     -        Escadas e plataformas
+    03        Chaminé
+    03        Painel Elétrico de Comando
+WEG Equipamentos Elétricos S/A
+
+
+Proposta nº 21212715 T1/C1 - Preliminar                   Emissão:14/10/2020          Página: 5 / 29
+
+ Quantidade   Turbina / Redutor / Acessórios
+    02        Turbina de condensação
+    02        Redutor de velocidade
+    02        Sistema hidráulico
+    02        Sistema de proteção e controle da turbina
+    02        Sistema de condensação resfriado a água
+     -        Instrumentação
+    02        Painel elétrico de comando e controle
+
+ Quantidade   Gerador
+    01        Gerador elétrico
+
+ Quantidade   Painéis / Quadros / Acessórios
+    01        PNMT– Entrada do gerador
+    01        PNST – Painel de Surto do Gerador
+    01        PNAT – Painel de Aterramento do Gerador
+    01        PNPE – Painel de Proteção e exportação do Gerador
+    01        PNMT-Entrada concessionária
+    01        PNMT – Preparo/Gaseificador/ Rankine
+    01        PNSEC – Auxiliar
+    01        QGBT – Quadro geral de baixa tensão
+    01        QDCC – Quadro dos Serviços Auxiliares de Corrente Contínua
+    01        QDCA – Quadro dos Serviços Auxiliares de Corrente Alternada
+    01        QDLT – Quadro de iluminação e tomadas
+    01        Conjunto de baterias estacionárias 100 A/h
+    01        Carregador de baterias 25A
+
+ Quantidade   Transformador / Acessórios
+    01        Transformador de acoplamento
+    02        Transformador dos auxiliares
+    01        Resistor de aterramento
+
+ Quantidade   Equipamentos Auxiliares
+     -        Sistema de ar comprimido
+     -        Sistema adiabático / Ar-condicionado
+     -        Sistema de combate à incêndio
+   02/03      Torres de resfriamento / Bombas de circulação de água de resfriamento
+     -        Sistema de tratamento de água
+     -        Malha de aterramento
+     -        Sistema de Proteção de Descargas Atmosféricas - SPDA
+
+ Quantidade   Serviços / Obras Civis / Outros
+     -        Obras civis
+     -        Montagem dos equipamentos
+     -        Interligações e montagens mecânicas
+     -        Interligações e montagens elétricas e automação
+     -        Engenharia de Integração
+     -        Gerenciamento da Obra
+     -        Comissionamento / Operação Assistida / Treinamento
+WEG Equipamentos Elétricos S/A
+
+
+Proposta nº 21212715 T1/C1 - Preliminar                  Emissão:14/10/2020   Página: 6 / 29
+
+1. Layout de Implantação Orientativo
+
+
+
+
+                                 Imagens meramente ilustrativas.
+WEG Equipamentos Elétricos S/A
+
+
+ Proposta nº 21212715 T1/C1 - Preliminar                        Emissão:14/10/2020          Página: 7 / 29
+
+1.1. Tecnologia Aplicada
+A tecnologia e o conjunto de equipamentos, aqui ofertados, têm por objetivo de gaseificar até 86,4 ton/dia de
+combustível derivado de resíduo (CDRU) por módulo de gaseificação, para produção de gás combustível
+(Syngás), capaz ser combusto em câmara de combustão especialmente projetada para esta finalidade e
+acoplada ao Gaseificador.
+
+O vapor produzido pelas caldeiras de recuperação de calor irá acionar o turbo-gerador de condensação, com
+capacidade de geração de até 3.300kW de energia elétrica.
+1.2. Composição Gravimétrica RSU Bruto considerada:
+                                               Umidade UMIDADE Amostra                Amostra
+            2. COMPONENTES                     %       pós     Bruta %                Seca %
+                                                       Secagem
+
+            Restos Orgânicos                   70,0%        45,7%         42,8%       32,4%
+            Papéis e Papelão                   39,7%        34,2%         8,2%        10,3%
+            Embalagens Cartonadas              33,0%        28,8%         0,1%        0,1%
+            PET                                2,3%         7,1%          0,1%        0,1%
+            PEAD                               2,7%         7,4%          0,1%        0,1%
+            PEBD                               1,5%         6,6%          0,1%        0,1%
+            Outros Plásticos                   4,7%         8,6%          15,1%       21,6%
+            Fraudas e Absorventes              90,0%        86,4%         6,9%        6,9%
+            Couro, Texteis e Madeira           40,0%        34,5%         14,02%      17,6%
+            Borracha e Pneus                   1,0%         6,3%          4,7%        6,8%
+            Inorgânicos                        3,0%         0,0%          7,4%        3,0%
+
+
+2.1. Quantidade de RSU por módulo:
+      RSU: 118,6 ton/dia (por módulo) 355,6 t/dia (total)
+      Material Orgânico para secagem: 58,32 t/dia(módulo) – 174,96 t/dia(total) úmido resultando em 30,64
+      t/dia (módulo) – 91,92 t/dia (total) seco (passando pelo secador).
+2.2. Massa de gases combustos a partir da gaseificação dos materiais processados Padrão
+      Material de Gaseificador (CDRU): 86,4 t/dia – 3,6 t/h (módulo) 259,2 t/dia – 10,8 t/h (total);
+      PCI: 3.547 kcal/kg – Umidade: 30% - Granulometria: 50-60 mm;
+      Vazão combusta Syngas-gases quentes:29.094 kg/h(módulo)-87.282 kg/h(total)–94,874 kg/h (projeto);
+      Temperatura para efeito de cálculo termodinâmico: 1.250 °C
+      Cinzas do sistema: 0,396 t/h(módulo) – 1,188 t/h(total) resíduo classe II – não tóxico
+2.3. Massa de vapor partir dos gases de combustão do syngás dos materiais processados
+     Padrão
+      Pressão: 40 kgf/cm²(g);
+      Temperatura: 420 °C;
+      Vazão: 13.615 kg/h (módulo) – 40.845 kg/h (total) – 44.440 (projeto).
+2.4. Geração de energia a partir da massa de vapor
+      Geração de energia: 9.150 kWh (2 TG – 4.575 kWh) – 10.000 kWh ( 2 TG -5.000 kWh – Projeto) ;
+      Consumo interno de energia: 1.450 kWh;
+      Exportação de energia: 7.700 kWh – 2 linhas de 3.850 kWh (Geração Distribuída; Mercado Livre; Leilão
+      regulamentado do governo).
+      Operação da planta: 8.000 horas/ano
+WEG Equipamentos Elétricos S/A
+
+
+ Proposta nº 21212715 T1/C1 - Preliminar                                                             Emissão:14/10/2020                                 Página: 8 / 29
+
+2.5. Diagrama de geração de energia elétrica x CDRU processado X PCI do CDRU
+O diagrama abaixo é uma referência informativa que demonstra a variação da geração de energia elétrica em
+função da quantidade de CDRU processada (kg/h) e o poder calorífico inferior do CDRU (kcal/kg). Devido a
+variação de gravimetria de RSU cada projeto terá um diagrama próprio.
+
+
+
+
+2.6. O&M orientativa sem reciclagem
+
+
+
+
+                                                               Curva de manutenção
+Ano                             1               2               3                4               5               6               7               8               9              10
+Valor Manutenção   R$ 3.240.000,00 R$ 3.420.000,00 R$ 3.780.000,00 R$ 5.040.000,00 R$ 3.960.000,00 R$ 6.480.000,00 R$ 4.500.000,00 R$ 5.760.000,00 R$ 4.680.000,00 R$ 4.140.000,00
+
+Ano                            11              12              13              14               15              16              17              18              19              20
+Valor Manutenção   R$ 4.500.000,00 R$ 8.100.000,00 R$ 4.320.000,00 R$ 4.320.000,00 R$ 4.500.000,00 R$ 5.580.000,00 R$ 4.860.000,00 R$ 7.020.000,00 R$ 4.320.000,00 R$ 5.760.000,00
+WEG Equipamentos Elétricos S/A
+
+
+ Proposta nº 21212715 T1/C1 - Preliminar                          Emissão:14/10/2020        Página: 9 / 29
+
+3. Preparo de CDRU
+O sistema é projetado para receber os resíduos sólidos urbanos descarregado por caminhões. Através de
+esteiras transportadoras passará pela moega dosadora, abre sacos, separador magnético para a extração de
+ferrosos, peneira dinâmica para separação da fração orgânica e triturador.
+A capacidade do sistema é de 10 toneladas hora com operação prevista de 18 horas dia.
+
+3.1. Características do CDRU produzido:
+- Granulometria – Ø 50 mm
+- Poder calorífico inferior – PCI – 3.547 kcal/kg
+- Quantidade – 260 ton/dia
+
+
+4. Secador de leito fluidizado
+A fração orgânica separada na peneira dinâmica passa pelo leito de secagem utilizando os gases de
+exaustão da chaminé da caldeira de recuperação, sendo direcionados após o processo para o sistema de
+tratamento de gases (lavador de gases), garantindo o controle de emissões de particulados.
+4.1. Características
+Capacidade de Secagem                           7.290 kg/h a 65% da umidade
+Água Evaporada                                            4.830 kg/h
+Massa de RSU seco                           2.460 kg/h a 20% de umidade residual
+Calefação                                             Gases de Escape
+Potência Elétrica Instalada                                250 kW
+5. Gaseificador
+
+5.1. Gaseificador
+O processo global de produção de gases combustíveis derivados de resíduos (syngás) denominado
+gaseificador, é composto por múltiplas sub-câmaras que contemplam a secagem, pirólise gaseificação e
+reforma, com controle individual de agente gaseificante, velocidade de fluxo de gases, velocidade de fluxo de
+materiais, temperatura e pressão. O transporte entre as sub-câmaras é realizado por um sistema de grelhas
+móveis fundidas em ligas especiais acionadas por sistema hidráulico controlado individualmente pelo PLC.
+
+
+
+
+5.2. Câmara de Combustão
+Para a garantia de uma combustão perfeita, contemplando tempos de residência em regime turbulento,
+atmosfera oxidante e temperatura de ignição, foi projetada uma câmara de combustão cilíndrica com
+WEG Equipamentos Elétricos S/A
+
+
+ Proposta nº 21212715 T1/C1 - Preliminar                      Emissão:14/10/2020          Página: 10 / 29
+
+variantes de velocidade, turbulência e temperatura, todas controladas pelo PLC a partir de sensores de
+temperatura e de excesso de O2, interligados aos inversores de frequência dos ventiladores e exaustores.
+    9 Material da Estrutura: Aço Carbono
+    9 Isolamento Térmico: Manta de Fibra Cerâmica D128
+    9 Espessura Isolante: 8”
+    9 Refratário: Tijolo de encaixe Aluminoso
+    9 Espessura Refratário: 9”
+    9 Acabamento Superficial: Jateamento com granalha de aço - Pintura cinza grafite alta Temperatura
+
+
+
+
+                       Câmara de Combustão Energia Limpa do Brasil - Vista Lateral
+
+5.3. Projeto do Gaseificador e combustor de gases derivados de resíduos
+O sistema a ser implantado prevê a secagem, pirólise, gaseificação do CDRU, reforma e combustão do gás
+produzido para gerar vapor.
+As tabelas abaixo apresentam algumas das características técnicas relativos aos módulos de equipamentos e
+acessórios necessários à maior eficiência da planta de gaseificação.
+
+Características gerais por módulo de gaseificação.
+                         PG                          Un.                Parâmetros
+ Quantidade                                                                  03
+ Combustível                                                               CDRU
+ Granulometria do combustível                       Ømm                      50
+ Consumo de combustível                             kg/h                2.200 a 3.600
+ Poder Calorífico do combustível                   kcal/kg             4.000 a 5.000
+Balanço das saídas do processo por módulo de gaseificação e queima.
+    Cinzas                                            Kg/h                 350 a 550
+    Gases Quentes                                     Kg/h          25.000.000 a 36.000.000
+    Temperatura dos Gases Quentes                       ºC               1.200 a 1.250
+    Perdas de Processo                                  %                     10%
+WEG Equipamentos Elétricos S/A
+
+
+ Proposta nº 21212715 T1/C1 - Preliminar                     Emissão:14/10/2020         Página: 11 / 29
+
+
+6. Caldeira
+6.1. Descritivo geral
+A HRSG MD-FV-X, opera no modo recuperação de calor, com fluxo de gases vertical, apoiada em estrutura
+metálica. O involucro externo é constituído de tubos aletados, perfazendo uma superfície estanque para
+operação com pressão positiva, aceitando gases à alta temperatura, com mínima manutenção.
+
+
+6.2. Dados de processo
+                ITEM                     UNID.                 MD-FV-X
+             Quantidade                                           03
+ Capacidade Máxima Contínua Unitária      Kg/h     14.000       15.000      16.000
+        Pressão de Operação               Barg       40           40          40
+        Temperatura do Vapor               °C       420          420         420
+ Temperatura da Água de Alimentação        °C       105          105         105
+      Vazão de gás do processo            Kg/h     30.420       33.624      36.000
+  Temp. do gás na entrada da caldeira      °C      1.225        1.225       1.225
+     Temp. da água na saída do             °C       213          216         219
+            economizador
+WEG Equipamentos Elétricos S/A
+
+
+ Proposta nº 21212715 T1/C1 - Preliminar                     Emissão:14/10/2020         Página: 12 / 29
+
+7. Lavador de Gases
+
+7.1. Descritivo geral
+O sistema de bombeamento para os bicos ejetores e pulverizadores operam em circuito fechado. O lavador de
+gases opera de forma contínua e o efluente gerado é destinado para estação de tratamento.
+
+
+7.2. Características Técnicas – Lavador de Gases
+                                             LGA 450
+
+ Vazão de Gases (m³/h)                       45.000
+
+ Temperatura de Entrada dos Gases (°C)         120
+
+ Temperatura de Saída dos Gases (°C)           60
+
+ Eficiência para Partículas > 5um             90%
+
+ Potência Elétrica Instalada (kW)              45
+
+ Consumo de Água Estimado (l/h)               1.670
+
+ Vazão (l/h)                                   500
+
+
+8. Turbina
+
+8.1. Características Técnicas – Turbina
+A turbina a vapor de multiestágios TGM de reação, de condensação, modelo
+CT, é bi-partida horizontalmente para facilitar a manutenção, sendo que a
+carcaça superior das turbinas (entrada de vapor) incorpora um bloco com
+válvulas de regulagem automáticas, que são acionadas diretamente por servo-
+motores hidráulicos, garantindo excelente estabilidade de rotação e
+parcialização de cargas.
+WEG Equipamentos Elétricos S/A
+
+
+ Proposta nº 21212715 T1/C1 - Preliminar                      Emissão:14/10/2020             Página: 13 / 29
+
+8.1.1.       Performance
+             Máquina acionada                                         GERADOR
+                 Quantidade                                              02
+             Modelo da turbina                                           CT
+            Pontos de Operação                 Normal          Normal    Projeto        Projeto
+       Potência nos bornes do gerador            4.575          4.575     5.000          5.000        kW
+         Pressão de vapor de entrada             39,25          39,25     39,25          39,25       bar (a)
+       Temperatura de vapor de entrada            418            418       418            418          ºC
+          Vazão de vapor na entrada             20.780         19.260    22.600         21.000        kg/h
+       Pressão de vapor na tomada (não
+                                                  2,10          2,45         2,30            2,65    bar (a)
+                 controlada)
+     Temperatura de vapor na tomada (não
+                                                 123,1          130,0        127,3       134,9         ºC
+                 controlada)
+ Vazão de vapor na tomada (não controlada)       4.270            0          4.590          0         kg/h
+          Pressão de vapor na saída               0,09          0,095        0,092        0,10       bar (a)
+        Temperatura do vapor na saída             44,0           45,0         44,4        45,8         ºC
+           Vazão de vapor na saída              16.510         19.260       18.010      21.000        kg/h
+             Rotação da turbina                 13.600         13.600       13.600      13.600        RPM
+        Rotação da máquina acionada              1.800          1.800        1.800       1.800        RPM
+Eficiências adotadas: Gerador: 96,35% / Redutor: 98,0%.
+
+
+
+8.2.     Condensador à Vácuo
+O condensador de uma instalação termelétrica recupera o vapor de escape da turbina convertendo-o o líquido
+após o contato com paredes de tubos resfriadas por água que circula em seu interior, o que caracteriza o
+condensador do tipo “Casco & Tubos” (“Shell & Tubes”).
+
+
+
+
+                 Vista frontal do condensador a vácuo (Imagem ilustrativa para referência)
+
+
+8.2.1.       Dados Técnicos
+ Fluido no casco                                              Vapor
+ Fluido nos tubos                                             Água
+ Vazão de vapor                                               21.000 kg/h
+ Vazão de água necessária (aprox.)                            1.080 m³/h
+ Pressão de vapor no escape da turbina                        0,10 bar(a)
+ Temperatura máxima de entrada de água de resfriamento (*) 32 ºC
+ Temperatura de saída de água (máxima)                        42 ºC
+(*) Deverá ser confirmado com a temperatura de bulbo úmido do local de instalação.
+WEG Equipamentos Elétricos S/A
+
+
+ Proposta nº 21212715 T1/C1 - Preliminar                     Emissão:14/10/2020          Página: 14 / 29
+
+8.3. Torres de resfriamento e Bombas de Resfriamento
+
+8.3.1.      Torres de resfriamento
+
+  Vazão total de água                                              2.250 m³/h
+  Quantidade de células                                            3
+  Vazão de água por célula                                         750 m³/h
+  Temperatura de água quente                                       42 ºC
+  Temperatura de água fria                                         32 ºC
+  Temperatura de bulbo úmido                                       28 ºC (*)
+ (*) Valor deverá ser confirmado com a temperatura de bulbo úmido do local de instalação, sendo a torre
+redimensionada.
+
+
+
+8.3.2.      Bomba de circulação de água
+
+  Altura manométrica de recalque                                        25 m (*)
+  Potência instalada por bomba. (aprox..)                               125 CV
+  Vazão de água por bomba                                               750 m³/h
+  Quantidade de bombas                                                  4 unidades, sendo 1 em stand-by
+(*) Valor adotado. Necessita cálculo real de perda de carga de acordo com layout de instalação.
+
+8.3.3.      Make up
+
+ Temperatura da água                                                  25°C(*)
+ Qualidade da água                                                    Água clarificada
+ Vazão de água de reposição – Make up                                 61,5 m³/h
+WEG Equipamentos Elétricos S/A
+
+
+Proposta nº 21212715 T1/C1 - Preliminar                          Emissão:14/10/2020       Página: 15 / 29
+
+9. Gerador
+
+9.1. Características Técnicas
+Quantidade                                              02
+Modelo                                                 ST41
+Norma                                          IEC 60034 / NBR
+Potência Nominal                                       6.250                            [kVA]
+Polaridade / Rotação (n)                              4 / 1800                    [Pólos / rpm]
+                                          1.2 x Velocidade Nominal /
+Sobrevelocidade                                                                         [rpm]
+                                                     120 s
+Tensão                                                 13,8                              [kV]
+Frequência                                              60                               [Hz]
+Fator de Potência                                       0.8
+Regime de Serviço                                       S1
+Elevação de Temperatura Estator /
+                                                       B/B
+Rotor
+Classe de Isolamento Estator / Rotor                   F/F
+Temperatura Ambiente                                    40                               [°C]
+Altitude                                               1000                              [m]
+Excitação                                       Brushless PMG
+Forma Construtiva / Montagem                        B3 – IM1001                       Horizontal
+Grau de Proteção                                       IP 54
+                                                                           Trocador de calor ar-água na
+Refrigeração                                          IC 81W
+                                                                             parte superior do gerador
+Mancal                                    Deslizamento
+Lubrificação dos Mancais                  Circulação externa de óleo
+Sentido de Rotação                        Horário
+Cor / Plano de Pintura                       Azul RAL 5009 / 212P
+Máquina Acionante                              Turbina a Vapor
+WEG Equipamentos Elétricos S/A
+
+
+ Proposta nº 21212715 T1/C1 - Preliminar                      Emissão:14/10/2020    Página: 16 / 29
+
+10. Quadros Elétricos
+10.1. Sistema Integrado de Distribuição, Manobra e Controle – SID
+Os cubículos e painéis ofertados são apropriados para:
+Quantidade de Geradores                                              02
+Potência do Gerador                                                 6,25           [MVA]
+Frequência                                                           60             [Hz]
+Tensão Nominal [VN]                                                 13,8            [kV]
+
+Sistema composto basicamente pelos seguintes módulos:
+ Descrição dos Equipamentos                                                            Qtd
+ PNMT– Entrada do gerador                                                                  02
+ PNST – Painel de Surto do Gerador                                                         02
+ PNAT – Painel de Aterramento do Gerador                                                   02
+ PNPE – Painel de Proteção e exportação do Gerador                                         02
+ PNMT-Entrada concessionária                                                               02
+ PNMT – Preparo/Gaseificador/ Rankine                                                      02
+ PNSEC – Auxiliar                                                                          02
+ QGBT – Quadro geral de baixa tensão                                                       02
+ QDCC – Quadro dos Serviços Auxiliares de Corrente Contínua                                02
+ QDCA – Quadro dos Serviços Auxiliares de Corrente Alternada                               02
+ QDLT – Quadro de iluminação e tomadas                                                     02
+ Conjunto de baterias estacionárias 100 A/h / Carregador de baterias 25A                   02
+   x   Diagrama Unifilar Orientativo para Geração MT
+WEG Equipamentos Elétricos S/A
+
+
+ Proposta nº 21212715 T1/C1 - Preliminar                  Emissão:14/10/2020       Página: 17 / 29
+
+11. Transformador Isolador e Cargas Auxiliares
+
+
+11.1. Características Técnicas – Transformador Isolador
+
+ TF E 3 60 3.750 13,8CST/13,8 Dyn1 ONAN
+ Potência                                   :6.250 kVA – ONAN
+ Tensão primária                            :13,8 kV
+ Ligação                                    :ESTRELA
+ Tensão Secundária                           13,8 – 4 x 0,6 kV – Comutador Sem Tensão
+
+ Ligação                                    :DELTA
+ NBI Secundário                             :95 kV
+ Tensão Aplicada Primário/Secundário        :34 / 34 kV
+ Grupo de ligação                           :Dyn1
+ Frequência                                 :60 Hz
+ Fator de Distorção Harmônica                K=1
+
+ Classe de Isolamento                       :E – Elevação de temperatura 120ºC
+ Média dos Enrolamentos                     :Média dos Enrolamentos - 65°C
+                                             Ponto mais quente - 80ºC
+                                             No topo do Óleo 65ºC
+                                             (Conforme ABNT 5356 em sua última revisão)
+ Temperatura de Operação                    :Temperaturas ambiente máxima e média de
+                                             operação respectivamente 40ºC e 30ºC
+ Altitude                                   :1000m.a.s.l
+ Forma Construtiva                          :SELADO,
+ Pintura                                    :Munsell N6.5
+ Norma                                      :ABNT NBR 5356 em sua última revisão e sem
+                                             opcionais
+ Bucha AT                                   :Na tampa, sem flange
+ Bucha BT                                   :Na tampa, sem flange
+ Radiadores                                 :Tipo aletado, fixos e pintados
+
+
+11.2. Características Técnicas – Transformador Cargas Auxiliares
+
+
+Preparo , Gaseificador e Ciclo Rankine
+
+ TF E 3 60 1.000 13,8CST/13,8 Dyn1 ONAN
+ Potência                                  : 2.000 kVA – ONAN
+ Tensão primária                           : 13,8 – 4 x 0,6 kV – Comutador Sem Tensão
+ Ligação                                   : DELTA
+ NBI primário                                95 kV
+ Tensão Secundária                           0,38 kV
+
+
+. Iluminação e tomadas
+
+ TF E 3 60 125 13,8CST/13,8 Dyn1 ONAN
+ Potência                                  : 125 kVA – ONAN
+ Tensão primária                           : 13,8 – 4 x 0,6 kV – Comutador Sem Tensão
+ Ligação                                   : DELTA
+ NBI primário                                95 kV
+ Tensão Secundária                           0,38 kV
+WEG Equipamentos Elétricos S/A
+
+
+ Proposta nº 21212715 T1/C1 - Preliminar                        Emissão:14/10/2020          Página: 18 / 29
+
+12. Serviços e Materiais
+
+12.1. Projeto e obras civis
+12.1.1.     Galpão do preparo, gaseificador e turbogerador/painéis
+  Movimento de terra / Fundação / Base / Piso / Impermeabilização
+  Parede de concreto / Alvenaria / Estrutura metálica
+
+
+12.1.2.     Área da caldeira, torres/bombas de resfriamento e tratamento de água
+  Movimento de terra / Base / Piso
+
+
+12.2. Interligação Mecânica
+12.2.1.     Projeto Mecânico
+Consistirá na especificação de equipamentos e sistemas e no detalhamento da instalação mecânica da UTE.
+A elaboração do projeto se desenvolve em diversas etapas, da concepção inicial até a fase conclusiva, com a
+entrega dos desenhos "as built".
+
+12.2.2.     Serviços de Interligação Mecânica
+Serão objeto do projeto mecânico os seguintes circuitos/sistemas da UTE:
+
+  Linha de Água Bruta / Clarificada / Desmineralizada / Desaerada
+  Circuitos de Vapor Direto / Desaerador
+  Circuitos de Retorno de Condensado
+  Circuitos de Água de Resfriamento
+  Suportes
+
+Escopo dos Serviços de Instalação Mecânica
+A WEG fornecerá toda a mão-de-obra técnica necessária ao desenvolvimento dos serviços de instalação
+mecânica, conforme descrito abaixo:
+
+  Instalação de Equipamentos
+  Montagem de Spools / Pipe-racks / Suportes / Válvulas
+  Montagem de Equipamentos Estacionários
+  Tratamento de Superfícies e Pintura / Limpeza de Sistemas
+
+12.2.3.     Materiais Mecânicos
+Estão contemplados em nossa proposta o fornecimento de todos os elementos de tubulação, tais como, tubos,
+flanges, contra flanges, juntas, válvulas, drenos, purgadores, filtros, visores, suportes e demais acessórios
+necessários para condução dos fluidos de processo e utilidades dentro do limite de bateria, e para as seguintes
+linhas:
+
+  Vapor;
+  Água de resfriamento;
+  Água tratada;
+  Água desmineralizada;
+  Produtos químicos;
+  Ar comprimido;
+WEG Equipamentos Elétricos S/A
+
+
+ Proposta nº 21212715 T1/C1 - Preliminar                      Emissão:14/10/2020          Página: 19 / 29
+
+12.3. Interligação Elétrica
+
+
+12.3.1.     Projeto Elétrico
+Consistirá na especificação de equipamentos e sistemas e no detalhamento da instalação elétrica da UTE.
+A elaboração do projeto se desenvolve em diversas etapas, da concepção inicial até a fase conclusiva, com a
+entrega dos desenhos "as built".
+
+12.3.2.     Serviços de Instalação Elétrica
+A WEG fornecerá toda a mão-de-obra técnica necessária ao desenvolvimento dos serviços de instalação
+elétrica, conforme descrito abaixo:
+
+Escopo dos Serviços de Instalação Elétrica
+A WEG fornecerá toda a mão-de-obra técnica necessária ao desenvolvimento dos serviços de instalação
+elétrica, conforme descrito abaixo:
+
+  Posicionamento e fixação dos painéis elétricos de força, comando e proteção, transformadores de
+   força de serviços auxiliares, motores elétricos auxiliares de cada de geração;
+  Posicionamento, fixação, alinhamento e balanceamento do gerador;
+  Execução de encaminhamentos, lançamento e interligação de cabos de força, comando e
+   instrumentação entre equipamentos, painéis elétricos e demais componentes.
+  Execução e conexão através de todos equipamentos e painéis elétricos à malha de aterramento;
+  Execução do sistema de proteção atmosférica;
+  Instalação elétrica predial da casa de força;
+  Execução do sistema de iluminação externa, interna e de emergência do galpão;
+  Instalação do sistema de refrigeração de conforto das salas de comando e de painéis;
+
+12.3.3.     Materiais para Interligação Elétrica
+Em conformidade com o projeto, a WEG fornecerá os materiais necessários para a execução dos serviços de
+instalação elétrica descritos no item anterior, tais como cabos, eletrocalhas, interruptores, lâmpadas e
+luminárias, tomadas e etc.
+
+12.4. Sistema de Automação
+12.4.1.     Projeto de Automação e Instrumentação
+Consistirá no dimensionamento, especificação e detalhamento dos equipamentos, redes de comunicação,
+instrumentação e softwares referentes à automação do sistema de Gaseificação e UTE. Serão desenvolvidos
+os documentos e desenhos necessários tomando como base as informações fornecidas pelo cliente à equipe
+de engenharia da WEG e as melhores práticas de projeto a cada aplicação específica.
+
+Descrição do Sistema de Automação
+O sistema a ser projetado apresenta as seguintes funções e características básicas: Efetuará o controle e/ou
+monitoramento dos seguintes equipamentos:
+
+  Gaseificador / Câmara de combustão;
+  Caldeira de recuperação;
+  Turbina para acionamento do gerador;
+  Gerador Síncrono Trifásico;
+  CCMs de serviços auxiliares da Casa de Força / Caldeira e Sistema de Alimentação;
+  Distribuição elétrica em BT;
+  Controle de exportação de energia;
+WEG Equipamentos Elétricos S/A
+
+
+ Proposta nº 21212715 T1/C1 - Preliminar                        Emissão:14/10/2020          Página: 20 / 29
+
+12.4.2.     Materiais e Equipamentos de Automação
+A WEG fornecerá os materiais e equipamentos para o sistema de automação descrito nessa proposta.
+
+Topologia do Sistema de Automação
+Para a realização das funções propostas, o sistema de automação será composto pelos equipamentos
+descritos abaixo, conforme a seguinte topologia orientativa e suas respectivas funções:
+
+
+
+
+13. Geral
+
+  Coordenação da Obra
+Para os serviços de coordenação do empreendimento, a WEG fornecerá equipe técnica composta por
+engenheiros, técnicos e supervisores, com experiência na execução de obras similares ao empreendimento
+em questão.
+Esta equipe será a responsável direta pela condução da obra, coordenando a equipe de serviços e realizando
+a interface em campo com o cliente, visando garantir o cumprimento do cronograma estabelecido.
+
+  Comissionamento / Start-up
+O comissionamento será realizado por equipe especializada da WEG.
+
+  Treinamento
+Está previsto o treinamento teórico e prático para operação e manutenção básica, contemplando os sistemas
+mecânico, elétrico e de automação. Para tal, será utilizado um dia útil para o treinamento teórico e outro dia
+para o treinamento prático, sendo efetuado logo em seguida à conclusão das atividades de comissionamento.
+O treinamento prático será efetuado “on-site” utilizando os equipamentos instalados, procurando reproduzir
+todas as situações operacionais possíveis.
+
+  Operação Assistida
+Está prevista a operação assistida da planta durante o período de adaptação da equipe operacional do cliente.
+Para tal, está prevista a permanência de uma equipe técnica, durante a jornada normal de trabalho, por um
+período de 30 (trinta) dias consecutivos, iniciado logo após o start-up.
+WEG Equipamentos Elétricos S/A
+
+
+    Proposta nº 21212715 T1/C1 - Preliminar                       Emissão:14/10/2020           Página: 21 / 29
+
+14. Limites de Fornecimento
+
+                                            Energia auxiliar
+
+
+
+        Água bruta                                                                   Cinzas
+
+
+                                           WEG                                       Purgas
+                                                                                        PNMT -
+             RSU                                                                  Disjunção/Medição
+                                                                                    concessionária
+
+x     Entrada do Resíduo
+x     Entrada de Água Bruta
+x     Descartes da Planta (purgas e outros descartes)
+x     Painel de Disjunção/Medição para Concessionária
+
+15. Exclusões
+
+     Obtenção de quaisquer licenças ou autorizações inclusive as necessárias para a realização de testes de
+      comissionamento dos equipamentos;
+     Estudo de impacto ambiental EIA e relatório de impacto ao meio ambiente RIMA;
+     Estudos de seletividade e curto-circuito, do sistema elétrico e sistêmicos da rede da concessionária local;
+     Aprovação Projeto SE na Concessionária;
+     Sondagem do solo, terraplanagem, canaletas e valas, etc.;
+     Fornecimento de energia elétrica e captação de água e interligação com reservatório de água bruta;
+     Destinação do efluente líquido, cinzas e rejeitos;
+     Sistema de emergência a diesel (motogerador);
+     Bay na SE da Concessionária, linha de Transmissão ,serviço de interligação em linha viva;
+     Sistema de Medição de Faturamento;
+     Estradas, pontes ou qualquer estrutura de acesso à obra;
+     Tratores, gruas ou quaisquer outras máquinas de movimentação do RSU;
+     Caçambas e caminhões para transporte de RSU, cinzas e demais resíduos;
+     Tombador hidráulico de caminhões
+     Instalação e eventuais despesas de serviços públicos (energia elétrica, telefone, água, esgotos, etc.);
+     Lucro cessante, seguros garantia, fiança bancária, etc.;
+     Não estamos fornecendo nenhum equipamento/serviço que não esteja claramente indicado nesta oferta;
+     Tratativas junto à respectiva concessionária de energia local para aprovação do projeto elétrico UTE na
+      Geração Distribuída.
+     Elaboração da documentação técnica necessária ao registro da referida UTE na ANEEL, de acordo com
+      as portarias e resoluções vigentes.
+     Demais equipamentos, acessórios ou serviços não expressamente citados nessa proposta.
+WEG Equipamentos Elétricos S/A
+
+
+ Proposta nº 21212715 T1/C1 - Preliminar                     Emissão:14/10/2020            Página: 22 / 29
+
+16. Condições Comerciais
+
+16.1. Preços
+Os preços indicados na presente oferta entendem-se líquidos conforme condições de pagamento abaixo
+informadas, válidas para as quantidades e especificações indicadas nesta cotação.
+     Item                             Descrição                               Preço Total (R$)
+    2e3      Equipamentos de Preparo
+    4e6      Gaseificador e Lavador de Gases
+        5    Caldeira
+        7    Turbo-Redutor                                                R$       151.285.500,00
+  8, 9 e 10 Gerador + Painéis + Transformador
+             Engenharia, gestão e coordenação de obra/ Material e
+       11    montagem mecânica, elétrica e automação / Equipamentos
+             Auxiliares / Obras civis
+                                 TOTAL                                   R$      151.285.500,00
+Nota: Os equipamentos desta proposta podem ser adquiridos separadamente ou em conjunto, conforme
+preferência do cliente, sem alteração comercial.
+16.2. Data Base
+31 de agosto de 2020
+16.3. Tabela de Tributos
+                                                                      TRIBUTOS
+      ITEM               DESCRIÇÃO                ISS       ICMS          IPI      PIS       COFINS
+                                                   (1)      (1) (2)       (1)      (1)         (1)
+      2 e3         Equipamentos de Preparo          -        12 %       0%        1,65 %       7,6 %
+
+        4                Gaseificador               -        12 %       0%        1,65 %       7,6 %
+
+        5                  Caldeira                 -       8,8 %       0%        1,65 %       7,6 %
+
+        6              Lavador de Gases             -       8,8 %       0%        1,65 %       7,6 %
+
+        7              Turbina + Redutor            -       8,8 %       0%        1,65 %       7,6 %
+
+      8, 9 e         Gerador + Painéis +
+                                                    -        12 %       0%        1,65 %       7,6 %
+       10              Transformador
+
+        11                 Serviços               3%         12 %       0%        1,65 %       7,6 %
+NOTAS:
+(1) Inclusos nos preços
+(2) ICMS: O preço indicado no item 2.1 foi fixado considerando que o cliente é contribuinte de ICMS e está
+incluso a alíquota de origem sendo responsabilidade do cliente o recolhimento a alíquota de destino.
+16.4. Prazo de Entrega
+Equipamentos: 12 meses após o recebimento do pedido técnica e comercialmente esclarecido.
+Montagem/Comissionamento: 4 meses após entrega os equipamentos em obra.
+16.5. Transporte
+CIF - Posto em obra sem descarga em Assis / SP.
+O acesso à obra é de responsabilidade do cliente e deve estar em condições próprias para possibilitar o
+transporte dos equipamentos.
+16.6. Validade da Cotação
+Esta proposta é válida por 30 dias.
+WEG Equipamentos Elétricos S/A
+
+
+ Proposta nº 21212715 T1/C1 - Preliminar                        Emissão:14/10/2020          Página: 23 / 29
+
+17. Condições Gerais de Vendas
+
+17.1. Condições Gerais de Fornecimento de Bens e Serviços WEG
+O documento “Condições Gerais de Fornecimento de Bens e Serviços WEG rev4”, é parte integrante da
+presente proposta.
+
+
+
+17.2. Preços e sua Definição
+1. Os Preços desta Proposta são válidos para uma encomenda global de todo seu Escopo e incluem o ISS e/ou
+ICMS incidentes na origem, PIS e COFINS, onde aplicável. O ICMS de destino não está incluso e é de
+responsabilidade do cliente. O IPI não está incluído, devendo ser pago na ocasião dos faturamentos. Foram
+consideradas as alíquotas, isenções, reduções e demais condições de natureza tributária vigentes na data base
+da Proposta.
+
+2. Os preços são reajustáveis conforme condições constantes nesta Proposta, válidos para pagamento à vista,
+não incluindo, desta forma, quaisquer provisões que cubram os custos financeiros referentes aos prazos de
+pagamento dos valores devidos, tendo como objetivo a manutenção permanente do equilíbrio econômico-
+financeiro ao longo da vigência do contrato, com consequente minimização dos custos.
+
+3. Os preços ora propostos foram elaborados considerando as legislações fiscais e trabalhistas vigentes na
+data da base econômica da oferta e, assim sendo, qualquer alteração advinda da criação, extinção, isenção ou
+modificação de alíquotas de impostos, taxas, encargos sociais, normas interpretativas, novas regulamentações
+ou de quaisquer outras espécies de tributos que se reflitam nos preços, facultará às partes a revisão imediata
+dos mesmos, para mais ou para menos, adequando-os à nova realidade.
+
+4. Qualquer alteração das condições descritas nesta Proposta Comercial, bem como na Legislação
+Tributária/Trabalhista/Previdenciária em vigor, quer por modificação das alíquotas, sua base de cálculo e/ou
+criação de outros impostos, taxas ou encargos, modificação da alíquota de ICMS aplicável na origem em
+relação a alíquota prevista na presente proposta, ou mesmo limitação de isenção ou de direito de crédito de
+impostos, que venha a afetar o preço ora ofertado, acarretará após sua constatação e comprovação, a devida
+correção, para mais ou para menos, na medida dos seus efeitos. Caso, no decorrer do fornecimento, por força
+da nova disposição legal, V.Sas. venham a fazer jus a isenções ou crédito, devidamente comprovados e com
+repercussão tributária no presente negócio, esses valores serão repassados a V.Sas. na época de sua fruição.
+
+5. Nenhum serviço ou fornecimento adicional ao declarado no escopo será executado sem prévio aditivo
+contratual.
+
+
+
+17.3. Sistemática de Cobrança e de Pagamentos
+1. As parcelas de pagamento vinculadas a eventos físicos e etapas de fabricação serão submetidas à
+comprovação, a qual se identificará mediante a emissão de um Termo de Recebimento ou de uma Declaração
+de Realização de Evento, que acompanhará o documento de cobrança. O não comparecimento do inspetor
+designado por V.Sas. na data prevista para a realização do evento, autoriza o Fornecedor / Subfornecedor
+nomeado a emitir a Declaração de Realização do Evento e apresentar a respectiva cobrança.
+
+2. Não havendo nenhuma contestação de V.Sas., os valores cobrados serão considerados devidos e aceitos
+para todos os fins. Na hipótese de contestação, V.Sas. pagarão o valor da parte não controversa na data do
+vencimento contratual, devendo a parte controversa ser paga, devidamente corrigida, logo após a definição da
+pendência.
+
+3. Atrasos de pagamento implicarão multa de 2% sobre o valor devido, devendo o valor total ser atualizado
+desde a data do vencimento até a data de seu efetivo pagamento, pela variação do CDI (Certificado de Depósito
+Interbancário) mais 1% ao mês.
+WEG Equipamentos Elétricos S/A
+
+
+ Proposta nº 21212715 T1/C1 - Preliminar                       Emissão:14/10/2020          Página: 24 / 29
+
+4. O reajuste do valor da cada pagamento, referente às antecipações, será calculado na ocasião da emissão
+do correspondente recibo ou fatura.
+
+5. Ocorrendo variações custos de produção ou de insumos e mão-de-obra, aplicados no fornecimento dos
+produtos / serviços, as partes se comprometem a renegociar os preços desta proposta / contrato, como forma
+de manter o equilíbrio econômico-financeiro entre as partes. As novas bases de preços serão submetidas à
+prévia aprovação de V.Sas. É caracterizado desequilíbrio econômico-financeiro variação positiva superior a 5%
+na fórmula paramétrica.
+
+6. Em caso de atrasos repetitivos ou superiores a 30 dias, o fornecimento e serviços poderá ser suspenso; A
+retomada dos trabalhos ocorrerá após o restabelecimento do equilíbrio econômico - financeiro do Contrato.
+
+7. De forma geral os pagamentos referentes a cada evento terão seu cumprimento ocorrendo de forma
+desvinculada, não impedindo a execução e o correspondente pagamento de outros eventos que venham a se
+cumprir.
+
+
+
+17.4. Condições de Reajuste
+1. Os preços são reajustáveis conforme mecanismos definidos nesta proposta.
+
+2. Por ocasião da assinatura do Contrato, os preços deverão ser atualizados para a nova base econômica. Os
+reajustes serão aplicados automaticamente, observada a menor periodicidade permitida na legislação a partir
+da base econômica de preços, devendo as parcelas serem cobradas e pagas concomitantemente com seus
+respectivos principais.
+
+3. Caso os índices finais de reajustamento de preços ainda não sejam conhecidos no momento de cobrança,
+será calculado provisoriamente um reajuste com os últimos índices disponíveis acrescidos da variação do IGP-
+DI entre o mês dos referidos índices e o mês da cobrança do evento. A diferença entre o reajuste provisório e
+o definitivo, para mais ou para menos, será apurada no momento da divulgação do índice definitivo, acertada
+entre as partes e corrigida monetariamente entre a data da realização do evento gerador da cobrança e a data
+do efetivo pagamento ou devolução da respectiva diferença.
+
+
+
+17.5. Aceitações
+1. Certificado de Aceitação Provisório
+Concluídos os ensaios dos equipamentos na fábrica, segundo previstos no Plano de Inspeção e Testes, será
+emitido o Certificado de Aceitação Provisório dos equipamentos fornecidos. A não realização de determinados
+testes programados, por motivos alheios ao Fornecedor, não obstará a emissão do Certificado de Aceitação
+Provisório.
+
+2. Certificado de Aceitação Definitivo
+Ao término do período de comissionamento e ensaios de campo, comprovado o desempenho garantido por
+parte do Fornecedor, será, automaticamente, emitido o Certificado de Aceitação Definitivo dando início ao
+período de garantia, entendendo que os referidos ensaios de campo serão realizados durante o período do
+comissionamento e segundo cronograma de nossa proposta. A não realização dos testes por motivos alheios
+ao Fornecedor não obstará a emissão do Certificado de Aceitação Definitivo.
+
+
+
+17.6. Prazos
+1. Os prazos para entrega indicados nesta Proposta são contados a partir da assinatura do Contrato.
+
+2. Serão motivos para prorrogação dos prazos de entrega:
+a) Reprogramações de prazos acertadas entre as partes: Contratante e Contratada;
+WEG Equipamentos Elétricos S/A
+
+
+ Proposta nº 21212715 T1/C1 - Preliminar                                 Emissão:14/10/2020      Página: 25 / 29
+
+b) a ocorrência de força maior ou caso fortuito, conforme definido no parágrafo único do artigo 393 do Código
+Civil Brasileiro, desde já entendidos como tais, por exemplo: incêndios, inundações, epidemias, quarentenas,
+greves, lock-outs, insurreições, perturbações da ordem, desde que estes fatos tenham influências diretas sobre
+o fornecimento, aplicável inclusive aos Subfornecedores;
+c) o atraso ou não cumprimento de compromissos ou obrigações essenciais por parte de V.Sas.;
+d) alterações nas Especificações Técnicas que interfiram nos prazos de entrega;
+e) a falta de definição, em tempo hábil, por parte de V.Sas., dos dados necessários à execução do projeto dos
+equipamentos;
+f) a não manifestação de V.Sas. sobre desenhos ou outros documentos enviados para aprovação,
+indispensáveis à fabricação dos equipamentos/execução dos serviços, dentro de 15 dias corridos de sua
+apresentação;
+g) o atraso na liberação do fornecimento ou parte do mesmo, por parte de eventual Inspetor designado por
+V.Sas., quando a causa não for imputável ao Fornecedor.
+
+
+
+17.7. Cancelamento da Ordem de Compra
+Um valor mínimo de 5% de valor total do pedido será devido em caso de cancelamento da ordem de compra.
+Segue abaixo o gráfico que será aplicado para calcular o percentual de cancelamento do pedido pelo tempo
+decorrido.
+
+
+                                                Cancelamento da Ordem de Compra
+                                 110
+                                 100
+                                  90
+                                  80
+                Penalidade (%)
+
+
+
+
+                                  70
+                                  60
+                                  50
+                                  40
+                                  30
+                                  20
+                                  10
+                                   0
+                                       0   10    20   30      40    50   60       70   80   90   100
+                                                           Tempo em Fábrica (%)
+
+
+
+
+17.8. Armazenagem
+Não está prevista a armazenagem dos equipamentos em nossa fábrica após sua finalização, sendo que estes
+serão faturados e enviados ao cliente assim que finalizada a sua fabricação.
+O cliente deve prover no local de entrega, espaço próprio para armazenar os equipamentos (livre de umidade,
+seguro e com conexão elétrica para ligação do resistor de aquecimento do gerador).
+17.9. Embalagem
+No preço indicado na presente proposta está inclusa a embalagem normal para transporte rodoviário.
+WEG Equipamentos Elétricos S/A
+
+
+ Proposta nº 21212715 T1/C1 - Preliminar                         Emissão:14/10/2020           Página: 26 / 29
+
+17.10. Serviços
+Os serviços de comissionamento (horas-homem, transporte, estadia e alimentação) estão inclusos em um único
+atendimento conforme períodos indicados no item 1.
+
+Os períodos indicados no item 1 serão concedidos desde que sejam satisfeitas as seguintes condições:
+x O cliente deverá solicitar com pelo menos duas semanas de antecedência os serviços de Start-up e 60 dias
+os serviços de treinamento ao Centro de Negócios de Energia para a programação do evento;
+x Os equipamentos em questão deverão estar à disposição da WEG, durante o horário normal de trabalho
+(7:30 às 17:18);
+x Obras civis e instalações elétricas, mecânicas e hidráulicas concluídas e supervisionadas;
+x Instalações de painéis, motores e mesas de comando concluídas e supervisionadas;
+x Instalações de dispositivos eletromecânicos auxiliares da máquina/processo (sob condições reais / normais
+de operação), a fim de permitir os devidos ajustes e adaptações do sistema de supervisão e controle;
+x Perfeito funcionamento de equipamentos auxiliares de atuação, controle e supervisão, de
+fornecimento/instalação executado pelo cliente (Ex.: Fins de curso, sensores, atuadores pneumáticos, válvulas
+de controle, balanças, etc.).
+
+Caso as condições acima não estejam satisfeitas; ou ocorram outros problemas não pertinentes à WEG, que
+ocasionem parada nos trabalhos; ou seja necessário a realização de horas extras; ou seja necessário um tempo
+maior que os períodos previstos, serão efetuadas as cobranças adicionais dos seguintes itens conforme as
+condições apresentadas abaixo.
+x Homem dia (uma jornada de trabalho de 8,8 horas normais) R$ 3.050,00
+x Hora homem extra R$ 695,00
+x Hora de deslocamento R$ 345,00
+x Diária do técnico: R$ 210,00 por dia.
+x Km rodado com automóvel: R$ 2,10 por km.
+x Taxa de atendimento de emergência: R$ 1.300,00
+x Taxa de remarcação/cancelamento: R$ 500,00
+x Taxa sobre documentação especial: R$ 500,00
+x Despesas de locomoção e estada.
+x Materiais aplicados no atendimento.
+
+Notas:
+x Caso os serviços não tenham sido contratados no fechamento do pedido ou caso seja necessário um tempo
+maior que o contratado, os valores acima descritos sofrerão reajustes conforme o item Erro! Fonte de
+referência não encontrada. da presente proposta.
+x As equipes de Automação (painéis/supervisório), Energia (geradores) e Transmissão e Distribuição
+(transformadores) são distintas assim como o período de atividades das mesmas.
+x São consideradas horas normais, as horas despendidas de segunda a sexta-feira, exceto feriados (base no
+calendário de Jaraguá do Sul, SC), no horário das 07:30 às 17:18 horas, com uma hora para almoço.
+x Nos atendimentos a produtos em garantia, onde os técnicos identificarem defeitos de fabricação, não serão
+cobradas as jornadas normais de trabalho, despendidas na correção do defeito, e nem os materiais cobertos
+pela garantia. Somente serão cobradas as despesas do técnico com transporte, hospedagem e alimentação.
+
+Jornada Normal de Trabalho:
+Compreendem as horas despendidas em trabalho, deslocamento ou espera (embarcado ou em terra),
+realizadas durante o horário normal. A taxa mínima equivale à meia jornada normal de trabalho.
+
+Hora Extra de Trabalho/Deslocamento:
+Compreende a hora despendida em trabalho/deslocamento realizada em horário diferente do normal, limitado
+a 2 (duas) horas extras por dia e requer solicitação escrita (email/fax) por parte do cliente ao representante ou
+coordenador WEG para que possa ser realizada.
+
+Diária:
+Destinam-se a cobrir gastos de alimentação, lavanderia, serviços de telefone, farmácia, etc. Aplica-se aos dias
+em que o representante WEG permanece à disposição do cliente, incluindo os dias não trabalhados.
+WEG Equipamentos Elétricos S/A
+
+
+ Proposta nº 21212715 T1/C1 - Preliminar                       Emissão:14/10/2020          Página: 27 / 29
+
+Taxa de Atendimento Emergencial:
+A taxa de atendimento emergencial será aplicada aos atendimentos que, por solicitação do cliente, iniciem em
+um prazo menor que 2 (dois) dias úteis após a solicitação deste.
+
+Taxa de Remarcação/Cancelamento:
+Caso ocorra a remarcação/cancelamento do atendimento por solicitação do cliente, a WEG deverá ser
+informada com no mínimo 15 (quinze) dias de antecedência da data prevista para o início do atendimento.
+O cliente deverá arcar com o pagamento de quaisquer despesas que tenham sido originadas até o momento e
+com os custos da taxa de remarcação/cancelamento no caso de não ser respeitado o prazo indicado acima.
+
+Horas de Deslocamento:
+As horas de deslocamento serão contabilizadas a partir do início da viagem e se encerrarão após a chegada
+do representante WEG ao destino (WEG – Cliente – WEG), compreendendo ainda os deslocamentos que
+ocorram durante a estada na obra.
+
+Despesas:
+As despesas ocasionadas para a realização do atendimento são de responsabilidade do cliente. No caso de a
+WEG se responsabilizar pelas mesmas, estas serão repassadas ao cliente acrescidas de 25% a título de
+despesas administrativas.
+
+Hospedagem:
+O padrão mínimo para hospedagem do representante WEG é hotel 3 (três) estrelas e quarto individual. Caso
+isto não seja providenciado pelo cliente a WEG ficará responsável pela hospedagem de seu representante e
+repassará os devidos custos, acrescidos de despesas administrativas, ao cliente.
+
+Transporte Aéreo:
+Será utilizado transporte aéreo para distâncias superiores a 250 km.
+
+Retorno:
+A cada 30 (trinta) dias de permanência do representante WEG na obra, deverá ser prevista uma viagem de
+retorno com data a ser acordada com o cliente. As horas e despesas referentes a esta viagem, bem como as
+da viagem de retorno para a obra serão repassadas ao cliente.
+
+Relatórios:
+No término do atendimento serão apresentados os relatórios de horas, relatórios de atividades e relatórios
+técnicos nos quais estarão descritos os detalhes relativos ao atendimento e as horas despendidas nos serviços
+efetuados. Estes relatórios deverão ser obrigatoriamente analisados/aprovados/assinados pela pessoa
+autorizada pelo cliente, que receberá uma cópia do mesmo para arquivo. As horas para elaboração dos
+relatórios são consideradas como horas trabalhadas.
+
+Equipamentos de Proteção:
+A WEG fornecerá os seguintes equipamentos de proteção individual:
+x Protetor auricular;
+x Óculos de proteção;
+x Capacete de proteção;
+x Luvas.
+Havendo necessidade de equipamentos de proteção individuais especiais, diversos dos acima elencados, a
+disponibilização dos mesmos será de responsabilidade do cliente.
+
+Documentos:
+Caso seja necessária a apresentação de algum ou de todos os documentos abaixo, os mesmos deverão ser
+solicitados à WEG quando da confirmação/aceitação desta proposta.
+x ASO (Atestado de Saúde Ocupacional);
+x Registro de empregado;
+x RG (Registro Geral);
+x CPF (Cadastro de Pessoa Física);
+x Carteira de trabalho;
+x Certificado de Treinamento em NR10;
+WEG Equipamentos Elétricos S/A
+
+
+ Proposta nº 21212715 T1/C1 - Preliminar                        Emissão:14/10/2020          Página: 28 / 29
+
+x Atestado de Antecedentes Criminais.
+
+Nota: Não serão entregues cópias autenticadas.
+
+Taxa sobre Documentação Especial:
+Para o fornecimento de documentos, exames ou certificados não citados nesta proposta, será cobrada uma
+taxa sobre a documentação especial exigida, sendo devida por cada representante WEG os quais tiverem sua
+documentação solicitada.
+
+Integração:
+Considera-se que esta será realizada na chegada do representante WEG ao cliente e terá duração de
+aproximadamente uma hora. Caso os procedimentos difiram desta política, a integração deverá ser negociada
+e programada com antecedência.
+As horas despendidas para a realização da integração serão consideradas horas trabalhadas.
+
+Serviços Adicionais:
+A execução de serviços não previstos no escopo desta proposta deverá ser acordada previamente com a WEG
+e, se realizados, terão seus custos repassados ao cliente nas bases e condições contidas nesta proposta
+comercial.
+
+Condição de Pagamento:
+100% a 28 dias da data do faturamento com custo financeiro de 1,60%.
+
+Faturamento:
+Para emissão da nota fiscal de faturamento será enviado um memorial de cobrança, sendo que o cliente contará
+com um prazo de 7 (sete) dias úteis após o recebimento para que apresente eventuais divergências quanto ao
+contido no documento. Após este prazo, caso não haja pronunciamento contrário, será emitido o faturamento
+dos valores apresentados.
+
+Faturamento Parcial:
+Caso o tempo despendido no atendimento seja superior ao período incluso na proposta/contrato de
+fornecimento, os valores dos serviços excedentes e horas extras serão apresentados e cobrados mensalmente
+por meio de um demonstrativo para conhecimento do valor parcial a ser faturado.
+
+Impostos:
+Será acrescido ao valor total do serviço 12,25% referente aos tributos PIS, COFINS e ISS que, conforme Lei
+Complementar 116 de 31/07/2003, deverão ser recolhidos no domicílio fiscal do prestador do serviço.
+
+
+
+
+17.11. Garantia
+
+A WEG oferece garantia contra defeitos de fabricação ou de materiais, para seus produtos por um período de
+12 meses, contados a partir da data de emissão da nota fiscal fatura de fábrica ou do distribuidor/revendedor,
+limitado a 18 meses da data de fabricação, independente da data da instalação e desde que satisfeitos os
+seguintes requisitos:
+x Transporte, manuseio e armazenamento adequados;
+x Instalação correta e em condições ambientais especificadas e sem a presença de agentes agressivos;
+x Operação dentro dos limites de suas capacidades;
+x Realização periódica das devidas manutenções preventivas;
+x Realização de reparos e/ou modificações somente por pessoas autorizadas por escrito pela WEG;
+x Toda e qualquer alteração a ser executada no software aplicativo fornecido, deverá ser previamente analisada
+e autorizada por escrito pela WEG sob pena de perda da garantia do produto. A WEG se isenta da
+responsabilidade de mau funcionamento de sistema alterado por pessoas não autorizadas;
+x O produto, na ocorrência de uma anomalia esteja disponível para o fornecedor por um período mínimo
+necessário a identificação da causa da anomalia e seus devidos reparos;
+WEG Equipamentos Elétricos S/A
+
+
+ Proposta nº 21212715 T1/C1 - Preliminar                      Emissão:14/10/2020         Página: 29 / 29
+
+x Aviso imediato, por parte do comprador, dos defeitos ocorridos e que os mesmos sejam posteriormente
+comprovados pela WEG como defeitos de fabricação.
+
+A critério da WEG, os serviços em garantia poderão ser realizados nas instalações do comprador, em oficinas
+de Assistência Técnica autorizadas da WEG, quando estas existirem, ou na própria fábrica.
+
+A garantia não inclui serviços de desmontagem e montagem nas instalações do comprador, custos de
+transporte do produto ou peças, despesas de locomoção, hospedagem, alimentação e horas extras do pessoal
+de Assistência Técnica quando os serviços forem realizados nas instalações do comprador.
+
+Ficam excluídas da responsabilidade por defeitos partes ou peças consideradas de consumo, tais como partes
+de borracha ou plástico, bulbos incandescentes, fusíveis, etc.
+
+O reparo e/ou substituição de peças ou produtos, a critério da WEG durante o período de garantia, não
+prorrogará o prazo de garantia original.
+
+A presente garantia se limita ao produto fornecido não se responsabilizando a WEG por danos a pessoas, a
+terceiros, a outros equipamentos ou instalações, lucros cessantes ou quaisquer outros danos emergentes ou
+consequentes.
+
+
+
+
+17.12. Dados do Fornecedor
+WEG Equipamentos Elétricos S/A
+Av. Pref. Waldemar Grubba, 3000
+CEP 89256-900 / JARAGUÁ DO SUL / Santa Catarina / Brasil
+CNPJ: 07.175.725/0010-50
+Inscrição estadual: 255.083.939
+

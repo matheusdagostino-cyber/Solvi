@@ -1,0 +1,2505 @@
+                    REVISÃO - NOV/2021
+
+
+
+                 CONSÓRCIO CIVAP
+
+CIVAP - Consórcio Intermunicipal do Vale do Paranapanema
+
+
+
+
+ CONCESSÃO ADMINISTRATIVA PARA A EXPLORAÇÃO DE
+
+SERVIÇOS DE TRATAMENTO E DESTINAÇÃO FINAL DOS
+
+  RESÍDUOS, COM PREVISÃO DE APROVEITAMENTO
+
+ENERGÉTICO VISANDO À REDUÇÃO DE MASSA QUE SE
+
+          ENCAMINHARÁ AO DESTINO FINAL
+
+
+                MINUTA DE CONTRATO
+
+                     _____/202____
+
+
+
+
+                          Página 1 de 65
+SUMÁRIO
+
+PREÂMBULO 5
+CAPÍTULO 1. DISPOSIÇÕES GERAIS .................................................................................................... 7
+        CLÁUSULA 1.           DAS DEFINIÇÕES ......................................................................................................... 7
+        CLÁUSULA 2.           DA LEGISLAÇÃO APLICÁVEL...................................................................................... 11
+        CLÁUSULA 3.           INTERPRETAÇÃO ...................................................................................................... 12
+        CLÁUSULA 4.           DOS ANEXOS ............................................................................................................ 12
+CAPÍTULO 2. DA CONCESSÃO.............................................................................................................. 12
+        CLÁUSULA 5.           DO OBJETO DO CONTRATO ...................................................................................... 12
+        CLÁUSULA 6.           DO VALOR DO CONTRATO ....................................................................................... 13
+        CLÁUSULA 7.           DO PRAZO DA CONCESSÃO ...................................................................................... 13
+        CLÁUSULA 8.           DOS BENS VINCULADOS À CONCESSÃO ADMINISTRATIVA ..................................... 13
+CAPÍTULO 3. DA ESTRUTURA JURÍDICA DA CONCESSIONÁRIA ............................................. 14
+        CLÁUSULA 9.           DA CONCESSIONÁRIA ............................................................................................... 14
+CAPÍTULO 4. DOS SEGUROS E GARANTIAS PELA CONCESSIONÁRIA ................................... 15
+        CLÁUSULA 10.          DOS SEGUROS .......................................................................................................... 15
+        CLÁUSULA 11.          DA GARANTIA DE EXECUCÃO DO CONTRATO PELA CONCESSIONÁRIA ................... 18
+CAPÍTULO 5. DAS LICENÇAS................................................................................................................ 19
+        CLÁUSULA 12.          DAS LICENÇAS .......................................................................................................... 19
+CAPÍTULO 6. DO PLANO DE TRABALHO, DAS OBRAS E DOS SERVIÇOS ............................... 19
+        CLÁUSULA 13.          DO PLANO DE TRABALHO ........................................................................................ 19
+        CLÁUSULA 14.          DAS OBRAS ............................................................................................................... 20
+        CLÁUSULA 15.          DAS CONDIÇÕES DE PRESTAÇÃO DO SERVIÇO ........................................................ 21
+CAPÍTULO 7. DAS RELAÇÕES COM TERCEIROS ........................................................................... 22
+        CLÁUSULA 16.          DOS FINANCIAMENTOS ............................................................................................ 22
+        CLÁUSULA 17.          DOS CONTRATOS DA CONCESSIONÁRIA COM TERCEIROS ...................................... 23
+CAPÍTULO 8. DOS DIREITOS E OBRIGAÇÕES DAS PARTES ....................................................... 24
+        CLÁUSULA 18.          DAS PRERROGATIVAS E OBRIGACÕES DO PODER CONCEDENTE E DO CONTRATANTE
+              24
+        CLÁUSULA 19.          DOS DIREITOS E OBRIGACÕES DA CONCESSIONÁRIA .............................................. 25
+        CLÁUSULA 20.          DOS DIREITOS E OBRIGACÓES DOS USUÁRIOS FINAIS............................................. 27
+        CLÁUSULA 21.          DA PROTECÃO AMBIENTAL ...................................................................................... 28
+CAPÍTULO 9. DA REMUNERAÇÃO DA CONCESSIONÁRIA .......................................................... 29
+        CLÁUSULA 22.          DA CONTRAPRESTAÇÃO PECUNIÁRIA MENSAL ....................................................... 29
+        CLÁUSULA 23.          DO REAJUSTE DA CONTRAPRESTACÃO .................................................................... 31
+        CLÁUSULA 24.          DA REVISÃO .............................................................................................................. 31
+
+
+                                                                     Página 2 de 65
+        CLÁUSULA 25.            DA REVISÃO DAS CONDIÇÕES DO CONTRATO ......................................................... 31
+        CLÁUSULA 26.            DAS RECEITAS ACESSÓRIAS ...................................................................................... 31
+        CLÁUSULA 27.            DOS        RECURSOS            DE       PODER          CONCEDENTE                PARA        PAGAMENTO                DA
+    CONTRAPRESTAÇÃO................................................................................................................................. 32
+        CLÁUSULA 28.            DA GARANTIA DE PAGAMENTO DO PODER CONCEDENTE...................................... 32
+CAPÍTULO 10. DO DESEMPENHO DA CONCESSIONÁRIA NA EXECUÇÃO DOS SERVIÇOS
+                      34
+        CLÁUSULA 29.            DOS INDICADORES DE DESEMPENHO ...................................................................... 34
+        CLÁUSULA 30.            DO VERIFICADOR INDEPENDENTE ........................................................................... 35
+        CLÁUSULA 31.            DA REPARTIÇÃO DOS RISCOS E SUA MITIGAÇÃO .................................................... 35
+        CLÁUSULA 32.            DO EQUILÍBRIO ECONÔMICO-FINANCEIRO DO CONTRATO .................................... 39
+        CLÁUSULA 33.            DAS CAUSAS JUSTIFICADORAS DA INEXECUCÃO ..................................................... 40
+        CLÁUSULA 34.            DA TRANSFERÊNCIA E DA ONERACÃO DOS DIREITOS E OBRIGACÕES DA
+    CONCESSIONÁRIA 42
+CAPÍTULO 11. DA FISCALIZAÇÃO ..................................................................................................... 43
+        CLÁUSULA 35.            DA FISCALIZACÃO ..................................................................................................... 43
+CAPÍTULO 12. DAS SANÇÕES ............................................................................................................... 46
+        CLÁUSULA 36.            DAS PENALIDADES.................................................................................................... 46
+CAPÍTULO 13. DAS INTERVENÇÕES .................................................................................................. 50
+        CLÁUSULA 37.            DA INTERVENÇÃO PELO PODER CONCEDENTE ........................................................ 50
+        CLÁUSULA 38.            DA ASSUNÇÃO DO CONTROLE PELOS FINANCIADORES .......................................... 50
+CAPÍTULO 14. DA EXTINÇÃO DO CONCESSÃO.............................................................................. 51
+        CLÁUSULA 39.            DOS CASOS DE EXTINÇÃO ........................................................................................ 51
+        CLÁUSULA 40.            DO ADVENTO DO TERMO CONTRATUAL ................................................................. 52
+        CLÁUSULA 41.            DA ENCAMPACÃO .................................................................................................... 53
+        CLÁUSULA 42.            DA CADUCIDADE ...................................................................................................... 53
+        CLÁUSULA 43.            DA RESCISÃO ............................................................................................................ 55
+        CLÁUSULA 44.            DA ANULACÃO ......................................................................................................... 55
+CAPÍTULO 15. DOS BENS QUE INTEGRAM A CONCESSÃO ADMINISTRATIVA ................... 56
+        CLÁUSULA 45.            DOS BENS QUE INTEGRAM A CONCESSÃO ADMINISTRATIVA ................................. 56
+CAPÍTULO 16. DA SOLUÇÃO DE CONTROVÉRSIAS ...................................................................... 56
+        CLÁUSULA 46.            DA COMISSÃO TÉCNICA ........................................................................................... 56
+        CLÁUSULA 47.            DA ARBITRAGEM ...................................................................................................... 58
+CAPÍTULO 17. DAS DISPOSIÇÕES FINAIS ........................................................................................ 59
+        CLÁUSULA 48.            DAS COMUNICACÕES ............................................................................................... 59
+        CLÁUSULA 49.            DA CONTAGEM DOS PRAZOS ................................................................................... 59
+        CLÁUSULA 50.            DO EXERCICÍO DE DIREITOS ..................................................................................... 59
+
+
+                                                                       Página 3 de 65
+       CLÁUSULA 51.          DA INVALIDADE PARCIAL ......................................................................................... 60
+       CLÁUSULA 52.          DA PUBLICACÃO E REGISTRO DO CONTRATO .......................................................... 60
+       CLÁUSULA 53.          DO FORO .................................................................................................................. 60
+ANEXOS              62
+ANEXO I – PLANO DE NEGÓCIOS ....................................................................................................... 62
+ANEXO II – EDITAL E SEUS ANEXOS ................................................................................................. 62
+ANEXO III- QUADRO DE INDICADORES DE DESEMPENHO ....................................................... 62
+ANEXO IV – DOCUMENTAÇÃO DA GARANTIA DE EXECUÇÃO DO CONTRATO ................. 62
+ANEXO VI – TERMO DE REFERÊNCIA DO CONTRATO DE GARANTIA DE PAGAMENTO 62
+
+
+
+
+                                                                     Página 4 de 65
+                                        PREÂMBULO
+
+
+Aos ____ dias do mês de ______ de ______, pelo presente instrumento, de um lado, na qualidade
+de Poder Concedente o conjunto dos seguintes municípios participantes do CIVAP - CONSÓRCIO
+INTERMUNICIPAL DO VALE DO PARANAPANEMA: o Município de __________/SP, pessoa
+jurídica de direito público com sede administrativa localizada em __________ / ____ (CEP:
+______), inscrito no CNPJ/MF sob o nº ________, neste ato representado pelo seu(sua) prefeito(a),
+o(a) Sr.(a) ________, possuidor(a) do RG nº __________ e do CPF nº __________; o Município
+de __________/SP, pessoa jurídica de direito público com sede administrativa localizada em
+__________ / ____ (CEP: ______), inscrito no CNPJ/MF sob o nº ________, neste ato representado
+pelo seu(sua) prefeito(a), o(a) Sr.(a) ________, possuidor(a) do RG nº __________ e do CPF nº
+__________; o Município de __________/SP, pessoa jurídica de direito público com sede
+administrativa localizada em __________ / ____ (CEP: ______), inscrito no CNPJ/MF sob o nº
+________, neste ato representado pelo seu(sua) prefeito(a), o(a) Sr.(a) ________, possuidor(a) do
+RG nº __________ e do CPF nº __________; o Município de __________/SP, pessoa jurídica de
+direito público com sede administrativa localizada em __________ / ____ (CEP: ______), inscrito
+no CNPJ/MF sob o nº ________, neste ato representado pelo seu(sua) prefeito(a), o(a) Sr.(a)
+________, possuidor(a) do RG nº       __________ e do CPF nº __________; o Município de
+__________/SP, pessoa jurídica de direito público com sede administrativa localizada em
+__________ / ____ (CEP: ______), inscrito no CNPJ/MF sob o nº ________, neste ato representado
+pelo seu(sua) prefeito(a), o(a) Sr.(a) ________, possuidor(a) do RG nº __________ e do CPF nº
+__________; o Município de __________/SP, pessoa jurídica de direito público com sede
+administrativa localizada em __________ / ____ (CEP: ______), inscrito no CNPJ/MF sob o nº
+________, neste ato representado pelo seu(sua) prefeito(a), o(a) Sr.(a) ________, possuidor(a) do
+RG nº __________ e do CPF nº __________; o Município de __________/SP, pessoa jurídica de
+direito público com sede administrativa localizada em __________ / ____ (CEP: ______), inscrito
+no CNPJ/MF sob o nº ________, neste ato representado pelo seu(sua) prefeito(a), o(a) Sr.(a)
+________, possuidor(a) do RG nº       __________ e do CPF nº __________; o Município de
+__________/SP, pessoa jurídica de direito público com sede administrativa localizada em
+__________ / ____ (CEP: ______), inscrito no CNPJ/MF sob o nº ________, neste ato representado
+pelo seu(sua) prefeito(a), o(a) Sr.(a) ________, possuidor(a) do RG nº __________ e do CPF nº
+__________; o Município de __________/SP, pessoa jurídica de direito público com sede
+administrativa localizada em __________ / ____ (CEP: ______), inscrito no CNPJ/MF sob o nº
+________, neste ato representado pelo seu(sua) prefeito(a), o(a) Sr.(a) ________, possuidor(a) do
+RG nº __________ e do CPF nº __________; o Município de __________/SP, pessoa jurídica de
+
+
+                                             Página 5 de 65
+direito público com sede administrativa localizada em __________ / ____ (CEP: ______), inscrito
+no CNPJ/MF sob o nº ________, neste ato representado pelo seu(sua) prefeito(a), o(a) Sr.(a)
+________, possuidor(a) do RG nº       __________ e do CPF nº __________; o Município de
+__________/SP, pessoa jurídica de direito público com sede administrativa localizada em
+__________ / ____ (CEP: ______), inscrito no CNPJ/MF sob o nº ________, neste ato representado
+pelo seu(sua) prefeito(a), o(a) Sr.(a) ________, possuidor(a) do RG nº __________ e do CPF nº
+__________; o Município de __________/SP, pessoa jurídica de direito público com sede
+administrativa localizada em __________ / ____ (CEP: ______), inscrito no CNPJ/MF sob o nº
+________, neste ato representado pelo seu(sua) prefeito(a), o(a) Sr.(a) ________, possuidor(a) do
+RG nº __________ e do CPF nº __________; o Município de __________/SP, pessoa jurídica de
+direito público com sede administrativa localizada em __________ / ____ (CEP: ______), inscrito
+no CNPJ/MF sob o nº ________, neste ato representado pelo seu(sua) prefeito(a), o(a) Sr.(a)
+________, possuidor(a) do RG nº       __________ e do CPF nº __________; o Município de
+__________/SP, pessoa jurídica de direito público com sede administrativa localizada em
+__________ / ____ (CEP: ______), inscrito no CNPJ/MF sob o nº ________, neste ato representado
+pelo seu(sua) prefeito(a), o(a) Sr.(a) ________, possuidor(a) do RG nº __________ e do CPF nº
+__________; o Município de __________/SP, pessoa jurídica de direito público com sede
+administrativa localizada em __________ / ____ (CEP: ______), inscrito no CNPJ/MF sob o nº
+________, neste ato representado pelo seu(sua) prefeito(a), o(a) Sr.(a) ________, possuidor(a) do
+RG nº __________ e do CPF nº __________; o Município de __________/SP, pessoa jurídica de
+direito público com sede administrativa localizada em __________ / ____ (CEP: ______), inscrito
+no CNPJ/MF sob o nº ________, neste ato representado pelo seu(sua) prefeito(a), o(a) Sr.(a)
+________, possuidor(a) do RG nº __________ e do CPF nº __________, , doravante denominado
+MUNICÍPIOS ou PODER CONCEDENTE; e, na qualidade de contratante, o CIVAP -
+CONSÓRCIO INTERMUNICIPAL DO VALE DO PARANAPANEMA, com sede na Via
+Chico Mendes, 65, no município de Assis/SP, aqui representado por seu Presidente e Prefeito do
+Município de Echaporã/SP, o Senhor LUÍS GUSTAVO EVANGELISTA, possuidor do RG nº
+30.421.475-9 e do CPF nº 285.330.428-09, doravante denominado CONTRATANTE, e de outro
+lado, na qualidade de CONCESSIONÁRIA, doravante assim denominada a empresa ________,
+pessoa jurídica de direito privado, inscrita no CNPJ/MF sob o nº __________, com sede na
+__________, neste ato representada pelo [nome e qualificação], bem como as empresas [Licitante(s)
+vencedoras nome e qualificação], neste ato representada(s) pelo(s) [nome e qualificação], que
+assinam este instrumento na condição de INTERVENIENTES-ANUENTES e assumem todas as
+obrigações dele decorrentes.
+
+
+
+
+                                             Página 6 de 65
+       O PODER CONCEDENTE, o CONTRATANTE e CONCESSIONÁRIA doravante
+denominadas, em conjunto, como PARTES e, individualmente como PARTE, e
+       CONSIDERANDO QUE:
+       (A) O PODER CONCEDENTE, na forma determinada no Edital de Concorrência nº
+______, decidiu atribuir à iniciativa privada, sob regime de Parceria Público Privada na modalidade
+concessão administrativa, a prestação dos serviços públicos de tratamento e destinação final dos
+resíduos, com previsão de aproveitamento energético visando a redução de massa que se
+encaminhará destino final;
+       (B) O PODER CONCEDENTE delegou ao CONTRATANTE as atribuições necessárias
+para a representação dos MUNICÍPIOS com exclusividade, para todos os fins do Edital de
+Concorrência nº______ e do contrato concessão administrativa decorrente;
+       (C) Desta forma, o CONTRATANTE realizou licitação na modalidade Concorrência para
+a prestação dos serviços públicos de tratamento e destinação final dos resíduos, com previsão de
+aproveitamento energético visando a redução de massa que se encaminhará destino final, em
+conformidade com a Lei Federal nº 11.079/2004, Lei Federal nº 8.666/1993 e suas alterações, Lei
+Federal nº 8.987/1995, Lei Federal nº 9.074/1995.e demais normas que regem a matéria, regulando-
+se pelo disposto no Edital de Concorrência n° ______ e seus ANEXOS;
+        (D) A CONCESSIONÁRIA é uma Sociedade de Propósito Específico constituída pela
+ADJUDICATÁRIA da licitação, conforme publicação na Imprensa Oficial do Estado de São Paulo,
+tendo sido atendidas as exigências para a formalização deste instrumento;
+       Resolvem as PARTES celebrar o presente contrato de concessão (“CONTRATO”), de
+acordo com as condições abaixo especificadas.
+
+
+                              CAPÍTULO 1.       DISPOSIÇÕES GERAIS
+
+
+ CLÁUSULA 1.          DAS DEFINIÇÕES
+   1.1. Os termos a seguir indicados, sempre que grafados em letras maiúsculas, no singular ou no
+        plural, terão o significado a seguir transcrito, salvo se do seu contexto resultar sentido
+        claramente diverso:
+        ADJUDICATÁRIO: Licitante ao qual foi adjudicado o objeto da licitação;
+        AGÊNCIA REGULADORA: A Agência Reguladora dos Serviços Públicos do estado de
+        São Paulo – ARSESP.
+        AGENTE FINANCEIRO INDEPENDENTE: banco contratado pelo CONTRATANTE
+        que irá administrar a conta vinculada da CONCESSÃO ADMINISTRATIVA;
+        ANEXOS: os documentos que integram o presente Contrato;
+
+
+                                              Página 7 de 65
+ANEXOS DO EDITAL: os documentos que integram os anexos do Edital da
+Concorrência nº ______
+APÓLICES DE SEGUROS: contratos de seguro a serem contratados na forma deste
+Contrato;
+ÁREAS: são os imóveis, incluindo o seu solo, subsolo e seu espaço aéreo, onde serão
+implantadas as obras e os demais sistemas relacionados, descritos no Termo de Referência
+(Anexo II do Edital)
+CONCESSÃO ADMINISTRATIVA: concessão na modalidade administrativa para a
+realização do objeto, outorgada à concessionária pelo prazo previsto no Contrato, conforme
+previsto no art. 2º, §1º, da Lei Federal nº 11.079/2004;
+CONCESSIONÁRIA: Sociedade ou Subsidiária Integral de Propósito Específico,
+constituída de acordo e sob as leis brasileiras, com o fim exclusivo de execução do objeto
+do Contrato;
+CONTRAPRESTAÇÃO ou CONTRAPRESTAÇÃO PECUNIÁRIA MENSAL: valor
+devido pelo Poder Concedente à Concessionária, em função da prestação dos serviços
+descritos neste Edital e seus Anexos;
+CONTA VINCULADA: conta específica em que serão depositados valores pelo PODER
+CONCEDENTE para garantia ao contrato de CONCESSÃO ADMINISTRATIVA;
+CONTRATO: é o presente instrumento jurídico firmado entre as Partes com o objetivo de
+regular os termos da Concessão Administrativa;
+CONTRATO DE GARANTIA: instrumento firmado pelos MUNICÍPIOS, o
+CONTRATANTE,           o    AGENTE          FINANCEIRO       INDEPENDENTE,          e    a
+CONCESSIONÁRIA, para formalizar a GARANTIA DE PAGAMENTO, conforme
+Anexo VI;
+CONTRATANTE: é o CIVAP - CONSÓRCIO INTERMUNICIPAL DO VALE DO
+PARANAPANEMA que, para os efeitos deste contrato passa a ser denominado
+simplesmente CIVAP;
+CONTROLADA: qualquer pessoa jurídica cujo CONTROLE é exercido por outra pessoa
+jurídica.
+CONTROLADORA: qualquer pessoa jurídica que exerça CONTROLE sobre outra
+pessoa jurídica.
+CONTROLE: poder, detido por pessoa ou grupo de pessoas vinculadas por acordo de voto
+ou sob controle comum, que, direta ou indiretamente, isolada ou conjuntamente: (i) exercer,
+de modo permanente, direitos que lhe assegurem a maioria dos votos nas deliberações
+sociais e eleger a maioria dos administradores ou gestores de outra pessoa, fundo de
+
+
+                                        Página 8 de 65
+investimento ou entidades de previdência complementar, conforme o caso; e/ou (ii)
+efetivamente dirigir as atividades sociais e orientar o funcionamento de órgãos de outra
+pessoa, fundo de investimento ou entidade de previdência complementar.
+DATA DA ASSUNÇÃO DOS SERVIÇOS: é a data de assinatura do contrato;
+DOCUMENTAÇÃO DE GARANTIAS: documentação referente a garantia de execução
+do contrato prestada pela concessionária;
+DOESP: Diário Oficial do Estado de São Paulo;
+EDITAL: é o instrumento, que contém o conjunto de instruções, regras e condições
+necessárias à orientação do procedimento administrativo de seleção melhor proposta apta
+a receber a Concessão Administrativa;
+GARANTIA DE EXECUÇÃO DO CONTRATO PELA CONCESSIONÁRIA:
+garantia prestada pela Concessionária em favor do Poder Concedente, atinente ao integral
+e pontual cumprimento de todas as obrigações da Concessionária previstas neste Contrato;
+GARANTIA DE PAGAMENTO: é garantia, oferecida pelo PODER CONCEDENTE,
+para o pagamento da CONTRAPRESTAÇÃO, das multas e das indenizações que vierem
+a ser devidas nos termos do CONTRATO e do presente EDITAL;
+LICITAÇÃO: procedimento público conduzido pelo PODER CONCEDENTE para
+selecionar, dentre as propostas apresentadas, a que melhor atenda ao interesse da
+Administração Pública, com base nos critérios previstos no EDITAL;
+LICITANTE VENCEDORA: pessoa jurídica que venceu o procedimento licitatório,
+isoladamente ou reunida em CONSÓRCIO;
+MUNICÍPIOS: são os seguintes Municípios titulares do PODER CONCEDENTE,
+integrantes do CIVAP - Assis, Campos Novos Paulista, Cândido Mota, Cruzália, Echaporã,
+Florínea, Ibirarema, Lutécia, Oscar Bressane, Palmital, Paraguaçu Paulista, Pedrinhas
+Paulista, Platina, Rancharia, Santa Cruz do Novo Pardo e Tarumã;
+OBJETO: as obras e os serviços objeto deste Contrato;
+PARCERIA PÚBLICO-PRIVADA: É o presente contrato na modalidade concessão
+administrativa;
+PARTES: o PODER CONCEDENTE, o CONTRATANTE e a CONCESSIONÁRIA;
+PODER CONCEDENTE: é o conjunto dos MUNICÍPIOS integrantes do CIVAP, que
+deliberaram pela participação associada no presente projeto de PARCERIA PÚBLICO-
+PRIVADA;
+PLANOS DE GESTAO INTEGRADA DE RESIDUOS SOLIDOS: são os Planos dos
+municípios consorciados integrantes do Projeto com todas as diretrizes, normas e
+indicadores, elaborado nos termos da Política Nacional dos Resíduos Sólidos (Lei Federal
+
+
+                                     Página 9 de 65
+12.305/10) cumulada com as diretrizes do Plano de Saneamento Básico (Lei Federal
+11.445/07);
+PLANO DE NEGÓCIOS: plano cobrindo o prazo integral da Parceria Público-Privada,
+com todos os elementos operacionais e financeiros relativos à execução dos serviços, assim
+como uma descrição das ações pretendidas pelo adjudicatário visando à exploração dos
+serviços, observadas as especificações estabelecidas pelo Anexo II do Edital – Termo de
+Referência e o atendimento dos indicadores constantes do Anexo III do Contrato – Quadro
+de Indicadores de Desempenho;
+PLANO DE TRABALHO: Documento a ser entregue pela Concessionária com o
+detalhamento da forma como serão desenvolvidas as atividades relacionadas com a
+prestação dos serviços integrantes da Concessão e os projetos para a implantação das
+estruturas exigidas no Contrato e seus Anexos, para aprovação pelo Poder Concedente.
+PROPOSTA COMERCIAL: é a proposta contendo os parâmetros econômicos
+apresentada na licitação, contendo o valor da contraprestação pública mensal e o plano de
+negócios da concessão, de acordo com o estipulado no Anexo VIII do Edital – Termo de
+Referência para Elaboração da Proposta Econômica e para a Elaboração do Plano de
+Negócios;
+RECEITAS         ACESSÓRIAS:          são    quaisquer     receitas    percebidas     pela
+CONCESSIONÁRIA que não componham a CONTRAPRESTAÇÃO PECUNIÁRIA
+MENSAL;
+REJEITOS: consistem, conforme definição prevista no art. 3º, inciso XVI, da Lei Federal
+nº 12.305/2010, nos resíduos sólidos que, depois de esgotadas todas as possibilidades de
+tratamento e recuperação por processos tecnológicos disponíveis e economicamente
+viáveis, não apresentem outra possibilidade que não a disposição final ambientalmente
+adequada;
+RESÍDUOS PERIGOSOS: consistem, conforme definição prevista no art. 13, inciso II,
+alínea “a”, da Lei Federal nº 12.305/2010, nos resíduos que, em razão de suas
+características de inflamabilidade, corrosividade, reatividade, toxicidade, patogenicidade,
+carginogenicidade, teratogenicidade e mutagenicidade, apresentam risco significativo à
+saúde pública ou à qualidade ambiental, de acordo com as leis, regulamentos e normas
+técnicas vigentes;
+RESÍDUOS SÓLIDOS: consistem, conforme definição prevista no art. 3º, inciso XVI, da
+Lei Federal nº 12.305/2010, em material, substância, objeto ou bem descartado, resultante
+de atividades humanas em sociedade, cuja destinação final será procedida nos estados
+sólido ou semisólido, bem como gases contidos em recipientes e líquidos cujas
+
+
+                                     Página 10 de 65
+         particularidades tonem inviável o seu lançamento na rede pública de esgotos ou em corpos
+         d´água, ou que, para tanto, demandem soluções técnicas economicamente inviáveis em
+         face da melhor tecnologia disponível;
+         SERVIÇOS: são todos os serviços públicos de tratamento e destinação final dos resíduos,
+         com previsão de aproveitamento energético visando a redução de massa que se
+         encaminhará ao destino final, nos termos do Anexo II do Edital – Termo de Referência;
+         SOCIEDADE DE PROPÓSITO ESPECÍFICO (SPE): sociedade de propósito
+         específico que será constituída pelo LICITANTE vencedor para a consecução do objeto da
+         Concessão;
+         TERMO DE REFERÊNCIA: estudos técnicos e operacionais que traduzem e detalham
+         todos os serviços que devem ser prestados pela Concessionária;
+         USUÁRIOS FINAIS: Os municípios destinatários dos serviços prestados pela
+         CONCESSIONÁRIA;
+         VERIFICADOR INDEPENDENTE: Pessoa jurídica que poderá vir a ser contratada pela
+         Concessionária, após aceite do Poder Concedente, para prestar apoio à operação dos
+         serviços objeto da concessão.
+
+
+CLÁUSULA 2.            DA LEGISLAÇÃO APLICÁVEL
+  2.1.           Este CONTRATO será regido pela legislação vigente, em especial:
+            a) Constituição Federal, em especial o artigo 37, inciso XXI, e o artigo 175;
+            b) Lei Federal n°11.079, de 30 de dezembro de 2004;
+            c) Lei Federal n°8.987, de 13 de fevereiro de 1995, e artigo 31 da Lei Federal n° 9.074,
+                  de7 de julho de 1995, e suas alterações posteriores;
+            d) Lei Federal n° 8.666, de 21 de junho de 1993, e suas alterações posteriores;
+            e) Lei Complementar n°101, de 04 de maio de 2000;
+            f)     Lei Federal nº 11.445/2007 e Lei Federal nº 12.305/2010 e regulamentação
+                  vigente;
+            g) Condições previstas neste EDITAL nos Anexos, que fazem parte integrante deste
+                  EDITAL;
+            h) Protocolo de Intenções assinado pelos municípios consorciados.
+            i) Lei Federal nº 11.107/05 Lei dos Consórcios Públicos.
+            j) Leis Municipais que autorizam a participação no CIVAP.
+            k) Demais disposições constitucionais, legais e regulamentares aplicáveis.
+     2.1.1. Condições previstas neste CONTRATO e seus ANEXOS, incluindo o EDITAL e
+     seus Anexos;
+
+
+                                               Página 11 de 65
+       2.1.2. Demais disposições constitucionais, legais e regulamentares aplicáveis.
+       2.2.        Este CONTRATO é regido pelas disposições e pelos preceitos de Direito Público,
+aplicando-se, supletivamente, os princípios da Teoria Geral dos Contratos e disposições de Direito
+Privado, que lhe sejam específicas.
+
+
+ CLÁUSULA 3.               INTERPRETAÇÃO
+   3.1.            Exceto quando o contexto não permitir tal interpretação:
+                 3.1.1.    As definições do CONTRATO serão igualmente aplicadas nas formas
+                 singular e plural;
+                 3.1.2.    No caso de divergência entre o EDITAL e os ANEXOS, prevalecerá o
+                 disposto no EDITAL, salvo após a assinatura do CONTRATO, quando o EDITAL será
+                 considerado anexo do CONTRATO;
+                 3.1.3.    No caso de divergência entre os ANEXOS, prevalecerão aqueles emitidos
+                 pelo PODER CONCEDENTE;
+                 3.1.4.    No caso de divergência entre os ANEXOS emitidos pelo PODER
+                 CONCEDENTE, prevalecerá aquele de data mais recente.
+
+
+ CLÁUSULA 4.               DOS ANEXOS
+          4.1.     Para melhor caracterização do objeto do CONTRATO, integram e/ou integrarão este
+          instrumento, como se nele estivessem transcritos, para todos os efeitos de direito:
+                 4.1.1.    Anexo I – Plano de Negócios apresentado pela Licitante Vencedora;
+                 4.1.2.    Anexo II – Edital e seus Anexos
+                 4.1.3.    Anexo III – Quadro de Indicadores de Desempenho - QID;
+                 4.1.4.    Anexo IV – Documentação da Garantia de Execução do Contrato;
+                 4.1.5.    Anexo V – Apólices de Seguros;
+                 4.1.6.    Anexo VI – Termo de Referência do Contrato de Garantia.
+
+
+                                      CAPÍTULO 2.     DA CONCESSÃO
+ CLÁUSULA 5.               DO OBJETO DO CONTRATO
+       5.1.        O objeto do presente CONTRATO consiste na prestação, pela CONCESSIONÁRIA,
+das OBRAS e SERVIÇOS na ÁREA DA CONCESSÃO, na forma do Termo de Referência (Anexo
+II do Edital), incluindo todos os serviços públicos de tratamento e destinação final dos resíduos,
+com previsão de aproveitamento energético visando a redução de massa que se encaminhará a
+destino final, nos termos do Edital.
+
+
+
+
+                                                 Página 12 de 65
+CLÁUSULA 6.          DO VALOR DO CONTRATO
+  6.1. O valor estimado deste CONTRATO é de R$ XXXXX, tendo como referência a data
+        XXXX e corresponde ao somatório das CONTRAPRESTAÇÕES a serem pagas pelo
+        PODER CONCEDENTE em função da prestação de SERVIÇOS.
+
+
+CLÁUSULA 7.          DO PRAZO DA CONCESSÃO
+ 7.1.         O prazo da CONCESSÃO ADMINISTRATIVA é de 30 (trinta) anos, contados da
+ data de assunção dos SERVIÇOS pela CONCESSIONÁRIA, consignada por meio de termo a
+ ser assinado pelas PARTES, cujo extrato será publicado no Diário Oficial do Estado de São
+ Paulo.
+ 7.2.         O presente Contrato poderá ser prorrogado, a exclusivo critério do Poder Concedente,
+ por até 5 (cinco) anos, desde que não ultrapasse o limite legal, nas seguintes hipóteses:
+        (i) por imposição do interesse público, devidamente justificado;
+        (ii) em decorrência de força maior, devidamente comprovada;
+        (iii) para recomposição do equilíbrio econômico-financeiro, quando exigidos pelo Poder
+        Concedente novos investimentos ou serviços, não previstos, ou em decorrência de sua
+        alteração.
+ 7.3.         Os atos administrativos pertinentes à prorrogação do Contrato deverão ser
+ adequadamente motivados pelo PODER CONCEDENTE, inclusive quanto ao prazo fixado,
+ observada a legislação que rege a matéria.
+ 7.4.         O instrumento contratual de prorrogação deverá explicitar o respectivo prazo, as
+ obras ou SERVIÇOS a serem executados.
+
+
+CLÁUSULA 8.          DOS BENS VINCULADOS À CONCESSÃO ADMINISTRATIVA
+ 8.1.         A CONCESSÃO ADMINISTRATIVA será integrada pelos bens que lhe estão
+ vinculados para a consecução do seu objeto, considerados como as instalações, equipamentos,
+ máquinas, aparelhos, edificações, acessórios, necessários à adequada execução dos SERVIÇOS,
+ incluindo as ÁREAS e os demais bens que venham a ser adquiridos, cedidos ou construídos pela
+ CONCESSIONÁRIA, ao longo do período da CONCESSÃO ADMINISTRATIVA.
+    8.1.1. Não há previsão de qualquer reversibilidade de bens em se tratando de investimento
+    à cargo do privado, com tecnologia própria e em terreno privado por conta e risco da
+    CONCESSIONÁRIA.
+    8.1.2. Os bens vinculados à CONCESSÃO ADMINISTRATIVA serão aqueles necessários
+    ao cumprimento das obrigações pela CONCESSIONÁRIA.
+
+
+
+
+                                             Página 13 de 65
+ 8.2.        Todos os bens vinculados ou investimentos neles realizados deverão ser
+ integralmente depreciados e amortizados pela CONCESSIONÁRIA no Prazo da Concessão de
+ acordo com os termos da legislação vigente, não cabendo qualquer pleito de recomposição do
+ equilíbrio econômico financeiro no advento do termo contratual.
+ 8.3.        Qualquer alienação ou aquisição de bens que a CONCESSIONÁRIA pretenda
+ realizar, nos últimos 5 (cinco) anos do prazo da CONCESSÃO, deverá ser prévia e
+ expressamente autorizada pelo PODER CONCENDENTE.
+    8.3.1. O PODER CONCEDENTE se pronunciará, por escrito, no prazo máximo de 15
+    (quinze) dias, sobre a solicitação da CONCESSIONÁRIA, devendo esta, no seu pedido,
+    explicitar claramente, quanto aos bens a serem adquiridos, se a sua amortização não puder
+    ocorrer totalmente dentro do prazo da CONCESSÃO, qual o tratamento que deverá ser dado
+    ao saldo não amortizado.
+ 8.4.        Os bens vinculados à CONCESSÃO ADMINISTRATIVA não poderão ser alienados
+ ou onerados pela CONCESSIONÁRIA, sem prévia anuência do PODER CONCEDENTE, por
+ qualquer forma, sob pena de caducidade, até o prazo final do CONTRATO.
+ 8.5.        Os bens da CONCESSIONÁRIA que não estejam vinculados à CONCESSÃO e,
+ portanto, não sejam considerados como essenciais à execução dos SERVIÇOS, poderão ser
+ onerados ou alienados, desde que tal oneração ou alienação não afete a qualidade dos
+ SERVIÇOS, ou a diminuição das condições econômicas, técnicas ou operacionais da
+ CONCESSIONÁRIA, para continuidade da adequada prestação dos SERVIÇOS.
+ 8.6.        Para os efeitos do disposto nos itens anteriores, os bens deverão estar devidamente
+ registrados na contabilidade da CONCESSIONÁRIA, de modo a permitir a sua fácil
+ identificação pelo PODER CONCEDENTE.
+
+
+           CAPÍTULO 3.       DA ESTRUTURA JURÍDICA DA CONCESSIONÁRIA
+
+
+CLÁUSULA 9.          DA CONCESSIONÁRIA
+  9.1. A CONCESSIONÁRIA será uma SOCIDADE DE PROPÓSITO ESPECÍFICO,
+        constituída pela LICITANTE VENCEDORA, conforme apresentado nos documentos da
+        LICITAÇÃO, cujo objetivo social deverá ser o de execução dos SERVIÇOS e OBRAS,
+        bem como a realização das atividades correlatas, de modo a viabilizar o cumprimento deste
+        CONTRATO.
+  9.2. O prazo de duração da SOCIEDADE DE PROPÓSITO ESPECÍFICO deverá corresponder
+        ao prazo de vigência deste CONTRATO.
+
+
+
+
+                                            Página 14 de 65
+  9.3. Cabe à CONCESSIONÁRIA, durante a vigência do CONTRATO, manter capital social
+      subscrito e integralizado no valor de XXX, vedada, em qualquer hipótese, a sua redução
+      sem a prévia e expressa autorização do PODER CONCEDENTE.
+  9.4. O controle societário da CONCESSIONÁRIA, total ou parcial, poderá ser transferido
+      somente após anuência prévia do PODER CONCEDENTE.
+   9.4.1. Para fins de obtenção da anuência prevista neste artigo, o pretendente deverá:
+        9.4.1.1. atender às exigências de capacidade técnica, idoneidade financeira e jurídica e
+                 regularidade fiscal necessárias à assunção do serviço; e
+        9.4.1.2. comprometer-se a cumprir todas as cláusulas do contrato em vigor.
+   9.4.2. A transferência do controle societário poderá ser feita aos financiadores da
+          CONCESSIONÁRIA, após anuência do PODER CONCEDENTE e mediante a
+          comprovação dos requisitos dispostos no artigo 5°, § 2°, inciso I, da Lei Federal n°
+          11.079/04.
+   9.4.3. Na hipótese prevista na subcláusula acima, o PODER CONCEDENTE verificará se os
+          financiadores atendem às exigências de regularidade jurídica e fiscal impostas no
+          EDITAL aos LICITANTES, nos termos do disposto no artigo 27, § 1°, da Lei Federal
+          n° 8.987/95.
+  9.5. Na hipótese de descumprimento do disposto nos itens desta Cláusula 9, o CONTRATO
+      poderá ser extinto antecipadamente pelo PODER CONCEDENTE, sem prejuízo da
+      aplicação das penalidades previstas neste instrumento.
+
+
+
+
+      CAPÍTULO 4.        DOS SEGUROS E GARANTIAS PELA CONCESSIONÁRIA
+CLÁUSULA 10.       DOS SEGUROS
+ 10.1. Durante todo prazo da CONCESSÃO, a CONCESSIONÁRIA deverá contratar, às suas
+      expensas, junto à seguradora de sua livre escolha, as apólices de seguro indicadas na
+      subcláusula 10.5 abaixo, em condições aceitáveis pelo PODER CONCEDENTE.
+ 10.2. Nenhuma obra ou serviço poderá ter início ou prosseguir sem que a CONCESSIONÁRIA
+      apresente ao PODER CONCEDENTE comprovação de que as apólices dos seguros
+      exigidos no CONTRATO, encontram-se em vigor e observam as condições estabelecidas
+      pelo PODER CONCEDENTE.
+    10.2.1. Em até 10 dias antes do início de qualquer obra ou serviço, a CONCESSIONÁRIA
+           deverá apresentar ao PODER CONCEDENTE cópia autenticada das apólices de
+           seguro juntamente com os respectivos planos de trabalho.
+
+
+
+
+                                          Página 15 de 65
+10.3. O PODER CONCEDENTE deverá ser indicado como cossegurado nas apólices dos
+     seguros, devendo seu cancelamento, suspensão, modificação ou substituição ser
+     previamente autorizado pelo PODER CONCEDENTE.
+    10.3.1. As apólices de seguros poderão estabelecer como beneficiário da indenização os
+           financiadores da CONCESSIONÁRIA.
+    10.3.2. As apólices de seguros deverão prever a indenização direta ao PODER
+           CONCEDENTE nos casos em que o PODER CONCEDENTE seja responsabilizado
+           em decorrência de sinistro.
+10.4. Pelo descumprimento da obrigação de contratar ou manter atualizadas as apólices de
+     seguro, o PODER CONCEDENTE aplicará multa, conforme disposições contratuais e
+     regulamentares, até a apresentação das referidas apólices ou do respectivo endosso, sem
+     prejuízo de outras medidas previstas no Contrato.
+10.5. A CONCESSIONÁRIA obriga-se a contratar e manter em vigor os seguintes seguros:
+    10.5.1. seguro de danos materiais ("Property All Risks Insurance''): cobertura de perda ou
+           dano decorrente de riscos engenharia, riscos operacionais e relativos às máquinas e
+           equipamentos da CONCESSÃO, incluindo roubo, furto, perda, destruição em todos
+           os bens que a integram.
+    10.5.2. seguro de responsabilidade civil ("Legal Liability Insurance''), cobrindo a
+           CONCESSIONÁRIA            e   o    PODER       CONCEDENTE,      bem    como    seus
+           administradores, empregados, funcionários, prepostos ou delegados, pelos montantes
+           com que possam ser responsabilizados a título de danos materiais, pessoais e morais,
+           custas processuais e quaisquer outros encargos relacionados a danos materiais,
+           pessoais ou morais, decorrentes das atividades abrangidas pela CONCESSÃO,
+           inclusive, mas não se limitando, a danos involuntários pessoais, mortes, danos
+           materiais causados a terceiros, incluindo o PODER CONCEDENTE.
+10.6. Os montantes cobertos pelos seguros de danos materiais e pelos seguros de
+     responsabilidade civil, incluídos os danos morais abrangidos, deverão atender os limites
+     máximos de indenização calculados com base no maior dano provável.
+10.7. A CONCESSIONÁRIA deverá informar ao PODER CONCEDENTE todos os bens
+     cobertos pelos seguros e a forma de cálculo do limite máximo de indenização de cada
+     apólice de seguro.
+10.8. A CONCESSIONÁRIA assume toda a responsabilidade pela abrangência ou omissões
+     decorrentes da realização dos seguros de que trata o CONTRATO.
+10.9. A CONCESSIONÁRIA é responsável pelo pagamento integral da franquia, em caso de
+     utilização de qualquer seguro previsto no Contrato.
+
+
+                                             Página 16 de 65
+10.10. Nas apólices de seguros deverá constar a obrigação das seguradoras de informar,
+       imediatamente, a CONCESSIONÁRIA e ao PODER CONCEDENTE, as alterações nos
+       contratos de seguros, principalmente as que impliquem o cancelamento total ou parcial
+       do(s) seguro(s) contratado(s) ou redução das importâncias seguradas.
+10.11. As apólices de seguro deverão ter vigência mínima de 12 (doze) meses a contar da data de
+       sua apresentação ao PODER CONCEDENTE, devendo ser renovadas sucessivamente por
+       igual período durante o prazo da CONCESSÃO.
+10.12. A CONCESSIONÁRIA deverá encaminhar ao PODER CONCEDENTE, com
+       antecedência mínima de 30 (trinta) dias de seu vencimento, documento comprobatório de
+       que as apólices dos seguros foram renovadas ou serão automática e incondicionalmente
+       renovadas imediatamente após seu vencimento.
+  10.12.1. Caso a CONCESSIONÁRIA não encaminhe os documentos comprobatórios da
+           renovação dos seguros no prazo previsto, o PODER CONCEDENTE poderá contratar
+           os seguros e cobrar da CONCESSIONÁRIA o valor total do seu prêmio a qualquer
+           tempo ou considerá-lo para fins de recomposição do reequilíbrio econômico do
+           Contrato, sem eximir a CONCESSIONÁRIA das penalidades previstas neste
+           CONTRATO.
+  10.12.2. Nenhuma responsabilidade será imputada ao PODER CONCEDENTE caso ele opte
+           por não contratar seguro cuja apólice não foi apresentada no prazo previsto pela
+           CONCESSIONÁRIA.
+10.13. A CONCESSIONÁRIA deverá enviar ao PODER CONCEDENTE cópia autenticada dos
+       comprovantes de quitação dos prêmios relativos aos seguros contratados, no prazo de
+       máximo de 10 (dez) dias após seu respectivo pagamento.
+10.14. O PODER CONCEDENTE poderá recusar as apólices de seguro apresentadas pela
+       CONCESSIONÁRIA, devendo manifestar sua decisão fundamentada e por escrito,
+       determinando que a CONCESSIONÁRIA proceda às correções e adaptações que se façam
+       necessárias, no prazo máximo e improrrogável de 10 (dez) dias.
+10.15. Ocorrendo a hipótese de sinistros não cobertos pelos seguros contratados, a
+       CONCESSIONÁRIA          responderá    isoladamente     pelos   danos   e   prejuízos   que,
+       eventualmente, causar ao PODER CONCEDENTE em decorrência da execução das
+       OBRAS, correndo às suas expensas, exclusivamente, as indenizações resultantes de tais
+       danos e prejuízos.
+10.16. A CONCESSIONÁRIA poderá, com prévia aprovação do PODER CONCEDENTE,
+       alterar a cobertura e franquias, bem como quaisquer condições das apólices contratadas,
+       para adequá-las às atividades da CONCESSÃO.
+
+
+                                            Página 17 de 65
+10.17. O descumprimento, pela CONCESSIONÁRIA, de qualquer das disposições contidas nesta
+      Cláusula poderá ensejar, a critério do PODER CONCEDENTE, a declaração de
+      caducidade da CONCESSÃO ADMINISTRATIVA, após o devido procedimento previsto
+      neste CONTRATO, sem prejuízo da penalidade cabível.
+
+
+CLÁUSULA 11.       DA     GARANTIA         DE     EXECUCÃO         DO     CONTRATO   PELA
+   CONCESSIONÁRIA
+11.1. Em garantia do bom cumprimento das obrigações assumidas no CONTRATO, a
+      CONCESSIONÁRIA deverá entregar ao PODER CONCEDENTE, antes da assinatura
+      deste CONTRATO, a GARANTIA DE EXECUÇÃO DO CONTRATO no valor de
+      equivalente ao montante de 25% (vinte e cinco por cento) de 12 (doze) contraprestações
+      mensais.
+  11.1.1. A GARANTIA DE EXECUÇÃO DO CONTRATO poderá ser prestada em qualquer
+         das modalidades previstas no §1° do art. 56 da Lei Federal n° 8.666/93 e alterações
+         posteriores.
+  11.1.2. É permitida a substituição de uma modalidade de garantia por outra, desde que
+         observadas as disposições e prazos previstos neste CONTRATO e prévia autorização
+         do PODER CONCEDENTE.
+ 11.2. A GARANTIA DE EXECUÇÃO DO CONTRATO deverá ser mantida pela
+      CONCESSIONÁRIA até a data de extinção do CONTRATO, por meio de renovações
+      periódicas, sendo que deve ser encaminhado ao PODER CONCEDENTE documento
+      comprobatório de que houve a renovação e que o valor se encontra atualizado.
+ 11.3. Se houver prorrogação no prazo de vigência do CONTRATO, a CONCESSIONÁRIA fica
+      obrigada a providenciar a renovação da GARANTIA DE EXECUÇÃO DO CONTRATO,
+      nos termos e condições originalmente aprovados pelo PODER CONCEDENTE.
+ 11.4. O PODER CONCEDENTE recorrerá à GARANTIA DE EXECUÇÃO DO CONTRATO
+      sempre que a CONCESSIONÁRIA não proceder, nos prazos definidos neste
+      CONTRATO, ao pagamento das multas que, porventura, forem aplicadas e/ou ao
+      pagamento dos prêmios dos seguros previstos neste instrumento, ou sempre que seja
+      necessário, nos termos referidos neste CONTRATO.
+ 11.5. Sempre que o PODER CONCEDENTE utilizar a GARANTIA DE EXECUÇÃO DO
+      CONTRATO, a CONCESSIONÁRIA deverá proceder à reposição de seu montante
+      integral, no prazo de 10 (dez) dias úteis, contados da data de utilização.
+
+
+
+
+                                            Página 18 de 65
+  11.6. A GARANTIA DE EXECUÇÃO DO CONTRATO PELA CONCESSIONÁRIA não
+        poderá conter quaisquer ressalvas ou condições que possam dificultar ou impedir sua
+        execução, ou que possam suscitar dúvidas quanto à sua exequibilidade.
+  11.7. Todas as despesas decorrentes da prestação da GARANTIA DE EXECUÇÃO DO
+        CONTRATO correrão por conta da CONCESSIONÁRIA.
+  11.8. Qualquer modificação nos termos e nas condições da GARANTIA DE EXECUÇÃO DO
+        CONTRATO deverá ser previamente aprovada pelo PODER CONCEDENTE.
+ 11.9. A CONCESSIONÁRIA deverá reajustar o valor da GARANTIA DE EXECUÇÃO DO
+        CONTRATO estabelecido na subcláusula 11.1 nas mesmas datas e nos mesmos índices de
+        reajuste da CONTRAPRESTAÇÃO.
+ 11.10. A GARANTIA DE EXECUÇÃO DO CONTRATO, prestada pela CONCESSIONÁRIA,
+        somente será liberada ou restituída, após 30 (trinta) dias contados da data de extinção do
+        CONTRATO.
+
+
+                                CAPÍTULO 5.       DAS LICENÇAS
+ CLÁUSULA 12.        DAS LICENÇAS
+12.1.A CONCESSIONÁRIA deverá:
+12.1.1. obter todas as licenças, permissões e autorizações necessárias ao pleno exercício das
+       atividades objeto da CONCESSÃO;
+12.1.2. cumprir com todas as providências exigidas pelos órgãos competentes, nos termos da
+       legislação vigente, para a concessão das licenças, permissões e autorizações necessárias ao
+       pleno exercício das atividades objeto da CONCESSÃO, arcando com as despesas e custos
+       correspondentes.
+
+
+       CAPÍTULO 6.        DO PLANO DE TRABALHO, DAS OBRAS E DOS SERVIÇOS
+ CLÁUSULA 13.        DO PLANO DE TRABALHO
+13.1.A CONCESSIONÁRIA deverá submeter à aprovação do PODER CONCEDENTE, em até 2
+    (dois) meses após a assinatura do CONTRATO, PLANO DE TRABALHO, na forma
+    estabelecida no TERMO DE REFERÊNCIA, no qual deverá constar o detalhamento das
+    estruturas que serão implantadas e das atividades a serem desenvolvidas relacionadas com a
+    prestação dos SERVIÇOS.
+13.2.O PLANO DE TRABALHO deverá conter, no mínimo, os projetos de implantação de unidades
+    de tratamento, os projetos de infraestrutura e equipamentos e as especificações das OBRAS e
+    dos SERVIÇOS, acompanhados de cronograma de execução das OBRAS e execução dos
+    SERVIÇOS, tal como disposto no TERMO DE REFERÊNCIA.
+
+
+                                             Página 19 de 65
+13.3.A CONCESSIONÁRIA deverá elaborar os projetos atendendo integralmente ao disposto no
+    TERMO DE REFERÊNCIA, bem como mantê-los atualizados.
+13.4.O PODER CONCEDENTE se manifestará acerca do PLANO DE TRABALHO no prazo
+    máximo de 30 (trinta) dias a contar da data de seu recebimento.
+13.5.Caso o PODER CONCEDENTE solicite esclarecimentos ou determine alguma alteração, a
+    CONCESSIONÁRIA terá o prazo de 15 (quinze) dias para submeter ao PODER
+    CONCEDENTE novo PLANO DE TRABALHO com as alterações determinadas.
+13.6.A partir da data de recebimento do PLANO DE TRABALHO alterado, o PODER
+    CONCEDENTE terá novo prazo de 15 (quinze) dias para sua análise e aprovação.
+13.7.Se os prazos previstos nesta cláusula para análise do PODER CONCEDENTE transcorrem
+    sem sua manifestação, o PLANO DE TRABALHO submetido será considerado aprovado.
+13.8.O     PODER      CONCEDENTE,        mediante    comunicação      prévia,   poderá   impor   à
+    CONCESSIONÁRIA a realização de modificações no PLANO DE TRABALHO, mesmo
+    quando já houver manifestado a sua não objeção, desde que devidamente justificado.
+13.9.A não objeção, expressa ou tácita, do PODER CONCEDENTE quanto ao PLANO DE
+    TRABALAHO e aos projetos e/ou estudos dele constantes, não implica qualquer
+    responsabilidade para o PODER CONCEDENTE, nem exime a CONCESSIONÁRIA do
+    cumprimento de suas obrigações contatuais, legais ou regulamentares pertinentes,
+    permanecendo a responsabilidade exclusiva da CONCESSIONÁRIA quanto a eventuais
+    imperfeições do projeto e a qualidade dos serviços realizados.
+13.10. O     início   da   implantação   do   PLANO      DE     TRABALHO        apresentado   pela
+    CONCESSIONÁRIA deverá ocorrer no prazo máximo de 2 meses, contados de sua aprovação
+    pelo PODER CONCEDENTE, sendo que a CONCESSIONÁRIA deverá garantir prestar os
+    serviços continuamente mesmo antes da aprovação do plano.
+
+
+ CLÁUSULA 14.          DAS OBRAS
+         14.1.A execução das OBRAS deverá respeitar com rigor todas as disposições, prazos e
+             especificações técnicas constantes no TERMO DE REFERÊNCIA, bem como as
+             especificações apresentadas pela CONCESSIONÁRIA ao PODER CONCEDENTE e
+             por ele aprovados, além das demais disposições do EDITAL e do CONTRATO.
+         14.2.As instalações serão iniciadas após a aprovação dos projetos pelo PODER
+             CONCEDENTE e obtenção de eventuais licenças pertinentes, nos termos deste
+             CONTRATO e do TERMO DE REFERÊNCIA.
+         14.3.A CONCESSIONÁRIA declara e garante ao PODER CONCEDENTE que a qualidade
+             dos projetos, da execução das OBRAS e da prestação dos SERVIÇOS objeto da
+
+
+                                              Página 20 de 65
+           CONCESSÃO é e será, durante sua vigência, suficiente e adequada ao cumprimento do
+           CONTRATO e seus ANEXOS, responsabilizando-se integralmente por qualquer
+           desconformidade com os escopos e especificações técnicas mínimas estabelecidas no
+           presente CONTRATO e no TERMO DE REFERÊNCIA.
+      14.4.Quando da conclusão da execução das OBRAS, a CONCESSIONÁRIA deverá
+           solicitar ao PODER CONCEDENTE a realização de vistoria, que será efetuada, em
+           conjunto, pela fiscalização do PODER CONCEDENTE e pela CONCESSIONÁRIA.
+      14.5.A vistoria referida na subcláusula acima terá como finalidade a verificação da
+           conformidade das instalações com o TERMO DE REFERÊNCIA e com os projetos
+           elaborados pela CONCESSIONÁRIA.
+      14.6.Uma vez realizada a vistoria, o PODER CONCEDENTE manifestará sua objeção, ou
+           não, podendo determinar correções ou complementações que se fizerem necessárias
+           para atendimento das especificações previstas na subcláusula anterior.
+
+
+ CLÁUSULA 15.       DAS CONDIÇÕES DE PRESTAÇÃO DO SERVIÇO
+15.1.A prestação de SERVIÇOS deverá obedecer ao disposto na legislação pertinente, nas normas
+    complementares, nos padrões e nos procedimentos dispostos no presente CONTRATO e seus
+    ANEXOS, bem como no PLANO DE TRABALHO atendendo, ainda, ao QUADRO DE
+    INDICADORES DE DESEMPENHO (Anexo III).
+15.2.A presente CONCESSÃO ADMINISTRATIVA pressupõe a adequada prestação dos
+    SERVIÇOS, assim considerados aqueles que satisfizerem às condições de qualidade,
+    regularidade, eficiência, segurança, atualidade, generalidade, cortesia, equidade, modicidade
+    da contraprestação e continuidade, nos termos e condições da legislação, definidas como:
+      a)    regularidade: prestação dos SERVIÇOS nas condições estabelecidas no CONTRATO
+            e nas normas técnicas aplicáveis;
+     b)     continuidade:   manutenção, em caráter permanente e ininterrupto, da oferta dos
+            SERVIÇOS;
+     c)     eficiência: a execução dos SERVIÇOS de acordo com as normas técnicas aplicáveis e
+            em padrões satisfatórios estabelecidos na regulamentação aplicável, que assegurem,
+            qualitativa e quantitativamente, em caráter permanente, o cumprimento do
+            CONTRATO;
+     d)     atualidade: a modernidade das técnicas, dos equipamentos e das instalações, a sua
+            conservação e manutenção, bem como a melhoria, atualização e a expansão dos
+            serviços, na medida das necessidades dos USUÁRIOS FINAIS;
+
+
+
+
+                                            Página 21 de 65
+     e)      cortesia na prestação dos SERVIÇOS: conferir tratamento aos USUÁRIOS FINAIS
+             com civilidade e urbanidade, assegurando amplo acesso para a apresentação de
+             reclamações;
+     f)      modicidade da CONTRAPRESTAÇÃO: a justa correlação entre os encargos da
+             CONCESSÃO ADMINISTRATIVA, as receitas da CONCESSIONÁRIA e a
+             CONTRAPRESTAÇÃO paga pelo PODER CONCEDENTE.
+15.3.A qualidade dos SERVIÇOS será aferida pelo atendimento dos indicadores constantes do –
+    Termo de Referência do CONTRATO.
+15.4.Na prestação dos SERVIÇOS, a CONCESSIONÁRIA terá ampla liberdade na direção de seus
+    negócios, investimentos, pessoal e tecnologia, desde que observe o previsto neste CONTRATO
+    e seus ANEXOS, na legislação específica, nas normas regulamentares e nas instruções e
+    determinações do PODER CONCEDENTE.
+
+
+                     CAPÍTULO 7.       DAS RELAÇÕES COM TERCEIROS
+ CLÁUSULA 16.        DOS FINANCIAMENTOS
+16.1.A CONCESSIONÁRIA é responsável pela obtenção dos financiamentos necessários ao
+    normal desenvolvimento do serviço abrangido pela CONCESSÃO ADMINISTRATIVA, de
+    modo que se cumpram, total e tempestivamente, todas as obrigações assumidas neste
+    CONTRATO.
+16.2.Não havendo comprometimento da operacionalização e da continuidade do serviço, a
+    CONCESSIONÁRIA poderá oferecer em garantia, nos contratos de financiamento, os direitos
+    emergentes da CONCESSÃO ADMINISTRATIVA.
+    16.2.1. A CONCESSIONÁRIA poderá ceder à(s) instituição(ões) financiadora(s) seus
+             direitos creditórios relativos à CONTRAPRESTAÇÃO PECUNIÁRIA.
+          16.2.1.1. Como condição para a cessão referida na subcláusula 16.2.1 acima, a
+                 CONCESSIONÁRIA deverá atender às instruções do PODER CONCEDENTE,
+                 informá-lo acerca dos contratos de financiamento celebrados, bem como
+                 encaminhar-lhe cópia dos respectivos instrumentos, tão logo tenham sido
+                 assinados.
+    16.2.2. Os pagamentos efetuados diretamente pelo PODER CONCEDENTE à(s)
+             instituição(ões) financiadora(s) em decorrência da cessão dos direitos creditórios da
+             CONCESSIONÁRIA relativos à CONTRAPRESTAÇÃO PECUNIÁRIA, conforme
+             previsto na subcláusula acima, observarão os mesmos prazos e condições previstos
+             neste CONTRATO.
+  16.3. A CONCESSIONÁRIA poderá, ainda:
+
+
+                                             Página 22 de 65
+    16.3.1. nos contratos de mútuo de longo prazo, destinados a investimentos relacionados ao
+            CONTRATO, ceder ao mutuante, em caráter fiduciário, parcela de seus créditos
+            operacionais futuros, observados requisitos previstos no artigo 28-A da Lei Federal n°
+            8.987/95.
+    16.3.2. emitir obrigações, debêntures ou títulos financeiros similares que representem
+            obrigações de sua responsabilidade, em favor de terceiros.
+  16.4. As ações correspondentes ao controle da CONCESSIONÁRIA poderão ser dadas em
+        garantia de financiamentos ou como contra garantia de operações vinculadas ao
+        cumprimento de obrigações decorrentes do Contrato, desde que o PODER CONCEDENTE
+        seja previamente notificado, observado o disposto neste CONTRATO.
+  16.5. A CONCESSIONÁRIA não poderá alegar qualquer disposição, cláusula ou condição do(s)
+        contrato(s) de financiamento, ou qualquer atraso no desembolso dos recursos, para se
+        eximir, total ou parcialmente, das obrigações assumidas neste CONTRATO, cujos termos
+        reputar-se-ão de pleno conhecimento da(s) instituição(ões) financiadora(s).
+  16.6. As indenizações devidas à CONCESSIONÁRIA no caso de extinção antecipada do
+        CONTRATO e os pagamentos a serem efetuados pelo AGENTE FINANCEIRO
+        INDEPENDENTE, poderão ser pagos ou efetivados diretamente à(s) instituição(ões)
+        financiadora(s).
+
+
+ CLÁUSULA 17.         DOS CONTRATOS DA CONCESSIONÁRIA COM TERCEIROS
+17.1.Sem prejuízo das responsabilidades e dos riscos previstos neste CONTRATO, a
+    CONCESSIONÁRIA poderá contratar com terceiros o desenvolvimento de atividades
+    inerentes, acessórias ou complementares aos SERVIÇOS, bem como a implantação de projetos
+    associados, desde que não ultrapassem o prazo da CONCESSÃO ADMINISTRATIVA.
+17.2.A CONCESSIONÁRIA se responsabiliza perante o PODER CONCEDENTE que só serão
+    contratados, para desenvolver atividades inerentes, acessórias ou complementares, terceiros
+    com capacidade técnica e profissional adequadas e que se encontrem devidamente licenciados
+    e autorizados, quando for o caso.
+  17.3. Os contratos de que trata esta cláusula serão regidos pelo Direito Privado e, no que se refere
+        aos seus empregados, pela legislação trabalhista, não se estabelecendo relação jurídica
+        alguma entre os terceiros e o PODER CONCEDENTE.
+  17.4. A contratação de terceiros para execução de OBRAS e SERVIÇOS não elide a
+        responsabilidade da CONCESSIONÁRIA pelo cumprimento das cláusulas contratuais,
+        legais e regulamentares aplicáveis.
+
+
+
+
+                                              Página 23 de 65
+    17.4.1. A CONCESSIONÁRIA não poderá alegar ato ou fato decorrente desses contratos para
+            pleitear ou reivindicar do PODER CONCEDENTE qualquer alteração no
+            cumprimento de suas obrigações, ressarcimento de prejuízos ou perda de benefícios.
+
+
+              CAPÍTULO 8.         DOS DIREITOS E OBRIGAÇÕES DAS PARTES
+CLÁUSULA 18.           DAS      PRERROGATIVAS               E      OBRIGACÕES    DO    PODER
+   CONCEDENTE E DO CONTRATANTE
+18.1.O PODER CONCEDENTE, sem prejuízo e adicionalmente a outros direitos previstos na
+    legislação aplicável, terá direito a:
+    18.1.1. Receber todas as receitas decorrentes de crédito de carbono pela implantação do
+            projeto.
+    18.1.2. Intervir na prestação dos SERVIÇOS, retomá-los e extingui-los, nos casos e nas
+            condições previstas neste CONTRATO e na legislação aplicável;
+    18.1.3. Delegar, total ou parcialmente, as competências de regulação, supervisão e
+            fiscalização do CONTRATO à ARSESP podendo vir a ser substituída por outro ente
+            ou órgão da Administração Pública, conforme legislação pertinente.
+   18.2. Incumbem ao PODER CONCEDENTE as seguintes obrigações:
+      18.2.1. cumprir e fazer cumprir as disposições e as condições do EDITAL e deste
+              CONTRATO;
+      18.2.2. efetuar, nos     prazos       estabelecidos   no CONTRATO, os      pagamentos   da
+              CONTRAPRESTAÇÃO PECUNIÁRIA devida à CONCESSIONÁRIA, nos termos
+              deste CONTRATO.
+      18.2.3. aprovar a revisão da CONTRAPRESTAÇÃO, na forma prevista neste CONTRATO
+              e nos termos da legislação aplicável,
+      18.2.4. avaliar e decidir a respeito dos pedidos de recomposição do equilíbrio econômico-
+              financeiro do CONTRATO;
+      18.2.5. apreciar e aprovar propostas para percepção de RECEITAS ACESSÓRIAS
+              provenientes da prestação de serviços alternativos, complementares, acessórios ou
+              projetos associados;
+      18.2.6. regulamentar os SERVIÇOS e fiscalizar a sua prestação pela CONCESSIONÁRIA,
+              zelando pela sua boa qualidade;
+      18.2.7. aplicar as penalidades legais, regulamentares e contratuais;
+      18.2.8. receber, apurar e solucionar as queixas e reclamações dos USUÁRIOS FINAIS, que
+              serão cientificados das providências tomadas;
+
+
+
+
+                                                 Página 24 de 65
+    18.2.9. estimular o aumento da qualidade e o incremento da produtividade dos SERVIÇOS
+             prestados pela CONCESSIONÁRIA;
+    18.2.10. fiscalizar as condições dos serviços vinculados à CONCESSÃO em vistorias
+             sistemáticas;
+    18.2.11. pagar à CONCESSIONÁRIA, as indenizações previstas na legislação aplicável e
+             neste CONTRATO, quando devidas, decorrentes das hipóteses de extinção da
+             CONCESSÃO ADMINISTRATIVA;
+    18.2.12. realizar   auditorias    periódicas   nas   contas     e    registros   contábeis   da
+             CONCESSIONÁRIA;
+    18.2.13. fiscalizar o desenvolvimento das ações da CONCESSIONÁRIA, para que sejam
+             garantidas boas condições de saúde à população e ao meio ambiente;
+    18.2.14. auxiliar e apoiar a CONCESSIONÁRIA no relacionamento com os demais
+             prestadores de serviços públicos, com as demais autoridades municipais, estaduais e
+             federais, e com os USUÁRIOS FINAIS, buscando facilitar o cumprimento das
+             obrigações previstas neste CONTRATO;
+    18.2.15. adotar as medidas e praticar os atos necessários para colaborar com a
+             CONCESSIONÁRIA na obtenção de financiamentos para prestação dos
+             SERVIÇOS;
+   18.3. Incumbem ao CONTRATANTE as seguintes obrigações:
+    18.3.1. cumprir e fazer cumprir as disposições e as condições do EDITAL e deste
+             CONTRATO;
+    18.3.2. representar o PODER CONCEDENTE com exclusividade, para todos os fins da
+             CONCESSÃO ADMINISTRATIVA;
+    18.3.3. efetuar, nos prazos estabelecidos no CONTRATO, o repasse dos pagamentos da
+             CONTRAPRESTAÇÃO PECUNIÁRIA devida à CONCESSIONÁRIA, nos termos
+             deste CONTRATO, podendo, para este fim, receber as faturas em nome próprio na
+             qualidade de representante do PODER CONCEDENTE;
+    18.3.4. representar os MUNICÍPIOS em todos os contratos necessários para o cumprimento
+             das obrigações do PODER CONCEDENTE, inclusive a contratação do
+             VERIFICADOR             INDEPENDENTE        e     do       AGENTE       FINANCEIRO
+             INDEPENDENTE.
+
+
+ CLÁUSULA 19.       DOS DIREITOS E OBRIGACÕES DA CONCESSIONÁRIA
+19.1.Incumbe à CONCESSIONÁRIA respeitar e fazer valer os termos do EDITAL e do
+   CONTRATO, devendo atender as metas e objetivos da CONCESSÃO ADMINISTRATIVA.
+
+
+                                             Página 25 de 65
+19.2.São direitos da CONCESSIONÁRIA, sem prejuízo e adicionalmente a outros previstos na
+    legislação vigente:
+     19.2.1. prestar e explorar os SERVIÇOS, com ampla liberdade empresarial e de gestão de suas
+            atividades, desde que tal liberdade não contrarie o disposto neste CONTRATO e
+            demais normas legais aplicáveis;
+     19.2.2. receber a CONTRAPRESTAÇÃO devida na forma deste CONTRATO;
+     19.2.3. que seja mantido o equilíbrio econômico-financeiro do CONTRATO;
+     19.2.4. oferecer os direitos emergentes da CONCESSÃO ADMINISTRATIVA em garantia
+            nos contratos de financiamento, até o limite que não comprometa a operacionalização
+            e a continuidade da prestação dos SERVIÇOS, observado o disposto na Cláusula 18;
+   19.3. São deveres da CONCESSIONÁRIA:
+         19.3.1. prestar os SERVIÇOS adequadamente, na forma prevista no EDITAL e no
+                CONTRATO, e nas demais disposições técnicas aplicáveis;
+         19.3.2. captar, aplicar e gerir os recursos financeiros necessários à prestação dos
+                SERVIÇOS;
+         19.3.3. manter em situação regular os encargos tributários, trabalhistas, previdenciários e
+                comerciais resultantes deste CONTRATO;
+         19.3.4. publicar suas demonstrações financeiras, na forma da lei;
+         19.3.5. apresentar até 30 de abril de cada ano, atendendo às disposições da Lei n°
+                6.404/1976, as demonstrações financeiras relativas ao exercício encerrado em 31
+                de dezembro do ano anterior, incluindo, dentre outros, o relatório da
+                administração, o balanço patrimonial, demonstração dos lucros ou prejuízos
+                acumulados, a demonstração de resultados do exercício e a demonstração dos
+                fluxos de caixa, as notas explicativas do balanço, parecer dos auditores
+                independentes, a Demonstração do Valor Adicionado e Parecer do Conselho
+                Fiscal, quando existente;
+         19.3.6. executar todos os serviços, atividades e obras relativas à CONCESSÃO
+                ADMINISTRATIVA com zelo, diligência e economia, devendo sempre utilizar a
+                melhor técnica aplicável a cada uma das tarefas desempenhadas e obedecendo
+                rigorosamente as normas, padrões e especificações estabelecidas pelo PODER
+                CONCEDENTE;
+         19.3.7. responder civil, administrativa e criminalmente, por quaisquer danos e/ou
+                prejuízos causados durante a prestação dos SERVIÇOS, por si, por seus prepostos
+                ou por terceiros contratados, ao PODER CONCEDENTE, aos USUÁRIOS
+                FINAIS ou a terceiros;
+
+
+                                             Página 26 de 65
+     19.3.8. contratar e manter vigente a GARANTIA DE EXECUÇÃO DO CONTRATO,
+                bem como os seguros, nos termos deste CONTRATO;
+     19.3.9. garantir que todos os equipamentos e veículos utilizados na prestação dos
+                SERVIÇOS atendam permanentemente às suas funções com elevado padrão de
+                qualidade e de modernidade, não devendo, em qualquer momento, ter idade
+                superior às suas respectivas vidas úteis informadas para efeitos de depreciação;
+     19.3.10. manter à disposição do PODER CONCEDENTE os documentos, projetos,
+                registros contábeis e demais informações técnicas, operacionais e financeiras
+                relativas à CONCESSÃO;
+     19.3.11. manter contabilidade específica das RECEITAS ACESSÓRIAS;
+     19.3.12. permitir aos encarregados pela fiscalização de PODER CONCENDENTE o seu
+                livre acesso, em qualquer época, às obras, aos equipamentos e às instalações
+                vinculadas à CONCESSÃO ADMINISTRATIVA;
+     19.3.13. garantir que seus empregados e agentes, bem como que suas contratadas, sejam
+                registrados perante as repartições competentes e utilizem equipamentos de
+                proteção individual e coletiva necessários ao seguro desempenho de suas funções,
+                em conformidade com as leis trabalhistas vigentes;
+     19.3.14. garantir que seus empregados e agentes, bem como que suas contratadas, usem
+                uniforme com vestimentas fechadas, calçados padronizados, crachá indicativo
+                visível de suas funções e estejam instruídos a prestar apoio à ação da autoridade
+                competente;
+     19.3.15. prestar, no prazo determinado, as informações que lhe forem solicitadas por
+                PODER CONCEDENTE;
+  19.4. A CONCESSIONÁRIA deverá empenhar-se para evitar transtornos aos USUÁRIOS
+      FINAIS, bem como para cooperar com os programas criados pelo PODER
+      CONCEDENTE ou por outro ente público, para melhorar e ampliar os SERVIÇOS na
+      ÁREA DA CONCESSÃO, em especial aos relacionados com reciclagem e redução de
+      massa, nos termos deste CONTRATO e dos Planos Municipais de Resíduos Sólidos.
+
+
+CLÁUSULA 20.        DOS DIREITOS E OBRIGACÓES DOS USUÁRIOS FINAIS
+      20.1.         É obrigação e direito dos USUÁRIOS FINAIS, fazer valer o disposto no
+      EDITAL e no presente CONTRATO, além do disposto na legislação aplicável.
+      20.2.         São direitos dos USUÁRIOS FINAIS:
+      20.2.1.       receber os SERVIÇOS em condições adequadas;
+
+
+
+
+                                            Página 27 de 65
+      20.2.2.      receber do PODER CONCEDENTE informações, sobre as condições de
+      prestação dos SERVIÇOS, bem como de seu custeio, necessárias para a defesa dos
+      interesses individuais ou coletivos;
+      20.2.3.      fruição permanente dos SERVIÇOS com padrões de qualidade, continuidade
+      e regularidade adequados a sua natureza;
+      20.2.4.      não ser discriminado quanto às condições de acesso e prestação dos
+      SERVIÇOS, respeitada a disciplina geral de prestação de SERVIÇOS;
+      20.2.5.      ter acesso às políticas públicas de minimização dos resíduos, de coletiva
+      seletiva, de reaproveitamento econômico dos resíduos;
+      20.2.6.      obter resposta, em prazo razoável, das reclamações dirigidas à
+      CONCESSIONÁRIA, ao PODER CONCEDENTE ou ao ENTE REGULADOR.
+      20.3.        São deveres dos USUÁRIOS FINAIS:
+                20.3.1.   observar e cumprir as normas emitidas pelas autoridades competentes;
+                20.3.2.   pagar pela prestação dos serviços nos termos previstos legalmente;
+                20.3.3.   respeitar as condições e horários de prestação dos SERVIÇOS
+                estabelecidos na regulamentação;
+                20.3.4.   obedecer às regras relativas à destinação final dos resíduos sólidos, na
+                forma da lei e regulamentação;
+                20.3.5.   zelar pela preservação dos bens públicos relativos aos SERVIÇOS,
+                bem como contribuir para a permanência de suas boas condições;
+                20.3.6.   levar ao conhecimento do PODER CONCEDENTE as irregularidades
+                das quais venham a ter conhecimento, referentes à CONCESSÃO;
+                20.3.7.   comunicar ao PODER CONCEDENTE os atos ilícitos ou irregulares
+                porventura praticados pela CONCESSIONÁRIA ou seus prepostos na execução
+                do CONTRATO de que tenham conhecimento;
+
+
+CLÁUSULA 21.       DA PROTECÃO AMBIENTAL
+      21.1.A CONCESSIONÁRIA obriga-se a cumprir o disposto na legislação vigente relativa
+      às normas de proteção ambiental.
+      21.2.        A CONCESSIONÁRIA deverá se submeter às medidas adotadas pelas
+      autoridades ambientais, no âmbito das respectivas competências, observando sempre o
+      equilíbrio econômico-financeiro deste CONTRATO e suas cláusulas e condições.
+      21.3.        O USUÁRIO FINAL e o PODER CONCEDENTE poderão ser
+      responsabilizados pelo passivo ambiental, decorrente de material contaminante constante
+
+
+
+
+                                             Página 28 de 65
+       nos resíduos sólidos entregues na Central de Tratamento, ficando a CONCESSIONÁRIA
+       isenta de qualquer responsabilidade.
+       21.4.       Na hipótese de determinação da autoridade ambiental para adaptação à
+       legislação aplicável, em prazos ou condições diferentes dos prazos e metas fixados para
+       esta CONCESSÃO, o CONTRATO deverá ser revisto, com vistas à recomposição do
+       equilíbrio econômico-financeiro.
+       21.5.       A CONCESSIONÁRIA será responsável pela regularização dos passivos
+       ambientais originados após a assinatura do CONTRATO e decorrentes de sua atuação.
+
+
+               CAPÍTULO 9.    DA REMUNERAÇÃO DA CONCESSIONÁRIA
+CLÁUSULA 22.       DA CONTRAPRESTAÇÃO PECUNIÁRIA MENSAL
+22.1.A CONCESSIONÁRIA será remunerada por meio de CONTRAPRESTAÇÃO
+    PECUNIÁRIA MENSAL devida pelo PODER CONCEDENTE, pelo volume apropriado ao
+    mês combinado com o valor de R$ 94,00 por tonelada de resíduo sólido recebido na Central
+    de Tratamento, conforme indicado na PROPOSTA ECONÔMICA da CONCESSIONÁRIA,
+    a ser paga a partir do início da prestação dos SERVIÇOS.
+22.2.A CONCESSIONÁRIA fará jus ao recebimento da CONTRAPRESTAÇÃO PECUNIÁRIA
+    MENSAL, pelo volume médio medido à Central de Tratamento nos termos previstos no
+    presente CONTRATO e no seu Anexo III.
+22.3.A CONTRAPRESTAÇÃO PECUNIÁRIA MENSAL será paga por meio de ordem bancária.
+22.4.O valor da CONTRAPRESTAÇÃO PECUNIÁRIA                      MENSAL a        ser pago à
+    CONCESSIONÁRIA poderá ser inferior ao valor indicado na PROPOSTA ECONÔMICA
+    em razão do não cumprimento integral dos índices constantes do Termo de Referência,
+    conforme resultar da aferição feita pela fiscalização do PODER CONCEDENTE ou do
+    VERIFICADOR INDEPENDENTE.
+ 22.4.1. A aferição dos índices de atendimento será feita trimestralmente pelo VERIFICADOR
+        INDEPENDENTE, que deverá até 15 dias antes do vencimento do trimestre a vencer,
+        emitir relatório do qual constará a condição de atendimento pela CONCESSIONÁRIA.
+ 22.4.2. Sobre as eventuais diferenças pagas a maior ou a menor à CONCESSIONÁRIA incidirá
+        correção monetária calculada com base no mesmo índice adotado para o reajuste da
+        CONTRAPRESTAÇÃO PECUNIÁRIA MENSAL, até a data em que se efetivar a
+        compensação.
+ 22.4.3. Inexistindo contratação de VERIFICADOR INDEPENDENTE pelo CONTRATANTE,
+        prevalecerá o mecanismo de aferição do desempenho da CONCESSIONÁRIA pelas
+
+
+
+
+                                          Página 29 de 65
+         próprias equipes do PODER CONCEDENTE, através de relatórios emitidos pela
+         CONCESSIONÁRIA a serem auditados.
+  22.4.4. O PODER CONCEDENTE, dentro de suas atribuições legais, poderá verificar a
+         exatidão do processo de aferição, bem como o integral atendimento das obrigações do
+         VERIFICADOR INDEPENDENTE previstas no contrato celebrado por este com o
+         PODER CONCEDENTE.
+22.5. Uma vez realizado o processo de aferição do desempenho previsto na subcláusula 22.4.1, a
+     CONCESSIONÁRIA emitirá documento conforme legislação vigente correspondente à
+     CONTRAPRESTAÇÃO PECUNIÁRIA MENSAL referente ao mês anterior vencido.
+     22.5.1. Para os fins de pagamento, a CONCESSIONÁRIA deverá apresentar ao PODER
+     CONCEDENTE os documentos necessários referentes ao mês vencido, conjuntamente com
+     cópia do certificado emitido pelo VERIFICADOR INDEPENDENTE, sendo o caso, o
+     relatório elaborado pela CONCESSIONÁRIA contendo os relatórios emitidos no período,
+     conforme previsto na subcláusula
+    22.5.1.1. Como condição para o recebimento mensal da CONTRAPRESTAÇÃO
+           PECUNIÁRIA, além da documentação referida na subcláusula acima, a
+           CONCESSIONÁRIA deverá comprovar ao PODER CONCEDENTE sua regularidade
+           para com o INSS, o FGTS, a Dívida Ativa da União e as Fazendas Municipal, Estadual
+           e Federal.
+  22.5.2. A entrega da documentação será confirmada pelo PODER CONCEDENTE, por meio
+         de protocolo de recebimento, sendo que o pagamento da CONTRAPRESTAÇÃO
+         PECUNIÁRIA MENSAL será feito em 5 (cinco) dias úteis contados do recebimento da
+         documentação.
+  22.5.3. O comprovante de pagamento, bem como a cópia dos documentos da
+         CONCESSIONÁRIA,            será    encaminhado       ao    AGENTE      FINANCEIRO
+         INDEPENDENTE.
+22.6. Caso a CONCESSIONÁRIA tenha cedido à(s) instituição(ões) financeira(s) seus direitos
+     creditórios relativos à CONTRAPRESTAÇÃO PECUNIÁRIA MENSAL, os pagamentos
+     respectivos serão efetuados pelo PODER CONCEDENTE diretamente a esta(s) ou a quem
+     esta(s) indicarem.
+     22.6.1. O pagamento da CONTRAPRESTAÇÃO PECUNIÁRIA MENSAL será feito
+            mediante      crédito   das    importâncias      correspondentes   em   favor   da
+            CONCESSIONÁRIA, em conta corrente mantida junto ao banco por esta indicado
+            ao PODER CONCEDENTE, valendo o respectivo aviso de crédito emitido pelo
+            banco como recibo.
+
+
+                                           Página 30 de 65
+    22.6.2. Na data de efetivação do pagamento da CONTRAPRESTAÇÃO PECUNIÁRIA
+           MENSAL, o PODER CONCEDENTE encaminhará à CONCESSIONÁRIA e ao
+           AGENTE FINANCEIRO INDEPENDENTE, cópia do respectivo aviso de crédito
+           emitido pelo banco, conforme previsto na subclásula precedente.
+    22.6.3. O não pagamento do valor devido à CONCESSIONÁRIA pelo PODER
+           CONCEDENTE faculta àquela o acionamento das garantias, nos termos da Cláusula
+           30 do CONTRATO.
+    22.6.4. Sem prejuízo do direito da CONCESSIONÁRIA de acionar a garantia prevista na
+           Cláusula 30 deste CONTRATO, poderá esta efetuar a compensação do débito, até o
+           limite possível, com a parcela de ganhos a serem compartilhados que eventualmente
+           couber ao PODER CONCEDENTE, nos termos da Cláusula 34.
+
+
+CLÁUSULA 23.      DO REAJUSTE DA CONTRAPRESTACÃO
+   23.1.   A CONTRAPRESTAÇÃO será reajustada anualmente, ou na menor periodicidade
+   permitida por lei, pelo Índice de Preços ao Consumidor Amplo (IPCA), publicado pela
+   Fundação Getúlio Vargas, ou outro que venha a o suceder.
+   23.2.   O primeiro reajuste será aplicado à CONTRAPRESTAÇÃO na data de pagamento
+   da primeira CONTRAPRESTAÇÃO, considerando a data base da Proposta e os demais
+   reajustes serão aplicados a cada período de 12 (doze) meses contados do último reajuste
+   ocorrido.
+
+
+CLÁUSULA 24.      DA REVISÃO
+    24.1. Sempre que ocorrerem uma das hipóteses previstas na Cláusula 32, a
+    CONCESSIONÁRIA fará jus à recomposição do equilíbrio econômico-financeiro do
+    CONTRATO, desde que respeitada a alocação de riscos nele prevista.
+
+
+CLÁUSULA 25.      DA REVISÃO DAS CONDIÇÕES DO CONTRATO
+   25.1.   Sem prejuízo do disposto na Cláusula 32, será realizada, a cada 4 anos, revisão com
+   o intuito de reavaliar o Termo de Referência, bem como do PLANO DE TRABALHO para
+   compatibilizar tais documentos às reais necessidades advindas da dinâmica da prestação dos
+   SERVIÇOS.
+
+
+CLÁUSULA 26.      DAS RECEITAS ACESSÓRIAS
+     26.1. A CONCESSIONÁRIA poderá explorar fontes de RECEITAS ACESSÓRIAS, ou
+     de projetos associados nas áreas integrantes da CONCESSÃO ADMINISTRATIVA,
+
+
+                                         Página 31 de 65
+    utilizáveis para a obtenção de qualquer espécie de receita, desde que tal exploração não
+    comprometa os padrões de qualidade previstos nas normas e procedimentos integrantes do
+    CONTRATO, estejam de acordo com a legislação ambiental vigente e seja previamente
+    autorizada pelo PODER CONCEDENTE.
+     26.2. As receitas provenientes da prestação de serviços alternativos, complementares,
+     acessórios ou de projetos associados deverão ser contabilizadas pela CONCESSIONÁRIA
+     de modo a permitir sua exata identificação e diferenciação em relação às demais receitas
+     por ela auferidas.
+     26.3. A proposta de exploração de RECEITAS ACESSÓRIAS deverá ser apresentada pela
+     CONCESSIONÁRIA ao PODER CONCEDENTE, acompanhada de projeto de viabilidade
+     jurídica, técnica e econômico-financeira, bem como da comprovação da compatibilidade
+     da exploração comercial pretendida com as normas legais.
+     26.4. Uma vez aprovada pelo PODER CONCEDENTE, a CONCESSIONÁRIA deverá
+     manter    contabilidade   específica    de   cada    contrato   gerador   das   RECEITAS
+     ALTERNATIVAS, com detalhamento das receitas, custos e resultados líquidos.
+     26.5. São consideradas fontes de RECEITAS ACESSÓRIAS, dentre outras:
+        26.5.1.   aproveitamento energético dos resíduos sólidos;
+        26.5.2.   a utilização econômica dos resíduos coletados;
+        26.5.3.   outras receitas previstas em lei e neste CONTRATO.
+
+
+CLÁUSULA 27.      DOS RECURSOS DE PODER CONCEDENTE PARA PAGAMENTO
+   DA CONTRAPRESTAÇÃO
+     27.1. As despesas decorrentes da execução deste CONTRATO correrão por conta da
+     dotação orçamentária: ficha 33 - funcional 18.130.0010.2012.0000 - natureza 3.3.90.39, no
+     exercício de 2021.
+    27.2. Os recursos para o pagamento da CONTRAPRESTAÇÃO PECUNIÁRIA
+    MENSAL, pelo PODER CONCEDENTE, durante a vigência do CONTRATO, advirão de
+    dotações orçamentárias específicas, a serem incluídas nos orçamentos municipais dos
+    exercícios seguintes.
+
+
+CLÁUSULA 28.      DA GARANTIA DE PAGAMENTO DO PODER CONCEDENTE
+   28.1.   O PODER CONCEDENTE obriga-se a assegurar os recursos orçamentários
+   necessários ao pagamento da CONTRAPRESTAÇÃO PECUNIÁRIA MENSAL, nos termos
+   da Cláusula 27, incluindo na proposta orçamentária anual dotação específica em valor
+   suficiente para suportar o pagamento da CONTRAPRESTAÇAO PECUNIÁRIA MENSAL
+
+
+                                            Página 32 de 65
+para o exercício subsequente, bem como vetar alterações em referida proposta que ou
+restrinjam a dotação destinada ao pagamento da CONTRAPRESTAÇÃO PECUNIÁRIA e
+não efetuar o contingenciamento de tais recursos.
+ 28.2. O PODER CONCEDENTE oferecerá GARANTIA DE PAGAMENTO por meio da
+ transferência do valor de XXXX, correspondente a 03 (TRÊS) vezes o valor da
+ CONTRAPRESTAÇÃO, para a conta vinculada _________.
+ 28.3. A conta vinculada receberá recursos advindos do repasse dos valores recebidos a
+ título de garantia das CONTRAPRESTAÇÕES pelos MUNICÍPIOS participantes.
+ 28.4. A       conta     vinculada     será     administrada    por   AGENTE      FINANCEIRO
+ INDEPENDENTE a ser contratado pelo CONTRATANTE.
+ 28.5.     O    AGENTE         FINANCEIRO           INDEPENDENTE        será   autorizado,   pelo
+ CONTRATANTE, a manter os valores depositados referentes à participação de cada um
+ dos MUNICÍPIOS e centralizá-los em conta específica, bem como repassá-los para conta
+ vinculada de pagamento da CONCESSÃO ADMINISTRATIVA, no caso de
+ inadimplência.
+ 28.5. Na hipótese de inadimplemento por parte do PODER CONCEDENTE no pagamento
+ da CONTRAPRESTAÇÃO PECUNIÁRIA, a CONCESSIONÁRIA poderá, decorridos o
+ prazo de 10 (dez) dias da data prevista para o pagamento, notificar o PODER
+ CONCEDENTE para que o faça no prazo de 5 (cinco) dias.
+ 28.5. Não ocorrendo o pagamento espontâneo, a CONCESSIONÁRIA poderá solicitar
+ diretamente do AGENTE FINANCEIRO INDEPENDENTE, investido de poderes de
+ representação         conferidos    conjuntamente      pelo    PODER   CONCEDENTE           e   a
+ CONCESSIONÁRIA, conforme disciplinado em instrumento próprio, a transferência dos
+ recursos, no valor necessário para a satisfação da obrigação inadimplida, para a conta
+ corrente indicada pela CONCESSIONÁRIA.
+ 28.6. Na hipótese da cláusula acima, a CONCESSIONÁRIA deverá comunicar ao PODER
+ CONCEDENTE a realização do pagamento e requerer o reestabelecimento da
+ GARANTIA DE PAGAMENTO na conta vinculada.
+ 28.7. Após a notificação, o PODER CONCEDENTE terá o prazo máximo de 30 (trinta)
+ dias para reestabelecer a GARANTIA DE PAGAMENTO no montante equivalente às
+ parcelas ressarcidas.
+ 28.8. A GARANTIA DE PAGAMENTO será conferida à CONCESSIONÁRIA,
+ independentemente de qualquer anuência prévia do PODER CONCEDENTE.
+
+
+
+
+                                              Página 33 de 65
+     28.9. O PODER CONCEDENTE poderá alterar a forma de GARANTIA DE
+     PAGAMENTO prevista neste CONTRATO por qualquer outra admitida em lei, após
+     concordância expressa da CONCESSIONÁRIA.
+     28.10.       A GARANTIA DE PAGAMENTO deverá ser mantida pelo PODER
+     CONCEDENTE, até a extinção do CONTRATO e o respectivo pagamento de todas as
+     indenizações devidas à CONCESSIONÁRIA, em decorrência da referida extinção.
+     28.11.       A CONCESSIONÁRIA poderá, de forma fundamentada e motivada, solicitar
+     ao PODER CONCEDENTE a substituição da GARANTIA DE PAGAMENTO oferecida.
+     28.12.       GARANTIA DE PAGAMENTO será formalizada mediante assinatura do
+     CONTRATO DE GARANTIA, conformes as disposições mínimas contidas no Anexo VI.
+
+
+CAPÍTULO 10.       DO DESEMPENHO DA CONCESSIONÁRIA NA EXECUÇÃO DOS
+                                       SERVIÇOS
+CLÁUSULA 29.      DOS INDICADORES DE DESEMPENHO
+    29.1. OS INDICADORES DE DESEMPENHO, constante do Anexo III – Termo de
+    Referência dos Serviços, será utilizado para aferir o desempenho da CONCESSIONÁRIA,
+    permitindo ao PODER CONCEDENTE monitorar a qualidade do serviço prestado,
+    mensurar o valor da CONTRAPRESTAÇÃO PECUNIÁRIA a ser paga, a cada mês, à
+    CONCESSIONÁRIA, e aplicar, quando cabível, as sanções pertinentes.
+    29.2. A CONCESSIONÁRIA arcará com todos os custos necessários ao atendimento dos
+    parâmetros mínimos de performance previstos nos INDICADORES DE DESEMPENHO.
+    29.3. O conteúdo do Termo de Referência e seus INDICADORES DE DESEMPENHO
+    poderá ser revisto, a qualquer tempo, pelo PODER CONDENTE na ocorrência das
+    seguintes hipóteses:
+         29.3.1. utilização de índices de desempenho inaplicáveis à CONCESSÃO
+         ADMINISTRATIVA;
+         29.3.2. utilização de índices de desempenho ineficazes para proporcionar ao serviço
+         a qualidade mínima exigida;
+         29.3.3. exigência, pelo PODER CONCEDENTE, de novos padrões de desempenho
+         motivados pelo surgimento de inovações tecnológicas ou adequações a padrões
+         internacionais;
+    29.4. Na hipótese de a CONCESSIONÁRIA ficar impedida de atingir as metas, total ou
+    parcialmente, por motivos não imputáveis à CONCESSIONÁRIA, o PODER
+    CONCEDENTE promoverá a redução proporcional dos objetivos e metas da
+    CONCESSÃO, limitada à parcela do serviço em que a CONCESSIONÁRIA for impedida
+
+
+                                        Página 34 de 65
+    de prestar, sem prejuízo de cumprimento, se for o caso, das demais disposições deste
+    CONTRATO aplicáveis à espécie, observada a manutenção do equilíbrio econômico-
+    financeiro do CONTRATO.
+
+
+CLÁUSULA 30.       DO VERIFICADOR INDEPENDENTE
+    30.1. O       VERIFICADOR        INDEPENDENTE,             que   poderá   contratado   pelo
+    CONTRATANTE, nos termos da legislação vigente, será responsável pela aferição do
+    desempenho da CONCESSIONÁRIA.
+         30.1.1    O CONTRATANTE responsabilizar-se-á pelo pagamento da remuneração
+         devida ao VERIFICADOR INDEPENDENTE, a título de contraprestação pelos
+         serviços prestados no âmbito do respectivo contrato celebrado com o mesmo.
+     30.2. As divergências entre as avaliações obtidas pela CONCESSIONÁRIA e o
+     VERIFICADOR INDEPENDENTE serão objeto de discussão e acertos no prazo de 30
+     (trinta) dias contados a partir da conclusão da análise do VERIFICADOR
+     INDEPENDENTE.
+         30.2.1. Se no prazo previsto na subcláusula acima, não houver acerto prevalecerá a
+         análise do VERIFICADOR INDEPENDENTE.
+     30.3. Caso, no curso da execução do CONTRATO, seja eventualmente comprovada
+     circunstância que comprometa a situação de independência do VERIFICADOR
+     INDEPENDENTE em face do PODER CONCEDENTE ou da CONCESSIONÁRIA, no
+     cumprimento de suas atribuições, será este substituído, respondendo pelo fato na forma da
+     lei e do respectivo contrato celebrado com o PODER CONCEDENTE.
+
+
+CLÁUSULA 31.       DA REPARTIÇÃO DOS RISCOS E SUA MITIGAÇÃO
+     31.1. Os riscos decorrentes da execução da CONCESSÃO ADMINISTRATIVA serão
+     alocados ao PODER CONCEDENTE e à CONCESSIONÁRIA consoante as disposições
+     contidas nesta cláusula. Somente caberá reequilíbrio econômico-financeiro do
+     CONTRATO nos casos em que a ocorrência dos fatos indicados abaixo resultar em
+     variação do fluxo de caixa projetado do empreendimento, observada necessariamente a
+     distribuição de riscos aqui prevista.
+      31.2.        Constituem riscos suportados exclusivamente pelo PODER CONCEDENTE,
+      que poderão ensejar REEQUILÍBRIO ECONÔMICO-FINANCEIRO DO CONTRATO:
+          31.2.1. Mudanças nas especificações dos SERVIÇOS por solicitação do PODER
+          CONCEDENTE, bem como as decorrentes de revisões ou alterações no plano
+          municipal de gestão integrada de resíduos sólidos ou no plano de gerenciamento de
+
+
+                                             Página 35 de 65
+resíduos sólidos um ou mais MUNICÍPIOS, nova legislação ou regulamentações
+públicas brasileiras;
+31.2.2. Incorporação de novas tecnologias ao SERVIÇO, solicitadas pelo PODER
+CONCEDENTE ou determinados por força de lei ou regulação;
+31.2.3. Qualquer modificação unilateral do CONTRATO de CONCESSÃO
+ADMINISTRATIVA, imposta pelo CONTRATANTE, incluídos aí a alteração de
+quantidade de municípios integrantes do Projeto;
+31.2.4. Ações ou omissões ilícitas do PODER CONCEDENTE ou de quem o
+represente;
+31.2.5. Redução de custos da CONCESSIONÁRIA, decorrente de incentivos ou
+facilidades de qualquer gênero oferecidos pelo PODER CONCEDENTE, demais
+entes da Federação ou entidades integrantes de sua administração indireta, tais como,
+linhas de crédito especiais, benefícios oriundos da celebração de convênios, de
+incentivos fiscais, de facilidades tecnológicas oferecidas, de transferência de
+conhecimento, de disponibilização ou subsídio de serviços necessários ao
+funcionamento da Central de Tratamento e Geração de Energia (CTGE) sem ônus
+para a CONCESSIONÁRIA, dentre outros;
+31.2.6. Mudança na legislação tributária que altere custos da obra, custos
+operacionais ou custos de manutenção de equipamentos, exceto imposto incidente
+sobre a renda ou receita bruta total;
+31.2.7. Ocorrência de eventos de força maior ou caso fortuito, exceto quando possa
+ser contratado seguro, em condições comerciais, junto a instituições seguradoras, no
+mercado brasileiro, na data da ocorrência ou quando houver apólices vigentes que
+cubram o evento;
+31.2.8. Atrasos decorrentes da não obtenção de autorizações, licenças e permissões
+de órgãos da Administração Pública Federal, Estadual e Municipal exigidas para
+construção ou operação do objeto deste CONTRATO, exceto se decorrente de fato
+imputável à CONCESSIONÁRIA;
+31.2.9. Alterações legais em leis federais/estaduais/municipais que tenham
+implicação direta com o OBJETO do CONTRATO, além daquelas referentes às
+questões tributárias conforme expresso no item 33.2.6;
+31.2.10.       Descumprimento, pelo PODER CONCEDENTE, de suas obrigações
+contratuais ou regulamentares, incluindo, mas não se limitando, ao descumprimento
+de prazos aplicáveis ao PODER CONCEDENTE previstos neste CONTRATO e/ou
+na legislação vigente;
+
+
+                                Página 36 de 65
+    31.2.11.      Modificações promovidas pelo PODER CONCEDENTE ou por
+    determinação de lei ou regulação nos indicadores de desempenho previstos no Anexo
+    III, ou na sua metodologia de cálculo, que causem comprovado impacto nos encargos
+    da CONCESSIONÁRIA;
+    31.2.12.      Imprevistos geológicos e arqueológicos; e
+    31.2.13.      Redução no volume de resíduos entregues Central de Tratamento e
+    Geração de Energia (CTGE) em valor igual ou superior a 25% (vinte e cinco por
+    cento) dos quantitativos estimados no PLANO DE NEGÓCIOS.
+31.3.      Salvo os riscos expressamente alocados ao PODER CONCEDENTE
+conforme expresso na subcláusula 31.2 acima, a CONCESSIONÁRIA é exclusiva e
+integralmente responsável por todos os demais riscos relacionados à presente
+CONCESSÃO ADMINISTRATIVA não sendo, portanto, fatores que gerem o
+REEQUILÍBRIO ECONÔMICO-FINANCEIRO DO CONTRATO:
+    31.3.1. Aumento de preço nos insumos para a execução das OBRAS, salvo aqueles
+    que decorram diretamente de mudanças tributárias, nos termos do item 33.2.6;
+    31.3.2. Investimentos, custos ou despesas adicionais decorrentes da elevação dos
+    custos operacionais e de compra ou manutenção dos equipamentos;
+    31.13.3. Estimativa incorreta do custo dos investimentos a serem realizados pela
+    CONCESSIONÁRIA;
+    31.3.4. Investimentos, custos ou despesas adicionais necessárias para o atendimento
+    das especificações técnicas determinadas pelo PODER CONCEDENTE ou de
+    quaisquer das obrigações contratuais, para manutenção do nível de serviço
+    estabelecido e da qualidade na prestação dos serviços previstos no CONTRATO;
+    31.3.5. Estimativa incorreta do cronograma de execução dos investimentos;
+    31.3.6. Prejuízos decorrentes de falha na segurança no local de realização das
+    OBRAS;
+    31.3.7. Atrasos decorrentes ao processo de aquisição de área, imputáveis à
+    CONCESSIONÁRIA;
+    31.3.8. Atrasos no cumprimento do cronograma de construção em virtude de
+    condições temporais adversas, salvo se configurarem caso fortuito;
+    31.3.9. Aumento do custo de capital, inclusive os resultantes de aumento das taxas
+    de juros;
+    31.3.10.      Aumento      de     custo    dos    financiamentos     captados   pela
+    CONCESSIONÁRIA;
+    31.3.11.      Variação das taxas de câmbio;
+
+
+                                    Página 37 de 65
+31.3.12.      Prejuízos a terceiros, causados direta ou indiretamente pela
+CONCESSIONÁRIA ou por qualquer outra pessoa física ou jurídica a ela vinculada,
+em decorrência de OBRAS ou da prestação dos SERVIÇOS;
+31.3.13.      Prejuízos decorrentes de erros na realização das OBRAS que ensejem
+a necessidade de refazer parte ou a totalidade das OBRAS;
+31.3.14.      Atrasos decorrentes da não obtenção de autorizações, licenças e
+permissões da Administração Pública Federal, Estadual e Municipal exigidas para
+construção ou operação das novas instalações, quando decorrentes de fatos
+atribuíveis à CONCESSIONÁRIA;
+31. 3.15.     Atraso na entrega de instalações, equipamentos e documentos
+necessários no final do período da construção;
+31.3.16.      Imperfeições nos projetos de engenharia quanto às normas
+urbanísticas e ambientais;
+31.3.17.      Risco pela variação dos custos de seus insumos, mão de obra e
+financiamento em qualquer condição, principalmente em situações de:
+a) Ocorrência de dissídio, acordo ou convenção coletiva de trabalho ou outros
+    motivos que aumentem os custos de pessoal.
+b) Ineficiências ou perdas econômicas decorrentes de falhas, de negligência, de
+    inépcia ou de omissão na exploração adequada dos SERVIÇOS.
+c) Ocorrência de greve do seu pessoal ou a interrupção ou falha de fornecimento
+    de materiais e serviços realizados por funcionários contratados pela
+    CONCESSIONÁRIA ou pelas SUBCONTRATADAS e prestadoras de serviços
+    à CONCESSIONÁRIA.
+d) Ocorrência de acidentes de trabalho;
+31.3.18. A incidência de responsabilidade civil, administrativa, trabalhista,
+ambiental, tributária e criminal por fatos que possam ocorrer durante a execução das
+OBRAS e dos SERVIÇOS, incluídos os custos gerados por condenações ou pelo
+acompanhamento de ações judiciais;
+31.3.19.      Falência, falha no desempenho e atraso nas entregas das
+SUBCONTRATADAS e fornecedores;
+31.3.20.      Implementação de atualizações no modus operandi das tecnologias
+empregadas na prestação dos SERVIÇOS;
+31.3.21.      Danos causados aos bens públicos afetos ao serviço;
+31.3.22.      Os gastos para manutenção e consertos do ativo, não cobertos pelas
+apólices de seguros ou garantias do fabricante;
+
+
+                               Página 38 de 65
+           31.3.23.       Mudanças dos projetos apresentados pela CONCESSIONÁRIA que
+           não tenham sido solicitadas pelo PODER CONCEDENTE;
+           31.3.24.       Não cumprimento das condicionantes do LICENCIAMENTO
+           AMBIENTAL.
+           31.3.25.       Ocorrência de eventos de força maior ou caso fortuito quando a sua
+           cobertura seja aceita, em condições comerciais, por instituições seguradoras, no
+           mercado brasileiro;
+           31.3.26.       Constatação superveniente de erros ou omissões na proposta;
+           31.3.27.       Destruição, roubo, furto ou perda de bens integrantes da
+           CONCESSIONÁRIA e de suas receitas;
+           31.3.28.       Custos gerados por condenações ou pelo acompanhamento de ações
+           judiciais movidas por ou contra terceiros;
+           31.3.29.       Riscos decorrentes de eventual incapacidade do mercado em fornecer-
+           lhe os bens e insumos necessários à prestação dos SERVIÇOS;
+           31.3.30.       Variação na efetivação das RECEITAS ACESSÓRIAS ou projetos
+           associados;
+           31.3.31.       Ineficiências ou perdas econômicas decorrentes de falhas na
+           organização dos SERVIÇOS realizados pela CONCESSIONÁRIA;
+           31.3.32.       A redução de receita em decorrência da aplicação dos índices de
+           desempenho e qualidade;
+           31.3.33.       Variações na composição gravimétrica dos resíduos sólidos urbanos
+           destinados pelos Municípios.
+
+
+CLÁUSULA 32.       DO EQUILÍBRIO ECONÔMICO-FINANCEIRO DO CONTRATO
+ 32.1. Sempre que atendidas as condições do CONTRATO e mantida a alocação de riscos nele
+      estabelecida, considera-se mantido seu equilíbrio econômico financeiro.
+32.2. A CONCESSIONÁRIA ou o PODER CONCEDENTE poderão solicitar a recomposição do
+     equilíbrio econômico-financeiro somente quando ocorrer uma das hipóteses previstas na
+     subcláusula 32.5 abaixo se, comprovadamente, afetar o regular cumprimento do
+     CONTRATO.
+32.3. Para obrigações previstas neste Contrato, a recomposição do equilíbrio econômico-
+     financeiro do Contrato terá como referência o Valor Presente Líquido - VPL constante do
+     fluxo de caixa da PROPOSTA ECONÔMICA, considerando a taxa de desconto prevista na
+     PROPOSTA, a ser utilizada sempre que houver necessidade de recomposição do equilíbrio
+     econômico financeiro do Contrato.
+
+
+                                          Página 39 de 65
+32.4. Para novas obrigações o PODER CONCEDENTE estabelecerá o reequilíbrio econômico-
+     financeiro do CONTRATO.
+32.5. A recomposição do equilíbrio econômico-financeiro será implementada de comum acordo
+     entre as partes, através de uma das seguintes modalidades:
+    32.5.1. prorrogação ou redução do prazo da CONCESSÃO ADMINISTRATIVA;
+    32.5.2. revisão no valor da CONTRAPRESTAÇÃO PECUNIÁRIA;
+    32.5.3. combinação das modalidades anteriores;
+    32.5.4. outras modalidades permitidas por lei.
+32.6. A recomposição do equilíbrio econômico-financeiro do CONTRATO, efetuada nos termos
+     desta cláusula, será, relativamente ao fato que lhe deu causa, única, completa e final, para
+     todo o prazo do CONTRATO.
+32.7. A CONCESSIONÁRIA, para pleitear a recomposição do equilíbrio econômico-financeiro
+     do CONTRATO, deverá apresentar ao PODER CONCEDENTE requerimento
+     fundamentado, acompanhado de laudo técnico, quando necessário, justificando e
+     comprovando a ocorrência de qualquer fato que possa caracterizar o desequilíbrio.
+  32.7.1.   Na hipótese do PODER CONCEDENTE não concordar, total ou parcialmente, com
+            o valor proposto pela CONCESSIONÁRIA para a revisão dos valores que compõem
+            a CONTRAPRESTAÇÃO, deverá informá-la fundamentadamente, dentro do prazo
+            aludido na subcláusula 35.7.2, acerca das razões de sua inconformidade, fixando o
+            valor a ser praticado.
+  32.7.2. Ao aprovar a recomposição do equilíbrio econômico-financeiro, em qualquer das
+            modalidades previstas na subcláusula 32.5, o PODER CONCEDENTE deverá
+            notificar a CONCESSIONÁRIA a respeito em até 5 (cinco) dias úteis, devendo as
+            PARTES, no máximo, 10 (dez) dias contados de tal notificação, celebrar o respectivo
+            termo aditivo ao CONTRATO, que deverá ter seu extrato publicado pelo PODER
+            CONCEDENTE nos termos da lei.
+  32.7.3. Decorridos 180 (cento e oitenta) dias após a apresentação do pedido de reequilíbrio
+            econômico-financeiro por requerimento da CONCESSIONÁRIA e não sendo
+            encontrada solução amigável, aplicar-se-á o procedimento arbitral nos termos da
+            cláusula 51.
+
+
+CLÁUSULA 33.         DAS CAUSAS JUSTIFICADORAS DA INEXECUCÃO
+ 33.1.       No caso de inexecução total ou parcial deste CONTRATO, decorrente diretamente
+ de força maior, caso fortuito, fato do príncipe, ato da Administração ou de interferências
+ imprevistas, que retardem ou impeçam o cumprimento deste CONTRATO, devidamente
+
+
+                                            Página 40 de 65
+ justificados e aceitos pelo PODER CONCEDENTE, ficará a CONCESSIONÁRIA exonerada de
+ responsabilidade pelo atraso no cumprimento dos cronogramas e das demais obrigações
+ decorrentes deste CONTRATO, sem prejuízo da recomposição do equilíbrio econômico-
+ financeiro do CONTRATO, pelos meios previstos na Cláusula 35.
+33.2. Para fins do disposto na subcláusula 33.1 anterior, considera-se:
+          33.2.1. força maior: o evento humano que, por sua imprevisibilidade e inevitabilidade,
+                   cria óbice intransponível para a CONCESSIONÁRIA na execução deste
+                   CONTRATO, consubstanciado em ato superveniente impeditivo de
+                   cumprimento das obrigações assumidas;
+          33.2.2. caso fortuito: o evento da natureza que, por sua imprevisibilidade e
+                   inevitabilidade, gera obstáculo intransponível para a CONCESSIONÁRIA no
+                   cumprimento deste CONTRATO;
+          33.2.3. fato do príncipe: toda determinação estatal, geral, imprevista e imprevisível,
+                   positiva ou negativa, que onera substancialmente a execução deste
+                   CONTRATO;
+          33.2.4. ato da Administração: toda ação ou omissão de órgão da Administração Pública
+                   que, incidindo direta e especificamente sobre este CONTRATO, retarda,
+                   agrava ou impede a sua execução pela CONCESSIONÁRIA, ensejando, ainda,
+                   as indenizações correspondentes;
+          33.2.5. interferências imprevistas: são ocorrências materiais não cogitadas pelas
+                   PARTES quando da celebração deste CONTRATO, mas que surgem no
+                   decorrer de sua execução de modo surpreendente e excepcional, dificultando
+                   ou onerando extraordinariamente o prosseguimento e a conclusão dos
+                   trabalhos, consubstanciada pela descoberta superveniente de obstáculos
+                   materiais, naturais ou artificiais, depois de iniciada a execução do
+                   CONTRATO, embora sua existência seja anterior à data de assinatura do
+                   CONTRATO, mas só revelada posteriormente.
+33.3. A ocorrência de quaisquer dos eventos previstos nesta Cláusula deverá ser imediatamente
+      comunicada pela CONCESSIONÁRIA ao PODER CONCEDENTE, informando as
+      medidas que estiverem sendo adotadas para reduzir ou superar os impactos deles
+      decorrentes, sendo que no caso de interrupção motivada por razões de ordem técnica, deverá
+      o PODER CONCEDENTE ser previamente comunicado.
+33.4. Cabe à CONCESSIONÁRIA, em qualquer das hipóteses desta cláusula, adotar as
+      providências cabíveis no sentido de reduzir a descontinuidade do SERVIÇO ao prazo
+      estritamente necessário, sujeito à fiscalização do PODER CONCEDENTE.
+
+
+                                            Página 41 de 65
+33.5. Ocorrendo quaisquer dos eventos mencionados nesta cláusula, as PARTES acordarão,
+      alternativamente, acerca da recomposição do equilíbrio econômico-financeiro do
+      CONTRATO, bem como da revisão do CRONOGRAMA, nos termos ora acordados, ou,
+      ainda, da extinção da CONCESSÃO ADMINISTRATIVA, caso a impossibilidade de
+      cumprimento deste CONTRATO se torne definitiva ou a recomposição do equilíbrio
+      econômico-financeiro revele-se excessivamente onerosa para o PODER CONCEDENTE.
+33.6. No caso de extinção da CONCESSÃO ADMINISTRATIVA, em virtude da ocorrência dos
+      eventos mencionados nesta cláusula, as PARTES acordarão acerca do pagamento da
+      indenização devida pelo PODER CONCEDENTE à CONCESSIONÁRIA, aplicar-se-á o
+      disposto na Cláusula 45.
+33.7. Eventuais conflitos decorrentes da aplicação do disposto neste item serão dirimidos por meio
+      dos mecanismos de solução de controvérsias previstos no Capítulo 16.
+
+
+CLÁUSULA 34.        DA TRANSFERÊNCIA E DA ONERACÃO DOS DIREITOS E
+    OBRIGACÕES DA CONCESSIONÁRIA
+34.1.Durante todo o prazo de vigência deste CONTRATO, a transferência do controle da
+     CONCESSIONÁRIA só poderá ocorrer mediante prévia anuência do PODER
+     CONCEDENTE, e desde que não coloque em risco a execução deste CONTRATO.
+34.2. A transferência do controle societário total ou de sua parcela majoritária da
+      CONCESSIONÁRIA, mesmo indiretamente por meio de controladores, sem prévia
+      anuência do PODER CONCEDENTE implicará a imediata caducidade da CONCESSÃO
+      ADMINISTRATIVA.
+34.3. A transferência total da CONCESSÃO ADMINISTRATIVA somente será autorizada
+      quando as atividades e os serviços estiverem sendo prestados há pelo menos 2 (dois) anos,
+      e mediante a comprovação do cumprimento regular das obrigações assumidas neste
+      CONTRATO.
+34.4. Para fins de obtenção da anuência para a transferência da CONCESSÃO
+      ADMINISTRATIVA, o interessado deverá:
+    34.4.1. Atender às exigências de capacidade técnica, idoneidade financeira e regularidade
+           jurídica e fiscal exigidas no EDITAL da CONCESSÃO ADMINISTRATIVA;
+    34.4.2. Prestar e manter as garantias pertinentes, conforme o caso; e
+    34.4.3. Comprometer-se a cumprir todas as cláusulas deste CONTRATO.
+34.5. O pedido para autorização da transferência do controle deverá ser apresentado ao PODER
+      CONCEDENTE, por escrito, pela CONCESSIONÁRIA ou pela(s) instituição(ões)
+      financiadora(s), contendo a justificativa para tanto, bem como elementos que possam
+
+
+                                            Página 42 de 65
+      subsidiar a análise do pedido, tais como: cópias de atas de reunião de sócios ou acionistas
+      da CONCESSIONÁRIA, correspondências, relatórios de auditoria, demonstrações
+      financeiras e outros documentos pertinentes.
+34.6. O PODER CONCEDENTE examinará o pedido no prazo de até 30 (sessenta) dias,
+      prorrogáveis por igual período, caso necessário, podendo, a seu critério, solicitar
+      esclarecimentos e/ou documentos adicionais à CONCESSIONÁRIA e/ou interessado da
+      assunção, convocar os sócios ou acionistas controladores da CONCESSIONÁRIA e tomar
+      outras providências consideradas adequadas.
+
+
+                            CAPÍTULO 11. DA FISCALIZAÇÃO
+CLÁUSULA 35.        DA FISCALIZACÃO
+35.1.A fiscalização da CONCESSÃO ADMINISTRATIVA será exercida pelo PODER
+     CONCEDENTE, o CIVAP, por delegação dos Municípios Participantes, com o objetivo de
+     verificar o cumprimento das obrigações pela CONCESSIONÁRIA.
+35.2. A fiscalização do CONTRATO abrangerá, dentre outras, as seguintes atividades:
+  35.2.1. realização de inspeções de campo;
+  35.2.2. avaliação da capacidade técnico-operacional, da situação econômico-financeira e
+         integridade de dados e informações;
+  35.2.3. pesquisas de opinião dos usuários dos SERVIÇOS;
+  35.2.4. verificação do atendimento aos requisitos técnicos, operacionais e ambientais
+         discriminados na legislação em vigor e nas normas técnicas editadas pela Associação
+         Brasileira de Normas Técnicas (ABNT) concernente a essa matéria, assim como no
+         processo de licenciamento ambiental de suas instalações, bem como às demais
+         exigências dessa natureza estabelecidas no presente CONTRATO ou em seus anexos;
+  35.2.5. verificação do atendimento aos requisitos sociais e financeiros estabelecidos como
+         condicionantes do processo de licenciamento ambiental ou em função de exigências
+         estabelecidas na legislação e no presente CONTRATO ou em seus anexos.
+ 35.3. Para exercício da fiscalização, a CONCESSIONÁRIA obriga-se a manter cadastro
+       atualizado, conferindo livre acesso, por parte do PODER CONCEDENTE, a todos os
+       dados, livros, registros e documentos relacionados à CONCESSÃO ADMINISTRATIVA,
+       prestando, a respeito destes, os esclarecimentos que lhe forem solicitados pelo PODER
+       CONCEDENTE, em prazo razoavelmente estabelecido de comum acordo.
+     35.3.1. O desatendimento, pela CONCESSIONÁRIA, das solicitações, recomendações e
+            determinações do PODER CONCEDENTE ou do ENTE REGULADOR implicará
+
+
+
+
+                                           Página 43 de 65
+                aplicação das penalidades autorizadas pelas normas pertinentes ou definidas neste
+                CONTRATO.
+ 35.4. O PODER CONCEDENTE poderá realizar auditoria nos documentos contábeis e
+       financeiros da CONCESSIONÁRIA, devendo tal medida ser comunicada à
+       CONCESSIONÁRIA com antecedência mínima de 10 (dez) dias.
+     35.4.1. A auditoria em referência pode ser realizada por empresa especializada contratada
+                pelo PODER CONCEDENTE.
+     35.4.2. O PODER CONCEDENTE poderá, a qualquer tempo, requerer a instauração de
+                auditoria extraordinária dos relatórios financeiros ou outras informações prestadas
+                pela CONCESSIONÁRIA.
+ 35.5. As atividades de fiscalização mencionadas na subcláusula 35.4 anterior poderão ser
+       acompanhadas pela CONCESSIONÁRIA, por intermédio de seus representantes
+       especialmente indicados para esta finalidade.
+ 35.6. O PODER CONCEDENTE poderá realizar, na presença dos representantes da
+       CONCESSIONÁRIA, ou requerer que esta realize, às suas custas, ensaios ou testes que
+       possibilitem a verificação das condições e qualidade SERVIÇOS executados, mediante
+       programa específico a ser estabelecido de comum acordo entre as PARTES.
+ 35.7. O representante do PODER CONCEDENTE responsável pela fiscalização anotará, em
+       registro     próprio,   todas        as   ocorrências      relacionadas     com   a   CONCESSÃO
+       ADMINISTRATIVA, determinando à CONCESSIONÁRIA a regularização das faltas ou
+       defeitos verificados e emitindo os autos de infração, quando for o caso, nos termos
+       previstos neste CONTRATO.
+ 35.8. A fiscalização da CONCESSÃO ADMINISTRATIVA pelo PODER CONCEDENTE não
+       poderá      obstruir    ou        prejudicar    a   regular      execução   dos   SERVIÇOS       pela
+       CONCESSIONÁRIA.
+ 35.9. No caso de eventuais atrasos ou discrepâncias entre a execução dos SERVIÇOS e o
+       CRONOGRAMA                   da       CONCESSÃO               ADMINISTRATIVA          vigente,     a
+       CONCESSIONÁRIA deverá informar ao PODER CONCEDENTE a respeito, de forma
+       detalhada, identificando as providências que estiverem sendo adotadas para corrigir esses
+       fatos.
+35.10. As decisões e providências que ultrapassem a competência do representante do PODER
+       CONCEDENTE na fiscalização do CONTRATO devem ser encaminhadas aos seus
+       superiores, em tempo hábil para a adoção das medidas cabíveis.
+35.11. As determinações que vierem a ser emitidas no âmbito dos poderes de fiscalização deverão
+       ser aplicadas e vincularão a CONCESSIONÁRIA, após a instauração de procedimento
+
+
+                                                      Página 44 de 65
+      administrativo específico, com garantia do contraditório e da ampla defesa, sem prejuízo
+      do recurso ao processo de solução de divergências previsto na Cláusula 50 deste
+      CONTRATO.
+35.12. A CONCESSIONÁRIA é obrigada a reparar, corrigir, remover, reconstruir ou substituir,
+      às suas expensas, no todo ou em parte, os SERVIÇOS pertinentes à CONCESSÃO
+      ADMINISTRATIVA em que a fiscalização verifique, de forma justificada, vícios, defeitos
+      ou incorreções resultantes da execução ou de materiais empregados, nos prazos que
+      razoavelmente forem fixados pelo PODER CONCEDENTE.
+35.13. Caso a CONCESSIONÁRIA não concorde com a decisão do representante do PODER
+      CONCEDENTE quanto à qualidade dos SERVIÇOS e/ou quanto aos prazos fixados para
+      as correções, deverá comunicar a discordância ao PODER CONCEDENTE, em até 10
+      (dez) dias, contados da data do recebimento da notificação.
+35.14. O   PODER       CONCEDENTE        deverá   manifestar-se     sobre   a   discordância   da
+      CONCESSIONÁRIA mencionada na subcláusula anterior em até 10 (dez) dias, contados
+      da data do recebimento da notificação enviada pela CONCESSIONÁRIA, sendo certo que,
+      caso o PODER CONCEDENTE não se manifeste no retro referido prazo, sua inércia será
+      tida como aceitação da discordância apresentada pela CONCESSIONÁRIA.
+35.15. Na hipótese de o PODER CONCEDENTE não aceitar as explicações apresentadas, no
+      prazo fixado no item anterior, este poderá determinar a demolição, a reconstrução ou a
+      adequação dos SERVIÇOS defeituosos, cabendo à CONCESSIONÁRIA realizá-los às
+      suas expensas.
+35.16. Em caso de descumprimento, pela CONCESSIONÁRIA, da determinação final emitida
+      pelo PODER CONDENTE, no exercício da fiscalização, poderá este, mediante prévia
+      ciência da CONCESSIONÁRIA, proceder diretamente ou por intermédio de terceiro à
+      correção da situação, correndo os respectivos custos por conta exclusiva da
+      CONCESSIONÁRIA.
+35.17. Para fins de pagamento dos custos incorridos pelo PODER CONCEDENTE no
+      atendimento ao disposto no item 39.16 anterior, poderá este utilizar-se da GARANTIA DE
+      EXECUÇÃO DO CONTRATO.
+35.18. A fiscalização do CONTRATO pelo ENTE REGULADOR não exime nem diminui a
+      completa responsabilidade da CONCESSIONÁRIA, por qualquer inobservância ou
+      omissão às cláusulas contratuais, inclusive quanto à adequação das suas obras, instalações,
+      quanto à adequação dos SERVIÇOS e quanto à correção e legalidade de seus registros
+      contábeis e de suas operações.
+
+
+
+
+                                           Página 45 de 65
+                               CAPÍTULO 12. DAS SANÇÕES
+CLÁUSULA 36.        DAS PENALIDADES
+    36.1. A inexecução total ou parcial do CONTRATO, das condições estabelecidas, ou a
+    execução insatisfatória dos serviços inerentes à execução contratual, atrasos, omissões e
+    outras falhas, o não cumprimento das diretrizes, normas, especificações, regulamentos,
+    índices e parâmetros fixados pelo PODER CONCEDENTE para a prestação do serviço
+    objeto da CONCESSÃO, e atrasos no cumprimento de prazos e inadequações na prestação
+    do serviço, poderão ensejar, a critério do PODER CONCEDENTE, a aplicação à
+    CONCESSIONÁRIA das seguintes sanções, sem prejuízo das responsabilidades civil e
+    penal, e sempre garantido o direito ao prévio contraditório e à ampla defesa:
+        36.1.1.     Advertência formal, por escrito e com referência às medidas necessárias à
+        correção do descumprimento;
+        36.1.2.     Multas, quantificadas e aplicadas na forma prevista nesta cláusula.
+     36.2. A aplicação das penalidades previstas neste CONTRATO não impede que o PODER
+     CONCEDENTE declare caducidade da CONCESSÃO, observados os procedimentos
+     previstos na legislação e neste CONTRATO.
+     36.3. A ocorrência de cada um dos eventos adiante indicados ensejará penalidade de
+     advertência:
+         36.1.1. Permitir que seus empregados e agentes, bem como os de suas contratadas,
+         trabalhem sem estar devidamente uniformizados, com vestimentas fechadas, calçados
+         padronizados e crachá indicativo, visível de suas funções;
+         36.1.2. não manter veículos devidamente identificados com a logomarca da
+         CONCESSIONÁRIA, conforme os padrões estabelecidos pela ABNT, os quais
+         poderão conter mensagens educativas e de publicidade, conforme o caso;
+         36.1.3. deixar de informar ao PODER CONCEDENTE quaisquer fatos que possam
+         repercutir nos seguros contratados ou na garantia prestada;
+     36.4. A ocorrência de cada um dos seguintes eventos ensejará multa de 0,1 % a 0,5% do
+     valor da CONTRAPRESTAÇÃO PECUNIÁRIA mensal:
+         36.4.1. condenação por 3 (três) vezes pelo cometimento de infrações puníveis com
+         advertência;
+         36.4.2. permitir que seus equipamentos e veículos utilizados na prestação dos
+         SERVIÇOS tenham idade superior às suas respectivas vidas úteis informadas para
+         efeitos de depreciação;
+         36.4.3. apresentar ao PODER CONCEDENTE faturas ou notas fiscais com valores
+         ou informações incorretas ou lastreados em informações falsas;
+
+
+                                           Página 46 de 65
+    36.4.4. não manter à disposição do PODER CONCEDENTE os documentos,
+    projetos, registros contábeis e demais informações técnicas, operacionais e financeiras
+    relativas à CONCESSÃO;
+    36.4.5. não manter o PODER CONCEDENTE informado a respeito de quaisquer
+    fatos que comprometam a adequada utilização dos BENS VINCULADOS;
+36.5. A ocorrência de cada um dos seguintes eventos ensejará multa de 0,5% a 1% do valor
+da CONTRAPRESTAÇÃO PECUNIÁRIA MENSAL:
+    36.5.1. não prestar, no prazo determinado, as informações que lhe forem solicitadas
+    por PODER CONCEDENTE;
+    36.5.2. não tomar as providências necessárias, inclusive judiciais, para coibir o uso
+    indevido ou a ocupação não autorizada dos BENS VINCULADOS da CONCESSÃO
+    ADMINISTRATIVA,
+    36.5.3. não publicar suas demonstrações financeiras, na forma da lei;
+36.2. A ocorrência de cada um dos eventos adiante indicados ensejará multa de 1% a 1,5
+% do valor da CONTRAPRESTAÇÃO PECUNIÁRIA mensal
+    36.2.1. não apresentar até 30 de abril de cada ano, atendendo as disposições da Lei
+    n° 6.404/1976, as demonstrações financeiras relativas ao exercício encerrado em 31
+    de dezembro do ano anterior, incluindo, dentre outros, o relatório da administração, o
+    balanço patrimonial, demonstração dos lucros ou prejuízos acumulados, a
+    demonstração de resultados do exercício e a demonstração dos fluxos de caixa, as notas
+    explicativas do balanço, parecer dos auditores independentes e do Conselho Fiscal e a
+    Demonstração do Valor Adicionado;
+    36.2.2. não manter contabilidade específica das RECEITAS ACESSÓRIAS;
+    36.2.3. não contratar e manter vigentes os seguros, nos termos das Cláusulas 10.
+36.3. A ocorrência de cada um dos eventos adiante indicados ensejará multa de 1,5% a 2%
+do valor da CONTRAPRESTAÇÃO PECUNIÁRIA MENSAL
+    36.3.1. não realizar, anualmente, pesquisa de satisfação e qualidade dos serviços
+    concedidos aos USUÁRIOS FINAIS e encaminhar seu resultado para o PODER
+    CONCEDENTE;
+    36.3.2. não    permitir    aos   encarregados      pela   fiscalização   de   PODER
+    CONCENDENTE o seu livre acesso, em qualquer época, às obras, aos equipamentos
+    e às instalações vinculadas à CONCESSÃO ADMINISTRATIVA;
+    36.3.3. não renovar a GARANTIA DE EXECUÇÃO DO CONTRATO, nos prazos
+    e nos valores previstos neste CONTRATO;
+
+
+
+
+                                     Página 47 de 65
+    36.3.4. modificar termos e condições dos seguros contratados ou da GARANTIA DE
+    EXECUÇÃO DO CONTRATO, sem prévia anuência do PODER CONCEDENTE;
+    36.3.5. deixar de recompor o monte integral da GARANTIA DE EXECUÇÃO DO
+    CONTRATO prestada ou recompô-la fora do prazo fixado, se executada.
+36.4. As seguintes inexecuções totais ou parciais das obrigações impostas à
+CONCESSIONÁRIA ensejará multa de 0,1% a 2% do valor da CONTRAPRESTAÇÃO
+PECUNIÁRIA MENSAL:
+  36.4.1.     Não ter concluídos as obras previstas no TERMO DE REFERÊNCIA até o 3º
+  ano da Concessão;
+36.5. Para efeitos de aplicação de penalidades serão sempre consideradas as circunstâncias
+agravantes ou atenuantes, inclusive os antecedentes e a reincidência, atentando-se,
+especialmente, para a natureza e a gravidade da infração, os danos resultantes para os
+serviços e os usuários e a vantagem auferida pelo infrator.
+36.6. São circunstâncias que sempre atenuam a sanção, dentre outras:
+    36.6.1. a confissão da autoria da infração;
+    36.6.2. a adoção, voluntária, de providências eficazes para evitar ou amenizar as
+    consequências da infração, ou para reparar, antes da decisão do processo ou de
+    determinação da autoridade competente, os efeitos da infração;
+    36.6.3. a inexistência de infrações, definitivamente julgadas, praticadas pelo mesmo
+    infrator nos três anos anteriores.
+    36.6.4. não afetar número significativo de usuários.
+36.7. São circunstâncias agravantes, dentre outras:
+    36.7.1. ter a CONCESSIONÁRIA agido com má-fé;
+    36.7.2. da infração decorrer benefício direto ou indireto para a CONCESSIONÁRIA;
+    36.7.3.   o número de usuários atingidos ou o prejuízo dela decorrente for
+    significativo.
+    36.7.4.   a reincidência específica;
+    36.7.5. a recusa em adotar medidas para reparação dos efeitos da infração;
+    36.7.6. expor a risco a integridade física ou saúde do usuário ou terceiros;
+    36.7.7. a destruição de bens públicos.
+36.8. O não pagamento de qualquer multa fixada nos termos do disposto nesta Cláusula,
+no prazo fixado pelo PODER CONCEDENTE acarretará a execução da GARANTIA DE
+EXECUÇÃO DO CONTRATO.
+
+
+
+
+                                         Página 48 de 65
+    36.9. O processo de aplicação de penalidades tem início com a lavratura do auto de
+    infração pelo PODER CONCEDENTE que tipificará a infração cometida, para fins de
+    aplicação da respectiva penalidade.
+    36.10.       O auto de infração deverá indicar com precisão a falta cometida e a norma
+    violada, e será lavrado em 2 (duas) vias, através de notificação entregue pessoalmente ao
+    representante da CONCESSIONÁRIA. Cada infração ensejará a lavratura de um auto de
+    infração, salvo nos casos de as infrações serem conexas.
+    36.11.       No prazo de 30 (trinta) dias contados do recebimento da notificação de
+    penalidade, a CONCESSIONÁRIA poderá apresentar sua defesa prévia à autoridade
+    competente, a qual deverá ser analisada pela área técnica, que expedirá parecer com as
+    razões para que a Defesa seja acolhida ou seja dada continuidade ao processo
+    administrativo sancionatório.
+36.12.    Sendo favorável à CONCESSIONÁRIA o parecer da área técnica e sendo acolhida
+as razões expostas na Defesa Prévia pela autoridade competente, o processo administrativo
+sancionatório será arquivado.
+36.13.    Sendo desfavorável à CONCESSIONÁRIA o parecer da área técnica, a
+CONCESSIONÁRIA será intimada para apresentação de Alegações Finais para a autoridade
+competente no prazo de 7 (sete) dias contados do recebimento da intimação.
+    36.14.       Após apresentação de Alegações Finais, a autoridade competente, no prazo
+    de 30 dias, proferirá decisão motivada e fundamentada, apontando os elementos acatados
+    ou não na Defesa apresentada pela CONCESSIONÁRIA.
+    36.15.       A CONCESSIONÁRIA será notificada da decisão proferida e, caso a Defesa
+    seja julgada improcedente, caberá recurso à Autoridade Superior, no prazo de 15 (quinze)
+    dias a contar do recebimento da intimação, cuja decisão deverá obedecer às condições
+    previstas na subcláusula anterior.
+36.16.    Caso seja acolhido o Recurso, o processo será arquivado.
+36.17.    Mantido    o     auto     de   infração    em       última   instância   administrativa,    a
+CONCESSIONÁRIA será notificada a respeito, devendo a penalidade ser imposta em
+observância ao seguinte:
+          36.17.1.         no     caso   de    advertência,     será   anotada     nos   registros   da
+          CONCESSIONÁRIA junto ao PODER CONCEDENTE;
+          36.17.2.         em caso de multa pecuniária, a CONCESSIONÁRIA deverá efetuar o
+          pagamento dentro do prazo de 30 (trinta) dias, contados do recebimento da
+          notificação da decisão, sendo que o não pagamento, no prazo estipulado, ensejará a
+          possibilidade de execução da GARANTIA DE EXECUÇÃO DO CONTRATO.
+
+
+                                              Página 49 de 65
+  36.18.    O simples pagamento da multa não eximirá a CONCESSIONÁRIA da obrigação de
+  sanar a falha ou irregularidade a que deu origem.
+  36.19.    As importâncias pecuniárias resultantes da aplicação das multas previstas no
+  CONTRATO reverterão ao tesouro municipal temporariamente.
+  36.20.    A aplicação das penalidades previstas neste CONTRATO e a sua execução não
+  prejudicam a aplicação das penas cominadas, para o mesmo fato, pela legislação aplicável.
+
+
+                          CAPÍTULO 13. DAS INTERVENÇÕES
+CLÁUSULA 37.       DA INTERVENÇÃO PELO PODER CONCEDENTE
+  37.1.     Sem prejuízo das penalidades cabíveis e das responsabilidades incidentes, o PODER
+  CONCEDENTE poderá, excepcionalmente, intervir na CONCESSÃO ADMINISTRATIVA,
+  com o fim de assegurar a continuidade e adequação da prestação dos SERVIÇOS, bem como
+  o fiel cumprimento das normas contratuais, regulamentares e legais pertinentes.
+  37.2.     A intervenção dar-se-á mediante procedimento administrativo do Presidente do
+  CIVAP, que conterá a justificativa da intervenção, o nome do interventor, o prazo da
+  intervenção e os objetivos e limites da medida, devendo ser observada a legislação aplicável
+  no que tange ao procedimento a ser seguido para se formalizar a intervenção.
+  37.3.     Declarada a intervenção, o PODER CONCEDENTE deverá, no prazo de 30 (trinta)
+  dias, instaurar procedimento administrativo para comprovar as causas determinantes da medida
+  e apurar responsabilidades, assegurado o direito de ampla defesa.
+  37.4.     Caso seja comprovado que a intervenção não observou os pressupostos legais e
+  regulamentares, o PODER CONCEDENTE declarará sua nulidade, devendo os SERVIÇOS
+  ser imediatamente devolvidos à CONCESSIONÁRIA, sem prejuízo do seu direito a
+  indenização.
+  37.5.     O procedimento administrativo a que se refere esta cláusula deverá ser concluído no
+  prazo máximo de 180 (cento e oitenta) dias, sob pena de cessarem os efeitos da intervenção,
+  sem prejuízo do prosseguimento do processo administrativo.
+  37.6.     Cessada a intervenção, se o PODER CONCEDENTE não decidir pela extinção da
+  CONCESSÃO ADMINISTRATIVA, a administração dos SERVIÇOS será devolvida à
+  CONCESSIONÁRIA, precedida de prestação de contas pelo interventor, que responderá por
+  todos os atos praticados durante a sua gestão.
+
+
+CLÁUSULA 38.       DA ASSUNÇÃO DO CONTROLE PELOS FINANCIADORES
+    Os contratos de financiamento da CONCESSIONÁRIA poderão outorgar aos Financiadores,
+    de acordo com as regras de direito privado aplicáveis, o direito de assumir o controle da
+
+
+                                           Página 50 de 65
+   CONCESSIONÁRIA em caso de inadimplemento contratual pela CONCESSIONÁRIA dos
+   referidos contratos de financiamento ou deste CONTRATO.
+    A assunção referida na subcláusula anterior poderá ocorrer no caso de inadimplemento, pela
+    CONCESSIONÁRIA, de obrigações do Contrato, nos casos em que o inadimplemento
+    inviabilize ou coloque em risco a Concessão.
+    38.3. Após a realização regular do correspondente processo administrativo, mediante
+    solicitação, o PODER CONCEDENTE autorizará a assunção do controle da
+    CONCESSIONÁRIA por seus Financiadores com o objetivo de promover a reestruturação
+    financeira da CONCESSIONÁRIA e assegurar a continuidade da exploração da
+    CONCESSÃO.
+    38.4. A autorização será outorgada mediante comprovação por parte dos financiadores de
+    que atendem aos requisitos de regularidade jurídica e fiscal previstos no EDITAL.
+    38.5. Os financiadores ficarão dispensados de demonstrar idoneidade financeira desde que
+    estejam devidamente autorizados a atuar como instituição financeira no Brasil.
+    38.6. A assunção do controle da CONCESSIONÁRIA nos termos desta cláusula não
+    alterará as obrigações da CONCESSIONÁRIA e dos Financiadores controladores perante o
+    Poder Concedente. Todavia, os Financiadores não serão responsáveis pelas obrigações que
+    sejam de responsabilidade direta dos antigos acionistas da CONCESSIONÁRIA.
+    38.7. É admitida a emissão de empenho em nome dos financiadores dos SERVIÇOS em
+    relação às obrigações pecuniárias do PODER CONDENTE, em especial, a obrigação de
+    pagamento da CONTRAPRESTAÇÃO pelo PODER CONCEDENTE.
+    38.8. Os financiadores da CONCESSÃO ADMINISTRATIVA terão legitimidade para
+    receber indenizações por extinção antecipada do CONTRATO, bem como para receber
+    pagamentos efetuados pela conta vinculada, quando este estiver criado e em funcionamento.
+    38.9. Para fins de efetivação do disposto nas subcláusulas 42.6 e 42.7 acima, a
+    CONCESSIONÁRIA enviará comunicação prévia, por escrito, ao PODER CONCEDENTE,
+    informando os valores envolvidos e dos dados a respeito do financiador.
+
+
+                  CAPÍTULO 14. DA EXTINÇÃO DO CONCESSÃO
+CLÁUSULA 39.      DOS CASOS DE EXTINÇÃO
+    39.1. Extingue-se o CONTRATO por:
+            39.1.1.      advento do termo contratual;
+            39.1.2.      encampação;
+            39.1.3.      caducidade;
+            39.1.4.      rescisão;
+
+
+                                          Página 51 de 65
+             39.1.5.      anulação da CONCESSÃO ADMINISTRATIVA;
+             39.1.6.      falência ou extinção da CONCESSIONÁRIA.
+    39.2. Extinto o CONTRATO, em qualquer hipótese prevista na subcláusula 43.1, haverá a
+    assunção imediata do SERVIÇO pelo PODER CONCEDENTE, com a ocupação por este
+    das instalações e a utilização de todos os bens da CONCESSÃO ADMINISTRATIVA.
+    39.3. Os BENS VINCULADOS reverterão ao PODER CONCEDENTE, composto pelo
+    conjunto dos MUNICÍPIOS titulares em condomínio, de acordo com suas respectivas quota-
+    partes, a serem definidas em função do conjunto de pagamentos efetuados ao longo da
+    CONCESSÃO          ADMINISTRATIVA,        nos   termos   previstos      neste   CONTRATO,
+    procedendo-se aos levantamentos, avaliações e liquidações necessários.
+    39.4. Em ocorrendo a extinção da CONCESSÃO ADMINISTRATIVA, exceto no caso de
+    advento do termo contratual, o PODER CONCEDENTE poderá, a seu exclusivo critério,
+    assumir os contratos celebrados pela CONCESSIONÁRIA, desde que necessários à
+    continuidade dos SERVIÇOS, incluindo-se dentre estes os contratos de financiamento para
+    execução de obras ou serviços previamente aprovados e que não comporte período de
+    amortização superior ao prazo restante ao término da CONCESSÃO ADMINISTRATIVA.
+    39.5. Eventuais conflitos decorrentes da extinção da CONCESSÃO ADMINISTRATIVA
+    poderão ser dirimidos por meio do mecanismo de solução de controvérsias previsto no
+    Capítulo 16.
+
+
+CLÁUSULA 40.       DO ADVENTO DO TERMO CONTRATUAL
+   40.1.   Encerrado o prazo da CONCESSÃO, a CONCESSIONÁRIA será responsável pelo
+   encerramento de quaisquer contratos inerentes a CONCESSÃO celebrados com terceiros,
+   assumindo todos os encargos, responsabilidades e ônus daí resultantes.
+    40.2. A CONCESSIONÁRIA deverá tomar todas as medidas razoáveis e cooperar
+    plenamente com o PODER CONCEDENTE para que os SERVIÇOS objeto da
+    CONCESSÃO continuem a ser prestados adequadamente sem que haja interrupção dos
+    serviços objeto da CONCESSÃO, bem como prevenindo e mitigando qualquer
+    inconveniência ou risco à saúde ou segurança dos usuários e dos funcionários do PODER
+    CONCEDENTE.
+    40.3. O PODER CONCEDENTE, antecipando-se à extinção da CONCESSÃO por
+    advento do termo contratual, procederá aos levantamentos e avalições necessários à
+    determinação dos montantes da indenização que será devida a CONCESSIONÁRIA.
+
+
+
+
+                                          Página 52 de 65
+CLÁUSULA 41.      DA ENCAMPACÃO
+    41.1. O PODER CONCEDENTE poderá encampar a CONCESSÃO, por motivos de
+    interesse público, mediante lei autorizativa específica e precedida de pagamento da
+    indenização prevista na subcláusula 45.2 abaixo.
+    41.2. A indenização devida à CONCESSIONÁRIA, que deverá ser paga previamente à
+    encampação, cobrirá:
+    41.2.1. as parcelas dos investimentos realizados, inclusive em obras de manutenção, bens e
+    instalações, ainda não amortizados ou depreciados, que tenham sido realizados para o
+    cumprimento deste Contrato, deduzidos os ônus financeiros remanescentes;
+    41.2.2. a desoneração da CONCESSIONÁRIA em relação às obrigações decorrentes de
+    contratos de financiamentos por esta contraídas com vistas ao cumprimento do Contrato,
+    mediante:
+    41.2.2.1.     prévia assunção, perante as instituições financeiras credoras, das obrigações
+    contratuais da CONCESSIONÁRIA, em especial quando a CONTRAPRESTAÇÃO
+    PRECUNIÁRIA MENSAL figurar como garantia do financiamento; ou
+    41.2.2.2.     prévia indenização à CONCESSIONÁRIA da totalidade dos débitos
+    remanescentes desta perante as instituições financeiras credoras;
+    41.3. todos os encargos e ônus decorrentes de multas, rescisões e indenizações que se
+    fizerem devidas a fornecedores, contratados e terceiros em geral, inclusive honorários
+    advocatícios, em decorrência do consequente rompimento dos respectivos vínculos
+    contratuais celebrados em função deste Contrato.
+    41.4. A parte da indenização devida à Concessionária, correspondente ao saldo devedor
+    dos financiamentos, poderá ser paga diretamente aos Financiadores. O remanescente será
+    pago diretamente a Concessionária.
+    41.5. As multas, indenizações e quaisquer outros valores devidos pela Concessionária
+    serão descontados da indenização prevista para o caso de encampação, até o limite do saldo
+    devedor dos financiamentos contraídos pela Concessionária para cumprir as obrigações de
+    investimento previstas no Contrato.
+
+
+CLÁUSULA 42.      DA CADUCIDADE
+    42.1. O PODER CONCEDENTE poderá declarar a caducidade da CONCESSÃO nas
+    hipóteses de inexecução total ou parcial do CONTRATO, observado o disposto na legislação
+    e nas normas regulamentares pertinentes, quando a CONCESSIONÁRIA:
+    42.1.1. prestar os SERVIÇOS de forma inadequada ou deficiente, tendo por base os
+    parâmetros estabelecidos no TERMO DE REFERÊNCIA, incluindo:
+
+
+                                          Página 53 de 65
+42.1.1.1.        descumprir cláusulas contratuais ou disposições legais e regulamentares
+concernentes à CONCESSÃO;
+42.1.1.2.        paralisar os SERVIÇOS ou concorrer para tanto, ressalvadas as hipóteses
+referidas na Cláusula 36;
+42.1.1.3.        perder as condições econômicas, técnicas ou operacionais para manter a
+adequada prestação do serviço concedido;
+42.1.1.4.        não atender a intimação do PODER CONCEDENTE no sentido de
+regularizar a prestação do serviço;
+42.1.1.5.        não cumprir a intimação do PODER CONCEDENTE para, em 180 dias,
+apresentar documentação relativa a regularidade fiscal, no curso da CONCESSÃO;
+42.1.1.6.        a condenação, em sentença transitada em julgado, por sonegação de tributos,
+inclusive contribuições sociais;
+42.1.1.7.        alteração ou desvio do objeto da CONCESSIONÁRIA;
+42.1.1.9.        alteração do controle social da CONCESSIONÁRIA, sem a prévia e expressa
+aprovação do PODER CONCEDENTE;
+42.1.1.10.       transferência ou oneração de direitos e obrigações atinentes à CONCESSÃO
+ADMINISTRATIVA, de outra forma que não a prevista neste CONTRATO.
+42.2. A declaração de caducidade da CONCESSÃO deverá ser precedida da verificação
+do inadimplemento contratual da CONCESSIONÁRIA em processo administrativo
+específico, assegurado o direito de ampla defesa e contraditório.
+42.3. Não será instaurado processo administrativo de caducidade sem prévia notificação à
+CONCESSIONÁRIA, sendo-lhe dado, em cada caso, prazo para corrigir as falhas e
+transgressões apontadas e para o enquadramento nos termos contratuais.
+42.4. Instaurado o processo administrativo e comprovado o inadimplemento, a caducidade
+será declarada mediante decreto pelo PODER CONCEDENTE, independentemente de
+indenização prévia, calculada no decurso do processo e de acordo com as subcláusulas 46.6
+e 46.7 abaixo.
+42.5. Declarada a caducidade, não resultará ao PODER CONCEDENTE qualquer espécie
+de responsabilidade em relação aos encargos, ônus, obrigações ou compromissos com
+terceiros ou empregados da CONCESSIONÁRIA.
+ 42.6. A indenização devida à CONCESSIONÁRIA em caso de caducidade restringir-se-á
+ ao valor dos investimentos realizados nos bens ainda não amortizados.
+ 42.7. Do montante previsto na subcláusula anterior serão descontados:
+ 42.7.1.         os prejuízos causados pela CONCESSIONÁRIA ao CIVAP e à sociedade;
+
+
+
+
+                                        Página 54 de 65
+     42.7.2.       as multas contratuais aplicadas à CONCESSIONÁRIA que não tenham sido
+     pagas até a data do pagamento do montante previsto na subcláusula 46.6 acima; e
+     42.7.3.       quaisquer valores recebidos pela CONCESSIONÁRIA a título de cobertura
+     de seguros relacionados aos eventos ou circunstâncias que ensejaram a declaração de
+     caducidade.
+     42.7. A parte da indenização devida à CONCESSIONÁRIA, correspondente ao saldo
+     devedor dos financiamentos efetivamente aplicados em investimentos, poderá ser paga
+     diretamente aos financiadores, a critério do PODER CONCEDENTE. O remanescente será
+     pago diretamente a CONCESSIONÁRIA.
+     42.8. A declaração de caducidade da CONCESSÃO ADMINISTRATIVA acarretará
+     ainda:
+     42.8.1.       a execução da GARANTIA DE EXECUÇÃO DO CONTRATO, para
+     ressarcimento de eventuais prejuízos causados ao PODER CONCEDENTE;
+     42.18.2.      retenção de eventuais créditos decorrentes deste CONTRATO, até o limite
+     dos prejuízos causados ao PODER CONCEDENTE.
+
+
+CLÁUSULA 43.       DA RESCISÃO
+    43.1. A CONCESSIONÁRIA deverá notificar o PODER CONCEDENTE de sua intenção
+    de rescindir o CONTRATO no caso de descumprimento das normas contratuais pelo
+    PODER CONCEDENTE, previamente à propositura de ação judicial especialmente
+    intentada para esse fim, nos termos previstos na legislação e nas normas regulamentares
+    pertinentes.
+    43.2. Os serviços prestados pela CONCESSIONÁRIA somente poderão ser interrompidos
+    ou paralisados após o trânsito em julgado da sentença judicial que decretar a rescisão do
+    CONTRATO.
+    43.3. A indenização devida à CONCESSIONÁRIA, no caso de rescisão, será calculada de
+    acordo com a subcláusula 45.2 acima.
+    43.4. Para fins do cálculo indicado na subcláusula 47.3 acima, considerar-se-ão os valores
+    recebidos pela CONCESSIONÁRIA a título de cobertura de seguros relacionados aos
+    eventos ou circunstâncias que ensejaram a rescisão.
+
+
+CLÁUSULA 44.       DA ANULACÃO
+    44.1. O PODER CONCEDENTE deverá declarar a nulidade do CONTRATO, impedindo
+    os efeitos jurídicos que ordinariamente deveria produzir, além de desconstituir os já
+    produzidos, se verificar ilegalidade em sua formalização ou na LICITAÇÃO.
+
+
+                                           Página 55 de 65
+    44.2. Na hipótese descrita na subcláusula 48.1 acima, se a ilegalidade for imputável apenas
+    ao próprio PODER CONCEDENTE, a CONCESSIONÁRIA será indenizada pelo que
+    houver executado até a data em que a nulidade for declarada e por outros prejuízos
+    regularmente comprovados, descontados, todavia, quaisquer valores recebidos pela
+    CONCESSIONÁRIA a título de cobertura de seguros relacionados aos eventos ou
+    circunstâncias que ensejaram a declaração da nulidade.
+
+
+  CAPÍTULO 15. DOS BENS QUE INTEGRAM A CONCESSÃO ADMINISTRATIVA
+CLÁUSULA 45.       DOS BENS QUE INTEGRAM A CONCESSÃO ADMINISTRATIVA
+ 45.1. Na extinção da CONCESSÃO ADMINISTRATIVA, os bens a ela vinculados, construídos
+ ou adquiridos pela CONCESSIONÁRIA ficarão sob a propriedade da CONCESSIONÁRIA,
+ inclusive eventuais obrigações assumidas e passivos.
+
+
+                  CAPÍTULO 16. DA SOLUÇÃO DE CONTROVÉRSIAS
+CLÁUSULA 46.       DA COMISSÃO TÉCNICA
+    46.1. As PARTES poderão constituir Comissão Técnica para a solução de eventuais
+    divergências/conflito de interesse de natureza técnica durante a execução das OBRAS e
+    prestação dos SERVIÇOS, observando-se precedentemente o que segue.
+        46.1.1.    As PARTES deverão envidar os melhores esforços para resolver
+        amigavelmente, utilizando-se do princípio da boa-fé, por meio de negociação direta,
+        qualquer divergência/conflito de interesse que venha a surgir em decorrência do
+        presente CONTRATO.
+    46.2. Na ocorrência de divergências/conflito de interesse nos termos desta cláusula, a
+    PARTE interessada notificará por escrito a outra PARTE apresentando todas as suas
+    alegações acerca da divergência/conflito de interesse, devendo também ser acompanhada de
+    uma sugestão para a solução e/ou elucidação da divergência/ conflito de interesse.
+    46.2.1. Após o recebimento da notificação, a PARTE notificada terá um prazo de 10 (dez)
+    dias úteis, contados do recebimento da notificação, para responder se concorda com a
+    solução proposta.
+    46.2.2. Caso a PARTE notificada concorde com a solução apresentada, as PARTES darão
+    por encerrado a divergência/conflito de interesse e tomarão as medidas necessárias para
+    implementar o que foi acordado.
+    46.2.3. Caso não concorde, a PARTE notificada, no mesmo prazo acima estipulado, deverá
+    apresentar à PARTE interessada os motivos pelos quais discorda da solução apresentada,
+    devendo, nessa hipótese, apresentar uma solução alternativa para o caso.
+
+
+                                          Página 56 de 65
+46.2.4. No caso de discordância da PARTE notificada, deverá ser instaurada a comissão de
+que trata a subcláusula 46.1, no prazo de 5 (cinco) dias úteis, a fim de debater e solucionar
+a divergência/conflito de interesse em causa.
+46.2.5. A Comissão Técnica é competente para emitir relatórios técnicos fundamentados
+sobre as questões que lhe forem submetidas pelo PODER CONCEDENTE ou pela
+CONCESSIONÁRIA, relativamente a divergência/conflito de interesse que venham a surgir
+quanto aos aspectos citados na subcláusula 50.1.
+46.3. Os membros da Comissão Técnica serão designados da seguinte forma:
+46.3.1. Um membro efetivo e o respectivo suplente, pelo PODER CONCEDENTE;
+46.3.4. Um membro efetivo e o respectivo suplente, pela CONCESSIONÁRIA;
+46.3.5. Um membro efetivo, que será o presidente da Comissão Técnica, escolhido em
+comum acordo entre as Partes, devendo recair sobre profissional independente e de conceito
+reconhecido no assunto.
+46.3.6. Cada uma das Partes arcará com as despesas de seus representantes/membros e os
+honorários do presidente da Comissão serão divididos igualmente entre as Partes.
+46.4. Os membros da Comissão Técnica não poderão estar enquadrados em situações de
+impedimento e suspeição impostas aos juízes, previstas no Código de Processo Civil, bem
+como deverão proceder com imparcialidade, independência, competência e discrição.
+46.5. O procedimento para solução de divergências/conflito de interesse iniciar-se-á
+mediante a comunicação, pela Parte que solicitar a instauração da Comissão Técnica, à outra
+Parte, fornecendo cópia de todos os documentos relacionados ao objeto da divergência/
+conflito de interesse.
+46.6. No prazo de até 10 (dez) dias úteis, a contar do recebimento da comunicação referida
+na subcláusula acima, ambas as partes apresentarão suas alegações relativamente à questão
+formulada, encaminhando à Comissão Técnica cópia de todos os elementos pertinentes.
+46.7. O relatório conclusivo da Comissão Técnica será emitido em um prazo máximo de
+30 (trinta) dias, a contar da data do recebimento, pela Comissão, das alegações apresentadas
+pela parte reclamada, se outro prazo não for estabelecido pelas Partes de comum acordo, e
+aceito pela Comissão.
+46.8. Os relatórios da comissão serão considerados aprovados se contarem com o voto
+favorável de, pelo menos, 2 (dois) de seus membros e apresentarem proposta de solução.
+46.9. Caso aceita pelas Partes, a solução amigável proposta pela Comissão será
+considerada para o CONTRATO, por meio de termo circunstanciado e valerá como
+instrumento do contrato ou outra forma que as Partes decidirem.
+
+
+
+
+                                      Página 57 de 65
+      46.10. Caso a divergência não seja resolvida pela comissão ou a solução proposta pela
+      comissão não seja aceita por qualquer uma das partes, a resolução da divergência/conflito
+      de interesse será encaminhada para arbitragem.
+      46.11. A submissão de qualquer questão à Comissão não exonera as partes de dar integral
+      cumprimento às suas obrigações contratuais, incluindo as emitidas após a apresentação da
+      questão, nem permite qualquer interrupção no desenvolvimento das atividades relacionadas
+      com a CONCESSÃO.
+      46.12. Somente se admitirá a paralisação das obras/serviços quando o objeto da divergência/
+      conflito de interesse implicar riscos à segurança de pessoas e/ou do empreendimento.
+      46.13. Não encontrando solução amigável no prazo de até 60 (sessenta) dias, contados da
+      instauração da comissão, aplica-se o procedimento arbitral previsto na cláusula a seguir.
+
+
+CLÁUSULA 47.          DA ARBITRAGEM
+47.1. As controvérsias que vierem a surgir entre as PARTES durante a execução deste
+   CONTRATO, a qualquer tempo, poderão ser submetidas à arbitragem institucional, mediante
+   notificação, pela PARTE interessada à outra, para que as PARTES firmem compromisso
+   arbitral, por escrito.
+47.2. O procedimento arbitral terá lugar em câmara de arbitragem a ser definida em comum acordo
+      entre o PODER CONCEDENTE e a CONCESSIONÁRIA.
+47.3. Caso as PARTES não cheguem a um consenso acerca do compromisso arbitral a ser firmado,
+      no prazo de 30 (trinta) dias contados do recebimento da notificação referida no item 51.1,
+      por uma das PARTES, a controvérsia em questão poderá ser submetida a análise pelo Poder
+      Judiciário.
+47.4. As decisões e a sentença do tribunal arbitral serão definitivas e vincularão as PARTES e
+      seus sucessores.
+47.5. A responsabilidade pelos custos do procedimento arbitral será determinada da seguinte
+      forma:
+47.5.a.        a PARTE que solicitar a arbitragem será responsável pelas custas para instauração
+      do procedimento arbitral, incluindo o adiantamento de percentual dos honorários devidos
+      aos árbitros;
+47.5.b.        os custos e encargos referentes a eventuais providências tomadas no procedimento
+      arbitral recairão sobre a PARTE que solicitou a referida providência, sendo compartilhados
+      pelas PARTES quando a providência for requerida pelo próprio tribunal arbitral;
+
+
+
+
+                                            Página 58 de 65
+47.5.c.      a PARTE vencida no procedimento arbitral assumirá todas as custas, devendo
+      ressarcir a PARTE vencedora pelas custas que esta, porventura, já tenha assumido no aludido
+      procedimento; e
+47.5.d.      no caso de procedência parcial do pleito levado ao tribunal arbitral, os custos serão
+      divididos entre as PARTES, se assim entender o tribunal, na proporção da sucumbência de
+      cada uma.
+
+
+                        CAPÍTULO 17.         DAS DISPOSIÇÕES FINAIS
+CLÁUSULA 48.           DAS COMUNICACÕES
+      48.1. As comunicações entre as PARTES serão efetuadas por escrito e remetidas (i) em
+      mãos, desde que comprovadas por protocolo; por correio registrado, com aviso de
+      recebimento ou (iii) por correio eletrônico.
+      48.2. Considerar-se-ão, para efeitos de remessa das comunicações, na forma desta
+      Cláusula, os endereços e e-mails oficiais das PARTES.
+      48.3. Qualquer das PARTES poderá modificar o endereço ou e-mail mediante simples
+      comunicação por escrito à outra.
+
+
+CLÁUSULA 49.           DA CONTAGEM DOS PRAZOS
+      49.1. Na contagem dos prazos a que alude este CONTRATO, excluir-se-á o dia de início
+      e incluir-se-á o dia do vencimento, e se considerarão os dias corridos, exceto quando for
+      explicitamente feita referência a dia útil.
+      49.2. Os prazos só iniciam ou terminam a sua contagem em dias de normal expediente do
+      PODER CONCEDENTE.
+      49.3. Na ocorrência de uma das causas justificadoras de inexecução, os prazos fixados
+      neste CONTRATO ficarão suspensos exclusivamente em relação às obrigações diretamente
+      afetadas pelo evento extraordinário, recomeçando a contagem logo assim que cessarem os
+      seus efeitos, aplicando-se o previsto no CONTRATO para estas hipóteses.
+
+
+CLÁUSULA 50.           DO EXERCICÍO DE DIREITOS
+      50.1. O não exercício ou o exercício tardio ou parcial de qualquer direito que assista a
+      qualquer das PARTES pelo Contrato não importa em renúncia a esse direito, nem impede
+      seu exercício posterior a qualquer tempo, nem constituirá novação da respectiva obrigação
+      ou precedente.
+
+
+
+
+                                              Página 59 de 65
+CLÁUSULA 51.        DA INVALIDADE PARCIAL
+    51.1. Se qualquer disposição do CONTRATO for considerada ou declarada nula, inválida,
+    ilegal ou inexequível em qualquer aspecto, a validade, a legalidade e a exequibilidade das
+    demais disposições contidas no CONTRATO não serão, de qualquer forma, afetadas ou
+    restringidas por tal fato.
+
+
+CLÁUSULA 52.        DA PUBLICACÃO E REGISTRO DO CONTRATO
+    52.1. O PODER           CONCEDENTE        providenciará    a publicação resumida deste
+    CONTRATO, na imprensa oficial, até o 5° (quinto) dia útil do mês seguinte ao de sua
+    assinatura, para ocorrer no prazo de vinte dias daquela data, na forma do disposto no
+    parágrafo único do artigo 61 da Lei Federal nº 8.666/93.
+
+
+CLÁUSULA 53.        DO FORO
+    53.1. As PARTES elegem o foro de Assis, com exclusão de qualquer outro, por mais
+    privilegiado que seja, para dirimir as controvérsias não dirimidas de forma amigável e para
+    conhecer de ações que garantam a completa realização do procedimento arbitral nos moldes
+    estabelecidos na Cláusula 51.
+    53.2. Assim, havendo sido ajustado, fizeram as partes lavrar o presente instrumento, em 3
+    (três) vias, de igual teor e forma, que serão assinadas pelos representantes das PARTES,
+    juntamente com duas testemunhas, para que produza seus regulares efeitos, obrigando-se
+    entre si herdeiros e sucessores.
+    53.3. E, por estarem justas e contratadas as PARTES assinam o CONTRATO.
+
+
+                                    Assis, XX de XXX de 202......
+
+
+ _____________________________                    _____________________________
+          CONTRATANTE                              [SPE], REPRESENTADO POR [.].
+       CIVAP - CONSÓRCIO
+ INTERMUNICIPAL DO VALE DO
+        PARANAPANEMA
+
+
+     PODER CONCEDENTE:
+ _____________________________                    _____________________________
+         Município de Assis                          Município de Cândido Mota
+
+
+
+
+                                           Página 60 de 65
+ _____________________________                 _____________________________
+           Município de Cruzália                  Município de Echaporã
+
+
+ _____________________________                 _____________________________
+           Município de Florínea                  Município de Ibirarema
+
+
+ _____________________________                 _____________________________
+           Município de Lutécia                Município de Oscar Bressane
+
+
+ _____________________________                 _____________________________
+           Município de Palmital             Município de Paraguaçu Paulista
+
+
+ _____________________________                 _____________________________
+      Município de Pedrinhas Paulista              Município de Platina
+
+
+ _____________________________                 _____________________________
+Município de Santa Cruz do Rio Pardo                      Município de Tarumã
+
+
+
+
+    _______________________                       ________________________
+    PRIMEIRA TESTEMUNHA                            SEGUNDA TESTEMUNHA
+              Nome:                                             Nome:
+                RG:                                              RG:
+               CPF:                                              CPF:
+
+
+
+
+                                        Página 61 de 65
+                              ANEXOS
+
+
+
+
+                    ANEXO I – PLANO DE NEGÓCIOS
+
+
+
+                   ANEXO II – EDITAL E SEUS ANEXOS
+
+
+
+           ANEXO III- QUADRO DE INDICADORES DE DESEMPENHO
+
+
+
+             ANEXO III- QUADRO DE INDICADORES DE DESEMPENHO
+
+
+
+   ANEXO IV – DOCUMENTAÇÃO DA GARANTIA DE EXECUÇÃO DO CONTRATO
+
+
+
+ANEXO VI – TERMO DE REFERÊNCIA DO CONTRATO DE GARANTIA DE PAGAMENTO
+
+
+
+
+                               Página 62 de 65
+        ANEXO VI – TERMO DE REFERÊNCIA DO CONTRATO DE GARANTIA DE
+                             PAGAMENTO
+
+
+
+
+1. A GARANTIA DE PAGAMENTO será prestada na modalidade de vinculação de receitas,
+   nos termos do art. 8º, I, da Lei 11.079/2004 (“Garantia”).
+
+
+2. Entre as obrigações pecuniárias asseguradas pela GARANTIA DE PAGAMENTO está o
+   pagamento mensal da CONTRAPRESTAÇÃO e indenizações de qualquer natureza,
+   inclusive decorrentes do reequilíbrio econômico-financeiro ou do término do CONTRATO;
+
+
+3. O valor da GARANTIA DE PAGAMENTO será, durante todo o prazo do CONTRATO,
+   equivalente ao valor do CONTRATO;
+
+
+4. A GARANTIA DE PAGAMENTO será formalizada mediante o CONTRATO DE
+   GARANTIA, a ser firmado entre o PODER CONCEDENTE, o CONTRATANTE, a
+   CONCESSIONÁRIA e o AGENTE FINANCEIRO INDEPENDENTE.
+
+
+5. O CONTRATO DE GARANTIA conterá os seguintes termos e condições:
+
+
+   a) Autorização, por parte do PODER CONCEDENTE, para que o AGENTE
+      FINANCEIRO        INDEPENDENTE          centralize,   em   conta   segregada,   de   não
+      movimentação (“Conta Centralizadora”), de repasses de valores pelos municípios do
+      montante das garantias para as contraprestações.
+
+
+   b) Autorização, por parte, do PODER CONCEDENTE, para que o AGENTE
+      FINANCEIRO INDEPENDENTE acumule e mantenha depositado, em conta vinculada
+      ao CONTRATO (“Conta Reserva”), atrelada à Conta Centralizadora, o valor pecuniário
+      de três mensalidades da CONTRAPRESTAÇÃO;
+
+
+   c) Autorização, por parte do PODER CONCEDENTE, para que o AGENTE
+      FINANCEIRO INDEPENDENTE transfira da Conta Centralizadora para a conta de
+      pagamento vinculada ao Contrato (“Conta Pagamento”) os valores acumulados na Conta
+      Centralizadora, depois da composição do saldo garantidor mínimo da Conta Reserva;
+
+
+
+                                         Página 63 de 65
+d) Autorização, por parte do PODER CONCEDENTE, para que o AGENTE
+   FINANCEIRO INDEPENDENTE transfira da Conta Pagamento para conta de livre
+   movimentação da CONCESSIONÁRIA, de titularidade dessa última, o valor faturado
+   mensalmente para o CONTRATANTE ou PODER CONCEDENTE;
+
+
+e) Autorização, por parte do PODER CONCEDENTE, para que o AGENTE
+   FINANCEIRO INDEPENDENTE transfira o saldo da Conta Pagamento, mensalmente,
+   após o pagamento da Concessionária, para conta bancária de titularidade do Contratante
+   ou do PODER CONCEDENTE, sem nenhum prejuízo da Conta Reserva;
+
+
+f) Autorização, por parte do PODER CONCEDENTE, para que o AGENTE
+   FINANCEIRO INDEPENDENTE efetue pagamentos, a partir da Conta Pagamento ou
+   da Conta Reserva, mediante a apresentação das faturas emitidas mensalmente para o
+   CONTRATANTE ou PODER CONCEDENTE;
+
+
+g) Nenhuma transferência da Conta Pagamento para conta bancária de titularidade do
+   CONTRATANTE ou do PODER CONCEDENTE será admitida enquanto houver um
+   evento de inadimplemento do PODER CONCEDENTE, incluindo o não pagamento da
+   CONTRAPRESTAÇÃO ou a não observância do saldo garantidor mínimo na Conta
+   Reserva;
+
+
+h) O percentual para as Receitas Vinculadas será definido em função do valor do Contrato;
+
+
+i) O AGENTE FINANCEIRO INDEPENDENTE terá mandato para abrir e administrar a
+   Conta Centralizadora, a Conta Reserva e a Conta Pagamento, entre outras contas que, no
+   seu entendimento, devam ser abertas e geridas para o devido funcionamento da
+   GARANTIA DE PAGAMENTO;
+
+
+j) A Conta Centralizadora, a Conta Reserva e a Conta Pagamento serão de titularidade do
+   CONTRATANTE, terão a natureza de contas de movimentação restrita e não poderão
+   movimentar recursos, sob nenhuma hipótese, em condições contrárias ao disposto no
+   CONTRATO DE GARANTIA;
+
+
+k) O prazo do CONTRATO DE GARANTIA deverá ser igual ao prazo da CONCESSÃO
+   ADMINISTRATIVA;
+
+
+                                     Página 64 de 65
+   l) Condições para substituição do AGENTE FINANCEIRO INDEPENDENTE;
+
+
+   m) Taxa de remuneração do AGENTE FINANCEIRO INDEPENDENTE, em função dos
+       serviços prestados no âmbito da GARANTIA DE PAGAMENTO;
+
+
+   n) Impossibilidade, salvo por prévia e expressa autorização da CONCESSIONÁRIA, de
+       constituição de novas garantias sobre as Receitas Vinculadas.
+
+
+
+6. O contrato de rateio a ser celebrado entre os MUNICÍPIOS e o CIVAP será formalizado de
+   modo consistente com as necessidades da GARANTIA DE PAGAMENTO, conforme este
+   Anexo e o disposto no CONTRATO.
+
+
+
+
+                                         Página 65 de 65
+

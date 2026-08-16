@@ -73,6 +73,7 @@ concessoes/[projeto]/
 | Projeto | Município/UF | Modalidade | Objeto | Fase | Status |
 |---|---|---|---|---|---|
 | [`marilia-ppp020-2025`](marilia-ppp020-2025/) | Marília/SP | Concorrência (concessão administrativa) | Tratamento e valorização de RSU — gaseificação/pirólise + biodigestão, 30 anos | FASE1 | em análise |
+| [`civap-ppp001-2021`](civap-ppp001-2021/) | CIVAP (Vale do Paranapanema)/SP | Concorrência (concessão administrativa) | Tratamento e destinação de RSU com CTGE — certame homologado; gestão contratual e análise societária da SPE | análise documental | em análise |
 
 Fase: `FASE1` (varredura) · `FASE2` (matriz) · `FASE3` (redação — humana) · `CV` (comparação versional).
 Status: `em análise` · `impugnado` · `aguardando republicação` · `encerrado`.
