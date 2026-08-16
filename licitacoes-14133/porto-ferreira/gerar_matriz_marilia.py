@@ -176,24 +176,52 @@ def add_multiline_cell(cell, text, font_name="Times New Roman", font_size=10):
             run.font.size = Pt(font_size)
 
 
-def build_argumento_text(body):
+def build_argumento_text(body, tid="", source=""):
     arg = extract_section(body, "Argumento")
     contra = extract_section(body, "Contra-argumentos")
-    combined = arg
+    paras = [p.strip() for p in arg.split("\n\n") if p.strip()]
+    if len(paras) <= 2:
+        synopsis = arg
+    else:
+        synopsis = paras[0] + "\n\n" + paras[-1]
     if contra:
-        combined += "\n\n— Contra-argumentos antecipados —\n\n" + contra
-    # trim excessive length for the table
-    if len(combined) > 8000:
-        combined = combined[:8000] + "\n[...texto completo no arquivo AN_bloco correspondente]"
-    return combined
+        contra_paras = [p.strip() for p in contra.split("\n\n") if p.strip()]
+        synopsis += "\n\n**Contra-argumento provável:** " + contra_paras[0]
+    if len(synopsis) > 1500:
+        synopsis = synopsis[:1500].rsplit(" ", 1)[0] + "…"
+    bloco = source.replace("AN_bloco", "").replace(".md", "")
+    synopsis += f"\n\n[Argumento completo → AN_bloco{bloco}.md, {tid}]"
+    return synopsis
+
+
+def extract_citations_only(fund_text):
+    """Extract just citation identifiers from a Fundamento section."""
+    lines = []
+    for line in fund_text.split("\n"):
+        line_s = line.strip().lstrip("- •")
+        if not line_s:
+            continue
+        if any(kw in line_s for kw in ("art.", "Art.", "§", "inciso", "Lei n",
+                                        "Súmula", "Acórdão", "Decreto",
+                                        "LC ", "CF/1988", "NR ", "Resolução",
+                                        "IN ", "CONAMA")):
+            lines.append("• " + line_s.split(" — ")[0].split(" (")[0].strip())
+    seen = []
+    for l in lines:
+        if l not in seen:
+            seen.append(l)
+    return "\n".join(seen)
 
 
 def build_fundamento_text(body, jusia_extra=""):
     fund = extract_section(body, "Fundamento")
+    citations = extract_citations_only(fund)
     doutrina = extract_section(body, "Doutrina")
-    parts = [fund]
+    parts = [citations]
     if doutrina and doutrina != "—":
-        parts.append("Doutrina: " + doutrina)
+        dout_lines = [l.strip() for l in doutrina.split("\n") if l.strip() and l.strip() != "—"]
+        if dout_lines:
+            parts.append("Doutrina: " + "; ".join(dout_lines)[:300])
     if jusia_extra:
         parts.append(jusia_extra)
     return "\n".join(p for p in parts if p)
@@ -218,27 +246,33 @@ def parse_annex_by_theme(text):
     return result
 
 
-def summarize_annex_for_fundamento(annex_section, max_chars=2000):
-    """Extract key decisions from an annex section for the Fundamento column."""
+def summarize_annex_for_fundamento(annex_section, max_items=5):
+    """Extract just citation IDs from an annex section (compact)."""
     if not annex_section:
         return ""
     lines = []
     for line in annex_section.split("\n"):
         line_s = line.strip()
-        if line_s.startswith("- ") and ("[VIT]" in line_s or "Acórdão" in line_s
-                                        or "Entendimento" in line_s
-                                        or "Súmula" in line_s):
-            entry = line_s[2:].strip()
-            dash = entry.find(" — ", 0, 120)
-            if dash > 0:
-                entry = entry[:dash]
-            lines.append("• " + entry)
-    if not lines:
+        if not line_s.startswith("- ") and not line_s.startswith("**"):
+            continue
+        text = line_s.lstrip("-* ").strip()
+        for kw in ("Acórdão", "Entendimento TCU", "STJ,", "TJSP,", "Súmula"):
+            if text.startswith(kw):
+                dash = text.find(" — ", 0, 150)
+                ident = text[:dash].strip() if dash > 0 else text[:120].strip()
+                if "[VIT]" in text and "[VIT]" not in ident:
+                    ident += " [VIT]"
+                lines.append("• " + ident)
+                break
+    seen = []
+    for l in lines:
+        if l not in seen:
+            seen.append(l)
+    if not seen:
         return ""
-    combined = "\n".join(lines)
-    if len(combined) > max_chars:
-        combined = combined[:max_chars] + "\n[...ver anexo completo]"
-    return combined
+    if len(seen) > max_items:
+        seen = seen[:max_items] + [f"[...+{len(seen) - max_items} decisões — ver anexo]"]
+    return "\n".join(seen)
 
 
 def main():
@@ -369,9 +403,9 @@ def main():
             problema += "\n[VALIDAÇÃO TÉCNICA]"
         add_multiline_cell(row.cells[2], problema, font_size=9)
 
-        # Argumento (full text with contra-arguments)
-        arg_text = build_argumento_text(body)
-        add_multiline_cell(row.cells[3], arg_text, font_size=8)
+        # Argumento (synopsis + ref to full AN block)
+        arg_text = build_argumento_text(body, tid, thesis.get("_source", ""))
+        add_multiline_cell(row.cells[3], arg_text, font_size=9)
 
         # Fundamento (merge AN block + annex jurisprudence)
         annex_parts = []
@@ -387,7 +421,7 @@ def main():
                 annex_parts.append("— Jurisprudência STJ/TJ + doutrina (Jus IA) —\n" + summary)
         jusia_extra = "\n\n".join(annex_parts)
         fund_text = build_fundamento_text(body, jusia_extra)
-        add_multiline_cell(row.cells[4], fund_text, font_size=8)
+        add_multiline_cell(row.cells[4], fund_text, font_size=9)
 
         # Esclarecimentos?
         roteamento = extract_section(body, "Roteamento")
