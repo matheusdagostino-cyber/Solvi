@@ -1,0 +1,716 @@
+Caderno III
+Modelagem Jurídica
+
+Anexo II.7 – Das Diretrizes
+Ambientais Básicas
+
+
+
+
+Desenvolvimento:
+        ANEXO II.7 - DAS DIRETRIZES AMBIENTAIS BÁSICAS
+
+1. OBJETO
+
+O presente anexo tem por objetivo apresentar os requisitos legais e outros requisitos que
+deverão ser observados pelo licitante no âmbito do empreendimento de aproveitamento
+energético de resíduos domésticos, no que se refere às fases de licenciamento ambiental.
+
+
+Ressalta-se que a licitante vencedora do certame será responsável por atender integralmente
+às exigências que venham a ser solicitadas pelo órgão ambiental competente, cabendo
+exclusivamente à Companhia Ambiental do Estado de São Paulo (CETESB) a análise técnica
+e a definição sobre a documentação, os estudos e os requisitos necessários ao longo do
+processo de licenciamento.
+
+
+Assim, os itens aqui relacionados constituem referências legais e aspectos a serem
+considerados pelo licitante em sua proposta, sem que isso represente qualquer antecipação
+de exigências ou supressão da competência exclusiva da CETESB para, no momento próprio,
+solicitar os documentos e estudos que reputar pertinentes.
+
+
+O presente anexo estabelece as diretrizes ambientais, tecnológicas e operacionais aplicáveis
+ao licenciamento, implantação, operação e monitoramento de sistemas integrados de
+valorização de resíduos sólidos domiciliares, no âmbito da prestação dos serviços de manejo
+e tratamento de resíduos sólidos urbanos.
+
+
+O sistema deverá contemplar soluções tecnológicas destinadas à recuperação material,
+valorização energética e redução da disposição final em aterros sanitários, observando os
+princípios da economia circular, transição energética e mitigação de emissões de gases de
+efeito estufa.
+
+
+2. OBJETIVOS
+
+Constituem objetivos deste Anexo Técnico:
+I – Promover a gestão integrada e sustentável dos resíduos sólidos domiciliares;
+II – Incentivar a recuperação de materiais recicláveis e a valorização energética dos resíduos;
+III – Reduzir a quantidade de rejeitos destinados a aterros sanitários;
+IV – Estimular a adoção de tecnologias ambientalmente adequadas;
+V – Contribuir para a mitigação das emissões de gases de efeito estufa;
+VI – Assegurar o cumprimento da legislação ambiental e sanitária vigente;
+VII – Promover a geração de trabalho e renda associada às atividades de reciclagem e
+reaproveitamento de resíduos.
+
+
+                                                                                                    2
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                    VERSÃO 07_2026, 21 JULHO 2026
+3. PRINCÍPIOS AMBIENTAIS
+
+Os sistemas de valorização de resíduos deverão observar os seguintes princípios:
+I – Prevalência do interesse público;
+II – Melhoria contínua da qualidade ambiental;
+III – Uso racional dos recursos naturais;
+IV – Prevenção e mitigação de impactos ambientais;
+V – Participação social e comunitária na proteção ambiental;
+VI – Integração entre políticas públicas ambientais, urbanas e sanitárias;
+VII – Estímulo à pesquisa científica e à inovação tecnológica;
+VIII – Educação ambiental como instrumento de transformação social;
+IX – Responsabilidade ambiental na produção e consumo.
+
+
+4. MARCO LEGAL E REGULATÓRIO
+
+Os empreendimentos deverão observar a legislação ambiental, sanitária e de saneamento
+aplicável, incluindo, entre outras:
+
+
+
+   4.1 POLÍTICA NACIONAL DE RESÍDUOS SÓLIDOS
+Lei nº 12.305/2010, que institui a Política Nacional de Resíduos Sólidos, estabelecendo:
+    •     responsabilidade compartilhada pelo ciclo de vida dos produtos;
+    •     hierarquia na gestão de resíduos;
+    •     incentivo à recuperação e valorização energética.
+
+
+Decreto nº 10.936, de 12 de janeiro de 2022, regulamenta a Política Nacional de Resíduos
+Sólidos (PNRS - Lei nº 12.305/2010). Ele estabelece diretrizes para a gestão de resíduos,
+logística reversa obrigatória, responsabilidade compartilhada e incentiva a reciclagem e
+inclusão de catadores.
+
+
+
+  4.2. PLANO NACIONAL DE RESÍDUOS SÓLIDOS (PLANARES)
+Decreto nº 11.043, de 13 de abril de 2022, aprova o Plano Nacional de Resíduos Sólidos
+(Planares), estabelecendo metas e diretrizes estratégicas para o gerenciamento de lixo no
+Brasil para as próximas décadas.
+
+
+O Planares estabelece metas progressivas e de longo prazo para modernizar a gestão de
+resíduos no país. Entre as principais metas estão:
+
+
+    a)     Meta Global de Recuperação de Resíduos
+    •     Recuperação de 50% dos resíduos gerados em todo território nacional até 2040, por
+          meio de reciclagem, compostagem, biodigestão e recuperação energética.
+                                                                                                   3
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                   VERSÃO 07_2026, 21 JULHO 2026
+    b)     Metas para a Fração Seca (Recicláveis)
+    •     Aumentar o percentual de reciclagem de embalagens em geral, com metas
+          específicas para diferentes materiais:
+                o     Até 2024: pelo menos 30% de reciclagem de embalagens plásticas
+                o     Até 2040: 50% de reciclagem de embalagens.
+    c)    Metas para a Fração Orgânica
+    •     Recuperação de 13,5% da fração orgânica dos RSU por meio de compostagem e
+          biodigestão até 2040;
+    •     Eficiência mínima de 50% na captação de biogás em aterros sanitários.
+    d) Redução da Disposição em Aterros
+    •     Redução de 48,1% na disposição final de resíduos em aterros sanitários até 2040;
+    •     Encerramento de todos os lixões e aterros controlados do país;
+    e) Metas para Logística Reversa.
+    •     Até 2024: 30% de recolhimento de resíduos de eletrônicos, pilhas e baterias pelas
+          empresas.
+    f)    Metas Sociais (Inclusão de Catadores)
+    •     Aumentar de 8% para 95% até 2040 o percentual de municípios que remuneram
+          catadores e cooperativas pelos serviços de reciclagem.
+
+
+
+   4.3 MARCO LEGAL DO SANEAMENTO BÁSICO
+
+
+Lei nº 14.026/2020, de fato, a lei que instituiu o Novo Marco Legal do Saneamento Básico,
+sendo a peça central das reformas no setor.
+
+
+O referido Ato Legal define as diretrizes para a prestação regionalizada dos serviços de
+saneamento básico e para a sustentabilidade econômico-financeira dos sistemas.
+
+
+
+   4.4 LEGISLAÇÃO AMBIENTAL APLICÁVEL
+Aplicam-se também:
+    •     Lei nº 6.938/1981 – Política Nacional do Meio Ambiente
+    •     Lei nº 9.605/1998 – Lei de Crimes Ambientais
+    •     Lei Estadual nº 12.300/2006 - Institui a Política Estadual de Resíduos Sólidos de São
+          Paulo
+    •     Decreto Estadual nº 59.113/2013 - Estabelece novos padrões de qualidade do ar no
+          estado de São Paulo
+    •     Resolução CONAMA nº 01/1986 – Estudo de Impacto Ambiental (EIA/RIMA)
+    •     Resolução CONAMA nº 237/1997 – Licenciamento ambiental
+    •     Resolução CONAMA nº 316/2002 - Estabelece os procedimentos e critérios para o
+          licenciamento de sistemas de tratamento térmico de resíduos
+
+                                                                                                     4
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                     VERSÃO 07_2026, 21 JULHO 2026
+    •     Resolução CONAMA nº 481/2017 - Estabelece critérios para o uso e manejo de
+          resíduos orgânicos
+    •     Resolução CONAMA nº 382/2006 - Estabelece os limites máximos de emissão de
+          poluentes atmosféricos para fontes fixas
+    •     Resolução do CONAMA Nº 506/2024 - Estabelece padrões nacionais de qualidade do
+          ar e fornece diretrizes para sua aplicação. Revoga os arts. 1º ao 8º, os arts. 12 a 14
+          e o Anexo I da Resolução Conama nº 491, de 19 de novembro de 2018; e os itens
+          2.2.1 e 2.3 da Resolução Conama nº 5, de 15 de junho de 1989.
+
+
+5. DIRETRIZES DE GESTÃO INTEGRADA DE RESÍDUOS
+
+A gestão integrada de resíduos sólidos deverá priorizar:
+I – Redução da geração de resíduos na fonte;
+II – Reutilização e reciclagem de materiais;
+III – Recuperação energética;
+IV – Tratamento ambientalmente adequado dos resíduos;
+V – Disposição final ambientalmente adequada dos rejeitos.
+
+
+O Município deverá incentivar a implementação de programas de coleta seletiva, bem como
+a inclusão socioeconômica de catadores e cooperativas de reciclagem.
+
+
+6. PRINCÍPIOS DE ECONOMIA CIRCULAR
+
+Os sistemas integrados deverão ser estruturados de forma a priorizar:
+I – Recuperação de materiais recicláveis;
+II – Valorização energética de frações não recicláveis;
+III – Produção de insumos industriais a partir de resíduos;
+IV – Captura e aproveitamento de carbono biogênico;
+V – Minimização da geração de rejeitos.
+
+
+Sempre que tecnicamente viável, deverá ser buscada a meta de destinação inferior a 20%
+dos resíduos gerados para aterros sanitários.
+
+
+7. CARACTERIZAÇÃO DOS RESÍDUOS
+
+Previamente à implantação do empreendimento deverá ser realizada caracterização
+gravimétrica, físico-química e energética dos resíduos sólidos domiciliares.
+
+
+Os parâmetros mínimos a serem analisados incluem:
+    •     composição gravimétrica dos resíduos;
+    •     teor de umidade;
+
+                                                                                                     5
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                     VERSÃO 07_2026, 21 JULHO 2026
+    •     poder calorífico inferior (PCI);
+    •     teor de carbono orgânico;
+    •     presença de metais pesados.
+
+
+A caracterização deverá subsidiar o dimensionamento das tecnologias de tratamento e
+recuperação energética.
+
+
+8. ARQUITETURA TECNOLÓGICA DOS SISTEMAS
+
+Os sistemas integrados de valorização de resíduos poderão contemplar, de forma combinada,
+as seguintes etapas tecnológicas:
+I – Recepção e controle de resíduos;
+II – Triagem e separação de recicláveis;
+III – Tratamento mecânico biológico (MTB);
+IV – Biodigestão anaeróbia da fração orgânica;
+V – Produção e tratamento de biogás;
+VI – Produção de biometano;
+VII – Captura e valorização de dióxido de carbono biogênico;
+VIII – Tratamento termoquímico de rejeitos por processos de gaseificação ou pirólise;
+IX – Produção de biochar, combustíveis ou outros insumos industriais.
+
+
+9. BIODIGESTÃO ANAERÓBIA
+
+A biodigestão anaeróbia poderá ser utilizada para o tratamento da fração orgânica dos
+resíduos.
+Os principais produtos desse processo são:
+    •     Biogás;
+    •     Digestato;
+    •     Energia térmica ou elétrica.
+O biogás gerado poderá ser utilizado para geração de energia ou submetido a processos de
+purificação para produção de biometano.
+
+
+10. PRODUÇÃO DE BIOMETANO E APROVEITAMENTO DO BIOGÁS
+
+O biogás produzido nos processos de biodigestão poderá ser submetido a processos de
+upgrade, visando a produção de biometano com pureza superior a 96% de metano.
+
+
+O biometano poderá ser destinado a:
+    •     Combustível veicular;
+    •     Geração de energia elétrica;
+    •     Uso industrial;
+
+                                                                                                 6
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                 VERSÃO 07_2026, 21 JULHO 2026
+    •     Injeção em redes de distribuição de gás natural.
+
+
+11. TRATAMENTO TÉRMICO – GASEIFICAÇÃO, PIRÓLISE OU OUTRA ALTERNATIVA
+
+Os processos termoquímicos de gaseificação, pirólise ou outra alternativa poderão ser
+utilizados para o tratamento de frações de resíduos com elevado poder calorífico.
+
+
+Esses processos podem gerar:
+    •     Gás de síntese (syngas);
+    •     Bio-óleo;
+    •     Biochar;
+    •     Energia térmica ou elétrica.
+
+
+12. LICENCIAMENTO AMBIENTAL
+
+A implantação e operação das unidades de tratamento estarão sujeitas ao licenciamento
+ambiental, que deverá observar as etapas previstas na legislação vigente:
+I – Licença Prévia (LP);
+II – Licença de Instalação (LI);
+III – Licença de Operação (LO).
+
+
+Dependendo do porte do empreendimento poderão ser exigidos a critério do órgão de controle
+ambiental estadual, os seguintes estudos:
+
+    •     Estudo Ambiental Simplificado (EAS);
+    •     Relatório Ambiental Simplificado (RAS);
+    •     Relatório Ambiental Preliminar (RAP);
+    •     Estudo de Impacto Ambiental (EIA);
+    •     Relatório de Impacto Ambiental (RIMA).
+
+
+
+   12.1. EAS – ESTUDO AMBIENTAL SIMPLIFICADO
+O EAS é um estudo técnico utilizado para avaliar a viabilidade ambiental de empreendimentos
+de pequeno ou médio impacto, apresentando uma análise simplificada dos impactos
+ambientais.
+Objetivo
+    •     Demonstrar a viabilidade ambiental do projeto
+    •     Identificar impactos ambientais menos significativos
+    •     Propor medidas de mitigação e controle
+Conteúdo típico
+    •     Caracterização do empreendimento
+
+    •     Diagnóstico ambiental simplificado da área
+                                                                                                  7
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                  VERSÃO 07_2026, 21 JULHO 2026
+    •     Identificação dos impactos ambientais
+
+    •     Medidas mitigadoras e compensatórias
+
+    •     Conclusão sobre viabilidade ambiental
+
+
+
+   12.2. RAS – RELATÓRIO AMBIENTAL SIMPLIFICADO
+O RAS é um relatório técnico que apresenta diagnóstico ambiental e avaliação de impactos,
+sendo utilizado como subsídio para a Licença Prévia (LP) em atividades de impacto moderado.
+Objetivo
+    •     Demonstrar a viabilidade ambiental da atividade
+
+    •     Avaliar impactos ambientais
+
+    •     Propor medidas de controle e compensação
+
+Conteúdo típico
+    •     Descrição do empreendimento
+
+    •     Diagnóstico ambiental da área (meio físico, biótico e socioeconômico)
+
+    •     Identificação e avaliação de impactos
+
+    •     Medidas de controle ambiental
+
+    •     Programas ambientais
+
+
+
+  12.3. RAP – RELATÓRIO AMBIENTAL PRELIMINAR
+O RAP é um estudo inicial do licenciamento ambiental que analisa a interação do
+empreendimento com o ambiente, servindo para decidir se será necessário elaborar um
+EIA/RIMA ou não.
+Objetivo
+    •     Avaliar preliminarmente os impactos ambientais
+
+    •     Auxiliar o órgão ambiental na decisão sobre:
+
+                o     exigir EIA/RIMA
+
+                o     ou permitir licenciamento simplificado
+
+Conteúdo típico
+    •     Descrição do empreendimento
+
+    •     Caracterização ambiental da área
+
+    •     Identificação preliminar de impactos
+
+    •     Avaliação da magnitude dos impactos
+
+    •     Conclusão sobre necessidade de estudos mais detalhados
+
+
+
+
+                                                                                                   8
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                   VERSÃO 07_2026, 21 JULHO 2026
+   12.4. EIA/RIMA – ESTUDO DE IMPACTO AMBIENTAL E RELATÓRIO DE IMPACTO
+   AMBIENTAL
+É o estudo ambiental mais completo e detalhado do licenciamento ambiental brasileiro,
+exigido para empreendimentos que podem causar significativa degradação ambiental.
+Foi instituído pela Resolução CONAMA nº 01/1986 e pela Política Nacional do Meio Ambiente
+(Lei 6.938/81).
+
+
+  12.5. 1 EIA – ESTUDO DE IMPACTO AMBIENTAL
+Documento técnico detalhado elaborado por equipe multidisciplinar que avalia os impactos
+ambientais do empreendimento.
+Conteúdo do EIA
+    •     Diagnóstico ambiental completo
+
+                o     Meio físico (solo, água, ar)
+
+                o     Meio biótico (flora e fauna)
+
+                o     Meio socioeconômico
+
+    •     Análise de alternativas locacionais e tecnológicas
+
+    •     Identificação de impactos ambientais
+
+    •     Avaliação de magnitude e significância
+
+    •     Medidas mitigadoras e compensatórias
+
+    •     Programas de monitoramento ambiental
+
+
+
+   12.5.2. RIMA – RELATÓRIO DE IMPACTO AMBIENTAL
+É o resumo do EIA em linguagem acessível, voltado ao público e à sociedade.
+
+
+13. AVALIAÇÃO DE IMPACTOS AMBIENTAIS
+
+Quando exigido, o Estudo de Impacto Ambiental (EIA) deverá contemplar:
+I – Diagnóstico ambiental da área de influência;
+II – Análise dos meios físico, biótico e socioeconômico;
+III – Avaliação de alternativas locacionais e tecnológicas;
+IV – Identificação e avaliação de impactos ambientais;
+V – Proposição de medidas mitigadoras e compensatórias;
+VI – Programas de monitoramento ambiental.
+O Relatório de Impacto Ambiental (RIMA) deverá apresentar as conclusões do estudo em
+linguagem acessível à sociedade.
+
+
+14. PROGRAMAS DE CONTROLE E MONITORAMENTO AMBIENTAL
+
+O operador do sistema deverá implementar programas de controle ambiental que incluam:
+    •     Monitoramento de emissões atmosféricas;
+
+                                                                                                9
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                VERSÃO 07_2026, 21 JULHO 2026
+    •     Controle de efluentes líquidos;
+    •     Monitoramento de ruídos e vibrações;
+    •     Controle de odores;
+    •     Monitoramento da qualidade do solo e das águas subterrâneas;
+    •     Acompanhamento de indicadores ambientais.
+
+
+15. BENEFÍCIOS AMBIENTAIS E CLIMÁTICOS
+
+A implantação de sistemas integrados de valorização de resíduos contribui para:
+I – Redução da disposição final em aterros sanitários;
+II – Geração de energia renovável;
+III – Redução das emissões de metano;
+IV – Captura e aproveitamento de carbono biogênico;
+V – Promoção da economia circular;
+VI – Melhoria da qualidade ambiental urbana.
+
+
+16. REQUISITOS LEGAIS E OUTROS REQUISITOS
+
+
+
+1. Lei nº 12.305/2010, de 02 de agosto de 2010. Institui a Política Nacional de Resíduos
+    Sólidos; altera a Lei no 9.605, de 12 de fevereiro de 1998; e dá outras providências.
+2. Lei nº 14.026/2020, de 15 de julho de 2020. Atualiza o marco legal do saneamento
+    básico.
+3. Lei nº 15.190, de 8 de agosto de 2025. Dispõe sobre o licenciamento ambiental;
+    regulamenta o inciso IV do § 1º do art. 225 da Constituição Federal; altera as Leis nºs
+    9.605, de 12 de fevereiro de 1998 (Lei dos Crimes Ambientais), 9.985, de 18 de julho de
+    2000, e 6.938, de 31 de agosto de 1981; revoga dispositivos das Leis nºs 7.661, de 16 de
+    maio de 1988, e 11.428, de 22 de dezembro de 2006; e dá outras providências.
+4. Decreto nº 10.936, de 12 de janeiro de 2022. Regulamenta a Lei nº 12.305, de 2 de
+    agosto de 2010, que institui a Política Nacional de Resíduos Sólidos.
+5. Decreto nº 11.043, de 13 de abril de 2022. Aprova o Plano Nacional de Resíduos Sólidos
+    (PLANARES).
+6. Lei Estadual nº 12.300/2006 - Institui a Política Estadual de Resíduos Sólidos de São
+    Paulo.
+7. Decreto Estadual nº 59.113/2013 - Estabelece novos padrões de qualidade do ar no
+    estado de São Paulo.
+8. Resolução CONAMA nº 01/1986 - Estudo de Impacto Ambiental (EIA/RIMA).
+9. Resolução CONAMA nº 237/1997 - Licenciamento ambiental.
+10. Resolução CONAMA nº 316/2002 - Estabelece os procedimentos e critérios para o
+    licenciamento de sistemas de tratamento térmico de resíduos.
+
+
+                                                                                                   10
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                   VERSÃO 07_2026, 21 JULHO 2026
+11. Resolução CONAMA nº 382/2006 - Estabelece os limites máximos de emissão de poluentes
+    atmosféricos para fontes fixas.
+12. Resolução CONAMA nº 481/2017 - Estabelece critérios para o uso e manejo de resíduos
+    orgânicos.
+13. Resolução do CONAMA Nº 506/2024 - Estabelece padrões nacionais de qualidade do ar e
+    fornece diretrizes para sua aplicação. Revoga os arts. 1º ao 8º, os arts. 12 a 14 e o Anexo
+    I da Resolução Conama nº 491, de 19 de novembro de 2018; e os itens 2.2.1 e 2.3 da
+    Resolução Conama nº 5, de 15 de junho de 1989.
+14. Resolução ANA nº 187, de 19 de março de 2024. Aprova a Norma de Referência nº 7/2024
+    para a regulação dos serviços públicos de saneamento básico, que dispõe sobre as
+    condições gerais para a prestação direta ou mediante concessão dos serviços públicos de
+    limpeza urbana e de manejo de resíduos sólidos urbanos.
+15. Secretaria de Estado de Infraestrutura e Meio Ambiente - SP. Resolução SIMA Nº 047, DE
+    06 DE AGOSTO DE 2020 - Estabelece diretrizes e condições para o licenciamento de
+    unidades de preparo de Combustível Derivado de Resíduos Sólidos - CDR e da atividade de
+    recuperação de energia proveniente do uso de CDR.
+16. CETESB, Decisão de Diretoria nº 023/2024/C/I, de 25 de março de 2024. Estabelece o
+    procedimento para licenciamento das unidades de armazenamento, transferência, triagem,
+    reciclagem, preparo, recuperação energética, tratamento e disposição final de resíduos
+    sólidos, em especial seu Anexo.
+17. CETESB, Orientações para licenciamento ambiental de Unidade de preparo do CDR -
+    Combustível derivado de resíduos sólidos, disponível em:
+    https://www2.cetesb.sp.gov.br/licenciamentoambiental/wp-
+    content/uploads/sites/32/2020/08/Unidade-de-preparo-do-CDR-Combust%C3%ADvel-
+    derivado-de-res%C3%ADduos-s%C3%B3lidos.pdf
+
+
+18. DIRETRIZES GERAIS
+
+1. A concepção e viabilidade de tecnologias para o tratamento e processamento de resíduos
+    sólidos deverá ser estabelecida com base nas Melhores Técnicas Disponíveis;
+2. As Unidades de Processamento e de Tratamento de resíduos sólidos devem estar licenciadas
+    pelo      órgão      ambiental         competente        para   fins   de   funcionamento        e    submetidas   a
+    monitoramento de acordo com parâmetros e periodicidade definidos no licenciamento
+    ambiental;
+3. Deverá ser observado o disposto no artigo 37 da Política Nacional de Resíduos Sólidos: “a
+    instalação e o funcionamento de empreendimento ou atividade que gere ou opere com
+    resíduos perigosos, somente podem ser autorizados ou licenciados pelas autoridades
+    competentes se o responsável comprovar, no mínimo, capacidade técnica e econômica, além
+    de condições para prover os cuidados necessários ao gerenciamento desses resíduos”;
+
+
+
+                                                                                                                       11
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                                     VERSÃO 07_2026, 21 JULHO 2026
+4. Deverá ser observado o disposto no artigo 40 da Política Nacional de Resíduos Sólidos: “no
+    licenciamento ambiental de empreendimentos ou atividades que operem com resíduos
+    perigosos, o órgão licenciador do SISNAMA poderá exigir a contratação de seguro de
+    responsabilidade civil por danos causados ao meio ambiente ou à saúde pública, observadas
+    as regras sobre cobertura e os limites máximos de contratação fixados em regulamento”;
+5. Deverá ser observado o disposto no artigo 9º, parágrafo 1º, da Política Nacional de Resíduos
+    Sólidos: “poderão ser utilizadas tecnologias visando à recuperação energética dos resíduos
+    sólidos urbanos, desde que tenha sido comprovada sua viabilidade técnica e ambiental, e
+    com a implantação de um programa de monitoramento de emissão de gases tóxicos
+    aprovados pelo órgão ambiental”.
+6. Deverá ser observado o disposto no artigo 24 da Resolução CONAMA nº 316/2002: “A
+    implantação do sistema de tratamento térmico de resíduos de origem urbana deve ser
+    precedida da implementação de um programa de segregação de resíduos, em ação integrada
+    com os responsáveis pelo sistema de coleta e de tratamento térmico, para fins de reciclagem
+    ou reaproveitamento, de acordo com os planos municipais de gerenciamento de resíduos.”
+    Devendo ainda atender ao disposto no parágrafo único: “A partir da licença de operação do
+    sistema de tratamento térmico, deverá ser observado o seguinte cronograma mínimo de
+    metas:
+    I - no primeiro biênio, deverá ser segregado o percentual correspondente a seis por cento
+    do resíduo gerado na área de abrangência do sistema;
+    II - no segundo biênio, deverá ser segregado o percentual correspondente a doze por cento
+    do resíduo gerado na área de abrangência do sistema;
+    III - no terceiro biênio, deverá ser segregado o percentual correspondente a dezoito por
+    cento do resíduo gerado na área de abrangência do sistema;
+    IV - no quarto biênio, deverá ser segregado o percentual correspondente a vinte e quatro
+    por cento do resíduo gerado na área de abrangência do sistema; e
+    V - a partir do quinto biênio, deverá ser segregado o percentual correspondente a trinta por
+    cento do resíduo gerado na área de abrangência do sistema.”;
+7. Para tecnologias de tratamento térmico de resíduos sólidos, durante o período de testes
+    deverá ser atendido integralmente o disposto na Resolução CONAMA nº 316/2002 e nas
+    demais normativas técnicas do CONAMA e da CETESB quanto às emissões atmosféricas,
+    mesmo para tecnologias que operem com temperatura inferior aos 800ºC;
+8. Para tecnologias de processamento de resíduos sólidos, durante o período de testes o
+    atendimento do disposto na Resolução CONAMA nº 316/2002 e nas demais normativas
+    técnicas da CETESB quanto às emissões atmosféricas, fica a critério do órgão ambiental e
+    está vinculada à caracterização dos resíduos e das emissões a serem geradas na
+    temperatura de projeto;
+
+
+19. PROCEDIMENTOS PARA LICENCIAMENTO AMBIENTAL DO EMPREENDIMENTO
+
+
+                                                                                                  12
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                  VERSÃO 07_2026, 21 JULHO 2026
+1. A atividade deverá ser enquadrada, para o licenciamento ambiental, de acordo com
+    enquadramento das Atividades Licenciáveis da CETESB.
+2. Para o licenciamento na CETESB o empreendedor deverá apresentar Memorial de
+    Caracterização do Empreendimento - MCE;
+3. O empreendedor deverá elaborar RELATÓRIO TÉCNICO DE LICENCIAMENTO AMBIENTAL da
+    Atividade/Empreendimento, onde poderá constar o Memorial Técnico Descritivo de
+    Caracterização do Empreendimento e outras informações pertinentes conforme listado a
+    seguir:
+          a.    Descrição da Atividade;
+          b.    Plantas Se a instalação da empresa ocorrer em prédio existente, juntar 01 (uma)
+                cópia da planta já aprovada pela Prefeitura local e/ou pela Secretaria da Saúde, ou
+                na inexistência desta, apresentar Planta de Conservação do prédio, assinada
+                somente pelo proprietário do imóvel, com o respectivo quadro de áreas. Em se
+                tratando de construção nova ou ampliação, apresentar plantas baixas e cortes,
+                assinadas pelo proprietário e pelo responsável técnico e uma cópia da Anotação de
+                Responsabilidade Técnica (ART). No caso de ampliação, o procedimento será
+                análogo, devendo isto ser indicado através de legenda;
+          c.    Croqui de Localização - Indicando o uso do solo e construções existentes nas
+                imediações do empreendimento, num raio mínimo de 100m;
+          d.    Disposição física dos equipamentos (layout); que pode ser demonstrada em croqui
+                ou em planta baixa da construção;
+          e.    Fluxograma do processo produtivo;
+          f.    Mapa de acesso ao local, com referências;
+          g.    Roteiro de acesso até o local a ser licenciado para permitir a inspeção no local;
+          h. Análise de Risco do empreendimento conforme Roteiro do Estudo da CETESB;
+          i.    Outorga de implantação do empreendimento emitida pelo DAEE, se houver captação
+                de águas subterrâneas ou superficiais ou lançamento de efluentes líquidos em corpo
+                d´água;
+          j.    Anuência         da     empresa         concessionária/permissionária,   se     o   empreendimento
+                pretenda se instalar próximo a rodovias e lançar suas águas pluviais na faixa de
+                domínio dessas rodovias;
+          k.    Para solicitações em área rural a documentação abaixo também deverá ser
+                entregue:
+          l.    Matrícula do imóvel contendo a averbação da Reserva Legal, ou Documentação
+                necessária          para       instituição     da   Reserva    Legal     (planta       planialtimétrica
+                georreferenciada contendo demarcação do perímetro da Reserva Legal, ART do
+                responsável técnico e registro da propriedade no SICAR);
+          m. Se houver curso d’água ou nascente, num raio de 100 m do Empreendimento:
+                Apresentar croqui detalhado, indicando a distância das edificações em relação ao(s)
+                corpo(s) d’água e ou nascente(s);
+                                                                                                                    13
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                                   VERSÃO 07_2026, 21 JULHO 2026
+          n. Ação complementar a ser realizada se houver supressão de vegetação ou
+                intervenção em área de preservação permanente: Solicitar a devida autorização
+                junto ao órgão ambiental;
+
+
+20. DIRETRIZES TÉCNICAS ESPECÍFICAS E PROCEDIMENTOS QUE PODERÃO EMBASAR
+    O RELATÓRIO DE LICENCIAMENTO AMBIENTAL
+
+1. As seguintes diretrizes técnicas específicas e os respectivos procedimentos vinculados
+    embasar o Relatório de Licenciamento Ambiental necessário à obtenção da Licença Prévia
+    (LP) da Atividade de Aproveitamento Energético de Resíduos Sólidos Domésticos (RSD):
+2. O empreendedor deverá definir e comprovar quais os resíduos sólidos, efluentes líquidos e
+    emissões atmosféricas que serão decorrentes da atividade proposta;
+3. O empreendedor deverá estimar, com as devidas comprovações e com anuência do órgão
+    ambiental, as quantidades e/ou taxas de emissões dos poluentes considerados;
+4. Caso os equipamentos a serrem instalados necessite, para sua operação, de quantidade
+    mínima de resíduos superior ao porte mínimo do código de ramo correspondente, deverá
+    ser solicitado o licenciamento no porte correspondente ao mínimo operacional do
+    equipamento, apresentando a devida justificativa, que estará sujeita à análise e aprovação
+    do órgão de controle ambiental;
+5. O local para instalação da unidade deverá possuir características que permitam a instalação
+    pelas tecnologias propostas, com suporte anuência do órgão de controle ambiental;
+6. Para os casos de atividades com geração de emissões atmosféricas, na solicitação da LP da
+    Unidade poderá ser solicitado Estudo de Dispersão das Emissões Atmosféricas (diagnóstico
+    e prognóstico), contemplando:
+          a.    A caracterização geográfica, climatológica e meteorológica da região onde está
+                sendo proposta a Unidade Teste;
+          b.     O objetivo será quantificar os respectivos impactos máximos na qualidade do ar,
+                ao nível do solo, e analisá-los sob a luz da legislação vigente. Os impactos deverão
+                ser determinados para a fonte individualizada e no contexto das demais fontes
+                existentes e previstas na área de influência, que servirão para alicerçar a decisão
+                quanto à sua localização;
+          c.    A determinação de quais poluentes atmosféricos serão objeto do estudo será
+                informado pelo órgão de controle ambiental;
+          d.    Poderá ser utilizados modelos matemáticos de dispersão de poluentes, que poderão
+                ser de pluma gaussiana (AERMOD View ou equivalente) ou Puff gaussiano (CalPuff
+                ou equivalente), devendo ser justificada a escolha do modelo e sua parametrização,
+                de comum acordo com o órgão ambiental;
+          e.    Os dados meteorológicos de entrada (inputs) deverão ser originários de fonte
+                primária e validados, com abrangência de dois anos ou mais. Poderão ainda ser
+                utilizados dados modelados, a partir do modelo regional (WRF, MM5, BRAMS, etc.),
+                desde que justificadamente e com prévio acordo com o órgão ambiental;
+                                                                                                      14
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                      VERSÃO 07_2026, 21 JULHO 2026
+          f.    Se for utilizado modelo atmosférico, este deverá ser validado e conter avaliação
+                sobre o desempenho a partir de dados primários validados;
+          g.    Os receptores discretos deverão ser escolhidos com a anuência prévia do órgão
+                ambiental, utilizando uma distribuição adequada em coordenadas SIRGAS2000,
+                associadas às respectivas altitudes;
+          h. Deverão ser apresentadas de forma clara todas as configurações e parametrizações
+                dos modelos utilizados;
+          i.    Para cada cenário modelado deverão ser apresentadas as saídas gráficas do modelo,
+                sobrepostas à área de influência considerada, em escala adequada para melhor
+                visualização, bem como os dados de entrada (meteorológicos e de emissões) e saída
+                da modelagem;
+          j.    Os resultados obtidos deverão ser avaliados e confrontados com a legislação
+                vigente, cumulativamente com as concentrações de fundo (background);
+          k.    Referências bibliográficas: deverá constar a bibliografia consultada para a realização
+                dos estudos, especificados por área de abrangência do conhecimento. Se houver
+                citação de opiniões ou estudos de autores externos, deverá ser citado em
+                conformidade com normas técnicas da ABNT;
+          l.    O responsável pelo estudo de dispersão deverá apresentar identificação profissional
+                junto ao Conselho Regional de Classe, acompanhada de ART (Anotação de
+                Responsabilidade             Técnica)        específica   da   atividade   exercida,       que         contenha
+                explicitamente “Estudo e Modelagem de Dispersão de Poluentes Atmosféricos”;
+
+
+
+
+21. CONSIDERAÇÕES FINAIS
+
+1. Para fins deste ANEXO, a temperatura mínima de operação para tecnologias de tratamento
+    térmico de resíduos sólidos deve considerar a temperatura inicial de formação de Dioxinas
+    e Furanos que é de 200ºC;
+2. Nos casos de equipamentos em operação no exterior, contendo laudos de análise de
+    emissões atmosféricas, efluentes e resíduos sólidos gerados pelo equipamento cuja
+    operação para a coleta das amostras se deu nas mesmas condições (matéria prima,
+    tecnologia, etc.) que está sendo solicitado o licenciamento ambiental, poderá ser solicitado
+    o licenciamento para a capacidade plena a ser requerida;
+3. O cumprimento do presente ANEXO não exclui a obrigatoriedade de atendimento às demais
+    normas e dispositivos legais aplicáveis.
+
+
+
+
+                                                                                                                             15
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                                       VERSÃO 07_2026, 21 JULHO 2026
+

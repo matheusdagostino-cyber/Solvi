@@ -1,0 +1,151 @@
+Caderno III
+Modelagem Jurídica
+
+Anexo II.1 – Diretrizes Plano de
+Trabalho
+
+
+
+
+Desenvolvimento:
+
+
+
+
+                                   1
+               ANEXO II.1 – DIRETRIZES PLANO DE TRABALHO
+
+
+     1. OBJETIVO
+O Plano de Trabalho a ser apresentado pela PROPONENTE vencedora deverá contemplar, de
+forma detalhada, a solução tecnológica proposta para o tratamento de resíduos sólidos
+domiciliares, incluindo recuperação energética da fração seca (tais como gaseificação, pirólise
+ou tecnologias equivalentes) e/ou tratamento da fração úmida (biodigestão anaeróbica).
+
+
+A elaboração e execução do Plano de Trabalho deverão obrigatoriamente atender às diretrizes
+mínimas estabelecidas neste Anexo, incluindo, mas não se restringindo às disposições a
+seguir.
+
+
+
+     2. DIRETRIZES TÉCNICAS DO SISTEMA
+O Plano de Trabalho deverá apresentar, no mínimo:
+
+
+
+
+     2.1. RECEPÇÃO E MANUSEIO DE RESÍDUOS
+
+
+     •      Descrição do sistema de recepção de resíduos, incluindo galpão, sistemas de
+            exaustão, pontes rolantes, pólipos e demais equipamentos;
+     •      Descrição dos sistemas de segregação, mistura e trituração dos resíduos;
+     •      Caracterização dos resíduos (tipo, origem, classificação e quantidade estimada).
+
+
+
+
+     2.2. ARMAZENAMENTO
+
+
+     •      Descrição do sistema de armazenamento dos resíduos, incluindo:
+                  o      impermeabilização;
+                  o      drenagem;
+                  o      controle de chorume e odores.
+
+
+
+
+                                                                                                      2
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                      VERSÃO 07_2026, 21 JULHO 2026
+     2.3. PROCESSO TECNOLÓGICO
+
+
+     •      Fluxograma geral do processo;
+     •      Descrição detalhada das etapas operacionais;
+     •      Detalhamento do sistema de alimentação dos resíduos;
+     •      Especificação dos equipamentos principais;
+     •      Fluxogramas específicos das tecnologias adotadas;
+     •      Fluxograma de produção de biogás, biometano e/ou CO₂, quando aplicável;
+     •      Destinação ambientalmente adequada do digestato e demais subprodutos.
+
+
+
+     3. DIRETRIZES AMBIENTAIS
+O Plano de Trabalho deverá contemplar:
+
+
+
+
+     3.1. EMISSÕES ATMOSFÉRICAS
+
+
+     •      Avaliação dos impactos na qualidade do ar;
+     •      Demonstração da eficiência dos sistemas de controle de poluição;
+     •      Comprovação de atendimento à legislação aplicável;
+     •      Apresentação de quadro contendo:
+                  o      taxas de emissão por fonte;
+                  o      características das chaminés (quando aplicável);
+     •      Estimativa de emissões dos seguintes poluentes:
+                  o      material particulado (MP);
+                  o      SO₂, NOx, CO;
+                  o      hidrocarbonetos (HC e HCNM).
+
+
+
+
+     3.2. MEMÓRIA DE CÁLCULO
+
+
+     •      Apresentação da metodologia adotada para estimativa das emissões;
+     •      Referência às fontes técnicas utilizadas;
+     •      Declaração do fabricante quanto às emissões garantidas, quando aplicável;
+     •      Simulações em diferentes regimes operacionais.
+
+
+
+
+                                                                                                            3
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                            VERSÃO 07_2026, 21 JULHO 2026
+     3.3. RUÍDO AMBIENTAL
+
+
+     •      Medição dos níveis de ruído no entorno do empreendimento;
+     •      Atendimento à NBR 10151;
+     •      Apresentação de mapa com pontos de medição.
+
+
+
+
+     3.4. CONFORMIDADE LEGAL
+
+
+     •      Comprovação de atendimento ao Decreto Estadual nº 59.113/2013 e demais normas
+            aplicáveis.
+     •      Observar requisitos legais e outros requisitos contidos no ANEXO II.7 – DAS
+            DIRETRIZES AMBIENTAIS BÁSICAS
+
+
+
+     4. DISPOSIÇÕES FINAIS
+O Plano de Trabalho deverá:
+     •      Ser compatível com a solução tecnológica proposta e com o LOTE licitado;
+     •      Demonstrar a viabilidade técnica e ambiental do empreendimento;
+     •      Estar alinhado às exigências do CADERNO III – MODELAGEM JURÍDICA, bem como
+            os seus ANEXOS;
+     •      Conter nível de detalhamento suficiente para subsidiar a análise técnica e o processo
+            de licenciamento ambiental.
+
+
+
+
+                                                                                                       4
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                       VERSÃO 07_2026, 21 JULHO 2026
+

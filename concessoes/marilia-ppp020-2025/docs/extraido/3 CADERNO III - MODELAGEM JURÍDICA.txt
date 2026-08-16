@@ -1,0 +1,861 @@
+Caderno III
+Modelagem Jurídica
+
+Atualização dos estudos de viabilidade técnica,
+econômico-financeira e jurídica para o
+aproveitamento energético de resíduos sólidos
+domésticos do município de Marília.
+
+
+
+
+Desenvolvimento:
+                                              DESCRIÇÃO TÉCNICA
+
+
+
+
+                                Caderno III – Modelagem Jurídica
+
+
+
+
+Atualização dos estudos de viabilidade técnica, econômico-financeira e
+jurídica para o aproveitamento energético de resíduos sólidos
+domésticos do município de Marília.
+
+
+
+                                                         JULHO, 2026
+
+
+
+
+              PREFEITURA MUNICIPAL DE MARÍLIA
+       SECRETARIA DE MEIO AMBIENTE E SERVIÇOS PÚBLICOS
+
+
+
+
+                                                                                                       2
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                       VERSÃO 07_2026, 21 JULHO 2026
+CONSIDERAÇÕES PRELIMINARES
+CONSIDERANDO o Ofício encaminhado pela Secretaria de Meio Ambiente e Serviços Públicos de Marília
+001/2025, de 31 de Janeiro de 2025 convocando a WBIO a atualizar os estudos apresentados no
+processo de manifestação de interesse (PMI) SMALP 001/2017, cujo objeto foi homologado e publicado
+no diário oficial do município de Marília na data de 14 de Junho de 2018, os quais instruíram o Edital
+009/2018.
+CONSIDERANDO que referida atualização e eventual indicação de novas tecnologias acompanhadas
+das devidas informações pertinentes e eventuais ajustes necessários nos documentos previamente
+aprovados.
+CONSIDERANDO a necessidade de atualização do Plano Municipal de Gestão Integrada de Resíduos
+Sólidos de Marília;
+CONSIDERANDO a aprovação do Plano Municipal de Gestação Integrada de Resíduos Sólidos de
+Marília, o qual foi revisado e aprovado pela Lei 9.278, de 26 de Junho de 2025.
+CONSIDERANDO as disposições sobre valorização energética, inclusão social e metas de redução de
+aterro devem estar alinhadas às metas e diretrizes no novo Plano Municipal de Gestação Integrada de
+Resíduos Sólidos de Marília.
+CONSIDERANDO que este Caderno III deve destacar que a modelagem jurídica dá efetividade ao Plano
+Municipal de Gestação Integrada de Resíduos Sólidos de Marília revisado em atendimento ao artigo 1º
+da Lei 9.278, de 26 de Junho de 2025.
+CONSIDERANDO que a integração do Plano Municipal de Gestão Integrada de Resíduos Sólidos de
+Marília, revisado e aprovado pela Lei 9.278, de 26 de Junho de 2025, à Política Nacional de Resíduos
+Sólidos – Lei 12.305/2010, à Política Estadual – Lei 12.300/2006 e às Normas CONAMA, as quais
+respaldam juridicamente à adoção de Parceria Público Privada para tratamento e recuperação energética
+das frações secas e úmidas (orgânicas) dos Resíduos Sólidos Domésticos de Marília e Região.
+CONSIDERANDO que a presente licitação será processada sob o modo de disputa ABERTO, nos termos
+do artigo 56, inciso II, da Lei nº 14.133/2021.
+
+
+
+
+                                                                                                  3
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                  VERSÃO 07_2026, 21 JULHO 2026
+INTRODUÇÃO
+Este Caderno III – Modelagem Jurídica integra os Estudos de viabilidade técnica, econômico financeiro
+e jurídica para aproveitamento energético de resíduos sólidos domésticos do município de Marília,
+elaborado em atendimento à legislação federal, estadual e municipal, bem como ao Plano Municipal de
+gestão Integrada de Resíduos Sólidos – PMGIRS, revisado e aprovado pela Lei Ordinária 9.278, de 26
+de Junho de 2025, publicada no Diário Oficial de Marília 3972, de 27 de Junho de 2025.
+
+
+
+
+                                                                                                 4
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                 VERSÃO 07_2026, 21 JULHO 2026
+SUMÁRIO
+  CONSIDERAÇÕES PRELIMINARES ................................................................................ 3
+  INTRODUÇÃO ............................................................................................................ 4
+  1. DOS ESTUDOS JURÍDICOS - DAS REGULAMENTAÇÕES JURÍDICAS .............................. 6
+  3.1. DAS NORMAS FEDERAIS ...................................................................................... 6
+  1.2. DAS NORMAS ESTADUAIS .................................................................................... 6
+  1.3. DA NORMA MUNICIPAL ........................................................................................ 7
+  1.4. DAS NORMAS TÉCNICAS AMBIENTAIS CORRELATAS................................................ 7
+  1.5. DOS NORMATIVOS PARA TRATAMENTO TÉRMICO E/OU A BIODIGESTÃO ................... 7
+     1.5.1. DA LEGISLAÇÃO GERAL E PROGRAMAS NACIONAIS ........................................... 8
+
+  1.6. DO BIOGÁS E BIOMETANO — LEGISLAÇÃO ECONSÓRCIO/SPECÍFICA ........................ 8
+     1.6.1. DAS LEIS ESTADUAIS DE INCENTIVO AO BIOGÁS E BIOMETANO ......................... 8
+
+  1.7. DO TRATAMENTO TÉRMICO DE RESÍDUOS ............................................................. 9
+  1.8. DOS EFLUENTES LÍQUIDOS E ENQUADRAMENTO DE CORPOS D’ÁGUA ....................... 9
+  1.9. DOS EFLUENTES ATMOSFÉRICOS ........................................................................ 10
+  1.10. DA QUALIDADE DO AR ..................................................................................... 10
+  1.11. DOS RESÍDUOS SÓLIDOS DOMÉSTICOS ............................................................ 11
+  1.12. DA JUSTIFICATIVA TÉCNICA DO MODELO JURÍDICO PROPOSTO ........................... 11
+  1.13. DA JUSTIFICATIVA JURÍDICA DO MODELO PROPOSTO ......................................... 13
+     1.13.1. DA FASE PREPARATÓRIA (PLANEJAMENTO) ................................................... 13
+
+     1.13.2. DA ESTRUTURAÇÃO DO PROJETO ................................................................. 14
+
+     1.13.3. DA LICITAÇÃO ........................................................................................... 14
+
+     1.13.4. DA CONTRATAÇÃO ..................................................................................... 15
+
+     1.13.5. DA EXECUÇÃO E FISCALIZAÇÃO .................................................................. 15
+
+  2. ANEXOS .............................................................................................................. 18
+
+
+
+
+                                                                                                                           5
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                                      VERSÃO 07_2026, 21 JULHO 2026
+    1. DOS ESTUDOS JURÍDICOS - DAS REGULAMENTAÇÕES
+       JURÍDICAS
+Os estudos jurídicos apresentados neste Caderno têm como finalidade embasar o modelo de
+concessão administrativa para implantação, operação e manutenção da Unidade de Recuperação
+Energética (URE) do Município de Marília, conforme diretrizes do Plano Municipal de Gestão
+Integrada de Resíduos Sólidos e nos termos das legislações federal, estadual e municipal
+aplicáveis.
+
+
+O presente estudo assegura:
+
+
+•         Conformidade legal e regulatória do modelo;
+
+
+•         Estruturação contratual adequada ao interesse público;
+
+
+•         Distribuição eficiente de riscos;
+
+
+•         Observância da hierarquia da PNRS;
+
+
+•         Controle, transparência e estabilidade jurídica;
+
+
+•         Segurança para o Poder Concedente e investidores privados.
+
+
+
+    1.1. DAS NORMAS FEDERAIS APLICÁVEIS
+
+Constituem fundamento legal da concessão:
+
+
+•         Constituição Federal, especialmente arts. 30, 175 e 225;
+
+
+•         Lei 11.079/2004 – Marco das Parcerias Público-Privadas;
+
+
+•         Lei 14.133/2021 – Nova Lei de Licitações e Contratos Administrativos;
+
+
+•         Lei 12.305/2010 – Política Nacional de Resíduos Sólidos (PNRS);
+
+
+•         Lei 9.605/1998 – Lei de Crimes Ambientais;
+
+
+•         Resoluções CONAMA pertinentes (especialmente 316/2002, 382/2006 e 430/2011).
+
+
+
+    1.2. DAS NORMAS ESTADUAIS APLICÁVEIS
+
+Incluem-se, entre outras:
+
+                                                                                                     6
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                     VERSÃO 07_2026, 21 JULHO 2026
+•         Legislação ambiental do Estado de São Paulo;
+
+
+•         Decisões de Diretoria CETESB que regulamentam unidades de valorização energética;
+
+
+•         Normas técnicas e operacionais referentes a emissões, controle ambiental e
+licenciamento.
+
+    1.3. DAS NORMAS MUNICIPAIS APLICÁVEIS
+
+•         Plano Municipal de Gestão Integrada de Resíduos Sólidos – PMGIRS, aprovado pela Lei
+9.278/2025;
+
+
+•         Demais normas municipais relacionadas ao uso e ocupação do solo, limpeza urbana e
+gestão de resíduos;
+
+
+•         Regras ambientais municipais complementares.
+
+    1.4. DAS NORMAS TÉCNICAS AMBIENTAIS CORRELATAS
+
+
+•         Resolução CONAMA 316/2002;
+
+
+•         Resolução CONAMA 382/2002;
+
+
+•         Resolução CONAMA 386/2002;
+
+
+•         Resolução CONAMA 357/2005;
+
+
+•         Resolução CONAMA 396/2008.
+
+    1.5. DOS NORMATIVOS PARA TRATAMENTO TÉRMICO E/OU A
+       BIODIGESTÃO
+Existem normas específicas para as tecnologias de tratamento térmico e/ou a biodigestão, bem
+como normas gerais referentes a efluentes líquidos, qualidade de corpos d’água, águas
+subterrâneas, efluentes atmosféricos, odores, qualidade do ar, resíduos sólidos e ruído
+ambiental.
+
+
+Em situações em que a norma estadual for menos restritiva deve-se adotar a norma nacional,
+podendo o Órgão Ambiental competente, mediante decisão fundamentada, estabelecer padrões
+ainda mais restritivos e adotar inclusive legislação internacional.
+
+
+
+
+                                                                                                      7
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                      VERSÃO 07_2026, 21 JULHO 2026
+          1.5.1. DA LEGISLAÇÃO GERAL E PROGRAMAS NACIONAIS
+
+•    RenovaBio (2016) - Política nacional que estabelece metas de descarbonização por meio do uso de
+biocombustíveis. Inclui o incentivo à produção de bioeletricidade (como a gerada de bagaço de cana) e
+operaciona com a comercialização de CBios (Certificados de Descarbonização). Em 2022, a
+bioeletricidade gerada representou 72% da eletricidade proveniente de biomassa no país.
+•    Lei do Combustível do Futuro (Lei 14.993/2024) - Estabelece um marco legal para ampliação dos
+biocombustíveis e criação de programas como o Diesel Verde e o Bioquerosene de Aviação. Inclui
+estímulos à produção de biometano e captura de carbono — relevante para biodigestão (biogás) e seus
+usos finais.
+•    Lei nº 14.300/2022 e Resolução Normativa ANEEL nº 1.059/2023 - Cria o marco legal para micro
+e minigeração distribuída de energia (incluindo biogás), com um sistema de compensação energética e
+incentivo ao uso renovável social.
+•    Portarias do Ministério de Minas e Energia (2015/2020) - A Portaria 44/2015 (revogada em 2020)
+inicialmente incentivou a geração própria por consumidores com base em fontes como biogás. A Portaria
+538/2015 instituiu o Programa de Desenvolvimento da Geração Distribuída de Energia Elétrica a partir
+de biogás.
+•    Lei nº 12.114/2009 (Decreto nº 9.578/2018) - Regula o apoio às cadeias produtivas sustentáveis,
+priorizando a coleta eficiente de biogás e seu uso energético em aterros sanitários e estações de
+tratamento de efluentes.
+
+    1.6. DO BIOGÁS E BIOMETANO
+•    Resoluções da ANP (Agência Nacional de Petróleo, Gás Natural e Biocombustíveis)
+•    Resolução ANP nº 8 (antiga) — introduziu conceitos e regulamentou o biometano para uso veicular,
+residencial e industrial.
+•    Resolução nº 685/2017 — estabelecia padrões de qualidade, posteriormente revogada. Hoje, a
+Resolução ANP nº 886/2022 cumpre essa função.
+
+
+
+
+          1.6.1. DAS LEIS ESTADUAIS DE INCENTIVO AO BIOGÁS E
+              BIOMETANO
+
+•    São Paulo: Decreto nº 58.659/2012 criou o Comitê Gestor do Programa Paulista de Biogás.
+•    Mapa Regulatório da Abiogás (2024) – A Associação Brasileira de Biogás e Biometano (Abiogás)
+lançou uma ferramenta online que reúne legislações federais e estaduais, além de normativas da ANEEL
+e da ANP, facilitando o acesso ao marco regulatório para o setor.
+•    GASEIFICAÇÃO/PIRÓLISE — Cenário Legal Indireto
+•    Embora não haja legislação específica com foco exclusivo em GASEIFICAÇÃO/PIRÓLISE, esse
+processo é parte do espectro de conversão de biomassa mencionada em várias políticas, como:
+                                                                                                    8
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                    VERSÃO 07_2026, 21 JULHO 2026
+•    RenovaBio,           que       abrange         bioeletricidade,   possivelmente    incluindo        a        proveniente   de
+GASEIFICAÇÃO/PIRÓLISE;
+•    O PL do Hidrogênio Verde (PL 2.308/2023), que utiliza o conceito de produção de hidrogênio via
+GASEIFICAÇÃO/PIRÓLISE                    de     biomassa,    considerando-a    como    parte       das       rotas    tecnológicas
+reconhecidas.
+
+    1.7. DO TRATAMENTO TÉRMICO DE RESÍDUOS
+No Brasil, os procedimentos e critérios para o funcionamento de sistemas de tratamento térmico
+de resíduos, cuja operação seja realizada acima da temperatura mínima de 800º C, são
+regulamentados pela Resolução CONAMA n. 316/2002.
+
+
+Em Minas Gerais, os Termos de Referência para a regularização ambiental de “Sistema de
+Tratamento Térmico de Resíduos Sólidos Urbanos com Geração de Energia Elétrica” adotam os
+critérios e os padrões de emissão de efluentes atmosféricos da União Europeia, previstos na
+Diretiva 2000/76/CE, por serem mais restritivos e por atenderem às condições mínimas das
+instalações de tratamento térmico previstas na Resolução CONAMA n. 316/2002.
+
+    1.8. DOS EFLUENTES LÍQUIDOS E ENQUADRAMENTO DE
+       CORPOS D’ÁGUA
+Os padrões de lançamento de efluentes líquidos e de enquadramento da qualidade de corpos d’água
+estão contemplados na Resolução CONAMA n. 357/2005 (com alterações pela Resolução CONAMA n.
+397/2008.
+Cabe destacar da Resolução CONAMA n. 357/2005:
+•         É vedado, nos efluentes, o lançamento dos Poluentes Orgânicos Persistentes (POPs)
+mencionados na Convenção de Estocolmo. Nos processos onde possa ocorrer a formação de dioxinas e
+furanos deverá ser utilizada a melhor tecnologia disponível para a sua redução, até a completa
+eliminação;
+•         A disposição de efluentes no solo, mesmo tratados, não poderá causar poluição ou contaminação
+das águas;
+•         Na hipótese de fonte de poluição geradora de diferentes efluentes ou lançamentos
+individualizados, os limites constantes nestas normas aplicar-se-ão a cada um deles ou ao conjunto
+após a mistura, a critério do Órgão Ambiental competente;
+•         Não se deve efetuar, em circunstância alguma, a diluição de águas residuais para efeito de
+observância dos valores-limite de lançamento.
+c) Águas subterrâneas
+
+
+A Resolução CONAMA n. 396/2008 dispõe sobre a classificação e diretrizes ambientais para o
+enquadramento das águas dos aquíferos.
+
+
+Não admitindo a alteração de sua qualidade por atividades antrópicas, os aquíferos, conjunto
+de aquíferos ou porção desses, podem ser enquadrados como especial ― destinados à
+
+                                                                                                                         9
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                                  VERSÃO 07_2026, 21 JULHO 2026
+preservação de ecossistemas em unidade de conservação de proteção integral e as que
+contribuam diretamente para os trechos de corpos d’água superficiais enquadrados como classe
+especial ― ou nas classes 1 e 2, dependendo da necessidade de tratamento devido suas
+características hidrogeoquímicas naturais.
+
+       1.9. DOS EFLUENTES ATMOSFÉRICOS
+Os limites máximos de emissão de poluentes atmosféricos para fontes fixas estão estabelecidos na
+Resolução CONAMA n. 386/2002, por poluente e tipologias de fontes.
+i)         Fonte fixa de emissão: Qualquer instalação, equipamento ou processo, situado em local fixo,
+que libere ou emita matéria sólida, líquida ou gasosa para a atmosfera, por emissão pontual ou fugitiva.
+ii)        Emissão fugitiva: Lançamento difuso na atmosfera efetuado por uma fonte desprovida de
+dispositivo projetado para dirigir ou controlar seu fluxo.
+iii)       Emissão pontual: Fonte provida de dispositivo para dirigir ou controlar seu fluxo, como dutos e
+chaminés.
+Há padrões de emissão estabelecidos para:
+•      Combustão externa (como caldeiras e fornos): óleos combustíveis (MP, NOx e SOx), gás natural
+(NOx) e derivados de madeira (MP, NOx e CO);
+•      Combustão interna em turbinas a gás: gás natural (NOx, CO, SOx e MP).
+•      Para os motores de combustão interna ou turbinas a gás utilizando biogás, pode-se adotar, por
+similaridade ao gás natural, os padrões de emissão para turbinas a gás estabelecidos na Resolução
+CONAMA n. 382/2006.
+
+       1.10. DA QUALIDADE DO AR
+Conforme Resolução CONAMA n. 005/1989, a estratégia básica do Programa Nacional de
+Controle da Qualidade do Ar - PRONAR é limitar, em nível nacional, as emissões por tipologia
+de fontes e poluentes prioritários, reservando o uso dos padrões de qualidade do ar como ação
+complementar de controle. Para a implementação de uma política de não deterioração
+significativa da qualidade do ar em todo o território nacional, suas áreas serão enquadradas de
+acordo com a seguinte classificação de usos pretendidos:
+•      Classe I: Áreas de preservação, lazer e turismo, tais como Parques Nacionais e Estaduais, Reservas
+e Estações Ecológicas, Estâncias Hidrominerais e Hidrotermais. Nestas áreas deverá ser mantida a
+qualidade do ar em nível o mais próximo possível do verificado sem a intervenção antropogênica.
+•      Classe II: Áreas onde o nível de deterioração da qualidade do ar seja limitado pelo padrão
+secundário de qualidade.
+•      Classe III: Áreas de desenvolvimento onde o nível de deterioração da qualidade do ar seja limitado
+pelo padrão primário de qualidade.
+•      A Resolução CONAMA n. 008/1990, por sua vez, estabelece que cabe aos órgãos estaduais de meio
+ambiente propor aos governos de seus respectivos estados o enquadramento de suas áreas Classe I e
+III, conforme já previsto na Resolução CONAMA n. 005/1989 e Resolução CONAMA n. 003/1990. As
+
+
+                                                                                                     10
+ PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                     VERSÃO 07_2026, 21 JULHO 2026
+demais áreas não definidas como Classes I e III são consideradas Classe II, conforme Resolução
+CONAMA n. 005/1989.
+
+    1.11. DOS RESÍDUOS SÓLIDOS DOMÉSTICOS
+Baseado na LEI Nº 12.300, DE 16 DE MARÇO DE 2006, onde o Estado de São Paulo institui a
+Política Estadual de Resíduos Sólidos onde o Artigo 1º define princípios e diretrizes, objetivos,
+instrumentos para a gestão integrada e compartilhada de resíduos sólidos, com vistas à
+prevenção e ao controle da poluição, à proteção e à recuperação da qualidade do meio ambiente,
+e à promoção da saúde pública, assegurando o uso adequado dos recursos ambientais no Estado
+de São Paulo.
+
+
+Já no Artigo 2º os princípios da Política Estadual de Resíduos Sólidos são:
+
+
+[...]VI - a minimização dos resíduos por meio de incentivos às práticas ambientalmente
+adequadas de reutilização, reciclagem, redução e recuperação;
+
+
+[...]X - a responsabilidade dos produtores ou importadores de matérias-primas, de produtos
+intermediários ou acabados, transportadores, distribuidores, comerciantes, consumidores,
+catadores, coletores, administradores e proprietários de área de uso público e coletivo e
+operadores de resíduos sólidos em qualquer das fases de seu gerenciamento;
+
+    1.12. DA JUSTIFICATIVA TÉCNICA DO MODELO JURÍDICO
+       PROPOSTO
+A implantação de uma dessas tecnologias está de acordo com as recentes políticas do setor, e
+em especial com a Política Nacional de Resíduos Sólidos. Em seu artigo 3º, a Política entende
+como destinação final ambientalmente adequada as seguintes atividades:
+
+
+VII -...destinação de resíduos que inclui a reutilização, a reciclagem, a compostagem, a
+recuperação e o aproveitamento energético térmico ou biodigestão ou outras destinações
+admitidas pelos órgãos competentes do Sisnama, do SNVS e do Suasa, entre elas a disposição
+final, observando normas operacionais específicas de modo a evitar danos ou riscos à saúde
+pública e à segurança e a minimizar os impactos ambientais adversos.
+
+
+O artigo 7º da referida Lei, apresenta entre outros objetivos, o incentivo ao desenvolvimento de
+sistemas de gestão ambiental e empresarial voltados para a melhoria dos processos produtivos
+e ao reaproveitamento dos resíduos sólidos, incluídos a recuperação e o aproveitamento
+energético.
+
+
+A recente legislação ambiental do Estado de São Paulo, regulamentando o processo de
+licenciamento ambiental para este tipo de empreendimento - Resolução SMA 079/2009 - define
+as unidades de recuperação de energia - a partir do tratamento térmico de resíduos sólidos,
+como tecnologias mitigadoras no enfrentamento do aquecimento global e também como
+                                                                                                   11
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                   VERSÃO 07_2026, 21 JULHO 2026
+Mecanismo de Desenvolvimento Limpo pelo Comitê Executivo da Convenção Quadro da ONU -
+Organização das Nações Unidas sobre Mudanças Climáticas (Executive Board - UNFCCC).
+
+
+A implantação desses sistemas, entre outros benefícios ambientais, deverá contribuir com as
+metas de redução de emissão de gases de efeito estufa, contribuindo com as medidas de
+combate ao aquecimento global, e com as metas definidas nos compromissos do País e do
+Estado de São Paulo no Protocolo Internacional de Copenhagen.
+
+
+A Resolução SMA 079/2009 também aponta que a utilização dos resíduos sólidos urbanos como
+fonte de energia renovável, além de agregar valor a esses materiais, minimiza os efeitos
+adversos de sua disposição direta no solo e evita o transporte de resíduos a longas distâncias.
+A Resolução destaca a necessidade da adoção de alternativas sustentáveis principalmente em
+Regiões Metropolitanas como do Estado de São Paulo, onde o volume de resíduos gerado é
+muito elevado e a disponibilidade de áreas é quase inexistente.
+
+
+Da mesma forma, a Lei Estadual de São Paulo n.º 12.300/2006 e seu Decreto Regulamentador
+n.º 54.645/2009, trazem como princípios fundamentais “...minimização de resíduos por meio
+de incentivos às práticas ambientalmente adequadas de reutilização, reciclagem, redução e
+recuperação...”.
+
+
+Unidades de aproveitamento energético são comumente utilizados em vários países para
+tratamento dos resíduos sólidos urbanos devido à demanda por fontes limpas de energia, à
+densidade populacional elevada - e sua consequente geração de resíduos - e à falta de áreas
+para instalação de aterros sanitários. Metas de redução para encaminhamento aos aterros
+sanitários e o aproveitamento energético dos resíduos são diretrizes definidas pela Comunidade
+Européia para o enfrentamento dos impactos ambientais da disposição de resíduos sólidos e a
+demanda por energia.
+
+
+Esses sistemas vêm sendo implantados e aperfeiçoados em países como Holanda, Alemanha,
+França, e mais recentemente, na Espanha, Itália e Portugal. Da mesma forma essa é a principal
+solução adotada no Japão e outros países asiáticos. Nos Estados Unidos, a diretriz de
+aproveitamento energético vem sendo desenvolvida e aprimorada pela EPA – Environmental
+Protection Agency, e utilizada na maioria dos estados americanos.
+
+
+Essas alternativas, implantadas em diversas partes do mundo, obedecem a legislação rigorosa
+e específica para controle de poluição, sistema este que vem sendo aperfeiçoado nas últimas
+décadas. O avanço do controle de emissão de gases resultantes do processo permite a
+implantação desses empreendimentos, inclusive em áreas centrais de importantes cidades,
+como é o caso de Viena na Áustria, de Paris na França, dentre outros.
+
+
+
+
+                                                                                                    12
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                    VERSÃO 07_2026, 21 JULHO 2026
+Os avanços tecnológicos permitem, também, um significativo ganho de eficiência energética
+nesses processos e sua adaptação às características específicas dos resíduos gerados em
+diferentes países, como no caso do Brasil.
+
+
+Para o país, a implantação de um novo modelo de gestão com recuperação e aproveitamento
+de resíduos, apresenta-se como estratégia para a mitigação dos impactos dos aterros sanitários,
+especialmente nas metrópoles brasileiras que vivenciam a escassez de áreas para disposição
+final e os custos crescentes dessa atividade, além de possibilitar novas perspectivas no
+desenvolvimento de fontes alternativas de energia.
+
+
+Além disto, são recorrentes e atuais os temas referentes ao aquecimento global, a degradação
+ambiental e os desequilíbrios socioeconômicos, colocando o meio ambiente na pauta da
+discussão mundial. Quanto aos resíduos, essa situação impõe, dentre outros aspectos, uma
+nova gestão e manejo considerando as práticas de minimização, recuperação, aproveitamento
+e valorização dos materiais, com vistas à redução da quantidade destinada aos aterros sanitários
+e a promoção da reciclagem, da inclusão social com geração de renda e da recuperação
+energética.
+
+
+Todos os equipamentos, instalações e sistemas deverão estar em conformidade com a Resolução
+CONAMA n.º 316, de 29 de outubro de 2002, a Resolução SMA 079 de 04 de novembro de 2009.
+
+
+Para a implantação desse sistema deverão ser atendidos os princípios e diretrizes da Resolução
+CONAMA n.º 316, de 29 de outubro de 2002, sobre procedimentos e critérios para o
+funcionamento de sistemas de tratamento térmico de resíduos, bem como a Resolução SMA 079
+de 04 de novembro de 2009, que estabelece diretrizes e condições para a operação e o
+licenciamento da atividade de tratamento térmico de resíduos sólidos
+
+    1.13. DA JUSTIFICATIVA JURÍDICA DO MODELO PROPOSTO
+A outorga de Parceria Público Privada (PPP), na modalidade concessão administrativa, para a
+prestação dos serviços de tratamento e valorização dos resíduos sólidos domésticos com
+tecnologias de recuperação energética das frações seca (GASEIFICAÇÃO/PIRÓLISE) e úmida
+(biodigestão), está juridicamente amparada pelas legislações e normativas supramencionadas
+na Cláusula Terceira.
+
+
+A qual deverá observar o fluxograma abaixo:
+
+
+
+
+          1.13.1. DA FASE PREPARATÓRIA (PLANEJAMENTO)
+
+1. Estudos de viabilidade (técnica, econômica, ambiental e jurídica);
+
+                                                                                                  13
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                  VERSÃO 07_2026, 21 JULHO 2026
+2. Possibilidade de uso do Procedimento de Manifestação de Interesse (PMI) para receber
+estudos da iniciativa privada conforme artigo 80 da Lei 14.133/21, aprovada e homologada pelo
+poder concedente em ata de julgamento de 16 de Maio de 2018, registrada em 13 de Junho de
+2018 e publicada no Diário Oficial do Município às folhas 191 em 14 de Junho de 2018.
+
+
+3. Análise de conveniência e oportunidade, com demonstração de que a PPP é a melhor forma
+de contratação.
+
+
+4. Estimativa de impacto orçamentário-financeiro e respeito à Lei de Responsabilidade Fiscal.
+
+
+
+
+          1.13.2. DA ESTRUTURAÇÃO DO PROJETO
+
+Definição do modelo de PPP:
+
+
+Concessão Administrativa;
+
+
+Elaboração do edital e minuta do contrato, observando os princípios do artigo 5º da Lei
+14.133/21, quais sejam: planejamento, transparência, eficiência, interesse público;
+
+
+Consulta e audiência pública conforme artigo 10 da Lei 11.079/2004;
+
+
+Submissão ao Tribunal de Contas do Estado de São Paulo.
+
+
+
+
+          1.13.3. DA LICITAÇÃO
+
+1. A presente licitação será processada sob o modo de disputa ABERTO, nos termos do artigo
+56, inciso II, da Lei nº 14.133/2021.
+
+
+2. Realizada sob modalidade Concorrência conforme Lei 14.133/2021, artigo 28, II.
+
+
+3. Observando as fases previstas no artigo 17 e seguintes:
+
+
+4. Preparatória;
+
+
+5. Divulgação do edital;
+
+
+6. Apresentação de propostas;
+
+
+7. Julgamento;
+
+                                                                                                  14
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                  VERSÃO 07_2026, 21 JULHO 2026
+8. Habilitação;
+
+
+9. Recursal;
+
+
+10. Homologação e adjudicação.
+
+
+
+
+          1.13.4. DA CONTRATAÇÃO
+
+1. Celebração do contrato administrativo, observando requisitos do artigo 92 da Lei 14.133/21
+e artigos 5º a 23º da Lei 11.079/2004;
+
+
+2. Exigência de garantias contratuais conforme artigos 96, II e artigo 121, § 1º da Lei 14.133/21,
+nas modalidades abaixo:
+
+
+2.1. Caução em dinheiro ou em títulos da dívida pública;
+
+
+2.2. Seguro-garantia;
+
+
+2.3. Fiança bancária.
+
+
+
+
+          1.13.5. DA EXECUÇÃO E FISCALIZAÇÃO
+
+1. Gestão contratual por órgão gestor ou unidade de PPP.
+
+
+2. Acompanhamento de desempenho por indicadores objetivos.
+
+
+3. Possibilidade de revisão, reequilíbrio econômico-financeiro, aplicação de sanções conforme
+artigos 137 a 142 da Lei 14.133/21.
+
+
+
+
+    2. DO PLANO MUNICIPAL DE GETÃO INTEGRADA DE RESÍDUOS
+       SÓLIDOS
+
+
+O PMGIRS estabelece as diretrizes para:
+
+•         Coleta e transporte de resíduos;
+
+•         Reciclagem, compostagem e outras formas de valorização;
+
+
+                                                                                                    15
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                    VERSÃO 07_2026, 21 JULHO 2026
+•         Tratamento adequado da fração seca e úmida;
+
+•         Disposição final ambientalmente adequada;
+
+•         Inclusão social e fortalecimento de cooperativas;
+
+•         Hierarquia da gestão, conforme art. 9º da PNRS:
+
+          1.          Não geração
+
+          2.          Redução
+
+          3.          Reutilização
+
+          4.          Reciclagem
+
+          5.          Tratamento
+
+          6.          Disposição final ambientalmente adequada
+
+O projeto da Usina de Recuperação Energética integra-se como opção de tratamento,
+observando integralmente a hierarquia.
+
+3. DO MODELO TECNOLÓGICO ADOTADO
+O projeto prevê o tratamento de resíduos sólidos urbanos mediante:
+a) Gaseificação e/ou Pirólise da fração seca, com geração de gás de síntese e aproveitamento energético
+com geração de energia elétrica;
+b) Biodigestão anaeróbia da fração úmida, com geração de biogás, biometano, CO2 e/ou energia
+elétrica;
+c) Valorização energética de acordo com o Plano Municipal de Gestão Integrada de Resíduos Sólidos-
+PMGIRS e a Política Nacional de Resíduos Sólidos - PNRS;
+d) Observância às melhores práticas ambientais e de eficiência energética.
+
+
+
+    3.1. JUSTIFICATIVA TÉCNICA E JURÍDICA DA TECNOLOGIA
+Em observância à Política Nacional de Resíduos Sólidos - PNRS, o Município demonstrou:
+•         que a reciclagem foi priorizada como etapa prévia;
+•         que a Usina de Recuperação Energética será utilizada apenas para as frações que não foram
+recicladas;
+•         que a valorização energética minimiza a quantidade de disposição em aterros sanitários;
+•         que há viabilidade econômica e ambiental comprovada.
+
+
+
+
+                                                                                                   16
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                   VERSÃO 07_2026, 21 JULHO 2026
+4. DO PROCESSO LICITATÓRIO
+A licitação será realizada conforme a Lei 14.133/2021, adotando-se modo de disputa ABERTO,
+em razão de:
+a) Alta complexidade técnica e financeira;
+b) Necessidade de sigilo empresarial nas estratégias de precificação;
+c) Mitigação de propostas aventureiras;
+d) Garantia de estabilidade e competitividade.
+
+
+
+5. DOS ATOS DE AUTORIZAÇÃO E DO PMI
+Os Estudos de Modelagem Técnica, Jurídica e Econômico-Financeira foram iniciados com base no:
+•         PMI SMALP nº 001/2017, homologado em 14/06/2018,
+•         Posteriormente atualizado pelos estudos realizados entre 2024 e 2025, em razão da
+modernização da tecnologia, atualização do PMGIRS e evolução regulatória.
+
+
+
+6. DO CONTRATO E SUAS PRINCIPAIS CLÁUSULAS
+O contrato conterá:
+•         matriz de riscos clara;
+•         indicadores de desempenho;
+•         metas ambientais e operacionais;
+•         regime tarifário;
+•         garantias contratuais;
+•         bens reversíveis;
+•         sistema de fiscalização e auditoria;
+•         regras de reequilíbrio econômico-financeiro;
+•         penalidades proporcionais.
+
+
+
+7. DO FLUXOGRAMA DO PROCESSO
+Será apresentado fluxograma contendo:
+a) Recepção e preparação da fração seca;
+b) Recepção e preparação da fração úmida;
+c) Processo de gaseificação/pirólise;
+d) Geração, limpeza e uso do gás de síntese;
+e) Processo de biodigestão, produção de biogás e energia;
+f) Sistema de controle ambiental e efluentes;
+g) Gestão de rejeitos e valorização final.
+
+
+
+
+                                                                                                  17
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                  VERSÃO 07_2026, 21 JULHO 2026
+8. DA CONFORMIDADE AMBIENTAL
+O projeto observará:
+•         Política Nacional de Resíduos Sólidos - PNRS
+•         Plano Municipal de Gestão Integrada de Resíduos Sólidos - PMGIRS
+•         Licenciamento ambiental CETESB
+•         Normas CONAMA
+•         Integração com coleta seletiva e cooperativas
+•         Estratégias de redução de rejeitos enviados aos aterros
+•         Monitoramento ambiental completo
+
+
+
+9. DOS INDICADORES DE DESEMPENHO
+Serão aplicados indicadores nas dimensões:
+a) Operação da Usina de Recuperação Energética
+b) Eficiência energética
+c) Controle ambiental
+d) Gestão de resíduos e rejeitos
+e) Disponibilidade operacional
+f) Atendimento a condicionantes
+g) Conformidade documental
+h) Indicadores econômicos
+
+
+
+10. DISPOSIÇÕES FINAIS
+Todos os dispositivos deste Caderno são vinculantes ao contrato da PPP.
+Normas supervenientes mais restritivas prevalecerão.
+Em caso de contradição entre anexos, prevalecerá a interpretação mais favorável ao interesse
+público e à sustentabilidade.
+
+
+
+11. ANEXOS
+
+
+ANEXO I - MINUTA DE EDITAL
+
+ANEXO I.1 - MODELO DE CARTA DE CREDENCIAMENTO
+
+ANEXO I.2 - MODELO DE DECLARAÇÃO DE EMPREGO DE MENOR
+
+ANEXO II - TERMO DE REFERÊNCIA
+
+ANEXO II.1 – DIRETRIZES PLANO DE TRABALHO
+
+
+
+                                                                                                    18
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                    VERSÃO 07_2026, 21 JULHO 2026
+ANEXO II.2 – DAS TECNOLOGIAS APLICADAS
+
+ANEXO II.3 – DIRETRIZES TRATAMENTO E APROVEITAMENTO TECNOLÓGICAS DE
+TRATAMENTO TÉRMICO E BIODIGESTÃO
+
+ANEXO II.4 – DAS DIRETRIZES DE ENGENHARIA DO EMPREENDIMENTO
+
+ANEXO II.5 – DO PROGRAMA DE MONITORAMENTO AMBIENTAL DE ÁGUAS SUBTERRÂNEAS E
+AR DO SOLO
+
+ANEXO II.6 – DAS METAS E OBRIGAÇÕES DA CONCESSÃO ADMINISTRATIVA E INDICADORES
+DE DESEMPENHO
+
+ANEXO II.7 – DAS DIRETRIZES AMBIENTAIS BÁSICAS
+
+ANEXO III - MINUTA DO CONTRATO
+
+ANEXO III.1 - LISTA DE BENS REVERSÍVEIS
+
+ANEXO III.2 - MATRIZ DE RISCOS DO CONTRATO
+
+ANEXO IV - ORIENTAÇÕES PARA ELABORAÇÃO DE DEMONSTRATIVO DE RESULTADOS DO
+EXERCÍCIO (DRE), PLANILHA SINTÉTICA E PROPOSTA COMERCIAL, BEM COMO CRITÉRIOS DE
+JULGAMENTO
+
+
+
+TERMO DE ENCERRAMENTO
+Este Termo encerra CADERNO III – MODELAGEM JURÍDICA, obedecendo às especificações
+técnicas constantes do Edital.
+Este caderno possui 19 (dezenove) páginas, numeradas sequencialmente de 1 a 19.
+
+
+
+
+                                                                                             19
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                             VERSÃO 07_2026, 21 JULHO 2026
+

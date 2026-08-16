@@ -1,0 +1,2572 @@
+Caderno III
+Modelagem Jurídica
+
+Anexo III - Minuta Do Contrato
+
+
+
+Desenvolvimento:
+
+
+
+
+                             1
+ANEXO III - MINUTA DO CONTRATO
+
+CONTRATO N° -------------
+
+CONTRATO DE CONCESSÃO ADMINISTRATIVA PARA PRESTAÇÃO DOS SERVIÇOS
+PÚBLICOS DE OUTORGA DE PARCERIA PÚBLICO-PRIVADA (PPP), na modalidade
+concessão administrativa, para a PRESTAÇÃO DOS SERVIÇOS PÚBLICOS DE TRATAMENTO
+E VALORIZAÇÃO DOS RESÍDUOS SÓLIDOS DOMÉSTICOS COM TECNOLOGIAS DE
+RECUPERAÇÃO ENERGÉTICA DAS FRAÇÕES SECA (GASEIFICAÇÃO/PIRÓLISE), ÚMIDA
+(BIODIGESTÃO) E OUTRAS SOLUÇÕES ALTERNATIVAS PELO PERÍODO DE 30 (TRINTA)
+ANOS.
+
+
+Pelo presente instrumento de contrato que entre si fazem, de um lado a PREFEITURA DE
+MARÍLIA, inscrita no CNPJ sob n° XX.XXX.XXX/XXXX-XX, com sede R. Bahia, 40 - Centro,
+Marília - SP, 17501-900, Município de MARÍLIA, Estado de São Paulo, neste ato
+representado pelo seu Prefeito Municipal, Senhor Vinicius Camarinha, R.G. nº ...................
+e CPF nº .................., ora em diante designado PREFEITURA ou PODER CONCEDENTE, e
+a ……….., CNPJ / CPF sob Nº……….., com sede na ……….., representada pelo Senhor ……….,
+cédula de identidade nº………….e CPF nº…………., ora em diante designado CONSÓRCIO ou
+CONCESSIONÁRIO, na qualidade de vencedora da CONCORRÊNCIA PÚBLICA N. 0XX/2025,
+têm entre si ajustado o presente contrato de PARCERIA PÚBLICO-PRIVADA (PPP), na
+modalidade concessão administrativa, para a PRESTAÇÃO DOS SERVIÇOS PÚBLICOS DE
+TRATAMENTO       E   VALORIZAÇÃO       DOS     RESÍDUOS      SÓLIDOS     DOMÉSTICOS        COM
+TECNOLOGIAS          DE    RECUPERAÇÃO          ENERGÉTICA        DAS      FRAÇÕES        SECA
+(GASEIFICAÇÃO/PIRÓLISE), ÚMIDA (BIODIGESTÃO) E OUTRAS SOLUÇÕES ALTERNATIVAS
+PELO PERÍODO DE 30 (TRINTA) ANOS, compreendendo: o recebimento dos resíduos sólidos
+domésticos em área de transbordo para segregação e trituração (tratamento) do saco de
+lixo para separação da fração úmida (orgânicos) e encaminhamento para o processo de
+biodigestão para geração de biogás e reforma para obtenção do biometano e outros
+possíveis produtos, na sequência a fração seca resultante do processo de segregação
+poderá ser utilizada no processo de GASEIFICAÇÃO/PIRÓLISE para gerar energia elétrica e
+ainda outra SOLUÇÃO ALTERNATIVA, sendo os rejeitos de referidas rotas tecnológicas
+transportados e destinados para o Aterro Sanitário licenciado por parte da empresa de
+coleta e aterro sanitário atualmente contratados pela Prefeitura de Marília.
+
+CLÁUSULA PRIMEIRA - DAS DEFINIÇÕES
+1.1. Sem prejuízo das demais definições constantes do Instrumento Convocatório e de seus
+Anexos, os termos a seguir indicados, sempre que grafados em letras maiúsculas, no
+singular ou no plural, terão o significado a seguir transcrito, salvo se do seu contexto
+resultar sentido claramente diverso:
+
+
+                                                                                             2
+ÁREA: imóvel, incluindo o seu solo, subsolo e seu espaço aéreo, onde serão implantadas
+as unidades de tratamento e os demais sistemas relacionados, descritos no TERMO DE
+REFERÊNCIA - ANEXO II CADERNO III – MODELAGEM JURÍDICA.
+ÁREA DA CONCESSÃO: é o limite territorial do município de Marília, que será atendido
+pelo CONSÓRCIO por meio da prestação dos SERVIÇOS.
+ATERRO SANITÁRIO: Constitui-se em empreendimento devidamente licenciado
+localizado no Município de Marília (SP) e região.
+BENS REVERSÍVEIS: são a parcela dos bens vinculados à concessão que, ao término
+do CONTRATO, serão transferidos ao patrimônio do PODER CONCEDENTE, conforme
+ANEXO III.1 do CADERNO III – MODELAGEM JURÍDICA.
+COMISSÃO: é a Comissão Permanente de Licitações, doravante denominada
+COMISSÃO, designada para promoção e execução da LICITAÇÃO, incluindo a análise e
+julgamento da DOCUMENTAÇÃO.
+CONCESSÃO ADMINISTRATIVA: é a concessão de prestação dos SERVIÇOS que a
+PREFEITURA MUNICIPAL DE MARÍLIA outorgará nos termos da Lei Federal n° 11.079/04
+e suas alterações.
+CONSÓRCIO OU CONCESSIONÁRIA: Pessoa jurídica de direito privado a ser
+constituída pela LICITANTE VENCEDORA, nos prazos e nas condições definidas neste
+EDITAL, que será a parceira privada da PREFEITURA MUNICIPAL DE MARÍLIA e a
+responsável pela execução dos SERVIÇOS.
+CONTRATO: é o instrumento jurídico cuja minuta é a constante do ANEXO III do
+CADERNO III – MODELAGEM JURÍDICA e parte integrante deste, que rege a CONCESSÃO
+ADMINISTRATIVA.
+CRONOGRAMA: é o documento que contém o cronograma físico a ser cumprido pela
+CONSÓRCIO, em relação à prestação dos SERVIÇOS e a outras atividades definidas no
+CONTRATO conforme constante no TERMO DE REFERÊNCIA - ANEXO II CADERNO III –
+MODELAGEM JURÍDICA.
+DATA DA ENTREGA DAS PROPOSTAS: Data-base estabelecida como a data de
+entrega dos envelopes exigidos para participação nesta LICITAÇÃO.
+DATA DE ASSUNÇÃO DOS SERVIÇOS: Marca o início do CONTRATO e das obrigações
+entre as partes. Corresponde ao dia útil seguinte à data de assinatura do CONTRATO e
+emissão da ORDEM DE SERVIÇO, o que ocorrer por último.
+DRE: Demonstrativo(s) de Resultado(s) do Exercício – DRE, contido no Caderno II –
+Modelagem Econômico-Financeira com o preço instruído pela Administração para
+instrução do preço que será ofertado pelas LICITANTES para implantação, operação e
+manutenção das rotas tecnológicas de (01) gaseificação/pirólise e biodigestão, ou (02)
+gaseificação/pirólise, ou (03) biodigestão e/ou (04) soluções alternativas.
+DIRETRIZES AMBIENTAIS/LICENÇAS AMBIENTAIS: São as licenças ambientais
+expedidas e necessárias (Prévia, Instalação e Operação) e/ou as diretrizes ambientais
+aplicáveis a obtenção das referidas licenças, que deverão anteceder as OBRAS e
+
+
+                                                                                         3
+SERVIÇOS e serão regidas pela legislação ambiental vigente, conforme ANEXO II.7 -
+DIRETRIZES AMBIENTAIS – CADERNO III - MODELAGEM JURÍDICA.
+DOCUMENTAÇÃO: é a documentação a ser entregue, nos termos deste EDITAL, pelas
+LICITANTES, abrangendo DOCUMENTOS DE HABILITAÇÃO e a PROPOSTA COMERCIAL.
+DOCUMENTOS DE HABILITAÇÃO: são os documentos relativos à habilitação jurídica,
+regularidade fiscal, qualificação técnica e qualificação econômico-financeira das
+LICITANTES, de acordo com este EDITAL.
+EDITAL: é o presente instrumento convocatório e regulador dos termos e condições da
+LICITAÇÃO, para a execução dos SERVIÇOS.
+FISCALIZAÇÃO: A fiscalização da execução do objeto do contrato será executada pelo
+PODE CONCEDENTE
+GARANTIA DE EXECUÇÃO DO CONTRATO: é a garantia anual avos sobre o valor anual
+contratual a ser mantida pela CONSÓRCIO de forma a garantir o fiel cumprimento do
+CONTRATO, nos termos deste EDITAL e do CONTRATO, e inclusive do pagamento das
+sanções pecuniárias a ela aplicadas.
+GARANTIA DE PAGAMENTO: é garantia oferecida pela Prefeitura Municipal de Marília,
+por meio do CONTRATO, do pagamento da CONTRAPRESTAÇÃO, das multas e das
+indenizações que vierem a ser devidas nos termos deste CONTRATO.
+LICENÇAS: são as autorizações, licenças, alvarás e demais atos administrativos a
+serem emitidos pelos órgãos competentes, necessárias para o início da implantação dos
+sistemas de GASEIFICAÇÃO/PIRÓLISE e/ou pirólise e /ou biodigestão e/ou soluções
+alternativas desde que se atenda a Política Nacional de Resíduos Sólidos com exceção
+da rota de incineração para posterior operação.
+LICITAÇÃO: é o presente procedimento administrativo – Concorrência Pública n°           ,
+objeto do EDITAL e seus ANEXOS, por meio do qual será selecionada a proposta
+mais vantajosa para a PREFEITURA MUNICIPAL DE MARÍLIA, com vistas à celebração do
+CONTRATO.
+LICITANTE: é a empresa ou consórcio de empresas que, potencialmente ou
+efetivamente, vier a participar da LICITAÇÃO.
+LICITANTE VENCEDORA: é a empresa ou consórcio de empresas que vencer a
+LICITAÇÃO e que constituirá a CONSÓRCIO, para a celebração do CONTRATO com a
+PREFEITURA MUNICIPAL DE MARÍLIA.
+MODELO OPERACIONAL: é o documento referencial elaborado e apresentado pela
+PREFEITURA MUNICIPAL DE MARÍLIA, por meio do CADERNO I MODELAGEM
+TÉCNICO-OPERACIONAL, composto do conjunto de elementos técnicos e referenciais,
+com nível de precisão adequado, para caracterizar os SERVIÇOS e a forma como estes
+serão executados.
+OBJETO: Redução do volume de enterramento de resíduos com a consequente
+valoração dos resíduos segregados e triturados e disposição dos rejeitos em aterro
+sanitário, este último através do atual contrato de prestação de serviços de coleta e
+
+
+                                                                                        4
+disposição pactuado com a Administração, atendendo a Política Nacional de Resíduos
+Sólidos.
+ÓRGÃO FISCALIZADOR: O Poder Concedente atuará como órgão fiscalizador.
+PARTES: São a Prefeitura Municipal de MARÍLIA e a Concessionária.
+
+PLANILHA SINTÉTICA: Planilha para análise consolidada de preço para tratamento de
+tonelada de resíduos, redução de volume de enterramento proposto, volume de rejeitos,
+valor bens reversíveis e prazo de implantação da(s) rota(s) tecnológica(s) proposta(s)
+após a obtenção das licenças ambientais prévia e de instalação emitida pelo órgão de
+controle ambiental estadual.
+
+PLANO MUNICIPAL DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS – PMGIRS:
+Plano Municipal de Gestão Integrada de Resíduos Sólidos de Marília revisado e aprovado
+pela Lei 9.278, de 26 de Junho de 2025.
+PREÇO TONELADA: é a remuneração mensal a que o CONSÓRCIO fará jus em
+decorrência da execução dos SERVIÇOS, que deverá ser paga pela PREFEITURA
+MUNICIPAL DE MARÍLIA, a ser calculada conforme especificado no CADERNO II –
+MODELAGEM ECONÔMICO-FINANCEIRA e que constará da PROPOSTA COMERCIAL da
+LICITANTE VENCEDORA.
+
+PREFEITURA MUNICIPAL DE MARÍLIA/PODER CONCEDENTE: É a Prefeitura do
+Município de Marília, que concederá o objeto do edital mediante Parceria Público Privada
+– PPP.
+PROJETO EXECUTIVO: é o conjunto de elementos necessários e suficientes para a
+execução completa de todos os SERVIÇOS que fazem parte do objeto do CONTRATO, a
+ser elaborado e executado pela CONSÓRCIO, e aprovado pela PREFEITURA MUNICIPAL
+DE MARÍLIA, nos termos do CONTRATO.
+PROPOSTA COMERCIAL: é a proposta das LICITANTES, contendo a oferta do preço
+tonelada e valor bens reversíveis, a ser paga pela PREFEITURA MUNICIPAL DE
+MARÍLIA ao CONSÓRCIO, por força do CONTRATO, que deverá ser elaborada e
+apresentado em conjunto com o Demonstrativo de Resultados do Exercício – DRE e
+Planilha Sintética contidos no ANEXO IV - CADERNO III – MODELAGEM JURÍDICA.
+SERVIÇOS: são os serviços de Tratamento e valorização dos resíduos com tecnologias
+para recuperação energética com objetivo de gerar energia elétrica ou biogás e demais
+produtos.
+URE: Unidade de Recuperação Energética a partir das rotas tecnologias de
+GASEIFICAÇÃO/PIRÓLISE (fração seca) e biodigestão (fração úmida).
+
+USUÁRIOS FINAIS: são os moradores do Município de Marília e entorno, que serão
+direta e efetivamente beneficiados pelos SERVIÇOS.
+
+VALOR DO ATUAL CONTRATO: É o valor da atual despesa com o contrato de resíduos
+soma o importe de R$ 7.113.600,00 (SETE MILHÕES, CENTO E TREZE MIL E
+
+
+                                                                                           5
+SEISCENTOS REAIS) por ano, R$ 213.408.000,00 (DUZENTOS E TREZE MILHÕES,
+QUATROCENTOS E OITO MIL REAIS) no período de 30 (trinta) anos.
+VALOR DOS INVESTIMENTOS: As estimativas de dispêndio a serem realizados pela
+CONCESSIONÁRIA para a implantação e operação dos sistemas de gaseificação/pirólise,
+biodigestão, bem como outras soluções alternativas poderão ser apresentadas mediante o
+preenchimento do Demonstrativo de Resultados do Exercício – DRE, contido no Caderno II
+– Modelagem Econômico-Financeira observados os valores máximos instruídos pela
+Administração.
+VALOR DE BENS REVERSÍVEIS: Referido valor remunera os investimentos em bens
+reversíveis ao longo do tempo, evitando uma grande indenização no final, está vinculado
+ao equilíbrio econômico-financeiro e à amortização dos ativos para se operar a
+reversibilidade ao termo contratual, conforme artigos 6º e 7º da Lei 11.079/2004 de
+Parcerias Público Privadas e artigos 6º e 9º da Lei 8.987/1995 de Concessões.
+
+
+
+CLÁUSULA SEGUNDA - DAS NORMAS APLICÁVEIS
+2.1. O presente CONTRATO rege-se por suas cláusulas, pelos dispositivos do EDITAL, pelas
+normas gerais de Direito Público e, especialmente, pelas seguintes normas:
+
+DAS NORMAS FEDERAIS
+
+1.   Constituição Federal, artigo 37, inciso XXI e artigo 175;
+2.   Lei 8.987/1995 – Concessões e Permissões);
+3.   Lei 11.445/2007 – Saneamento Básico;
+4.   Lei 12.305/2010 – Política Nacional de Resíduos Sólidos;
+5.   Lei 14.026/2020 – Marco legal do saneamento;
+6.   Lei 14.133/2021 – Lei de licitações e contratos administrativos;
+7. Lei 11.079/2004 – Parcerias Público Privadas.
+DAS NORMAS ESTADUAIS
+1.Lei 12.300/2006 – Política Estadual de Resíduos Sólidos;
+2.Decreto 54.645/2009 – Regulamentação da Lei 12.300/2006;
+3.Resolução SMA 79/2009 – Licenciamento ambiental de unidades de recuperação
+energética;
+DA NORMA MUNICIPAL
+1. Lei 9.278/2025 – Revisão do Plano de Gestão Integrada de Resíduos Sólidos Urbanos de
+Marília.
+2. Demais disposições constitucionais, legais e regulamentares aplicáveis.
+
+2.2. A modificação, revogação, ou reconhecimento de ilegalidade ou inconstitucionalidade
+de qualquer ato normativo citado não altera ou afeta o presente CONTRATO, no todo ou
+em parte, sendo que as normas regulamentares acima são referenciais e as legais
+vinculantes.
+
+
+
+                                                                                          6
+CLÁUSULA TERCEIRA - DA INTERPRETAÇÃO
+3.1. Em caso de divergência entre as disposições previstas na legislação aplicável, no
+EDITAL, neste CONTRATO e seus ANEXOS, prevalecerá o seguinte:
+
+a) em primeiro lugar, as disposições constantes das normas legais;
+
+b) em segundo lugar, as disposições constantes das normas do CONTRATO, seguidas das
+normas expedidas pela REGULADORA;
+
+c) em terceiro lugar, as disposições constantes das normas do EDITAL;
+
+d) em quarto lugar, as disposições constantes da PROPOSTA COMERCIAL E PLANO DE
+NEGÓCIOS.
+
+CLÁUSULA QUARTA - DOS ANEXOS
+4.1. Para melhor caracterização do objeto do CONTRATO, integram e/ou integrarão este
+instrumento, como se nele estivessem transcritos, para todos os efeitos de direito:
+
+A) CADERNO I – MODELAGEM TÉCNICO OPERACIONAL;
+
+B) CADERNO II – MODELAGEM ECONÔMICO-FINANCEIRA;
+
+C) CADERNO III – MODELAGEM JURÍDICA:
+
+ANEXO I EDITAL
+
+Anexo I.1.Modelo de Carta Credenciamento;
+
+Anexo I.2.Modelo de Declaração de Emprego Menor.
+
+ANEXO II TERMO DE REFERÊNCIA
+
+Anexo II.1. Diretrizes Plano de Trabalho;
+
+Anexo II.2. Das Técnicas Aplicáveis;
+
+Anexo II.3 Diretrizes para tratamento e aproveitamento das tecnologias de tratamento
+térmico e biodigestão;
+
+Anexo II.4. Diretrizes para elaboração de plano de trabalho;
+
+Anexo II.5. Programa de Monitoramento das águas subterrâneas e ar do solo;
+
+Anexo II.6. Metas e Obrigações da Concessão Administrativa e Indicadores de
+Desempenho;
+Anexo II.7. Diretrizes Ambientais.
+
+ANEXO III MINUTA DO CONTRATO
+
+Anexo III.1. Lista de Bens Reversíveis;
+
+Anexo III.2. Matriz de Risco do Contrato
+
+
+
+                                                                                      7
+CLÁUSULA QUINTA - DO REGIME JURÍDICO DA CONCESSÃO
+ADMINISTRATIVA
+5.1. Este CONTRATO é regido pelas disposições e pelos preceitos de Direito Público,
+aplicando-se, supletivamente, os princípios da Teoria Geral dos Contratos e disposições de
+Direito Privado, que lhe sejam específicas.
+
+5.2. O regime jurídico deste CONTRATO confere a Prefeitura Municipal de Marília as
+prerrogativas de:
+
+a) alterá-lo, unilateralmente, para melhor adequação às finalidades de interesse público,
+assegurado sempre o seu equilíbrio econômico-financeiro;
+
+b) promover sua extinção;
+
+c) fiscalizar sua execução;
+
+d) aplicar as sanções estipuladas neste CONTRATO, além das previstas em lei, em razão de
+sua inexecução parcial ou total.
+
+CLÁUSULA SEXTA - DO OBJETO DO CONTRATO
+6.1. O objeto do presente CONTRATO consiste na OUTORGA DE PARCERIA PÚBLICO-
+PRIVADA (PPP), na modalidade concessão administrativa, para a PRESTAÇÃO DOS
+SERVIÇOS PÚBLICOS DE TRATAMENTO E VALORIZAÇÃO DOS RESÍDUOS SÓLIDOS
+DOMÉSTICOS COM TECNOLOGIAS DE RECUPERAÇÃO ENERGÉTICA DAS FRAÇÕES SECA
+(GASEIFICAÇÃO/PIRÓLISE), ÚMIDA (BIODIGESTÃO) E OUTRAS SOLUÇÕES ALTERNATIVAS
+PELO PERÍODO DE 30 (TRINTA) ANOS, compreendendo:
+
+O objeto dessa PARCERIA PÚBLICO-PRIVADA (PPP) é a implantação e operação de uma
+solução integrada e sustentável para o tratamento dos Resíduos Sólidos Urbanos (RSU) do
+município, visando maximizar a recuperação de materiais e energia, reduzir drasticamente
+o encaminhamento para disposição final em aterro e fomentar a economia circular, em
+estrito cumprimento às diretrizes da Política Nacional de Resíduos Sólidos (PNRS).
+
+A solução proposta compreende o recebimento dos RSU em unidade de processamento,
+onde será realizada a segregação e abertura dos sacos de lixo para separação da fração
+orgânica úmida. Esta fração será encaminhada para processo de biodigestão, com posterior
+purificação do biogás para obtenção de biometano e/ou outros produtos de valor agregado.
+
+A fração seca (rejeitos e materiais com alto poder calorífico) resultante da segregação será
+destinada a processos de tratamento térmico avançado, visando a recuperação energética.
+O produto energético resultante (gás de síntese, óleo pirolítico, energia térmica ou elétrica)
+será convertido, preferencialmente, em energia elétrica para aproveitamento próprio ou
+comercialização, conforme a viabilidade técnica e econômica do projeto.
+
+
+
+
+                                                                                           8
+Os resíduos não aproveitados nas etapas de processamento, assim como os rejeitos
+gerados nos próprios processos de biodigestão e tratamento térmico, deverão ser
+destinados para tratamento ambientalmente correto.
+
+Esta abordagem proporciona significativa otimização de custos, estimando-se uma
+economia significativa para o Município, refletindo-se proporcionalmente na redução de
+despesas com transporte e pedágio associados ao encaminhamento integral dos resíduos
+para aterro.
+
+6.2. A solução para a destinação final dos rejeitos, em qualquer etapa, deverá ocorrer
+sempre em aterro sanitário licenciado, cabendo ao CONSÓRCIO ou CONCESSIONÁRIO
+comprovar e se responsabilizar exclusivamente por esta.
+
+6.3. A execução das OBRAS deverá respeitar com rigor todas as disposições da legislação
+vigente, sendo de responsabilidade do CONSÓRCIO ou CONCESSIONÁRIO.
+
+6.4. A PREFEITURA MUNICIPAL DE MARÍLIA poderá solicitar ao CONSÓRCIO ou
+CONCESSIONÁRIO, a ser formalizado em termo aditivo e obedecida a legislação vigente, a
+prestação de serviços de interesse geral ou social relacionados com a sua atividade. Essas
+demandas poderão ocorrer em caráter transitório ou vinculadas ao prazo de duração do
+presente instrumento.
+
+6.4.1. Aplica-se a presente regra aos serviços elencados no item 6.1 que demonstrem
+possuir viabilidade técnica e operacional, sendo comprovadamente a melhor solução
+ambiental regional, para atendimento a outros municípios na região, desde que também
+não onerem indevidamente a PREFEITURA MUNICIPAL DE MARÍLIA e preservem o equilíbrio
+econômico-financeiro do CONTRATO.
+
+6.5. A presente CONCESSÃO ADMINISTRATIVA pressupõe a adequada prestação dos
+SERVIÇOS, assim considerados aqueles que satisfizerem às condições de regularidade,
+eficiência, segurança, atualidade, generalidade, cortesia, equidade e continuidade, nos
+termos e condições do Plano Nacional dos Resíduos Sólidos, aprovado pela Lei Federal nº
+12.305/10.
+
+CLÁUSULA SÉTIMA - DO PRAZO DA CONCESSÃO ADMINISTRATIVA
+7.1. O prazo da CONCESSÃO ADMINISTRATIVA é de 30 (trinta) anos, contados da data
+de assunção dos SERVIÇOS pelo CONSÓRCIO ou CONCESSIONÁRIO, consignada por meio
+de termo a ser assinado pelo CONSÓRCIO ou CONCESSIONÁRIO e pelo PODER
+CONCEDENTE e tendo seu extrato publicado no Diário Oficial do Município.
+
+CLÁUSULA OITAVA                -   DA     PRORROGAÇÃO             DA     CONCESSÃO
+ADMINISTRATIVA
+8.1. A CONCESSIONÁRIO poderá requerer ao PODER CONCEDENTE, para assegurar a
+continuidade e qualidade dos SERVIÇOS e com base nos relatórios técnicos sobre a
+regularidade e qualidade dos SERVIÇOS prestados pelo CONSÓRCIO ou CONCESSIONÁRIO
+
+                                                                                       9
+e submetidos ao PODER CONDENTE, o prazo de CONCESSÃO ADMINISTRATIVA poderá vir
+a ser prorrogado por mais 5 (cinco) anos, nos termos da legislação vigente, mediante
+requerimento do CONSÓRCIO ou CONCESSIONÁRIO, que deverá estar acompanhado do
+respectivo plano de investimento para o novo período contratual.
+
+8.2. Nos termos do artigo 5º, inciso IX, da Lei nº 11.079/2004, combinado com o artigo 35
+da Lei nº 8.987/1995 e artigo 103 da Lei nº 14.133/2021, ao término do prazo contratual
+de 30 (trinta) anos, todos os bens e equipamentos vinculados à prestação dos serviços
+objeto desta PPP reverterão ao Município, em perfeitas condições de uso e operação, sem
+qualquer ônus adicional."
+
+8.3. O presente contrato de Parceria Público-Privada terá vigência de 30 (trinta) anos,
+contados a partir da data de assunção dos SERVIÇOS.
+
+8.4. Observado o disposto no artigo 5º, inciso I, da Lei nº 11.079/2004, poderá o prazo de
+vigência ser prorrogado uma única vez ou sucessivamente, até o limite máximo de 35
+(trinta e cinco) anos, incluídas as prorrogações, desde que:
+
+I – haja prévia justificativa de interesse público;
+
+II – seja necessária para garantir a adequada continuidade da prestação do serviço público;
+
+III – se demonstre vantajosidade para a Administração Pública, em comparação a nova
+licitação;
+
+IV – seja mantido o equilíbrio econômico-financeiro do contrato, nos termos do artigo 9º
+da Lei nº 8.987/1995 e do artigo 10 da Lei nº 11.079/2004.
+
+8.5. A prorrogação dependerá de autorização expressa do Poder Concedente, mediante
+decisão fundamentada, e deverá ser formalizada por meio de termo aditivo, respeitado o
+limite máximo de 35 (trinta e cinco) anos, conforme previsto em lei.
+
+8.6. O requerimento de prorrogação deverá ser apresentado ao PODER CONCEDENTE, até
+24 (vinte e quatro) meses antes do término do prazo da CONCESSÃO ADMINISTRATIVA,
+acompanhado dos comprovantes atualizados de regularidade e adimplemento das
+obrigações fiscais, previdenciárias, bem como de quaisquer outros encargos previstos na
+legislação de regência.
+
+8.7. O PODER CONCEDENTE se manifestará sobre o requerimento de prorrogação até o
+último dia do 12° (décimo segundo) mês anterior ao termo final do prazo da CONCESSÃO
+ADMINISTRATIVA, devendo analisar o pedido de prorrogação levando em consideração
+todos os dados e informações sobre o CONSÓRCIO ou CONCESSIONÁRIO e os SERVIÇOS
+por ela prestados.
+
+8.8. O PODER CONCEDENTE, decorrido o prazo previsto no item anterior, decidirá acerca
+da prorrogação do prazo da CONCESSÃO ADMINISTRATIVA, dispondo sobre a totalidade
+
+
+
+                                                                                       10
+dos termos contratuais do novo período de CONCESSÃO ADMINISTRATIVA, observados os
+requisitos técnicos indispensáveis para sua adequada prestação.
+
+8.9. As condições e procedimentos para prorrogação de que trata esta cláusula não se
+aplicam aos casos de prorrogação do CONTRATO para readequação do equilíbrio
+econômico-financeiro, previstos neste CONTRATO.
+
+8.10. Autorizada a prorrogação da CONCESSÃO ADMINISTRATIVA, a regulação e
+fiscalização se mantém a cargo da PODER CONCEDENTE.
+
+CLÁUSULA NONA - DO CONSÓRCIO OU CONCESSIONÁRIO
+9.1. O CONSÓRCIO ou CONCESSIONÁRIO, constituída pela LICITANTE VENCEDORA, deverá
+ter como objeto a execução dos SERVIÇOS, bem como a realização das atividades
+correlatas, de modo a viabilizar o cumprimento deste CONTRATO.
+
+9.2. O prazo de duração do CONSÓRCIO ou CONCESSIONÁRIO deverá corresponder, no
+mínimo, ao prazo de vigência deste CONTRATO.
+
+9.3. Fica certo que o CONSÓRCIO ou CONCESSIONÁRIO deverá ser mantida como
+subsidiária integral da LICITANTE VENCEDORA, ou sociedade anônima de capital fechado.
+
+9.4. O controle societário do CONSÓRCIO ou CONCESSIONÁRIO, total ou parcial, poderá
+ser transferido somente após anuência prévia do PODER CONCEDENTE.
+
+9.4.1. Para fins de obtenção da anuência prevista neste artigo, o pretendente deverá:
+
+a) atender às exigências de capacidade técnica, idoneidade financeira e jurídica e
+regularidade fiscal necessárias à assunção do serviço; e
+
+b) comprometer-se a cumprir todas as cláusulas do contrato em vigor.
+
+9.4.2. A transferência do controle societário poderá ser feita aos financiadores do
+CONSÓRCIO ou CONCESSIONÁRIO, após anuência do PODER CONCEDENTE e mediante a
+comprovação dos requisitos dispostos no artigo 5°, § 2°, inciso I, da Lei Federal n°
+11.079/04.
+
+9.4.3. Na hipótese prevista no item 9.4.2. acima, o PODER CONCEDENTE verificará se os
+financiadores atendem às exigências de regularidade jurídica e fiscal impostas no EDITAL
+aos LICITANTES, nos termos do disposto no artigo 27, § 30, da Lei Federal n° 8.987/95.
+
+9.5. Na hipótese de descumprimento do disposto nos itens desta Cláusula 9, o CONTRATO
+poderá ser extinto antecipadamente pelo PODER CONCEDENTE, sem prejuízo da aplicação
+das penalidades previstas neste instrumento.
+
+CLÁUSULA DEZ - DOS BENS QUE INTEGRAM A CONCESSÃO
+ADMINISTRATIVA
+10.1. A CONCESSÃO ADMINISTRATIVA será integrada pelos bens que lhe estão afetos,
+considerados como as instalações, equipamentos, máquinas, aparelhos, edificações,
+
+
+                                                                                        11
+acessórios, enfim, os bens necessários e vinculados à adequada execução dos SERVIÇOS,
+incluindo as ÁREAS e os demais bens que venham a ser adquiridos, cedidos ou construídos
+pelo   CONSÓRCIO    ou   CONCESSIONÁRIO,      ao   longo   do   período   da   CONCESSÃO
+ADMINISTRATIVA.
+
+10.1.1. Inicialmente não há bens a serem transferidos do PODER CONCEDENTE à
+CONCESSIONÁRIO. Os bens que serão transferidos ao final do CONTRATO ao Poder
+Concedente, são aqueles que constam do ANEXO III.1 – CADERNO III – MODELAGEM
+JURÍDICA, sendo que referida lista será atualizada anualmente pela CONCESSIONÁRIO.
+
+10.2. Os bens afetos à CONCESSÃO ADMINISTRATIVA não poderão ser alienados ou
+onerados pelo CONSÓRCIO ou CONCESSIONÁRIO, sem prévia anuência do PODER
+CONCEDENTE e PODER CONCEDENTE, por qualquer forma, sob pena de caducidade, e
+reverterão graciosamente ao PODER CONCEDENTE, quando do término da vigência total do
+CONTRATO.
+
+10.3. Os bens do CONSÓRCIO ou CONCESSIONÁRIO que não estejam afetos à CONCESSÃO
+ADMINISTRATIVA e, portanto, não sejam considerados como essenciais à execução dos
+SERVIÇOS, poderão ser onerados ou alienados pelo CONSÓRCIO ou CONCESSIONÁRIO,
+desde que tal oneração ou alienação não afete a qualidade dos SERVIÇOS, ou a diminuição
+das condições econômicas, técnicas ou operacionais do CONSÓRCIO ou CONCESSIONÁRIO,
+para continuidade da adequada prestação dos SERVIÇOS.
+
+10.3.1. O resultado apurado na alienação de bens, quando for o caso, deverá
+obrigatoriamente ser aplicado em benefício da concessão regida por este instrumento.
+
+10.4. Para os efeitos do disposto nos itens anteriores, os bens deverão estar devidamente
+registrados na contabilidade do CONSÓRCIO ou CONCESSIONÁRIO, de modo a permitir a
+sua fácil identificação pelo PODER CONCEDENTE.
+
+CLÁUSULA ONZE - DA ÁREA
+11.1. Cabe ao PODER CONCEDENTE, se viável, declarar de utilidade pública, instituir
+servidões administrativas, propor limitações administrativas e permitir ao CONSÓRCIO ou
+CONCESSIONÁRIO ocupar provisoriamente bens imóveis necessários à execução e
+conservação de obras e serviços vinculados à CONCESSÃO ADMINISTRATIVA, nos prazos
+definidos no CRONOGRAMA.
+
+11.2. Os ônus decorrentes das desapropriações, se necessárias, caberão exclusivamente à
+CONCESSIONÁRIO.
+
+11.3. Caso determinado prazo previsto no CRONOGRAMA não seja cumprido pelo
+CONSÓRCIO ou CONCESSIONÁRIO por fato imputável ao PODER CONCEDENTE no
+cumprimento de atos de sua responsabilidade, previstos nesta cláusula, o referido prazo do
+CRONOGRAMA será adiado proporcionalmente aos dias de atraso por parte do PODER
+
+
+
+                                                                                       12
+CONCEDENTE, devendo haver, ainda, readequação do equilíbrio econômico-financeiro do
+CONTRATO.
+
+CLÁUSULA DOZE - DAS CONDICÕES DE PRESTAÇÃO DOS SERVIÇOS
+12.1. O CONSÓRCIO ou CONCESSIONÁRIO, durante todo o prazo da CONCESSÃO
+ADMINISTRATIVA, deverá prestar os SERVIÇOS de acordo com o disposto neste
+CONTRATO, visando o pleno e satisfatório atendimento dos USUÁRIOS FINAIS.
+
+12.2. Na prestação dos SERVIÇOS, o CONSÓRCIO ou CONCESSIONÁRIO terá ampla
+liberdade na direção de seus negócios, investimentos, pessoal e tecnologia, e observará as
+prescrições deste CONTRATO, da legislação específica, das normas regulamentares e das
+instruções e determinações do PODER CONCEDENTE.
+
+12.3. A prestação dos SERVIÇOS deverá ser efetivada em conformidade com a legislação
+aplicável, o termo de referência, cadernos técnicos, modelo operacional, normas técnicas e
+os demais regulamentos aplicáveis expedidos pelo PODER CONCEDENTE e pela PODER
+CONCEDENTE, tendo sempre em vista o interesse público na obtenção de serviço adequado.
+
+12.4. Para os efeitos do que estabelece o item 12.3. acima, serviço adequado é o que
+satisfaz as condições efetivas de regularidade, continuidade, eficiência, segurança,
+atualidade, generalidade, cortesia na sua prestação e modicidade da CONTRAPRESTAÇÃO,
+considerando-se:
+
+a) regularidade: a prestação dos serviços nas condições estabelecidas no CONTRATO e nas
+normas técnicas aplicáveis;
+
+b) continuidade: a manutenção, em caráter permanente e ininterrupto, da oferta dos
+SERVIÇOS;
+
+c) eficiência: a execução dos SERVIÇOS de acordo com as normas técnicas aplicáveis e em
+padrões   satisfatórios   estabelecidos na   regulamentação   aplicável,   que   assegurem,
+qualitativa e quantitativamente, em caráter permanente, o cumprimento do CONTRATO;
+
+d) atualidade: a modernidade das técnicas, dos equipamentos e das instalações, e a sua
+conservação e manutenção, bem como a melhoria, atualização e a expansão dos serviços,
+na medida das necessidades dos USUÁRIOS FINAIS;
+
+e) cortesia na prestação dos serviços: conferir tratamento aos USUÁRIOS FINAIS com
+civilidade e urbanidade, assegurando o amplo acesso para a apresentação de reclamações;
+
+f) modicidade: a justa correlação entre os encargos da CONCESSÃO ADMINISTRATIVA, as
+receitas do CONSÓRCIO ou CONCESSIONÁRIO e a CONTRAPRESTAÇÃO paga pelo PODER
+CONCEDENTE.
+
+12.5. A qualidade dos SERVIÇOS envolve a adoção de procedimentos e práticas, visando a
+melhoria da continuidade da prestação dos serviços e do atendimento aos USUÁRIOS
+
+
+
+                                                                                       13
+FINAIS, não acarretando riscos à saúde ou segurança destes e da comunidade, exceto os
+intrínsecos a própria atividade.
+
+12.5.1. O CONSÓRCIO ou CONCESSIONÁRIO deverá realizar anualmente pesquisa de
+satisfação e qualidade dos serviços concedidos aos USUÁRIOS FINAIS, devendo o PODER
+CONCEDENTE aprovar o questionário e a metodologia a ser aplicada. O resultado da
+pesquisa deverá ser divulgado nos meios de comunicação e no sítio eletrônico do PODER
+CONCEDENTE.
+
+12.6. A segurança envolve práticas e medidas que deverão ser adotadas para evitar ou
+minimizar a exposição dos USUÁRIOS FINAIS a riscos ou perigos, devido à inadequada
+prestação dos SERVIÇOS e a não conformidade de tais serviços prestados com as normas
+técnicas e regulamentos aplicáveis, cabendo ao CONSÓRCIO ou CONCESSIONÁRIO:
+
+a) avisar de imediato ao PODER CONCEDENTE e demais autoridades competentes acerca
+de qualquer fato que, como resultado de suas atividades concedidas, ponham em risco a
+saúde e a segurança pública. O aviso deve incluir as possíveis causas que deram origem ao
+fato, assim como as medidas tomadas e planejadas para sua solução;
+
+b) na ocorrência de sinistro, avisar imediatamente ao PODER CONCEDENTE e apresentar-
+lhe, em um prazo de até 10 (dez) dias contados da data da sua ocorrência, um relatório
+detalhado sobre as causas que lhe deram origem e as medidas tomadas para o seu controle;
+
+c) capacitar os seus empregados para prevenção e atendimento de situações de emergência
+e de sinistros; e
+
+d) proporcionar o auxílio que seja solicitado pelas autoridades competentes, em caso de
+emergência ou de sinistro.
+
+12.7. O CONSÓRCIO ou CONCESSIONÁRIO fica obrigada a avisar previamente ao PODER
+CONCEDENTE e PODER CONCEDENTE acerca de quaisquer circunstâncias que afetem a
+qualidade, continuidade, eficiência e segurança, que atinjam os USUÁRIOS FINAIS ou
+impliquem modificação das condições de prestação dos SERVIÇOS.
+
+12.8. Sem prejuízo do cumprimento do estabelecido na legislação, ao CONSÓRCIO ou
+CONCESSIONÁRIO obriga-se a manter os níveis de continuidade e qualidade dos
+SERVIÇOS, aplicando-se, quando for o caso, a legislação superveniente, devendo ser
+respeitado o equilíbrio econômico financeiro do CONTRATO.
+
+12.9. A fiscalização e regulação dos serviços contratados será feita por PODER
+CONCEDENTE, de acordo com as atribuições legais vigentes, nos termos do presente
+CONTRATO e nos termos definidos no CONVÊNIO DE COOPERAÇÃO.
+
+
+
+
+                                                                                     14
+CLÁUSULA TREZE - DO DESEMPENHO DO CONSÓRCIO                                            OU
+CONCESSIONÁRIO NA EXECUÇÃO DOS SERVIÇOS
+13.1. O CONSÓRCIO ou CONCESSIONÁRIO deverá cumprir as metas de desempenho
+previstas no CONTRATO e seus anexos, bem como no PMGIRS.
+
+13.2. O CONSÓRCIO ou CONCESSIONÁRIO, na execução dos projetos previstos no
+CONTRATO, deverá zelar pelas boas condições ambientais e de saúde da população.
+
+13.3. Na hipótese do CONSÓRCIO ou CONCESSIONÁRIO ficar impedido de atingir as metas,
+total ou parcialmente, por motivos não imputáveis ao CONSÓRCIO ou CONCESSIONÁRIO,
+o PODER CONCEDENTE com a ciência da PODER CONCEDENTE promoverá a redução
+proporcional dos objetivos e metas da CONCESSÃO ADMINISTRATIVA, limitada na parte do
+SERVIÇO em que for o CONSÓRCIO ou CONCESSIONÁRIO impedido de prestar, sem
+prejuízo de cumprimento, se for o caso, das demais disposições deste CONTRATO aplicáveis
+à espécie, observada a manutenção do equilíbrio econômico-financeiro do CONTRATO.
+
+CLÁUSULA QUATORZE - DAS RECEITAS DO CONSÓRCIO OU
+CONCESSIONÁRIO
+14.1. O CONSÓRCIO ou CONCESSIONÁRIO terá direito a receber a CONTRAPRESTAÇÃO
+pelos SERVIÇOS prestados, nos moldes mencionados neste CONTRATO.
+
+14.2. Será garantido, ainda, visando a modicidade da CONTRAPRESTAÇÃO, o direito à
+aferição de outras fontes de receitas alternativas, complementares, acessórias ou de
+projetos associados, não expressamente previstas neste CONTRATO, desde que a
+exploração de tais fontes não acarrete prejuízo à normal prestação dos SERVIÇOS e que
+sejam previamente autorizadas pelo PODER CONCEDENTE.
+
+14.2.1. A exploração de fontes de receitas alternativas, complementares, acessórias ou de
+projetos associados deverá atender a legislação municipal, estadual e federal pertinente,
+ficando desde já determinado que 1% (um por cento) do resultado contábil líquido da
+operação deverá ser revertida, direta ou indiretamente, em favor da modicidade da
+remuneração (preço por tonelada e valor bens reversíveis).
+
+14.2.1.1. O disposto no item acima poderá ser revisto caso ocasione desequilíbrio no
+CONTRATO.
+
+CLÁUSULA QUINZE - DO INÍCIO DA AFERIÇÃO DE RECEITAS PELO
+CONSÓRCIO OU CONCESSIONÁRIO
+15.1. Em conformidade com o que dispõe este CONTRATO, o CONSÓRCIO ou
+CONCESSIONÁRIO poderá, a partir da data de início dos SERVIÇOS, observados os prazos
+contidos no Edital (a partir da obtenção de licença de instalação, 30 meses para implantação
+gaseificação/pirólise e 16 meses para implantação da biodigestão) , cobrar diretamente do
+PODER CONCEDENTE a CONTRAPRESTAÇÃO pela prestação dos SERVIÇOS, bem como
+
+
+
+
+                                                                                        15
+explorar diretamente as demais receitas admitidas nas condições e termos previstos neste
+CONTRATO.
+
+CLÁUSULA DEZESSEIS – DOS PAGAMENTOS
+16.1. Os pagamentos ao CONSÓRCIO ou CONCESSIONÁRIO é aquele indicada neste
+CONTRATO, que passa a ser válida na data de início dos SERVIÇOS pelo CONSÓRCIO ou
+CONCESSIONÁRIO.
+
+16.1.1. Os pagamentos deverão possibilitar a devida remuneração dos custos de operação,
+manutenção    e    custos financeiros, decorrentes dos investimentos realizados pelo
+CONSÓRCIO ou CONCESSIONÁRIO.
+
+16.2. O PODER CONCENDENTE efetuará o pagamento do preço/tonelada e valor bens
+reversíveis para o CONCESSIONÁRIO e o transporte e disposição de rejeitos para as atuais
+empresas contratadas para transporte e disposição em aterro sanitário, após a efetiva
+execução e medição dos SERVIÇOS objeto do CONTRATO, nos termos definidos nos itens
+seguintes.
+
+16.3. Para o recebimento do pagamento, o CONSÓRCIO ou CONCESSIONÁRIO efetuará
+medições mensais correspondentes ao período compreendido entre o primeiro e o último
+dia de cada mês.
+
+16.4. O pagamento das faturas estará condicionado à vistoria e à manifestação formal do
+órgão do PODER CONCEDENTE, encarregado da fiscalização e acompanhamento deste
+CONTRATO, que emitirá o competente atestado no prazo de até 10 (dez) dias corridos após
+a apresentação da medição, que deverá se dar sempre no 1º (primeiro) dia útil do mês
+posterior ao da execução dos SERVIÇOS.
+
+16.5. Na hipótese do PODER CONCEDENTE não se manifestar formalmente a respeito dos
+SERVIÇOS prestados, no prazo fixado no item 16.4 acima,                o CONSÓRCIO ou
+CONCESSIONÁRIO        considerará   os   SERVIÇOS    aceitos,   podendo   emitir   a   fatura
+correspondente, nos termos do item 16.6 abaixo.
+
+16.6. As faturas deverão ser emitidas pelo CONSÓRCIO ou CONCESSIONÁRIO em até 05
+(cinco) dias corridos contados a partir da data de emissão do atestado referido no item 16.4
+acima ou a partir da expiração do prazo para a emissão do atestado, devendo estar
+regularizadas nos seus aspectos formais e fiscais.
+
+16.7. O pagamento será efetuado pelo PODER CONCEDENTE no prazo de 5 (cinco) dias
+úteis, contados da apresentação da fatura, salvo se este dia coincidir com sábado, domingo,
+feriado ou dia em que não houver expediente na sede do PODER CONCEDENTE, hipótese
+em que o pagamento poderá ser prorrogado para o primeiro dia útil que se seguir.
+
+16.8. Os SERVIÇOS impugnados pelo PODER CONCEDENTE, no que concerne à sua
+execução, não poderão ser faturados ou, se o forem, serão glosados nas faturas pelo PODER
+
+
+
+                                                                                         16
+CONCEDENTE, ou por órgão por ela indicado como responsável pela fiscalização do
+CONTRATO.
+
+16.9. O pagamento da primeira medição ficará condicionado à apresentação, pelo
+CONSÓRCIO ou CONCESSIONÁRIO, da Anotação de Responsabilidade Técnica – ART/CREA.
+
+16.10. Nenhum pagamento isentará o CONSÓRCIO ou CONCESSIONÁRIO das obrigações
+previstas neste CONTRATO, quaisquer que sejam, nem implicará a aprovação definitiva dos
+SERVIÇOS executados.
+
+16.11. Nenhuma quitação será aceita sob reserva ou condição, correndo por conta da
+CONSÓRCIO as despesas daí decorrentes.
+
+16.12. A CONTRAPRESTAÇÃO será paga, pelo PODER CONCEDENTE à CONSÓRCIO, por
+meio de ordem bancária, a ser efetuada em conta corrente específica para esta finalidade.
+
+16.13. No caso de atraso do PODER CONCEDENTE no pagamento da CONTRAPRESTAÇÃO
+devida ao CONSÓRCIO ou CONCESSIONÁRIO, este deverá arcar com multa correspondente
+a 2% (dois por cento) do valor em atraso, acrescido de juros moratórios de 1% (um por
+cento) ao mês, devendo o saldo devedor - principal e encargos moratórios - ser corrigido
+monetariamente, "pro rata die", nos mesmos moldes do reajuste da CONTRAPRESTAÇÃO,
+desde a data do vencimento até a data do efetivo pagamento do valor.
+
+16.13.1.    No    caso   do    atraso   referido   neste    item   16.13,   ao    CONSÓRCIO     ou
+CONCESSIONÁRIO poderá executar a GARANTIA DE PAGAMENTO, nos termos previstos
+neste contrato.
+
+16.13.2. Além do disposto no subitem 16.13.1. acima, nos termos da Lei Federal n°
+14.133/21, caso o atraso referido no item 16.13 ultrapasse o prazo de 90 (noventa) dias,
+a CONSÓRCIO poderá suspender a execução dos SERVIÇOS, até que o PODER
+CONCEDENTE efetue o pagamento do valor em atraso.
+
+16.14. O PODER CONCEDENTE determinará a suspensão do pagamento de qualquer quantia
+devida     ao    CONSÓRCIO      ou   CONCESSIONÁRIO         sempre    que     o   CONSÓRCIO     ou
+CONCESSIONÁRIO se recusar ou dificultar a livre fiscalização dos SERVIÇOS, na forma
+prevista neste CONTRATO, ou ainda no caso de paralisação dos SERVIÇOS em hipóteses
+não previstas neste CONTRATO e nos seus Anexos.
+
+CLÁUSULA DEZESSETE - DOS RECURSOS DA PREFEITURA
+MUNICIPAL DE MARÍLIA PARA PAGAMENTO DA REMUNERAÇÃO
+17.1. As despesas decorrentes da execução deste CONTRATO correrão por conta da dotação
+orçamentária n° XXXXXX, no exercício vigente.
+
+17.2. Os recursos para o pagamento do preço por tonelada e valor bens reversíveis, pelo
+PODER      CONCEDENTE,        durante   a   vigência   do   CONTRATO,       advirão   de   dotações
+
+
+
+
+                                                                                               17
+    orçamentárias específicas, a serem incluídas nos orçamentos municipais dos exercícios
+    seguintes e de outras receitas da PREFEITURA.
+
+    CLÁUSULA DEZOITO - DO EQUILÍBRIO ECONÔMICO-FINANCEIRO
+    DO CONTRATO
+    18.1. Observados os riscos a serem assumidos exclusivamente por cada uma das PARTES
+    e os riscos a serem compartilhados entre elas, é pressuposto básico da equação econômico-
+    financeira que regula as relações entre o PODER CONCEDENTE e o CONSÓRCIO ou
+    CONCESSIONÁRIO o permanente equilíbrio entre os encargos do CONSÓRCIO ou
+    CONCESSIONÁRIO e as receitas da CONCESSÃO ADMINISTRATIVA, referidas neste
+    CONTRATO.
+
+    18.1.1. A MATRIZ DE RISCOS DO CONTRATO compõe o presente Instrumento nos termos
+    do Anexo III.2 – CADERNO III – MODELAGEM JURÍDICA.
+
+    18.2. Diante do disposto no item 18.1. acima, o pagamento será preservado pelas regras
+    de reajuste e revisão previstas na legislação aplicável, bem como pelas regras previstas
+    neste CONTRATO, com a finalidade de assegurar às PARTES, durante todo o prazo da
+    CONCESSÃO ADMINISTRATIVA, a manutenção do equilíbrio econômico-financeiro do
+    CONTRATO.
+
+    CLÁUSULA DEZENOVE - DO REAJUSTE DO PREÇO TONELADA E
+    VALOR BENS REVERSÍVEIS
+    19.1. O pagamento devido pelo PODER CONCEDENTE será reajustado anualmente,
+    observado o interstício mínimo de 12 (doze) meses, contado da data-base correspondente
+    ao mês de referência da PROPOSTA COMERCIAL.
+
+    19.1.1. O reajuste será calculado por fórmula paramétrica que reflita a variação dos
+    principais componentes de custo, composta pelos seguintes índices oficiais:
+
+•    (i) Mão de obra (IMO): INPC/IBGE;
+
+•    (ii) Combustíveis (ICOMB): preço médio do Diesel S10 – ANP;
+
+•    (iii) Equipamentos/peças (IEQ): IPA-OG – Máquinas e Equipamentos (FGV), ou índice
+     equivalente que o substitua;
+
+•    (iv) Índice geral (IGER): IPCA/IBGE.
+
+    19.1.2. Os pesos de cada componente serão definidos conforme Matriz de Custos abaixo,
+    devendo sua soma ser igual a 1 (um).
+
+
+    Componente               Índice              Peso (α, β, γ, δ)    Faixa típica de mercado
+
+
+
+    Mão de obra              INPC/IBGE           0,35                 0,30 – 0,45
+
+
+
+
+                                                                                            18
+Componente                      Índice                   Peso (α, β, γ, δ)          Faixa típica de mercado
+
+
+
+Combustíveis                    Diesel S10 – ANP         0,15                       0,10 – 0,25
+
+
+Equip./manutenção               IPA-OG (FGV)             0,25                       0,20 – 0,35
+
+
+Índice geral (outros)           IPCA/IBGE                0,25                       0,15 – 0,30
+
+
+Total                           —                        1,00                       —
+
+
+Mão de obra (35%) - Reflete operação intensiva (plantas, triagem, operação contínua).
+
+Combustível      (15%)      -    Relacionado    a    logística   interna,    rejeitos   e    apoio   operacional
+Equipamentos/manutenção (25%) – Forte peso em plantas (URE, TMB, biodigestão)
+
+Índice geral (25%) - Captura custos difusos (insumos, serviços, contratos terceiros)
+
+19.1.3. Vedação de revisão unilateral: PODER CONCEDENTE não poderá recusar ou alterar
+o reajuste regularmente calculado, salvo erro material devidamente comprovado.
+
+19.1.4. Substituição de índices: Na hipótese de extinção, indisponibilidade ou alteração
+relevante de qualquer índice, este será substituído por outro índice oficial equivalente que
+melhor reflita o respectivo custo, sem prejuízo ao equilíbrio econômico-financeiro do
+contrato. Na ausência de consenso em até 30 (trinta) dias, prevalecerá o índice técnico
+indicado por instituição oficial (IBGE ou FGV), com aplicação retroativa.
+
+19.1.5. Variação negativa: Eventuais variações negativas serão aplicadas, desde que não
+comprometam o equilíbrio econômico-financeiro do contrato, assegurado o direito à revisão
+extraordinária quando cabível.
+
+19.1.6. O reajuste não se confunde com a revisão ordinária ou extraordinária, sendo
+mecanismo automático de atualização monetária. A recomposição do equilíbrio econômico-
+financeiro será tratada em cláusula própria.
+
+19.2. O primeiro reajuste será aplicado no 13º (décimo terceiro) mês de vigência do
+CONTRATO, considerando a variação dos índices desde a data-base da PROPOSTA até o
+12º mês.
+
+19.2.1. Os reajustes subsequentes ocorrerão a cada período de 12 (doze) meses, contados
+do último reajuste aplicado.
+
+19.3. O reajuste devidamente calculado poderá ser imediatamente faturado pelo
+CONCESSIONÁRIO, independentemente de homologação.
+
+19.3.1. Caso o PODER CONCEDENTE não se manifeste formalmente, com justificativa
+técnica e legal, no prazo de até 15 (quinze) dias contados do recebimento da fatura,
+considerar-se-á o reajuste tacitamente aceito.
+
+19.4. Em caso de atraso no pagamento, incidirão cumulativamente:
+
+                                                                                                           19
+•    (i) atualização pelo índice contratual;
+
+•    (ii) juros moratórios;
+
+•    (iii) demais encargos previstos no contrato.
+
+    19.5. No caso de inércia do PODER CONCEDENTE em relação à publicação referida neste
+    item, o reajuste será aplicado ao preço por tonelada e valor bens reversíveis e poderá ser
+    cobrado pelo CONSÓRCIO ou CONCESSIONÁRIO.
+
+    CLÁUSULA VINTE - DA REVISÃO DO PREÇO POR TONELADA E
+    VALOR BENS REVERSÍVEIS
+    20.1. O preço por tonelada e o valor de bens reversíveis e todas as condições econômico-
+    financeiras deste CONTRATO serão revistas ordinariamente a cada ano.
+
+    20.2. O CONTRATO deverá ser revisto, a qualquer tempo, extraordinariamente, quando se
+    verificarem os seguintes eventos:
+
+    a) sempre que houver, imposta pelo PODER CONCEDENTE, modificação unilateral do
+    CONTRATO, que importe variação dos seus custos ou das receitas, tanto para mais como
+    para menos;
+
+    b) excetuado o imposto de renda, sempre que forem criados, alterados ou extintos tributos
+    ou encargos legais ou sobrevierem novas disposições legais, após a data de apresentação
+    pela LICITANTE VENCEDORA da PROPOSTA COMERCIAL, desde que acarretem repercussão
+    nos custos do CONSÓRCIO ou CONCESSIONÁRIO, tanto para mais quanto para menos,
+    bem como seu impacto sobre as condições financeiras do CONTRATO, em conformidade
+    com o disposto no § 3° do artigo 9° da Lei Federal n° 8.987/95;
+
+    c) sempre que circunstâncias supervenientes, em razão de fato do príncipe ou ato da
+    Administração Pública, resultem, comprovadamente, em variações dos custos do
+    CONSÓRCIO ou CONCESSIONÁRIO, incluindo determinações de autoridades ambientais
+    que alterem os encargos da CONCESSÃO ADMINISTRATIVA, dentre eles, a modificação ou
+    antecipação das suas metas;
+
+    d) sempre que houver alteração legislativa de caráter específico que produza impacto direto
+    sobre as receitas do CONSÓRCIO ou CONCESSIONÁRIO, tais como as que concedam
+    isenção, redução, desconto ou qualquer outro privilégio tributário ou tarifário;
+
+    e) sempre que circunstâncias supervenientes, em razão de caso fortuito, força maior e
+    interferências imprevistas – ou mesmo que previstas, não possam ser evitadas -, para
+    efetivação   dos   quais   não   seja   atribuível   responsabilidade   ao   CONSÓRCIO    ou
+    CONCESSIONÁRIO, acarretem alteração dos custos do CONSÓRCIO ou CONCESSIONÁRIO;
+
+    f) nos demais casos expressamente previstos neste CONTRATO;
+
+
+
+
+                                                                                             20
+g) nos demais casos não expressamente listados acima que venham a alterar o equilíbrio
+econômico-financeiro do CONTRATO, não motivados ou causados pelo CONSÓRCIO ou
+CONCESSIONÁRIO.
+
+20.3. Sempre que a revisão referida nesta Cláusula se der por meio de revisão dos valores
+que comporão o preço por tonelada e valor de bens reversíveis e sem prejuízo do disposto
+nos itens anteriores, o CONSÓRCIO ou CONCESSIONÁRIO e o PODER CONCEDENTE através
+da PODER CONCEDENTE poderão formalmente acordar, complementar ou alternativamente
+ao aumento ou a diminuição do valor da CONTRAPRESTAÇÃO, qualquer alternativa legal e
+juridicamente possível, que venha atingir o objetivo de revisão, tais como:
+
+a) alteração dos prazos para o cumprimento das metas da CONCESSÃO ADMINISTRATIVA,
+observado o interesse público;
+
+b) supressão ou aumento de encargos para o CONSÓRCIO ou CONCESSIONÁRIO;
+
+c) compensação financeira;
+
+d) alteração do prazo da CONCESSÃO ADMINISTRATIVA;
+
+e) combinação das alternativas referidas nas alíneas "a" e "d";
+
+f) outras alternativas admitidas legalmente.
+
+20.4. A revisão de que trata esta cláusula, com a recomposição do equilíbrio econômico-
+financeiro do CONTRATO, solicitada com base em determinado evento ou fato que lhe deu
+origem, não poderá ser novamente invocado para fim de ulteriores revisões com base no
+mesmo evento ou fato.
+
+20.5. Sempre que se efetivar a revisão referida nesta Cláusula, considerar-se-á
+restabelecido o equilíbrio econômico-financeiro do CONTRATO.
+
+20.6. Ocorrendo qualquer dos eventos mencionados no item 20.2, o CONSÓRCIO ou
+CONCESSIONÁRIO deverá encaminhar ao PODER CONCEDENTE e PODER CONCEDENTE,
+em até 30 (trinta) dias de sua verificação, o requerimento de revisão, contendo todas as
+informações e dados necessários à análise do pedido de revisão, acompanhado de "relatório
+técnico" ou "laudo pericial" onde demonstre, inequivocadamente, o impacto ou a
+repercussão do evento sobre os principais componentes de custos que definem a
+CONTRAPRESTAÇÃO        e   seus   reflexos     sobre   as   receitas   do   CONSÓRCIO    ou
+CONCESSIONÁRIO.
+
+20.7. A PODER CONCEDENTE terá o prazo de até 30 (trinta) dias, contados da data em que
+for protocolado o pedido, para analisá-lo. O prazo a que se refere este item poderá ser
+suspenso uma única vez, caso a PODER CONCEDENTE solicite ao CONSÓRCIO ou
+CONCESSIONÁRIO a apresentação de informações adicionais, voltando o prazo a fluir, sem
+solução de continuidade, a partir do cumprimento dessa exigência. Na impossibilidade de
+cumprimento dos prazos e procedimentos aqui descritos pela PODER CONCEDENTE, desde
+
+
+                                                                                        21
+que legal e tecnicamente demonstrado, será utilizado cronograma e procedimentos próprios
+da REGULADORA.
+
+20.8. Ao aprovar o valor da revisão proposto pelo CONSÓRCIO ou CONCESSIONÁRIO ou
+outra forma de recomposição do equilíbrio econômico-financeiro prevista no item 20.3, a
+PODER CONCEDENTE deverá notificar o CONSÓRCIO ou CONCESSIONÁRIO a respeito em
+até 5 (cinco) dias úteis, devendo o PODER CONCEDENTE e o CONSÓRCIO ou
+CONCESSIONÁRIO, no máximo, 10 (dez) dias contados de tal notificação, celebrar o
+respectivo termo aditivo ao CONTRATO, devendo, ainda, o PODER CONCEDENTE publicar
+seu extrato nos termos da lei.
+
+20.9. Na hipótese de a PODER CONCEDENTE não concordar, total ou parcialmente, com o
+valor proposto pelo CONSÓRCIO ou CONCESSIONÁRIO para a revisão dos valores que
+compõem a CONTRAPRESTAÇÃO, deverá informá-la fundamentadamente, dentro do prazo
+aludido no item 20.8, acerca das razões de sua inconformidade, fixando o valor a ser
+praticado.
+
+20.10. Caso, no prazo referido no item 20.7, a PODER CONCEDENTE e PODER CONCEDENTE
+não se manifestem a respeito da proposta de revisão apresentada pelo CONSÓRCIO ou
+CONCESSIONÁRIO, o CONSÓRCIO ou CONCESSIONÁRIO considerará tal proposta aceita,
+podendo ser cobrada, na próxima fatura, a CONTRAPRESTAÇÃO com base nos novos
+valores propostos de revisão referido no item anterior.
+
+20.11. Sempre que atendidas as condições do CONTRATO e mantida a repartição de riscos
+nele estabelecida, considera-se mantido equilíbrio econômico-financeiro do CONTRATO.
+
+CLÁUSULA VINTE E UM - DA GARANTIA DE PAGAMENTO
+21.1. O PODER CONCEDENTE oferecerá, diretamente ou de outra entidade da
+administração direta, indireta, ou na qual tenha controle societário, como GARANTIA DE
+PAGAMENTO, qualquer bem móvel, ativo societário (títulos, ações – incluindo remuneração
+pelas mesmas, debentures, etc.) e demais créditos não vinculados, tais como aluguéis,
+pagamentos de outorgas, ou qualquer outro bem que entender necessário.
+
+21.1.1. Como forma de estabelecer as garantias necessárias ao pagamento do preço por
+tonelada e valor de bens reversíveis e demais encargos de responsabilidade do PODER
+CONCEDENTE dispostos neste CONTRATO, deverá o PODER CONCEDENTE possuir antes da
+assinatura do presente instrumento uma lei de constituição de um FUNDO GARANTIDOR ou
+a liberação de receitas municipais não vinculadas de garantia real com liquidez, ou outra
+forma jurídica que venha a ser acorda entre as PARTES, visando aumentar a segurança
+jurídica e financeira da concessão.
+
+21.1.1.1. O PODER CONCEDENTE poderá, alternativamente ao FUNDO GARANTIDOR,
+encaminhar o Projeto de Lei autorizando a cessão fiduciária, penhor ou qualquer outro meio
+de   garantia   em   direito   admitido,   segregadas   em   conta   corrente   vinculada,    de
+
+
+                                                                                             22
+movimentação restrita, operada por agente fiduciário com poderes conferidos para a
+execução da garantia no caso de inadimplemento dos pagamentos previstos nos contratos
+de parceria público-privadas.
+
+21.1.1.2. A realização dos investimentos previstos está condicionada a efetiva constituição
+e funcionamento do FUNDO GARANTIDOR, ou outra garantia real que venha a substitui-lo.
+
+21.2. O montante da GARANTIA DE PAGAMENTO deverá suportar o valor do preço por
+tonelada e valor de bens reversíveis, bem como as multas e sanções aplicadas, e seus
+mecanismos de execução nos termos deste CONTRATO, devendo ser no mínimo o valor de
+3 (três) contraprestações mensais estimadas.
+
+21.3. A GARANTIA DE PAGAMENTO deverá ser mantida pelo PODER CONCEDENTE, até a
+extinção do CONTRATO e o respectivo pagamento de todas as indenizações devidas ao
+CONSÓRCIO ou CONCESSIONÁRIO, em decorrência da referida extinção.
+
+21.4. O CONSÓRCIO ou CONCESSIONÁRIO poderá, de forma fundamentada e motivada,
+solicitar o PODER CONCEDENTE a substituição da garantia oferecida.
+
+CLÁUSULA VINTE E DOIS - DA GARANTIA DE EXECUÇÃO DO
+CONTRATO
+22.1. Em garantia do bom cumprimento das obrigações assumidas no CONTRATO, o
+CONSÓRCIO     prestou    a   GARANTIA   DE   EXECUÇÃO     DO      CONTRATO     no   montante
+correspondente a 5% do valor anual do contrato, na forma de carta fiança, prevista no
+artigo 97 da Lei Federal nº 14.133/2021 e alterações posteriores.
+
+22.2. A GARANTIA DE EXECUÇÃO DO CONTRATO deverá ser mantida pelo CONSÓRCIO ou
+CONCESSIONÁRIO até a data de extinção do CONTRATO, por meio de renovações
+periódicas.
+
+22.3. Se houver prorrogação no prazo de vigência do CONTRATO, o CONSÓRCIO ou
+CONCESSIONÁRIO fica obrigado a providenciar a renovação da GARANTIA DE EXECUÇÃO
+DO   CONTRATO,     nos   termos   e   condições   originalmente    aprovados   pelo   PODER
+CONCEDENTE.
+
+22.4. O PODER CONCEDENTE recorrerá à GARANTIA DE EXECUÇÃO DO CONTRATO sempre
+que o CONSÓRCIO ou CONCESSIONÁRIO não proceder, nos prazos definidos neste
+CONTRATO, ao pagamento das multas que, porventura, forem aplicadas e/ou ao
+pagamento dos prêmios dos seguros previstos neste instrumento, ou sempre que seja
+necessário, nos termos referidos neste CONTRATO.
+
+22.5. Sempre que a PODER CONCEDENTE utilizar a GARANTIA DE EXECUÇÃO DO
+CONTRATO, o CONSÓRCIO ou CONCESSIONÁRIO deverá proceder à reposição de seu
+montante integral, no prazo de 10 (dez) dias úteis, contados da data de utilização.
+
+
+
+
+                                                                                        23
+22.6. O recurso à GARANTIA DE EXECUÇÃO DO CONTRATO será efetuado por meio de
+notificação dirigida pelo PODER CONCEDENTE ao CONSÓRCIO ou CONCESSIONÁRIO,
+respeitados os princípios constitucionais do contraditório e da ampla defesa.
+
+22.7. A GARANTIA DE EXECUÇÃO DO CONTRATO não poderá conter qualquer tipo de
+ressalva ou condição que possa dificultar ou impedir sua execução ou que possa deixar
+dúvidas quanto à sua firmeza.
+
+22.8. Todas as despesas decorrentes da prestação da GARANTIA DE EXECUÇÃO DO
+CONTRATO correrão por conta do CONSÓRCIO ou CONCESSIONÁRIO.
+
+22.9. Qualquer modificação nos termos e nas condições da GARANTIA DE EXECUÇÃO DO
+CONTRATO deverá ser previamente aprovada pelo PODER CONCEDENTE.
+
+22.10. O CONSÓRCIO ou CONCESSIONÁRIO deverá reajustar o valor da GARANTIA DE
+EXECUÇÃO DO CONTRATO estabelecido no item 22.1. nas mesmas datas e nos mesmos
+índices de reajuste da CONTRAPRESTAÇÃO.
+
+22.11. A GARANTIA DE EXECUÇÃO DO CONTRATO, prestada pelo CONSÓRCIO ou
+CONCESSIONÁRIO, somente será liberada ou restituída, após 30 (trinta) dias contados da
+data de extinção do CONTRATO.
+
+CLÁUSULA VINTE E TRÊS - DOS DIREITOS E OBRIGACÕES DO
+PODER CONCEDENTE
+23.1. Sem prejuízo de suas demais obrigações, incumbe ao PODER CONCEDENTE,
+observado o disposto no item anterior, os seguintes encargos:
+
+a) regulamentar os SERVIÇOS e fiscalizar a sua prestação pelo CONSÓRCIO ou
+CONCESSIONÁRIO, através de PODER CONCEDENTE nos limites das competências
+regulatórias definidas na Lei Complementar Estadual n. 1.025/2007, a fim de zelar pela sua
+boa qualidade;
+
+b) aplicar as penalidades legais, regulamentares e contratuais;
+
+c) intervir na CONCESSÃO ADMINISTRATIVA, nos casos e nas condições previstos neste
+CONTRATO;
+
+d) extinguir a CONCESSÃO ADMINISTRATIVA nos casos previstos neste CONTRATO;
+
+e) cumprir e fazer cumprir as disposições e as condições do EDITAL e deste CONTRATO,
+zelando pela boa qualidade dos SERVIÇOS;
+
+f) receber, apurar e solucionar as queixas e reclamações dos USUÁRIOS FINAIS, que serão
+cientificados das providências tomadas;
+
+g) declarar de utilidade pública, em caráter de urgência, para instituição de servidão
+administrativa, estabelecer limitações administrativas e autorizar ocupações temporárias
+de todos os bens imóveis necessários para assegurar a realização e a conservação de
+
+
+                                                                                      24
+serviços   vinculados   à   CONCESSÃO     ADMINISTRATIVA,      nos   prazos   definidos    no
+CRONOGRAMA;
+
+h) estimular o aumento da qualidade e o incremento da produtividade dos SERVIÇOS
+prestados pelo CONSÓRCIO ou CONCESSIONÁRIO;
+
+i) estimular a formação de associações de USUÁRIOS FINAIS para a defesa de interesses
+relativos aos SERVIÇOS;
+
+j) fornecer todas as informações e dados disponíveis de qualquer natureza relacionados à
+CONCESSÃO      ADMINISTRATIVA,       solicitados   por   escrito   pelo   CONSÓRCIO        ou
+CONCESSIONÁRIO;
+
+k) promover e desenvolver medidas que assegurem a adequada preservação e conservação
+do meio ambiente;
+
+l) assegurar ao CONSÓRCIO ou CONCESSIONÁRIO a plena utilização dos bens afetos à
+CONCESSÃO ADMINISTRATIVA, se houver, perante qualquer instância do poder público de
+quaisquer de suas esferas;
+
+m) pagar ao CONSÓRCIO ou CONCESSIONÁRIO, as indenizações previstas na legislação
+aplicável e neste CONTRATO, quando devidas, decorrentes das hipóteses de extinção da
+CONCESSÃO ADMINISTRATIVA previstas neste CONTRATO;
+
+n) examinar todas as solicitações e documentos encaminhados pelo CONSÓRCIO ou
+CONCESSIONÁRIO, com vistas à construção, reformulação e/ou adaptação dos SERVIÇOS,
+sem prejuízo das autorizações pertinentes previstas na legislação em vigor;
+
+o) realizar auditorias periódicas nas contas e registros contábeis do CONSÓRCIO ou
+CONCESSIONÁRIO;
+
+p) fiscalizar o desenvolvimento das ações do CONSÓRCIO ou CONCESSIONÁRIO, para que
+sejam garantidas boas condições de saúde à população;
+
+q) manter estrutura funcional e organizacional adequada para a fiscalização dos SERVIÇOS;
+
+r) manter em seus arquivos, o PLANO DE TRABALHO aprovado, bem como a documentação
+referente à execução das OBRAS, que lhe serão encaminhados pelo CONSÓRCIO ou
+CONCESSIONÁRIO;
+
+s) auxiliar e apoiar o CONSÓRCIO ou CONCESSIONÁRIO no relacionamento com os demais
+prestadores de serviços públicos, com as demais autoridades municipais, estaduais e
+federais, e com os USUÁRIOS FINAIS, buscando facilitar o cumprimento das obrigações
+previstas neste CONTRATO; e
+
+t) adotar as medidas e praticar os atos necessários para colaborar com o CONSÓRCIO ou
+CONCESSIONÁRIO na obtenção de financiamentos para prestação dos SERVIÇOS, inclusive
+anuir no respectivo contrato de financiamento, se assim exigir a instituição financiadora.
+
+
+                                                                                          25
+23.2. O PODER CONCEDENTE responderá, integral e exclusivamente, por quaisquer
+questões relativas a atos ou fatos anteriores à assunção dos SERVIÇOS pelo CONSÓRCIO
+ou CONCESSIONÁRIO, ainda que verificados após tal data, sobre os quais não poderá ser
+imputada qualquer responsabilidade ao CONSÓRCIO ou CONCESSIONÁRIO, em especial a
+passivos ambientais existentes ou potenciais.
+
+CLÁUSULA VINTE E QUATRO - DOS DIREITOS E OBRIGACÕES DO
+CONSÓRCIO OU CONCESSIONÁRIO
+24.1. Incumbe ao CONSÓRCIO ou CONCESSIONÁRIO respeitar e fazer valer os termos do
+EDITAL e do CONTRATO, devendo atender as metas e objetivos da CONCESSÃO
+ADMINISTRATIVA.
+
+24.2.   Além   do   disposto   acima,   são     direitos   e   deveres     do   CONSÓRCIO    ou
+CONCESSIONÁRIO:
+
+a) prestar os SERVIÇOS adequadamente, na forma prevista no EDITAL e no CONTRATO, e
+nas demais disposições técnicas aplicáveis;
+
+b) cumprir e fazer cumprir as disposições deste CONTRATO, e demais normas aplicáveis;
+
+c) manter em dia o        inventário    e   o   registro dos bens afetos à CONCESSÃO
+ADMINISTRATIVA;
+
+d) manter à disposição do PODER CONCEDENTE os documentos, projetos, registros
+contábeis e    demais informações técnicas, operacionais e               financeiras relativas à
+CONCESSÃO ADMINISTRATIVA;
+
+e) permitir aos encarregados pela fiscalização do PODER CONCEDENTE o seu livre acesso,
+em qualquer época, às obras, aos equipamentos e às instalações vinculadas à CONCESSÃO
+ADMINISTRATIVA;
+
+f) zelar pela integridade dos bens afetos à CONCESSÃO ADMINISTRATIVA, mediante a
+contratação dos respectivos seguros;
+
+g) captar, aplicar e gerir os recursos financeiros necessários à prestação dos SERVIÇOS;
+
+h) obter, junto às autoridades competentes, as LICENÇAS, necessárias à execução das
+OBRAS e à prestação dos SERVIÇOS, sendo responsável pelos custos com tal obtenção;
+
+i) executar todos os serviços, atividades e obras relativas à CONCESSÃO ADMINISTRATIVA
+com zelo, diligência e economia, devendo sempre utilizar a melhor técnica aplicável a cada
+uma das tarefas desempenhadas e obedecendo rigorosamente as normas, padrões e
+especificações estabelecidas pelo PODER CONCEDENTE;
+
+j) adotar as providências necessárias, inclusive judiciais, para a garantia do patrimônio
+vinculado à CONCESSÃO ADMINISTRATIVA;
+
+
+
+
+                                                                                            26
+k) auxiliar o PODER CONCEDENTE na preservação do meio ambiente, zelando pela proteção
+dos recursos naturais;
+
+I) providenciar para que seus empregados e agentes, bem como de suas contratadas,
+encarregados da segurança de bens e pessoas, sejam registrados perante as repartições
+competentes, usem visivelmente crachá indicativo de suas funções e estejam instruídos a
+prestar apoio à ação da autoridade competente;
+
+m) prestar, no prazo determinado, as informações que lhe forem solicitadas pelo PODER
+CONCEDENTE;
+
+n) adotar as medidas necessárias para coibir o uso indevido ou a ocupação não autorizada
+dos bens integrantes da CONCESSÃO ADMINISTRATIVA, mantendo o PODER CONCEDENTE
+informado a respeito de quaisquer fatos que comprometam sua adequada utilização;
+
+o) manter atualizado e fornecer ao PODER CONCEDENTE, sempre que solicitado, e
+principalmente ao final da CONCESSÃO ADMINISTRATIVA, todos os documentos, desenhos
+e cadastros das instalações e equipamentos referentes à execução dos SERVIÇOS;
+
+p) responder, nos termos da lei, por quaisquer danos e/ou prejuízos causados, por si, por
+seus prepostos ou por terceiros contratados, ao PODER CONCEDENTE, aos USUÁRIOS
+FINAIS e/ou a terceiros no exercício da execução das atividades da CONCESSÃO
+ADMINISTRATIVA;
+
+q) manter em situação regular os encargos tributários, trabalhistas, previdenciários e
+comerciais resultantes deste CONTRATO;
+
+r) manter inventário dos bens e equipamentos afetos à prestação dos SERVIÇOS,
+disponibilizando-o ao PODER CONCEDENTE quando assim solicitado;
+
+s) contratar e manter vigente a GARANTIA DE EXECUÇÃO DO CONTRATO e os seguros
+exigidos conforme contrato;
+
+t) empregar, no início da execução dos SERVIÇOS, veículos com no máximo 05 (cinco) anos
+de uso;
+
+u) renovar a frota de veículos e equipamentos, ao longo do CONTRATO, pelo menos, 01
+vez;
+
+v) prever, nos contratos celebrados com terceiros, cujo objeto encontra-se integrado às
+atividades da CONCESSÃO ADMINISTRATIVA, que sejam observadas rigorosamente as
+regras do EDITAL, deste CONTRATO e demais disposições legais, regulamentares e técnicas
+aplicáveis, informando, ainda, aos terceiros que não haverá qualquer relação jurídica entre
+estes e o PODER CONCEDENTE;
+
+x) Informar a população com frequência não superior a 12 (doze) meses, os dias, horários
+e formas de coleta dos resíduos.
+
+
+
+                                                                                       27
+24.3. O CONSÓRCIO ou CONCESSIONÁRIO deverá se empenhar para evitar transtornos
+aos USUÁRIOS FINAIS e à população em geral, na execução dos SERVIÇOS, criando
+condições para a pronta abertura total ou parcial do trânsito aos veículos e pedestres nas
+áreas atingidas, de forma que os locais abertos ao trânsito de veículos e pedestres estejam
+em perfeitas e adequadas condições de uso, respeitadas as posturas e normas do PODER
+CONCEDENTE.
+
+24.4. O CONSÓRCIO ou CONCESSIONÁRIO deverá cooperar com os programas criados,
+pelo PODER CONCEDENTE ou por outro ente público, para melhorar e ampliar os SERVIÇOS
+na ÁREA DA CONCESSÃO, em especial aos relacionados com reciclagem, coleta seletiva, e
+não geração de resíduos, nos termos do Plano Nacional dos Resíduos Sólidos e do Plano
+Municipal de Gestão Integrada dos Resíduos Sólidos do Município.
+
+24.5. O CONSÓRCIO ou CONCESSIONÁRIO é obrigado a manter, durante todo o prazo do
+CONTRATO, serviço gratuito de atendimento aos USUÁRIOS FINAIS, de forma a receber
+reclamações, denúncias e elogios, devendo obrigatoriamente abrir protocolo e tramitar o
+assunto até sua conclusão. A PODER CONCEDENTE expedirá normativas a serem cumpridas
+pelo CONSÓRCIO ou CONCESSIONÁRIO no atendimento ao usuário.
+
+24.5.1. O serviço gratuito deverá obrigatoriamente disponibilizar canal de atendimento
+telefônico, e adicionalmente, aplicativo e/ou site.
+
+24.5.2. O CONSÓRCIO ou CONCESSIONÁRIO deverá permitir o acesso aos registros dos
+canais de atendimento pelo PODER CONCEDENTE.
+
+CLÁUSULA VINTE CINCO - DOS DIREITOS E OBRIGAÇÕES DOS
+USUÁRIOS FINAIS
+25.1. São obrigações dos USUÁRIOS FINAIS, além do disposto na legislação aplicável,
+respeitar e fazer valer o disposto no EDITAL e no presente CONTRATO.
+
+25.2. Além do disposto acima, são direitos e deveres dos USUÁRIOS FINAIS:
+
+a) receber o SERVIÇO em condições adequadas;
+
+b) receber do PODER CONCEDENTE as informações necessárias para a defesa dos
+interesses individuais ou coletivos;
+
+c) levar ao conhecimento do PODER CONCEDENTE as irregularidades das quais venham a
+ter conhecimento, referentes à CONCESSÃO ADMINISTRATIVA;
+
+d) comunicar ao PODER CONCEDENTE os atos ilícitos ou irregulares porventura praticados
+pelo CONSÓRCIO ou CONCESSIONÁRIO ou seus prepostos na execução do CONTRATO;
+
+e) contribuir para a permanência das boas condições dos bens públicos por intermédio dos
+quais são prestados os SERVIÇOS;
+
+f) observar e cumprir as normas emitidas pelas autoridades competentes.
+
+
+
+                                                                                       28
+CLÁUSULA VINTE E SEIS - DOS SEGUROS
+26.1. O CONSÓRCIO ou CONCESSIONÁRIO obriga-se a contratar, às suas expensas, até a
+assunção dos SERVIÇOS, junto à seguradora de sua livre escolha, o qual deverá ser mantido
+durante todo o prazo do CONTRATO.
+
+26.2. O CONSÓRCIO ou CONCESSIONÁRIO obriga-se a contratar os seguintes seguros de
+danos materiais:
+
+a) seguro de danos materiais, cobrindo a perda, destruição ou dano em todos os bens que
+integram a CONCESSÃO ADMINISTRATIVA. Os valores cobertos pelos seguros de danos
+materiais deverão ser idênticos aos custos de reposição/reprodução de bens novos,
+abrangendo todos os bens patrimoniais;
+
+b) seguro de responsabilidade civil, cobrindo o CONSÓRCIO ou CONCESSIONÁRIO e o
+PODER CONCEDENTE pelos montantes que possa vir a ser responsabilizado a título de
+perdas e danos, indenizações, custas processuais, honorários advocatícios e outros
+encargos, em relação à morte ou lesão de pessoas e danos a bens resultantes do
+desenvolvimento das atividades previstas no CONTRATO. O limite de cobertura do seguro
+de responsabilidade civil não será inferior a R$ 2.000.000,00 (DOIS MILHÕES DE REAIS),
+devendo este valor ser corrigido monetariamente no mesmo prazo e critério de reajuste
+aplicado à CONTRAPRESTAÇÃO.
+
+26.3. Em caso de descumprimento, pelo CONSÓRCIO ou CONCESSIONÁRIO, da obrigação
+de contratar ou manter as apólices de seguro de que trata esta Cláusula, poderá o PODER
+CONCEDENTE, mediante prévia ciência ao CONSÓRCIO ou CONCESSIONÁRIO, proceder à
+contratação e ao pagamento direto dos prêmios das referidas apólices, correndo os
+respectivos custos por conta exclusiva do CONSÓRCIO ou CONCESSIONÁRIO, que
+permanecerá responsável pelos eventuais danos ou ônus decorrentes da falta de
+cumprimento das obrigações.
+
+26.4. O não reembolso em caráter imediato, pelo CONSÓRCIO ou CONCESSIONÁRIO, das
+despesas realizadas pelo PODER CONCEDENTE na forma prevista no item anterior, autoriza
+o PODER CONCEDENTE a se utilizar da GARANTIA DE EXECUÇÃO DO CONTRATO, até o
+limite de tais despesas.
+
+26.5. O CONSÓRCIO ou CONCESSIONÁRIO deverá encaminhar ao PODER CONCEDENTE,
+no prazo de 10 (dez) dias anteriores à data de início da prestação dos SERVIÇOS e das
+OBRAS, todas as propostas de seguros a serem contratados, com a finalidade de verificar
+suas condições.
+
+26.6. O PODER CONCEDENTE poderá recusar as apólices de seguro apresentadas pelo
+CONSÓRCIO ou CONCESSIONÁRIO, devendo manifestar sua decisão fundamentada e por
+escrito, determinando que a CONSÓRCIO proceda às correções e adaptações que se façam
+necessárias, no prazo máximo e improrrogável de 15 (quinze) dias.
+
+
+                                                                                     29
+26.7. O CONSÓRCIO ou CONCESSIONÁRIO deverá comprovar ao PODER CONCEDENTE,
+até o 10° (décimo) dia útil de cada ano, que as apólices de seguro previstas neste
+CONTRATO estarão válidas até o último dia do exercício social em curso.
+
+26.8. O CONSÓRCIO ou CONCESSIONÁRIO deverá enviar ao PODER CONCEDENTE cópia
+autenticada dos comprovantes de quitação dos prêmios relativos aos seguros contratados,
+no prazo de máximo de 10 (dez) dias após seu respectivo pagamento.
+
+CLÁUSULA VINTE E SETE - DOS CONTRATOS DA CONSÓRCIO COM
+TERCEIROS
+27.1. Sem prejuízo das responsabilidades e dos riscos previstos neste CONTRATO, o
+CONSÓRCIO ou CONCESSIONÁRIO poderá contratar com terceiros o desenvolvimento de
+atividades inerentes, acessórias ou complementares aos SERVIÇOS, bem como a
+implantação de projetos associados, desde que não ultrapassem o prazo da CONCESSÃO
+ADMINISTRATIVA.
+
+27.2. Os contratos de que trata esta cláusula serão regidos pelo Direito Privado e, no que
+se refere aos seus empregados, pela legislação trabalhista, não se estabelecendo nenhuma
+relação jurídica entre estes terceiros e o PODER CONCEDENTE.
+
+27.3. A execução das atividades contratadas com terceiros impõe o cumprimento das
+normas aplicáveis à CONCESSÃO ADMINISTRATIVA.
+
+27.4. Ainda que o PODER CONCEDENTE tenha tido conhecimento dos termos de qualquer
+contrato assinado pelo CONSÓRCIO ou CONCESSIONÁRIO com terceiros, por força do
+estabelecido no EDITAL ou neste CONTRATO, o CONSÓRCIO ou CONCESSIONÁRIO não
+poderá alegar ato ou fato decorrente desses contratos para pleitear ou reivindicar do PODER
+CONCEDENTE qualquer alteração no cumprimento de suas obrigações, ressarcimento de
+prejuízos ou perda de benefícios.
+
+CLÁUSULA VINTE E OITO - DA TRANSFERÊNCIA E DA ONERAÇÃO
+DOS   DIREITOS   E   OBRIGACÕES    DO  CONSÓRCIO    OU
+CONCESSIONÁRIO
+28.1. A transferência de controle do CONSÓRCIO deverá ser previamente aprovada pelo
+PODER CONCEDENTE, mediante o cumprimento pelo pretendente das exigências de
+habilitação jurídica, qualificação técnica, qualificação econômico-financeira e regularidade
+fiscal exigidas no EDITAL, declarando que cumprirá todas as cláusulas e condições do
+CONTRATO.
+
+28.2. Entende-se por controle efetivo do CONSÓRCIO ou CONCESSIONÁRIO a titularidade
+da maioria do capital votante, expresso em ações ordinárias nominativas com direito a voto,
+ou o exercício, de fato e de direito, do poder decisório para gerir suas atividades
+disciplinados em eventual acordo de acionistas da CONSÓRCIO ou documento com igual
+finalidade.
+
+
+
+                                                                                        30
+28.3. O CONSÓRCIO ou CONCESSIONÁRIO poderá emitir obrigações, debêntures ou títulos
+financeiros similares que representem obrigações de sua responsabilidade, em favor de
+terceiros,   já   para    o   financiamento   das   atividades    decorrentes   da   CONCESSÃO
+ADMINISTRATIVA.
+
+28.4. Nos termos do disposto no artigo 28 e no artigo 28-A da lei Federal n° 8.987/95, o
+CONSÓRCIO ou CONCESSIONÁRIO poderá:
+
+a) nos contratos de financiamento, oferecer em garantia os direitos emergentes da
+CONCESSÃO ADMINISTRATIVA nos contratos de financiamento, até o limite que não
+comprometa a operacionalização e a continuidade da prestação dos SERVIÇOS;
+
+b) nos contratos de mútuo de longo prazo, destinados a investimentos relacionados ao
+CONTRATO, ceder ao mutuante, em caráter fiduciário, parcela de seus créditos operacionais
+futuros, observados requisitos previstos no artigo 28-A da lei Federal n° 8.987/95.
+
+CLÁUSULA VINTE E NOVE – DA FISCALIZAÇÃO
+29.1. A fiscalização da CONCESSÃO ADMINISTRATIVA será exercida pelo PODER
+CONCEDENTE com o objetivo de verificar o cumprimento das obrigações pelo CONSÓRCIO
+ou CONCESSIONÁRIO.
+
+29.2. Para exercício da fiscalização, o CONSÓRCIO ou CONCESSIONÁRIO obriga-se a
+manter cadastro atualizado, conferindo livre acesso ao PODER CONCEDENTE a todos os
+dados, livros, registros e documentos relacionados à CONCESSÃO ADMINISTRATIVA,
+prestando, a respeito destes, os esclarecimentos que lhe forem solicitados pela mesma, em
+prazo definido em seus regramentos.
+
+29.3. As atividades de fiscalização mencionadas no item 29.2 anterior poderão ser
+acompanhadas       pelo   CONSÓRCIO      ou   CONCESSIONÁRIO,         por   intermédio   de   seus
+representantes especialmente indicados para esta finalidade.
+
+29.4. O PODER CONCEDENTE poderá realizar, na presença dos representantes do
+CONSÓRCIO ou CONCESSIONÁRIO, ou requerer que esta realize, às suas custas, ensaios
+ou testes que possibilitem a verificação das condições e qualidade SERVIÇOS executados,
+mediante programa específico a ser estabelecido em seus regramentos.
+
+29.5. O processo fiscalizatório e sancionatório da CONCESSÃO ADMINISTRATIVA observará
+o disposto nos normativos editados pelo PODER CONCEDENTE.
+
+29.6. A fiscalização pelo PODER CONCEDENTE não poderá obstruir ou prejudicar a regular
+execução dos SERVIÇOS pela CONSÓRCIO.
+
+29.7. No caso de eventuais atrasos ou discrepâncias entre a execução dos SERVIÇOS e o
+CRONOGRAMA         da     CONCESSÃO      ADMINISTRATIVA          vigente,   o   CONSÓRCIO      ou
+CONCESSIONÁRIO deverá informar o PODER CONCEDENTE a respeito, de forma detalhada,
+identificando as providências que estiverem sendo adotadas para corrigir esses fatos.
+
+
+                                                                                              31
+29.8. As determinações que vierem a ser emitidas no âmbito dos poderes de fiscalização
+deverão ser aplicadas e vincularão o CONSÓRCIO ou CONCESSIONÁRIO, após a instauração
+de procedimento administrativo específico, com garantia do contraditório e da ampla
+defesa, sem prejuízo do recurso ao processo de solução de divergências previsto neste
+CONTRATO.
+
+29.9. O CONSÓRCIO ou CONCESSIONÁRIO é obrigado a reparar, corrigir, remover,
+reconstruir ou substituir, às suas expensas, no todo ou em parte, os SERVIÇOS pertinentes
+à CONCESSÃO ADMINISTRATIVA em que a fiscalização verifique, de forma justificada,
+vícios, defeitos ou incorreções resultantes da execução ou de materiais empregados, nos
+prazos que razoavelmente forem fixados pelo PODER CONCEDENTE.
+
+29.10. Em caso de descumprimento, pelo CONSÓRCIO ou CONCESSIONÁRIO, da
+determinação final emitida pelo PODER CONCEDENTE, no exercício da fiscalização, poderá
+esta, mediante prévia ciência do CONSÓRCIO ou CONCESSIONÁRIO, comunicar ao PODER
+CONCEDENTE, que poderá proceder diretamente ou por intermédio de terceiro à correção
+da situação, correndo os respectivos custos por conta exclusiva do CONSÓRCIO ou
+CONCESSIONÁRIO.
+
+29.11. Para fins de pagamento dos custos incorridos pelo PODER CONCEDENTE no
+atendimento ao disposto no item 29.10 anterior, poderá este utilizar-se da GARANTIA DE
+EXECUÇÃO DO CONTRATO.
+
+CLÁUSULA TRINTA - DO INADIMPLEMENTO DA PREFEITURA DE
+MARÍLIA
+30.1. São hipóteses de inadimplemento deste CONTRATO, por parte do PODER
+CONCEDENTE:
+a) não declarar utilidade pública nos prazos e nas condições previstas neste CONTRATO,
+não instituir servidões administrativas, propor limitações administrativas ou não permitir
+ao CONSÓRCIO ou CONCESSIONÁRIO ocupar provisoriamente bens imóveis necessários à
+execução e conservação de obras e serviços vinculados à CONCESSÃO ADMINISTRATIVA,
+nos prazos definidos no PROJETO;
+
+b) não pagamento do preço por tonelada e valor de bens reversíveis nos prazos indicados
+neste CONTRATO;
+
+c) não emissão das licenças, alvarás e demais atos administrativos que sejam de sua
+responsabilidade, nos prazos e formas definidos no CRONOGRAMA constante do ANEXO II
+– TERMO DE REFERÊNCIA – CADERNO III – MODELAGEM JURÍDICA, e na forma da
+legislação vigente;
+
+d) deixar de tomar qualquer providência prevista neste CONTRATO que interfira na
+prestação     dos     SERVIÇOS       pelo     CONSÓRCIO        ou     CONCESSIONÁRIO;
+
+
+
+
+                                                                                      32
+    e) ação ou omissão do PODER CONCEDENTE de forma a não manter o equilíbrio econômico-
+    financeiro do CONTRATO.
+
+    30.2. No caso do não pagamento do preço por tonelada e valor de bens reversíveis a que
+    se refere o item 30.1, alínea “b”, incidirão automaticamente, independentemente de
+    notificação:
+
+    I – atualização monetária pelo IPCA/IBGE (ou índice que venha a substituí-lo);
+    II – juros de mora de 1% (um por cento) ao mês, calculados pro rata die;
+    III – multa moratória de 2% (dois por cento) sobre o valor em atraso, sem prejuízo do
+    direito à recomposição do equilíbrio econômico-financeiro do CONTRATO.
+
+    30.3. No caso do PODER CONCEDENTE, nos prazos previstos no CRONOGRAMA:
+    (i) não emitir as licenças, alvarás e demais atos administrativos de sua responsabilidade;
+    (ii) não declarar utilidade pública ou não viabilizar a ocupação das áreas necessárias; ou
+    (iii) não adotar as providências a que se obrigou neste CONTRATO,
+
+    o CONSÓRCIO ou CONCESSIONÁRIO:
+
+    a) não será responsabilizado por atrasos ou falhas decorrentes;
+
+    b) terá direito à revisão do CRONOGRAMA;
+
+    c)   terá direito à recomposição do equilíbrio econômico-financeiro;
+
+    d) fará jus ao ressarcimento integral dos custos adicionais comprovadamente incorridos,
+         incluindo custos indiretos, financeiros e de mobilização/desmobilização.
+
+    30.4. Caso o inadimplemento do PODER CONCEDENTE persista por período superior a 90
+    (noventa) dias, poderá o CONSÓRCIO ou CONCESSIONÁRIO, mediante notificação prévia:
+
+    a)     suspender      a     execução      dos     serviços     não     essenciais;   e/ou
+    b) pleitear a rescisão contratual por culpa do PODER CONCEDENTE, com o pagamento das
+    indenizações cabíveis, incluindo:
+
+
+
+•    investimentos realizados e não amortizados;
+
+•    custos de desmobilização;
+
+•    penalidades contratuais assumidas com terceiros;
+
+•    lucros cessantes razoavelmente demonstrados.
+
+    30.5. As penalidades previstas nesta cláusula não afastam a aplicação dos mecanismos de
+    solução de controvérsias e recomposição do equilíbrio econômico-financeiro previstos neste
+
+
+
+
+                                                                                          33
+CONTRATO e na legislação aplicável, especialmente as Leis nº 11.079/2004 e nº
+14.133/2021.
+
+CLÁUSULA TRINTA E UM - DO INADIMPLEMENTO DO CONSÓRCIO
+OU CONCESSIONÁRIO
+31.1. Será caracterizado como inadimplemento do CONSÓRCIO ou CONCESSIONÁRIO o
+descumprimento de qualquer dispositivo constante do CONTRATO e de seus Anexos.
+
+31.2. A caracterização e as consequências do inadimplemento do CONSÓRCIO ou
+CONCESSIONÁRIO encontram-se definidas na cláusula abaixo.
+
+CLÁUSULA TRINTA E DOIS - DAS SANCÕES ADMINISTRATIVAS
+32.1. A falta de cumprimento, por parte do CONSÓRCIO ou CONCESSIONÁRIO, de qualquer
+cláusula ou condição deste CONTRATO e demais normas técnicas pertinentes, sem prejuízo
+do disposto nos demais cláusulas do CONTRATO, ensejará a aplicação das seguintes
+penalidades, isolada ou cumulativamente, nos termos da legislação aplicável:
+
+a) advertência;
+
+b) multa;
+
+c) suspensão temporária de participação em LICITAÇÃO e impedimento de contratar com
+a Administração Pública Municipal por prazo não superior a 2 (dois) anos;
+
+d) declaração de inidoneidade para licitar e contratar com a Administração Pública enquanto
+perdurarem os motivos determinantes da punição ou até que seja promovida a reabilitação,
+na forma da lei, perante a própria autoridade que aplicou a penalidade; e
+
+e) caducidade do CONTRATO.
+
+32.2. Até que se estabeleça diretrizes específicas para a aplicação de penalidades pelo
+PODER CONCEDENTE, o CONSÓRCIO ou CONCESSIONÁRIO se sujeitará às seguintes
+sanções pecuniárias:
+
+a) por violação das disposições do presente CONTRATO, que importe em não atendimento
+das metas de universalização, mantida após a advertência dada pelo PODER CONCEDENTE,
+observadas as normas contratuais, multa de R$ 5.000,00 (cinco mil reais) até R$ 10.000,00
+(dez mil reais);
+
+b) por outro ato ou omissão não enquadrado nos itens anteriores, que importe em violação
+aos direitos dos USUÁRIOS FINAIS ou que lhe acarrete prejuízo, mantido após a advertência
+dada pelo PODER CONCEDENTE, imposta com base nas normas contratuais, multa de R$
+500,00 (quinhentos reais) até R$ 5.000,00 (cinco mil reais);
+
+c) por ato ou omissão que importe em risco ao meio ambiente, à saúde pública ou ao erário
+público, mantido após a advertência dada pelo PODER CONCEDENTE, imposta com base
+
+
+
+
+                                                                                       34
+nas cláusulas contratuais, multa de R$ 5.000,00 (cinco mil reais) até R$ 50.000,00
+(cinquenta mil reais);
+
+d) por qualquer ato ou omissão que traga óbice ou dificuldade ao exercício da atividade de
+fiscalização prevista no CONTRATO, mantido após a advertência dada pelo PODER
+CONCEDENTE, multa de R$ 1.000,00 (um mil reais) até R$ 10.000,00 (dez mil reais);
+
+e) por ato, omissão ou negligência que acarrete dano ou ponha em risco bens e
+equipamentos vinculados à CONCESSÃO ADMINISTRATIVA, mantido após a advertência
+dada pelo PODER CONCEDENTE, multa de R$ 1.500,00 (um mil e quinhentos reais) até R$
+10.000,00 (dez mil reais);
+
+f) por desatendimento às normas de segurança, higiene ou medicina do trabalho, mantido
+após a advertência dada pelo PODER CONCEDENTE, multa de 1.000,00 (um mil reais) até
+R$ 10.000,00 (dez mil reais);
+
+g) por descumprimento de qualquer obrigação prevista no CONTRATO, exceto as indicadas
+nos incisos anteriores, cujas sanções já estão neles estabelecidas, mantido após
+advertência dada pelo PODER CONCEDENTE, multa de R$ 500,00 (quinhentos reais) até R$
+5.000,00 (cinco mil reais).
+
+32.2.1. Sem prejuízo no disposto da cláusula anterior, o CONSÓRCIO ou CONCESSIONÁRIO
+sujeita-se as sanções previstas nos normativos próprios do PODER CONCEDENTE, na falta
+de previsão expressa do ilícito administrativo no CONTRATO.
+
+32.2.2. O valor das multas previstas no CONTRATO será reajustado anualmente, nos
+moldes do reajuste do preço por tonelada e valor de bens reversíveis.
+
+32.3. A gradação das penalidades de que trata esta cláusula observará as seguintes
+escalas:
+
+A infração será considerada leve, devendo ser aplicada a penalidade pelo mínimo previsto,
+quando decorrer de condutas involuntárias, perfeitamente remediáveis ou escusáveis da
+CONCESSIONÁRIO e da qual ela não se beneficie, bem como aquelas previstas nas
+deliberações do PODER CONCEDENTE;
+
+32.3.1 A infração será considerada média, devendo ser aplicada a penalidade na metade
+entre o mínimo e o máximo previsto quando decorrer de conduta comprovadamente
+voluntária, mas remediável ou efetuada pela primeira vez, que não traga para o
+CONSÓRCIO ou CONCESSIONÁRIO qualquer benefício ou proveito, nem afete número
+significativo de usuários, bem como aquelas previstas nas deliberações do PODER
+CONCEDENTE;
+
+32.3.2 A infração será considerada grave, devendo ser aplicada a penalidade pelo máximo
+previsto, quando o PODER CONCEDENTE constatar presente um dos seguintes fatores
+abaixo descritos, bem como aquelas previstas nas deliberações do PODER CONCEDENTE:
+
+
+                                                                                      35
+32.3.2.1. da infração decorrer benefício direto ou indireto para o CONCESSIONÁRIO;
+
+32.3.2.2. A CONCESSIONÁRIO for reincidente, no prazo de 2 (dois) anos, em qualquer
+infração de gravidade média.
+
+32.3.2.3 A infração será considerada gravíssima, devendo ser aplicada a penalidade no
+dobro do máximo previsto, quando o PODER CONCEDENTE constatar, diante das
+circunstâncias   do   serviço   e   do   ato   praticado   pela   CONCESSIONÁRIO,   que   seu
+comportamento reveste-se de grande lesividade ao interesse público, por prejudicar,
+efetiva ou potencialmente, o meio-ambiente, a saúde pública, os direitos dos usuários, o
+erário público ou a continuidade dos serviços, bem como outros comportamentos previstas
+nas deliberações da PODER CONCEDENTE.
+
+32.4. O não pagamento de qualquer multa fixada nos termos do disposto nesta Cláusula,
+no prazo fixado pelo PODER CONCEDENTE caracterizará falta grave e poderá ensejar a
+intervenção no CONSÓRCIO ou CONCESSIONÁRIO, ou até mesmo a caducidade, nos
+termos do CONTRATO, além de implicar a incidência de correção monetária, e juros de
+0,001% por dia de atraso, até o limite máximo admitido em lei.
+
+32.5. As multas previstas nesta Cláusula serão aplicadas sem prejuízo da caracterização
+das hipóteses de intervenção ou declaração de caducidade previstas no CONTRATO.
+
+32.6. Caso as infrações cometidas por negligência do CONSÓRCIO ou CONCESSIONÁRIO
+importem na reincidente aplicação de penalidades que ultrapassem 5% (cinco por cento)
+do faturamento mensal médio do CONSÓRCIO ou CONCESSIONÁRIO, o PODER
+CONCEDENTE poderá intervir na CONCESSÃO ou declarar sua caducidade, na forma da lei
+e deste CONTRATO.
+
+32.7. O processo fiscalizatório e sancionatório observará o disposto nos normativos
+editados pelo PODER CONCEDENTE.
+
+32.8. A prática de duas ou mais infrações pelo CONSÓRCIO ou CONCESSIONÁRIO poderão
+ser apuradas em um mesmo auto de infração.
+
+32.9. A decisão proferida pelo PODER CONCEDENTE deverá ser motivada e fundamentada,
+apontando-se os elementos atacados ou não na defesa apresentada pelo CONSÓRCIO ou
+CONCESSIONÁRIO.
+
+32.10. O PODER CONCEDENTE notificará o CONSÓRCIO ou CONCESSIONÁRIO da decisão
+proferida em face da defesa apresentada, cabendo recurso nos termos do regulamento do
+PODER CONCEDENTE.
+
+32.11. Mantido o auto de infração em última instância administrativa, o CONSÓRCIO ou
+CONCESSIONÁRIO será notificado a respeito, devendo a penalidade ser imposta em
+observância ao seguinte:
+
+
+
+
+                                                                                          36
+a)   no   caso       de   advertência,   será    anotada   nos   registros      do    CONSÓRCIO      ou
+CONCESSIONÁRIO junto ao PODER CONCEDENTE e a PODER CONCEDENTE;
+
+b) em caso de multa pecuniária, o CONSÓRCIO ou CONCESSIONÁRIO deverá efetuar o
+pagamento dentro do prazo de 20 (vinte) dias, contados do recebimento da notificação da
+decisão, sendo que o não pagamento, no prazo estipulado, ensejará a possibilidade do
+PODER CONCEDENTE se utilizar da GARANTIA DE EXECUÇÃO DO CONTRATO.
+
+32.12. O pagamento da multa não eximirá o CONSÓRCIO ou CONCESSIONÁRIO da
+obrigação de sanar a falha ou irregularidade a que deu origem.
+
+32.13. As importâncias pecuniárias resultantes da aplicação das multas previstas no
+CONTRATO       reverterão       ao   Fundo,   quando   constituído,    ou      ao    tesouro   municipal
+temporariamente.
+
+32.14. A aplicação das penalidades previstas neste CONTRATO e a sua execução não
+prejudicam a aplicação das penas cominadas, para o mesmo fato, pela legislação aplicável.
+
+CLÁUSULA TRINTA E TRÊS - DAS CAUSAS JUSTIFICADORAS DA
+INEXECUÇÃO
+33.1. No caso de inexecução total ou parcial deste CONTRATO, decorrente diretamente de
+força maior, caso fortuito, fato do príncipe, ato da Administração ou de interferências
+imprevistas, que retardem ou impeçam o cumprimento deste CONTRATO, devidamente
+justificados     e    aceitos    pelo    PODER    CONCEDENTE,         ficará    o     CONSÓRCIO      ou
+CONCESSIONÁRIO exonerado de responsabilidade pelo atraso no cumprimento do
+CRONOGRAMA das demais obrigações decorrentes deste CONTRATO, sem prejuízo da
+readequação do equilíbrio econômico-financeiro do CONTRATO, pelos meios previstos neste
+Contrato.
+
+33.2. Para fins do disposto no item anterior, considera-se:
+
+a) força maior: o evento humano que, por sua imprevisibilidade e inevitabilidade, cria óbice
+intransponível para o CONSÓRCIO ou CONCESSIONÁRIO na execução deste CONTRATO,
+consubstanciado em ato superveniente impeditivo de cumprimento das obrigações
+assumidas;
+
+b) caso fortuito: o evento da natureza que, por sua imprevisibilidade e inevitabilidade, gera
+obstáculo intransponível para o CONSÓRCIO ou CONCESSIONÁRIO no cumprimento deste
+CONTRATO;
+
+c) fato do príncipe: toda determinação estatal, geral, imprevista e imprevisível, positiva ou
+negativa, que onera substancialmente a execução deste CONTRATO;
+
+d) ato da Administração: toda ação ou omissão de órgão da Administração Pública que,
+incidindo direta e especificamente sobre este CONTRATO, retarda, agrava ou impede a sua
+execução pelo CONSÓRCIO ou CONCESSIONÁRIO, ensejando, ainda, as indenizações
+
+
+                                                                                                    37
+correspondentes;
+e) interferências imprevistas: são ocorrências materiais não cogitadas pelas PARTES
+quando da celebração deste CONTRATO, mas que surgem no decorrer de sua execução de
+modo surpreendente e excepcional, dificultando ou onerando extraordinariamente o
+prosseguimento      e    a   conclusão     dos   trabalhos,   consubstanciada     pela    descoberta
+superveniente de obstáculos materiais, naturais ou artificiais, depois de iniciada a execução
+do CONTRATO, embora sua existência seja anterior à data de assinatura do CONTRATO,
+mas só revelada posteriormente.
+
+33.3. Não se caracteriza, ainda, como descontinuidade do SERVIÇO a sua interrupção pelo
+CONSÓRCIO ou CONCESSIONÁRIO em situação de emergência que atinja a segurança de
+pessoas e bens, nas seguintes hipóteses:
+
+a) quando houver necessidade de efetuar reparos, modificações ou melhoria de qualquer
+natureza nas OBRAS;
+
+b) caso, a juízo do CONSÓRCIO ou CONCESSIONÁRIO, houver comprometimento da
+segurança de instalações ou de pessoas.
+
+33.4. A ocorrência de quaisquer dos eventos previstos nesta Cláusula deverá ser
+imediatamente       comunicada      pelo    CONSÓRCIO         ou   CONCESSIONÁRIO         à   PODER
+CONCEDENTE, informando as medidas que estiverem sendo adotadas para reduzir ou
+superar os impactos deles decorrentes, sendo que no caso de interrupção motivada por
+razões de ordem técnica, deverá ser o PODER CONCEDENTE previamente comunicada.
+
+33.5. Cabe ao CONSÓRCIO ou CONCESSIONÁRIO, em qualquer das hipóteses desta
+Cláusula, adotar as providências cabíveis no sentido de reduzir a descontinuidade do
+SERVIÇO ao prazo estritamente necessário, sujeito à fiscalização do PODER CONCEDENTE.
+
+33.6.   Ocorrendo       quaisquer   dos    eventos    mencionados      nesta   Cláusula, o    PODER
+CONCEDENTE e o CONSÓRCIO ou CONCESSIONÁRIO acordarão, alternativamente, e após
+avaliação da PODER CONCEDENTE, acerca da recomposição do equilíbrio econômico-
+financeiro do CONTRATO, bem como da revisão do CRONOGRAMA, nos termos ora
+acordados,    ou,   ainda,    da    extinção     da   CONCESSÃO        ADMINISTRATIVA,        caso    a
+impossibilidade de cumprimento deste CONTRATO se torne definitivo ou a recomposição do
+equilíbrio   econômico-financeiro     revele-se       excessivamente    onerosa    para   o   PODER
+CONCEDENTE.
+
+33.7. No caso de extinção da CONCESSÃO ADMINISTRATIVA, em virtude da ocorrência dos
+eventos mencionados nesta Cláusula, as PARTES acordarão acerca do pagamento da
+indenização devida pelo PODER CONCEDENTE ao CONSÓRCIO ou CONCESSIONÁRIO,
+aplicando-se o disposto neste Contrato.
+
+33.8. Eventuais conflitos decorrentes da aplicação do disposto neste item serão dirimidos
+por meio do mecanismo de solução de controvérsias previsto neste Contrato
+
+
+                                                                                                 38
+CLÁUSULA TRINTA E QUATRO - DO COMPARTILHAMENTO DOS
+RISCOS ENTRE AS PARTES
+34.1. Fica certo que, para elaboração da PROPOSTA COMERCIAL, a LICITANTE VENCEDORA
+considerou os quantitativos mensais de resíduos sujeitos aos SERVIÇOS previstos no
+ANEXO IV – CADERNO III – MODELAGEM JURÍDICA.
+
+34.2. Caso as variações dos quantitativos previstos no item 34.1, no período de 12 (doze)
+meses ininterruptos – a partir do funcionamento da unidade de tratamento e
+aproveitamento, sofram variação superior a 10% (dez por cento), para mais ou para
+menos, que acarrete desequilíbrio econômico-financeiro do CONTRATO, devidamente
+demonstrado, as PARTES promoverão a competente REVISÃO EXTRAORDINÁRIA.
+
+34.3. O CONSÓRCIO ou CONCESSIONÁRIO não assumirá os riscos da execução dos
+SERVIÇOS decorrentes de caso fortuito, força maior, fato do príncipe, de ato da
+administração ou outras interferências imprevistas.
+
+34.3.1. Caso os SERVIÇOS sejam afetados pelos eventos referidos neste item, os prazos
+do CRONOGRAMA bem como os valores que compõem o preço por tonelada e valor de bens
+reversíveis deverão ser revistos, tal como previsto nas demais disposições deste
+CONTRATO, de forma a manter o seu equilíbrio econômico-financeiro.
+
+34.4. Os riscos decorrentes das metas relacionadas ao volume previsto para redução da
+massa   serão   compartilhados    entre   as   PARTES,    cabendo   o   CONSÓRCIO       ou
+CONCESSIONÁRIO implementar todas as tecnologias e sistemas necessários e o PODER
+CONCEDENTE a efetiva fiscalização, comunicação, e regulação da Política Pública de Gestão
+de Resíduos Sólidos.
+
+34.4.1. Caso as metas não sejam atendidas nos prazos e quantitativos previstos neste
+CONTRATO, porém todas as obrigações previstas para o CONSÓRCIO ou CONCESSIONÁRIO
+tenham sido implantadas satisfatoriamente, caberá as PARTES reverem os quantitativos e
+metas de redução previstos contratualmente, inclusive com os direitos e obrigações
+específico para as PARTES.
+
+34.5. Os riscos a serem compartilhados estão elencados em anexo específico do Edital.
+
+CLÁUSULA TRINTA E CINCO - DA INTERVENÇÃO
+35.1. Sem prejuízo das penalidades cabíveis e das responsabilidades incidentes, o PODER
+CONCEDENTE poderá, excepcionalmente, intervir na CONCESSÃO ADMINISTRATIVA, com
+o fim de assegurar a continuidade e adequação da prestação dos SERVIÇOS, bem como o
+fiel cumprimento das normas contratuais, regulamentares e legais pertinentes.
+
+35.2. A intervenção dar-se-á mediante Decreto do Prefeito Municipal, que conterá a
+justificativa da intervenção, o nome do interventor, o prazo da intervenção e os objetivos
+e limites da medida, devendo ser observada a legislação municipal aplicável no que tange
+ao procedimento a ser seguido para se formalizar a intervenção.
+
+                                                                                      39
+35.3. Declarada a intervenção, o PODER CONCEDENTE deverá, no prazo de 30 (trinta) dias,
+instaurar procedimento administrativo para comprovar as causas determinantes da medida
+e apurar responsabilidades, assegurado o direito de ampla defesa.
+
+35.4. Caso seja comprovado que a intervenção não observou os pressupostos legais e
+regulamentares, O PODER CONCEDENTE declarará sua nulidade, devendo os SERVIÇOS ser
+imediatamente devolvidos ao CONSÓRCIO ou CONCESSIONÁRIO, sem prejuízo do seu
+direito a indenização.
+
+35.5. O procedimento administrativo a que se refere esta Cláusula deverá ser concluído no
+prazo máximo de 180 (cento e oitenta) dias, sob pena de cessarem os efeitos da
+intervenção, sem prejuízo do prosseguimento do processo administrativo.
+
+35.6. Cessada a intervenção, se o PODER CONCEDENTE não decidir pela extinção da
+CONCESSÃO ADMINISTRATIVA, a administração dos SERVIÇOS será devolvida ao
+CONSÓRCIO ou CONCESSIONÁRIO, precedida de prestação de contas pelo interventor, que
+responderá por todos os atos praticados durante a sua gestão.
+
+CLÁUSULA TRINTA E SEIS - DA EXTINÇÃO DO CONTRATO
+36.1. Extingue-se o CONTRATO por:
+
+a) advento do termo contratual;
+
+b) encampação;
+
+c) caducidade;
+
+d) rescisão;
+
+e) anulação da CONCESSÃO ADMINISTRATIVA;
+
+f) falência ou extinção do CONSÓRCIO ou CONCESSIONÁRIO.
+
+36.2. Extinto o CONTRATO, em qualquer hipótese prevista no item 36.1, opera-se, de pleno
+direito, a reversão, ao PODER CONCEDENTE, dos bens afetos aos SERVIÇOS, conforme
+descrito no ANEXO III.1 – LISTA DE BENS REVERSÍVEIS – CADERNO III – MODELAGEM
+JURÍDICA, bem como as prerrogativas conferidas ao CONSÓRCIO ou CONCESSIONÁRIO,
+pagando-se ao CONSÓRCIO ou CONCESSIONÁRIO a respectiva e justa indenização com
+base na cláusula 38, (d) e 38.3., de acordo com a hipótese de extinção, nos termos deste
+CONTRATO.
+
+36.3. A PODER CONCEDENTE será responsável por verificar a exatidão dos cálculos
+indenizatórios descritos no item anterior no prazo máximo de 10 (dez) dias úteis.
+
+36.4. Os bens afetos à CONCESSÃO ADMINISTRATIVA serão revertidos ao PODER
+CONCEDENTE livres e desembaraçados de quaisquer ônus ou encargos, inclusive sociais e
+trabalhistas.
+
+
+
+
+                                                                                     40
+36.5. Revertidos os bens afetos à CONCESSÃO ADMINISTRATIVA, haverá a imediata
+assunção dos SERVIÇOS pelo PODER CONCEDENTE.
+
+36.6. Em ocorrendo a extinção da CONCESSÃO ADMINISTRATIVA, o PODER CONCEDENTE
+poderá, a seu exclusivo critério, assumir os contratos celebrados pelo CONSÓRCIO ou
+CONCESSIONÁRIO, desde que necessários à continuidade dos SERVIÇOS, incluindo-se
+dentre estes os contratos de financiamento para execução de obras ou serviços
+previamente aprovados e que não comporte período de amortização superior ao prazo
+restante ao término da CONCESSÃO ADMINISTRATIVA.
+
+CLÁUSULA TRINTA E SETE - DO ADVENTO DO TERMO CONTRATUAL
+37.1. O advento do termo final do CONTRATO opera, de pleno direito, a extinção da
+CONCESSÃO ADMINISTRATIVA.
+
+37.2. A indenização devida pelo PODER CONCEDENTE à CONSÓRCIO, no caso de extinção
+prevista nesta Cláusula, englobará os investimentos realizados segundo o plano de
+investimentos apresentado pelo CONSÓRCIO ou CONCESSIONÁRIO, que ainda não tenham
+sido depreciados e amortizados até a data de retomada dos SERVIÇOS pelo PODER
+CONCEDENTE, corrigidos nos mesmos termos do reajuste do preço por tonelada e valor de
+bens reversíveis, desde a data do investimento até a data do pagamento da indenização.
+
+37.3. A indenização a que se refere o item anterior será paga em até 60 (sessenta) dias
+contados da data de assunção dos SERVIÇOS pelo PODER CONCEDENTE, devidamente
+corrigida nos mesmos termos do reajuste da CONTRAPRESTAÇÃO, desde a data do
+investimento até o seu integral pagamento ao CONSÓRCIO ou CONCESSIONÁRIO.
+
+37.4. Eventuais conflitos decorrentes da aplicação do disposto nesta Cláusula poderão ser
+dirimidos por meio do mecanismo de solução de controvérsias previsto neste Contrato.
+
+CLÁUSULA TRINTA E OITO - DA ENCAMPAÇÃO
+38.1. A encampação é a retomada da CONCESSÃO ADMIINISTRATIVA pelo PODER
+CONCEDENTE, durante o prazo da CONCESSÃO ADMINISTRATIVA, por motivo de interesse
+público, precedida de lei municipal autorizativa específica e precedida de pagamento da
+indenização prevista no item 38.2 abaixo.
+
+38.2. Caso a CONCESSÃO ADMINISTRATIVA venha a ser extinta por encampação, a
+indenização devida pelo PODER CONCEDENTE ao CONSÓRCIO ou CONCESSIONÁRIO
+deverá ser paga previamente à reversão dos bens ao PODER CONCEDENTE, nos termos do
+artigo 37 da Lei Federal n° 8.987/95, considerando os seguintes critérios para cálculo:
+
+a) os investimentos realizados pelo CONSÓRCIO ou CONCESSIONÁRIO, segundo os
+elementos constantes do Anexo II do EDITAL (TERMO DE REFERÊNCIA) e segundo plano
+de investimentos apresentado pelo CONSÓRCIO ou CONCESSIONÁRIO, que ainda não
+estiverem depreciados ou amortizados, até a data da retomada dos SERVIÇOS pelo PODER
+CONCEDENTE, devidamente corrigidos monetariamente nos mesmos moldes aplicáveis ao
+
+                                                                                          41
+reajuste do preço por tonelada e valor de bens reversíveis, desde a data do pagamento do
+investimento até a data do pagamento da indenização;
+
+b) todos os custos oriundos de necessária rescisão de contratos mantidos entre o
+CONSÓRCIO ou CONCESSIONÁRIO e terceiros diretamente relacionados aos SERVIÇOS;
+
+c) custos incorridos pelo CONSÓRCIO ou CONCESSIONÁRIO com a celebração, manutenção
+e com a consequente rescisão antecipada de contratos de financiamento;
+
+d) os lucros cessantes calculados por empresa independente de consultoria especializada
+em avaliação de empresas e investimentos, conforme o item 40.3 abaixo.
+
+38.3. A empresa de auditoria independente especializada em avaliação de empresas e
+investimentos será paga pelo CONSÓRCIO ou CONCESSIONÁRIO e escolhida pelo PODER
+CONCEDENTE em até 5 (cinco) dias a partir de uma lista tríplice apresentada pelo
+CONSÓRCIO ou CONCESSIONÁRIO. Caso o PODER CONCEDENTE não indique a empresa
+no prazo assinalado, o CONSÓRCIO ou CONCESSIONÁRIO poderá escolher qualquer uma
+das empresas relacionadas.
+
+CLÁUSULA TRINTA E NOVE - DA CADUCIDADE
+39.1. A inexecução total ou parcial do CONTRATO acarretará, a critério do PODER
+CONCEDENTE,     a   declaração   de   caducidade   da   CONCESSÃO    ADMINISTRATIVA,
+independentemente da aplicação das sanções contratuais, respeitadas as disposições deste
+CONTRATO.
+
+39.2. A caducidade da CONCESSÃO ADMINISTRATIVA, por ação ou omissão do CONSÓRCIO
+ou CONCESSIONÁRIO, poderá ser declarada quando ocorrer:
+
+a) a prestação dos SERVIÇOS de forma inadequada ou deficiente, tendo por base o
+CONTRATO e seus Anexos;
+
+b) o descumprimento de cláusulas contratuais, disposições legais ou regulamentares
+concernentes à CONCESSÃO ADMINISTRATIVA;
+
+c) a paralisação dos SERVIÇOS ou concorrência para tanto, ressalvadas as hipóteses
+decorrentes de caso fortuito ou força maior;
+
+d) a perda, pelo CONSÓRCIO ou CONCESSIONÁRIO, das condições econômicas, técnicas
+ou operacionais, para manter a adequada prestação dos SERVIÇOS;
+
+e) o não cumprimento das penalidades impostas por infrações, nos devidos prazos;
+
+f) o não atendimento à intimação do PODER CONCEDENTE, no sentido de regularizar a
+prestação dos SERVIÇOS;
+
+g) a não contratação ou renovação dos seguros ou da GARANTIA DE EXECUÇÃO DO
+CONTRATO a que está obrigada, na forma deste CONTRATO;
+
+
+
+
+                                                                                    42
+h) a condenação, em sentença transitada em julgado, por sonegação de tributos, inclusive
+contribuições sociais;
+
+i) alteração ou desvio de objeto do CONSÓRCIO ou CONCESSIONÁRIO;
+
+j) transferência ou oneração de direitos e obrigações atinentes à CONCESSÃO
+ADMINISTRATIVA, de outra forma que não a prevista neste CONTRATO;
+
+k) solicitação de autofalência ou requerimento de recuperação judicial pelo CONSÓRCIO ou
+CONCESSIONÁRIO;
+
+I) não cumprimento, no prazo e na forma, das metas e objetivos da CONCESSÃO
+ADMINISTRATIVA mencionados neste CONTRATO, ressalvadas as hipóteses previstas;
+
+m) oposição permanente ao exercício da fiscalização pelo PODER CONCEDENTE.
+
+39.3. A declaração de caducidade da CONCESSÃO ADMINISTRATIVA será medida
+excepcional e deverá ser precedida da verificação da efetiva inadimplência do CONSÓRCIO
+ou CONCESSIONÁRIO em processo administrativo, em que seja assegurado o direito de
+ampla defesa e contraditório.
+
+39.4. É vedada a instauração de processo administrativo de inadimplência, pelo PODER
+CONCEDENTE, antes do CONSÓRCIO ou CONCESSIONÁRIO ser previamente comunicada a
+respeito das infrações contratuais praticadas, devendo lhe ser concedido prazo razoável
+para corrigir as falhas e transgressões apontadas, observadas as condições previstas neste
+CONTRATO.
+
+39.5. Instaurado o processo administrativo, uma vez comprovada a inadimplência, a
+caducidade será declarada mediante Decreto editado pelo Prefeito Municipal.
+
+39.6.   No   caso   da   extinção   do   CONTRATO   por   caducidade,   o   CONSÓRCIO    ou
+CONCESSIONÁRIO fará jus ao recebimento da devida indenização, em que serão
+considerados os investimentos realizados pelo CONSÓRCIO ou CONCESSIONÁRIO, segundo
+plano de investimentos elaborado pelo CONSÓRCIO ou CONCESSIONÁRIO, que ainda não
+tenham sido depreciados ou amortizados até a data de retomada dos SERVIÇOS pelo
+PODER CONCEDENTE, devidamente corrigidos monetariamente nos mesmos moldes
+aplicáveis ao reajuste da CONTRAPRESTAÇÃO, desde a data do investimento até a data do
+pagamento da indenização.
+
+39.7. Da indenização prevista no item anterior, será descontado o montante das multas
+contratuais e dos danos causados pelo CONSÓRCIO ou CONCESSIONÁRIO, no que
+eventualmente não seja coberto pela GARANTIA DE EXECUÇÃO DO CONTRATO.
+
+39.8. A indenização a que se refere o item 39.6 será paga no máximo em 3 (três) parcelas
+mensais e consecutivas, desde o 1º (primeiro) mês seguinte à assunção dos SERVIÇOS,
+devidamente corrigidos monetariamente nos mesmos moldes aplicáveis ao reajuste da
+
+
+
+                                                                                        43
+CONTRAPRESTAÇÃO, desde a data do investimento até a data do pagamento integral do
+valor devido ao CONSÓRCIO ou CONCESSIONÁRIO.
+
+39.9. A critério exclusivo do PODER CONCEDENTE, poderá a indenização de que trata este
+item ser paga em uma única vez.
+
+39.10. A declaração de caducidade da CONCESSÃO ADMINISTRATIVA acarretará, ainda,
+para o CONSÓRCIO ou CONCESSIONÁRIO:
+
+a) a execução da GARANTIA DE EXECUÇÃO DO CONTRATO pelo PODER CONCEDENTE para
+ressarcimento de eventuais prejuízos causados pelo CONSÓRCIO ou CONCESSIONÁRIO;
+
+b) retenção de eventuais créditos decorrentes deste CONTRATO, até o limite dos prejuízos
+causados ao PODER CONCEDENTE.
+
+39.11. Declarada a caducidade, não resultará ao PODER CONCEDENTE qualquer espécie de
+responsabilidade em relação aos encargos, ônus, obrigações ou compromissos com
+terceiros, ou com empregados do CONSÓRCIO ou CONCESSIONÁRIO.
+
+39.12. Eventuais conflitos decorrentes da aplicação do disposto neste item serão dirimidos
+por meio do mecanismo de solução de controvérsias previsto neste contrato.
+
+CLÁUSULA QUARENTA - DA RESCISÃO
+40.1. A CONSÓRCIO poderá rescindir o CONTRATO no caso de descumprimento das normas
+contratuais pelo PODER CONCEDENTE, mediante ação judicial especialmente intentada para
+este fim. Nesta hipótese, os SERVIÇOS não poderão ser interrompidos ou suspensos, até a
+decisão judicial haver transitado em julgado, salvo nos casos previstos no CONTRATO e na
+legislação vigente.
+
+40.2. Na hipótese de rescisão do CONTRATO por inadimplemento contratual nos termos
+desta Cláusula, a indenização a ser paga pelo PODER CONCEDENTE deverá incluir:
+
+a) os investimentos realizados pelo CONSÓRCIO ou CONCESSIONÁRIO, segundo os
+elementos constantes dos ANEXOS II do EDITAL (TERMO DE REFERÊNCIA) e segundo plano
+de investimentos apresentado pelo CONSÓRCIO ou CONCESSIONÁRIO, que ainda não
+estiverem depreciados ou amortizados, até a data da retomada dos SERVIÇOS pelo PODER
+CONCEDENTE, devidamente corrigidos monetariamente nos mesmos moldes aplicáveis ao
+reajuste da CONTRAPRESTAÇÃO, desde a data dos investimentos até a data do pagamento
+da indenização devida;
+
+b) todos os custos oriundos de necessária rescisão de contratos mantidos entre o
+CONSÓRCIO ou CONCESSIONÁRIO e terceiros diretamente relacionados aos SERVIÇOS;
+
+c) custos incorridos pelo CONSÓRCIO ou CONCESSIONÁRIO com a celebração, manutenção
+e com a consequente rescisão antecipada de contratos de financiamento;
+
+d) danos diretos e indiretos sofridos pelo CONSÓRCIO ou CONCESSIONÁRIO;
+
+
+                                                                                      44
+e) os lucros cessantes calculados por empresa independente de consultoria especializada
+em avaliação de empresas e investimentos, conforme o item 40.3 abaixo.
+
+40.3. A empresa de auditoria independente especializada em avaliação de empresas e
+investimentos será paga pelo CONSÓRCIO ou CONCESSIONÁRIO e escolhida pelo PODER
+CONCEDENTE em até 5 (cinco) dias a partir de uma lista tríplice apresentada pelo
+CONSÓRCIO ou CONCESSIONÁRIO. Caso o PODER CONCEDENTE não indique a empresa
+no prazo assinalado, o CONSÓRCIO ou CONCESSIONÁRIO poderá escolher qualquer uma
+das empresas relacionadas.
+
+CLÁUSULA QUARENTA E UM - DA ANULAÇÃO
+41.1.   Conforme    legislação   aplicável,    no     caso   de   anulação   da   CONCESSÃO
+ADMINISTRATIVA, por qualquer motivo, desde que referida anulação não seja causada pelo
+CONSÓRCIO ou CONCESSIONÁRIO, será devida indenização pelo PODER CONCEDENTE ao
+CONSÓRCIO ou CONCESSIONÁRIO, nos termos do item 41.2.
+
+41.2.   A   indenização   devida    pelo      PODER    CONCEDENTE      ao    CONSÓRCIO    ou
+CONCESSIONÁRIO deverá ser paga previamente à reversão dos bens, nos termos do artigo
+37 da Lei Federal n° 8.987/95, e incluirá:
+
+a) os investimentos realizados pelo CONSÓRCIO ou CONCESSIONÁRIO, segundo os
+elementos constantes do Anexo II do EDITAL (TERMO DE REFERÊNCIA) e segundo plano
+de investimentos apresentado pelo CONSÓRCIO ou CONCESSIONÁRIO, que ainda não
+estiverem depreciados ou amortizados, até a data da retomada dos SERVIÇOS por
+MARÍLIA, devidamente corrigidos monetariamente nos mesmos moldes aplicáveis ao
+reajuste da CONTRAPRESTAÇÃO;
+
+b) todos os custos oriundos de necessária rescisão de contratos mantidos entre o
+CONSÓRCIO ou CONCESSIONÁRIO e terceiros diretamente relacionados aos SERVIÇOS;
+
+c) custos incorridos pelo CONSÓRCIO ou CONCESSIONÁRIO com a celebração, manutenção
+e com a consequente rescisão antecipada de contratos de financiamento;
+
+d) os lucros cessantes calculados por empresa independente de consultoria especializada
+em avaliação de empresas e investimentos, conforme o item 41.3 abaixo.
+
+41.3. A empresa de auditoria independente especializada em avaliação de empresas e
+investimentos será paga pelo CONSÓRCIO ou CONCESSIONÁRIO e escolhida pelo PODER
+CONCEDENTE em até 5 (cinco) dias a partir de uma lista tríplice apresentada pelo
+CONSÓRCIO ou CONCESSIONÁRIO. Caso o PODER CONCEDENTE não indique a empresa
+no prazo assinalado, o CONSÓRCIO ou CONCESSIONÁRIO poderá escolher qualquer uma
+das empresas relacionadas.
+
+41.4. Eventuais conflitos decorrentes da aplicação do disposto neste item serão dirimidos
+por meio do mecanismo de solução de controvérsias previsto neste Contrato.
+
+
+
+                                                                                         45
+CLÁUSULA QUARENTA E DOIS - DA FALÊNCIA OU EXTINÇÃO DO
+CONSÓRCIO OU CONCESSIONÁRIO
+42.1. A CONCESSÃO ADMINISTRATIVA poderá ser extinta caso o CONSÓRCIO ou
+CONCESSIONÁRIO tenha a sua falência decretada ou no caso de sua extinção.
+
+42.2. No caso previsto nesta Cláusula, a indenização devida pelo PODER CONCEDENTE será
+calculada tomando como base os investimentos realizados pelo CONSÓRCIO ou
+CONCESSIONÁRIO, segundo o ANEXO II - TERMO DE REFERÊNCIA – CADERNO III –
+MODELAGEM JURÍDICA e o plano de investimentos elaborado             pelo CONSÓRCIO ou
+CONCESSIONÁRIO, que ainda não tenham sido depreciados ou amortizados até a data de
+retomada   dos     SERVIÇOS     pelo   PODER   CONCEDENTE,       devidamente    corrigidos
+monetariamente nos mesmos moldes aplicáveis ao reajuste do preço por tonelada e valor
+de bens reversíveis, desde a data do investimento até a data do pagamento da indenização.
+
+42.3. A indenização a que se refere o item 42.2 anterior será paga à massa falida, em
+parcelas mensais e consecutivas, correspondentes ao número de meses faltantes para a
+expiração do prazo previsto de vigência do CONTRATO, desde o 1º (primeiro) mês seguinte
+à assunção dos SERVIÇOS pelo PODER CONCEDENTE, devidamente corrigida, nos termos
+do disposto no item 42.2 acima, desde a realização do investimento até a quitação integral
+do valor devido ao CONSÓRCIO ou CONCESSIONÁRIO.
+
+42.4. A critério exclusivo do PODER CONCEDENTE, poderá a indenização de que trata este
+item ser paga em uma única vez.
+
+42.5. Na hipótese de dissolução ou liquidação do CONSÓRCIO ou CONCESSIONÁRIO, não
+poderá ser procedida a partilha do respectivo patrimônio social sem que o PODER
+CONCEDENTE ateste, mediante auto de vistoria, o estado em que se encontram os bens
+afetos à CONCESSÃO ADMINISTRATIVA que serão revertidos livres de ônus; ou sem que
+se efetue o pagamento das quantias devidas ao PODER CONCEDENTE, a título de
+indenização ou a qualquer outro título.
+
+42.6. Eventuais conflitos decorrentes da aplicação do disposto neste item serão dirimidos
+por meio do mecanismo de solução de controvérsias previsto neste Contrato.
+
+CLÁUSULA QUARENTA E TRÊS - DOS FINANCIADORES
+43.1. As ações representativas do controle do CONSÓRCIO ou CONCESSIONÁRIO poderão
+ser dadas em garantia de financiamentos, ou como contragarantia de operações, vinculadas
+ao cumprimento de obrigações decorrentes deste CONTRATO, desde que não implique
+alteração do controle societário do CONSÓRCIO ou CONCESSIONÁRIO.
+
+43.2. Respeitadas as condições previstas neste CONTRATO, o PODER CONCEDENTE poderá
+autorizar a assunção do controle do CONSÓRCIO ou CONCESSIONÁRIO por seus
+financiadores, nos casos em que seja necessário promover a reestruturação financeira do
+
+
+
+
+                                                                                      46
+CONSÓRCIO ou CONCESSIONÁRIO e assegurar a continuidade da prestação dos
+SERVIÇOS.
+
+43.3. Na hipótese prevista no item 43.2. anterior, o PODER CONCEDENTE exigirá dos
+financiadores o cumprimento das exigências de regularidade fiscal e jurídica necessárias à
+assunção dos SERVIÇOS.
+
+43.4. Nos contratos de financiamento, o CONSÓRCIO ou CONCESSIONÁRIO poderá
+oferecer em garantia os direitos emergentes da CONCESSÃO ADMINISTRATIVA, até o limite
+que não comprometa a operacionalização e a continuidade da prestação dos SERVIÇOS,
+nos termos do artigo 28 da Lei Federal n° 8.987/95.
+
+43.5. Para garantir os contratos de mútuo de longo prazo, destinados a investimentos
+relacionados à CONCESSÃO ADMINISTRATIVA, o CONSÓRCIO ou CONCESSIONÁRIO
+poderá ceder ao mutuante, em caráter fiduciário, parcela de seus créditos operacionais
+futuros, observado o disposto no artigo 28-A da Lei Federal n° 8.987/95.
+
+43.6. É admitida, ainda, a emissão de empenho em nome dos financiadores dos SERVIÇOS
+em relação às obrigações pecuniárias do PODER CONCEDENTE, em especial, a obrigação
+de pagamento do preço por tonelada e valor de bens reversíveis pelo PODER CONCEDENTE.
+
+43.7. Os financiadores da CONCESSÃO ADMINISTRATIVA terão legitimidade para receber
+indenizações por extinção antecipada do CONTRATO, bem como para receber pagamentos
+efetuados pelo Fundo Garantidor, quando este estiver criado e em funcionamento.
+
+43.8. Para fins de efetivação do disposto nos itens 43.6 e 43.7 acima, o CONSÓRCIO ou
+CONCESSIONÁRIO enviará comunicação prévia, por escrito, ao PODER CONCEDENTE,
+informando os valores envolvidos e dos dados a respeito do financiador.
+
+CLÁUSULA QUARENTA E QUATRO - DA REVERSÃO DOS BENS OUE
+INTEGRAM A CONCESSÃO ADMINISTRATIVA
+44.1. Na extinção da CONCESSÃO ADMINISTRATIVA, todos os bens a ela afetos, recebidos,
+construídos     ou   adquiridos   pelo   CONSÓRCIO           ou    CONCESSIONÁRIO       e     integrados
+diretamente à CONCESSÃO ADMINISTRATIVA, conforme determinado pelo ANEXO II -
+TERMO      DE   REFERÊNCIA        –   CADERNO     III    –     MODELAGEM         JURÍDICA,     revertem
+automaticamente ao PODER CONCEDENTE, nas condições estabelecidas neste CONTRATO
+e seus anexos.
+
+44.2. Para os fins previstos no item 44.1 anterior, obriga-se o CONSÓRCIO ou
+CONCESSIONÁRIO         a   entregar      os   bens,     nele      referidos,   inteiramente    livres    e
+desembaraçados de quaisquer ônus ou encargos, devendo estar em condições normais de
+operacionalidade, utilização e manutenção, sem prejuízo do normal desgaste resultante do
+seu uso.
+
+44.3. Na extinção da CONCESSÃO ADMINISTRATIVA, será promovida, pelo PODER
+CONCEDENTE, vistoria prévia dos bens a ela afetos, para os efeitos previstos neste
+
+                                                                                                    47
+CONTRATO, e lavrado um "Termo de Reversão dos Bens", com indicação detalhada do seu
+estado de conservação.
+
+44.4. Caso os bens afetos à CONCESSÃO ADMINISTRATIVA, quando de sua devolução ao
+PODER CONCEDENTE, não se encontrem em condições adequadas, observado o disposto
+nesta Cláusula, o CONSÓRCIO ou CONCESSIONÁRIO indenizará o PODER CONCEDENTE no
+montante a ser calculado pelo PODER CONCEDENTE, mediante instauração de processo
+administrativo, em que será garantido         ao CONSÓRCIO ou CONCESSIONÁRIO o
+contraditório e ampla defesa, nos termos do CONTRATO.
+
+44.5. O PODER CONCEDENTE poderá, ainda, reter ou executar a GARANTIA DE EXECUÇÃO
+DO CONTRATO, a seu exclusivo critério, no caso de se verificar, na vistoria, que os bens
+afetos à CONCESSÃO ADMINISTRATIVA se encontram deteriorados em seu uso e em sua
+conservação.
+
+44.6. Caso o montante da GARANTIA DE EXECUÇÃO DO CONTRATO seja insuficiente para
+atender o cumprimento da obrigação prevista no item 44.5 anterior, o PODER CONCEDENTE
+poderá descontar seus créditos do valor da indenização devida ao CONSÓRCIO ou
+CONCESSIONÁRIO, por força da extinção da CONCESSÃO ADMINISTRATIVA.
+
+CLÁUSULA QUARENTA E CINCO – DA PROTEÇÃO AMBIENTAL
+45.1. O CONSÓRCIO ou CONCESSIONÁRIO obriga-se a cumprir o disposto na legislação
+vigente relativa às normas de proteção ambiental.
+
+45.2. O CONSÓRCIO ou CONCESSIONÁRIO deverá se submeter às medidas adotadas pelas
+autoridades com poder de fiscalização de meio ambiente, no âmbito das respectivas
+competências, observando sempre o equilíbrio econômico-financeiro deste CONTRATO e
+suas cláusulas e condições.
+
+45.3. O CONSÓRCIO ou CONCESSIONÁRIO é responsável pela obtenção de todas as
+licenças ambientais, seguindo as diretrizes ambientais básicas disponibilizadas pelos órgãos
+competentes, observado o disposto neste item.
+
+45.4. Quando, embora o CONSÓRCIO ou CONCESSIONÁRIO comprove o cumprimento de
+todos os requisitos para obtenção de determinada licença, não a tenha obtido por razões
+alheias à sua vontade, em especial por problemas verificados nas diretrizes ambientais
+básicas, as metas e o CRONOGRAMA deverão ser revistos, sendo assegurada, ainda, a
+revisão do CONTRATO, para se garantir o seu equilíbrio econômico-financeiro.
+
+45.5. O PODER CONCEDENTE será o único responsável pelo passivo ambiental, devendo
+manter o CONSÓRCIO ou CONCESSIONÁRIO isento de qualquer responsabilidade, quando:
+
+a) originado de atos ou fatos ocorridos anteriormente à assunção dos SERVIÇOS, vale
+lembrar que referida ÁREA está impactada por atividade de disposição de resíduos,
+portanto, provavelmente contaminada, independentemente de o passivo ambiental ser
+
+
+
+                                                                                        48
+verificado anteriormente ou após a assunção dos SERVIÇOS, inclusive no caso de
+desatendimento à legislação ambiental pela má destinação dos resíduos; e
+
+b) ainda que posterior à assunção dos SERVIÇOS pelo CONSÓRCIO ou CONCESSIONÁRIO,
+decorra da inércia do PODER CONCEDENTE no cumprimento de suas obrigações e deveres
+legais.
+
+45.6. Na hipótese prevista de determinação da autoridade ambiental para adaptação à
+legislação aplicável, em prazos ou condições diferentes dos prazos e metas fixados para
+esta CONCESSÃO ADMINISTRATIVA, o CONTRATO deverá ser revisto, com vistas à
+recomposição do equilíbrio econômico-financeiro.
+
+CLÁUSULA QUARENTA E SETE - DO MECANISMO DE SOLUÇÃO DE
+CONTROVÉRSIAS
+47.1. Os conflitos e litígios oriundos do CONTRATO serão previamente submetidos à
+conciliação. A conciliação se processará da forma a seguir exposta.
+
+47.1.1. A PARTE que desejar submeter uma controvérsia à conciliação, deverá notificar a
+outra PARTE por escrito, indicando a controvérsia, data, hora e local para deliberação sobre
+o assunto.
+
+47.1.2. Participarão da conciliação no mínimo 2 (dois) representantes do PODER
+CONCEDENTE e 2 (dois) representantes do CONSÓRCIO ou CONCESSIONÁRIO.
+
+47.1.3. A PODER CONCEDENTE será notificada pela PARTE que submeteu a controvérsia à
+conciliação, para, havendo disponibilidade, enviar representante à reunião de conciliação.
+
+47.1.4. Os representantes serão escolhidos pelas PARTES de acordo com as características
+técnicas da controvérsia.
+
+47.1.5. As PARTES deverão conciliar a divergência no prazo máximo de 15 dias,
+prorrogáveis por igual período.
+
+47.1.6. O acordo será levado a termo, assinado pelas partes, e valerá e vinculará as PARTES
+para todos os fins e efeitos de direito, com a inclusão do competente aditamento do
+CONTRATO, se o caso.
+
+47.2. Para dirimir conflitos e litígios que não tenham sido solucionados por meio dos
+mecanismos amigáveis previstos no EDITAL e no CONTRATO, as PARTES comprometem-se
+que resolverão, por meio de arbitragem, as disputas ou controvérsias indicadas no
+CONTRATO que possam surgir entre elas, relacionada ou oriunda, em especial, da
+aplicação, validade, eficácia, interpretação, violação e seus efeitos, das disposições contidas
+no CONTRATO e na legislação vigente.
+
+47.3. Os litígios serão dirimidos nos termos da Lei Federal nº 9.307/96, artigo 5º, pela
+arbitragem institucional, ou seja, pela indicação de um Tribunal Arbitral.
+
+
+
+                                                                                           49
+47.4. A arbitragem será administrada pela Câmara de Arbitragem do Mercado – CAM/B3,
+com sede na cidade de São Paulo, Estado de São Paulo, de acordo com seu regulamento
+vigente à época da instauração do procedimento.
+
+47.5. A arbitragem ocorrerá de acordo com as regras fixadas no CONTRATO, com as regras
+estabelecidas pelo próprio Tribunal Arbitral e, ainda, consoante o determinado na Lei
+Federal n.º 9.307/96 – Lei da Arbitragem - e no Código de Processo Civil.
+
+47.6. O Tribunal Arbitral terá sede no Brasil, no Estado de São Paulo e utilizará a língua
+portuguesa como idioma oficial.
+
+47.7. No procedimento arbitral deverão sempre ser observados o critério de julgamento
+por direito e o princípio da publicidade, nos termos do Artigo 2º, §3º da Lei nº 9.307/96.
+
+47.8. A arbitragem será instaurada mediante requerimento da PARTE interessada perante
+a Câmara indicada nesta cláusula, nos termos de seu regulamento, competindo à instituição
+arbitral conduzir o procedimento, inclusive quanto à nomeação dos árbitros.
+
+47.8.1. A PARTE que iniciar o procedimento arbitral deverá antecipar as custas, na forma
+do regulamento da Câmara escolhida, inclusive honorários e perícias.
+
+47.8.2. No prazo de até 05 (cinco) dias úteis do recebimento da comunicação de instituição
+de Tribunal Arbitral, caso não concorde com a escolha da Câmara Arbitral, deverá a PARTE
+notificada comunicar, por escrito, os motivos de sua discordância. No mesmo prazo, a
+PARTE que iniciou o procedimento arbitral deverá indicar nova Câmara.
+
+47.8.3. Estando as PARTES de acordo com a escolha da Câmara para o caso específico,
+deverá a PARTE que iniciou a submissão encaminhar ofício à Câmara Arbitral escolhida,
+indicando o árbitro, os fundamentos, e comprovando a notificação da outra PARTE, devendo
+nesse ato recolher as custas devidas à instituição do Tribunal Arbitral.
+
+47.8.4. O terceiro árbitro será escolhido na forma do Regulamento da Câmara.
+
+47.9. O Tribunal Arbitral considera-se constituído na data em que o terceiro árbitro aceitar
+a sua nomeação e a comunicar para ambas as PARTES.
+
+47.10. O Tribunal Arbitral poderá ser assistido pelos peritos técnicos e consultores que
+considere convenientes designar.
+
+47.11. Caso não se verifique acordo quanto ao objeto do litígio, será o mesmo fixado pelo
+Tribunal Arbitral, tendo em conta a petição do demandante e a eventual reconvenção do
+demandado.
+
+47.12. O Tribunal Arbitral, salvo acordo em contrário das PARTES, julgará segundo o direito
+brasileiro e das suas decisões não cabe recurso.
+
+47.13. As decisões do Tribunal Arbitral deverão ser proferidas no prazo máximo de 180
+(cento e oitenta) dias a contar da data de constituição do tribunal determinada nos termos
+
+
+                                                                                        50
+do presente artigo, configurarão a decisão final de arbitragem relativamente às matérias
+em causa e incluirão a fixação das custas do processo e a forma da sua repartição pelas
+PARTES.
+
+47.14. A submissão de qualquer questão à solução prevista nesta cláusula, não exonera as
+PARTES do pontual e tempestivo cumprimento das disposições do CONTRATO e das
+determinações do PODER CONCEDENTE a ele atinentes, nem permite qualquer interrupção
+do desenvolvimento das atividades objeto do CONTRATO, que deverão continuar a
+processar-se nos termos em vigor à data de submissão da questão, assim permanecendo
+até que uma decisão final seja obtida relativamente à matéria em causa.
+
+47.15. A CONCESSIONÁRIO se obriga a dar imediato conhecimento ao PODER
+CONCEDENTE da ocorrência de qualquer conflito ou litígio e a lhe prestar toda e qualquer
+informação relevante relativa à sua evolução.
+
+47.16. Eventuais divergências entre as PARTES de ordem patrimonial, econômica e direitos
+disponíveis, e ainda relativamente às matérias abaixo relacionadas, que não tenham sido
+solucionadas amigavelmente pelo procedimento de conciliação, deverão ser dirimidas por
+meio de arbitragem, na forma da Lei Federal n.º 9.307/96:
+
+47.16.1. Reconhecimento do direito e determinação do montante respectivo da
+recomposição do equilíbrio econômico-financeiro, em favor de qualquer das PARTES, em
+todas as situações previstas no CONTRATO;
+
+47.16.2. Que versarem sobre cláusulas regulamentares – aquelas que estabelecem o modo
+e a forma da prestação dos serviços;
+
+47.16.3. Que versarem sobre cláusulas econômico-financeiras – aquelas que garantem o
+restabelecimento do equilíbrio econômico financeiro do CONTRATO;
+
+47.16.4. Reconhecimento de      hipóteses   de   inadimplemento   contratual   do   PODER
+CONCEDENTE ou da CONCESSIONÁRIO, e o montante da aplicação da penalidade;
+
+47.16.5. Cálculo e aplicação do REAJUSTE previsto no CONTRATO;
+
+47.16.6. Acionamento dos mecanismos de garantia estipulados no CONTRATO;
+
+47.16.7. Valor da indenização no caso de extinção do CONTRATO;
+
+47.16.8. Consequências patrimoniais advindas do uso das prerrogativas administrativas
+determinadas em cláusulas exorbitantes que afetem direitos do particular – não se
+enquadrando as medidas unilaterais de competência pública.
+
+47.16.9. Divergências de natureza técnica, acerca da interpretação ou execução do
+CONTRATO.
+
+
+
+
+                                                                                      51
+47.17. As PARTES, de comum acordo, poderão submeter à arbitragem outras controvérsias
+não previstas neste EDITAL e no CONTRATO, mediante a celebração de compromisso
+arbitral, o qual vinculará as PARTES em suas decisões.
+
+47.18. Caso seja necessária a obtenção de medidas coercitivas ou de urgência antes da
+constituição do Tribunal Arbitral, e, ainda para qualquer controvérsia não sujeita a
+arbitragem, as PARTES poderão requerê-las diretamente ao Poder Judiciário, nos termos
+do previsto no Artigo 22-A da Lei nº 9.307/96.
+
+47.19. Para efetivação do disposto no subitem anterior as PARTES elegem o foro da
+Comarca de Marília, no estado de São Paulo.
+
+47.20. Instituída a arbitragem, caberá aos árbitros manter, modificar ou revogar a medida
+cautelar ou de urgência concedida pelo Poder Judiciário.
+
+47.21. Estando já instituída a arbitragem, a medida cautelar ou de urgência será requerida
+diretamente aos árbitros, nos termos do artigo 22-B, Parágrafo Único da Lei nº 9.307/96.
+
+47.22. As decisões do Tribunal Arbitral serão definitivas para o impasse e vincularão as
+PARTES.
+
+47.23. Sem prejuízo da propositura da ação de execução específica prevista no artigo 7º
+da Lei Federal n.º 9.307/96, a parte que recusar a assinatura do compromisso arbitral,
+após devidamente intimada, incorrerá também na multa cominatória no valor de R$
+10.000,00 (dez mil reais) por dia de atraso, até que cumpra efetivamente a obrigação.
+
+CLÁUSULA QUARENTA E OITO - DAS COMUNICAÇÕES
+48.1. As comunicações entre as PARTES serão efetuadas por escrito e remetidas sob
+protocolo.
+
+48.2. Considerar-se-ão, para efeitos de remessa das comunicações, na forma desta
+Cláusula, os endereços oficiais das PARTES.
+
+48.3. Qualquer das PARTES poderá modificar o endereço mediante simples comunicação
+por escrito à outra.
+
+CLÁUSULA QUARENTA E NOVE - DA CONTAGEM DOS PRAZOS
+49.1. Na contagem dos prazos a que alude este CONTRATO, excluir-se-á o dia de início e
+incluir-se- á o dia do vencimento, e se considerarão os dias corridos, exceto quando for
+explicitamente disposto em contrário.
+
+49.2. Os prazos só iniciam ou terminam a sua contagem em dias de normal expediente da
+PREFEITURA MUNICIPAL DE MARÍLIA.
+
+49.3. Na ocorrência de caso fortuito, força maior ou fato do príncipe, os prazos fixados
+neste CONTRATO ficarão suspensos exclusivamente em relação às obrigações diretamente
+
+
+
+
+                                                                                      52
+afetadas pelo evento extraordinário, recomeçando a contagem logo assim que cessarem os
+seus efeitos, aplicando-se o previsto no CONTRATO para estas hipóteses.
+
+CLÁUSULA CINQUENTA - DA INVALIDADE PARCIAL
+50.1. Se qualquer disposição ou cláusula deste CONTRATO for declarada ilegal ou inválida
+por um juízo de jurisdição competente, este CONTRATO deverá continuar em pleno vigor e
+efeito sem a citada disposição.
+
+50.2. No caso de a declaração de que trata o item anterior alterar substancialmente os
+benefícios econômicos deste CONTRATO para qualquer das partes, o PODER CONCEDENTE
+e o CONSÓRCIO ou CONCESSIONÁRIO deverão negociar, de boa-fé, um ajuste equitativo
+para tal disposição.
+
+CLÁUSULA CINQUENTA E UM - DA PUBLICAÇÃO E REGISTRO DO
+CONTRATO
+51.1. O PODER CONCEDENTE providenciará a publicação resumida deste CONTRATO, na
+imprensa oficial, até o 5° (quinto) dia útil do mês seguinte ao de sua assinatura, para
+ocorrer no prazo de vinte dias daquela data, na forma do disposto no parágrafo único do
+artigo 94 da Lei Federal nº 14.133/2021.
+
+CLÁUSULA CINQUENTA E DOIS - DO FORO
+52.1. As PARTES elegem o foro de Marília (SP), com exclusão de qualquer outro, por mais
+privilegiado que seja, para dirimir as controvérsias não dirimidas por meio do disposto na
+Clausula 47 do CONTRATO e para conhecer de ações que garantam a completa realização
+do procedimento arbitral nos moldes estabelecidos na Cláusula 48.
+
+Assim, havendo sido ajustado, fizeram as partes lavrar o presente instrumento, em 3 (três)
+vias, de igual teor e forma, que serão assinadas pelos representantes do PODER
+CONCEDENTE e do CONSÓRCIO ou CONCESSIONÁRIO, juntamente com duas testemunhas,
+para que produza seus regulares efeitos, obrigando-se entre si herdeiros e sucessores.
+
+Marília,   de          de 2026
+
+
+
+CONTRATANTE:
+
+CONTRATADA:
+
+TESTEMUNHAS:
+
+
+
+
+                                                                                      53
+

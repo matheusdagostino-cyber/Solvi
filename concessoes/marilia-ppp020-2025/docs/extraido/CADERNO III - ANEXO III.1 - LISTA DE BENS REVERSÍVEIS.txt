@@ -1,0 +1,254 @@
+Caderno III
+Modelagem Jurídica
+
+Anexo III.1 - Lista de Bens
+Reversíveis
+
+
+
+Desenvolvimento:
+
+
+
+
+                          1
+                           ANEXO III.1 - LISTA DE BENS REVERSÍVEIS
+
+
+     1. DISPOSIÇÕES GERAIS
+
+Os bens reversíveis compreendem todos os ativos indispensáveis à prestação dos serviços,
+incluindo, mas não se restringindo a instalações, equipamentos, sistemas e infraestrutura
+vinculados à operação das unidades de tratamento de resíduos sólidos domiciliares.
+
+
+A reversibilidade dos bens observará a estrutura dos LOTES prevista no EDITAL, sendo atribuída
+à respectiva CONCESSIONÁRIA responsável.
+
+
+
+
+     2. BENS COMUNS (APLICÁVEIS A TODOS OS LOTES)
+
+Incluem:
+
+
+     •      Galpão de recepção de resíduos;
+
+
+     •      Sistemas de segregação e trituração;
+
+
+     •      Pátios, vias internas e infraestrutura de acesso;
+
+
+     •      Edificações administrativas e operacionais;
+
+
+     •      Sistemas elétricos, subestações e utilidades;
+
+
+     •      Sistemas de automação e controle (scada);
+
+
+     •      Sistemas de segurança e combate a incêndio;
+
+
+     •      Sistemas de drenagem e infraestrutura civil.
+
+
+
+
+     3. BENS REVERSÍVEIS – LOTE 1 (BIODIGESTÃO)
+
+Incluem, quando aplicável:
+
+
+     •      Sistemas de recepção e preparação da fração orgânica;
+
+
+     •      Biodigestores anaeróbios e sistemas auxiliares;
+
+
+     •      Sistemas de aquecimento, mistura e controle do processo;
+
+
+
+                                                                                                    2
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                    VERSÃO 07_2026, 21 JULHO 2026
+     •      Sistemas de tratamento de biogás;
+
+
+     •      Unidades de produção de biometano;
+
+
+     •      Sistemas de compressão e armazenamento;
+
+
+     •      Sistemas de tratamento e disposição do digestato;
+
+
+     •      Tanques, lagoas e unidades de polimento;
+
+
+     •      Sistemas hidráulicos, tubulações e automação.
+
+
+
+
+     4. BENS REVERSÍVEIS – LOTE 2 (TRATAMENTO TÉRMICO)
+
+Incluem, quando aplicável:
+
+
+     •      Sistemas de preparação da fração seca e produção de CDR;
+
+
+     •      Reatores térmicos (gaseificação, pirólise ou equivalentes);
+
+
+     •      Sistemas de alimentação e controle do processo;
+
+
+     •      Sistemas de tratamento de gases;
+
+
+     •      Sistemas de geração de vapor;
+
+
+     •      Sistemas de geração de energia elétrica;
+
+
+     •      Sistemas de tratamento de cinzas e resíduos;
+
+
+     •      Equipamentos de controle ambiental associados.
+
+
+
+
+     5. BENS REVERSÍVEIS – LOTE 3 (SOLUÇÃO INTEGRADA)
+
+Incluem a totalidade dos bens necessários à operação integrada, abrangendo:
+
+
+     •      Sistemas de segregação e trituração;
+
+
+     •      Unidades de biodigestão;
+
+
+     •      Unidades de tratamento térmico;
+
+
+
+                                                                                                      3
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                      VERSÃO 07_2026, 21 JULHO 2026
+     •      Sistemas de integração entre processos;
+
+
+     •      Sistemas completos de recuperação energética;
+
+
+     •      Infraestrutura completa da planta integrada.
+
+
+
+
+     6. EQUIPAMENTOS MÓVEIS
+
+Serão considerados reversíveis quando:
+
+
+     •      Estiverem vinculados exclusivamente à operação;
+
+
+     •      Previstos contratualmente;
+
+
+Incluem:
+
+
+     •      Pás carregadeiras e retroescavadeiras;
+
+
+     •      Empilhadeiras, bobcat;
+
+
+     •      Equipamentos operacionais internos.
+
+
+
+
+     7. SISTEMAS E DOCUMENTAÇÃO
+
+Incluem:
+
+
+     •      Softwares operacionais e sistemas SCADA;
+
+
+     •      Licenças vinculadas à operação;
+
+
+     •      Projetos executivos;
+
+
+     •      Manuais e documentação técnica;
+
+
+     •      Bases de dados operacionais.
+
+
+
+
+     8. MODERNIZAÇÕES E AMPLIAÇÕES
+
+Todos os bens incorporados ao longo da concessão serão considerados reversíveis, exceto
+quando expressamente definidos como não reversíveis.
+
+
+
+                                                                                              4
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                              VERSÃO 07_2026, 21 JULHO 2026
+     9. REGRAS DE REVERSIBILIDADE
+
+     •      Os bens deverão ser revertidos em condições adequadas de uso;
+
+
+     •      Deverão estar livres de ônus;
+
+
+     •      Deverão estar atualizados e operacionais;
+
+
+     •      A lista será atualizada periodicamente.
+
+
+
+
+10. DISPOSIÇÕES FINAIS
+
+
+     •      A titularidade dos bens será vinculada ao respectivo LOTE;
+
+
+     •      Não haverá compartilhamento de bens entre LOTES, salvo previsão contratual;
+
+
+     •      A destinação final de rejeitos não constitui bem reversível;
+
+
+
+
+                                                                                                       5
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                       VERSÃO 07_2026, 21 JULHO 2026
+

@@ -1,0 +1,478 @@
+Caderno III
+Modelagem Jurídica
+
+Anexo II.4 – Das Diretrizes de
+Engenharia do Empreendimento
+
+
+
+Desenvolvimento:
+    1. OBJETO
+
+O presente Anexo estabelece as diretrizes de engenharia para o desenvolvimento, implantação,
+operação e manutenção das unidades de tratamento e valorização de resíduos sólidos
+domiciliares (RSD), no âmbito da presente Parceria Público-Privada.
+
+
+
+
+    2. DIRETRIZ GERAL DE ENGENHARIA
+
+A solução proposta deverá contemplar sistema integrado de tratamento de resíduos, incluindo,
+mas não se restringindo a:
+
+
+    •     Recepção e preparo dos resíduos;
+
+
+    •     Segregação e condicionamento das frações;
+
+
+    •     Tratamento biológico e/ou térmico;
+
+
+    •     Recuperação energética e/ou material;
+
+
+    •     Sistemas auxiliares e de suporte operacional.
+
+
+A PROPONENTE será integralmente responsável pela concepção da solução de engenharia,
+devendo garantir robustez, eficiência, confiabilidade e segurança operacional ao longo de todo
+o período da concessão.
+
+
+
+
+    3. NÍVEL DE DETALHAMENTO
+
+O Plano de Trabalho deverá ser apresentado em nível conceitual, compatível com a fase
+licitatória, não sendo exigido detalhamento equivalente a projeto executivo.
+
+
+O detalhamento completo das soluções será de responsabilidade da futura CONCESSIONÁRIA,
+a ser desenvolvido após a assinatura do contrato, no âmbito dos projetos executivos e do
+processo de licenciamento ambiental.
+
+
+
+
+    4. CAPACIDADE E DIMENSIONAMENTO
+
+A solução deverá:
+
+
+    •     Ser dimensionada para processar a totalidade dos resíduos sólidos domiciliares gerados
+          ao longo da concessão;
+
+
+                                                                                                   2
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                   VERSÃO 07_2026, 21 JULHO 2026
+    •     Considerar variações sazonais e crescimento populacional;
+
+
+    •     Operar de forma contínua, com regime compatível com a coleta municipal;
+
+
+    •     Prever capacidade de amortecimento operacional (pulmões, armazenamento e
+          redundâncias).
+
+
+
+
+    5. CONTEÚDO MÍNIMO DO PLANO DE TRABALHO
+
+O Plano de Trabalho deverá apresentar, incluindo, mas não se restringindo a:
+
+
+
+
+    5.1. SOLUÇÃO DE ENGENHARIA
+
+
+    •     Descrição geral da planta e das unidades operacionais;
+
+
+    •     Tecnologias adotadas;
+
+
+    •     Capacidade de processamento;
+
+
+    •     Integração entre as etapas do processo.
+
+
+
+
+    5.2. FLUXO OPERACIONAL
+
+
+    •     Fluxograma geral do sistema;
+
+
+    •     Principais etapas de tratamento dos resíduos;
+
+
+    •     Entradas e saídas do processo;
+
+
+    •     Destinação das frações geradas.
+
+
+
+
+    5.3. DESEMPENHO TÉCNICO
+
+
+    •     Estimativa de eficiência do sistema;
+
+
+    •     Redução do envio de resíduos ao aterro sanitário;
+                                                                                                   3
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                   VERSÃO 07_2026, 21 JULHO 2026
+    •     Recuperação energética e/ou material;
+
+
+    •     Disponibilidade operacional estimada.
+
+
+
+
+    5.4. ASPECTOS AMBIENTAIS
+
+
+    •     Estimativa preliminar de emissões atmosféricas;
+
+
+    •     Descrição dos sistemas de controle ambiental;
+
+
+    •     Avaliação preliminar de impactos ambientais;
+
+
+    •     Aderência à legislação aplicável.
+
+
+
+
+    5.5. GESTÃO DE RESÍDUOS E SUBPRODUTOS
+
+
+    •     Tratamento e destinação do digestato;
+
+
+    •     Gestão de cinzas e rejeitos;
+
+
+    •     Reaproveitamento de subprodutos;
+
+
+    •     Soluções ambientalmente adequadas de disposição final.
+
+
+
+
+    6. RECEPÇÃO E PREPARAÇÃO DOS RESÍDUOS
+
+A solução deverá contemplar:
+
+
+    •     Implantação de galpão de recepção de resíduos;
+
+
+    •     Sistemas de descarga, movimentação e armazenamento temporário;
+
+
+    •     Equipamentos de alimentação contínua do processo;
+
+
+    •     Sistemas de controle operacional da entrada de resíduos;
+
+
+Deverá garantir:
+
+
+
+                                                                                                     4
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                     VERSÃO 07_2026, 21 JULHO 2026
+    •     Regularidade de alimentação;
+
+
+    •     Homogeneização do material;
+
+
+    •     Minimização de interferências operacionais.
+
+
+
+
+    7. SEGREGAÇÃO E TRITURAÇÃO
+
+O sistema deverá incluir, incluindo, mas não se restringindo a:
+
+
+    •     Segregação mecânica ou solução equivalente;
+
+
+    •     Separação das frações úmida e seca;
+
+
+    •     Remoção de metais e materiais não processáveis;
+
+
+    •     Sistemas de trituração e adequação granulométrica.
+
+
+Deverá assegurar:
+
+
+    •     Eficiência de segregação compatível com a tecnologia adotada;
+
+
+    •     Qualidade adequada das frações para os processos subsequentes;
+
+
+    •     Estabilidade do fluxo operacional.
+
+
+
+
+    8. TRATAMENTO DAS FRAÇÕES
+
+
+
+
+    8.1. FRAÇÃO ÚMIDA
+
+
+Deverá ser tratada por processos biológicos, incluindo, mas não se restringindo à biodigestão
+anaeróbica, devendo:
+
+
+    •     garantir estabilidade do processo;
+
+
+    •     maximizar a recuperação energética;
+
+
+    •     permitir controle operacional contínuo;
+
+
+    •     assegurar compatibilidade com o volume processado.
+                                                                                                  5
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                  VERSÃO 07_2026, 21 JULHO 2026
+    8.2. FRAÇÃO SECA
+
+
+Deverá ser tratada por processos térmicos, incluindo, mas não se restringindo a:
+
+
+    •     Incineração com recuperação energética;
+
+
+    •     Gaseificação;
+
+
+    •     Pirólise;
+
+
+    •     Tecnologias equivalentes.
+
+
+O sistema deverá:
+
+
+    •     Garantir operação contínua e estável;
+
+
+    •     Permitir controle automatizado do processo;
+
+
+    •     Assegurar aproveitamento energético da fração seca.
+
+
+
+
+    9. PRODUÇÃO E APROVEITAMENTO ENERGÉTICO
+
+A solução deverá contemplar sistemas de aproveitamento energético, incluindo, mas não se
+restringindo a:
+
+
+    •     Produção de biogás e/ou biometano;
+
+
+    •     Geração de energia elétrica;
+
+
+    •     Recuperação de energia térmica;
+
+
+Devendo assegurar:
+
+
+    •     Integração entre as rotas tecnológicas;
+
+
+    •     Estabilidade na produção energética;
+
+
+    •     Eficiência compatível com práticas de mercado.
+
+
+
+
+    10. SISTEMAS AUXILIARES E DE SUPORTE
+
+O empreendimento deverá incluir:
+
+                                                                                                 6
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                 VERSÃO 07_2026, 21 JULHO 2026
+    •     Sistemas de automação e controle operacional;
+
+
+    •     Instrumentação para monitoramento do processo;
+
+
+    •     Sistemas de segurança operacional;
+
+
+    •     Infraestrutura elétrica e utilidades;
+
+
+    •     Sistemas de combate a incêndio;
+
+
+A solução deverá garantir operação segura, contínua e eficiente.
+
+
+
+
+    11. DISPONIBILIDADE E CONFIABILIDADE
+
+A solução deverá ser projetada para garantir:
+
+
+    •     Alta disponibilidade operacional;
+
+
+    •     Redundância de sistemas críticos;
+
+
+    •     Facilidade de manutenção;
+
+
+    •     Continuidade do serviço público.
+
+
+
+
+    12. MANUTENÇÃO E OPERAÇÃO
+
+A PROPONENTE deverá prever:
+
+
+    •     Estratégias de manutenção preventiva e corretiva;
+
+
+    •     Plano operacional da planta;
+
+
+    •     Procedimentos de contingência;
+
+
+    •     Gestão de falhas operacionais.
+
+    13. FLEXIBILIDADE OPERACIONAL
+
+A solução deverá permitir:
+
+
+    •     Adaptação à variação na composição dos resíduos;
+
+
+    •     Ajustes operacionais ao longo do tempo;
+
+                                                                                                   7
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                   VERSÃO 07_2026, 21 JULHO 2026
+    •     Incorporação de melhorias tecnológicas.
+
+
+
+
+    14. COMPATIBILIDADE COM O CONTRATO
+
+A solução de engenharia deverá ser compatível com:
+
+
+    •     O LOTE ao qual a PROPONENTE esteja concorrendo;
+
+
+    •     Os indicadores de desempenho (kpis);
+
+
+    •     A proposta econômico-financeira (DRE);
+
+
+    •     O Plano de Trabalho apresentado.
+
+
+
+
+    15. RESPONSABILIDADE DA PROPONENTE
+
+A PROPONENTE será integralmente responsável por:
+
+
+    •     concepção da solução de engenharia;
+
+
+    •     desempenho técnico do sistema;
+
+
+    •     viabilidade operacional;
+
+
+    •     adequação às condições do EDITAL.
+
+
+
+
+    16. DISPOSIÇÕES FINAIS
+
+A solução apresentada deverá demonstrar:
+
+
+    •     Coerência técnica;
+
+
+    •     Viabilidade operacional;
+
+
+    •     Capacidade de atendimento integral do objeto da concessão.
+
+
+O Plano de Trabalho deverá apresentar nível de detalhamento suficiente para subsidiar a análise
+técnica da proposta pela Administração Pública.
+
+
+A apresentação de informações inconsistentes, insuficientes ou incompatíveis com os requisitos
+deste EDITAL poderá ensejar diligência ou desclassificação da proposta.
+
+                                                                                                  8
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                  VERSÃO 07_2026, 21 JULHO 2026
+

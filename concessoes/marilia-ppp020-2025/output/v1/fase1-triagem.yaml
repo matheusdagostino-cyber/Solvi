@@ -1,0 +1,51 @@
+# FASE1 — Etapa 0: Triagem e conferência
+# Projeto: marilia-ppp020-2025 | CP 020/2025 — Prefeitura de Marília/SP
+# Gerada em: 2026-08-16
+
+prazos:
+  sessao_abertura: 2026-09-16
+  limite_esclarecimento: 2026-09-11   # 5º dia anterior à sessão (Edital, item 7.1)
+  limite_impugnacao: 2026-09-11      # 3 dias úteis antes da sessão, art. 164 (Edital, item 8.2)
+  dias_uteis_restantes_em_16_08: 19  # até 11/09/2026, descontado o feriado de 07/09
+  avaliacao: "Prazo confortável para o volume (≈460 páginas): FASE1 + FASE2 + redação cabem na janela. Recomenda-se concluir FASE1 até 21/08 e a seleção da FASE2 até 28/08."
+
+atribuicao:  # arquivo → extrator
+  E1:  # edital principal
+    - { arquivo: "EDITAL -ASSINADO.pdf", paginas: 38, nota: "versão operativa assinada" }
+    - { arquivo: "CADERNO III - ANEXO I - MINUTA DE EDITAL.pdf", paginas: 36, nota: "minuta do estudo — E1 aponta divergências com a versão assinada" }
+    - { arquivo: "CADERNO III - ANEXO I.1 - MODELO DE CARTA DE CREDENCIAMENTO.pdf", paginas: 2 }
+    - { arquivo: "CADERNO III - ANEXO I.2 - MODELO DE DECLARAÇÃO DE EMPREGO DE MENOR.pdf", paginas: 2 }
+  E2:  # TR / cadernos de encargos
+    - { arquivo: "CADERNO III - ANEXO II - TERMO DE REFERÊNCIA.pdf", paginas: 49 }
+    - { arquivo: "CADERNO III - ANEXO II.1 – DIRETRIZES PLANO DE TRABALHO.pdf", paginas: 4 }
+    - { arquivo: "CADERNO III - ANEXO II.2 - DAS TECNOLOGIAS APLICADAS.pdf", paginas: 7 }
+    - { arquivo: "CADERNO III - ANEXO II.3 – DIRETRIZES TRATAMENTO E APROVEITAMENTO TECNOLÓGICAS DE TRATAMENTO TÉRMICO E BIODIGESTÃO.pdf", paginas: 16 }
+    - { arquivo: "CADERNO III - ANEXO II.4 – DAS DIRETRIZES DE ENGENHARIA DO EMPREENDIMENTO.pdf", paginas: 8 }
+    - { arquivo: "CADERNO III - ANEXO II.5 - DO PROGRAMA DE MONITORAMENTO AMBIENTAL DE ÁGUAS SUBTERRÂNEAS E AR DO SOLO.pdf", paginas: 3 }
+    - { arquivo: "CADERNO III - ANEXO II.6 - DAS METAS E OBRIGAÇÕES DA CONCESSÃO ADMINISTRATIVA E INDICADORES DE DESEMPENHO.pdf", paginas: 7 }
+    - { arquivo: "CADERNO III - ANEXO II.7 – DAS DIRETRIZES AMBIENTAIS BÁSICAS.pdf", paginas: 15 }
+  E3:  # minuta do contrato
+    - { arquivo: "CADERNO III - ANEXO III - MINUTA DO CONTRATO.pdf", paginas: 53 }
+    - { arquivo: "CADERNO III - ANEXO III.1 - LISTA DE BENS REVERSÍVEIS.pdf", paginas: 5 }
+    - { arquivo: "CADERNO III - ANEXO III.2. - MATRIZ DE RISCOS DO CONTRATO.pdf", paginas: 19 }
+  E4:  # anexos técnicos e econômicos / estudos
+    - { arquivo: "CADERNO I  - MODELAGEM TÉCNICO-OPERACIONAL.pdf", paginas: 91, nota: "estudo de viabilidade técnica" }
+    - { arquivo: "CADERNO II - MODELAGEM ECONÔMICO-FINANCEIRA.pdf", paginas: 70, nota: "tabelas financeiras — conferir no PDF nativo" }
+    - { arquivo: "CADERNO II - Anexo 1 - DEMONSTRATIVO DE RESULTADOS DO EXERCÍCIO DRE.xlsx", abas: 20, nota: "ler TODAS as abas (VfM, LOTE 1/2/3, Capex, Opex, DREs por rota, Tributação)" }
+    - { arquivo: "3 CADERNO III - MODELAGEM JURÍDICA.pdf", paginas: 19, nota: "estudo jurídico da modelagem" }
+    - { arquivo: "CADERNO III - ANEXO IV - PROPOSTA PREÇO, DRE, PLANILHA SINTÉTICA E CRITÉRIOS DE JULGAMENTO.pdf", paginas: 13, nota: "proposta comercial + critérios de julgamento" }
+
+nao_editalicios:  # fora da varredura E1–E4
+  - { arquivo: "docs/subsidios/comentarios-eleusis-marilia.docx", uso: "subsídio técnico Fase 2 [USO INTERNO]" }
+  - { arquivo: "docs/subsidios/706644.pdf", uso: "inteiro teor TCE-SP TC-001718.989.19-7 — determinações anteriores" }
+  - { arquivo: "docs/subsidios/anexo-i-ure-joinville.docx", uso: "anexo de peça (Fase 3)" }
+  - { arquivo: "docs/subsidios/anexo-ii-fontes-bibliograficas-digestao.docx", uso: "anexo de peça (Fase 3)" }
+  - { arquivo: "docs/subsidios/anexo-iii-fontes-bibliograficas-gaseificacao.docx", uso: "anexo de peça (Fase 3)" }
+
+conferencia_anexos:
+  status: "sem faltantes identificados na triagem"
+  nota: "Conjunto recebido cobre Cadernos I, II (+ Anexo 1 xlsx) e III (Anexos I, I.1, I.2, II, II.1–II.7, III, III.1, III.2, IV). O E1 confirma na leitura integral a relação de anexos declarada no edital e reporta qualquer referência a documento não presente."
+
+extracao:
+  metodo: "pdftotext -layout → docs/extraido/*.txt (todos os 20 PDFs com camada de texto; sem OCR)"
+  ressalva: "Seções tabulares (Cadernos I/II, Anexo IV, matriz de riscos) devem ser conferidas no PDF nativo pelos extratores; xlsx lido via openpyxl."

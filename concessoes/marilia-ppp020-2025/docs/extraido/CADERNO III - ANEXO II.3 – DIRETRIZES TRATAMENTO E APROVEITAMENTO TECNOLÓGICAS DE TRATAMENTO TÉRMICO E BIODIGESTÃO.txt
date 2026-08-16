@@ -1,0 +1,904 @@
+Caderno III
+Modelagem Jurídica
+
+ANEXO II.3 – Diretrizes
+Tratamento e
+Aproveitamento/Transformação
+Energética dos Resíduos Sólidos
+Mediante a Aplicação Das Rotas
+Tecnológicas De Tratamento
+Térmico e Biodigestão.
+Desenvolvimento:
+
+
+
+
+                                  1
+                       ANEXO II.3 – DIRETRIZES TRATAMENTO E
+     APROVEITAMENTO/TRANSFORMAÇÃO ENERGÉTICA DOS
+   RESÍDUOS SÓLIDOS MEDIANTE A APLICAÇÃO DAS ROTAS
+    TECNOLOGICAS TRATAMENTO TÉRMICO E BIODIGESTÃO.
+
+
+     INTRODUÇÃO
+O projeto a ser instalado é uma usina de reaproveitamento de energética dos resíduos sólidos
+domésticos (RSD) por meio tecnologias de valorização de resíduos, representa uma solução
+estratégica para os desafios ambientais, econômicos e sociais relacionados à gestão de resíduos.
+Ao transformar resíduos em ativos promove a sustentabilidade, a economia circular, a redução
+de impactos ambientais e principalmente o atendimento à Política Nacional de Resíduos Sólidos
+- PNRS, bem como incentiva a descarbonização.
+
+
+O Município de Marília NÃO tem preferência por tecnologias específicas, fornecedores
+determinados ou modelos técnicos pré-concebidos.
+
+
+O interesse público se materializa na obtenção do serviço de tratamento e valorização de
+resíduos com a menor contraprestação financeira possível e a diminuição do envio de resíduos
+para aterro sanitário, desde que mantidos os padrões de qualidade, conformidade legal e
+continuidade do serviço público.
+
+     1. OBJETO
+
+O presente Anexo estabelece as diretrizes técnicas e operacionais para o tratamento e
+aproveitamento energético dos resíduos sólidos domiciliares (RSD), mediante a aplicação de
+rotas tecnológicas, incluindo, mas não se restringindo a processos de biodigestão anaeróbica e
+tratamento térmico.
+
+     2. DIRETRIZ GERAL
+
+A CONCESSIONÁRIA deverá adotar solução tecnológica capaz de promover:
+
+
+     •      redução do envio de resíduos ao aterro sanitário;
+
+
+     •      valorização energética e/ou material dos resíduos;
+
+
+     •      atendimento à legislação ambiental aplicável;
+
+
+     •      eficiência operacional e sustentabilidade do sistema.
+
+
+
+
+                                                                                                          2
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA                                                  134
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                    VERSÃO 07_2026, 21 JULHO 2026
+A escolha da tecnologia será de responsabilidade da PROPONENTE, observadas as disposições
+do material editalício contido nos CADERNO I - MODELAGEM TÉCNICO-OPERACIONAL;
+CADERNO II - MODELAGEM ECONÔMICO-FINANCEIRA; CADERNO III - MODELAGEM JURÍDICA,
+bem como todos os seus anexos.
+
+
+
+
+     3. CARÁTER REFERENCIAL DAS SOLUÇÕES
+
+Os fluxogramas, parâmetros operacionais e configurações tecnológicas apresentados neste
+Anexo possuem caráter referencial, ilustrativo e não vinculante, tendo sido elaborados para fins
+de modelagem e definição de requisitos mínimos.
+
+
+As PROPONENTES poderão apresentar soluções alternativas, incluindo, mas não se restringindo
+a, diferentes arranjos tecnológicos, desde que:
+
+
+     •      atendam aos requisitos mínimos estabelecidos no EDITAL;
+
+
+     •      comprovem viabilidade técnica e econômica;
+
+
+     •      garantam desempenho igual ou superior ao previsto;
+
+
+     •      estejam em conformidade com a legislação vigente.
+
+
+
+
+     4. ESTRUTURA MÍNIMA DO SISTEMA
+
+A solução proposta deverá contemplar, no mínimo:
+
+
+
+
+     4.1. RECEPÇÃO E PREPARAÇÃO
+
+
+     •      Implantação de unidade de recepção de resíduos, incluindo galpão;
+
+
+     •      Sistemas de segregação e trituração;
+
+
+     •      Controle de odores e impactos ambientais.
+
+
+
+
+     4.2. SEGREGAÇÃO DOS RESÍDUOS
+
+
+     •      Separação em fração úmida e fração seca, ou solução equivalente;
+
+                                                                                                          3
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA                                                  134
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                    VERSÃO 07_2026, 21 JULHO 2026
+     •      Recuperação de materiais recicláveis, quando aplicável;
+
+
+     •      Produção de fração com características adequadas ao tratamento subsequente.
+
+
+
+
+     4.3. TRATAMENTO DA FRAÇÃO ÚMIDA
+
+
+     •      Aplicação de processos biológicos, incluindo, mas não se restringindo à biodigestão
+            anaeróbica;
+
+
+     •      Produção de biogás, biometano ou outros subprodutos;
+
+
+     •      Destinação ambientalmente adequada do digestato.
+
+
+
+
+     4.4. TRATAMENTO DA FRAÇÃO SECA
+
+
+     •      Aplicação de processos térmicos, incluindo, mas não se restringindo a incineração,
+            gaseificação, pirólise ou tecnologias equivalentes;
+
+
+     •      Recuperação energética;
+
+
+     •      Gestão adequada de cinzas e rejeitos.
+
+
+
+
+     4.5. DESTINAÇÃO DE REJEITOS
+
+
+Os rejeitos resultantes deverão ser devidamente acondicionados e disponibilizados, conforme
+disposto no EDITAL, TERMO DE REFEÊNCIA, para transporte e disposição final.
+
+
+
+
+     5. DESEMPENHO MÍNIMO
+
+A solução proposta deverá atender, no mínimo:
+
+
+     •      capacidade compatível com a totalidade dos RSD gerados ao longo da concessão;
+
+
+     •      atendimento aos indicadores de redução de envio ao aterro sanitário definidos para o
+            LOTE;
+
+
+                                                                                                            4
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA                                                    134
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                      VERSÃO 07_2026, 21 JULHO 2026
+     •      conformidade com padrões ambientais aplicáveis;
+
+
+     •      estabilidade operacional e continuidade do serviço.
+
+
+
+
+     6. FLEXIBILIDADE TECNOLÓGICA
+
+Será permitida a adoção de tecnologias distintas das descritas neste Anexo, incluindo, mas não
+se restringindo a soluções inovadoras, desde que:
+
+
+     •      possuam comprovação de operação em escala comercial;
+
+
+     •      apresentem desempenho comprovado;
+
+
+     •      não impliquem riscos relevantes à execução do contrato.
+
+
+
+
+     7. PARÂMETROS REFERENCIAIS
+
+Os parâmetros técnicos apresentados neste Anexo constituem referências de mercado, não
+sendo obrigatórios, devendo ser interpretados como diretrizes para avaliação das propostas.
+
+
+
+
+     8. RESPONSABILIDADE DA PROPONENTE
+
+A PROPONENTE será integralmente responsável por:
+
+
+     •      definição da solução tecnológica;
+
+
+     •      desempenho do sistema;
+
+
+     •      viabilidade econômico-financeira;
+
+
+     •      obtenção das licenças necessárias;
+
+
+     •      atendimento às normas ambientais e regulatórias.
+
+
+
+
+     9. DISPOSIÇÕES FINAIS
+
+A solução proposta deverá ser compatível com:
+
+
+     •      O LOTE ao qual a PROPONENTE esteja concorrendo;
+
+
+
+                                                                                                            5
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA                                                    134
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                      VERSÃO 07_2026, 21 JULHO 2026
+     •      O Plano de Trabalho apresentado;
+
+
+     •      A Demonstração de Resultados do Exercício (DRE);
+
+
+     •      Os indicadores de desempenho estabelecidos no EDITAL.
+
+
+
+
+     10. DIRETRIZES TECNOLÓGICAS DE REFERÊNCIA E FLEXIBILIDADE PARA
+         PROPOSIÇÃO
+
+As diretrizes, fluxogramas, especificações técnicas e parâmetros operacionais apresentados
+neste documento têm caráter REFERENCIAL E NÃO LIMITANTE, representando uma modelagem
+conceitual elaborada para fins de estudo de viabilidade e estabelecimento de requisitos mínimos
+para o empreendimento.
+
+
+ARRANJOS TÉCNICOS ALTERNATIVOS
+
+
+1.1. As licitantes poderão propor qualquer arranjo técnico, configuração tecnológica ou modelo
+operacional distinto dos apresentados neste documento, desde que:
+
+
+a) Resultem em redução comprovada da contraprestação municipal em comparação com os
+modelos de referência;
+
+
+b)   Atendam            ou     superem           as     metas   técnicas   mínimas   estabelecidas          (capacidade      de
+processamento, redução de desvio para aterro, conformidade ambiental);
+
+
+c) Mantenham a qualidade e continuidade dos serviços públicos essenciais;
+
+
+d) Apresentem viabilidade técnico-operacional demonstrada.
+
+
+e) Garantam a conformidade com toda a legislação ambiental, sanitária e de segurança
+aplicável;
+
+
+f) Demonstrem viabilidade técnica e econômica ao longo dos 30 anos de contrato;
+
+
+g) Apresentem vantagens comparativas em eficiência, economicidade e sustentabilidade.
+
+
+
+
+     11. OS ARRANJOS TECNOLÓGICOS ESTUDADO
+
+O empreendimento engloba 3 etapas bem definidas:
+
+
+Etapa 1 – Segregação do RSD
+
+
+
+                                                                                                                              6
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA                                                                     134
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                                       VERSÃO 07_2026, 21 JULHO 2026
+Etapa 2 – Biodigestão da fração úmida do RSD
+
+
+Etapa 3 – Tratamento Térmico da fração seca do RSD
+
+
+
+
+                                                             Figura 2 – Arranjo Tecnológico
+
+
+O empreendimento proposto deverá estar dimensionado para o recebimento e processamento
+de no 200 (duzentas) toneladas de resíduos sólidos domésticos por dia em regime de coleta de
+26 (vinte e seis) dias, da Cidade e Marília – SP e prever o aumento vegetativo da população.
+
+
+
+
+11.1. ETAPA 1 - SEGREGAÇÃO DO RSD
+
+
+1. A etapa para processamento do RSD compreende no processamento do RSD in natura em
+um combustível derivado de resíduos, com homogeneidade, umidade adequada e com alto poder
+calorífico.
+
+
+2. O resíduo sólido doméstico, contidos na baia de armazenamento serão transportados, por
+meio de esteiras transportadoras e levado a um sistema de trituração primário onde haverá a
+redução da granulometria do produto a dimensões entre 50 mm, processo que auxilia a redução
+da umidade e homogeneização da massa de resíduo, além de facilitar os próximos processos.
+
+
+3. Neste momento que o RSD é segregado mecanicamente, por intermédio de equipamentos
+específicos resultado e 2 (duas) frações: i.) seca e ii.) úmida.
+
+
+                                                                                                                                    7
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA                                                                            134
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                                              VERSÃO 07_2026, 21 JULHO 2026
+4. A fração úmida é encaminhada para o processo de Biodigestão, com o objetivo de gerar
+Biogás, Biometano, CO2, digestato.
+
+
+5. A fração seca pode ser encaminhada para o processo de tratamento térmico, com o objetivo
+de gerar energia elétrica.
+
+
+6. A fração seca, posteriormente o processo da trituração, os metais serão retirados do sistema
+por um ímã, no qual os resíduos triturados passam por uma correia onde o ímã automático em
+suspensão segrega os metais ferrosos para reciclagem.
+
+
+6. Por esteiras os resíduos sólidos, seguirão as próximas etapas de trituração para fragmentação
+do material a uma granulometria desejada. O material da trituração é transferido por gravidade.
+
+
+ESPECIFICAÇÕES TÉCNICAS DO PROCESSO DE SEGREGAÇÃO
+
+
+Eficiências Mínimas de Separação:
+
+
+     a) Recuperação de fração úmida para biodigestão: ≥85% do total de orgânicos presentes
+
+
+     b) Pureza da fração úmida: ≤10% de contaminantes inertes
+
+
+     c) Recuperação de fração seca para tratamento térmico: ≥80% do material combustível
+
+
+     d) Remoção de metais ferrosos: ≥95%
+
+
+Especificações do Combustível Derivado de Resíduos (CDR):
+
+
+     a) Poder Calorífico Inferior (PCI): ≥14 MJ/kg (base seca)
+
+
+     b) Umidade: ≤20%
+
+
+     c) Granulometria: 80-90% entre 20-80 mm
+
+
+     d) Teor de cloro: ≤ 1,0% (em massa na base seca)
+
+
+     e) Teor de enxofre: ≤0,5%
+
+
+     f) Teor de cinzas: ≤15%
+
+
+Controles de Processo:
+
+
+     a) Sistema automático de amostragem e análise em linha
+
+
+     b) Banco de testes para verificação periódica da qualidade do CDR
+
+
+                                                                                                        8
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA                                                134
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                  VERSÃO 07_2026, 21 JULHO 2026
+     c) Sistema de retorno para retratamento de material fora de especificação
+
+
+
+
+11.2. ETAPA 2 - BIODIGESTÃO DA FRAÇÃO ÚMIDA NO RSD
+
+
+Descrição do Fluxo Operacional do Sistema de Biodigestão da Fração Orgânica
+(FORSU)
+
+
+O presente fluxograma ilustra o processo operacional previsto para o tratamento da fração
+orgânica dos resíduos sólidos urbanos (FORSU) por meio de biodigestão anaeróbia,
+contemplando todas as etapas de recepção, preparação, digestão, valorização energética do
+biogás, upgrading para biometano, purificação de CO₂ e manejo do digestato. Este fluxo
+compõe o escopo de licenciamento ambiental da futura concessionária, integrando-se ao
+sistema geral de valorização de resíduos.
+
+
+
+
+                                           Figura 2 – Fluxograma do Processo de Biodigestão
+
+
+1. Recepção e Preparação do Material Úmido
+
+
+A operação inicia-se com a chegada da fração úmida, estimada em 100 toneladas por dia,
+composta majoritariamente por resíduos orgânicos provenientes de coleta seletiva ou de
+sistemas de segregação complementar. O material é direcionado à moega de recepção, onde
+ocorre o descarregamento e homogeneização inicial.
+
+
+
+
+                                                                                                                                    9
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA                                                                            134
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                                              VERSÃO 07_2026, 21 JULHO 2026
+Nesta etapa, podem ser realizados procedimentos primários de adequação do resíduo, tais
+como rompimento de sacarias e remoção de contaminantes grosseiros.
+
+
+2. Tanque de Equalização
+
+
+Após a recepção, o material úmido segue para o Tanque de Equalização, cuja função é
+promover a homogeneização da carga orgânica e equalizar o fluxo alimentado aos
+biodigestores. Essa etapa é fundamental para garantir estabilidade ao processo biológico,
+evitando variações bruscas na composição ou na taxa de alimentação.
+
+
+O tanque também funciona como ponto de tamponamento hidráulico, reduzindo riscos de
+sobrecarga orgânica e contribuindo para maior previsibilidade operacional.
+
+
+3. Biodigestão Anaeróbia
+
+
+Do tanque de equalização, a fração orgânica é encaminhada ao Biodigestor, onde ocorre a
+decomposição anaeróbia da matéria orgânica por ação de microrganismos, resultando na
+geração de biogás e digestato.
+
+
+O processo é conduzido em ambiente fechado, com controle de temperatura, agitação e
+tempo de retenção hidráulica, assegurando condições ideais para maximização da produção
+de biogás e estabilização do efluente.
+
+
+4. Produção e Pré-Tratamento do Biogás
+
+
+O biogás bruto gerado, com produção estimada de 10.873 m³/dia, é submetido inicialmente
+a etapas de pré-tratamento, que incluem:
+
+
+     •      remoção de umidade (condensados)
+
+
+     •      filtragem de impurezas sólidas
+
+
+     •      remoção de compostos corrosivos (H₂S, siloxanos)
+
+
+Este pré-tratamento prepara o biogás para a etapa seguinte de upgrading.
+
+
+5. Upgrading para Produção de Biometano
+
+
+Após o pré-tratamento, o biogás é direcionado ao sistema de upgrading, que utiliza
+tecnologias como membranas, PSA (Pressure Swing Adsorption) ou lavagem química para
+concentrar o metano e remover o dióxido de carbono.
+
+
+O processo gera:
+
+
+                                                                                                       10
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA                                               134
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                 VERSÃO 07_2026, 21 JULHO 2026
+     •      Biometano, com produção estimada em 5.526 Nm³/dia, atendendo aos padrões de
+            qualidade para uso veicular, usos industriais ou injeção em gasodutos conforme a
+            regulamentação da ANP
+
+
+     •      CO₂ de alta pureza, subproduto do upgrading
+
+
+O biometano pode ser comprimido ou armazenado, integrando-se às rotas energéticas da
+unidade.
+
+
+6. Purificação e Aproveitamento do CO₂
+
+
+O CO₂ removido no processo de upgrading é submetido a sistemas de:
+
+
+     •      polimento final,
+
+
+     •      secagem,
+
+
+     •      remoção de oxigênio residual,
+
+
+     •      compressão e purificação.
+
+
+A vazão prevista de CO₂ purificado é de 5 toneladas por dia, podendo ser destinada a usos
+industriais,        refrigeração,            fabricação      de   bebidas   ou   aplicações     agrícolas,          conforme
+regulamentação e demanda de mercado.
+
+
+O CO₂ é tratado como subproduto valorizável, contribuindo para a diversificação de receitas
+e para a redução das emissões globais.
+
+
+7. Manejo e Tratamento do Digestato
+
+
+O digestato gerado no biodigestor, com produção de aproximadamente 109,6 m³/dia, é
+encaminhado ao sistema de BLC – Biodigestor Lagoa Coberta, onde passa por etapa de
+estabilização adicional. Nesta etapa, ocorre:
+
+
+     •      redução da carga orgânica residual,
+
+
+     •      sedimentação de sólidos,
+
+
+     •      controle de emissões difusas,
+
+
+     •      digestão complementar.
+
+
+
+
+                                                                                                                                11
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA                                                                        134
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                                        VERSÃO 07_2026, 21 JULHO 2026
+Após esta etapa, o efluente segue para lagoa final de polimento, podendo ser direcionado
+para destinação agrícola ou outra forma de reaproveitamento, conforme viabilidade
+ambiental e regulatória.
+
+
+ESPECIFICAÇÕES TÉCNICAS DO PROCESSO DE BIODIGESTÃO
+
+
+Parâmetros de Processo:
+
+
+     a) Sistema: Digestão anaeróbia úmida ou semi-seca
+
+
+     b) Temperatura de operação: Mesofílica (35-40°C) ou Termofílica (50-55°C)
+
+
+     c) Tempo de Retenção Hidráulica (TRH): 20-30 dias
+
+
+     d) Carga Orgânica Volumétrica: 3-6 kg SV/m³.dia
+
+
+     e) Taxa de alimentação: Contínua ou semi-contínua
+
+
+Desempenho Esperado:
+
+
+     a) Produção específica de biogás: 80-120 Nm³/t SV alimentado
+
+
+     b) Teor de metano no biogás bruto: 55-65% CH₄
+
+
+     c) Redução de sólidos voláteis: 50-70%
+
+
+     d) Geração de digestato: 60-70% da massa alimentada (úmida)
+
+
+Especificações do Biometano:
+
+
+     a) Pureza de CH₄: ≥96,5%
+
+
+     b) Poder calorífico: ≥35 MJ/Nm³
+
+
+     c) Contaminantes máximos:
+
+
+     H₂S: ≤5 mg/Nm³
+
+
+     Siloxanos: ≤0,5 mg/Nm³
+
+
+     Umidade: ponto de orvalho ≤-40°C @ 7 bar
+
+
+     d) Conformidade: Resolução ANP 685/2017 e especificações da Rede de Gás Natural
+
+
+Tratamento do Digestato:
+
+
+                                                                                                      12
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA                                              134
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                VERSÃO 07_2026, 21 JULHO 2026
+     a) Sistema de separação sólido-líquido
+
+
+     b) Compostagem da fração sólida (opcional)
+
+
+     c) Tratamento da fração líquida para reuso ou lançamento conforme Resolução CONAMA
+            430/2011
+
+
+
+
+11.3. ETAPA 3 - TRATAMENTO TÉRMICO DA FRAÇÃO SECA
+
+
+A Etapa 3 compreende o processo de valorização energética da Fração Seca por meio de
+tratamento térmico, utilizando-se “Combustível Derivado de Resíduos (CDR)” previamente
+segregado e estabilizado no sistema global de processamento de resíduos sólidos urbanos. Esta
+etapa      integra         a    solução          tecnológica   destinada   à   recuperação      energética           adicional,
+complementando o tratamento biológico da fração orgânica.
+
+
+1. Alimentação do Sistema Térmico
+
+
+Após as etapas de segregação e preparação, a fração seca é direcionada à produção de CDR,
+com volume aproximado de 68 toneladas por dia, armazenado temporariamente em pulmão
+com capacidade de até 340 toneladas. O material apresenta características compatíveis para
+utilização em unidade térmica, incluindo granulometria, teor de umidade e poder calorífico
+ajustados às exigências de operação da caldeira.
+
+
+A alimentação da unidade térmica ocorre por meio de sistema fechado de dosagem, garantindo
+regularidade na taxa de entrada e evitando flutuações de carga térmica.
+
+
+2. Unidade de Tratamento Térmico
+
+
+O tratamento térmico é conduzido em sistema de conversão energética baseado em caldeira de
+alta eficiência, dimensionada para processar entre 16 e 25 toneladas por hora de CDR, conforme
+especificação do projeto executivo da futura concessionária.
+
+
+Durante o processo, o CDR é submetido à combustão controlada em ambiente tecnicamente
+gerido para assegurar:
+
+
+     •      estabilidade térmica,
+
+
+     •      máxima conversão energética do combustível,
+
+
+     •      redução de emissões atmosféricas,
+
+
+
+                                                                                                                               13
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA                                                                       134
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                                     VERSÃO 07_2026, 21 JULHO 2026
+     •      conformidade com padrões regulatórios aplicáveis.
+
+
+A queima do material gera vapor de alta pressão, utilizado para acionamento do conjunto
+turbina–gerador, produzindo energia elétrica.
+
+
+3. Geração de Energia Elétrica
+
+
+O vapor produzido na caldeira alimenta o sistema de turbina e gerador, com capacidade nominal
+de geração de aproximadamente 2,5 MW/h dependendo da tecnologia a ser aplicada, valor
+sujeito a detalhamento na fase de modelagem final e projeto executivo.
+
+
+Esta geração elétrica compõe parcela relevante da recuperação energética global do sistema,
+complementando a produção de biometano oriunda da biodigestão da fração orgânica.
+
+
+4. Gestão e Destinação das Cinzas
+
+
+O processo térmico resulta na formação de cinzas, em quantidade estimada de 3,4 toneladas
+por dia. Estas cinzas, consideradas resíduo resultante do processo de combustão, são
+encaminhadas para acondicionamento seguro e posterior disposição ambientalmente adequada.
+
+
+A destinação se dará conforme legislação aplicável, podendo incluir:
+
+
+     •      envio a aterro industrial classe II,
+
+
+     •      usos específicos em coprocessamento, caso demonstrada viabilidade técnica e
+            ambiental.
+
+
+5. Rejeitos Finais
+
+
+A operação térmica integra-se ao sistema geral de gerenciamento de resíduos, contribuindo
+para reduzir significativamente o volume final de rejeitos. Após o tratamento térmico e demais
+etapas do processo global, estima-se que o fluxo final de rejeitos destinados a aterro seja de 32
+toneladas por dia, representando substancial redução quando comparado ao volume inicial de
+resíduos recebidos.
+
+
+6. Função da Etapa Térmica no Sistema Integrado
+
+
+A Etapa 3 cumpre papel essencial no modelo integrado de valorização de resíduos,
+proporcionando:
+
+
+     •      incremento na recuperação energética da fração seca;
+
+
+     •      redução significativa da massa destinada a aterros sanitários;
+
+
+                                                                                                            14
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA                                                    134
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                      VERSÃO 07_2026, 21 JULHO 2026
+     •      diversificação das rotas de tratamento, mitigando riscos operacionais;
+
+
+     •      maior previsibilidade no balanço energético da unidade;
+
+
+     •      conformidade com exigências ambientais e diretrizes de PPPs para universalização da
+            gestão de resíduos.
+
+
+ESPECIFICAÇÕES TÉCNICAS DO PROCESSO DE TRATAMENTO TÉRMICO
+
+
+Parâmetros de Processo:
+
+
+     a) Sistema: Unidade de conversão térmica para queima controlada de CDR em caldeira de
+            grelha móvel ou leito fluidizado;
+
+
+     b) Faixa de Temperatura de Operação: 850–1.050°C na zona primária; até 1.100°C na zona
+            secundária (conforme legislação de emissões);
+
+
+     c) Tempo de Residência dos Gases: ≥ 2 segundos a ≥ 850°C (mínimo exigido para completa
+            oxidação);
+
+
+     d) Umidade do CDR: Máximo de 20–25% para garantir estabilidade térmica;
+
+
+     e) Poder Calorífico Inferior (PCI): Mínimo de 14 MJ/kg (em conformidade com parâmetro
+            contratual);
+
+
+     f) Taxa de Alimentação: Contínua, com controle automatizado de vazão e modulação
+            térmica;
+
+
+     h) Produção de Vapor: Entre 16 e 25 t/h, dependendo do PCI do CDR e ajuste operacional
+            da caldeira;
+
+
+     i) Sistema de Limpeza de Gases: Multietapas – ciclones, lavadores, filtros, catalisadores ou
+            equivalente, conforme exigência ambiental;
+
+
+     j) Controle Operacional: Monitoramento contínuo de O₂, CO, NOx, temperatura, opacidade
+            e pressão.
+
+
+Desempenho Esperado:
+
+
+     a) Eficiência de Conversão Energética: 20–30% (energia elétrica líquida gerada pela
+            turbina);
+
+
+     b) Geração Elétrica Estimada: Aproximadamente 2,5 MW médios, conforme capacidade
+            projetada;
+
+                                                                                                            15
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA                                                    134
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                      VERSÃO 07_2026, 21 JULHO 2026
+     c) Redução Mássica do CDR: 70–90% em relação à massa alimentada;
+
+
+     d) Geração de Cinzas: 3–7% da massa de CDR alimentada (3,4 t/dia conforme premissas
+            do projeto);
+
+
+     e) Fator de Capacidade da Unidade: ≥ 85% (em condições de operação normal);
+
+
+     f) Disponibilidade Operacional: ≥ 90% ao longo do ano (excetuadas manutenções
+            programadas);
+
+
+     g) Estabilidade Térmica: Variação máxima de ± 5% na taxa térmica ao longo da operação
+            contínua;
+
+
+     h) Eficiência de Destruição de Compostos Orgânicos: ≥ 99,9% (atendendo padrões
+            ambientais);
+
+
+     i) Conformidade Emissões Atmosféricas: Atendimento integral às normas estaduais e
+            federais, incluindo limites para particulados, NOx, SOx, dioxinas e furanos.
+
+
+
+
+                                                                                                             16
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA                                                     134
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                       VERSÃO 07_2026, 21 JULHO 2026
+

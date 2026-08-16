@@ -1,0 +1,2733 @@
+Caderno III
+Modelagem Jurídica
+
+Anexo II – Termo de
+Referência
+
+
+
+
+Desenvolvimento:
+
+
+
+
+                      1
+                            ANEXO II - TERMO DE REFERÊNCIA
+
+
+        1.          DA INTRODUÇÃO
+        O crescimento acelerado das cidades, bem como as mudanças no consumo dos cidadãos
+        são fatores comuns aos municípios, e vem gerando resíduos distintos daqueles que as
+        cidades produziam há trinta anos. Os Resíduos Sólidos Urbanos – RSU, no que confere a
+        sua composição, é diferente em quantidade, qualidade e volume comparado com o de
+        décadas anteriores.
+
+
+        A gestão de resíduos sólidos urbanos enfrenta desafios complexos que demandam
+        soluções técnicas e economicamente sustentáveis, alinhadas com a legislação vigente.
+
+
+        O Município de Marília busca implementar soluções comprovadas internacionalmente,
+        considerando as particularidades locais e as melhores práticas do setor.
+
+
+        Da totalidade dos municípios brasileiros, muitos têm conseguido soluções satisfatórias do
+        ponto de vista ambiental e econômico. Ao contrário de ser desanimador, os exemplos
+        conhecidos mostram que há soluções possíveis, mesmo diante de crises e transformações
+        existentes no País.
+
+
+        Na elaboração deste Termo de Referência e do Caderno I Modelagem Técnico-Operacional
+        procurou-se enfocar os principais aspectos que, direta ou indiretamente, influenciam na
+        execução dos serviços, e apresentar de forma resumida e objetiva, as características
+        próprias dos referidos serviços, as condicionantes mais significativas que estarão sujeitas
+        e a organização, metodologia e programas que a empresa deverá adotar.
+
+
+        Estão contidos, também, as matérias descritivas, complementadas com tabelas e outros
+        elementos, abrangendo todos os pré-requisitos contidos na licitação.
+
+
+
+
+        2.          DA JUSTIFICATIVA
+        O presente Termo de Referência, parte do EDITAL DE CONCORRÊNCIA nº __/2026, tem
+        por objeto a OUTORGA DE PARCERIA PÚBLICO-PRIVADA (PPP), na modalidade concessão
+        administrativa, para a PRESTAÇÃO DOS SERVIÇOS PÚBLICOS DE TRATAMENTO E
+        VALORIZAÇÃO              DOS      RESÍDUOS           SÓLIDOS   DOMÉSTICOS   COM       TECNOLOGIAS       DE
+        RECUPERAÇÃO ENERGÉTICA DAS FRAÇÕES SECA (GASEIFICAÇÃO/PIRÓLISE), ÚMIDA
+        (BIODIGESTÃO) E OUTRAS SOLUÇÕES ALTERNATIVAS PELO PERÍODO DE 30 (TRINTA)
+        ANOS.
+
+
+
+                                                                                                                 2
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                                VERSÃO 07_2026, 21 JULHO 2026
+        A Concessão Administrativa se regerá pelo disposto na Lei Federal n° 14.133, de 01 de
+        abril de 2021; Artigo 21 da Lei Federal nº 8.987, de 13 de fevereiro de 1995, no disposto
+        no artigo 31 da Lei Federal n° 9.074, de 7 de julho de 1995; Decreto n.º 8.428 de 02 de
+        abril de 2015; Lei Federal 11.079, de 30 de dezembro de 2004; Lei Federal nº.11.445 de
+        05 de janeiro de 2007 que estabelece as diretrizes nacionais para o Saneamento Básico;
+        Lei Federal nº. 12.305/2010, que instituiu a Política Nacional de Resíduos Sólidos (PNRS);
+        e Plano Municipal de Gestão Integrada de Resíduos Sólidos Lei 9.278, de 26 de junho de
+        2025.
+
+
+        O Município de Marília, atendendo a legislação vigente, elaborou o Plano Municipal de
+        Gestão Integrado de Resíduos Sólidos, realizando suas revisões periódicas com a revisão
+        e aprovação da Lei Municipal 9.278, de 26 de junho de 2025. A recente revisão do
+        documento define novas metas para a gestão dos resíduos sólidos, bem como traça
+        algumas premissas fundamentais para se alcançar a longo prazo, uma gestão sustentável
+        do ponto de vista econômico e ecologicamente adequada.
+
+
+        A definição de atitudes simples como a ampliação do sistema de compostagem dos
+        resíduos orgânicos e a reciclagem dos resíduos secos, bem como a introdução de
+        tecnologia para aproveitamento energético do RSU, reduz consideravelmente o volume
+        final dos resíduos enviados para o aterro sanitário, que é uma das principais metas que o
+        Município busca alcançar. Prolongar a vida útil de um aterro sanitário, fazendo com que
+        sua operação para a deposição de materiais (que não possíveis reciclar, tratar ou
+        aproveitar – “rejeitos”) seja prolongada no tempo, evita, a médio e longo prazo,
+        dispêndios extremamente onerosos com o licenciamento de novas áreas ou contratação
+        de empreendimento desse tipo fora do Município.
+
+
+        Considerando que a viabilidade do empreendimento está diretamente relacionada à
+        adequada definição e integração das tecnologias a serem empregadas, as quais envolvem
+        riscos inerentes ao investimento privado, bem como a necessidade de amortização dos
+        investimentos ao longo de período compatível com a sua magnitude, justifica-se a
+        celebração de contrato de longo prazo, apto a assegurar a sustentabilidade econômico-
+        financeira do projeto e a adequada prestação dos serviços.
+
+
+        O Município entende que atraindo investimentos privados será possível atingir metas
+        atualmente inalcançáveis e implantar um sistema de valorização de resíduos, atendendo,
+        assim, a legislação em vigor. Além do mais, estas medidas propiciam a manutenção do
+        meio ambiente ecologicamente equilibrado, atendendo a máxima constitucional prevista
+        no artigo 225, da Carta Magna.
+
+
+        A possibilidade de associação entre o setor privado e o setor público encontra arrimo na
+        Lei Federal nº. 12.305/2010, no seu artigo 7º, inciso VIII, e artigo 8º, inciso VI, conforme
+        abaixo:
+                                                                                                      3
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                      VERSÃO 07_2026, 21 JULHO 2026
+        Art. 7º - São objetivos da Política Nacional de Resíduos Sólidos:
+
+
+        (...)
+
+
+        VIII - articulação entre as diferentes esferas do poder público, e destas com o setor
+        empresarial, com vistas à cooperação técnica e financeira para a gestão integrada de
+        resíduos sólidos;
+
+
+        Art. 8º - São instrumentos da Política Nacional de Resíduos Sólidos, entre outros:
+
+
+        (...)
+
+
+        VI - a cooperação técnica e financeira entre os setores público e privado para o
+        desenvolvimento de pesquisas de novos produtos, métodos, processos e tecnologias de
+        gestão,        reciclagem,          reutilização,         tratamento   de    resíduos       e    disposição      final
+        ambientalmente adequada de rejeitos;
+
+
+        Constata-se que a lei instituidora do Plano Nacional de Resíduos Sólidos define como
+        instrumento para a obtenção de novos métodos e tecnologias para gestão dos resíduos a
+        união entre o poder público e o setor privado.
+
+
+        Trata-se da potencialização dos recursos públicos e privados com o afã de ampliar a
+        eficácia dos serviços de limpeza urbana, criando uma gestão integrada do processo de
+        resíduos sólidos, acumulando-se investimentos pecuniários imprescindíveis à consecução
+        de um novo sistema.
+
+
+        Evidentemente que o poder público, com seu orçamento regular, teria dificuldades em
+        realizar investimentos de tão grande monta, como por exemplo, para a implantação de
+        usina de tratamento e aproveitamento/transformação energética dos resíduos sólidos
+        urbanos        do     Município         de     Marília,     mediante   a    aplicação     das      tecnologias     de
+        GASEIFICAÇÃO/PIRÓLISE e/ou BIODIGESTÃO e/ou SOLUÇÕES ALTERNATIVAS.
+
+
+        Ao lado disto, é imprescindível o investimento pecuniário para o pretendido sistema
+        integrado, com a adoção de medidas e equipamentos mais modernos e evidentemente
+        mais onerosos, mas que em contrapartida trarão mais eficiência e qualidade ao sistema.
+        Tais medidas, certamente, não poderiam ser sustentadas exclusivamente pelo município
+        de MARÍLIA, dadas as grandes proporções que a estrutura delineada exigirá.
+
+
+        Neste contexto, a Municipalidade avaliou as possibilidades cabíveis para a consecução da
+        contratação de novo modelo de gestão dos resíduos sólidos, com ênfase para a
+        implantação de tecnologia de aproveitamento/transformação energética dos resíduos
+        sólidos domésticos, através da aplicação das tecnologias de GASEIFICAÇÃO/PIRÓLISE
+        e/ou BIODIGESTÃO e/ou SOLUÇÕES ALTERNATIVAS, com o pagamento de preço por
+
+                                                                                                                            4
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                                        VERSÃO 07_2026, 21 JULHO 2026
+        tonelada tratada, valor bens reversíveis e rejeitos, e verificou que a alternativa que melhor
+        se apresenta é a realização de uma concessão administrativa.
+
+
+        O empreendimento demanda a criação, edificação, ampliação ou modificação de
+        infraestrutura pública, necessitando de investimentos significativos do poder público para
+        o atendimento das necessidades da coletividade. Frente à necessidade de recursos, cabe
+        ao poder público atrair parcerias com capacidade tecnológica e de investimento para
+        viabilizar o empreendimento.
+
+
+        A concessão administrativa se insere nesta realidade por atrair o interesse do setor
+        privado em investir recursos em um sistema inovador no país, em consonância com a
+        realidade mundial de tratamento de resíduos sólidos.
+
+
+        Com recursos financeiros advindos do setor privado, cujo poder de investimento e
+        aplicação é imediato, torna-se possível a implantação do novo modelo, revolucionando as
+        técnicas atualmente aplicadas, bem como em pleno atendimento ao interesse público e
+        adequação à legislação vigente.
+
+
+        Considerando, por fim, a necessidade de gestão ágil, capaz de acompanhar as inovações
+        tecnológicas do setor e o aporte de recursos, a parceria entre o setor público e o setor
+        privado mostra-se o arranjo mais adequado para o empreendimento proposto.
+
+
+        Pelo exposto, com fundamentação nos estudos técnicos elaborados, que compõem o
+        processo administrativo de contratação, expressas estão as razões que levaram o poder
+        executivo do município de Marília a optar pela contratação de PARCERIA PÚBLICO-
+        PRIVADA (PPP), para outorga dos serviços descritos neste termo, na modalidade
+        concessão administrativa.
+
+
+
+
+        3.          DA CONCESSÃO ADMINISTRATIVA – PPP
+        A adoção do modelo de concessão administrativa para a implementação, operação e
+        manutenção de projetos envolvendo sistemas de valorização de resíduos sólidos
+        domésticos e destinação final de rejeitos dos resíduos sólidos provenientes das rotas
+        tecnológicas apresentadas, constitui matéria consolidada no E. Tribunal de Contas do
+        Estado de São Paulo.
+
+
+        Trata-se de objeto que é projetado para ser executado dentro de uma perspectiva de
+        longo prazo, acabando por assim associar o aporte de vultosos recursos financeiros, seja
+        no lado dos investimentos atribuídos ao parceiro privado, seja no que se refere às
+        contrapartidas do Poder Público.
+
+
+
+
+                                                                                                      5
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                      VERSÃO 07_2026, 21 JULHO 2026
+        Para este procedimento licitatório se impõe, para uma isonômica seleção do parceiro
+        privado, a disponibilidade de diferentes elementos de natureza técnico-financeira como
+        pressuposto de validade do próprio processo de escolha.
+
+
+        Na licitação destinada à contratação de PPP, a análise vai para além do primeiro plano,
+        demandando angulação aberta o bastante para dimensionar o empreendimento no
+        conjunto das parcerias em vigor, tendo em vista os impactos orçamentários e de
+        responsabilidade fiscal que o negócio pode gerar.
+
+
+        A tendência natural é que a geração de resíduos urbanos de uma cidade apresente curva
+        crescente, que com igual comportamento define a ampliação dos dispêndios operacionais,
+        notadamente para a manutenção de áreas de aterro, implicando, no limite, a saturação
+        do sistema. Tratando-se de atividades que se protraem no tempo, sem solução de
+        continuidade, a outorga dos serviços a particular sob o modelo da PPP representa
+        oportunidade de inflexão dessa curva.
+
+
+        A inclusão do tratamento com valorização dos resíduos, sistema que faz parte do conjunto
+        de investimentos da futura concessionária no âmbito da planta de tratamento dos resíduos
+        e que configura tecnologia de amplo conhecimento, é destinada ao enfrentamento de
+        questão crucial, consistente na destinação final e eliminação de rejeitos. Conseguir
+        prolongar a vida útil do aterro sanitário, fazendo com que sua operação para a deposição
+        de materiais (que não possíveis reciclar, tratar ou aproveitar – “rejeitos”) seja prolongada
+        no tempo, não precisando fazer uso de uma nova área para essa finalidade, é o cerne
+        desse modelo operacional, pois evita dispêndios extremamente onerosos a médio e longo
+        prazo à Municipalidade.
+
+
+        Ademais, todo o modelo proposto está alinhado com o plano revisado de saneamento
+        básico e de gestão integrada de resíduos sólidos vigentes no Município, bem como
+        demonstra viabilidade econômico-financeira do empreendimento, condição sem a qual
+        não se poderia ofertar ao mercado tal formato de investimento.
+
+
+        Sobre esse pressuposto específico, a proposta de concessão administrativa está
+        suficientemente justificada. Conforme análise do preceito do artigo 4º da Lei nº
+        11.079/04, que ao estabelecer as diretrizes da contratação de parcerias público-privada
+        refere não só à responsabilidade fiscal (inciso IV), mas também à sustentabilidade
+        financeira e vantagem socioeconômica do projeto (inciso VII), resta demonstrado pelos
+        estudos aqui integrantes que no prazo de vigência pactuado a parceria possibilitará a
+        amortização de investimentos e o adimplemento de metas, conforme condições de
+        mercado (do lado do investidor, taxa de retorno do investimento e, do lado do Município,
+        “value for money”).
+
+
+
+
+                                                                                                      6
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                      VERSÃO 07_2026, 21 JULHO 2026
+        De igual modo, o grau de comprometimento da receita corrente líquida, assunto sobre o
+        qual o Poder Público não pode se esquivar no âmbito das PPPs, por força do artigo 28 da
+        Lei 11.079/04, estaria dentro do limite imposto, vejamos:
+
+
+        Em geral, grande parte das despesas com custeio envolvidas nos contratos de PPP já se
+        incluem no rol de despesas usuais da Administração. Assim, apenas devem ser
+        contabilizadas no limite de comprometimento da Receita Corrente Líquida (RCL), as
+        despesas de custeio envolvidas em contratos de PPP que excederem as despesas já
+        anteriormente praticadas pelo ente concedente.
+
+
+        Isso porque apenas as despesas excedentes às usualmente praticadas pela Administração
+        são aquelas autenticamente originadas em contratos de PPP, dando origem a um novo
+        comprometimento do orçamento público. As despesas que já são realizadas pelo Poder
+        Concedente com a prestação dos serviços não podem ser consideradas originadas (ou
+        melhor “derivadas”) do contrato de PPP. No caso específico do Município de Marília, a
+        prestação de serviços já é realizada por terceiros contratados na forma tradicional, e as
+        despesas derivadas desta contratação já se encontram inicialmente previstas e inscritas
+        no orçamento.
+
+
+        Nesse sentido, parecer no processo de consulta do Tribunal de Contas do Estado do Mato
+        Grosso do Sul no TC /7459/2019, sob a relatoria do Conselheiro Waldir Neves Barbosa:
+
+
+        EMENTA: CONSULTA – PARCERIAS PÚBLICO PRIVADAS – ARTIGO 28 DA LEI Nº
+        11.079/2004 – LIMITE DE COMPROMETIMENTO DO PERCENTUAL DA RECEITA CORRENTE
+        LÍQUIDA – FORMA DE CONTABILIZAÇÃO –                  COMPUTADAS AS DE CONSÓRCIO
+        EFETIVAMENTE NOVAS – CONTRIBUIÇÃO PARA O CUSTEIO DO SERVIÇO DE ILUMINAÇÃO
+        PÚBLICA – NÃO INCLUSÃO DA RECEITA CORRENTE LÍQUIDA.
+
+
+        Para efeitos de apuração do limite de comprometimento do percentual da Receita Corrente
+        Líquida (RCL), previsto no art. 28 da Lei nº 11.079/2004, ressalvado o que dispõe o artigo
+        25 do mesmo normativo, que confere à Secretaria do Tesouro Nacional prerrogativa de
+        edição de normas gerais relativas à consolidação das contas públicas aplicáveis aos
+        contratos de Parceria Público-Privada, devem ser computadas apenas as despesas
+        efetivamente novas, isto é, as que venham onerar adicionalmente o ente público a partir
+        da concessão da atividade nos casos em que as Parcerias Público Privadas (PPPs)
+        substituírem serviços já prestados pelo poder público.
+
+
+        Porém, isso só será viável se for possível identificar, ainda na fase de modelagem, o
+        montante de recursos aplicados pelo poder público na atividade a ser concedida. A
+        Administração Pública deve fazer uso de estudos de viabilidade para auferir a
+        sustentabilidade do serviço ou obra a ser concedido (Lei Federal n° 8.987/1995, art. 21),
+        sobretudo na identificação das despesas que onerem adicionalmente o Estado a partir da
+
+                                                                                                    7
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                    VERSÃO 07_2026, 21 JULHO 2026
+        concessão da atividade. É indispensável que, dos registros contábeis, resulte a
+        disponibilização de informações com elevado grau de clareza, sistematicidade e
+        desagregação. Se não for possível distinguir as despesas já incorridas pelo ente público
+        das despesas efetivamente produzidas a partir da delegação do serviço público ou da
+        atividade administrativa, por meio do contrato de parceria público-privada, deverão ser
+        contabilizadas no limite de comprometimento da RCL, sem qualquer distinção, todas as
+        despesas referentes aos projetos de PPPs contratados.
+
+
+        Neste modelo de PPP, por ser um contrato complexo, traz explícita o ANEXO III.2 –
+        CADERNO III - MATRIZ DE RISCO DO CONTRATO com reflexão dos principais riscos do
+        projeto. A fim de obter a maximização da eficiência econômica do contrato, alocou-se
+        cada risco à parte que tem melhor condição de gerenciá-lo: isto é, à parte que poderá
+        mitigá-lo, tomar as medidas para prevenir a ocorrência de eventos gravosos ou remediar
+        as suas consequências, e incentivar a realização dos eventos benéficos relacionados a tal
+        risco, tudo isso com o menor custo possível. Os riscos foram alocados à parte que a um
+        custo mais baixo pode reduzir as chances do evento indesejável se materializar ou de
+        aumentar as chances do evento desejável ocorrer. Esse critério leva em conta a
+        capacidade das partes de adotar ações preventivas para evitar eventos indesejáveis ou
+        incentivar a ocorrência dos eventos desejáveis.
+
+
+        Portanto, o modelo proposto, embora com os estudos representativos realizados nos
+        Caderno I - Modelagem Técnico-Operacional, Caderno II - Modelagem Econômico-
+        Financeira e Caderno III - Modelagem Jurídica, especialmente àquele que define modelo
+        econômico-financeiro e plano de negócios, permite que a concessionária defina com a
+        autonomia característica que esse tipo de negócio exige, o modo de gestão para o
+        empreendimento que atenda aos seus interesses, bem como a preservação do interesse
+        público.
+
+
+
+
+        4.          DO OBJETO DA CONCESSÃO
+        O objeto da presente licitação é a OUTORGA DE PARCERIA PÚBLICO-PRIVADA (PPP), na
+        modalidade de Concessão Administrativa, destinada à PRESTAÇÃO DOS SERVIÇOS
+        PÚBLICOS            DE      TRATAMENTO               E   VALORIZAÇÃO   DOS     RESÍDUOS             SÓLIDOS
+        DOMICILIARES DO MUNICÍPIO DE MARÍLIA, MEDIANTE TECNOLOGIAS DE
+        RECUPERAÇÃO MATERIAL E ENERGÉTICA, DAS FRAÇÕES SECA E ÚMIDA E/OU
+        OUTRAS SOLUÇÕES ALTERNATIVAS PELO PRAZO DE 30 (TRINTA) ANOS.
+
+
+        Os serviços compreendem o recebimento dos resíduos sólidos domiciliares na área de
+        transbordo, segregação mecânica e trituração dos resíduos, promovendo a separação das
+        frações orgânica (úmida) e seca, para posterior encaminhamento às respectivas rotas
+        tecnológicas propostas pela CONCESSIONÁRIA.
+
+                                                                                                                  8
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                                VERSÃO 07_2026, 21 JULHO 2026
+        Os rejeitos gerados pelas rotas tecnológicas deverão ser disponibilizados pela
+        CONCESSIONÁRIA em local apropriado para carregamento, permanecendo o transporte
+        e a disposição final sob responsabilidade exclusiva da Administração Municipal ou de
+        terceiros por ela contratados, não integrando o objeto da presente concessão.
+
+
+        A LICITANTE vencedora deverá constituir Sociedade de Propósito Específico (SPE), na
+        forma da legislação vigente, para assinatura e execução do Contrato de Concessão.
+
+
+        A presente contratação tem por objetivo estabelecer novos padrões de qualidade,
+        eficiência operacional e sustentabilidade ambiental para o tratamento dos resíduos sólidos
+        urbanos, permitindo a adoção de soluções tecnológicas inovadoras, flexíveis e adaptáveis
+        às condições locais, observados os princípios da economicidade, da eficiência e da Política
+        Nacional de Resíduos Sólidos.
+
+
+        Serão inabilitadas as propostas que não contemplem tecnologias de valorização dos
+        resíduos, com recuperação material e/ou energética, em conformidade com os princípios,
+        objetivos e diretrizes estabelecidos pela Lei Federal nº 12.305/2010 (Política Nacional de
+        Resíduos Sólidos) e o Plano Nacional de Resíduos Sólidos – PLANARES, instituído pelo
+        Decreto Federal nº 11.043, de 13 de abril de 2022.
+
+
+        A descrição dos serviços constante deste Termo de Referência estabelece os requisitos
+        mínimos         de    desempenho             e       de   execução   contratual,     cabendo         às     LICITANTES
+        desenvolverem suas soluções técnicas, desde que atendidos todos os requisitos
+        estabelecidos neste Edital e seus Anexos.
+
+        4.1           VALOR DE REFERÊNCIA DA CONTRATAÇÃO
+
+        O valor máximo estimado para a presente contratação corresponde a R$ 114,00 (cento e
+        quatorze reais) por tonelada de resíduos sólidos domiciliares processados, equivalente ao
+        custo atualmente suportado pelo Município para disposição final dos resíduos em aterro
+        sanitário.
+
+
+        Considerando o volume estimado de 5.200 (cinco mil e duzentas) toneladas por mês, o
+        valor anual estimado da contratação corresponde a R$ 7.113.600,00 (sete milhões, cento
+        e treze mil e seiscentos reais), totalizando R$ 213.408.000,00 (duzentos e treze milhões,
+        quatrocentos e oito mil reais) durante o prazo contratual de 30 (trinta) anos.
+
+
+        Os     valores       acima       constituem           LIMITE    MÁXIMO       DE        ACEITABILIDADE              DAS
+        PROPOSTAS e comprovação de inalterabilidade da dotação originária com o objetivo de
+        demonstrar a não necessidade de suplementação orçamentária para garantir o
+        pagamento da concessão, pois o esperado é que as propostas que serão apresentadas
+        tenham valor inferior ao atualmente praticado.
+
+
+
+                                                                                                                             9
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                                           VERSÃO 07_2026, 21 JULHO 2026
+        Espera-se que as soluções tecnológicas propostas promovam redução dos custos
+        atualmente suportados pelo Município, especialmente mediante a diminuição da
+        quantidade de rejeitos destinados ao aterro sanitário e o aumento da recuperação material
+        e energética dos resíduos.
+
+        4.2           FORMAÇÃO DO PREÇO DA PROPOSTA
+
+        O Anexo IV do Caderno III – MODELAGEM JURÍDICA, traz Proposta Preço, DRE, Critérios
+        de Julgamento e Planilha Sintética, esta última com o objetivo de a Administração verificar
+        a vantajosidade de cada proposta, devendo cada licitante apresentar um único valor por
+        tonelada, resultado da soma do tratamento de 5.200 toneladas/mês (A) e do valor mensal
+        de bens reversíveis (B), ou seja, (A+B)/5.200, resultando no preço por tonelada que
+        deverá ser inserido nos lances do site do Comprasnet – https://www.gov.br/compras/pt-
+        br, esse valor deverá ser somado ao valor calculado do item (C), em que cada licitante
+        deverá levar em consideração o que as respectivas rotas tecnológicas propostas irão gerar
+        de rejeitos, para fins de cálculo, por parte da Administração, do respectivo valor de
+        disposição em aterro sanitário já contratado pela Prefeitura Municipal de Marília ao atual
+        preço de R$ 114,00 (cento e quatorze reais) por tonelada, utilizando-se a planilha sintética
+        para calcular o valor total, ou seja, (A+B+C)/5.200 toneladas, chegando-se assim a um
+        valor igual ou menor que R$ 114,00 (cento e quatorze reais) por tonelada.
+
+
+        O referido valor possui caráter meramente estimativo, tendo sido calculado para fins de
+        definição de parâmetros de referência para a licitação, não constituindo, em qualquer
+        hipótese, garantia de faturamento mínimo ou obrigação de pagamento integral por parte
+        do PODER CONCEDENTE.
+
+
+        A remuneração da CONCESSIONÁRIA observará os critérios estabelecidos neste Termo
+        de Referência, no EDITAL e na minuta do CONTRATO, especialmente no ANEXO IV –
+        CADERNO III – MODELAGEM JURÍDICA, estando vinculada à efetiva prestação dos
+        serviços, aos volumes processados e aos níveis de desempenho contratualmente
+        definidos.
+
+
+        Os valores efetivamente devidos pelo PODER CONCEDENTE poderão variar ao longo da
+        execução contratual, em função de fatores como:
+
+
+    •     (i) variação da quantidade de resíduos processados;
+
+
+    •     (ii) desempenho operacional da CONCESSIONÁRIA;
+
+
+    •     (iii) aplicação dos mecanismos de reajuste e revisão contratual;
+
+
+    •     (iv) eventuais receitas acessórias que impactem a modicidade da contraprestação, nos
+          termos do CONTRATO.
+
+                                                                                                      10
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                      VERSÃO 07_2026, 21 JULHO 2026
+        A despesa do Município é justamente o pagamento do (a)preço/tonelada tratada, (b)valor
+        bens reversíveis e (c) disposição de rejeitos – contratos em vigência celebrados com a
+        Administração.
+
+        4.3   DO MODELO                         DE     REMUNERAÇÃO   E   LIBERDADE        DE     PROPOSIÇÃO
+        COMERCIAL
+
+        Cada licitante deverá estruturar sua proposta comercial com base em um modelo de
+        remuneração integral, considerando todas as receitas potenciais advindas de sua
+        operação, observados os critérios contidos no ANEXO IV do CADERNO III – MODELAGEM
+        JURÍDICA.
+
+
+        4.1.1. Fontes de Receita Elegíveis para Composição do Modelo:
+
+
+        As propostas poderão considerar, incluindo, mas não se limitando às seguintes fontes de
+        receita, desde que compatíveis com o objeto da concessão e autorizadas pelo Poder
+        Concedente quando exigido:
+
+
+        a)            preço tonelada tratada mensal do poder concedente;
+
+
+        b)            valor bens reversíveis;
+
+
+        c)            venda de materiais segregados (papel, plástico, metais, vidro);
+
+
+        d)            comercialização de energia elétrica gerada, seja para o sistema interligado (sin)
+        ou por meio de contratos bilaterais;
+
+
+        e)            comercialização de biometano, co2, biogás ou outros combustíveis gasosos
+        produzidos para órgãos públicos ou privados;
+
+
+        f)            comercialização de créditos de carbono (CO₂ evitado) ou outros ativos
+        ambientais;
+
+
+        g)            comercialização de combustível sustentável de aviação (SAF) ou outros
+        biocombustíveis;
+
+
+        h)            receitas com subprodutos (composto orgânico, digestato, etc.);
+
+
+        i)            comercialização de combustível derivados de resíduos (CDR);
+
+
+        j)            qualquer outra receita acessória, complementar ou alternativa identificada pela
+        licitante.
+
+
+        4.1.2. Requisitos Mínimos para as Propostas:
+
+
+        Apesar da liberdade de modelagem, todas as soluções propostas deverão:
+                                                                                                             11
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                             VERSÃO 07_2026, 21 JULHO 2026
+        a) priorizar a redução da disposição final de resíduos em aterro sanitário, em
+        conformidade com a política nacional de resíduos sólidos, constituindo requisito mínimo
+        de desempenho contratual e não critério de classificação econômica das propostas.
+
+
+        b) garantir a sustentabilidade técnica e financeira do empreendimento por 30 anos;
+
+
+        b) manter a qualidade dos serviços conforme especificações técnicas;
+
+
+        c) observar a legislação ambiental, trabalhista e tributária aplicável;
+
+
+        d) incluir matriz de riscos ambientais detalhada.
+
+        4.4           DAS GARANTIAS
+
+        4.2.1 Garantia Da Proposta
+
+
+        a) Como condição de participação no certame, os LICITANTES deverão prestar GARANTIA
+        DE PROPOSTA, nos termos do artigo 58 da Lei Federal nº 14.133/2021, destinada a
+        assegurar a manutenção da proposta apresentada durante o período de sua validade e o
+        cumprimento das obrigações assumidas até a assinatura do CONTRATO.
+
+
+        b) O valor da GARANTIA DE PROPOSTA corresponderá a 1% (um por cento) do valor
+        estimado da contratação.
+
+
+        c) A GARANTIA DE PROPOSTA poderá ser prestada em qualquer das modalidades
+        admitidas pela legislação vigente, incluindo:
+
+
+        I – caução em dinheiro ou em títulos da dívida pública;
+
+
+        II – seguro-garantia;
+
+
+        III – fiança bancária.
+
+
+        d) A garantia deverá permanecer válida por período não inferior ao prazo de validade da
+        proposta, acrescido de 90 (noventa) dias.
+
+
+        e) A GARANTIA DE PROPOSTA será executada nas hipóteses de retirada injustificada da
+        proposta, recusa do LICITANTE vencedor em assinar o CONTRATO, não constituição da
+        Sociedade de Propósito Específico – SPE, quando exigida, ou descumprimento das
+        obrigações previstas neste Termo de Referência e Anexos.
+
+
+        f) A garantia prestada pelos LICITANTES não vencedores será liberada após a
+        homologação do resultado da licitação, observadas as disposições deste Termo de
+        Referência e Anexos.
+
+
+
+                                                                                                      12
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                      VERSÃO 07_2026, 21 JULHO 2026
+        4.2.2 Garantia De Execução Do Contrato
+
+
+        a) Como condição prévia para a assinatura do CONTRATO, a LICITANTE VENCEDORA a
+        CONCESSIONÁRIA ou o CONSÓRCIO vencedor deverá prestar GARANTIA DE EXECUÇÃO
+        CONTRATUAL em favor da PREFEITURA MUNICIPAL DE MARÍLIA, destinada a assegurar o
+        fiel cumprimento de todas as obrigações assumidas no âmbito da concessão.
+
+
+        b) O valor da GARANTIA DE EXECUÇÃO CONTRATUAL corresponderá a 5% (cinco por
+        cento) do valor anual estimado do CONTRATO, equivalente a R$ 356.680,00 (trezentos e
+        cinquenta e seis mil, seiscentos e oitenta reais), calculado sobre o montante anual
+        estimado de R$ 7.133.600,00 (sete milhões, cento e trinta e três mil e seiscentos reais).
+
+
+        c) A garantia deverá ser apresentada à PREFEITURA MUNICIPAL DE MARÍLIA antes da
+        assinatura do CONTRATO, permanecendo válida e eficaz durante toda a vigência
+        contratual, devendo ser renovada, substituída ou complementada pela CONCESSIONÁRIA
+        sempre que necessário, de forma a assegurar a manutenção integral do valor garantido.
+
+
+        d) Nos contratos com vigência superior a 12 (doze) meses, a CONCESSIONÁRIA deverá
+        comprovar anualmente a renovação ou manutenção da garantia contratual, apresentando
+        os respectivos documentos comprobatórios até 30 (trinta) dias antes do vencimento da
+        garantia vigente.
+
+
+        e) A GARANTIA DE EXECUÇÃO CONTRATUAL poderá ser prestada em qualquer das
+        modalidades previstas no artigo 96 da Lei Federal nº 14.133, de 1º de abril de 2021:
+
+
+        I – Caução em dinheiro ou em títulos da dívida pública emitidos sob a forma escritural,
+        registrados em sistema centralizado de liquidação e custódia autorizado pelo Banco
+        Central do Brasil e avaliados por seus valores econômicos, conforme regulamentação do
+        Ministério da Fazenda;
+
+
+        II – Seguro-garantia emitido por sociedade seguradora devidamente autorizada a operar
+        pela Superintendência de Seguros Privados – SUSEP;
+
+
+        III – Fiança bancária emitida por instituição financeira autorizada a funcionar pelo Banco
+        Central do Brasil.
+
+
+        f) A garantia responderá pelo inadimplemento das obrigações contratuais, multas,
+        penalidades, indenizações, danos causados ao PODER CONCEDENTE ou a terceiros, bem
+        como por quaisquer valores devidos pela CONCESSIONÁRIA em decorrência da execução
+        do CONTRATO.
+
+
+        g) Caso a garantia seja executada total ou parcialmente, a CONCESSIONÁRIA deverá
+        recompor seu valor integral no prazo máximo de 30 (trinta) dias contados da notificação
+
+                                                                                                    13
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                    VERSÃO 07_2026, 21 JULHO 2026
+        expedida pelo PODER CONCEDENTE, sob pena de aplicação das sanções contratuais
+        cabíveis.
+
+
+        h) A garantia somente será liberada ou restituída após o encerramento do CONTRATO e
+        a comprovação do integral cumprimento de todas as obrigações contratuais, legais,
+        regulatórias, ambientais, trabalhistas, previdenciárias e tributárias assumidas pela
+        CONCESSIONÁRIA.
+
+
+        4.2.3 Garantia De Pagamento
+
+
+        1 A GARANTIA DE PAGAMENTO das obrigações pecuniárias assumidas pelo PODER
+        CONCEDENTE poderá ser constituída isolada ou cumulativamente por meio dos seguintes
+        instrumentos:
+
+
+        I – Vinculação ou cessão fiduciária de quotas do Fundo de Participação dos Municípios –
+        FPM;
+
+
+        II – Vinculação ou cessão fiduciária de receitas provenientes da quota-parte municipal do
+        ICMS;
+
+
+        III – Constituição de Conta Vinculada ou Conta Garantia mantida em instituição financeira
+        oficial ou autorizada pelo Banco Central do Brasil;
+
+
+        IV – Constituição de Fundo Garantidor específico destinado ao suporte das obrigações da
+        CONCESSÃO ADMINISTRATIVA;
+
+
+        V – Vinculação de receitas oriundas da COSIP – Contribuição para Custeio da Iluminação
+        Pública, quando legalmente admitida;
+
+
+        VI – Seguro-garantia emitido por seguradora autorizada pela Superintendência de
+        Seguros Privados – SUSEP;
+
+
+        VII – Fiança bancária emitida por instituição financeira autorizada pelo Banco Central do
+        Brasil;
+
+
+        VIII – Receitas patrimoniais, recebíveis futuros, direitos creditórios ou outros ativos
+        passíveis de vinculação;
+
+
+        IX – Outros mecanismos de garantia admitidos pela legislação aplicável às Parcerias
+        Público-Privadas.
+
+
+        2. A estrutura definitiva das garantias de pagamento pelo Poder Concedente deverá
+        estarem integralmente constituídas e operacionais antes da assinatura do CONTRATO e
+
+
+                                                                                                    14
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                    VERSÃO 07_2026, 21 JULHO 2026
+        permanecer vigente, válida, eficaz e suficiente durante toda a vigência da CONCESSÃO
+        ADMINISTRATIVA, garantindo a viabilidade financeira do projeto.
+
+
+        3. As garantias deverão observar os princípios da suficiência, liquidez, exequibilidade,
+        estabilidade financeira e bancabilidade do empreendimento, de forma a assegurar o
+        cumprimento            tempestivo           das      obrigações   pecuniárias      assumidas          pelo      PODER
+        CONCEDENTE.
+
+
+        4. O montante das garantias deverá corresponder, em qualquer momento da vigência
+        contratual, a valor equivalente a, no mínimo, 06 (seis) contraprestações mensais médias
+        projetadas para os 12 (doze) meses subsequentes, sem prejuízo da constituição de
+        garantias complementares.
+
+
+        5. Na hipótese de utilização parcial ou total dos recursos vinculados à Conta Garantia,
+        Fundo Garantidor ou qualquer outro instrumento de garantia, o PODER CONCEDENTE
+        deverá promover sua recomposição integral no prazo máximo de 30 (trinta) dias contados
+        da respectiva utilização.
+
+
+        6. Verificada a insuficiência, perda de liquidez, perda de eficácia, redução substancial de
+        valor econômico ou qualquer circunstância que comprometa a efetividade das garantias
+        constituídas, o PODER CONCEDENTE deverá promover sua complementação ou
+        substituição no prazo máximo de 30 (trinta) dias.
+
+
+        7. As receitas e ativos vinculados fiduciariamente ao CONTRATO deverão permanecer
+        segregados e destinados prioritariamente ao adimplemento das obrigações pecuniárias
+        assumidas pelo PODER CONCEDENTE perante a CONCESSIONÁRIA.
+
+
+        8. As garantias constituídas poderão beneficiar, além da CONCESSIONÁRIA, os
+        financiadores, agentes fiduciários, debenturistas e demais credores vinculados ao
+        financiamento do empreendimento, observadas as disposições contratuais e legais
+        aplicáveis.
+
+
+        9. O atraso superior a 15 (quinze) dias no pagamento da contraprestação pública
+        autorizará a CONCESSIONÁRIA a promover a utilização dos recursos da Conta Garantia
+        ou a execução dos instrumentos garantidores constituídos, observadas as condições
+        estabelecidas no CONTRATO.
+
+
+        10. O atraso superior a 90 (noventa) dias consecutivos no pagamento da contraprestação
+        pública caracterizará Evento de Inadimplemento do PODER CONCEDENTE, facultando à
+        CONCESSIONÁRIA, sem prejuízo de outros direitos previstos no CONTRATO:
+
+
+        I – executar integralmente as garantias constituídas;
+
+
+                                                                                                                           15
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                                        VERSÃO 07_2026, 21 JULHO 2026
+        II – requerer a recomposição do equilíbrio econômico-financeiro do CONTRATO;
+
+
+        III – pleitear a aplicação dos mecanismos de resolução de disputas previstos
+        contratualmente;
+
+
+        IV – exercer os demais direitos assegurados pela legislação aplicável.
+
+
+        11.     Os     valores       pagos       em     atraso   pelo   PODER   CONCEDENTE          serão      corrigidos
+        monetariamente pelo IPCA ou outro índice que venha a substituí-lo, acrescidos de juros
+        moratórios legais e demais encargos previstos contratualmente, contados da data do
+        vencimento da obrigação até a data do efetivo pagamento.
+
+
+        12. A eventual insuficiência ou perda de eficácia das garantias constituídas não eximirá o
+        PODER CONCEDENTE da obrigação de manter a segurança financeira do CONTRATO,
+        devendo adotar imediatamente as medidas necessárias para restabelecimento da
+        suficiência das garantias e preservação da bancabilidade do empreendimento.
+
+        4.5           DO MODO DE DISPUTA
+
+        A presente licitação será processada mediante Modo de Disputa Aberto, nos termos da
+        legislação aplicável.
+
+
+        As LICITANTES apresentarão propostas iniciais e poderão ofertar lances públicos e
+        sucessivos durante a sessão pública, observadas as regras previstas deste Termo de
+        Referência e Anexos e na plataforma eletrônica utilizada para realização do certame.
+
+
+        Encerrada a fase competitiva, será classificada em primeiro lugar a LICITANTE que
+        apresentar a proposta mais vantajosa para a Administração Pública, observados os
+        critérios de julgamento estabelecidos neste Termo de Referência e no ANEXO IV do
+        Caderno Modelagem Jurídica.
+
+        4.6           DOS CRITÉRIOS DE JULGAMENTO
+
+        O julgamento das propostas observará o critério de MENOR PREÇO UNITÁRIO DA
+        TONELADA DE CADA LOTE, conforme metodologia definida no ANEXO IV.
+
+
+
+
+        Será considerada vencedora a LICITANTE que apresentar o MENOR PREÇO UNITÁRIO DA
+        TONELADA DE CADA LOTE, desde que atendidas todas as exigências de habilitação
+        jurídica, técnica, econômico-financeira e de regularidade fiscal previstas deste Termo de
+        Referência e Anexos.
+
+
+
+
+                                                                                                                      16
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                                   VERSÃO 07_2026, 21 JULHO 2026
+        4.7           DOS CRITÉRIOS DE DESEMPATE
+
+          Em caso de empate entre propostas classificadas pelo mesmo PREÇO UNITÁRIO DA
+          TONELADA, serão observados os critérios definidos no ANEXO IV.
+
+        4.8           DA VIGÊNCIA DA PARCERIA PÚBLICO-PRIVADA
+
+        Nos termos do artigo 5º, inciso IX, da Lei nº 11.079/2004, combinado com o artigo 35 da
+        Lei nº 8.987/1995 e artigo 103 da Lei nº 14.133/2021, ao término do prazo contratual de
+        30 (trinta) anos, todos os bens e equipamentos vinculados à prestação dos serviços objeto
+        desta PPP reverterão ao Município, em perfeitas condições de uso e operação, sem
+        qualquer ônus adicional."
+
+
+        O prazo de vigência do CONTRATO de Parceria Público-Privada será de 30 (trinta) anos,
+        contados a partir da data de assinatura, compreendendo as fases de implantação,
+        operação e manutenção dos serviços, nos termos estabelecidos neste Termo de
+        Referência, no EDITAL e na minuta do CONTRATO.
+
+
+        A fase de implantação deverá observar os prazos e condições definidos no cronograma
+        contratual, não implicando prorrogação automática do prazo total da concessão.
+
+
+        Observado o disposto no artigo 5º, inciso I, da Lei nº 11.079/2004, poderá o prazo de
+        vigência ser prorrogado uma única vez ou sucessivamente, até o limite máximo de 35
+        (trinta e cinco) anos, incluídas as prorrogações, desde que:
+
+
+          I – Haja prévia justificativa de interesse público;
+
+
+          II – Seja necessária para garantir a adequada continuidade da prestação do serviço
+          público;
+
+
+          III – se demonstre vantajosidade para a Administração Pública, em comparação a nova
+          licitação;
+
+
+          IV – Seja mantido o equilíbrio econômico-financeiro do contrato, nos termos do artigo
+          9º da Lei nº 8.987/1995 e do artigo 10 da Lei nº 11.079/2004.
+
+
+        A prorrogação dependerá de autorização expressa do Poder Concedente, mediante
+        decisão fundamentada, e deverá ser formalizada por meio de termo aditivo, respeitado o
+        limite máximo de 35 (trinta e cinco) anos, conforme previsto em lei.
+
+
+        Findo o prazo contratual, sem que haja nova prorrogação, o contrato será considerado
+        extinto, operando-se a reversão ao Município de todos os bens e equipamentos vinculados
+        à execução dos serviços, em perfeitas condições de uso, sem ônus adicional, nos termos
+        do artigo 35 da Lei nº 8.987/1995 e do artigo 5º, inciso IX, da Lei nº 11.079/2004.
+
+
+                                                                                                       17
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                       VERSÃO 07_2026, 21 JULHO 2026
+        5.          DA SOCIEDADE DE PROPÓSITO ESPECÍFICO – SPE
+        1. A LICITANTE VENCEDORA deverá constituir, previamente à assinatura do CONTRATO,
+        uma Sociedade de Propósito Específico – SPE, sob a forma de sociedade empresária, com
+        a finalidade exclusiva de implantar, operar, manter, explorar e gerir os serviços objeto da
+        presente CONCESSÃO ADMINISTRATIVA, nos termos do artigo 9º da Lei Federal nº
+        11.079/2004.
+
+
+        2. A SPE deverá possuir sede e administração no território nacional e terá como objeto
+        social exclusivo a execução das atividades relacionadas à CONCESSÃO ADMINISTRATIVA
+        objeto desta licitação.
+
+
+        3. Na hipótese de participação de licitantes reunidas em consórcio, a SPE deverá ser
+        constituída pelas empresas integrantes do consórcio vencedor, observando-se a
+        participação societária apresentada durante o certame licitatório.
+
+
+        4. A assinatura do CONTRATO ficará condicionada à comprovação da regular constituição
+        da SPE, bem como à apresentação de seus atos constitutivos devidamente registrados
+        perante os órgãos competentes.
+
+
+        5. A transferência do controle societário da SPE, a alteração de sua composição societária
+        ou qualquer operação que implique mudança do controle direto ou indireto da
+        CONCESSIONÁRIA dependerá de prévia e expressa anuência do PODER CONCEDENTE,
+        observadas as disposições da legislação aplicável e do CONTRATO.
+
+
+        6. A SPE poderá contratar financiamentos, emitir títulos, prestar garantias, celebrar
+        contratos com instituições financeiras e realizar os demais atos necessários à estruturação
+        econômico-financeira da CONCESSÃO ADMINISTRATIVA, observadas as disposições
+        contratuais e legais aplicáveis.
+
+
+        7. A SPE responderá integralmente perante o PODER CONCEDENTE pela execução dos
+        serviços concedidos, sem prejuízo da responsabilidade dos acionistas, controladores,
+        consorciados e demais garantidores, nos casos previstos em lei e no CONTRATO.
+
+
+        8. A constituição da SPE não eximirá seus controladores das obrigações assumidas
+        durante o processo licitatório, especialmente quanto à manutenção das condições de
+        habilitação, qualificação técnica e capacidade econômico-financeira exigidas no EDITAL.
+
+
+        9. A SPE poderá constituir garantias em favor de financiadores e agentes financiadores
+        do empreendimento, inclusive mediante cessão fiduciária de direitos emergentes da
+        CONCESSÃO             ADMINISTRATIVA,                observadas   as   disposições     da     Lei     Federal   nº
+        11.079/2004, da Lei Federal nº 8.987/1995 e do CONTRATO.
+
+                                                                                                                        18
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                                     VERSÃO 07_2026, 21 JULHO 2026
+        6.          DO REAJUSTE, DAS REVISÕES E DO REEQUILÍBRIO
+                    ECONÔMICO-FINANCEIRO
+        6.1           DO REAJUSTE
+
+        5.1.1 Os preços inicialmente contratados somente poderão sofrer reajuste após 12 (doze)
+        meses, contados da data do Orçamento Estimado nos termos do Artigo 92, § 3º da Lei
+        Federal n.º 14.133/21, para reposição de eventual perda inflacionária, mediante
+        requerimento da CONTRATADA, pelo índice do IPCA ou outro que vier a substituí-lo a fim
+        de manter o valor real de mercado.
+
+
+        5.1.2.           O          requerimento                 deverá         ser        protocolado              no          site:
+        www.marilia.1doc.com.br/atendimento                          ,   será    apreciado       pelos      setores          técnicos
+        competentes e, ao final decidido pelo Gestor do Contrato.
+
+
+        5.1.3. Nos reajustes subsequentes ao primeiro, o interregno mínimo de um ano será
+        contado a partir dos efeitos financeiros do último reajuste.
+
+
+        5.1.4. No caso de atraso ou não divulgação do(s) índice(s) de reajustamento, o
+        CONTRATANTE pagará à CONTRATADA a importância calculada pela última variação
+        conhecida, liquidando a diferença correspondente tão logo seja(m) divulgado(s) o(s)
+        índice(s) definitivo(s).
+
+
+        5.1.5.      Nas      aferições       finais,     o(s)     índice(s)     utilizado(s)    para      reajuste          será(ão),
+        obrigatoriamente, o(s) definitivo(s).
+
+
+        5.1.6. Caso o(s) índice(s) estabelecido(s) para reajustamento venha(m) a ser extinto(s)
+        ou de qualquer forma não possa(m) mais ser utilizado(s), será(ão) adotado(s), em
+        substituição, o(s) que vier(em) a ser determinado(s) pela legislação então em vigor.
+
+
+        5.1.7. Na ausência de previsão legal quanto ao índice substituto, as partes elegerão novo
+        índice oficial, para reajustamento do preço do valor remanescente, por meio de termo
+        aditivo.
+
+        6.2           DA REVISÃO ORDINÁRIA
+
+        5.2.1 O preço por tonelada, o valor dos bens reversíveis e as demais condições econômico-
+        financeiras do CONTRATO serão submetidos à revisão ordinária a cada 5 (cinco) anos,
+        contados da Data de Eficácia do CONTRATO, com a finalidade de verificar a adequação
+        das     premissas          operacionais,             financeiras,   tributárias,    ambientais          e    regulatórias
+        originalmente estabelecidas, preservando-se o equilíbrio econômico-financeiro da
+        CONCESSÃO ADMINISTRATIVA.
+
+
+
+                                                                                                                                  19
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                                            VERSÃO 07_2026, 21 JULHO 2026
+        6.3           DA REVISÃO EXTRAORDINÁRIA
+
+        5.3.1 Os valores do preço por tonelada, o valor dos bens reversíveis e as demais condições
+        econômico-financeiras do CONTRATO poderão ser revistos extraordinariamente, a
+        qualquer tempo, mediante solicitação fundamentada de qualquer das partes, quando
+        ocorrer       fato     superveniente            capaz     de   alterar   o   equilíbrio     econômico-financeiro
+        originalmente pactuado.
+
+
+        5.3.2 Constituem hipóteses de revisão extraordinária, além das demais previstas no
+        CONTRATO:
+
+
+        a) Sempre que houver, modificação unilateral do CONTRATO, que importe variação dos
+        custos ou das receitas da CONCESSIONÁRIA, para mais ou para menos;
+
+
+        b) Excetuado o imposto sobre a renda, sempre que forem criados, alterados ou extintos
+        tributos, encargos legais ou sobrevierem novas disposições legais após a data de
+        apresentação da PROPOSTA COMERCIAL pela LICITANTE VENCEDORA, desde que
+        acarretem repercussão comprovada nos custos ou receitas da CONCESSIONÁRIA, nos
+        termos do § 3º do artigo 9º da Lei Federal nº 8.987/1995;
+
+
+        c) Sempre que circunstâncias supervenientes decorrentes de fato do príncipe, fato da
+        administração ou determinações de órgãos e autoridades públicas, inclusive ambientais,
+        resultem comprovadamente em alteração dos encargos, investimentos, custos ou receitas
+        da CONCESSIONÁRIA, incluindo modificações ou antecipações das metas e obrigações
+        previstas para a CONCESSÃO ADMINISTRATIVA;
+
+
+        d) Sempre que houver alteração legislativa ou regulatória de caráter específico que
+        produza impacto direto sobre os custos, investimentos ou receitas da CONCESSIONÁRIA;
+
+
+        e) Sempre que circunstâncias supervenientes decorrentes de caso fortuito, força maior
+        ou     interferências          imprevistas,          ou   mesmo      previstas     porém         inevitáveis,    cuja
+        responsabilidade não seja atribuível à CONCESSIONÁRIA, acarretem comprovada
+        alteração dos custos ou receitas da concessão;
+
+
+        f) Nos demais casos expressamente previstos no CONTRATO;
+
+
+        g) Nos demais casos não expressamente listados neste instrumento que venham a
+        provocar comprovada ruptura do equilíbrio econômico-financeiro originalmente pactuado,
+        desde que não decorrentes de ação, omissão ou risco assumido pela CONCESSIONÁRIA.
+
+        6.4           DO REEQUILÍBRIO ECONÔMICO-FINANCEIRO
+
+        5.4.1 A recomposição do equilíbrio econômico-financeiro poderá ocorrer por meio de
+        revisão do preço por tonelada, alteração da contraprestação pública, modificação de
+
+
+                                                                                                                          20
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                                         VERSÃO 07_2026, 21 JULHO 2026
+        metas, adequação de obrigações contratuais, revisão de investimentos, extensão de
+        prazos ou por qualquer outro mecanismo admitido pela legislação aplicável e previsto no
+        CONTRATO.
+
+
+        5.4.2 O procedimento, a metodologia de cálculo, os documentos comprobatórios, os
+        critérios de análise e as formas de recomposição do equilíbrio econômico-financeiro serão
+        disciplinados no CONTRATO e em seus anexos.
+
+
+
+
+        7.          DA SUBCONTRATAÇÃO
+        A    CONCESSIONÁRIA                  poderá          efetuar   a   subcontratação      de     terceiros         para   o
+        desenvolvimento de atividades inerentes, acessórias ou complementares aos serviços
+        objeto da CONCESSÃO ADMINISTRATIVA, bem como para a implementação de projetos
+        associados, nos termos do artigo 25 e seus parágrafos da Lei Federal nº 8.987/1995 e da
+        Lei Federal nº 11.079/2004.
+
+
+        A subcontratação não implicará qualquer transferência de responsabilidade perante o
+        PODER CONCEDENTE, permanecendo a CONCESSIONÁRIA integralmente responsável
+        pela execução dos serviços, pelo cumprimento das obrigações contratuais, pelos níveis de
+        desempenho exigidos e pelos danos que vierem a ser causados ao PODER CONCEDENTE,
+        aos usuários ou a terceiros.
+
+
+        A CONCESSIONÁRIA responderá integralmente pelos atos, omissões, falhas, negligências,
+        imprudências ou imperícias das empresas subcontratadas, como se praticados por ela
+        própria.
+
+
+        As empresas subcontratadas deverão possuir qualificação técnica compatível com as
+        atividades que lhes forem atribuídas, bem como atender às exigências legais, trabalhistas,
+        previdenciárias, ambientais, fiscais e de segurança aplicáveis à execução dos serviços.
+
+
+        A subcontratação não poderá ser utilizada para transferir integralmente a execução do
+        objeto      da     CONCESSÃO             ADMINISTRATIVA            ou   descaracterizar      a    responsabilidade
+        operacional da CONCESSIONÁRIA perante o PODER CONCEDENTE.
+
+
+        A CONCESSIONÁRIA deverá manter cadastro atualizado das empresas subcontratadas,
+        contendo, no mínimo, razão social, CNPJ, objeto da contratação, prazo contratual e
+        documentação comprobatória de regularidade fiscal, trabalhista, previdenciária e
+        ambiental, disponibilizando tais informações sempre que solicitado pelo PODER
+        CONCEDENTE.
+
+
+        O PODER CONCEDENTE poderá, a qualquer tempo, solicitar informações complementares
+        sobre as empresas subcontratadas, bem como determinar a substituição daquelas que
+
+                                                                                                                               21
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                                        VERSÃO 07_2026, 21 JULHO 2026
+        comprovadamente não atendam aos requisitos técnicos, legais, operacionais ou de
+        regularidade exigidos para a execução dos serviços.
+
+
+        É vedada a subcontratação de atividades cuja execução exija capacidade técnica
+        específica utilizada para fins de comprovação da qualificação técnica da CONCESSIONÁRIA
+        no processo licitatório.
+
+
+        A celebração de contratos com empresas especializadas para execução de atividades de
+        coleta, transporte, triagem, transbordo, tratamento, valorização de resíduos, operação de
+        unidades        de     processamento,                produção   de   biogás,   biometano,        energia        elétrica,
+        manutenção de instalações, monitoramento ambiental, operação de aterro sanitário e
+        demais atividades relacionadas ao objeto da CONCESSÃO ADMINISTRATIVA será
+        considerada subcontratação regular.
+
+
+        A subcontratação de parcela relevante dos serviços operacionais ou de atividades
+        diretamente relacionadas ao atendimento dos indicadores de desempenho previstos no
+        CONTRATO deverá ser previamente comunicada ao PODER CONCEDENTE, acompanhada
+        da documentação técnica da empresa subcontratada.
+
+
+        A subcontratação não gerará qualquer vínculo jurídico, trabalhista, previdenciário,
+        contratual ou financeiro entre o PODER CONCEDENTE e as empresas subcontratadas,
+        permanecendo a CONCESSIONÁRIA como única responsável perante a Administração
+        Pública.
+
+
+        Os contratos celebrados entre a CONCESSIONÁRIA e suas subcontratadas deverão conter
+        cláusulas que assegurem o cumprimento das normas ambientais, trabalhistas, de saúde
+        e segurança do trabalho, bem como das obrigações de confidencialidade, integridade e
+        compliance previstas neste CONTRATO.
+
+
+        O descumprimento das disposições deste capítulo não eximirá a CONCESSIONÁRIA das
+        penalidades previstas no CONTRATO, sem prejuízo da obrigação de reparar integralmente
+        os danos causados ao PODER CONCEDENTE ou a terceiros.
+
+
+
+
+        8.          DA DOCUMENTAÇÃO                                     DE     HABILITAÇÃO                     –        DAS
+                    DISPOSIÇÕES GERAIS
+        A DOCUMENTAÇÃO DE HABILITAÇÃO deverá ser entregue eletronicamente conforme
+        previsto neste deste Termo de Referência e Anexos.
+
+
+        As LICITANTES estão obrigadas a satisfazer as exigências relativas à habilitação jurídica,
+        qualificação técnica, qualificação econômico-financeira e regularidade fiscal, conforme
+        disposto na Lei Federal n° 14.133/2021 e no presente neste Termo de Referência. As
+
+                                                                                                                              22
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                                        VERSÃO 07_2026, 21 JULHO 2026
+        certidões exigidas para habilitação das LICITANTES emitidas sem indicação do prazo de
+        validade serão consideradas válidas pelo prazo de 90 (noventa) dias, contados da data de
+        sua emissão.
+
+
+        Serão admitidas certidões obtidas pela internet, desde que tenham sido emitidas por sites
+        oficiais e de que o documento contenha a indicação do site em que poderá ser verificada
+        a autenticidade da informação pela COMISSÃO.
+
+        8.1           DA HABILITAÇÃO JURÍDICA
+
+        A habilitação jurídica da LICITANTE será comprovada mediante a apresentação de:
+
+
+        a)            no caso de empresa individual, apresentação do registro comercial da
+        LICITANTE;
+
+
+        b)            em se tratando de sociedades empresárias, apresentação do ato constitutivo,
+        estatuto ou contrato social da LICITANTE que estiver em vigor, ou o respectivo
+        instrumento de consolidação estatutária ou contratual em vigor com as posteriores
+        alterações, se houver, devidamente registrados no órgão de registro do comércio do local
+        de sua sede, e, no caso de sociedades por ações, acompanhado de documentos de eleição
+        de seus administradores;
+
+
+        c)            no caso de sociedades civis, apresentação da inscrição do ato constitutivo da
+        LICITANTE e todas as suas alterações subsequentes em vigor, devidamente inscritos no
+        Cartório de Registro Civil das Pessoas Jurídicas, acompanhada de documento que
+        demonstre a diretoria em exercício.
+
+
+        d)            no caso de consórcio, além dos documentos acima relacionados, a serem
+        apresentados por cada empresa consorciada, instrumento de constituição de consórcio ou
+        de compromisso de constituição do consórcio, a ser apresentado pela empresa líder do
+        consórcio, nos termos deste Termo de Referência.
+
+        8.2           DA REGULARIDADE FISCAL E TRABALHISTA
+
+        A documentação comprobatória da regularidade fiscal e trabalhista das LICITANTES
+        consistirá em:
+
+
+        a)             Prova de inscrição e situação cadastral no Cadastro Nacional de Pessoa Jurídica
+        do Ministério da Fazenda (CNPJ/MF);
+
+
+        b)            Prova de inscrição no cadastro de contribuintes estadual ou municipal, relativo
+        ao domicílio ou sede da LICITANTE, pertinente ao seu ramo de atividade e compatível
+        com o objeto contratual;
+
+
+
+
+                                                                                                         23
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                         VERSÃO 07_2026, 21 JULHO 2026
+        c)            Prova de regularidade para com a Fazenda Federal, Estadual e Municipal do
+        domicílio ou sede do LICITANTE, ou outra equivalente, na forma da lei;
+
+
+        d)            A prova de regularidade fiscal perante a Fazenda Nacional se fará mediante
+        apresentação de:
+
+
+              •     certidão conjunta negativa de débitos relativos a Tributos Federais e à Dívida Ativa
+                    da União, inclusive as contribuições sociais, ou Certidão Positiva com efeito
+                    negativo, expedida pela Secretaria da Receita Federal e Procuradoria-Geral da
+                    Fazenda Nacional;
+
+
+        e)            A prova de regularidade fiscal perante a Fazenda Estadual se fará mediante
+        apresentação de:
+
+
+              •     Certidão de Regularidade de débitos tributários estaduais, inclusive dívida ativa
+                    ou declaração de isenção ou não incidência, e não inscrição na dívida ativa,
+                    assinada pelo representante legal do LICITANTE, sob as penas da lei;
+              •     A prova de regularidade fiscal perante a Fazenda Municipal se fará mediante a
+                    apresentação de certidão negativa de débito mobiliários ou certidão positiva com
+                    efeito negativo.
+
+
+        f)            Certificado de regularidade relativo ao Fundo de Garantia por Tempo de Serviço
+        (CRF/FGTS), demonstrando situação regular no cumprimento dos encargos sociais
+        instituídos por lei.
+
+
+        g)            Prova de regularidade com a Justiça do Trabalho, por intermédio da Certidão
+        Negativa de Débitos Trabalhistas – CNDT, prevista na Lei Federal nº 12.440/2011 e na
+        Resolução Administrativa TST nº 1470/2011;
+
+
+        Se os certificados, declarações, registros e certidões não tiverem prazo de validade
+        declarado no próprio documento, e, da mesma forma não conste previsão em legislação
+        específica, os referidos documentos deverão ter sido emitidos há, no máximo, 90
+        (noventa) dias, contados até a data da realização do processo licitatório, constante neste
+        Termo de Referência e Anexos.
+
+
+        No caso de Consórcio, os documentos exigidos no item anterior, deverão ser apresentados
+        individualmente por cada uma das empresas componentes do respectivo Consórcio.
+
+        8.3           DA QUALIFICAÇÃO TÉCNICA
+
+        Para      fins    de    comprovação            de    capacidade   técnico-operacional/profissional,          serão
+        considerados como serviços de maior relevância:
+
+
+
+
+                                                                                                                        24
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                                     VERSÃO 07_2026, 21 JULHO 2026
+        I – Implantação de unidade de tratamento de resíduos sólidos domésticos, industriais
+        e/ou agropecuários com recuperação energética (gaseificação, pirólise, biodigestão ou
+        tecnologia equivalente);
+
+
+        II – Elaboração de projeto executivo e implantação de planta de segregação e trituração
+        de resíduos sólidos domésticos, industriais e/ou agropecuários com capacidade mínima
+        compatível com o objeto;
+
+
+        III – Execução de sistemas de tratamento biológico ou térmico de resíduos sólidos
+        domésticos, industriais e/ou agropecuários com finalidade de valorização energética ou
+        material;
+
+
+        IV – Obtenção de licenciamento ambiental para empreendimentos de tratamento de
+        resíduos sólidos domésticos, industrial e/ou agropecuários de porte compatível.
+
+
+        §1º Os atestados e/ou acervos deverão comprovar a execução de, no mínimo, três dos
+        serviços acima descritos.
+
+
+        §2º É vedada a exigência de comprovação simultânea de todos os itens, sob pena de
+        restrição à competitividade.
+
+
+        A qualificação técnica da LICITANTE será comprovada mediante:
+
+
+        a)            Registro ou inscrição no Conselho Regional de Engenharia e Agronomia (CREA),
+        da sede da LICITANTE e de seu(s) responsável(is) técnico(s), comprovando a regularidade
+        da inscrição, obedecidas as disposições do Conselho Federal de Engenharia e Agronomia.
+
+
+        b)            Comprovação de aptidão técnica da LICITANTE, através de comprovação de
+        capacidade técnico operacional da empresa para desempenho de atividades pertinentes e
+        compatíveis com as exigências contidas na qualificação técnica operacional, através de
+        atestados que comprovem a execução satisfatória de serviços com características
+        semelhantes e de complexidade tecnológica e operacional a seguir indicados.
+
+        8.4           DA QUALIFICAÇÃO TÉCNICA OPERACIONAL
+
+        I – Elaboração de estudo e projeto básico para obtenção de Licença Ambiental para
+        empreendimento                 denominado            unidade   de   recuperação         energética      por
+        gaseificação/pirólise e/ou biodigestão a partir de resíduos sólidos domésticos, industriais
+        e/ou agropecuários com capacidade de processamento de 30 (trinta) toneladas por dia de
+        combustível derivado de resíduos – CDR e/ou 50 (cinquenta) toneladas de fração
+        orgânica, contido em área de disposição de resíduos sólidos urbanos, aterro sanitário e/ou
+        empreendimento rural, devidamente licenciado por órgão de controle ambiental Estadual,
+        com capacidade de tratamento de 100 (cem) toneladas por dia de resíduos sólidos
+        domésticos, industriais e/ou agropecuários e consequente emissão de Licença Prévia
+                                                                                                                 25
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                                VERSÃO 07_2026, 21 JULHO 2026
+        Ambiental emitida, seja para a rota de gaseificação/pirólise e/ou biodigestão e/ou solução
+        alternativa para empreendimento licenciado;
+
+
+        II – Elaboração de projeto executivo de sistema de biodigestão para tratamento de
+        resíduos sólidos domésticos, industriais e/ou agropecuários;
+
+
+        III – Elaboração de projeto executivo de planta industrial para segregação e trituração de
+        frações seca e úmida de resíduos sólidos domésticos e/ou agropecuários com capacidade
+        nominal de tratamento de 12,5 toneladas por hora;
+
+
+        IV – Construção, montagem e comissionamento de planta industrial para segregação e
+        trituração de frações seca e úmida de resíduos sólidos domésticos e/ou agropecuários
+        com capacidade nominal de tratamento de 12,5 toneladas por hora.
+
+
+        §1º O(s) atestado(s) / deverá(ão) ser emitido(s) em papel timbrado do atestante,
+        constando cargo e nome legível do signatário para eventual consulta ou diligência;
+
+
+        §2º Em caso de atestado técnico-operacional apresentado sob a forma de consórcio ou
+        empresa do mesmo grupo econômico, considerar-se-á, para fins de atendimento, apenas
+        o quantitativo relativo ao percentual de sua participação.
+
+
+        §3º Em caso de apresentação de atestados em nome de empresa do mesmo grupo
+        econômico (ligadas, coligadas ou subsidiárias), ou em forma de consorciada, a LICITANTE
+        deverá apresentar ato constitutivo, estatuto ou contrato social em vigor, devidamente
+        registrado.
+
+        8.5           DA QUALIFICAÇÃO TÉCNICA PROFISSIONAL
+
+        a) Comprovação de aptidão técnica profissional, através da apresentação de CAT(s) -
+        Certidão(ões) de Acervo Técnico de profissional(is) de nível superior, com registro no
+        CREA e competência técnica compatível com o escopo dos serviços em tela, que seja(m),
+        comprovadamente, pertencente(s) ao quadro permanente da empresa LICITANTE na data
+        de apresentação da DOCUMENTAÇÃO, e que comprove(m) ter(em) sido, o(s) referido(s)
+        profissional(is), o(s) responsável(is) pela execução das seguintes obras e serviços:
+
+
+        b) Elaboração de estudo e projeto básico para obtenção de Licença Ambiental para
+        empreendimento                 denominado              unidade     de     recuperação            energética       por
+        gaseificação/pirólise e/ou biodigestão de resíduos sólidos domésticos, industriais e/ou
+        agropecuários, contido em área de disposição de resíduos sólidos urbanos, aterro sanitário
+        e/ou empreendimento rural, devidamente licenciado por órgão de controle ambiental
+        Estadual com a consequente emissão de Licença Prévia Ambiental emitida, seja para a
+        rota     de      gaseificação/pirólise               e/ou   biodigestão   e/ou     solução       alternativa     para
+        empreendimento licenciado;
+
+
+                                                                                                                           26
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                                         VERSÃO 07_2026, 21 JULHO 2026
+        c) Elaboração de projeto executivo de planta industrial para segregação e trituração de
+        frações seca e úmida de resíduos sólidos domésticos e/ou agropecuários;
+
+
+        d) Construção, montagem e comissionamento de planta industrial para segregação e
+        trituração de frações seca e úmida de resíduos sólidos domésticos e/ou agropecuários.
+
+
+        DA GASEIFICAÇÃO/PIRÓLISE
+
+
+        d)Elaboração de Projeto arquitetônico estrutura, fração seca de resíduos sólidos
+        domésticos;
+
+
+        e) Execução de obras estruturais, fundações, terraplenagem, pátio de resíduos, câmara
+        de combustão, trocador de calor, turbina, central de geração de energia elétrica;
+
+
+        f) Supervisão de sistemas térmicos de gaseificação/pirólise.
+
+
+        DA BIODIGESTÃO
+
+
+        g) Elaboração de projeto completo de sistema de biodigestão para tratamento de resíduos
+        sólidos domésticos, industriais e/ou agropecuários;
+
+
+        h) Execução de obras de implantação de sistema de biodigestão para tratamento de
+        resíduos sólidos domésticos, industriais e/ou agropecuários.
+
+
+        DA SOLUÇÃO ALTERNATIVA
+
+
+        i) Qualquer solução alternativa apresentada deve guardar os mesmos parâmetros acima
+        especificados, tais como comprovação de elaboração de estudos para obtenção de licença
+        ambiental compatível com o porte do empreendimento em comento, elaboração de
+        projetos, construção, montagem e comissionamento de equipamentos de segregação e
+        trituração, execução de obras, implantação de sistema para tratamento de resíduos
+        sólidos domésticos e/ou agropecuários.
+
+
+        1.A experiência anterior do(s) profissional(is) deverá ser comprovada pela apresentação
+        das respectiva(s) CAT(s) – Certidão(ões) de Acervo Técnico, conforme Resolução 1.137,
+        de 03 de Abril de 2023, devidamente registrada(s) na entidade profissional(is)
+        competente, que deverá(ão) conter, no mínimo, o(s) nome(s) do(s) profissional(is), a
+        localização e a identificação da obra e atividade técnica (serviço executado), o período e
+        o(s) quantitativo(s) básico(s) executado(s);
+
+
+        2. No caso de Consórcio, as participantes poderão apresentar os atestados dos
+        responsáveis técnicos de acordo com a regra prevista no item b.2 acima;
+
+
+
+
+                                                                                                       27
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                       VERSÃO 07_2026, 21 JULHO 2026
+        3. Os profissionais indicados pela LICITANTE, para fins de capacidade técnica de que trata
+        a alínea "d", deverão participar dos SERVIÇOS, admitindo-se a substituição por
+        profissionais de experiência equivalente ou superior, desde que previamente aprovados
+        pelo PODER CONCEDENTE;
+
+
+        4. A Comprovação de vínculo do(s) profissional(is), que será realizada mediante a
+        apresentação de Carteira de Trabalho, Contrato de Trabalho ou ficha de Registro de
+        Empregados do Ministério do Trabalho. No caso de dirigente ou sócio, deve ser
+        apresentado o contrato social com as últimas alterações, devidamente registrados na
+        Junta Comercial, ou documento específico, igualmente registrado, que contenha a
+        comprovação do cargo do Responsável Técnico, ou ainda como autônomo comprovado
+        com a apresentação do Contrato de Prestação de Serviço.
+
+
+
+
+        9.          DAS ESPECIFICAÇÃO DOS SERVIÇOS
+        1. O Município de Marília possui população estimada em 246.627 (duzentos e quarenta e
+        seis mil, seiscentos e vinte e sete) habitantes, conforme dados do IBGE (estimativa de 1º
+        de julho de 2024), apresentando densidade demográfica aproximada de 203,01
+        habitantes por km², o que evidencia elevado grau de urbanização e relevância regional.
+
+
+        1.1. Com base em estudos setoriais e referências técnicas atualizadas, especialmente o
+        Plano Municipal de Gerenciamento Integrado de Resíduos Sólidos, estima-se que o
+        Município gere aproximadamente 200 (duzentas) toneladas diárias de resíduos sólidos
+        domésticos, considerando a coleta regular ao longo de 26 (vinte e seis) dias por mês, o
+        que corresponde a uma geração mensal estimada de 5.200 (cinco mil e duzentas)
+        toneladas.
+
+
+        1.2. Os valores acima indicados possuem caráter estimativo, sendo adotados como
+        referência para fins de dimensionamento do sistema, elaboração das propostas e
+        modelagem econômico-financeira do empreendimento, podendo sofrer variações ao longo
+        da execução contratual em função de fatores como crescimento populacional, alterações
+        no padrão de consumo e políticas públicas de redução, reutilização e reciclagem de
+        resíduos.
+
+
+        2. A concessionária deverá implantar e operar uma UNIDADE DE RECUPERAÇÃO
+        ENERGÉTICA - URE para o recebimento e o reaproveitamento energético dos resíduos
+        sólidos domésticos coletados para geração de energia elétrica e/ou biogás e/ou biometano
+        e/ou CO2 e/ou combustível sustentável de aviação - SAF, com a aplicação das tecnologias
+        de gaseificação, pirólise e/ou biodigestão e/ou soluções alternativas.
+
+
+
+
+                                                                                                     28
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                     VERSÃO 07_2026, 21 JULHO 2026
+        3. A disposição final dos rejeitos permanecerá sob responsabilidade da Administração
+        Municipal ou de terceiros por ela contratados, não integrando o objeto da presente PPP."
+
+
+        4. As informações e diretrizes detalhadas dos serviços de tratamento e disposição final
+        dos RSD constam dos CADERNOS TÉCNICOS ANEXOS A ESSE TERMO DE REFERÊNCIA.
+
+
+        5. Indicadores Técnicos Operacionais (KPIs)
+
+
+        Para assegurar o desempenho adequado das instalações e a observância das metas de
+        valorização material e energética dos resíduos sólidos urbanos, serão estabelecidos
+        Indicadores Técnicos Operacionais (KPIs) de caráter mandatário. Esses indicadores terão
+        aferição periódica e servirão como referência para avaliação da eficiência dos processos,
+        cumprimento dos níveis de serviço e atendimento às metas de redução de disposição final
+        em aterro sanitário, conforme previsto neste Caderno.
+
+
+        Os KPIs abaixo apresentados constituem parâmetros mínimos que deverão ser
+        observados pela futura concessionária, sem prejuízo de sua obrigação de propor,
+        implementar e operar soluções tecnológicas capazes de garantir níveis de desempenho
+        superiores, sempre que necessário ao atendimento do contrato.
+
+
+        Os indicadores técnicos operacionais (KPIs) possuem natureza contratual e serão
+        utilizados para monitoramento do desempenho da CONCESSIONÁRIA, não compondo os
+        critérios de julgamento da licitação, salvo quando expressamente previstos como critérios
+        de desempate.
+
+
+        5.1. Eficiência de segregação das frações secas e úmidas
+
+
+        A concessionária deverá garantir eficiência mínima de 70% na segregação das frações,
+        considerando a eficácia de funcionamento dos equipamentos de segregação e trituração.
+        Este indicador compreende a etapa de separação mecânica e manual, bem como os
+        ajustes no processo que assegurem o encaminhamento adequado para recuperação
+        material.
+
+
+        5.2. Aproveitamento da fração úmida (FORSU)
+
+
+        A concessionária deverá assegurar o mínimo de 40% de aproveitamento da fração
+        orgânica úmida destinada aos processos de tratamento biológico, incluindo biodigestão
+        ou tecnologia equivalente. O indicador será medido sobre a fração úmida efetivamente
+        recebida e encaminhada para o processo de valorização.
+
+
+        5.3. Redução do envio de resíduos ao aterro sanitário
+
+
+
+
+                                                                                                    29
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                    VERSÃO 07_2026, 21 JULHO 2026
+        A solução deverá garantir redução de até 50% da massa total de resíduos encaminhada
+        ao aterro sanitário, após aplicação dos processos de segregação e valorização previstos
+        no sistema.
+
+
+        5.4. Capacidade firme de processamento
+
+
+        A concessionária deverá assegurar capacidade firme mínima inicial de processamento de
+        200 toneladas/dia observado o item 5.1., considerando toda a cadeia operacional da
+        Unidade de Valorização ou sistema equivalente. A capacidade firme deverá ser
+        comprovada por meio de desempenho real e ensaios operacionais durante o
+        comissionamento. A concessionária deverá acompanhar o crescimento da população ao
+        longo do contrato, aumentando a capacidade firme para processar a totalidade de
+        resíduos.
+
+
+        5.5. Disponibilidade operacional das instalações
+
+
+        A infraestrutura deverá operar com disponibilidade operacional mínima de 70%, calculada
+        sobre o período mensal de referência, observado o item 5.1., descontados os intervalos
+        previamente programados para manutenção preventiva. Interrupções não programadas
+        superiores ao limite poderão acarretar penalidades ou acionamento de mecanismos
+        contratuais de recomposição.
+
+
+        Nas tecnologias que envolvam valorização energética por via térmica, a eficiência global
+        de conversão deverá ser de, no mínimo 25% de conversão para energia elétrica.
+
+
+
+
+        10.         DA IMPLANTAÇÃO E OPERAÇÃO DAS ROTAS
+                    TECNOLÓGICAS DE TRATAMENTO DOS RESÍDUOS
+        1. O modelo proposto que subsidiou os estudos da presente CONCESSÃO é o de
+        destinação final ambientalmente adequada dos resíduos, bem como o atendimento à
+        Política Nacional de Resíduos Sólidos, em especial o artigo 9º que estabelece que a ordem
+        de prioridade deverá ser: não geração, redução, reutilização, reciclagem, tratamento dos
+        resíduos sólidos e disposição final ambientalmente adequada dos rejeitos.
+
+
+        2. Dessa forma a LICITANTE VENCEDORA deverá instalar solução de tratamento dos
+        resíduos urbanos para o aproveitamento energético de resíduos seja efetuado, antes dos
+        resíduos serem encaminhados para aterro sanitário, conforme preconizado na Política
+        Nacional de Resíduos Sólidos - PNRS, para que ao longo do prazo do CONTRATO, somente
+        os rejeitos não aproveitados pela Unidade de Recuperação Energética (URE) serão
+        destinados para um ATERRO SANITÁRIO licenciado, nos termos e especificações abaixo
+        descritas e constantes dos Cadernos Técnicos anexos.
+
+
+                                                                                                    30
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                    VERSÃO 07_2026, 21 JULHO 2026
+        3. A nova concepção do sistema de limpeza urbana definida pela recente legislação
+        estadual e federal tem como diretriz o tratamento diferenciado e específico para cada tipo
+        de resíduo e a meta de aproveitamento das frações seca (GASEIFICAÇÃO/PIRÓLISE) e
+        úmida (BIODIGESTOR) e/ou SOLUÇÃO ALTERNATIVA, destinando para aterro sanitário
+        somente os rejeitos não valorizados. Na implantação dessas políticas em Marília por meio
+        do novo modelo de sistema integrado, o município apresenta a proposição de um sistema
+        de processamento e aproveitamento de resíduos com base na valorização por meio da
+        recuperação, reciclagem e aproveitamento energético.
+
+
+        4. Para a complementação do novo modelo no município de Marília é proposto o
+        Tratamento               com          Reaproveitamento                Energético        das          frações              seca
+        (GASEIFICAÇÃO/PIRÓLISE) e úmida (BIODIGESTOR) contidas nos resíduos sólidos
+        domésticos.
+
+
+        5. A implantação dessa tecnologia está de acordo com as recentes políticas do setor, e
+        em especial com a Política Nacional de Resíduos Sólidos – Lei 12.305/2010. Em seu artigo
+        3º, a Política entende como destinação final ambientalmente adequada as seguintes
+        atividades:
+
+
+        VII - ....destinação de resíduos que inclui a reutilização, a reciclagem, a compostagem, a
+        recuperação e o aproveitamento energético ou outras destinações admitidas pelos órgãos
+        competentes do Sisnama, do SNVS e do Suasa, entre elas a disposição final, observando
+        normas operacionais específicas de modo a evitar danos ou riscos à saúde pública e à
+        segurança e a minimizar os impactos ambientais adversos.
+
+
+        6.O artigo 7º da referida Lei, apresenta entre outros objetivos, o incentivo ao
+        desenvolvimento de sistemas de gestão ambiental e empresarial voltados para a melhoria
+        dos processos produtivos e ao reaproveitamento dos resíduos sólidos, incluídos a
+        recuperação e o aproveitamento energético.
+
+
+        7. A Portaria Interministerial nº 274/19 disciplina a recuperação energética dos resíduos
+        sólidos urbanos, em atendimento ao § 1º do art. 9º da Lei nº 12.305/2010 e ao art. 37
+        do Decreto nº 7.404, também de 2010. A portaria reconhece a recuperação energética
+        dos resíduos como uma das formas de destinação final ambientalmente adequada.
+
+
+        8. A legislação ambiental do Estado de São Paulo – Lei Estadual 12.300/2006,
+        regulamentando              o    processo            de   licenciamento    ambiental         para      este        tipo    de
+        empreendimento - Resolução SMA 079/2009 - define as unidades de recuperação de
+        energia - a partir do tratamento térmico de resíduos sólidos, como tecnologias mitigadoras
+        no     enfrentamento             do     aquecimento          global    e   também         como        Mecanismo            de
+        Desenvolvimento Limpo pelo Comitê Executivo da Convenção Quadro da ONU -
+        Organização das Nações Unidas sobre Mudanças Climáticas (Executive Board - UNFCCC).
+
+                                                                                                                                    31
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                                           VERSÃO 07_2026, 21 JULHO 2026
+        9. A implantação desse sistema, entre outros benefícios ambientais, deverá contribuir
+        com as metas de redução de emissão de gases de efeito estufa, contribuindo com as
+        medidas de combate ao aquecimento global, e com as metas definidas nos compromissos
+        do País e do Estado de São Paulo no Protocolo Internacional de Copenhagen.
+
+
+        10. A Resolução SMA 079/2009 também aponta que a utilização dos resíduos sólidos
+        urbanos como fonte de energia renovável, além de agregar valor a esses materiais,
+        minimiza os efeitos adversos de sua disposição direta no solo e evita o transporte de
+        resíduos a longas distâncias. A Resolução destaca a necessidade da adoção de alternativas
+        sustentáveis principalmente em Regiões Metropolitanas como do Estado de São Paulo,
+        onde o volume de resíduos gerado é muito elevado e a disponibilidade de áreas é quase
+        inexistente.
+
+
+        11. Da mesma forma, a Lei Estadual de São Paulo n.º 12.300/2006 e seu Decreto
+        Regulamentador n.º 54.645/2009, trazem como princípios fundamentais “...minimização
+        de resíduos por meio de incentivos às práticas ambientalmente adequadas de reutilização,
+        reciclagem, redução e recuperação...”.
+
+
+        12. Unidades de aproveitamento energético são comumente utilizados em vários países
+        para tratamento dos resíduos sólidos urbanos devido à demanda por fontes limpas de
+        energia, à densidade populacional elevada - e sua consequente geração de resíduos - e à
+        falta de        áreas para instalação                de   aterros sanitários. Metas de         redução    para
+        encaminhamento aos aterros sanitários e o aproveitamento energético dos resíduos são
+        diretrizes definidas pela Comunidade Europeia para o enfrentamento dos impactos
+        ambientais da disposição de resíduos sólidos e a demanda por energia.
+
+
+        13. Esses sistemas vêm sendo implantados e aperfeiçoados em países como Holanda,
+        Alemanha, França, e mais recentemente, na Espanha, Itália e Portugal. Da mesma forma
+        essa é a principal solução adotada no Japão e outros países asiáticos. Nos Estados Unidos,
+        a diretriz de aproveitamento energético vem sendo desenvolvida e aprimorada pela EPA
+        – Environmental Protection Agency, e utilizada na maioria dos estados americanos.
+
+
+        14. Essas alternativas, implantadas em diversas partes do mundo, obedecem a legislação
+        rigorosa e específica para controle de poluição, sistema este que vem sendo aperfeiçoado
+        nas últimas décadas. O avanço do controle de emissão de gases resultantes do processo
+        permite a implantação desses empreendimentos, inclusive em áreas centrais de
+        importantes cidades, como é o caso de Viena na Áustria, de Paris na França, dentre outros.
+
+
+        15. Os avanços tecnológicos permitem, também, um significativo ganho de eficiência
+        energética nesses processos e sua adaptação às características específicas dos resíduos
+        gerados em diferentes países, como no caso do Brasil. Para o país, a implantação de um
+        novo modelo de gestão com recuperação e aproveitamento de resíduos, apresenta-se
+
+                                                                                                                    32
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                                  VERSÃO 07_2026, 21 JULHO 2026
+        como estratégia para a mitigação dos impactos dos aterros sanitários, especialmente nas
+        metrópoles brasileiras que vivenciam a escassez de áreas para disposição final e os custos
+        crescentes dessa atividade, além de possibilitar novas perspectivas no desenvolvimento
+        de fontes alternativas de energia.
+
+
+        16. Além disto, são recorrentes e atuais os temas referentes ao aquecimento global, á
+        degradação ambiental e os desequilíbrios socioeconômicos, colocando o meio ambiente
+        na pauta da discussão mundial. Quanto aos resíduos, essa situação impõe, dentre outros
+        aspectos, uma nova gestão e manejo considerando as práticas de minimização,
+        recuperação, aproveitamento e valorização dos materiais, com vistas à redução da
+        quantidade destinada aos aterros sanitários e a promoção da reciclagem, da inclusão
+        social com geração de renda e da recuperação energética.
+
+
+        17. Todos os equipamentos, instalações e sistemas deverão estar em conformidade com
+        a Resolução CONAMA n.º 316, de 29 de outubro de 2002, a Resolução SMA 079 de 04 de
+        novembro de 2009, ou outra que vier a substituí-la ou complementá-la.
+
+
+        18. Para a implantação desse sistema deverão ser atendidos os princípios e diretrizes da
+        Resolução CONAMA n.º 316, de 29 de outubro de 2002, sobre procedimentos e critérios
+        para o funcionamento de sistemas de tratamento térmico de resíduos, bem como a
+        Resolução SMA 079 de 04 de novembro de 2009, que estabelece diretrizes e condições
+        para a operação e o licenciamento da atividade de tratamento térmico de resíduos sólidos.
+
+
+        19. A elaboração do modelo operacional (plano de trabalho) pela licitante vencedora
+        deverá estar em consonância com os CADERNOS TÉCNICOS anexos a esse Termo de
+        Referência, bem como possuir os seguintes parâmetros mínimos:
+
+
+        Tratamento de até 200 (duzentas) toneladas/dia, com previsão de ampliação para atender
+        a demanda do município estimada no Plano Municipal de Gestão Integrada de Resíduos
+        Sólidos revisado e aprovado pela Lei 9.278/2025.
+
+
+        20. Garantido pelo município a destinação dos resíduos sólidos domiciliares pelo período
+        de 30 (trinta) anos, será de responsabilidade da licitante a projeção da quantidade de
+        resíduos a ser tratada durante o período de vigência do contrato, considerando-se o
+        crescimento populacional, a geração per capita dos resíduos domiciliares do município,
+        observadas as condições estabelecidas deste Termo de Referência e Anexos.
+
+
+        21. Para o licenciamento ambiental, será de responsabilidade da licitante vencedora
+        elaborar estudos ambientais com o objetivo de atendimento ao ANEXO II.7 DIRETRIZES
+        AMBIENTAIS - TERMO DE REFERÊNCIA – CADERNO III – MODELAGEM JURÍDICA, bem
+        como exigências exaradas pelo órgão de controle ambiental Estadual para instrução de
+        processo de solicitação de licença prévia, bem como elaboração de projeto executivo para
+
+                                                                                                    33
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                    VERSÃO 07_2026, 21 JULHO 2026
+        instrução do processo de solicitação de licença de instalação e operação para os
+        empreendimentos de gaseificação/pirólise e/ou biodigestão e/ou soluções alternativas,
+        sempre com a contribuição e apoio institucional por parte da Prefeitura de Marília.
+
+
+        22. Caberá à LICITANTE vencedora desenvolver, às suas expensas, os projetos exigidos
+        pelo órgão de controle ambiental estadual para obtenção da Licença Ambiental Prévia, de
+        Instalação e de Operação, sempre em conjunto, com auxílio e anuência da Administração.
+
+
+        23. Será de responsabilidade da licitante vencedora e da PREFEITURA DE MARÍLIA no que
+        couber, quanto ao atendimento às exigências ambientais constantes do licenciamento,
+        bem como todas as exigências de mitigação (responsabilidade exclusiva da PREFEITURA
+        DE MARÍLIA, por se tratar de área impactada com atividade do antigo lixão) e
+        compensação ambiental eventualmente definidos pelo órgão ambiental competente,
+        desde que inerentes a nova atividade que será instalada no empreendimento em comento.
+
+
+        24. A municipalidade deverá realizar a fiscalização, controle e gestão do processo de
+        licenciamento ambiental, podendo auxiliar e intervir nos trâmites processuais, no que lhe
+        couber.
+
+
+        25.     As     diretrizes       ambientais           e   diretrizes   para   o   licenciamento         ambiental   do
+        empreendimento objeto desta parceria público-privada, em observância ao artigo 10,
+        inciso VII, da Lei n° 11.079/2004, estão dispostas no ANEXO II.7 – DIRETRIZES
+        AMBIENTAIS BÁSICAS – TERMO REFERÊNCIA – CADERNO III – MODELAGEM JURÍDICA.
+
+
+        26. A licitante vencedora deverá executar todos os estudos e controles necessários para
+        assegurar a qualidade e segurança do empreendimento, considerando todas as normas e
+        legislações estabelecidas.
+
+
+        27. Os rejeitos não aproveitados pelo tratamento aplicado aos resíduos deverão ser
+        destinados ao aterro sanitário licenciado, aproveitando-se os contratos celebrado com a
+        PREFEITURA DE MARÍLIA.
+
+
+
+
+        11.          DAS INSTALAÇÕES
+        1.Para a prestação dos serviços, a licitante vencedora deverá dispor, no município de
+        Marília, de instalações dotadas de no mínimo:
+
+
+        a) Prédio administrativo com área mínima de 200m², contendo: recepção, escritório, sala
+        de reunião, copa/cozinha e banheiros, conforme NBR 9050/2020;
+
+
+
+
+                                                                                                                           34
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                                          VERSÃO 07_2026, 21 JULHO 2026
+        b) Almoxarifado provido de ferramentas, estoque de componentes e peças, de forma a
+        poder garantir, com regularidade, a manutenção de seus equipamentos, podendo, ao seu
+        critério, implantar outras unidades para perfeita execução dos serviços;
+
+
+        c) Sala para atendimento de visitantes, palestras e atividades de educação ambiental;
+
+
+        d) Refeitório e vestiários especificados conforme as normas do Ministério do Trabalho;
+
+
+        e) Guaritas em todos os acessos, dotadas de cancela;
+
+
+        f) Casa de balança dotada de banheiro com lavatório e vaso sanitário. A casa de balança
+        deverá ser posicionada de forma a impedir a formação de fila de espera dos veículos;
+
+
+        g) Sistema de combate a incêndio completo conforme instruções do Corpo de Bombeiros,
+        incluindo extintores e sistema de detecção e alarme.
+
+
+        2.Deverá ser instalada 01 (uma) balança rodoviária para pesagem dos caminhões, com
+        capacidade mínima de 60 (sessenta) toneladas, com plataforma mínima de 18 (dezoito)
+        metros de comprimento por 03 (três) metros de largura, totalmente eletrônicas com
+        células de carga, sem sistema de alavanca, com indicação simultânea de peso bruto,
+        líquido e tara. Deverá contar com módulo indicador digital e saída para computador
+        (dotado de placa fax-modem, para envio de informações “on-line”), interligado com
+        módulo controlador com teclado alfanumérico programável para indicação de hora, data,
+        número consecutivo, placa e demais informações consideradas essenciais. O sistema
+        deverá prever a instalação de célula fotoelétrica para identificação dos veículos. Deverá
+        ser dotada de sistema de proteção contra descargas elétricas e/ou equivalente ao
+        atendimento de recebimento de 200 (duzentos) toneladas por dia gerados atualmente.
+
+
+
+
+        12.         DO PESSOAL
+        1.Competirá a licitante vencedora a admissão de funcionários necessários ao desempenho
+        dos serviços contratados, correndo por sua conta os encargos necessários e demais
+        exigências das leis trabalhistas, previdenciárias, fiscais, comerciais e outras de qualquer
+        natureza.
+
+
+        2. Somente deverão ser admitidos candidatos que se apresentem com boas referências e
+        tiverem seus documentos em ordem. Só poderão ser mantidos em serviço os empregados
+        cuidadosos, atenciosos e educados para com o público.
+
+
+        3. A fiscalização do contrato poderá solicitar a substituição de empregado cuja conduta
+        seja prejudicial ao bom andamento do serviço, devendo a concessionária analisar a
+
+
+
+                                                                                                     35
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                     VERSÃO 07_2026, 21 JULHO 2026
+        solicitação e, se procedente, promover a substituição em prazo razoável, observadas as
+        garantias trabalhistas
+
+
+        4. Para as equipes de trabalho deverão ser fornecidos, em quantidade necessária e
+        suficiente, uniformes, equipamentos adequados de proteção individual e coletiva e
+        ferramentas apropriadas a cada tipo de trabalho.
+
+
+        5. Os funcionários deverão apresentar-se uniformizados e asseados, com blusas fechadas,
+        calças e com calçados profissionais, além de luvas e capas protetoras em dias de chuva,
+        e de outros eventuais vestuários de segurança, tal como dispositivos refletores nas
+        vestimentas, bonés e outros que as condições do trabalho exigirem.
+
+
+        6. A licitante vencedora será a responsável pela sinalização e pela segurança individual e
+        coletiva, referente à proteção dos trabalhadores e de terceiros, onde os serviços estiverem
+        sendo executados.
+
+
+        7. A licitante vencedora deverá indicar à municipalidade, o nome de seu preposto
+        operacional, responsável pelo acompanhamento dos serviços em campo, que deverá
+        comparecer ao local da execução dos serviços, periodicamente, ou sempre que necessário
+        a critério da fiscalização do contrato.
+
+
+        8. O pessoal deverá ser transportado de maneira adequada e os veículos deverão ser
+        adaptados a tal finalidade e possuir, quando necessário, compartimento para transporte
+        de ferramentas e abrigos exclusivos, adequados e seguros para o transporte de pessoal.
+
+
+        9. A licitante vencedora deverá promover periodicamente cursos e treinamentos aos seus
+        funcionários, de modo a qualificá-los para o exercício das atividades e incorporar novos
+        conceitos de qualidade de serviço. Nesse novo conceito de prestação de serviço, os
+        trabalhadores operacionais deverão estar preparados ao exercício das atividades e a
+        interlocução com a população, transformando-se em agentes de educação e orientação,
+        com relação à limpeza efetiva da cidade, a responsabilidade individual e coletiva e
+        exercício pleno da cidadania.
+
+
+
+
+        13.         DO PLANEJAMENTO, FREQUÊNCIA E HORÁRIO
+        1.Em até 30 (trinta) dias após a adjudicação da licitação, a licitante vencedora deverá
+        apresentar para aprovação do Poder Concedente, os planos de trabalho para todos os
+        serviços ofertados, incluindo estimativa de prazos para obtenção das licenças ambientais
+        e implantação do sistema de segregação e trituração e a rota tecnologia escolhida, em
+        conformidade e observando as diretrizes mínimas, metas e melhorias apresentados neste
+        termo de referência, cadernos técnicos e demais anexos.
+
+
+                                                                                                     36
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                     VERSÃO 07_2026, 21 JULHO 2026
+        2. Caso a licitante vencedora pretenda promover alterações na execução dos serviços,
+        deverá elaborar alteração do plano e submeter à municipalidade para aprovação.
+
+
+        3. Após aprovação do plano de trabalho, será expedida a ordem de serviço autorizando o
+        início da operação.
+
+
+
+
+        14.         DA OPERAÇÃO DO SISTEMA
+        1.Todos os serviços deverão ser executados em conformidade com as especificações
+        contidas neste Termo de Referência e Anexos, nos termos definidos no licenciamento
+        ambiental e condicionantes, obedecendo as posturas, normas técnicas, padrões e
+        restrições pertinentes a cada serviço específico, bem como a legislação aplicável.
+
+
+        2. A operação deverá seguir o Plano de Trabalho a ser apresentado pela licitante
+        vencedora no processo de licenciamento.
+
+
+        3. As instalações prediais, veículos, máquinas e equipamentos deverão estar em
+        condições de uso no início da operação dos serviços, atendendo aos requisitos contidos
+        no Caderno I - Modelagem Técnico-Operacional.
+
+
+
+
+        15.         DOS VEÍCULOS, MÁQUINAS E EQUIPAMENTOS
+        1.A quantidade, as marcas, os modelos, a capacidade, e outras características dos
+        veículos e equipamentos, ficarão a critério da licitante vencedora, desde que sejam
+        garantidas as condições adequadas, suficientes e eficientes de execução dos serviços.
+
+
+        2. Os veículos automotores, máquinas e equipamentos apresentados pela licitante
+        vencedora deverão ser adequados e compatíveis com o tipo de serviço e estar disponíveis
+        de acordo com o cronograma estabelecido.
+
+
+        3. Todos os equipamentos utilizados nos serviços deverão atender a legislação ambiental
+        referente à emissão de ruídos e poluentes atmosféricos. Os veículos, máquinas e
+        equipamentos deverão ser mantidos pela licitante vencedora em perfeitas condições de
+        operação, abrangendo o perfeito funcionamento do velocímetro e odômetro, perfeito
+        estado de conservação, pintura e limpeza geral dos veículos e equipamentos.
+
+
+
+
+        16.         DA FISCALIZAÇÃO E GESTÃO DO CONTRATO
+
+
+
+
+                                                                                                    37
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                    VERSÃO 07_2026, 21 JULHO 2026
+        16.1          DA FISCALIZAÇÃO
+
+        1. A execução do contrato deverá ser acompanhada e fiscalizada pelo(s) fiscal(is) do
+        contrato ou pelo(s) respectivo(s) substituto(s) (Lei nº 14.133, de 2021, art. 117, caput).
+
+
+        2. A Fiscalização Técnica será exercida por Engenheiros ou Arquitetos do quadro de
+        servidores municipais, a serem designados formalmente previamente a assinatura do
+        contrato.
+
+
+        3. O Fiscal de Contratos possui as seguintes atribuições, nos termos do Artigo 7º do
+        Decreto Municipal 14.464/2024:
+
+
+        3.1. Esclarecer prontamente as dúvidas surgidas na execução do objeto contratado;
+
+
+        3.2. Expedir, através de notificações e/ou relatório de vistoria, as ocorrências e fazer as
+        determinações e comunicações necessárias ao contratado para perfeita execução dos
+        serviços;
+
+
+        3.3. Encaminhar os apontamentos, realizados em registro próprio, ao gestor de contratos
+        para que o mesmo tome as providências cabíveis;
+
+
+        3.4. Proceder, conforme o caso, avaliação do cronograma físico-financeiro, as medições
+        dos serviços executados e aprovar a planilha de medição emitida pela contratada ou
+        conforme disposto em contrato;
+
+
+        3.5. Adotar as medidas preventivas de controle dos contratos, inclusive manifestar-se a
+        respeito da suspensão da entrega de bens, a realização de serviços ou a execução de
+        obras;
+
+
+        3.6. Conferir e certificar as faturas ou notas fiscais relativas às aquisições, serviços ou
+        obras e encaminhá-las à unidade responsável pela gestão do contrato;
+
+
+        3.7. Proceder às avaliações dos serviços executados pela contratada, informando à
+        unidade responsável pela gestão da contratação o que pode resultar na execução diversa
+        do que foi contratado;
+
+
+        3.8. Determinar por todos os meios adequados a observância das normas técnicas e
+        legais, especificações e métodos de execução dos serviços exigíveis para a perfeita
+        execução do objeto;
+
+
+        3.9. Determinar a retirada de qualquer empregado subordinado direta ou indiretamente
+        à contratada, inclusive empregados de eventuais subcontratadas, ou as próprias
+        subcontratadas, que, a seu critério, comprometam o bom andamento dos serviços;
+
+
+
+                                                                                                     38
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                     VERSÃO 07_2026, 21 JULHO 2026
+        3.10. Receber designação e manter contato com o preposto da contratada, e se for
+        necessário, promover reuniões periódicas ou especiais para a resolução de problemas na
+        entrega dos bens ou na execução dos serviços ou das obras;
+
+
+        3.11. Realizar, na forma do art. 140, da Lei Federal nº 14.133/2021, o recebimento do
+        objeto contrata do, quando for o caso;
+
+
+        3.12. Propor ao gestor de contratos, a abertura de procedimento administrativo para
+        apuração de responsabilidade
+
+
+        3.13. Outras atividades compatíveis com a função.
+
+
+
+
+        16.2          DA GESTÃO DO CONTRATO
+
+        1. Fica(m) indicado(s) o(s) Gestor(es) do(s) contrato(s), conforme segue abaixo: Gestor
+        do Contrato o Sr. XXXXXXXXX, Secretário Municipal de XXXXXXXXXXXX – ou seu
+        substituto legal;
+
+
+        2. O Gestor da Contrato terá atribuições administrativas e a função de administrar o
+        contrato, desde sua concepção até a finalização, nos termos do Artigo 8º do Decreto
+        Municipal 14.464/2024, especialmente:
+
+
+        2.1. Controlar a vigência do contrato;
+
+
+        2.2. Tomar providências objetivando eventual prorrogação do prazo ou abertura de novo
+        processo licitatório;
+
+
+        2.3. Recepcionar os pedidos de reequilíbrio econômico-financeiro do contrato e proceder
+        os devidos encaminhamentos;
+
+
+        2.4. Analisar os pedidos de aditivo contratual e proceder os devidos encaminhamentos;
+
+
+        2.5. Decidir provisoriamente a suspensão da entrega de bens ou a realização de serviços;
+
+
+        2.6. Acompanhar os registros realizados pelos fiscais do contrato das ocorrências
+        relacionadas à execução do contrato e as medidas adotadas, e informar à autoridade
+        superior aquelas que ultrapassa rem a sua competência;
+
+
+        2.7. Acompanhar a manutenção das condições de habilitação do contratado;
+
+
+        2.8. Analisar a documentação que antecede o pagamento;
+
+
+
+
+                                                                                                   39
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                   VERSÃO 07_2026, 21 JULHO 2026
+        2.9. Acompanhar o prazo para concessão de reajuste de preços, nos termos da data-base
+        fixada no instrumento convocatório e tomar as providências necessárias para que o
+        mesmo seja formalizado, após requerimento do interessado, mediante termo de
+        apostilamento. 7.7.4.12 Acompanhar a renovação e/ou atualização das garantias
+        contratuais no caso de prorrogação ou alteração de valores dos instrumentos contratuais;
+
+
+        2.10. Solicitar o empenho dos valores correspondentes aos contratos, aditivos ou
+        atualizações;
+
+
+        2.11. Outras atividades compatíveis com a função.
+
+
+        A LICITANTE vencedora obriga-se a permitir que técnicos responsáveis pelo controle,
+        regulação e fiscalização do município tenham acesso livre a todas as suas dependências,
+        possibilitando o exame das instalações e também das anotações relativas às máquinas,
+        veículos, equipamentos, ao pessoal e ao material, fornecendo quando forem solicitados,
+        todos os dados e elementos referentes aos serviços.
+
+
+        A LICITANTE vencedora está obrigada a reparar eventuais falhas ou defeitos nas obras ou
+        serviços objetos desta licitação, apontadas pela fiscalização da municipalidade, de forma
+        a sanar os problemas identificados para a perfeita continuidade do contrato.
+
+
+
+        17.         DAS RECEITAS DA CONCESSIONÁRIA
+        1. A CONCESSIONÁRIA terá direito à percepção da remuneração decorrente da execução
+        dos serviços objeto da CONCESSÃO ADMINISTRATIVA, composta pelo preço por tonelada
+        de resíduos sólidos domiciliares efetivamente tratados e pelo valor correspondente aos
+        bens reversíveis, observadas as condições estabelecidas neste Termo de Referência, no
+        CONTRATO e no ANEXO IV – CADERNO III – MODELAGEM JURÍDICA.
+
+
+        2. Com vistas à promoção da eficiência operacional e à modicidade da contraprestação
+        pública,       a    CONCESSIONÁRIA                   poderá   explorar   fontes     de     receitas       alternativas,
+        complementares, acessórias ou provenientes de projetos associados vinculados ao objeto
+        da CONCESSÃO ADMINISTRATIVA, nos termos da legislação aplicável.
+
+
+        3. A exploração das receitas previstas no item anterior dependerá de prévia autorização
+        do PODER CONCEDENTE, quando exigida pela legislação ou quando envolver atividades
+        não previstas originalmente na PROPOSTA COMERCIAL ou no PLANO DE NEGÓCIOS da
+        CONCESSÃO.
+
+
+        4. A exploração de receitas alternativas, complementares, acessórias ou de projetos
+        associados não poderá comprometer a adequada prestação dos serviços públicos
+        concedidos, nem prejudicar o atendimento dos indicadores de desempenho, das metas
+        operacionais e das obrigações assumidas pela CONCESSIONÁRIA.
+                                                                                                                            40
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                                          VERSÃO 07_2026, 21 JULHO 2026
+        5.    Constituem          exemplos          de       receitas   acessórias   passíveis    de     exploração         pela
+        CONCESSIONÁRIA:
+
+
+        a) comercialização de materiais recicláveis;
+
+
+        b) comercialização de composto orgânico;
+
+
+        c) comercialização de biogás;
+
+
+        d) comercialização de biometano;
+
+
+        e) comercialização de energia elétrica;
+
+
+        f) comercialização de créditos de carbono;
+
+
+        g) comercialização de CBIOs;
+
+
+        h) comercialização de combustível derivado de resíduos – CDR;
+
+
+        i) comercialização de CO2;
+
+
+        j) outras atividades compatíveis com o objeto da CONCESSÃO ADMINISTRATIVA.
+
+
+        6. Para fins da modelagem econômico-financeira da CONCESSÃO ADMINISTRATIVA, foi
+        considerada receita acessória até a 1% (um por cento) da Receita Operacional Bruta da
+        CONCESSIONÁRIA, percentual já refletido na estrutura de remuneração e na definição da
+        contraprestação pública.
+
+
+        7. A CONCESSIONÁRIA deverá apresentar, juntamente com as medições mensais,
+        demonstrativo das receitas acessórias efetivamente auferidas no período, acompanhado
+        dos respectivos documentos comprobatórios.
+
+
+        8. As receitas acessórias previstas no Plano de Negócios e consideradas na modelagem
+        econômico-financeira               da      CONCESSÃO            ADMINISTRATIVA        constituem          direito    da
+        CONCESSIONÁRIA durante toda a vigência do CONTRATO, observado o cumprimento das
+        obrigações contratuais e da legislação aplicável.
+
+
+        9. A criação, alteração ou extinção de normas legais, regulatórias ou administrativas que
+        impeçam, restrinjam ou reduzam substancialmente a exploração das receitas acessórias
+        consideradas na modelagem econômico-financeira da CONCESSÃO ADMINISTRATIVA
+        constituirá hipótese de recomposição do equilíbrio econômico-financeiro do CONTRATO,
+        na forma da legislação vigente.
+
+
+
+
+                                                                                                                             41
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                                        VERSÃO 07_2026, 21 JULHO 2026
+        10. A frustração de receitas acessórias decorrente exclusivamente de oscilações normais
+        de mercado, variações de preços, oferta, demanda, concorrência ou riscos ordinários do
+        negócio não ensejará recomposição do equilíbrio econômico-financeiro do CONTRATO.
+
+
+        11. Não serão consideradas oscilações normais de mercado os impactos decorrentes de
+        ato do Poder Público, fato do príncipe, fato da administração, alteração legislativa
+        específica, determinação de órgão regulador ou qualquer outro evento extraordinário que
+        afete diretamente a exploração das receitas acessórias previstas na modelagem
+        econômico-financeira da CONCESSÃO ADMINISTRATIVA.
+
+
+        12. As receitas acessórias efetivamente auferidas em até o percentual de 1% (um por
+        cento) da Receita Operacional Bruta, considerado na modelagem econômico-financeira da
+        CONCESSÃO ADMINISTRATIVA, poderão ser objeto de compartilhamento entre o PODER
+        CONCEDENTE e a CONCESSIONÁRIA, nos termos definidos no CONTRATO.
+
+
+        13. Salvo disposição expressa em contrário prevista no CONTRATO, a titularidade dos
+        créditos de carbono, CBIOs, certificados de energia renovável, garantias de origem,
+        atributos ambientais, certificados de descarbonização e demais ativos ambientais
+        decorrentes da implantação e operação da CONCESSÃO ADMINISTRATIVA pertencerá à
+        CONCESSIONÁRIA.
+
+
+        14. A eventual exploração econômica dos ativos ambientais referidos no item anterior não
+        prejudicará o direito do PODER CONCEDENTE à modicidade da contraprestação pública,
+        observadas as regras de compartilhamento de receitas previstas neste CONTRATO.
+
+
+        15. O PODER CONCEDENTE não poderá criar restrições ou limitações à exploração das
+        receitas acessórias previstas neste instrumento sem a correspondente avaliação dos
+        impactos econômico-financeiros e eventual recomposição do equilíbrio contratual, quando
+        cabível.
+
+
+
+
+        18.         DAS MEDIÇÕES E PAGAMENTOS
+        1. A remuneração da CONCESSIONÁRIA será apurada mediante medições mensais
+        realizadas pelo PODER CONCEDENTE, observando os critérios estabelecidos neste Termo
+        de Referência, no Contrato de Concessão e na Proposta Comercial vencedora.
+
+
+        2. As medições terão por finalidade aferir:
+
+
+        I – A quantidade de resíduos sólidos domiciliares efetivamente recebidos e tratados pela
+        CONCESSIONÁRIA;
+
+
+        II – A disponibilidade dos bens reversíveis vinculados à prestação dos serviços;
+
+                                                                                                    42
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                    VERSÃO 07_2026, 21 JULHO 2026
+        III – O percentual efetivamente alcançado de redução de aterramento dos resíduos sólidos
+        domiciliares recebidos para tratamento.
+
+
+        3. Até o quinto dia útil de cada mês, a CONCESSIONÁRIA deverá apresentar Relatório
+        Mensal de Medição contendo, no mínimo:
+
+
+        a) Quantidade total de resíduos sólidos domiciliares recebidos no período, expressa em
+        toneladas;
+
+
+        b) Quantidade total de resíduos efetivamente tratados no período, expressa em
+        toneladas;
+
+
+        c) Quantidade total de rejeitos encaminhados para disposição final ambientalmente
+        adequada;
+
+
+        d) Demonstração da disponibilidade e operacionalidade dos bens reversíveis vinculados à
+        concessão;
+
+
+        e) Memória de cálculo da contraprestação mensal;
+
+
+        f) Demais documentos exigidos pela fiscalização contratual.
+
+
+        4. A comprovação dos quantitativos deverá ser realizada mediante registros operacionais
+        e sistema de pesagem devidamente aferido e certificado pelos órgãos competentes.
+
+
+        5. O percentual de redução de aterramento será apurado mediante a relação entre a
+        quantidade de resíduos recebidos para tratamento e a quantidade de rejeitos
+        efetivamente encaminhados para disposição final, conforme metodologia estabelecida no
+        ANEXO IV.
+
+
+        6. O PODER CONCEDENTE, por intermédio do Gestor e Fiscal do Contrato, terá o prazo de
+        até 5 (cinco) dias úteis para analisar e validar a medição apresentada.
+
+
+        7. A remuneração mensal da CONCESSIONÁRIA será composta pelos seguintes
+        elementos:
+
+
+        I – Parcela Variável de Tratamento, correspondente ao produto entre a quantidade de
+        resíduos efetivamente tratados no período e o valor unitário por tonelada constante da
+        Proposta Comercial vencedora;
+
+
+        II – Parcela Fixa dos Bens Reversíveis, correspondente ao valor mensal apresentado na
+        Proposta Comercial para amortização, operação e disponibilização dos bens reversíveis
+        vinculados à concessão.
+
+
+                                                                                                      43
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                      VERSÃO 07_2026, 21 JULHO 2026
+        8. O não atingimento do percentual mínimo de redução de aterramento ofertado pela
+        CONCESSIONÁRIA poderá ensejar a aplicação das penalidades, glosas ou demais
+        mecanismos de ajuste previstos no Contrato.
+
+
+        9. A aprovação da medição mensal constituirá condição para emissão da Nota Fiscal e
+        processamento da respectiva contraprestação pública.
+
+
+        10. Os pagamentos serão efetuados em até 30 dias corridos após cada medição, através
+        de Ordem de Pagamento Bancária; até que se complete a primeira parcela enviada pelo
+        órgão responsável pelo contrato. A partir da quitação da 1ª parcela enviada pelo órgão
+        do contrato, o pagamento será até 30 dias após medição da etapa anterior e aprovação
+        da prestação de contas da parcela prévia.
+
+
+        10.1 Não serão consideradas as propostas com condições de pagamento “Antecipado”.
+
+
+        10.2 - Para fins de pagamento, serão efetuadas medições mensais, baseadas em
+        relatórios periódicos acompanhados, inclusive de memória de cálculos, que deverão ser
+        apresentados pela CONTRATADA, sendo a primeira, 30 (trinta) dias corridos após o início
+        dos serviços e as demais a cada 30 dias corridos, computando-se as quantidades dos
+        serviços efetivamente executados no período, multiplicados pelos preços constantes das
+        planilhas apresentadas na proposta vencedora.
+
+
+        10.3 - Realizada a medição, imediatamente, a CONTRATADA deverá entregá-la ao
+        CONTRATANTE.
+
+
+        10.4 - O CONTRATANTE, através de um responsável indicado pelo SECRETÁRIO
+        MUNICIPAL DO MEIO AMBIENTE E SERVIÇOS PÚBLICOS deverá aprovar a medição para
+        liberação do pagamento da parcela, sendo que, para tanto, fará avaliação dos serviços
+        executados, comunicando-a à CONTRATADA dentro de 7 (sete) dias do recebimento da
+        medição, sobre a aceitação da mesma, o que implicará na apresentação, por parte da
+        CONTRATADA, da respectiva Fatura, no primeiro dia subsequente à comunicação da
+        parcela aprovada.
+
+
+        10.5 - O valor não aprovado deverá, dentro de igual prazo, ser comunicado à
+        CONTRATADA, com justificativa correspondente.
+
+
+        10.6 - O pagamento realizado não isentará a CONTRATADA, das responsabilidades
+        contratuais e nem implicará nos recebimentos provisórios ou definitivos dos serviços.
+
+
+        10.7 - A não aceitação dos serviços pela Fiscalização implicará na suspensão imediata do
+        pagamento.
+
+
+
+
+                                                                                                   44
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                   VERSÃO 07_2026, 21 JULHO 2026
+        10.8 - O pagamento somente será liberado após a comprovação do recolhimento das
+        guias de FGTS e INSS relativas aos profissionais que a CONTRATADA utilizar na execução
+        dos serviços. A comprovação será mensal e perante a Secretaria Municipal da Fazenda.
+
+
+        10.9 - Para liberação dos pagamentos, a CONTRATADA também deverá comprovar a
+        MATRÍCULA da obra de construção civil no CNO (Cadastro Nacional de Obras), realizada
+        perante a Receita Federal do Brasil, nos casos em que a Legislação Federal pertinente
+        assim o determinar, cuja fiscalização caberá à Secretaria Municipal da Fazenda.
+
+
+        10.10. Liquidação
+
+
+        10.10.1. Para fins de liquidação, o setor competente deverá verificar se a nota fiscal ou
+        instrumento de cobrança equivalente apresentado expressa os elementos necessários e
+        essenciais do documento, tais como:
+
+
+        10.10.1.1 o prazo de validade;
+
+
+        10.10.1.2. a data da emissão; Rua Bahia, nº 51 – Centro, Marília/SP | CEP:- 17.501-090
+        Tel: (14) 3402-6000
+
+
+        10.10.1.3. os dados do Contrato, do órgão contratante, da autorização de fornecimento
+        e empenho;
+
+
+        10.10.1.4. o valor a pagar;
+
+
+        10.10.1.5. eventual destaque do valor de retenções tributárias cabíveis.
+
+
+        10.10.2. Havendo erro na apresentação da nota fiscal ou instrumento de cobrança
+        equivalente, ou circunstância que impeça a liquidação da despesa, esta ficará sobrestada
+        até que a CONTRATADA providencie as medidas saneadoras, reiniciando-se o prazo após
+        a comprovação da regularização da situação, sem ônus ao contratante;
+
+
+        10.10.3.        A    nota      fiscal     ou     instrumento   de   cobrança   equivalente          deverá   ser
+        obrigatoriamente acompanhado da comprovação da regularidade fiscal, constatada por
+        meio de consulta on-line ao SICAF ou, na impossibilidade de acesso ao referido Sistema,
+        mediante consulta aos sítios eletrônicos oficiais ou à documentação mencionada no art.
+        68 da Lei nº 14.133, de 2021.
+
+
+
+
+        19.         DA COMPENSAÇÃO DAS RECEITAS ACESSÓRIAS
+        1. Para fins de composição da contraprestação pública mensal, será considerada a
+        estimativa de receitas acessórias decorrentes da exploração de atividades inerentes,
+
+
+                                                                                                                     45
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                                   VERSÃO 07_2026, 21 JULHO 2026
+        acessórias, complementares ou de projetos associados vinculados à CONCESSÃO
+        ADMINISTRATIVA.
+
+
+        2. As receitas acessórias previstas no Plano de Negócios correspondem a até 1% (um por
+        cento) da Receita Operacional Bruta da CONCESSIONÁRIA, percentual considerado na
+        modelagem econômico-financeira da concessão e na definição da contraprestação pública.
+
+
+        3. A CONCESSIONÁRIA deverá apresentar mensalmente ao PODER CONCEDENTE
+        relatório contendo a apuração das receitas acessórias efetivamente auferidas no período,
+        acompanhado da documentação comprobatória correspondente.
+
+
+        4. O valor das receitas acessórias efetivamente auferidas será considerado na apuração
+        da contraprestação pública mensal, observando-se os critérios de compensação
+        estabelecidos no CONTRATO.
+
+
+        5. Para fins de cálculo da contraprestação pública mensal, poderá ser utilizada a seguinte
+        fórmula:
+
+
+        CP = RT + BR – RA
+
+
+        Onde:
+
+
+          •     CP = Contraprestação Pública Mensal;
+
+
+          •     RT = Remuneração relativa ao tratamento dos resíduos sólidos urbanos;
+
+
+          •     BR = Parcela mensal dos bens reversíveis;
+
+
+          •     RA      =     Valor      das      receitas   acessórias   consideradas     para      abatimento   da
+                contraprestação.
+
+
+        6. As receitas acessórias compreendem, entre outras que venham a ser autorizadas pelo
+        PODER CONCEDENTE:
+
+
+        a) comercialização de materiais recicláveis;
+
+
+        b) comercialização de composto orgânico;
+
+
+        c) comercialização de biogás;
+
+
+        d) comercialização de biometano;
+
+
+        e) comercialização de CO2;
+
+
+        f) comercialização de energia elétrica;
+                                                                                                                  46
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                                  VERSÃO 07_2026, 21 JULHO 2026
+        g) comercialização de créditos de carbono;
+
+
+        h) comercialização de CBIOs;
+
+
+        i) demais produtos ou subprodutos decorrentes da valorização dos resíduos sólidos
+        urbanos.
+
+
+        7. As receitas acessórias, alternativas, complementares ou decorrentes de projetos
+        associados somente serão consideradas para fins de compensação da contraprestação
+        pública ou compartilhamento econômico com o PODER CONCEDENTE após sua efetiva
+        geração e comercialização pela CONCESSIONÁRIA, devidamente comprovadas mediante
+        documentação fiscal, contábil e financeira.
+
+
+        8. Durante o período de implantação do empreendimento, de estruturação operacional,
+        de obtenção de licenças, de homologações regulatórias, de certificações ou enquanto
+        inexistir comercialização efetiva dos produtos, subprodutos ou ativos ambientais gerados
+        pela CONCESSÃO ADMINISTRATIVA, não haverá qualquer dedução ou compensação na
+        contraprestação pública em razão das receitas acessórias estimadas na modelagem
+        econômico-financeira.
+
+
+        9. A compensação ou compartilhamento das receitas acessórias ocorrerá exclusivamente
+        sobre os valores efetivamente auferidos pela CONCESSIONÁRIA, observados os
+        percentuais e critérios estabelecidos.
+
+
+        10. A inexistência de receitas acessórias em determinado período, ou a obtenção de
+        receitas inferiores às estimadas na modelagem econômico-financeira, não caracterizará
+        inadimplemento contratual da CONCESSIONÁRIA, desde que observadas as obrigações
+        de implantação, operação e exploração econômica previstas no CONTRATO.
+
+
+
+
+        20.         DO PROGRAMA DE EDUCAÇÃO AMBIENTAL
+        1. É imprescindível a informação e orientação da população quanto à questão da limpeza
+        da cidade e a sua responsabilidade no controle e na manutenção de um ambiente
+        saudável.
+
+
+        2. A licitante vencedora deverá, a sua expensa, obrigatoriamente campanhas anuais,
+        implementar instrumentos de educação ambiental voltados para a sensibilização e
+        mobilização da comunidade envolvida. Estes instrumentos deverão estar integrados a um
+        Programa de Educação Ambiental (PEA), estruturado de forma a promover a
+        conscientização ecológica, a participação cidadã e o desenvolvimento sustentável local e
+        com base nas diretrizes mínimas definidas.
+
+
+                                                                                                   47
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                   VERSÃO 07_2026, 21 JULHO 2026
+        3. O PEA deverá contemplar, no mínimo, as seguintes linhas de ação:
+
+
+        a) Campanhas de sensibilização ambiental;
+
+
+        b) Promoção de ações informativas em meios físicos e digitais, com foco na redução de
+        impactos ambientais, consumo consciente, separação de resíduos, e preservação de
+        recursos naturais;
+
+
+        c) Oficinas educativas;
+
+
+        d) Realização de oficinas temáticas para diferentes públicos (crianças, jovens, adultos e
+        idosos), com atividades práticas sobre reciclagem, compostagem, uso racional da água e
+        energia, entre outros;
+
+
+        e) Educação ambiental nas escolas;
+
+
+        f) Parcerias com instituições de ensino para integrar conteúdos ambientais ao currículo
+        escolar, promovendo atividades interativas como gincanas ecológicas, hortas pedagógicas
+        e visitas técnicas;
+
+
+        g) Formação de multiplicadores ambientais;
+
+
+        h) Capacitação de líderes comunitários, educadores e colaboradores da própria empresa
+        para atuarem como agentes multiplicadores de boas práticas ambientais;
+
+
+        i) Acompanhamento e avaliação do PEA;
+
+
+        j) Criação de indicadores para monitoramento contínuo das ações e relatórios periódicos
+        que permitam avaliar o impacto e alcance das atividades realizadas;
+
+
+        k) O Programa de Educação Ambiental deverá ser elaborado conforme os princípios da
+        Política Nacional de Educação Ambiental (Lei n.º 9.795/1999), e poderá ser adaptado
+        conforme as necessidades específicas da comunidade e das orientações do Município de
+        Marília.
+
+
+
+
+        21.         DO CRONOGRAMA DE EXECUÇÃO
+        Os serviços objeto deste Termo de Referência terão início a partir da DATA DE ASSUNÇÃO
+        DOS SERVIÇOS, mediante expedição da ordem de serviço pelo PODER CONCEDENTE,
+        devendo a CONCESSIONÁRIA observar o cronograma de implantação estabelecido neste
+        instrumento.
+
+
+        1. Os prazos máximos para implantação das rotas tecnológicas serão os seguintes:
+
+                                                                                                    48
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                    VERSÃO 07_2026, 21 JULHO 2026
+    •     Gaseificação/Pirólise: até 30 (trinta) meses contados da emissão da Licença de
+          Instalação;
+
+
+    •     Biodigestão: até 16 (dezesseis) meses contados da emissão da Licença de Instalação.
+
+
+        2. Os prazos acima estabelecidos consideram a regular tramitação dos processos de
+        licenciamento ambiental e demais autorizações necessárias, sendo que eventuais atrasos
+        decorrentes de atos ou omissões do PODER CONCEDENTE, de órgãos públicos ou de
+        terceiros não imputáveis à CONCESSIONÁRIA ensejarão a revisão dos prazos, sem
+        aplicação de penalidades.
+
+
+        3. Os riscos relacionados ao licenciamento ambiental e à obtenção das autorizações
+        necessárias serão alocados conforme a matriz de riscos do CONTRATO, assegurada a
+        recomposição do equilíbrio econômico-financeiro nas hipóteses previstas.
+
+
+
+
+                                                                                                   49
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                   VERSÃO 07_2026, 21 JULHO 2026
+

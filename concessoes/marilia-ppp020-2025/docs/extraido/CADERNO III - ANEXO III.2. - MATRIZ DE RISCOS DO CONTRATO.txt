@@ -1,0 +1,978 @@
+Caderno III
+Modelagem Jurídica
+
+Anexo III.2. - Matriz De Riscos
+Do Contrato
+
+Desenvolvimento:
+
+
+
+
+                              1
+                   ANEXO III.2. - MATRIZ DE RISCOS DO CONTRATO
+
+       1. RISCOS DA LICITAÇÃO
+ I - RISCOS DE LICITAÇÃO
+                RISCOS               FATO GERADOR                  ALOCAÇÃO                                                       MITIGAÇÃO
+                                                             1. CONCENDENTE      1. Condições de participação abertas: Atestados de operação estritamente voltados às atividades de maior
+                           1. Condições restritivas de
+                                                                                 relevância
+                           participação
+                                                                                 2. Divisão razoável dos riscos, com preservação do equilíbrio econômico da concessão em casos cujo fator de
+ I.1   Licitação deserta
+                                                                                 risco não
+                           2. Agressividade na transferência de
+                                                                2. CONCENDENTE   pode ser manejado pela concessionária (ex. força maior, circunstâncias imprevisíveis, entre outras)
+                           riscos
+
+       Seleção de
+                                                                                 1.1. Obrigação de atestação técnica e econômico-financeira pelos licitantes.
+       propostas           1. Seleção baseada somente no
+ I.2                                                         1. CONCEDENTE       1.2. Apresentação de proposta econômica acompanhada de plano de negócios e metodologia de execução;
+       aventureiras e      menor preço
+                                                                                 1.3. Previsão no edital de que a licitante é responsável pela proposta comercial que apresentar;
+       inexequíveis
+                                                                                 1.4. Exigência de bidbond para o caso de negativa de assinatura do contrato
+                RISCOS               FATO GERADOR                  ALOCAÇÃO                                                       MITIGAÇÃO
+                           1. Exigências de habilitação      1. CONCEDENTE       1. Exigências de habilitação adstritas às já utilizadas e aprovadas anteriormente pelo TCE/SP ou pelo TCU
+                           excessivamente restritivas
+       Risco de
+                                                                                 2. Julgamento objetivo com base em metodologia de execução e menor valor da contraprestação
+       paralisação do
+                           2. Subjetividade no julgamento    2. CONCEDENTE
+ I.3   certame por
+                                                                                 3. Realização de estudos prévios via PMI, disponibilização dos estudos do vencedor a todos interessados.
+       decisão judicial
+                           3. Ausência de estudos prévios    3. CONCEDENTE       Realização de consulta pública e visita técnica pelas licitantes para análise dos estudos e documentos
+       ou do TCE/SP
+                           adequados
+
+
+
+
+RISCOS DA LICITAÇÃO
+1.1 Licitação deserta
+Fato Gerador:
+       1. Condições restritivas de participação
+       2. Agressividade na transferência de riscos
+Alocação:
+       1. CONCEDENTE
+       2. CONCEDENTE
+Mitigação:
+       1. Condições de participação abertas: Atestados de operação estritamente voltados às
+                atividades de maior relevância
+       2. Divisão racional dos riscos, com preservação do equilíbrio econômico da concessão
+                em casos cujo fator de risco não pode ser manejado pela concessionária (ex. força
+                maior, circunstâncias imprevisíveis, entre outras)
+1.2 Seleção de propostas aventureiras e inviáveis
+Fato Gerador:
+       1. Seleção baseada somente no menor preço
+Alocação:
+       1. CONCEDENTE
+Mitigação:
+1.1. Obrigação de atestação técnica e econômico-financeira pelos licitantes.
+1.2. Apresentação de proposta econômica acompanhada de plano de negócios e
+metodologia de execução;
+1.3. Previsão no edital de que a licitante é responsável pela proposta comercial que
+apresentar;
+1.4. Exigência de bid bond para o caso de negativa de assinatura do contrato
+
+                                                                                                                                                                                               2
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                                                                                       VERSÃO 07_2026, 21 JULHO 2026
+1.3 Risco de paralisação do certame por decisão judicial ou do TCE/SP
+Fato Gerador:
+     1. Exigências de habilitação excessivamente restritivas
+     2. Subjetividade no julgamento
+     3. Ausência de estudos prévios adequados
+Alocação:
+     1. CONCEDENTE
+     2. CONCEDENTE
+     3. CONCEDENTE
+Mitigação:
+     1. Exigências de habilitação adaptadas às já utilizadas e aprovadas anteriormente pelo
+            TCE/SP ou pelo TCU
+     2. Julgamento objetivo com base em metodologia de execução e menor valor da
+            contraprestação
+     3. Realização de estudos prévios viáveis, disponibilização dos estudos ao vencedor e
+            todos interessados. Realização de consulta pública e visita técnica pelas licitantes
+            para análise dos estudos e documentos
+
+
+
+
+                                                                                                        3
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                        VERSÃO 07_2026, 21 JULHO 2026
+     2. RISCOS DE IMPLANTAÇÃO
+   II- RISCOS DE IMPLANTAÇÃO
+                  RISCOS                      FATO GERADOR                     ALOCAÇÃO                                                        MITIGAÇÃO
+                                   1. Erros nos elementos de projeto     1. CONCESSIONÁRIA
+                                   básico                                                      1. Edital apresenta elementos de projeto básico e delega ao Concessionário a responsabilidade pelos
+                                                                                               projetos executivos.
+                                   2. Erros no projeto executivo         2. CONCESSIONÁRIA
+                                                                                               2. Concessionário responde pelo projeto executivo, mas Poder Concedente aprova sua conformidade com os
+   II.1 Erros de projeto           3. Mudanças de projeto, encargos ou 3. CONCEDENTE           elementos divulgados. Aprovação do Poder Concedente não afasta a responsabilidade do Concessionário
+                                   nas especificações das obrigações ou                        pela qualidade da infraestrutura implantada. Previsão contratual de cláusulas que regulamentem a transição
+                                   serviços solicitados pelo Poder                             da operação no término do contrato, inclusive assegurando a operacionalidade dos bens reversíveis.
+                                   Concedente
+                                                                                               3. Recomposição do equilíbrio econômico-financeiro do contrato
+
+                                   1. Falha humana, inadequação de       1. CONCESSIONÁRIA     1. Concessionário conserva a responsabilidade integral por falhas de seu pessoal, pela adequação de técnicas
+                                   equipamentos ou técnicas                                    e equipamentos. Concessionária se responsabiliza pela implantação de políticas de segurança no local de
+        Acidentes, danos ou        utilizadas.                                                 trabalho, bem como pela observância às normas ambientais e de segurança. Poder Concedente fiscaliza, sem
+   II.2 transtornos a terceiros,                                                               que a fiscalização reduza a responsabilidade do Concessionário.
+        segurança.                                                                             Contrato relaciona seguros obrigatórios para a mitigação do risco. A responsabilidade pela segurança da obra,
+                                                                                               no que se refere a roubos ou furtos no canteiro de obras, é da Concessionária.
+
+                                   1. Ineficiência do construtor         1. CONCESSIONÁRIA
+                                                                                               1. Concessionário responde pela sua ineficiência. Apresentação de cronograma de implantação pela
+                                   2. Superveniência de fatos            2. CONCEDENTE         Concessionária respeitando os prazos e metas previstos no Termo de Referência dos serviços.
+                                   imprevisíveis
+                                                                                               2. Fatos imprevisíveis, eventos alheios à vontade das Partes, inevitáveis e irresistíveis, que afetem a
+                                   3. Impactos regulatórios não          3. CONCEDENTE         execução contratual, são excludentes de responsabilidade da Concessionária, exceto se puderem ser objeto
+                                   conhecidos (ex. horários de                                 de seguros.
+                                   execução, restrições urbanísticas,
+        Custo de
+                                   restrições ambientais, atraso na                            3. Concessionária deve responder e prever o impacto econômico das restrições previamente conhecidas,
+   II.3 execução do
+                                   obtenção de licenças)                                       Poder Concedente responde pelas restrições não conhecidas ou editadas supervenientemente.
+        projeto.
+
+                                   4. Impactos tributários (ex.          4. CONCEDENTE         4. Poder Concedente responde pelas alterações supervenientes (exceto tributos incidentes sobre a renda
+                                   alterações legais, risco da                                 que não são causa de reequilíbrio contratual). Possibilidade de reequilíbrio contratual nos demais casos.
+                                   modelagem tributária)
+                                                                                               5. Concessionária é responsável pela aquisição das áreas necessárias a implantação da infraestrutura para
+                                    5. Disponibilização dos terrenos e   5. CONCESSIONÁRIA     execução dos serviços.
+                                   infraestrutura
+
+                                   1. Atraso no cronograma de            1. CONCESSIONÁRIA     1. Adoção de modelo calcado na Lei 11.079/2004, que vincula o cumprimento de metas e indicadores de
+                                   investimentos.                                              desempenho ao cumprimento do cronograma de implantação. Exigência de garantia da execução do
+                                   2. Discussões sobre reequilíbrio em   2. CONCESSIONÁRIA     contrato.
+                                   função de variação quantitativa e
+          Atraso na                qualitativa dos unitários previstos                         2. Concessionária assume a responsabilidade pelas variações quantitativas e qualitativas dos unitários
+   II.4
+          implantação              no projeto básico.                                          decorrentes do projeto básico, sem, portanto, previsão de reequilíbrio econômico na hipótese de erro de
+                                                                                               estimativa de custos no projeto executivo. Edital prevê que os licitantes têm pleno conhecimento do edital e
+                                                                                               condições do local de prestação dos serviços. Exigência de garantia da execução do contrato
+
+
+
+                                   1. Erros na implantação               1. CONCESSIONÁRIA     1. Concessionária é responsável pela implantação e pela operação da infraestrutura necessária à prestação
+                                                                                               dos serviços, conforme definida no edital.
+                                   2. Força maior, caso fortuito e fato do 2. CONCEDENTE
+                                   príncipe                                                    2. Poder Concedente conserva responsabilidade pelos eventos de força maior, caso fortuito e fato do
+                                                                           3. CONCESSIONÁRIA   príncipe, quando as consequências não puderem ser cobertas por seguros ou quando ultrapassarem o valor
+                                   3. Atraso no licenciamento                                  segurado pelo Concessionário nos termos do Contrato, evitando o rompimento do contrato por este motivo
+                                   ambiental e na emissão de alvarás e 4. CONCEDENTE /
+                                   autorizações relativas à implantação CONCESSIONÁRIA         3. A Concessionária deverá obter, com o apoio dos melhores esforços do Poder Concedente, todas as
+                                   do empreendimento                                           licenças que se fizerem necessárias. Penalidades e multas se o atraso na obtenção de licenças e autorizações
+                                                                           5. CONCEDENTE       se der por motivos imputáveis à Concessionária. Reequilíbrio em favor da Concessionária caso os atrasos não
+                                   4. Limitações para a realização das                         sejam a ela imputáveis.
+          Atraso na implantação
+   II.4                            obras (mobilização de                   6. CONCEDENTE
+          (continuação)
+                                   equipamentos, horário de operação,                          4. Concessionária responde pelas existentes, Poder Concedente pelas supervenientes.
+                                   limites de ruídos)
+                                                                                               5. Ver abaixo: item V – Riscos Institucionais
+                                   5. Indefinições institucionais que
+                                   comprometam a assunção                                      6. Mecanismos contratuais de limitação da interferência do Poder Concedente, com previsão de
+                                   dasobrigações e dificultem o início                         recomposição para neutralizar os efeitos das alterações eventualmente impostas
+                                   da implantação
+
+                                   6. Interferência e alterações
+                                   solicitadas pelo Poder Concedente
+
+
+
+                                   7. Atrasos decorrentes de             7. CONCESSIONÁRIA     7. Previsão de penalidades e multas pelos atrasos que decorram de ação ou omissão da Concessionária no
+                                   descumprimento das obrigações                               descumprimento de suas obrigações contratuais. Performance bond.
+                                   pelo Concessionário.                  8. CONCEDENTE
+                                                                                               8. Reequilíbrio econômico-financeiro e repactuação de prazos da obras, caso as interferências não tenham
+                                   8. Atrasos ou inviabilização da      9. CONCESSIONÁRIA      sido informadas pelo Poder Concedente. As interferências informadas pelo Poder Concedente são de
+                                   implementação do objeto do                                  responsabilidade da Concessionária.
+                                   Contrato quando resultante da        10. CONCESSIONÁRIA
+                                   necessidade de remoções ou                                  9. Previsão no Contrato de que os subcontratados devem possuir plena capacidade de atenderem
+                                   recolocações de cabos, canalizações                         adequadamente a todas as exigências contratuais. A Concessionária é responsável pelos subcontratados.
+          Atraso na implantação    e/ou outras instalações subterrâneas                        Penalidades e multas por descumprimentos contratuais.
+   II.4
+          (continuação)            de prestadores de serviços públicos
+                                   ou de serviços de interesse da                              10. Obrigação da Concessionária de manter a posse das áreas, livres e desembaraçadas e em condições para o
+                                   coletividade.                                               início das obras. Penalidades e multas para o caso de descumprimento do cronograma.
+
+                                   9. Falência ou falha no desempenho
+                                   dos subcontratados e fornecedores.
+
+                                   10. Atraso no início das obras em
+                                   decorrência de invasão de terrenos
+                                   desocupados
+
+
+
+
+                                                                                                                                                                                                               4
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                                                                                                      VERSÃO 07_2026, 21 JULHO 2026
+     3. RISCOS DE IMPLANTAÇÃO
+II.1 Erros de projeto
+Fato Gerador:
+     1. Erros nos elementos de projeto básico
+     2. Erros no projeto executivo
+     3. Mudanças de projeto, encargos ou nas especificações das obrigações ou serviços
+            solicitados pelo Poder Concedente
+Alocação:
+     1. CONCESSIONÁRIA
+     2. CONCESSIONÁRIA
+     3. CONCEDENTE
+II.2 Acidentes, danos ou transtornos a terceiros, segurança
+Fato Gerador:
+     1. Falha humana, inadequação de equipamentos ou técnicas utilizadas.
+Alocação:
+     1. CONCESSIONÁRIA
+II.3 Custo de execução do projeto
+Fato Gerador:
+     1. Ineficiência do construtor
+     2. Superveniência de fatos imprevisíveis
+     3. Impactos regulatórios não conhecidos (ex. horários de execução, restrições
+            urbanísticas, restrições ambientais, atraso na obtenção de licenças)
+     4. Impactos tributários (ex. alterações legais, risco da modelagem tributária)
+     5. Disponibilização dos terrenos e infraestrutura
+Alocação:
+     1. CONCESSIONÁRIA
+     2. CONCEDENTE
+     3. CONCEDENTE
+     4. CONCEDENTE
+     5. CONCESSIONÁRIA
+II.4 Atraso na implantação
+Fato Gerador (Primeira Parte):
+     1. Atraso no cronograma de investimentos.
+     2. Discussões sobre reequilíbrio em função de variação quantitativa e qualitativa dos
+            unitários previstos no projeto básico.
+Alocação (Primeira Parte):
+     1. CONCESSIONÁRIA
+     2. CONCESSIONÁRIA
+Fato Gerador (Continuação):
+     1. Erros na implantação
+                                                                                                      5
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                      VERSÃO 07_2026, 21 JULHO 2026
+     2. Força maior, caso fortuito e fato do príncipe
+     3. Atraso no licenciamento ambiental e na emissão de alvarás e autorizações relativas
+            à implantação do empreendimento
+     4. Limitações para a realização das obras (mobilização de equipamentos, horário de
+            operação, limites de ruídos)
+     5. Indefinições institucionais que comprometam a assunção das obrigações e
+            dificultem o início da implantação
+     6. Interferência e alterações solicitadas pelo Poder Concedente
+Alocação (Continuação):
+     1. CONCESSIONÁRIA
+     2. CONCEDENTE
+     3. CONCEDENTE/ CONCESSIONÁRIA
+     4. CONCEDENTE
+     5. CONCEDENTE
+     6. CONCEDENTE
+Fato Gerador (Continuação Final):
+     7. Atrasos decorrentes de descumprimento das obrigações pelo concessionário.
+     8. Atrasos ou inviabilização da implementação do objeto do Contrato quando
+            resultante da necessidade de remoções ou recolocações de cabos, canalizações
+            e/ou outras instalações subterrâneas de prestadores de serviços públicos ou de
+            serviços de interesses da coletividade.
+     9. Ineficiência ou falha no desempenho dos subcontratados e fornecedores.
+     10. Atraso no início das obras em decorrência de invasão de terrenos desocupados
+Alocação (Continuação Final):
+     7. CONCESSIONÁRIA
+     8. CONCEDENTE
+     9. CONCESSIONÁRIA
+     10. CONCESSIONÁRIA
+Mitigação (Continuação Final):
+     7. Previsão de penalidades e multas pelos atrasos que decorram de ação ou omissão
+            da concessionária no descumprimento de suas obrigações contratuais. Performance
+            bond.
+     8. Reequilíbrio econômico-financeiro e repactuação de prazo da obra, caso as
+            interferências não tenham sido informadas pelo Poder Concedente. As
+            interferências informadas pelo Poder Concedente são de responsabilidade da
+            concessionária.
+     9. Previsão no Contrato de que os subcontratados devem possuir plena capacidade de
+            atenderem adequadamente a todas as exigências contratuais. A Concessionária é
+            responsável pelos subcontratados. Penalidades e multas por descumprimentos
+            contratuais.
+
+                                                                                                     6
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                     VERSÃO 07_2026, 21 JULHO 2026
+     10. Obrigação da Concessionária de manter a posse das áreas, livres e
+            desembaraçadas e em condições para o início das obras. Penalidades e multas para
+            o caso de descumprimento do cronograma.
+
+
+
+
+                                                                                                   7
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                   VERSÃO 07_2026, 21 JULHO 2026
+         4. RISCOS DE OPERAÇÃO
+III- RISCOS NA FASE DE OPERAÇÃO
+               RISCOS                      FATO GERADOR                     ALOCAÇÃO                                                        MITIGAÇÃO
+                                                                      1. CONCESSIONÁRIA     1. A Concessionária deverá obter, com o apoio dos melhores esforços do Poder Concedente, todas as
+                                 1. Atraso no licenciamento                                 licenças que se fizerem necessárias. Penalidades e multas se o atraso na obtenção de licenças e autorizações
+                                 ambiental e na obtenção de           2. CONCEDENTE         se der por motivos imputáveis à Concessionária. Reequilíbrio em favor da Concessionária caso os atrasos não
+                                 autorizações necessárias                                   sejam a ela imputáveis.
+                                                                    3. CONCEDENTE
+                                 2. Suspensão da implantação em                             2. Excludente do cumprimento das obrigações da concessionária. Suspensão do prazo para término da
+                                 virtude de ato do Poder Concedente 4. CONCESSIONÁRIA       implantação. Recomposição do equilíbrio econômico-financeiro.
+                                 ou de terceiro
+                                                                    5. CONCEDENTE           3. Quando não houver culpa da CONCESSIONÁRIA.
+                                 3. Não obtenção ou atraso na
+        Atraso no início da      obtenção de autorizações de                                4. A partir da DATA DE ASSUNÇÃO é de responsabilidade da CONCESSIONÁRIA as penalidades decorrentes do
+III.1
+        operação                 responsabilidade do CONCEDENTE                             serviço.
+
+                                 4. Aplicação de penalidades pelas                          5. CONCEDENTE responde pelos vícios oriundos de fatos anteriores à assunção dos serviços pela
+                                 autoridades públicas competentes                           CONCESSIONÁRIA.
+                                 decorrentes da execução dos
+                                 serviços
+
+                                 5. Vícios ocultos nos bens vinculados
+                                 a CONCESSÃO, já existentes ou
+                                 originados em data anterior à
+                                 assunção dos serviços
+                                 1. Serviços de má qualidade           1. CONCESSIONÁRIA    1. Desempenho é fiscalizado pela Agência Reguladora, por meio da avaliação da qualidade da prestação dos
+                                                                                            serviços.
+                                 2. Falta de investimentos para       2. CONCESSIONÁRIA
+III.2 Insatisfação do usuário    atendimento da demanda                                     2. Concessionária é responsável pela prestação dos serviços públicos conforme definidos do Edital e no
+                                                                      3. CONCESSIONÁRIA     Contrato.
+                                 3. Reincidência em índices baixos de
+                                 desempenho                                                 3. Penalidades, intervenção, caducidade.
+                                 1. Baixa qualidade dos bens          1. CONCESSIONÁRIA     1. Concessionária conserva a responsabilidade integral pelos bens, devendo inventariá-los
+                                                                                            permanentemente, substituí-los ou repará-los.
+                                 2. Conflitos multitudinários e       2. CONCEDENTE
+                                 eventos imprevisíveis                                      2. Força maior: motiva o reequilíbrio do contrato, salvo quando configurada culpa da Concessionária ou
+                                                                      3. CONCESSIONÁRIA     quando possível a contratação de seguros para a mitigação dos danos.
+                                 3. Má utilização pelos usuários
+      Perecimento ou
+                                                                      4. CONCESSIONÁRIA /   3. Concessionária conserva responsabilidade pela segurança e integridade dos bens da concessão, contrato
+III.3 destruição dos bens da
+                                 4. Dever de atualidade tecnológica   CONCEDENTE            prevê seguros para a mitigação dos danos.
+      concessão
+
+                                                                                            4. Obrigação da Concessionária em assegurar a prestação dos serviços com atualidade, de modo a atendar aos
+                                                                                            indicadores de desempenho e metas estabelecidas. Eventual solicitação do Poder Concedente que envolva a
+                                                                                            incorporação de inovação tecnológica será hipótese de recomposição do equilíbrio econômico-financeiro da
+                                                                                            Concessão. Eventual alteração unilateral nos indicadores de desempenho que gere a necessidade de
+                                                                                            atualização teconológica é hipótese de recomposição.
+                                 1. Insegurança dos veículos e dos    1. CONCESSIONÁRIA     1. Responsabilidade conservada pela Concessionária.
+                                 equipamentos operados pela
+                                 Concessionária.                      2. CONCESSIONÁRIA     2. Responsabilidade conservada pela Concessionária. Penalidades em caso de descumprimento de
+                                                                                            obrigações contratuais e legais.
+      Segurança dos bens e       2. Falta de treinamento adequado do 3. CONCESSIONÁRIA
+III.4
+      usuários                   pessoal da Concessionária.                                 3. Responsabilidade conservada pela Concessionária. Concessionária tem a responsabilidade de instalar
+                                                                                            equipamentos de segurança e manter planos de seguros.
+                                 3. Furto, roubo ou danos causados
+                                 nos bens sob guarda da
+                                 Concessionária.
+                                 1. Intervenção na concessão em       1. CONCESSIONÁRIA     1. Concessionário é obrigado a oferecer garantia de execução do contrato. Prerrogativa do Concedente na
+      Intervenção por
+                                 razão de descumprimento de                                 intervenção.
+III.5 descumprimento do
+                                 condições contratuais pelo
+      contrato
+                                 Concessionária
+                                 1. Variação da demanda               1. CONCESSIONÁRIA     1. Concessionária assume o risco de variação da demanda real verificada nos serviços objeto da CONCESSÃO.
+III.6 Demanda
+
+        Passivos trabalhista e   1. Inadimplência da Concessionária 1. CONCESSIONÁRIA       1. Obrigação da Concessionária de manter indene o Poder Concedente em relação à eventual
+III.7
+        previdenciário           em relação a obrigações trabalhistas                       responsabilidade solidária de arcar com obrigações trabalhistas e previdenciárias.
+                                 1. Carência de energia suficiente    1. CONCEDENTE         1. Se decorrente de problemas da concessionária de energia local, a Concessionária se exime da medição dos
+                                 para operação do Sistema.                                  indicadores de desempenho no período de sua ocorrência, bem como da aplicação de penalidades caso não
+      Fornecimento de                                                 2. CONCESSIONÁRIA     tenha concorrido para a causa do evento.
+      energia e                  2. Queda no sistema de
+III.8 disponibilidade das        telecomunicações que impeçam o                             2. Concessionária conserva o risco por interrupção e/ou intermitência dos sistemas de telecomunicações.
+      redes de                   funcionamento do sistema de
+      telecomunicação            tecnologia da informação do
+                                 Concessionário.
+
+
+                                 1. Eventos imprevistos ou não-     1. CONCESSIONÁRIA/      1. Concessionária assume os riscos até o limite da cobertura do seguro no valor indicado no Contrato.
+                                 seguráveis que venham a prejudicar CONCEDENTE              Eventuais impactos que superarem este valor serão assumidos pelo Poder Concedente sob a cláusula de
+                                 a implantação do empreendimento,                           Caso Fortuito, Força maior ou Fato do Príncipe. Considera-se caso fortuito ou força maior,
+      Caso Fortuito, Força       as obras obrigatórias, ou que                              exemplificativamente: Guerras nacionais ou internacionais que envolvam diretamente a execução
+III.9 maior ou Fato do           provoquem danos patrimoniais.                              contratual; Pandemia; Atos de terrorismo; Contaminação nuclear, química ou biológica, salvo se decorrentes
+      Príncipe                                                                              de atos da CONCESSIONÁRIA. A Concessionária não pode deixar de prestar o serviço, por se tratarem de
+                                                                                            serviços essenciais, devendo para tanto, nos casos aqui previstos, apresentar soluções alternativas à forma
+                                                                                            de prestação padrão se esta restar impossibilitada.
+
+
+
+
+                                                                                                                                                                                              8
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                                                                                     VERSÃO 07_2026, 21 JULHO 2026
+IV - RISCOS NA FASE DE OPERAÇÃO
+              RISCOS                   FATO GERADOR                        ALOCAÇÃO                                                      MITIGAÇÃO
+                            1. Variação cambial                      1. CONCESSIONÁRIA   1. Risco da Concessionária
+
+                              2. Má performance da                   2. CONCESSIONÁRIA   2. Risco da Concessionária
+                              Concessionária
+                                                                     3. CONCEDENTE       3. Poder Concedente responde pelos riscos não seguráveis, nos termos da cláusula rebus sic stantibus,
+                              3. Imprevisões, álea econômica                             referente aos eventos que venham a alterar o equilíbrio econômico financeiro do Contrato
+                              extraordinária e extracontratual.      4. CONCESSIONÁRIA
+                                                                                         4. Concessionária conserva os riscos pelo plano de negócios apresentado
+                              4. Erros do plano de negócios          5. CONCEDENTE
+                              apresentado pela Concessionária                            5. Fórmula de reajuste, regras de cálculo e periodicidade previamente determinadas no contrato e realizadas
+                                                                     6. CONCESSIONÁRIA   pela Agência Reguladora
+     Falta de retorno
+                              5. Fórmula de correção adotada que
+     econômico dos
+IV.1                          fica abaixo das variações dos custos                       6. Risco da Concessionária
+     investimentos
+                              operacionais e investimentos da
+     realizados
+                              Concessionária.
+
+                               6. Aumento do custo de
+                              empréstimos e financiamentos
+                              assumidos pela Concessionária para
+                              realização de investimentos ou
+                              custeio das operações objeto da
+                              Concessão, em relação ao previsto
+                              no Plano de Negócios.
+
+
+
+
+                              7. Taxa de juros aumenta entre o    7. CONCESSIONÁRIA      7. Risco da Concessionária.
+                              término da licitação e o fechamento
+     Falta de retorno         do financiamento da Concessionária, 8. CONCEDENTE          8. Não são consideradas nesse caso as atualizações que já deveriam ter sido previstas pela CONCESSIONÁRIA
+     econômico dos            inviabilizando o preço do serviço                          em virtude de crescimento vegetativo ou expansão. Reequilibrio econômico do contrato se comprovado o
+IV.1 investimentos            estabelecido na proposta.                                  impacto.
+     realizados
+     (continuação)            8. Atualização do PMSB/PMGIRS que
+                              importem alteração nos custos ou
+                              encargos da CONCESSIONÁRIA.
+
+                              1. Falta de retorno econômico          1. CONCESSIONÁRIA   1. Risco alocado à Concessionária. Repercussões para a continuidade da concessão mitigadas pela
+                              esperado, idem item anterior                               possibilidade de cessão dos direitos emergentes da concessão e de oneração das ações da SPE em favor dos
+                                                                     2. CONCESSIONÁRIA   financiadores, bem como previsão de assunção do controle da SPE pelos seus financiadores (step-in),
+                              2. Interrupção do contrato por                             intervenção na Concessionária pelo Poder Concedente. Caducidade e execução da garantia do contrato.
+     Insolvência da          decretação de falência da               3. CONCESSIONÁRIA
+     Concessionária ou       Concessionária.                                             2. Mecanismos de acompanhamento periódico da situação financeira da Concessionária pelo Poder
+IV.2
+     quebra do contrato pela                                                             Concedente e Agência Reguladora. Procedimentos preventivos para intervenção na Concessionária antes de
+     Concessionária          3. Mudança no controle da SPE                               esta entrar em situação falimentar previstos no Contrato. Retorno dos bens reversíveis livres e
+                             resulta em redução de sua                                   desembaraçados de quaisquer ônus.
+                             capacidade financeira
+                                                                                         3. Previsão no Contrato de obrigatoriedade de autorização do Poder Concedente para alterações de controle.
+
+
+
+
+III. RISCOS NA FASE DE OPERAÇÃO
+III.1 ATRASO NO INÍCIO DA OPERAÇÃO
+Fato Gerador 1: Atraso no licenciamento ambiental e na obtenção de autorizações
+necessárias.
+Alocação: Concessionária.
+Mitigação: A Concessionária deverá obter, com o apoio dos melhores esforços do Poder
+Concedente, todas as licenças necessárias. Caso o atraso seja imputável à Concessionária,
+aplicar-se-ão penalidades e multas. Se o atraso não lhe for imputável, caberá reequilíbrio
+econômico-financeiro.
+
+
+Fato Gerador 2: Suspensão da implantação em virtude de ato do Poder Concedente ou de
+terceiro.
+Alocação: Concedente.
+Mitigação: Configura excludente do cumprimento das obrigações da Concessionária, com
+suspensão do prazo para término da implantação e recomposição do equilíbrio econômico-
+financeiro.
+
+
+
+                                                                                                                                                                                                 9
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                                                                                       VERSÃO 07_2026, 21 JULHO 2026
+Fato Gerador 3: Aplicação de penalidades pelas autoridades públicas competentes
+decorrentes da execução dos serviços.
+Alocação: Concedente (quando não houver culpa da Concessionária).
+Mitigação: Isenção de responsabilidade da Concessionária se demonstrada a ausência de
+culpa.
+
+
+Fato Gerador 4: Vícios ocultos nos bens vinculados à Concessão, já existentes ou
+originados em data anterior à assunção dos serviços.
+Alocação: Concessionária.
+Mitigação: A partir da Data de Assunção, a Concessionária assume integral
+responsabilidade pelas penalidades decorrentes da execução dos serviços relacionados a
+tais vícios.
+
+
+III.2 INSATISFAÇÃO DO USUÁRIO
+Fato Gerador 1: Serviços de má qualidade.
+Alocação: Concessionária.
+Mitigação: Fiscalização contínua pela Agência Reguladora, com avaliação sistemática da
+qualidade da prestação dos serviços.
+
+
+Fato Gerador 2: Falta de investimentos para atendimento da demanda.
+Alocação: Concessionária.
+Mitigação: A Concessionária é contratualmente obrigada a prestar os serviços conforme
+padrões definidos no Edital e no Contrato.
+
+
+Fato Gerador 3: Reincidência em índices baixos de desempenho.
+Alocação: Concessionária.
+Mitigação: Aplicação de penalidades, intervenção ou declaração de caducidade da
+concessão.
+
+
+III.3 PERECIMENTO OU DESTRUIÇÃO DOS BENS DA CONCESSÃO
+Fato Gerador 1: Baixa qualidade dos bens.
+Alocação: Concessionária.
+Mitigação: Responsabilidade integral da Concessionária pela conservação, inventário
+permanente, substituição ou reparo dos bens.
+
+
+Fato Gerador 2: Conflitos multitudinários e eventos imprevisíveis.
+Alocação: Concedente.
+Mitigação: Configuração de força maior, que motiva o reequilíbrio do contrato, exceto se
+houver culpa da Concessionária ou se for possível a contratação de seguros para mitigação
+dos danos.
+
+                                                                                                     10
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                     VERSÃO 07_2026, 21 JULHO 2026
+Fato Gerador 3: Mutiria pelos usuários.
+Alocação: Concessionária.
+Mitigação: Responsabilidade da Concessionária pela segurança e integridade dos bens,
+devendo contratar seguros para mitigação dos danos.
+
+
+Fato Gerador 4: Dever de atualidade tecnológica.
+Alocação: Concedente.
+Mitigação: A Concessionária deve assegurar a prestação dos serviços com atualidade
+tecnológica para atender aos indicadores de desempenho. Solicitações do Poder
+Concedente que envolvam incorporação de inovação tecnológica, ou alterações unilaterais
+nos indicadores que gerem necessidade de atualização, serão hipóteses de recomposição
+do equilíbrio econômico-financeiro.
+
+
+III.4 SEGURANÇA DOS BENS E USUÁRIOS
+Fato Gerador 1: Insegurança dos veículos e equipamentos operados pela Concessionária.
+Alocação: Concessionária.
+Mitigação: Responsabilidade integral da Concessionária pela manutenção e segurança dos
+ativos.
+
+
+Fato Gerador 2: Falta de treinamento adequado do pessoal da Concessionária.
+Alocação: Concessionária.
+Mitigação: Responsabilidade da Concessionária, sujeita a penalidades em caso de
+descumprimento de obrigações contratuais e legais.
+
+
+Fato Gerador 3: Furto, roubo ou danos causados nos bens sob guarda da Concessionária.
+Alocação: Concessionária.
+Mitigação: A Concessionária deve instalar equipamentos de segurança adequados e manter
+planos de seguros para cobrir tais eventos.
+
+
+III.5 INTERVENÇÃO POR DESCUMPRIMENTO DO CONTRATO
+Fato Gerador 1: Intervenção na concessão em razão de descumprimento de condições
+contratuais pela Concessionária.
+Alocação: Concessionária.
+Mitigação: Obrigação da Concessionária de oferecer garantia de execução do contrato. O
+Concedente possui prerrogativa contratual e legal para intervir.
+
+
+III.6 DEMANDA
+Fato Gerador 1: Variação da demanda.
+Alocação: Concessionária.
+
+                                                                                                   11
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                   VERSÃO 07_2026, 21 JULHO 2026
+Mitigação: A Concessionária assume integralmente o risco de variação da demanda real
+verificada nos serviços objeto da Concessão.
+
+
+III.7 PASSIVOS TRABALHISTAS E PREVIDENCIÁRIOS
+Fato Gerador 1: Inadimplência da Concessionária em relação a obrigações trabalhistas e
+previdenciárias.
+Alocação: Concessionária.
+Mitigação: Obrigação da Concessionária de manter indene o Poder Concedente em relação
+a qualquer responsabilidade solidária decorrente desses passivos.
+
+
+III.8 FORNECIMENTO DE ENERGIA E DISPONIBILIDADE DAS REDES DE
+TELECOMUNICAÇÃO
+Fato Gerador 1: Carência de energia suficiente para operação do Sistema.
+Alocação: Concedente (quando decorrente de falha da concessionária de energia local).
+Mitigação: A Concessionária fica eximida da medição de indicadores de desempenho e de
+penalidades durante a interrupção, desde que não tenha concorrido para a causa do
+evento.
+
+
+Fato Gerador 2: Queda no sistema de telecomunicações que impeça o funcionamento do
+sistema de tecnologia da informação da Concessionária.
+Alocação: Concessionária.
+Mitigação: A Concessionária conserva o risco por interrupção e/ou intermitência dos
+sistemas de telecomunicações.
+
+
+III.9 CASO FORTUITO, FORÇA MAIOR OU FATO DO PRÍNCIPE
+Fato Gerador 1: Eventos imprevistos ou não seguráveis que prejudiquem a implantação, as
+obras obrigatórias ou provoquem danos patrimoniais.
+Alocação: Concessionária (até o limite da cobertura do seguro) / Concedente (para
+impactos superiores à cobertura).
+Mitigação: A Concessionária assume os riscos até o valor da cobertura do seguro
+contratual. Impactos que superarem esse limite serão assumidos pelo Poder Concedente.
+Consideram-se caso fortuito ou força maior: guerras, pandemias, atos de terrorismo e
+contaminação nuclear, química ou biológica (salvo se decorrentes de atos da
+Concessionária). A Concessionária, por tratar-se de serviço essencial, não pode deixar de
+prestar o serviço, devendo apresentar soluções alternativas se a forma padrão for
+impossibilitada.
+
+
+IV. RISCOS NATOS DA OPERAÇÃO
+IV.1 FALTA DE RETORNO ECONÔMICO DOS INVESTIMENTOS REALIZADOS
+Fato Gerador 1: Variação cambial.
+
+                                                                                                    12
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                    VERSÃO 07_2026, 21 JULHO 2026
+Alocação: Concessionária.
+Mitigação: Risco assumido integralmente pela Concessionária.
+
+
+Fato Gerador 2: Má performance da Concessionária.
+Alocação: Concessionária.
+Mitigação: Risco assumido integralmente pela Concessionária.
+
+
+Fato Gerador 3: Imprevisões de ordem econômica extraordinária e extracontratual.
+Alocação: Concedente.
+Mitigação: O Poder Concedente responde por riscos não seguráveis nos termos da cláusula
+rebus sic stantibus, aplicável a eventos que alterem fundamentalmente o equilíbrio
+econômico-financeiro do Contrato.
+
+
+Fato Gerador 4: Erros do plano de negócios apresentado pela Concessionária.
+Alocação: Concessionária.
+Mitigação: A Concessionária conserva integralmente os riscos inerentes ao plano de
+negócios por ela apresentado.
+
+
+Fato Gerador 5: Fórmula de correção que fique abaixo das variações dos custos
+operacionais e dos investimentos da Concessionária.
+Alocação: Concedente.
+Mitigação: A fórmula de reajuste, suas regras de cálculo e periodicidade são predefinidas
+no contrato e supervisionadas pela Agência Reguladora.
+
+
+Fato Gerador 6: Aumento do custo de empréstimos e financiamentos em relação ao
+previsto no Plano de Negócios.
+Alocação: Concessionária.
+Mitigação: Risco assumido integralmente pela Concessionária.
+
+
+Fato Gerador 7: Aumento da taxa de juros entre o término da licitação e o fechamento do
+financiamento.
+Alocação: Concessionária.
+Mitigação: Risco assumido integralmente pela Concessionária.
+
+
+Fato Gerador 8: Inviabilização do preço do serviço estabelecido na proposta.
+Alocação: Concedente.
+Mitigação: Caberá reequilíbrio econômico do contrato se comprovado impacto não previsto,
+exceto para atualizações decorrentes de crescimento vegetativo ou expansão, cuja previsão
+era obrigatória pela Concessionária.
+
+
+
+                                                                                                  13
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                  VERSÃO 07_2026, 21 JULHO 2026
+Fato Gerador 9: Atualização do PMSB/PMGRS que importe alteração nos custos ou encargos
+da Concessionária.
+Alocação: Concedente.
+Mitigação: Caberá reequilíbrio econômico do contrato se comprovado impacto não previsto,
+exceto para atualizações decorrentes de crescimento vegetativo ou expansão, cuja previsão
+era obrigatória pela Concessionária.
+
+
+
+
+                                                                                                14
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                VERSÃO 07_2026, 21 JULHO 2026
+      5. RISCOS AMBIENTAIS E SOCIAIS
+V - RISCOS AMBIENTAIS E SOCIAIS
+             RISCOS                   FATO GERADOR                      ALOCAÇÃO                                                      MITIGAÇÃO
+                            1. Ocorrência de processo de          1. CONCESSIONÁRIA   1. Obrigação de contratação, pela Concessionária, de plano de seguros, inclusive de Riscos de Engenharia.
+                            desestabilização do terreno, em                           Exigência de garantia de execução do contrato.
+                            razão de erosões, escorregamento,     2. CONCEDENTE
+                            desagregação superficial, recalque,                       2. Se criadas posteriormente à contratação, reequilíbrio contratual.
+                            dentre outros, nos locais de obras.   3. CONCEDENTE
+                                                                                      3. Concessionária responde pelos danos ambientais e passivo ambiental causado após assinatura do
+V.1 Ambiental
+                             2. Criação de condicionantes                             Contrato, a que houver dado causa. Previsão no Contrato de que o Poder Concedente será o único
+                             ambientais não previstas quando da                       responsável pelo passivo ambiental anterior à data de assinatura do contrato, devendo manter a
+                             obtenção da licença ambiental                            Concessionária isenta de qualquer responsabilidade quando originado de atos ou fatos ocorridos
+                             prévia, com aumento dos custos                           anteriormente a referida data.
+                             operacionais.
+
+
+
+
+V.1 RISCOS AMBIENTAIS
+Fato Gerador 1: Ocorrência de processo de desestabilização do terreno, em razão de erosões,
+escorregamento, desagregação superficial, recalque, dentre outros, nos locais de obras.
+Alocação: Concessionária.
+Mitigação: Obrigação de contratação, pela Concessionária, de plano de seguros, inclusive de
+Riscos de Engenharia. Exigência de garantia de execução do contrato.
+
+
+Fato Gerador 2: Criação de condicionantes ambientais não previstas quando da obtenção da
+licença ambiental prévia, com aumento dos custos operacionais.
+Alocação: Concedente (quando criadas posteriormente à contratação).
+Mitigação: Reequilíbrio econômico-financeiro do contrato para compensar os custos
+adicionais decorrentes de novas condicionantes estabelecidas após a contratação.
+
+
+Fato Gerador 3: Danos ambientais ou passivo ambiental.
+Alocação:
+
+
+Concessionária: pelos danos ambientais e passivo ambiental causados após a assinatura do
+Contrato, e a que houver dado causa.
+
+
+Concedente: pelo passivo ambiental anterior à data de assinatura do contrato.
+Mitigação: Previsão contratual expressa de que o Poder Concedente será o único responsável
+pelo passivo ambiental anterior à data de assinatura do contrato, devendo manter a
+Concessionária isenta de qualquer responsabilidade quando originado de atos ou fatos
+ocorridos anteriormente a referida data. A Concessionária, por sua vez, deverá adotar todas
+as medidas preventivas e corretivas para evitar danos ambientais durante a execução do
+contrato.
+
+
+V.2 RISCOS SOCIAIS
+Fato Gerador 1: Impactos sociais negativos decorrentes da implantação ou operação do
+empreendimento, como deslocamento de comunidades, alteração no acesso a serviços
+públicos ou prejuízos a atividades econômicas locais.
+
+                                                                                                                                                                                              15
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                                                                                      VERSÃO 07_2026, 21 JULHO 2026
+Alocação: Concedente (no planejamento e indenizações) / Concessionária (na execução e
+gestão dos impactos).
+Mitigação: Elaboração e implementação de Plano de Gestão Social, aprovado pelo Poder
+Concedente, que inclua programas de reassentamento (quando necessário), compensações,
+comunicação transparente com as comunidades afetadas e monitoramento contínuo dos
+indicadores sociais.
+
+
+Fato Gerador 2: Conflitos com comunidades locais, movimentos sociais ou grupos de
+interesse em razão da obra ou da operação.
+Alocação: Concessionária.
+Mitigação: Estabelecimento de canais permanentes de diálogo e ouvidoria específica para
+comunidades afetadas. Inclusão de cláusulas de responsabilidade social no contrato, com
+metas de engajamento comunitário. A Concessionária deverá reportar trimestralmente ao
+Concedente sobre o andamento da gestão de conflitos.
+
+
+Fato Gerador 3: Descumprimento de normas trabalhistas, condições inadequadas de trabalho
+ou acidentes laborais que gerem repercussão social.
+Alocação: Concessionária.
+Mitigação: Exigência de cumprimento integral da legislação trabalhista e de normas de
+segurança do trabalho. Implementação de programas de capacitação, certificações de boas
+práticas e auditorias periódicas pela Agência Reguladora ou por entidade independente.
+
+
+Fato Gerador 4: Aumento da pressão sobre serviços públicos locais (saúde, educação,
+infraestrutura urbana) devido à migração temporária ou permanente de trabalhadores para
+a região das obras.
+Alocação: Compartilhado (Concedente e Concessionária).
+Mitigação: Estabelecimento de Acordo de Cooperação entre a Concessionária e o município(s)
+impactado(s), com contrapartidas financeiras ou de infraestrutura para mitigar os efeitos
+sobre os serviços públicos. O contrato deve prever a obrigação da Concessionária de elaborar
+estudo de impacto social e plano de mitigação, aprovado pelo Concedente.
+
+
+Fato Gerador 5: Danos ao patrimônio cultural, histórico, arqueológico ou paisagístico.
+Alocação: Concessionária (durante a execução) / Concedente (em relação a bens já
+conhecidos e inventariados).
+Mitigação: Exigência de estudos prévios de impacto cultural e arqueológico. Caso sejam
+encontrados bens não previstos durante as obras, a Concessionária deverá paralisar
+imediatamente as atividades no local e comunicar ao Concedente e aos órgãos competentes,
+assumindo os custos de preservação ou resgate apenas se o dano for decorrente de sua
+ação. Para bens já catalogados, o Concedente fornecerá todas as informações e restrições
+previamente.
+
+                                                                                                  16
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                  VERSÃO 07_2026, 21 JULHO 2026
+        6. RISCOS INSTITUCIONAIS
+VI - RISCOS INSTITUCIONAIS
+              RISCOS                     FATO GERADOR                          ALOCAÇÃO                                                  MITIGAÇÃO
+                                1. Encampação                            1. CONCEDENTE    1. Indenização prévia à Concessionária.
+
+                                2. Indefinição de competências entre 2. CONCEDENTE        2. Definição prévia das competências referentes à concessão.
+                                os entes federativos e entre os
+                                órgãos e estruturas internas de cada 3. CONCESSIONÁRIA    3. Entidade reguladora e mediação mitigam eventual parcialidade na avaliação de qualidade.
+                                um.
+                                                                     4. CONCEDENTE        4. Possibilidade de acordo entre Poder Concedente e Concessionária para rever os índices dos indicadores de
+                                3. Manipulação dos indicadores de                         desempenho, a fim de adequá-los às novas tecnologias ou necessidades dos serviços prestados. Reequilíbrio
+                                desempenho.                          5. CONCEDENTE        econômico-financeiro previsto no contrato de concessão caso a revisão dos parâmetros de desempenho
+                                                                                          gerem custos adicionais à Concessionária.
+                                4. Exigências por parte do Poder
+                                Concedente de novos padrões de                            5. Previsão de penalidades aplicáveis.
+VI.1 Político                   desempenho, relacionados a
+                                mudanças tecnológicas ou a
+                                adequações a padrões
+                                internacionais.
+
+                                5. Descumprimento, pelo poder
+                                concedente, de suas obrigações
+                                contratuais ou regulamentares,
+                                incluindo, mas não se limitando, ao
+                                descumprimento de prazos
+                                aplicáveis ao poder concedente
+                                previstos neste contrato e/ou na
+                                legislação vigente.
+                                1. Lentidão e falhas na jurisdição.      1. CONCEDENTE/   1. Arbitragem e sistema amigável de solução de controvérsias garantem às partes maior celeridade nas
+                                                                         CONCESSIONÁRIA   decisões e maior especialização dos julgadores.
+                                2. Decisão judicial, arbitral ou
+                                administrativa que impeça ou         2. CONCEDENTE        2. Risco do Concedente, exceto nos casos em que a concessionária houver dado causa a tal decisão. Previsão
+VI.2 Judicial
+                                impossibilite a concessionária de                         de arbitragem e sistema amigável de solução de controvérsias garantem às partes maior celeridade nas
+                                obter o reajuste da contraprestação                       decisões e maior especialização dos julgadores.
+                                de acordo com o estabelecido neste
+                                contrato.
+                                1. Alterações na regulação dos       1. CONCEDENTE        1. A alteração na regulação que cause comprovadamente prejuízos à CONCESSIONÁRIA é causa de
+                                serviços concedidos ou na legislação                      recomposição do equilíbrio econômico-financeiro do contrato.
+                                de modo a afetar a prestação dos     2. CONCEDENTE
+                                serviços.                                                 2. Responsabilidade do CONCEDENTE perante a antiga operadora, em relação aos respectivos serviços e
+       Regulatório, legislativo                                                           sistemas, ainda que manifestados posteriormente à data de assunção dos serviços pela Concessionária.
+VI.3
+       e contratual             2. Existência de passivos contratuais,
+                                fiscais, trabalhistas, previdenciários
+                                ou de qualquer outra natureza
+                                decorrentes de fatos anteriores à
+                                data de assunção.
+
+
+
+
+VI.1 RISCO POLÍTICO
+Fato Gerador 1: Encampação (retomada da concessão pelo Poder Público).
+Alocação: Concedente.
+Mitigação: Indenização prévia e integral à Concessionária, calculada conforme critérios
+estabelecidos no contrato e na legislação aplicável.
+
+
+Fato Gerador 2: Indefinição de competências entre os entes federativos e entre os órgãos e
+estruturas internas de cada um.
+Alocação: Concedente.
+Mitigação: Definição prévia e clara no instrumento convocatório e no contrato das
+competências, atribuições e interfaces relacionadas à concessão.
+
+
+Fato Gerador 3: Manipulação dos indicadores de desempenho.
+Alocação: Concessionária (quando praticada pela Agência Reguladora ou Concedente).
+Mitigação: Atuação de uma entidade reguladora independente, com critérios objetivos e
+auditáveis, e previsão de mecanismos de mediação ou revisão para mitigar eventuais
+parcialidades na avaliação de qualidade.
+                                                                                                                                                                                                 17
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                                                                                        VERSÃO 07_2026, 21 JULHO 2026
+Fato Gerador 4: Exigências por parte do Poder Concedente de novos padrões de desempenho,
+relacionados a mudanças tecnológicas ou a adequações a padrões internacionais.
+Alocação: Concedente.
+Mitigação: Possibilidade de acordo entre as partes para revisar os índices dos indicadores de
+desempenho, a fim de adequá-los às novas tecnologias ou necessidades. Reequilíbrio
+econômico-financeiro será garantido à Concessionária caso a revisão dos parâmetros gere
+custos adicionais não previstos originalmente.
+
+
+Fato Gerador 5: Descumprimento, pelo Poder Concedente, de suas obrigações contratuais
+ou regulamentares, incluindo o descumprimento de prazos aplicáveis.
+Alocação: Concedente.
+Mitigação: Previsão expressa no contrato de penalidades aplicáveis ao Poder Concedente,
+bem como de mecanismos de compensação e reequilíbrio em favor da Concessionária.
+
+
+VI.2 RISCO JUDICIAL
+Fato Gerador 1: Lentidão e falhas na jurisdição.
+Alocação: Compartilhado (Concedente e Concessionária).
+Mitigação: Adoção de cláusula de arbitragem e de um sistema ágil e especializado de solução
+de controvérsias, garantindo às partes maior celeridade e expertise técnica nas decisões.
+
+
+Fato Gerador 2: Decisão judicial, arbitral ou administrativa que impeça ou impossibilite a
+Concessionária de obter o reajuste da contraprestação de acordo com o estabelecido no
+contrato.
+Alocação: Concedente (exceto se a Concessionária houver dado causa à decisão).
+Mitigação: O risco é assumido pelo Concedente. A cláusula de arbitragem e o sistema
+especializado de solução de controvérsias também atuam como mitigadores, oferecendo um
+foro mais previsível e técnico.
+
+
+VI.3 RISCO REGULATÓRIO, LEGISLATIVO E CONTRATUAL
+Fato Gerador 1: Alterações na regulação dos serviços concedidos ou na legislação de modo
+a afetar negativamente a prestação dos serviços ou o equilíbrio econômico-financeiro do
+contrato.
+Alocação: Concedente.
+Mitigação: Previsão contratual de que alterações regulatórias ou legislativas que causem
+comprovadamente prejuízos à Concessionária constituem causa para recomposição do
+equilíbrio econômico-financeiro do contrato.
+
+
+
+
+                                                                                                   18
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                   VERSÃO 07_2026, 21 JULHO 2026
+Fato Gerador 2: Existência de passivos contratuais, fiscais, trabalhistas, previdenciários ou
+de qualquer outra natureza, decorrentes de fatos anteriores à Data de Assunção dos serviços
+pela Concessionária.
+Alocação: Concedente.
+Mitigação: Responsabilidade integral do Concedente perante a autoridade competente em
+relação a tais passivos, mesmo que manifestados posteriormente à Data de Assunção. O
+Concedente obriga-se a manter a Concessionária indene de qualquer responsabilidade
+relacionada a esses eventos pretéritos.
+
+
+
+     7. OBSERVAÇÃO FINAL DA MATRIZ DE RISCOS
+
+A presente matriz, integrante do Edital e do futuro Contrato de Concessão, tem caráter
+dinâmico e poderá ser revisada e atualizada periodicamente pela Agência Reguladora, de
+comum acordo entre as partes ou por força de alterações no marco legal e regulatório,
+sempre com o objetivo de manter a justa alocação dos riscos e a sustentabilidade da parceria.
+
+
+
+
+                                                                                                   19
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                   VERSÃO 07_2026, 21 JULHO 2026
+

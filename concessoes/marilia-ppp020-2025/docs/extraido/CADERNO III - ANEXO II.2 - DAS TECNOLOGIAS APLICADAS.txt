@@ -1,0 +1,325 @@
+Caderno III
+Modelagem Jurídica
+
+Anexo II.2 – Das Tecnologias
+Aplicadas
+
+
+
+
+Desenvolvimento:
+
+
+
+
+                               1
+                    ANEXO II.2 - DAS TECNOLOGIAS APLICADAS
+
+
+
+     1. OBJETO DO ANEXO
+O presente Anexo tem por objetivo estabelecer as diretrizes gerais relativas às tecnologias
+aplicáveis ao tratamento e valorização dos resíduos sólidos domiciliares (RSD), no âmbito da
+presente Parceria Público-Privada.
+
+
+
+     2. ESPECIFICAÇÃO DAS TECNOLOGIAS
+A CONCESSIONÁRIA deverá adotar soluções tecnológicas aptas a promover o tratamento
+adequado dos resíduos sólidos domiciliares, com vistas à:
+
+
+     •      redução da disposição final em aterro sanitário;
+
+
+     •      recuperação de valor econômico dos resíduos;
+
+
+     •      atendimento à legislação ambiental vigente;
+
+
+     •      maximização da eficiência operacional e energética.
+
+
+As tecnologias deverão ser comprovadamente operacionais e comercialmente testadas, sendo
+vedada a utilização de soluções em estágio experimental.
+
+
+As soluções apresentadas poderão contemplar tecnologias equivalentes às descritas neste
+Anexo, desde que comprovem desempenho técnico e ambiental igual ou superior.
+
+
+A Concessionária poderá empregar, isolada ou combinadamente, dentre outras tecnologias
+reconhecidas, as seguintes:
+
+
+a) Unidades de Triagem e Reciclagem;
+
+
+b) Centrais de Compostagem aeróbia ou biodigestão anaeróbia;
+
+
+c) Produção de CDR – Combustível Derivado de Resíduos, observando requisitos de qualidade e
+parâmetros de PCI;
+
+
+d) Tratamento Mecânico-Biológico (TMB);
+
+
+e) Valorização energética;
+
+                                                                                                        2
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA                                                134
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                  VERSÃO 07_2026, 21 JULHO 2026
+f) Tecnologias de tratamento térmico, incluindo gaseificação, pirólise, plasma, ou outras
+tecnologias não mencionadas anteriormente, com exceção da tecnologia de incineração;
+
+
+g) Outras tecnologias, desde que reconhecidas e adequadas as características do resíduo sólido
+domésticos, com estudo técnico detalhado, incluindo demonstração de eficácia, riscos, padrões
+de emissão e planos operacionais.
+
+
+h) É vedada a utilização de processos que impliquem queima a céu aberto, disposição
+inadequada ou qualquer procedimento não autorizado pelos órgãos de controle ambientais.
+
+
+
+
+     3. DAS TECNOLOGIAS POR LOTE
+
+
+
+
+     3.1. LOTE 1 – BIODIGESTÃO (FRAÇÃO ÚMIDA)
+
+
+3.1.1. Tecnologias elegíveis
+     •      Biodigestão anaeróbica (contínua ou em batelada);
+     •      Produção de biogás e/ou biometano;
+     •      Sistemas complementares de tratamento do digestato;
+     •      Produção de Combustível Derivado de Resíduos (CDR), quando aplicável.
+3.1.2. Requisitos mínimos
+     •      Capacidade de processamento compatível com a totalidade dos RSD previstos ao
+            longo da concessão;
+     •      Aproveitamento energético ou material da fração orgânica;
+     •      Destinação ambientalmente adequada dos subprodutos;
+     •      Integração com sistemas de segregação e trituração.
+
+
+
+
+     3.2. LOTE 2 – TRATAMENTO TÉRMICO (FRAÇÃO SECA)
+
+
+3.2.1. Tecnologias elegíveis
+     •      Gaseificação;
+     •      Pirólise;
+     •      Plasma;
+     •      Outras tecnologias termoquímicas equivalentes, desde que comprovadas.
+
+
+3.2.2. Requisitos mínimos
+
+
+                                                                                                          3
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA                                                  134
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                    VERSÃO 07_2026, 21 JULHO 2026
+     •      Tratamento da fração seca dos resíduos;
+     •      Recuperação energética;
+     •      Implantação de sistemas de controle de emissões atmosféricas;
+     •      Gestão adequada de cinzas e rejeitos;
+     •      Integração com sistemas de segregação e trituração.
+
+
+
+
+     3.3. LOTE 3 – SOLUÇÃO INTEGRADA
+
+
+3.3.1. Tecnologias elegíveis
+     •      Integração entre biodigestão e tratamento térmico;
+     •      Sistemas combinados de recuperação energética;
+     •      Outras soluções tecnológicas integradas que maximizem o aproveitamento dos
+            resíduos.
+
+
+3.3.2. Requisitos mínimos
+     •      Recepção, segregação e trituração dos resíduos;
+     •      Tratamento da fração úmida e seca;
+     •      Integração entre rotas tecnológicas;
+     •      Maximização da recuperação energética e/ou material;
+     •      Minimização da disposição final em aterro sanitário.
+
+
+
+
+     3.4. LOTE 4 – SOLUÇÃO INTEGRADA
+
+
+
+
+4. FLEXIBILIDADE TECNOLÓGICA
+Será permitida a adoção de tecnologias distintas das listadas neste Anexo, desde que a
+PROPONENTE comprove:
+     •      desempenho técnico equivalente ou superior;
+     •      atendimento aos indicadores de desempenho estabelecidos;
+     •      conformidade com a legislação ambiental aplicável.
+
+
+5. MATURIDADE TECNOLÓGICA
+As tecnologias propostas deverão:
+     •      possuir comprovação de operação em escala comercial;
+
+
+                                                                                                         4
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA                                                 134
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                   VERSÃO 07_2026, 21 JULHO 2026
+     •      apresentar referências técnicas e operacionais;
+     •      demonstrar confiabilidade e desempenho comprovado.
+
+
+6. COMPATIBILIDADE COM O PLANO DE TRABALHO
+As tecnologias propostas deverão estar integralmente descritas e justificadas no Plano de
+Trabalho, devendo apresentar:
+     •      coerência com os fluxos operacionais;
+     •      compatibilidade com a capacidade instalada;
+     •      aderência aos indicadores de desempenho (KPIs);
+     •      consistência com a proposta econômico-financeira.
+
+
+7. CONFORMIDADE AMBIENTAL E REGULATÓRIA
+A CONCESSIONÁRIA deverá garantir que as tecnologias adotadas:
+     •      atendam às normas ambientais aplicáveis;
+     •      sejam passíveis de licenciamento pelos órgãos competentes;
+     •      adotem as melhores práticas de controle de poluição;
+     •      minimizem impactos ambientais e riscos operacionais.
+
+
+
+
+     3. DIRETRIZES PARA IMPLEMENTAÇÃO PROGRESSIVA
+1.          A implantação será estruturada em fases, considerando:
+
+
+
+a) Etapas de mobilização, instalação e comissionamento;
+
+
+b) Metas intermediárias de redução de disposição final em aterro;
+
+
+c) Indicadores de desempenho ambiental e operacional;
+
+
+d) Capacidade instalada e ampliação futura;
+
+
+e) Integração com os programas municipais e regionais de gestão de resíduos.
+
+
+2.          O não atendimento às metas poderá resultar em penalidades, exigências de reforço
+operacional ou revisão de metodologias, conforme previsto no Contrato.
+
+
+
+
+                                                                                                           5
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA                                                   134
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                     VERSÃO 07_2026, 21 JULHO 2026
+     4. DIRETRIZES PARA LICENCIAMENTO AMBIENTAL
+1.          O licenciamento ambiental do empreendimento deverá observar as diretrizes da
+CETESB, autoridade licenciadora competente no Estado de São Paulo, em conformidade com o
+artigo 10, inciso VII, da Lei nº 11.079/2004.
+
+
+2.          A Concessionária deverá atender integralmente às exigências técnicas e documentais
+estabelecidas pela CETESB para cada tipo de processo ou unidade, incluindo, mas não se
+limitando a:
+
+
+
+a) EIA/RIMA ou RAP, quando aplicável;
+
+
+b) PGRS – Plano de Gerenciamento de Resíduos Sólidos;
+
+
+c) PCA/PRAD, quando exigidos;
+
+
+d) Estudos de emissões atmosféricas, ruído, odores e efluentes;
+
+
+e) Modelagens e análises de risco.
+
+
+3.          A Concessionária deverá acompanhar permanentemente as atualizações normativas e
+orientações disponíveis no sítio eletrônico da CETESB:
+
+
+https://cetesb.sp.gov.br/licenciamentoambiental/
+
+
+Para implantação de Unidades de Produção de CDR, deverá ser observada a regulamentação
+específica disponível em:
+
+
+https://cetesb.sp.gov.br/licenciamentoambiental/wpcontent/uploads/sites/32/2020/08/Unidad
+e-de-preparo-do-CDR-Combustivel-derivado-de-residuos-solidos.pdf
+
+
+
+     5. RESPONSABILIDADES DA CONCESSIONÁRIA
+1.          Compete à Concessionária:
+
+
+a) Executar todas as obras, instalações, operações e manutenções necessárias;
+
+
+b) Cumprir integralmente as normas técnicas e ambientais
+
+
+c) Implementar sistemas de monitoramento e controle;
+
+
+d) Disponibilizar relatórios periódicos de desempenho;
+
+
+                                                                                                        6
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA                                                134
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                  VERSÃO 07_2026, 21 JULHO 2026
+e) Assegurar condições de segurança, higiene e saúde ocupacional;
+
+
+f) Arcar com todos os custos diretos e indiretos relacionados às tecnologias implementadas.
+
+
+2.          O PODER CONCEDENTE manterá suas atribuições legais relativas à fiscalização,
+acompanhamento e aprovação de estudos prévios, conforme legislação aplicável às PPPs.
+
+
+
+     6. DISPOSIÇÕES FINAIS
+1.          Qualquer tecnologia não prevista expressamente neste anexo poderá ser aceita, desde
+que previamente aprovada pela CETESB e pelo PODER CONCEDENTE, com apresentação de
+estudos completos e demonstração de viabilidade.
+
+
+2.          Este Anexo integra o Edital e demais documentos da Parceria Público-Privada,
+prevalecendo suas disposições sobre quaisquer instruções técnicas que conflitem com o objeto
+licitado.
+
+
+
+
+                                                                                                         7
+PROJETO 439.2933.25 CADERNO III MODELAGEM JURÍDICA                                                 134
+ATUALIZAÇÃO PMI SMALP 001 2017 PMGIRS 9278 25 GSF PRLS BAO
+                                                                   VERSÃO 07_2026, 21 JULHO 2026
+
