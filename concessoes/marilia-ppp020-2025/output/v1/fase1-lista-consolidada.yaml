@@ -1,0 +1,1449 @@
+# FASE1 — Lista Consolidada (agente C) | Projeto: marilia-ppp020-2025
+# CP 020/2025 — Prefeitura de Marília/SP — Concessão administrativa (PPP), tratamento e
+# valorização de RSU (gaseificação/pirólise + biodigestão + soluções alternativas), 30 anos
+# PRAZOS: sessão pública 16/09/2026 | esclarecimento 11/09/2026 | impugnação 11/09/2026
+# 19 dias úteis restantes em 16/08/2026
+# Input: 19 YAMLs dos extratores E1–E4 (255 pontos brutos) | Gerado em: 2026-08-16
+
+projeto: marilia-ppp020-2025
+data: 2026-08-16
+prazos:
+  sessao_publica: 2026-09-16
+  esclarecimento: 2026-09-11
+  impugnacao: 2026-09-11
+  dias_uteis_restantes: 19
+sintese:
+  pontos_brutos_recebidos: 255
+  pontos_consolidados: 39
+  conformes: 35
+  pontos_residuais: 5
+  nota: >-
+    A fusão produziu 39 pontos — acima da faixa típica de 15–30 — em razão do volume
+    documental (19 documentos, 255 achados brutos) e da densidade de contradições
+    inter-documentos deste certame; nenhum achado material foi descartado. O ponto C-039
+    é de reserva estratégica e segregado no export. Cruzamento com a planilha da equipe
+    de 12/08/2026 na seção cruzamento_matriz_2026.
+
+pontos:
+
+  # ============================ OBJETO_ESCOPO ============================
+
+  - id_consolidado: C-001
+    ids_origem: [E1.edital-assinado-002, E2.termo-referencia-001, E2.tecnologias-aplicadas-002, E2.tecnologias-aplicadas-003, E2.diretrizes-plano-trabalho-001, E2.diretrizes-engenharia-002, E3.bens-reversiveis-001, E4.modelagem-tecnico-operacional-004, E4.modelagem-juridica-008, E4.proposta-criterios-julgamento-005, E4.proposta-criterios-julgamento-006]
+    titulo: "Divisão em lotes"
+    tema: OBJETO_ESCOPO
+    tema_descritivo: "Divisão em lotes"
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    categorias_secundarias: [contradicao]
+    dispositivos:
+      - { dispositivo: "Preâmbulo (critério de julgamento), itens 14.3 e 17.2.1", documento_fonte: "Edital (versão assinada)" }
+      - { dispositivo: "Itens 4.6 e 4.7", documento_fonte: "Anexo II (Termo de Referência)" }
+      - { dispositivo: "Seção 3 (itens 3.1 a 3.4)", documento_fonte: "Anexo II.2 (Das Tecnologias Aplicadas)" }
+      - { dispositivo: "Item 4", documento_fonte: "Anexo II.1 (Diretrizes Plano de Trabalho)" }
+      - { dispositivo: "Item 14", documento_fonte: "Anexo II.4 (Diretrizes de Engenharia)" }
+      - { dispositivo: "Itens 1 a 5 e 10", documento_fonte: "Anexo III.1 (Lista de Bens Reversíveis)" }
+      - { dispositivo: "Itens 9.1 a 9.4", documento_fonte: "Caderno I (Modelagem Técnico-Operacional)" }
+      - { dispositivo: "Itens 3 e 1.13 (ausência)", documento_fonte: "Caderno III (Modelagem Jurídica)" }
+      - { dispositivo: "Itens 5, 8.1, 9 (alíneas C, D, E, F)", documento_fonte: "Anexo IV (Proposta, Planilha Sintética e Critérios de Julgamento)" }
+    transcricoes:
+      - "CRITÉRIO DE JULGAMENTO: MENOR PREÇO UNITÁRIO DA TONELADA EM CADA LOTE (Edital, preâmbulo)"
+      - "3.4. LOTE 4 – SOLUÇÃO INTEGRADA [seção sem qualquer conteúdo] (Anexo II.2)"
+      - "A adjudicação poderá ocorrer de forma isolada, por lote, ou de forma combinada [...] a seu exclusivo critério (Anexo IV, item 9)"
+    descricao_breve: "Estrutura de lotes que decide o certame não é definida no edital: única definição (Anexo II.2) é incompleta, sem justificativa do parcelamento, sem regras de participação/adjudicação e com escolha final a exclusivo critério do Poder Concedente"
+    comentario: >-
+      O julgamento é por menor preço da tonelada "em cada lote", mas o edital não define
+      quantos contratos resultarão do certame nem o conteúdo de cada lote: a única
+      definição está no Anexo II.2, que dá ao Lote 4 título idêntico ao Lote 3 e nenhum
+      conteúdo, enquanto o Caderno I chama o Lote 4 de "tecnologia alternativa" e a
+      minuta do contrato e a modelagem jurídica pressupõem concessionária única, sem
+      qualquer menção a lotes. O Anexo IV admite propostas para um ou mais lotes e
+      adjudicação isolada ou combinada "a exclusivo critério" do Poder Concedente, sem
+      regra de comparação entre a solução integrada e a soma de lotes parciais, e a
+      infraestrutura comum (galpão + segregação, ~R$ 18 mi) pode ser "compartilhada"
+      após o certame sem regra de rateio. Não há, em nenhum caderno, justificativa
+      técnico-econômica do parcelamento nem análise das interfaces entre concessionárias
+      simultâneas sobre as mesmas 5.200 t/mês.
+    dispositivo_legal: "art. 25, caput, art. 40, § 2.º, art. 47, § 1.º, inciso II, e art. 18, § 1.º, incisos I e VIII, da Lei n.º 14.133/2021; art. 11, inciso I, da Lei n.º 11.079/2004; art. 18 da Lei n.º 8.987/1995"
+    flag_tecnico: false
+    flag_reserva: false
+    probabilidade_advogado: null
+
+  - id_consolidado: C-002
+    ids_origem: [E1.edital-assinado-001, E2.termo-referencia-002, E2.diretrizes-plano-trabalho-002]
+    titulo: "Objeto e obrigatoriedade das rotas"
+    tema: OBJETO_ESCOPO
+    tema_descritivo: "Objeto e rotas tecnológicas"
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    categorias_secundarias: [contradicao]
+    dispositivos:
+      - { dispositivo: "Item 3 (Do Objeto) c/c definições DRE e LICENÇAS e item 17.2.1", documento_fonte: "Edital (versão assinada)" }
+      - { dispositivo: "Itens 2, 4 e 9.2", documento_fonte: "Anexo II (Termo de Referência)" }
+      - { dispositivo: "Item 1", documento_fonte: "Anexo II.1 (Diretrizes Plano de Trabalho)" }
+    transcricoes:
+      - "…ou receber outra solução alternativa, em conformidade com [...] a solução tecnológica proposta pelo proponente (Edital, item 3)"
+      - "recuperação energética da fração seca [...] e/ou tratamento da fração úmida (Anexo II.1, item 1)"
+    descricao_breve: "Objeto indeterminado: rota 'soluções alternativas' aberta à escolha do proponente sem especificação mínima, e obrigatoriedade das rotas seca/úmida oscilando entre 'e' e 'e/ou' nos documentos"
+    comentario: >-
+      O objeto ora exige as duas rotas (frações seca E úmida), ora as trata como
+      alternativas ("e/ou"), inclusive dentro do próprio TR (itens 2, 4 e 9.2), e a
+      quarta rota — "soluções alternativas" — é definida apenas por exclusão, sem
+      requisitos mínimos nem modelo econômico de referência. O licitante não sabe o que
+      é obrigatório implantar nem o que precifica, e o Anexo II.3 descreve sistema
+      integrado de três etapas como se fosse único. A indefinição contamina julgamento,
+      habilitação e metas.
+    dispositivo_legal: "art. 25, caput, e art. 6.º, inciso XXIII, alínea 'a', da Lei n.º 14.133/2021; art. 11 da Lei n.º 11.079/2004; art. 18, inciso I, da Lei n.º 8.987/1995"
+    flag_tecnico: false
+    flag_reserva: false
+    probabilidade_advogado: null
+
+  - id_consolidado: C-003
+    ids_origem: [E2.tecnologias-aplicadas-001, E2.tratamento-termico-biodigestao-001, E2.tratamento-termico-biodigestao-002, E2.diretrizes-engenharia-001, E4.proposta-criterios-julgamento-007, E4.modelagem-tecnico-operacional-018]
+    titulo: "Incineração vedada × descrita"
+    tema: OBJETO_ESCOPO
+    tema_descritivo: "Objeto e rotas tecnológicas"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    dispositivos:
+      - { dispositivo: "Item 2, alínea 'f'", documento_fonte: "Anexo II.2 (Das Tecnologias Aplicadas)" }
+      - { dispositivo: "Item 4.4 e Especificações da Etapa 3 (item 11.3)", documento_fonte: "Anexo II.3 (Diretrizes Tratamento Térmico e Biodigestão)" }
+      - { dispositivo: "Item 8.2", documento_fonte: "Anexo II.4 (Diretrizes de Engenharia)" }
+      - { dispositivo: "Item 8.1 (Lote 4)", documento_fonte: "Anexo IV (Proposta e Critérios de Julgamento)" }
+      - { dispositivo: "Resumo Executivo item 4 e itens 5.5/6.3.1", documento_fonte: "Caderno I (Modelagem Técnico-Operacional)" }
+    transcricoes:
+      - "…com exceção da tecnologia de incineração (Anexo II.2, item 2.f)"
+      - "processos térmicos, incluindo, mas não se restringindo a incineração, gaseificação, pirólise (Anexo II.3, item 4.4)"
+      - "queima controlada de CDR em caldeira de grelha móvel ou leito fluidizado; 850–1.050°C; residência de gases ≥ 2 segundos (Anexo II.3, Etapa 3)"
+    descricao_breve: "Incineração textualmente vedada (Anexo II.2 e Lote 4 do Anexo IV) mas admitida como rota elegível (Anexo II.3, II.4 e Caderno I) e descrita como processo de referência com os exatos parâmetros de incineração da CONAMA 316/2002"
+    comentario: >-
+      O Anexo II.2 veda a incineração e o Anexo IV a exclui do Lote 4, mas o Anexo II.3
+      a lista como processo elegível e descreve, como referência da Etapa 3, combustão
+      controlada de CDR em caldeira de grelha a 850–1.050°C com residência de gases ≥2s
+      — parâmetros que configuram incineração nos termos da Resolução CONAMA 316/2002,
+      que o próprio Anexo II.7 aplica ao empreendimento; o Anexo II.4 chega a listar
+      "incineração com recuperação energética" como primeira rota da fração seca. O
+      licitante não sabe se orça gaseificador, reator de pirólise ou caldeira de grelha
+      — equipamentos com CAPEX, licenciamento e riscos radicalmente distintos — e a tese
+      deve ser formulada como contradição interna do edital, não como inadequação da
+      tecnologia (linha genérica rejeitada pelo TCE-SP em 2019).
+    dispositivo_legal: "art. 5.º da Lei n.º 14.133/2021 (vinculação ao instrumento convocatório); Resolução CONAMA n.º 316/2002"
+    flag_tecnico: true
+    flag_reserva: false
+    probabilidade_advogado: null
+
+  - id_consolidado: C-004
+    ids_origem: [E2.termo-referencia-019, E2.tratamento-termico-biodigestao-010, E2.tratamento-termico-biodigestao-011, E3.minuta-contrato-015, E3.minuta-contrato-016, E4.modelagem-tecnico-operacional-015, E4.proposta-criterios-julgamento-008, E4.modelagem-economico-financeira-020]
+    titulo: "Cadeia de responsabilidades e rejeitos"
+    tema: OBJETO_ESCOPO
+    tema_descritivo: "Objeto e rotas tecnológicas"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    categorias_secundarias: [omissao]
+    dispositivos:
+      - { dispositivo: "Itens 4, 9.3 e 10.27", documento_fonte: "Anexo II (Termo de Referência)" }
+      - { dispositivo: "Itens 11.2 n.º 1 e 11.3 n.º 4", documento_fonte: "Anexo II.3 (Diretrizes Tratamento Térmico e Biodigestão)" }
+      - { dispositivo: "Cláusulas 6.1, 6.2 e 16.2", documento_fonte: "Anexo III (Minuta do Contrato)" }
+      - { dispositivo: "Itens 6.3.1 e 8", documento_fonte: "Caderno I (Modelagem Técnico-Operacional)" }
+      - { dispositivo: "Itens 1 e 8.7", documento_fonte: "Anexo IV (Proposta e Critérios de Julgamento)" }
+      - { dispositivo: "Itens 8.1 e 12", documento_fonte: "Caderno II (Modelagem Econômico-Financeira)" }
+    transcricoes:
+      - "cabendo ao CONSÓRCIO ou CONCESSIONÁRIO comprovar e se responsabilizar exclusivamente por esta [destinação final] (Contrato, 6.2)"
+      - "o custo referente à disposição final dos rejeitos permanecerá sob responsabilidade da Prefeitura (Anexo IV, 8.7)"
+      - "As cinzas e os outros sub-produtos serão encaminhados para o aterro que fica anexo ao empreendimento (Caderno I, 6.3.1)"
+    descricao_breve: "Responsabilidade e custo do fluxo coleta → transbordo → tratamento → destinação final dos rejeitos definidos de forma contraditória em seis documentos, sem interface com a coleta seletiva nem destino para cinzas classe II — determinação 5 do TCE-SP não atendida"
+    comentario: >-
+      A destinação final dos rejeitos é simultaneamente responsabilidade "exclusiva" do
+      concessionário (cláusula 6.2), da Administração e seus contratos vigentes (TR 9.3,
+      Anexo IV 8.7, cláusula 16.2) e componente precificado da proposta (Caderno II,
+      item 12) — três versões inconciliáveis sobre quem executa e quem paga por 30 anos.
+      Também não se definem a área de transbordo, a interface com a coleta seletiva
+      (Anexo II.3 supõe FORSU de coleta seletiva; o TR, RSD indiferenciado), nem o
+      destino e custo das cinzas do tratamento térmico (3,4 t/dia, presumidas classe II
+      sem caracterização; o Caderno I chega a mandá-las para o antigo aterro encerrado).
+      O ponto reedita a determinação 5 do TC-001718.989.19-7 (definir responsabilidades
+      da entrega à destinação final).
+    dispositivo_legal: "TC-001718.989.19-7, TCE-SP, Pleno, 13/03/2019 (determinação 5); art. 6.º, inciso XXIII, alíneas 'a' e 'e', da Lei n.º 14.133/2021; art. 23, inciso I, da Lei n.º 8.987/1995; art. 13 da Lei n.º 12.305/2010"
+    flag_tecnico: true
+    flag_reserva: false
+    probabilidade_advogado: null
+
+  - id_consolidado: C-005
+    ids_origem: [E2.termo-referencia-008, E2.diretrizes-ambientais-001, E2.metas-indicadores-002, E2.tratamento-termico-biodigestao-006, E2.tratamento-termico-biodigestao-007, E2.tratamento-termico-biodigestao-008, E4.modelagem-tecnico-operacional-005, E4.modelagem-tecnico-operacional-006, E4.modelagem-tecnico-operacional-013, E4.dre-xlsx-008]
+    titulo: "Balanço de massa e metas de desvio"
+    tema: OBJETO_ESCOPO
+    tema_descritivo: "Metas e balanço de massa"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    categorias_secundarias: [omissao]
+    dispositivos:
+      - { dispositivo: "Item 9.5.3", documento_fonte: "Anexo II (Termo de Referência)" }
+      - { dispositivo: "Item 6", documento_fonte: "Anexo II.7 (Diretrizes Ambientais Básicas)" }
+      - { dispositivo: "Item 5.2", documento_fonte: "Anexo II.6 (Metas e Indicadores de Desempenho)" }
+      - { dispositivo: "Figuras e itens 11.2–11.3 (balanço de massa)", documento_fonte: "Anexo II.3 (Diretrizes Tratamento Térmico e Biodigestão)" }
+      - { dispositivo: "Itens 6.3.1, 6.3.3, 8.2 e Resumo Executivo item 5", documento_fonte: "Caderno I (Modelagem Técnico-Operacional)" }
+      - { dispositivo: "Aba OPERACIONAL (linhas 11–17)", documento_fonte: "Caderno II — Anexo 1 (DRE.xlsx)" }
+    transcricoes:
+      - "redução de até 50% da massa total de resíduos encaminhada ao aterro (TR, 9.5.3)"
+      - "meta de destinação inferior a 20% dos resíduos gerados para aterros (Anexo II.7, item 6)"
+      - "Desempenho: ≥ meta contratual = 20 [meta que nenhum documento fixa] (Anexo II.6, 5.2)"
+      - "A fração orgânica cairá em caçambas e seguirá para o aterro (Caderno I, 6.3.1)"
+    descricao_breve: "Meta central de desvio de aterro com quatro referências conflitantes (até 50% / <20% de aterramento / 'meta contratual' indefinida / 84% implícito) sobre balanço de massa internamente contraditório que, sem desidratação do digestato, aumenta a massa aterrada"
+    comentario: >-
+      A meta que estrutura a concessão tem quatro valores incompatíveis, e o indicador
+      do Anexo II.6 pontua contra "meta contratual" que nenhum documento fixa —
+      referência circular. O balanço de referência é internamente contraditório (fração
+      úmida 90 vs 100 t/dia; digestato 54 vs 109,6 m³/dia; biometano declarado 4 a 7
+      vezes acima do calculável pela produção específica do próprio anexo; caldeira de
+      16–25 t/h para 68 t/dia de CDR) e não contabiliza o destino do digestato sem
+      desidratação nem das cinzas; o texto do Caderno I e a aba OPERACIONAL do modelo
+      chegam a mandar a fração orgânica (45% da massa) para o aterro, elevando o
+      aterramento a ~61% da geração; e a cronologia das metas (45% em 15 meses, 79% em
+      30) vence antes dos prazos de licenciamento e implantação declarados no próprio
+      caderno. Determinações 6 e 7 do TCE-SP tocadas; ponto dependente de validação de
+      engenharia (parecer Eleusis disponível em docs/subsidios/).
+    dispositivo_legal: "art. 6.º, inciso XXIII, alíneas 'a' e 'e', e art. 5.º da Lei n.º 14.133/2021; art. 6.º, § 1.º, da Lei n.º 11.079/2004; art. 9.º da Lei n.º 12.305/2010; TC-001718.989.19-7, TCE-SP, Pleno, 13/03/2019 (determinação 6)"
+    flag_tecnico: true
+    flag_reserva: false
+    probabilidade_advogado: null
+
+  - id_consolidado: C-006
+    ids_origem: [E2.tratamento-termico-biodigestao-012, E2.diretrizes-ambientais-002, E2.diretrizes-ambientais-005, E2.termo-referencia-021, E2.metas-indicadores-001, E1.edital-assinado-025]
+    titulo: "Ordem de prioridade da PNRS e PMGIRS"
+    tema: OBJETO_ESCOPO
+    tema_descritivo: "Compatibilidade com a PNRS e o PMGIRS"
+    tipo_achado: IRREGULAR
+    categoria: ilegalidade
+    categorias_secundarias: [omissao, erro_material]
+    dispositivos:
+      - { dispositivo: "Item 11.1 e Figura do Arranjo", documento_fonte: "Anexo II.3 (Diretrizes Tratamento Térmico e Biodigestão)" }
+      - { dispositivo: "Itens 4.2, 5, 6 e 18.6", documento_fonte: "Anexo II.7 (Diretrizes Ambientais Básicas)" }
+      - { dispositivo: "Seção 2 e item 10.19", documento_fonte: "Anexo II (Termo de Referência)" }
+      - { dispositivo: "Caput", documento_fonte: "Anexo II.6 (Metas e Indicadores de Desempenho)" }
+      - { dispositivo: "Item 31 (Das Metas) × relação de anexos (item 46.19)", documento_fonte: "Edital (versão assinada)" }
+    transcricoes:
+      - "segrega os metais ferrosos para reciclagem [10 t/dia ≈ 5% da massa]; a fração seca pode ser encaminhada para o processo de tratamento térmico (Anexo II.3)"
+      - "PMGIRS, aprovado pela Lei 9.278/2021 (Anexo II.6, caput) × Lei 9.278, de 26 de junho de 2025 (TR)"
+    descricao_breve: "Rota de referência queima os recicláveis secos sem esgotar a reciclagem (5% de recuperação material), com a ordem de prioridade da PNRS reproduzida adulterada no Anexo II.7, e o PMGIRS — que veicula as metas vinculantes — não é disponibilizado e é citado com dois anos de lei distintos"
+    comentario: >-
+      A recuperação material do arranjo de referência limita-se a metais e vidros (10
+      t/dia), destinando papéis e plásticos ao CDR para queima, sem o programa prévio de
+      segregação para reciclagem que o art. 24 da CONAMA 316/2002 — transcrito no
+      próprio Anexo II.7 — exige, e em desconformidade com a ordem de prioridade do art.
+      9.º da Lei 12.305/2010, que o Anexo II.7 reproduz com alteração (omite a não
+      geração e antepõe a recuperação energética ao tratamento). O PMGIRS, referido como
+      fonte das metas, não integra o conjunto disponibilizado (o edital remete a "ANEXO
+      XI" e "ANEXO VII" inexistentes na relação oficial — omissão de publicidade) e é
+      citado ora como Lei 9.278/2021, ora como Lei 9.278/2025. A compatibilidade da rota
+      térmica com o plano municipal não é demonstrada em documento algum.
+    dispositivo_legal: "art. 9.º, caput e § 1.º, e art. 19 da Lei n.º 12.305/2010; art. 24 da Resolução CONAMA n.º 316/2002; arts. 35, 40 e 41 da NR n.º 7/2024 da ANA (Resolução ANA 187/2024 — atribuições de artigo a confirmar no texto oficial); art. 5.º e art. 25, caput, da Lei n.º 14.133/2021"
+    flag_tecnico: true
+    flag_reserva: false
+    probabilidade_advogado: null
+
+  - id_consolidado: C-007
+    ids_origem: [E2.tratamento-termico-biodigestao-005, E2.diretrizes-ambientais-004, E4.modelagem-tecnico-operacional-016, E4.modelagem-tecnico-operacional-020]
+    titulo: "Caracterização dos resíduos ausente"
+    tema: OBJETO_ESCOPO
+    tema_descritivo: "Metas e balanço de massa"
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    dispositivos:
+      - { dispositivo: "Especificações do CDR (Etapa 1) e Parâmetros da Etapa 3", documento_fonte: "Anexo II.3 (Diretrizes Tratamento Térmico e Biodigestão)" }
+      - { dispositivo: "Item 7", documento_fonte: "Anexo II.7 (Diretrizes Ambientais Básicas)" }
+      - { dispositivo: "Itens 3.2, 3.3 e menções a umidade (5.9, 6.3.1, 6.3.2)", documento_fonte: "Caderno I (Modelagem Técnico-Operacional)" }
+    transcricoes:
+      - "Umidade: ≤20% [Etapa 1] × Umidade do CDR: Máximo de 20–25% [Etapa 3] (Anexo II.3)"
+      - "Sem dados locais, a gravimetria nacional serve como proxy técnico (Caderno I, 3.2)"
+      - "Previamente à implantação do empreendimento deverá ser realizada caracterização gravimétrica, físico-química e energética (Anexo II.7, item 7)"
+    descricao_breve: "Gravimetria, umidade e PCI dos resíduos de Marília não são fornecidos — todo o dimensionamento usa média nacional ABRELPE 2020 e a caracterização real é remetida à concessionária após a contratação — descumprimento da determinação 2 do TCE-SP"
+    comentario: >-
+      A umidade é especificada apenas para o CDR de saída, com dois limites divergentes
+      (≤20% × 20–25%), sem critérios para o RSD in natura, as frações pós-segregação e o
+      digestato; não há campanha gravimétrica local, e o próprio Anexo II.7 reconhece a
+      caracterização como necessária, mas a exige da concessionária "previamente à
+      implantação" — depois da licitação. As propostas serão formuladas sem a base de
+      dados que os documentos reputam essencial, reeditando a determinação 2 do
+      TC-001718.989.19-7 (critérios do teor de umidade em cada fase do processo), e o
+      risco de variação de composição não é alocado na matriz de riscos (ver C-023).
+    dispositivo_legal: "TC-001718.989.19-7, TCE-SP, Pleno, 13/03/2019 (determinação 2); art. 18, § 1.º, incisos I e VIII, da Lei n.º 14.133/2021; art. 10, inciso I, alínea 'a', da Lei n.º 11.079/2004"
+    flag_tecnico: true
+    flag_reserva: false
+    probabilidade_advogado: null
+
+  # ============================ HABILITACAO ============================
+
+  - id_consolidado: C-008
+    ids_origem: [E2.termo-referencia-013, E2.termo-referencia-014, E2.termo-referencia-015, E1.edital-assinado-020]
+    titulo: "Qualificação técnica"
+    tema: HABILITACAO
+    tema_descritivo: "Habilitação e participação"
+    tipo_achado: IRREGULAR
+    categoria: restricao_competitividade
+    categorias_secundarias: [erro_material, omissao]
+    dispositivos:
+      - { dispositivo: "Item 8.3, incisos I a IV e §§ 1.º e 2.º", documento_fonte: "Anexo II (Termo de Referência)" }
+      - { dispositivo: "Item 8.4, inciso I, e item 8.5", documento_fonte: "Anexo II (Termo de Referência)" }
+      - { dispositivo: "Itens 16.1 a 16.5", documento_fonte: "Edital (versão assinada)" }
+    transcricoes:
+      - "Elaboração de estudo e projeto básico para obtenção de Licença Ambiental [...] 30 toneladas por dia de CDR e/ou 50 toneladas de fração orgânica, contido em área de disposição de resíduos [...] com capacidade de tratamento de 100 toneladas por dia [...] e consequente emissão de Licença Prévia Ambiental emitida (TR, 8.4, I)"
+      - "§1º Os atestados [...] deverão comprovar a execução de, no mínimo, três dos serviços acima descritos (TR, 8.3)"
+    descricao_breve: "Qualificação técnica cumulativa (3 de 4 grupos), com inciso sob medida que acumula capacidades, localização específica e exigência de LP efetivamente emitida, alíneas duplicadas e remissões a dispositivos inexistentes; edital sem item de qualificação econômico-financeira"
+    comentario: >-
+      O item 8.3 exige cumulativamente 3 dos 4 grupos de serviços em tensão com o § 2.º
+      do próprio dispositivo, sem justificativa de essencialidade de cada parcela; o
+      item 8.4, I, é ininteligível e dirigido — acumula 30 t/dia de CDR, 50 t de FORSU e
+      100 t/dia numa mesma frase, exige que o empreendimento esteja "contido em área de
+      disposição de resíduos, aterro ou empreendimento rural" e que a LP tenha sido
+      efetivamente emitida para rota que o próprio Caderno I admite não ter planta
+      comercial no país (ver C-009). O item 8.5 traz alíneas 'd' duplicadas e remissão a
+      "item b.2" inexistente, e o rol de habilitação do edital (16.1–16.5) remete
+      integralmente ao TR sem conter qualificação econômico-financeira.
+    dispositivo_legal: "art. 67, §§ 1.º e 2.º, art. 9.º, inciso I, e art. 62, incisos I a IV, da Lei n.º 14.133/2021; art. 37, inciso XXI, da CF/1988"
+    flag_tecnico: false
+    flag_reserva: false
+    probabilidade_advogado: null
+
+  - id_consolidado: C-009
+    ids_origem: [E2.termo-referencia-016, E2.tecnologias-aplicadas-004, E4.modelagem-tecnico-operacional-009]
+    titulo: "Maturidade comercial × ineditismo"
+    tema: HABILITACAO
+    tema_descritivo: "Habilitação e participação"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    dispositivos:
+      - { dispositivo: "Seção 2 c/c itens 8.3 a 8.5", documento_fonte: "Anexo II (Termo de Referência)" }
+      - { dispositivo: "Itens 2 e 5", documento_fonte: "Anexo II.2 (Das Tecnologias Aplicadas)" }
+      - { dispositivo: "Itens 5.9 e 5.10", documento_fonte: "Caderno I (Modelagem Técnico-Operacional)" }
+    transcricoes:
+      - "As tecnologias deverão ser comprovadamente operacionais e comercialmente testadas, sendo vedada a utilização de soluções em estágio experimental (Anexo II.2)"
+      - "sistema inovador no país (TR, seção 2)"
+      - "ainda não há plantas em regime comercial com RSU no Brasil [pirólise]; não foi possível estimar a vida útil do empreendimento (Caderno I, 5.9–5.10)"
+    descricao_breve: "Edital exige comprovação de operação em escala comercial e veda estágio experimental para rota que o próprio conjunto qualifica como 'inovadora no país' e reconhece sem planta comercial com RSU no Brasil"
+    comentario: >-
+      O Anexo II.2 veda soluções experimentais e exige comprovação de operação em escala
+      comercial, enquanto o TR qualifica o sistema como "inovador no país", o Anexo II.3
+      admite "soluções inovadoras" e o Caderno I registra que a pirólise não tem planta
+      comercial com RSU no Brasil — a ponto de declarar impossível estimar a vida útil
+      do empreendimento (e, na mesma tabela, afirmar vida útil de 20 anos). Ou a regra
+      de admissibilidade exclui a rota nomeada no objeto, ou é inaplicável; a tese é a
+      contradição entre a maturidade exigida e o ineditismo reconhecido, não a
+      inadequação da tecnologia (linha rejeitada pelo TCE-SP em 2019).
+    dispositivo_legal: "art. 67, § 1.º, da Lei n.º 14.133/2021; art. 37, inciso XXI, da CF/1988; art. 9.º, § 1.º, da Lei n.º 12.305/2010"
+    flag_tecnico: false
+    flag_reserva: false
+    probabilidade_advogado: null
+
+  - id_consolidado: C-010
+    ids_origem: [E1.edital-assinado-018, E1.edital-assinado-019, E1.edital-assinado-032]
+    titulo: "Visita técnica e acesso a dados"
+    tema: HABILITACAO
+    tema_descritivo: "Habilitação e participação"
+    tipo_achado: IRREGULAR
+    categoria: restricao_competitividade
+    dispositivos:
+      - { dispositivo: "Item 11.4, subitens 3, 4, 5 e 7", documento_fonte: "Edital (versão assinada)" }
+    transcricoes:
+      - "Atestado de Visita Técnica [...] deverá ser anexado nos DOCUMENTOS DE HABILITAÇÃO (11.4.4)"
+      - "a visita poderá ser realizada por representante de apenas um de seus membros [...] desde que apresente o competente Compromisso de Constituição de Consórcio (11.4.5)"
+      - "disponíveis [...] na sede da PREFEITURA [...] mediante requerimento e procuração, ou disponibilizados junto ao EDITAL, quando possível seu formato eletrônico (11.4.7)"
+    descricao_breve: "Atestado de visita técnica exigido como documento de habilitação sem declaração substitutiva, compromisso de consórcio antecipado para a mera visita, e dados das áreas acessíveis apenas presencialmente mediante procuração"
+    comentario: >-
+      O edital diz que as licitantes "poderão" visitar a área, mas exige o atestado de
+      visita entre os documentos de habilitação, sem a alternativa de declaração do
+      responsável técnico que o art. 63, §§ 2.º e 3.º, da Lei 14.133/2021 impõe. Para
+      consórcios, a visita exige Compromisso de Constituição já firmado por todos os
+      integrantes — antecipando formalização exigível apenas na habilitação e engessando
+      a composição de consórcios em formação. O acesso aos dados das áreas é presencial,
+      "mediante requerimento e procuração", com versão eletrônica apenas "quando
+      possível" — publicidade condicionada em certame eletrônico.
+    dispositivo_legal: "art. 63, §§ 2.º e 3.º, art. 15, inciso I, e art. 25, § 3.º, da Lei n.º 14.133/2021; Súmula 272 do TCU (enunciado a confirmar no portal antes de citação em peça); art. 19 da Lei n.º 8.987/1995"
+    flag_tecnico: false
+    flag_reserva: false
+    probabilidade_advogado: null
+
+  # ========================= JULGAMENTO_PROPOSTA =========================
+
+  - id_consolidado: C-011
+    ids_origem: [E1.edital-assinado-003, E1.edital-assinado-004, E4.proposta-criterios-julgamento-001, E4.modelagem-juridica-001, E4.modelagem-economico-financeira-022]
+    titulo: "Critério de julgamento não unívoco"
+    tema: JULGAMENTO_PROPOSTA
+    tema_descritivo: "Critério de julgamento/proposta"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    categorias_secundarias: [erro_material]
+    dispositivos:
+      - { dispositivo: "Preâmbulo, itens 14.3, 18.1, 20.e e 22.1", documento_fonte: "Edital (versão assinada)" }
+      - { dispositivo: "Itens 1, 3, 8.5 e 8.7", documento_fonte: "Anexo IV (Proposta, Planilha Sintética e Critérios de Julgamento)" }
+      - { dispositivo: "Considerações preliminares e item 4", documento_fonte: "Caderno III (Modelagem Jurídica)" }
+      - { dispositivo: "Considerações preliminares", documento_fonte: "Caderno II (Modelagem Econômico-Financeira)" }
+    transcricoes:
+      - "as PROPOSTAS DE PREÇO classificadas em ordem decrescente de valor, isto é, a LICITANTE que apresentar o menor valor (Edital, 18.1)"
+      - "(A+B)/5.200 [...] (A+B+C/5200) [...] [(A+B)+(C)]/5.200 [...] A + B / 5.200 (Anexo IV, formas da fórmula)"
+      - "O resultado terá caráter exclusivamente informativo [...] não devendo ser considerado pela Licitante na composição do preço (Anexo IV, 8.7, sobre o componente C)"
+    descricao_breve: "Fórmula de julgamento grafada de pelo menos quatro formas matematicamente distintas, componente (C) ora classificatório ora 'exclusivamente informativo', lance do Comprasnet diverso da grandeza que classifica, e modo de disputa aberto fundamentado no inciso do modo fechado"
+    comentario: >-
+      O critério aparece como menor preço/t "em cada lote", menor soma (a)+(b)+(c) da
+      Planilha Sintética e menor valor da Proposta Comercial — documentos distintos —,
+      com classificação "em ordem decrescente" para eleger o menor valor; no Anexo IV a
+      fórmula é escrita de quatro formas não equivalentes (inclusive "A + B / 5.200",
+      que pela precedência aritmética dá resultado diverso), o valor lançado no
+      Comprasnet é só (A+B)/5.200 e o papel do componente C é contraditório (integra a
+      soma classificatória e é declarado meramente informativo). O modo de disputa
+      ABERTO é fundamentado no art. 56, II (modo fechado), com justificativa de "sigilo
+      das estratégias de precificação" típica do fechado. A grandeza que decide o
+      certame e a dinâmica de lances ficam indeterminadas.
+    dispositivo_legal: "art. 5.º, art. 33, art. 56, incisos I e II, e art. 59 da Lei n.º 14.133/2021; art. 12, inciso II, da Lei n.º 11.079/2004; art. 37, inciso XXI, da CF/1988"
+    flag_tecnico: false
+    flag_reserva: false
+    probabilidade_advogado: null
+
+  - id_consolidado: C-012
+    ids_origem: [E2.termo-referencia-004, E4.proposta-criterios-julgamento-009, E4.proposta-criterios-julgamento-010]
+    titulo: "Componentes declaratórios da proposta"
+    tema: JULGAMENTO_PROPOSTA
+    tema_descritivo: "Critério de julgamento/proposta"
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    categorias_secundarias: [risco_economico, erro_material]
+    dispositivos:
+      - { dispositivo: "Item 4.2", documento_fonte: "Anexo II (Termo de Referência)" }
+      - { dispositivo: "Itens 4, 6 e 8.6", documento_fonte: "Anexo IV (Proposta, Planilha Sintética e Critérios de Julgamento)" }
+    transcricoes:
+      - "cada licitante deverá levar em consideração o que as respectivas rotas tecnológicas propostas irão gerar de rejeitos, para fins de cálculo [...] do respectivo valor de disposição em aterro (TR, 4.2)"
+      - "terá preferência a LICITANTE que apresentar o maior percentual de redução do envio de resíduos ao aterro [...] comprovado operacionalmente (Anexo IV, item 4)"
+    descricao_breve: "Componente (C) calculado sobre volume de rejeitos declarado pela própria licitante e desempate pelo percentual de desvio igualmente autodeclarado, ambos sem metodologia de aferição no julgamento nem consequência para a subdeclaração; lista de custos do DRE truncada"
+    comentario: >-
+      O volume de rejeitos declarado multiplica R$ 114/t e integra a soma
+      classificatória sem memória de cálculo, parâmetro de referência ou sanção para a
+      divergência entre declarado e verificado — desenho que premia a subdeclaração; o
+      desempate usa percentual de redução igualmente declaratório, "comprovado" apenas
+      na operação futura, sem segundo critério nem cotejo com o art. 60 da Lei
+      14.133/2021. O DRE exigido segue "modelo do Caderno II" cujo arquivo publicado
+      está mutilado (ver C-015), com a lista de custos operacionais anunciada e vazia no
+      Anexo IV, e a desclassificação por "inconsistências relevantes" não é
+      parametrizada.
+    dispositivo_legal: "art. 5.º, art. 33, art. 59, incisos III e IV, e art. 60 da Lei n.º 14.133/2021; art. 12, incisos I e III, da Lei n.º 11.079/2004"
+    flag_tecnico: false
+    flag_reserva: false
+    probabilidade_advogado: null
+
+  # ========================= MODELAGEM_ECONOMICA =========================
+
+  - id_consolidado: C-013
+    ids_origem: [E1.edital-assinado-005, E1.edital-assinado-006, E2.termo-referencia-003, E4.proposta-criterios-julgamento-002, E4.proposta-criterios-julgamento-003, E4.modelagem-economico-financeira-003]
+    titulo: "Teto circular de R$ 114/t e base de cálculo única"
+    tema: MODELAGEM_ECONOMICA
+    tema_descritivo: "Modelagem jurídica, técnica e econômico-financeira"
+    tipo_achado: IRREGULAR
+    categoria: risco_economico
+    categorias_secundarias: [contradicao]
+    dispositivos:
+      - { dispositivo: "Item 4 (Valor Estimado), itens 17.4 e 17.5 e definição VALOR DO ATUAL CONTRATO", documento_fonte: "Edital (versão assinada)" }
+      - { dispositivo: "Item 4.1", documento_fonte: "Anexo II (Termo de Referência)" }
+      - { dispositivo: "Itens 1, 8 e 8.7 (Planilha Sintética)", documento_fonte: "Anexo IV (Proposta e Critérios de Julgamento)" }
+      - { dispositivo: "Itens 8.1 e 12", documento_fonte: "Caderno II (Modelagem Econômico-Financeira)" }
+    transcricoes:
+      - "R$ 114,00 [...] por tonelada [...] equivalente ao custo atualmente suportado pelo Município para disposição final dos resíduos em aterro sanitário (TR, 4.1)"
+      - "LOTE 1 [...] LOTE 2 [...] LOTE 3 [...] LOTE 4 — VOLUME MENSAL ESTIMADO 5.200 [t/mês em todos] (Anexo IV, Planilha Sintética)"
+      - "não se constituindo em valor máximo, mínimo ou vinculante (Caderno II, item 12)"
+    descricao_breve: "Preço máximo da PPP fixado no próprio custo atual de aterro (R$ 114/t), que ainda reentra na conta pelo componente (C), sem memória de cálculo, sobre denominador único de 5.200 t/mês que mede coisas diferentes em cada lote"
+    comentario: >-
+      O parâmetro de vantajosidade é o próprio custo que a PPP deveria superar: o teto
+      de R$ 114/t reproduz o contrato atual de aterro, sem memória de cálculo adequada a
+      objeto com CAPEX de URE de até R$ 101,5 mi, e o mesmo valor multiplica os rejeitos
+      no componente (C) — circularidade dupla; o Caderno II ainda declara que o valor
+      "não é máximo, mínimo ou vinculante", em contradição com o limite de
+      aceitabilidade do edital, e o teto global de R$ 213,4 mi não inclui o componente
+      de bens reversíveis que integra a proposta. A Planilha Sintética divide todos os
+      lotes pelas mesmas 5.200 t/mês, embora o Lote 1 trate só a fração úmida (~45%) e o
+      Lote 2 só a seca (~34%) — o R$/t resultante não é comparável entre lotes. Elemento
+      fático de referência: PPP análoga de concessão administrativa de RSU no mesmo
+      estado (CP 001/2021 do CIVAP) foi homologada a R$ 85,00/t em 30/03/2022 — 25%
+      abaixo do teto de Marília (benchmark fático, não fundamento normativo).
+    dispositivo_legal: "art. 10, inciso I, alínea 'a', e art. 4.º, inciso VII, da Lei n.º 11.079/2004; art. 23 e art. 6.º, inciso XXIII, alínea 'i', da Lei n.º 14.133/2021; art. 15, § 1.º, da Lei n.º 8.987/1995"
+    flag_tecnico: false
+    flag_reserva: false
+    probabilidade_advogado: null
+
+  - id_consolidado: C-014
+    ids_origem: [E4.modelagem-economico-financeira-015, E4.modelagem-economico-financeira-016, E4.dre-xlsx-002, E4.modelagem-tecnico-operacional-010, E4.modelagem-tecnico-operacional-011, E4.modelagem-juridica-006]
+    titulo: "Vantajosidade não demonstrada (VfM)"
+    tema: MODELAGEM_ECONOMICA
+    tema_descritivo: "Modelagem jurídica, técnica e econômico-financeira"
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    categorias_secundarias: [risco_economico]
+    dispositivos:
+      - { dispositivo: "Itens 15.1 a 15.8 (VfM/PSC) e 15.6 (sensibilidade)", documento_fonte: "Caderno II (Modelagem Econômico-Financeira)" }
+      - { dispositivo: "Aba VfM", documento_fonte: "Caderno II — Anexo 1 (DRE.xlsx)" }
+      - { dispositivo: "Resumo Executivo item 4.3 e item 8.1.1", documento_fonte: "Caderno I (Modelagem Técnico-Operacional)" }
+      - { dispositivo: "Item 3.1", documento_fonte: "Caderno III (Modelagem Jurídica)" }
+    transcricoes:
+      - "CAPEX (VPL) Elevado / Otimizado; Custo Total Ajustado ao Risco (VPL) Maior / Menor (Caderno II, tabela PSC×PPP)"
+      - "Concessão: #REF! [toda a série da aba VfM do modelo publicado]"
+      - "Economia anual total gerada [...] R$ 5.548.608,00/ano [custo bruto de aterro evitado, sem abater a contraprestação] (Caderno I, 8.1.1)"
+    descricao_breve: "Comparação PSC × PPP puramente adjetivada (sem VPL, taxa de desconto ou memória), com a única versão quantitativa (aba VfM do modelo) integralmente quebrada em #REF!, e 'economia' apurada como custo de aterro evitado sem abater a contraprestação — a massa desviada muda de credor, não de custo"
+    comentario: >-
+      A vantajosidade da concessão administrativa não é demonstrada quantitativamente em
+      nenhum documento: a tabela PSC×PPP do Caderno II compara por adjetivos e declara
+      caráter "meramente indicativo"; a aba VfM do modelo publicado — única sede da
+      comparação numérica — está com toda a série da Concessão em #REF!; e a "economia
+      municipal" do Caderno I subtrai do custo atual de aterro apenas o custo de aterro
+      remanescente, sem abater a contraprestação devida às concessionárias, cujo teto (R$
+      114/t) é exatamente o valor hoje pago. A análise de sensibilidade anunciada como
+      "abrangente" traz somente qualificadores verbais, e a modelagem jurídica declara
+      "comprovada" viabilidade que os documentos econômicos do mesmo conjunto desmentem.
+    dispositivo_legal: "art. 10, inciso I, alíneas 'a' e 'b', da Lei n.º 11.079/2004; art. 18, § 1.º, da Lei n.º 14.133/2021; TC-001718.989.19-7, TCE-SP, Pleno, 13/03/2019 (determinação 1)"
+    flag_tecnico: false
+    flag_reserva: false
+    probabilidade_advogado: null
+
+  - id_consolidado: C-015
+    ids_origem: [E4.dre-xlsx-001, E4.dre-xlsx-004, E4.modelagem-economico-financeira-001]
+    titulo: "Modelo financeiro mutilado e data-base defasada"
+    tema: MODELAGEM_ECONOMICA
+    tema_descritivo: "Modelagem jurídica, técnica e econômico-financeira"
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    categorias_secundarias: [erro_material]
+    dispositivos:
+      - { dispositivo: "Abas Índice, Premissas, VfM, Receita CP, Capex, Opex e MacroEco", documento_fonte: "Caderno II — Anexo 1 (DRE.xlsx)" }
+      - { dispositivo: "Itens 2.1, 2.2 e 17 (Anexo 1)", documento_fonte: "Caderno II (Modelagem Econômico-Financeira)" }
+    transcricoes:
+      - "Demonstração de Fluxo de Caixa... MF A170 #REF! [abas 'MF', 'Controle' e 'Output 2' inexistentes no arquivo publicado] (DRE.xlsx, Índice)"
+      - "data base de fevereiro/2025 [...] Boletim Focus/BACEN (17/fev/2025) (Caderno II, 2.1–2.2)"
+      - "Índice de inflação brasileira (IPCA): 28/02/2023 [...] OPEX 'k R$ @set/2022' [...] Fonte: Modelagem Econ-Finan CONVALE (DRE.xlsx, abas de premissas)"
+    descricao_breve: "O modelo financeiro publicado teve removidas as abas nucleares (MF, Controle, Output 2), deixando #REF! em fluxo de caixa, WACC, taxas de desconto e sensibilidade; a data-base declarada é fev/2025 (19 meses antes da sessão) e as camadas efetivas do modelo datam de 2020–2023, herdadas de modelagem de outro projeto (CONVALE)"
+    comentario: >-
+      O próprio Índice da planilha aponta para abas que não existem no arquivo publicado
+      — o modelo é inauditável e as licitantes não têm acesso às memórias que o Caderno
+      II manda consultar nesse anexo. A defasagem é dupla: a data-base declarada
+      (fev/2025, Focus de 17/02/2025) já excede em muito o parâmetro de 6 meses do
+      TCE-SP frente à sessão de 16/09/2026, e a data-base efetiva das abas é fev/2023,
+      com OPEX de set/2022 e preços de recicláveis de out/2020, além de células com
+      fonte "Modelagem Econ-Finan CONVALE" — reaproveitamento não atualizado de modelo
+      de outro município. Em concessão de 30 anos a defasagem não se sana por índice de
+      correção; exige revisão de CAPEX, OPEX, demanda, financiamento, WACC e TIR.
+    dispositivo_legal: "parâmetro de atualidade de 6 meses adotado pelo TCE-SP para orçamentos de referência; TC-001718.989.19-7, TCE-SP, Pleno, 13/03/2019 (determinação 1); art. 5.º, art. 23 e art. 25 da Lei n.º 14.133/2021; art. 10, § 2.º, da Lei n.º 11.079/2004"
+    flag_tecnico: false
+    flag_reserva: false
+    probabilidade_advogado: null
+
+  - id_consolidado: C-016
+    ids_origem: [E4.modelagem-economico-financeira-004, E4.modelagem-economico-financeira-005, E4.modelagem-economico-financeira-006, E4.modelagem-economico-financeira-007, E4.modelagem-economico-financeira-008, E4.modelagem-economico-financeira-009, E4.modelagem-economico-financeira-010, E4.modelagem-economico-financeira-012, E4.modelagem-economico-financeira-014, E4.modelagem-economico-financeira-024, E4.dre-xlsx-005, E4.dre-xlsx-006, E4.dre-xlsx-007, E4.dre-xlsx-009, E4.dre-xlsx-010, E4.dre-xlsx-011, E4.dre-xlsx-013, E4.dre-xlsx-014, E4.dre-xlsx-015, E4.modelagem-tecnico-operacional-002, E4.modelagem-tecnico-operacional-007, E4.modelagem-tecnico-operacional-014]
+    titulo: "Inconsistências internas do modelo econômico-financeiro"
+    tema: MODELAGEM_ECONOMICA
+    tema_descritivo: "Modelagem jurídica, técnica e econômico-financeira"
+    tipo_achado: IRREGULAR
+    categoria: erro_material
+    categorias_secundarias: [contradicao, risco_economico]
+    dispositivos:
+      - { dispositivo: "Itens 13.1 a 13.3 (DREs das 3 hipóteses), 11.12–11.19, 2.1 e 2.5", documento_fonte: "Caderno II (Modelagem Econômico-Financeira)" }
+      - { dispositivo: "Abas LOTE 1/2/3, DRE_URE, Receita CP, Opex/OPEX Input, Capex/CAPEX_Input, TRIBUTAÇÃO, Premissas, Output 1", documento_fonte: "Caderno II — Anexo 1 (DRE.xlsx)" }
+      - { dispositivo: "Resumo Executivo itens 4.2 e 6, itens 6.3.1, 8.2 e 9", documento_fonte: "Caderno I (Modelagem Técnico-Operacional)" }
+    transcricoes:
+      - "(=) EBIT 9.444.307,49 [= Receita − Impostos − Depreciação; o OPEX não é deduzido — vício na fórmula do modelo] (DRE.xlsx, LOTE 1, 2027)"
+      - "WACC 10,00% | VPL 62.373.296,7 | TIR projeto 5,70% [TIR < WACC com VPL positivo] (Caderno II, Hip. 3)"
+      - "CO₂ Purificado: ~1,5 milhões ton/ano [Resumo Executivo] × CO₂ do Biogás: 5 t/d [balanço] (Caderno I)"
+    descricao_breve: "Modelo de referência com vícios aritméticos e de premissas em série: EBIT que ignora o OPEX (superestimação de R$ 90–333 mi), VPL positivo com TIR abaixo do WACC, dois VPLs por lote, CAPEX divergente entre texto e DREs, receitas de CO₂/CBIOs copiadas para rota que não as gera, três camadas de OPEX inconciliáveis, tributação em regime contraditório, contraprestação implícita de R$ 108/t contra R$ 114/t declarados e cronologias impossíveis"
+    comentario: >-
+      A planilha-fonte confirma que o EBIT das três DREs não deduz os custos
+      operacionais — o resultado de referência está superestimado em dezenas a centenas
+      de milhões — e os indicadores publicados são matematicamente incompatíveis (TIR
+      5,70% < WACC 10% com VPL positivo de R$ 62,4 mi; TIR de 12% e payback de 6,7 anos
+      para o mesmo cenário na planilha). Somam-se: contraprestação das DREs de R$ 108/t
+      contra R$ 114/t do texto; CAPEX das DREs 7–15% diverso do declarado, sem
+      reinvestimento em 30 anos (CAPEX de manutenção em #REF!); receitas de CO₂ e CBIOs
+      replicadas na rota térmica pura, que não as gera; OPEX de R$ 10,4 mi, R$ 171,6 mi
+      e R$ 5,2 mi/ano em três abas; tributação por lucro presumido no modelo contra
+      lucro real declarado no caderno; alavancagem 80/20 declarada e zerada na planilha;
+      horizonte de 35 anos para concessão de 30; investimento integral em 2025 com
+      operação plena em 2027, antes dos próprios prazos de licenciamento e implantação;
+      e erros de grafia com efeito econômico (CAPEX "R$ 101.5000,00"; CO₂ com três
+      ordens de grandeza de diferença; suprimento de água de 480 m³/dia por
+      caminhão-pipa). O conjunto compromete a fidedignidade de toda a referência
+      econômica do certame.
+    dispositivo_legal: "art. 6.º, inciso XXIII, alínea 'i', e art. 23 da Lei n.º 14.133/2021; art. 10, inciso I, alínea 'a', da Lei n.º 11.079/2004; TC-001718.989.19-7, TCE-SP, Pleno, 13/03/2019 (determinação 1)"
+    flag_tecnico: true
+    flag_reserva: false
+    probabilidade_advogado: null
+
+  - id_consolidado: C-017
+    ids_origem: [E4.modelagem-tecnico-operacional-003, E4.modelagem-tecnico-operacional-008, E4.modelagem-tecnico-operacional-019, E4.modelagem-economico-financeira-002, E4.dre-xlsx-012]
+    titulo: "CAPEX/OPEX sem memória e receita de energia sem fonte"
+    tema: MODELAGEM_ECONOMICA
+    tema_descritivo: "Modelagem jurídica, técnica e econômico-financeira"
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    categorias_secundarias: [risco_economico]
+    dispositivos:
+      - { dispositivo: "Itens 9 e 9.5–9.11", documento_fonte: "Caderno I (Modelagem Técnico-Operacional)" }
+      - { dispositivo: "Itens 13.1.1, 13.3.1 e 11.17.1", documento_fonte: "Caderno II (Modelagem Econômico-Financeira)" }
+      - { dispositivo: "Abas CAPEX_Input e Capex", documento_fonte: "Caderno II — Anexo 1 (DRE.xlsx)" }
+    transcricoes:
+      - "A orçamentação foi baseada em pesquisas de mercado [...] o valor total apresentado é definitivo para este escopo (Caderno I, item 9)"
+      - "Equipamentos | un | 55.000.000 | 1 [linha única de 'detalhamento' do CAPEX] (DRE.xlsx, CAPEX_Input)"
+      - "Valor de Venda da Energia Elétrica: 682 R$/MWh (Caderno II, 13.3.1)"
+    descricao_breve: "CAPEX em sete macrovalores fechados sem composição, cotações ou fontes (linha única 'Equipamentos, un, 1' no modelo), OPEX sem detalhamento, cenário térmico que omite galpão e segregação indispensáveis, e energia vendida a R$ 682/MWh por 30 anos sem fonte — determinação 1 do TCE-SP descumprida"
+    comentario: >-
+      O detalhamento de custos determinado pelo TCE-SP em 2019 para o mesmo objeto segue
+      ausente: o CAPEX é apresentado em macrovalores "definitivos" sem memória de
+      cálculo, o modelo o reduz a uma linha única por lote (com licenciamento e
+      pré-operacionais idênticos para os três lotes), e o CAPEX do cenário térmico
+      isolado (R$ 55 mi) exclui galpão (R$ 5 mi) e trituração/segregação (R$ 13 mi) que
+      o próprio caderno declara indispensáveis ao CDR. A receita de energia adota R$
+      682/MWh por 30 anos sem fonte nem cotejo com os leilões A-4/A-5 que o próprio
+      caderno indica como via de comercialização; e o balanço energético apresenta
+      apenas geração bruta (com confusão MW/MWh e eficiências de 14%–45%), sem descontar
+      consumo parasita nem a energia de secagem do CDR — a receita projetada não tem
+      geração líquida demonstrada (determinação 7). A aferição de exequibilidade do teto
+      e o controle de economicidade ficam inviabilizados.
+    dispositivo_legal: "TC-001718.989.19-7, TCE-SP, Pleno, 13/03/2019 (determinação 1); art. 6.º, inciso XXIII, alínea 'i', e art. 23 da Lei n.º 14.133/2021; art. 18, inciso VI, da Lei n.º 8.987/1995"
+    flag_tecnico: true
+    flag_reserva: false
+    probabilidade_advogado: null
+
+  - id_consolidado: C-018
+    ids_origem: [E1.edital-assinado-010, E1.edital-assinado-011, E1.edital-assinado-012, E3.minuta-contrato-031, E4.modelagem-juridica-007, E4.dre-xlsx-003]
+    titulo: "Condições prévias do art. 10 da Lei 11.079/2004"
+    tema: MODELAGEM_ECONOMICA
+    tema_descritivo: "Modelagem jurídica, técnica e econômico-financeira"
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    dispositivos:
+      - { dispositivo: "Itens 2.3, 4 e 5 (e ausências no corpo do edital)", documento_fonte: "Edital (versão assinada)" }
+      - { dispositivo: "Cláusulas 17.1 e 17.2", documento_fonte: "Anexo III (Minuta do Contrato)" }
+      - { dispositivo: "Itens 1.13.1 a 1.13.5", documento_fonte: "Caderno III (Modelagem Jurídica)" }
+      - { dispositivo: "Aba VfM (análise de RCL)", documento_fonte: "Caderno II — Anexo 1 (DRE.xlsx)" }
+    transcricoes:
+      - "3. Análise de conveniência e oportunidade [...] 4. Estimativa de impacto orçamentário-financeiro [listadas como etapas de fluxograma, sem nenhum documento correspondente] (Caderno III, 1.13)"
+      - "%RCL: 7.996,27 | 'ERRO' [análise de comprometimento da RCL inutilizada, sobre RCL de 2020–2022] (DRE.xlsx, aba VfM)"
+    descricao_breve: "Nenhum documento publicado demonstra as condições prévias da PPP: autorização fundamentada, estimativa de impacto orçamentário-financeiro, declaração do ordenador (LDO/LOA), previsão no PPA, lei municipal autorizativa e enquadramento no limite de 5% da RCL — a única análise de RCL existente está quebrada na planilha"
+    comentario: >-
+      A modelagem jurídica apenas lista as condições do art. 10 como etapas de
+      fluxograma, sem verificar nem documentar nenhuma; o edital cita somente a dotação
+      do exercício e o rol de normas municipais não inclui lei de PPP; a minuta remete o
+      suporte de 30 anos de pagamentos a dotação genérica "n° XXXXXX" e orçamentos
+      futuros; e a verificação do limite do art. 28 (5% da RCL) existe apenas na aba VfM
+      do modelo, exibindo "7.996,27%" com a anotação "ERRO", sobre RCL de 2020–2022.
+      Convém requerer vista do Processo Administrativo n.º 23.154/2026 antes de afirmar
+      a inexistência dos atos — a ausência comprovada nos autos configura vício de
+      validade da abertura do certame.
+    dispositivo_legal: "art. 10, incisos I, II, III, V e VII, e art. 28 da Lei n.º 11.079/2004; art. 165, § 1.º, da CF/1988; arts. 15 a 17 da LC n.º 101/2000"
+    flag_tecnico: false
+    flag_reserva: false
+    probabilidade_advogado: null
+
+  - id_consolidado: C-019
+    ids_origem: [E1.edital-assinado-030, E1.edital-assinado-031, E1.edital-assinado-032, E2.tratamento-termico-biodigestao-005, E2.tratamento-termico-biodigestao-009, E2.termo-referencia-019, E2.diretrizes-ambientais-003, E2.diretrizes-ambientais-004, E2.metas-indicadores-006, E3.minuta-contrato-016, E3.minuta-contrato-017, E4.modelagem-tecnico-operacional-006, E4.modelagem-tecnico-operacional-016, E4.modelagem-tecnico-operacional-019, E4.modelagem-tecnico-operacional-020, E4.modelagem-tecnico-operacional-021, E4.modelagem-economico-financeira-001, E4.modelagem-economico-financeira-015, E4.dre-xlsx-001, E4.dre-xlsx-012, E4.dre-xlsx-016]
+    titulo: "Determinações do TCE-SP de 2019 descumpridas"
+    tema: MODELAGEM_ECONOMICA
+    tema_descritivo: "Determinações do TCE-SP (TC-001718.989.19-7)"
+    tipo_achado: IRREGULAR
+    categoria: ilegalidade
+    categorias_secundarias: [omissao]
+    dispositivos:
+      - { dispositivo: "Conjunto editalício (verificação por determinação — ver comentario)", documento_fonte: "Todos os documentos do certame" }
+    transcricoes:
+      - "Determinações de retificação fixadas pelo TCE-SP, Tribunal Pleno, sessão de 13/03/2019, TC-001718.989.19-7, Rel. Cons. Dimas Ramalho, sobre a Concorrência 009/2018 de Marília — mesmo objeto (fonte primária: docs/subsidios/706644.pdf, inteiro teor conferido — sem [VIT])"
+    descricao_breve: "Verificação item a item das 7 determinações do exame prévio de 2019 sobre o mesmo objeto: determinações 1, 2, 3 e 7 descumpridas; 4, 5 e 6 atendidas apenas parcialmente — reiteração de vícios já vedados por decisão vinculante"
+    comentario: >-
+      Balanço por determinação, com base nos achados dos extratores: (1) detalhamento de
+      custos, estudos, premissas e referências macroeconômicas — DESCUMPRIDA (CAPEX em
+      macrovalores sem memória, modelo mutilado, premissas defasadas e sem fonte: C-015,
+      C-016, C-017); (2) critérios do teor de umidade em cada fase — DESCUMPRIDA
+      (umidade só do CDR, com dois limites divergentes; caracterização remetida à
+      concessionária: C-007); (3) previsão das receitas acessórias — DESCUMPRIDA
+      (listagem qualitativa, aba de receitas em #REF!, valores sem fonte e com erros de
+      ordem de grandeza: C-028); (4) especificações e tipos de licenças ambientais —
+      PARCIAL (Anexo II.7 lista LP/LI/LO e cinco estudos possíveis mas se recusa a
+      definir o enquadramento: C-030); (5) responsabilidades da entrega à destinação
+      final — PARCIAL (cadeia contraditória em seis documentos: C-004); (6) descritivo
+      de efluentes e rejeitos em m³/dia — PARCIAL (volumes de digestato conflitantes;
+      efluentes da limpeza de gases não quantificados: C-005); (7) especificações de
+      desempenho do sistema de conversão acoplado à gaseificação — DESCUMPRIDA (especificações
+      só de caldeira de queima direta; '2,5 MW/h'; sem indicador de desempenho
+      energético: C-005, C-025). O descumprimento reiterado de decisão vinculante sobre o
+      mesmo objeto é fato autônomo, documentado no inteiro teor em poder da equipe.
+    dispositivo_legal: "TC-001718.989.19-7, TCE-SP, Tribunal Pleno, Rel. Cons. Dimas Ramalho, j. 13/03/2019 (determinações 1 a 7 — inteiro teor em docs/subsidios/706644.pdf); art. 71 da CF/1988 c/c art. 33 da Constituição do Estado de São Paulo; LC estadual n.º 709/1993"
+    flag_tecnico: false
+    flag_reserva: false
+    probabilidade_advogado: null
+
+  # ========================== RISCOS_GARANTIAS ==========================
+
+  - id_consolidado: C-020
+    ids_origem: [E3.minuta-contrato-026, E3.matriz-riscos-003, E4.modelagem-economico-financeira-013, E4.modelagem-economico-financeira-018, E4.modelagem-tecnico-operacional-001, E4.modelagem-tecnico-operacional-017, E2.diretrizes-engenharia-003]
+    titulo: "Risco de demanda e garantia de volume"
+    tema: RISCOS_GARANTIAS
+    tema_descritivo: "Riscos e garantias"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    categorias_secundarias: [omissao]
+    dispositivos:
+      - { dispositivo: "Cláusula 34.2", documento_fonte: "Anexo III (Minuta do Contrato)" }
+      - { dispositivo: "Item III.6", documento_fonte: "Anexo III.2 (Matriz de Riscos do Contrato)" }
+      - { dispositivo: "Itens 8.1, 9, 15.6 e 15.7 e itens 2.5/13 (demanda)", documento_fonte: "Caderno II (Modelagem Econômico-Financeira)" }
+      - { dispositivo: "Introdução, itens 3.3, 4.5, 6.3.1 e 8.2", documento_fonte: "Caderno I (Modelagem Técnico-Operacional)" }
+      - { dispositivo: "Item 4", documento_fonte: "Anexo II.4 (Diretrizes de Engenharia)" }
+    transcricoes:
+      - "variação superior a 10% [...] as PARTES promoverão a competente REVISÃO EXTRAORDINÁRIA (Contrato, 34.2) × Concessionária assume o risco de variação da demanda (Matriz de Riscos, III.6)"
+      - "O poder público se compromete a entregar um volume mínimo e máximo de resíduos [volumes que nenhum documento fixa] (Caderno II, item 9)"
+    descricao_breve: "Risco de demanda com quatro tratamentos incompatíveis (revisão por ±10% / risco integral da concessionária / compartilhado / indenização abaixo do mínimo), sem fixação dos volumes mínimo e máximo, sobre base de dimensionamento divergente (72.000 × 62.400 t/ano) e demanda crescente que as DREs congelam"
+    comentario: >-
+      A minuta compartilha o risco de demanda (revisão extraordinária por variação
+      superior a ±10%), a matriz de riscos o aloca integralmente à concessionária e o
+      Caderno II o trata de três formas adicionais, prometendo "garantia de fornecimento
+      mínimo" com indenização sem definir volumes nem mecanismo. A base física é
+      igualmente instável: o contrato vigente indica 72.000 t/ano, a modelagem adota
+      62.400 t/ano sem memória da "atualização", a geração projetada cresce a 261 t/dia
+      em 2059 enquanto as DREs congelam 200 t/dia, a recepção é dimensionada para 257
+      t/dia e o Anexo II.4 exige capacidade para a "totalidade dos RSD ao longo da
+      concessão". O licitante não consegue precificar o risco central do contrato.
+    dispositivo_legal: "art. 4.º, inciso VI, e art. 5.º, inciso III, da Lei n.º 11.079/2004; art. 103 da Lei n.º 14.133/2021; art. 6.º, inciso XXIII, alínea 'a', da Lei n.º 14.133/2021"
+    flag_tecnico: false
+    flag_reserva: false
+    probabilidade_advogado: null
+
+  - id_consolidado: C-021
+    ids_origem: [E1.edital-assinado-014, E2.termo-referencia-007, E3.minuta-contrato-010, E3.minuta-contrato-011, E3.minuta-contrato-012]
+    titulo: "Garantia Pública"
+    tema: RISCOS_GARANTIAS
+    tema_descritivo: "Riscos e garantias"
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    categorias_secundarias: [risco_economico, ilegalidade]
+    dispositivos:
+      - { dispositivo: "Item 41 e definição GARANTIA DE PAGAMENTO", documento_fonte: "Edital (versão assinada)" }
+      - { dispositivo: "Item 4.4, subitem 4.2.3", documento_fonte: "Anexo II (Termo de Referência)" }
+      - { dispositivo: "Cláusulas 21.1, 21.1.1, 21.1.1.1, 21.1.1.2 e 21.2", documento_fonte: "Anexo III (Minuta do Contrato)" }
+    transcricoes:
+      - "Fundo Garantidor das Parcerias Público-Privadas – FGP a ser criado e regido por lei municipal específica (Edital, item 41)"
+      - "I – Vinculação ou cessão fiduciária de quotas do FPM; II – [...] quota-parte municipal do ICMS; V – Vinculação de receitas oriundas da COSIP (TR, 4.2.3)"
+      - "A realização dos investimentos previstos está condicionada a efetiva constituição e funcionamento do FUNDO GARANTIDOR (Contrato, 21.1.1.2)"
+    descricao_breve: "Garantia pública da PPP não constituída: rol alternativo de nove instrumentos sem eleger nenhum, FGP dependente de lei futura (alternativa satisfeita por mero encaminhamento de PL), vinculação de FPM/ICMS/COSIP com óbice constitucional, piso de apenas 3 contraprestações e investimentos condicionados ao fundo inexistente"
+    comentario: >-
+      Em concessão administrativa toda a remuneração vem do erário, e o núcleo da
+      bancabilidade — a garantia de pagamento — permanece indefinido: o edital alterna
+      entre cessão de recebíveis não especificados e FGP "a ser criado por lei", o TR
+      abre rol de nove instrumentos que inclui vinculação de quotas do FPM e do ICMS
+      (receitas de impostos — art. 167, IV, da CF) e da COSIP (destinação própria — art.
+      149-A), e a minuta se satisfaz com o encaminhamento de Projeto de Lei, fixando
+      piso de apenas 3 contraprestações mensais sem demonstração de suficiência. A
+      cláusula 21.1.1.2 condiciona os investimentos à efetiva constituição do fundo
+      inexistente — colidindo com o cronograma de implantação e criando risco de
+      paralisia contratual. O TR ainda exige garantias "integralmente constituídas antes
+      da assinatura", em contradição com o regime da minuta.
+    dispositivo_legal: "art. 8.º da Lei n.º 11.079/2004; art. 167, inciso IV, e art. 149-A da CF/1988; art. 23, incisos II e III, da Lei n.º 8.987/1995"
+    flag_tecnico: false
+    flag_reserva: false
+    probabilidade_advogado: null
+
+  - id_consolidado: C-022
+    ids_origem: [E1.edital-assinado-015, E1.edital-assinado-016, E2.termo-referencia-005, E3.minuta-contrato-013]
+    titulo: "Garantias de proposta e de execução"
+    tema: RISCOS_GARANTIAS
+    tema_descritivo: "Riscos e garantias"
+    tipo_achado: IRREGULAR
+    categoria: ilegalidade
+    categorias_secundarias: [erro_material]
+    dispositivos:
+      - { dispositivo: "Definição GARANTIA DE EXECUÇÃO DO CONTRATO, itens 28.2.2, 29.1 e 29.2", documento_fonte: "Edital (versão assinada)" }
+      - { dispositivo: "Item 4.4, subitem 4.2.2, alíneas 'a' e 'b'", documento_fonte: "Anexo II (Termo de Referência)" }
+      - { dispositivo: "Cláusula 22.1 c/c definição", documento_fonte: "Anexo III (Minuta do Contrato)" }
+    transcricoes:
+      - "é a garantia anual avos sobre o valor anual contratual [definição ininteligível] (Edital)"
+      - "5% [...] equivalente a R$ 356.680,00 [...] calculado sobre o montante anual estimado de R$ 7.133.600,00 [× R$ 7.113.600,00 do item 4.1] (TR, 4.2.2)"
+      - "prestou a GARANTIA DE EXECUÇÃO DO CONTRATO [...] na forma de carta fiança, prevista no artigo 97 (Contrato, 22.1)"
+    descricao_breve: "Garantia de execução com definição ininteligível, valores divergentes dentro do próprio TR, modalidade reduzida a 'carta fiança' na minuta (suprimindo a opção legal do contratado) e garantia de proposta fundada no dispositivo errado (art. 96, § 1.º, em vez do art. 58)"
+    comentario: >-
+      A definição editalícia da garantia de execução ("garantia anual avos") é
+      incompreensível e os valores do TR não fecham com sua própria base (5% de R$
+      7.113.600 = R$ 355.680, não R$ 356.680 sobre base de R$ 7.133.600); a minuta
+      restringe a garantia à "carta fiança", suprimindo a escolha entre caução,
+      seguro-garantia e fiança que o art. 96 assegura ao contratado, com remissão legal
+      imprecisa (art. 97). A garantia de proposta é fundada no art. 96, § 1.º (garantias
+      contratuais), e não no art. 58, com montante remetido ao TR — o cotejo com o
+      limite legal de 1% fica prejudicado. A eventual insuficiência da base anual da
+      garantia (≈0,17% do valor da contratação) é tratada em separado (C-039).
+    dispositivo_legal: "art. 58, caput e § 1.º, art. 96, caput e § 1.º, e art. 98 da Lei n.º 14.133/2021; art. 5.º, § 2.º, da Lei n.º 11.079/2004"
+    flag_tecnico: false
+    flag_reserva: false
+    probabilidade_advogado: null
+
+  - id_consolidado: C-023
+    ids_origem: [E3.matriz-riscos-001, E3.matriz-riscos-002, E3.matriz-riscos-005, E3.matriz-riscos-006, E3.matriz-riscos-007, E3.matriz-riscos-008, E3.matriz-riscos-009]
+    titulo: "Matriz de riscos contraditória e instável"
+    tema: RISCOS_GARANTIAS
+    tema_descritivo: "Riscos e garantias"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    categorias_secundarias: [omissao, risco_economico]
+    dispositivos:
+      - { dispositivo: "Blocos I a VI (tabela × narrativa) e item 7 (Observação Final)", documento_fonte: "Anexo III.2 (Matriz de Riscos do Contrato)" }
+    transcricoes:
+      - "Vícios ocultos [...] CONCEDENTE [tabela] × Alocação: Concessionária [narrativa do mesmo anexo]"
+      - "A presente matriz [...] tem caráter dinâmico e poderá ser revisada e atualizada periodicamente (item 7)"
+      - "Erros nos elementos de projeto básico — CONCESSIONÁRIA [...] sem, portanto, previsão de reequilíbrio econômico na hipótese de erro de estimativa (II.1/II.4)"
+    descricao_breve: "Matriz de riscos veicula cada bloco duas vezes (tabela × narrativa) com alocações divergentes, declara-se 'dinâmica' e revisável, transfere à concessionária o erro de projeto básico da própria Administração e a manipulação de indicadores praticada pelo agente público, e não aloca o risco de variação da composição gravimétrica"
+    comentario: >-
+      O anexo contradiz a si mesmo (vícios ocultos pré-existentes: concedente na tabela,
+      concessionária na narrativa; licenciamento: compartilhado em II.4 e integral da
+      concessionária em III.1; atualidade tecnológica com alocações opostas) e contradiz
+      a minuta (demanda — ver C-020). A "observação final" declara a matriz dinâmica e
+      revisável periodicamente, desestabilizando a repartição objetiva de riscos que
+      fundamenta a equação econômico-financeira e a precificação. A alocação à
+      concessionária do erro nos elementos de projeto básico elaborados pela
+      Administração, com vedação de reequilíbrio, e do risco de "manipulação dos
+      indicadores praticada pela Agência Reguladora ou Concedente" é logicamente
+      invertida; e o risco determinante do negócio — variação da composição/gravimetria
+      dos resíduos — simplesmente não é alocado.
+    dispositivo_legal: "art. 4.º, inciso VI, e art. 5.º, inciso III, da Lei n.º 11.079/2004; art. 92, inciso IX, e art. 103, caput e §§ 1.º e 5.º, da Lei n.º 14.133/2021"
+    flag_tecnico: false
+    flag_reserva: false
+    probabilidade_advogado: null
+
+  - id_consolidado: C-024
+    ids_origem: [E3.minuta-contrato-022, E3.minuta-contrato-025]
+    titulo: "Regime sancionatório da lei revogada"
+    tema: RISCOS_GARANTIAS
+    tema_descritivo: "Riscos e garantias"
+    tipo_achado: IRREGULAR
+    categoria: ilegalidade
+    categorias_secundarias: [omissao]
+    dispositivos:
+      - { dispositivo: "Cláusulas 32.1 (alíneas c e d), 32.2, 32.2.1, 32.3 e 32.7", documento_fonte: "Anexo III (Minuta do Contrato)" }
+    transcricoes:
+      - "suspensão temporária [...] por prazo não superior a 2 (dois) anos; declaração de inidoneidade [...] perante a própria autoridade que aplicou a penalidade (32.1)"
+      - "Até que se estabeleça diretrizes específicas para a aplicação de penalidades pelo PODER CONCEDENTE (32.2)"
+    descricao_breve: "Rol sancionatório redigido sob o regime revogado da Lei 8.666/1993 (espécies, prazos e competências incompatíveis com o art. 156 da Lei 14.133/2021) e declaradamente provisório, remetido a 'normativos próprios' futuros, com tipos estranhos ao objeto ('metas de universalização')"
+    comentario: >-
+      As sanções contratuais reproduzem o regime da Lei 8.666/1993 — suspensão de até 2
+      anos e inidoneidade reabilitável perante a autoridade aplicadora —, incompatível
+      com as espécies, prazos (impedimento de até 3 anos; inidoneidade de 3 a 6 anos) e
+      competências do art. 156 da Lei 14.133/2021. O próprio contrato se declara regime
+      provisório "até que se estabeleçam diretrizes", remetendo a tipificação e a
+      dosimetria a normativos futuros do poder concedente e incluindo infrações
+      estranhas ao objeto. A proporcionalidade dos valores das multas é tratada em
+      separado (C-039).
+    dispositivo_legal: "art. 156, caput e §§ 4.º a 6.º, da Lei n.º 14.133/2021; art. 5.º, inciso II, da Lei n.º 11.079/2004; art. 23, inciso VIII, da Lei n.º 8.987/1995"
+    flag_tecnico: false
+    flag_reserva: false
+    probabilidade_advogado: null
+
+  # ======================== REMUNERACAO_REAJUSTE ========================
+
+  - id_consolidado: C-025
+    ids_origem: [E3.minuta-contrato-002, E2.metas-indicadores-003, E2.metas-indicadores-004, E2.metas-indicadores-005, E2.termo-referencia-009, E2.tratamento-termico-biodigestao-003, E2.tratamento-termico-biodigestao-004, E4.modelagem-economico-financeira-019, E2.termo-referencia-011]
+    titulo: "Remuneração desvinculada do desempenho"
+    tema: REMUNERACAO_REAJUSTE
+    tema_descritivo: "Remuneração, desempenho e medição"
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    categorias_secundarias: [contradicao]
+    dispositivos:
+      - { dispositivo: "Cláusulas 13, 16 e 19 c/c definição PREÇO TONELADA", documento_fonte: "Anexo III (Minuta do Contrato)" }
+      - { dispositivo: "Itens 2, 4 (inciso V), 5 e 6", documento_fonte: "Anexo II.6 (Metas e Indicadores de Desempenho)" }
+      - { dispositivo: "Itens 9.5.1 a 9.5.5 e Seções 16/18", documento_fonte: "Anexo II (Termo de Referência)" }
+      - { dispositivo: "Seções 3, 7 e 10 e Especificações das Etapas", documento_fonte: "Anexo II.3 (Diretrizes Tratamento Térmico e Biodigestão)" }
+      - { dispositivo: "Item 8.1", documento_fonte: "Caderno II (Modelagem Econômico-Financeira)" }
+    transcricoes:
+      - "V. Aplicação do fator de desempenho sobre a contraprestação [sem fórmula de conversão da nota em glosa] (Anexo II.6)"
+      - "eficiência mínima de 70% na segregação [TR] × ≥85%/≥80% [Anexo II.3] × faixas com plenitude a partir de 90%/95% [Anexo II.6]"
+      - "não estando automaticamente vinculada aos indicadores de desempenho [...] Vinculado ao cumprimento de metas de eficiência (Caderno II, 8.1)"
+    descricao_breve: "Núcleo do pagamento por desempenho indefinido: nota mensal prevista sem fórmula de conversão em glosa, contrato paga integralmente por tonelada medida, os mesmos KPIs têm três réguas divergentes (TR × II.3 × II.6), 30% da nota mede serviços alheios ao objeto e a medição tem dois regimes sobrepostos"
+    comentario: >-
+      A vinculação da remuneração ao desempenho — requisito estrutural de PPP (art. 6.º,
+      § 1.º, da Lei 11.079/2004) — é anunciada mas não implementada: o Anexo II.6 prevê
+      nota de 0 a 100 e "aplicação do fator de desempenho sobre a contraprestação" sem
+      fórmula, faixas ou procedimento, e a minuta paga o preço/t integral sem parcela
+      variável; o Caderno II afirma, no mesmo item, que a contraprestação não é e é
+      vinculada ao desempenho. Os indicadores têm três réguas incompatíveis para
+      segregação, disponibilidade e conversão energética (com intervalos não cobertos
+      nas faixas), o Anexo II.3 declara seus parâmetros "não vinculantes" enquanto o TR
+      os qualifica "mandatários", 30% da nota mede reclamações/atendimento/satisfação de
+      serviços que permanecem municipais, e a Seção 18 do TR sobrepõe dois regimes de
+      medição com prazos e autoridades distintos.
+    dispositivo_legal: "art. 6.º, § 1.º, e art. 7.º da Lei n.º 11.079/2004; art. 5.º, inciso VII, da Lei n.º 11.079/2004; art. 6.º, inciso XXIII, alíneas 'e' e 'j', e art. 92, incisos V e VI, da Lei n.º 14.133/2021; TC-001718.989.19-7, TCE-SP, Pleno, 13/03/2019 (determinação 7)"
+    flag_tecnico: false
+    flag_reserva: false
+    probabilidade_advogado: null
+
+  - id_consolidado: C-026
+    ids_origem: [E1.edital-assinado-007, E3.minuta-contrato-020, E3.minuta-contrato-021, E3.bens-reversiveis-002, E3.bens-reversiveis-003, E3.bens-reversiveis-004]
+    titulo: "Bens reversíveis: dupla remuneração e lista genérica"
+    tema: REMUNERACAO_REAJUSTE
+    tema_descritivo: "Remuneração e bens reversíveis"
+    tipo_achado: IRREGULAR
+    categoria: risco_economico
+    categorias_secundarias: [contradicao, omissao]
+    dispositivos:
+      - { dispositivo: "Itens 4.1, 4.2 e 4.6 e definições VALOR DE BENS REVERSÍVEIS / PROPOSTA COMERCIAL", documento_fonte: "Edital (versão assinada)" }
+      - { dispositivo: "Cláusulas 8.2, 37.2 e 37.3 e definição VALOR DE BENS REVERSÍVEIS", documento_fonte: "Anexo III (Minuta do Contrato)" }
+      - { dispositivo: "Itens 1 a 10", documento_fonte: "Anexo III.1 (Lista de Bens Reversíveis)" }
+    transcricoes:
+      - "Referido valor remunera os investimentos em bens reversíveis ao longo do tempo, evitando uma grande indenização no final (Edital/Contrato, definição)"
+      - "reverterão ao Município [...] sem qualquer ônus adicional (8.2) × englobará os investimentos [...] que ainda não tenham sido depreciados e amortizados (37.2)"
+      - "incluindo, mas não se restringindo a [...] quando aplicável (Anexo III.1)"
+    descricao_breve: "Parcela mensal autônoma que amortiza os bens reversíveis por 30 anos cumulada com indenização de investimentos não amortizados na extinção, sem mecanismo de abatimento, sobre lista de bens genérica e sem valores, com critério de avaliação e método de valoração ausentes"
+    comentario: >-
+      O erário paga parcela específica que "remunera os investimentos em bens
+      reversíveis ao longo do tempo" e, na extinção, indeniza os investimentos não
+      depreciados/amortizados — sem qualquer mecanismo de controle da amortização já
+      paga: risco concreto de dupla remuneração do mesmo investimento, agravado pela
+      contradição entre a reversão "sem qualquer ônus adicional" (cláusula 8.2) e a
+      indenização das cláusulas 37.2/37.3. A lista de bens reversíveis é aberta e
+      condicional, sem individualização, quantitativos ou valores, o componente (B) da
+      proposta não tem método de valoração, taxa ou prazo, e o critério de avaliação
+      para fins de indenização não é definido — o que impede dimensionar componente que
+      integra a soma classificatória do julgamento.
+    dispositivo_legal: "art. 6.º e art. 7.º da Lei n.º 11.079/2004; art. 35, §§ 1.º a 3.º, art. 36 e art. 23, inciso X, da Lei n.º 8.987/1995; art. 6.º, inciso XXV, da Lei n.º 14.133/2021"
+    flag_tecnico: false
+    flag_reserva: false
+    probabilidade_advogado: null
+
+  - id_consolidado: C-027
+    ids_origem: [E3.minuta-contrato-008, E3.minuta-contrato-009]
+    titulo: "Reajuste e revisão indefinidos"
+    tema: REMUNERACAO_REAJUSTE
+    tema_descritivo: "Remuneração e reajuste"
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    dispositivos:
+      - { dispositivo: "Cláusulas 19.1.1, 19.1.2, 19.5 e 20.1", documento_fonte: "Anexo III (Minuta do Contrato)" }
+    transcricoes:
+      - "O reajuste será calculado por fórmula paramétrica [anunciada e não expressa; tabela de pesos com 'faixa típica de mercado'] (19.1.1–19.1.2)"
+      - "todas as condições econômico-financeiras deste CONTRATO serão revistas ordinariamente a cada ano (20.1)"
+    descricao_breve: "Fórmula paramétrica de reajuste anunciada mas não expressa matematicamente (pesos em 'faixas típicas de mercado'), sobreposta a revisão ordinária anual de 'todas as condições econômico-financeiras' sem parâmetros, escopo ou procedimento"
+    comentario: >-
+      O reajuste — cláusula essencial — não tem fórmula matemática expressa: a tabela de
+      pesos convive com "faixas típicas de mercado" sem definir se os pesos são fixos, e
+      o item 19.5 remete a "publicação" inexistente no texto. Paralelamente, a cláusula
+      20.1 institui revisão ordinária anual de todas as condições econômico-financeiras
+      sem parâmetros nem procedimento, sobrepondo-se ao reajuste e tornando indefinido o
+      regime de recomposição — insegurança que afeta a precificação e abre espaço a
+      recomposições atípicas ao longo de 30 anos.
+    dispositivo_legal: "art. 5.º, inciso IV, da Lei n.º 11.079/2004; art. 23, inciso IV, da Lei n.º 8.987/1995; art. 92, inciso V, da Lei n.º 14.133/2021"
+    flag_tecnico: false
+    flag_reserva: false
+    probabilidade_advogado: null
+
+  - id_consolidado: C-028
+    ids_origem: [E1.edital-assinado-030, E2.termo-referencia-012, E3.minuta-contrato-017, E4.modelagem-tecnico-operacional-021, E4.modelagem-tecnico-operacional-007, E4.dre-xlsx-016, E4.modelagem-economico-financeira-011, E4.modelagem-economico-financeira-023]
+    titulo: "Receitas acessórias sem previsão e com regime contraditório"
+    tema: REMUNERACAO_REAJUSTE
+    tema_descritivo: "Remuneração e receitas acessórias"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    categorias_secundarias: [omissao]
+    dispositivos:
+      - { dispositivo: "Item 3, subitem 3", documento_fonte: "Edital (versão assinada)" }
+      - { dispositivo: "Seções 17 e 19", documento_fonte: "Anexo II (Termo de Referência)" }
+      - { dispositivo: "Cláusulas 14.2, 14.2.1 e 14.2.1.1", documento_fonte: "Anexo III (Minuta do Contrato)" }
+      - { dispositivo: "Resumo Executivo item 4.2 e item 11", documento_fonte: "Caderno I (Modelagem Técnico-Operacional)" }
+      - { dispositivo: "Itens 13.1.1/13.2.1 e aba Receita Acessórias", documento_fonte: "Caderno II (Modelagem Econômico-Financeira) e Anexo 1 (DRE.xlsx)" }
+    transcricoes:
+      - "CP = RT + BR – RA [abatimento integral] (TR, Seção 19) × compartilhamento [...] em até o percentual de 1% da ROB (TR, Seção 17) × 1% do resultado contábil líquido [...] revisto caso ocasione desequilíbrio (Contrato, 14.2.1)"
+      - "Receitas Acessórias [linha-total]: #REF! (DRE.xlsx) | CO₂ Purificado: ~1,5 milhões ton/ano × 5 t/d (Caderno I)"
+    descricao_breve: "Regime das receitas acessórias com três fórmulas incompatíveis (abatimento integral × 1% da ROB × 1% do resultado líquido revisível) e previsão quantitativa inexistente ou viciada (aba em #REF!, CO₂ com erro de três ordens de grandeza, recicláveis a R$ 1,50/t) — determinação 3 do TCE-SP descumprida"
+    comentario: >-
+      O tratamento econômico das receitas acessórias (energia, biometano, CO₂, CBIOs,
+      recicláveis, créditos de carbono) muda conforme o documento: a Seção 19 do TR as
+      abate integralmente da contraprestação, a Seção 17 prevê compartilhamento de até
+      1% da ROB e a minuta reduz a 1% do resultado líquido, ainda revisível se causar
+      desequilíbrio. A previsão quantitativa determinada pelo TCE-SP em 2019 segue
+      ausente: o Caderno I as lista apenas qualitativamente, a aba própria do modelo
+      está com a linha-total em #REF! e os valores existentes são inverossímeis (CO₂ de
+      1,5 mi t/ano no resumo contra 5 t/dia no balanço; recicláveis a ~R$ 1,50/t com
+      preços de out/2020; CO₂ a R$ 2.500–3.000/t sem fonte).
+    dispositivo_legal: "TC-001718.989.19-7, TCE-SP, Pleno, 13/03/2019 (determinação 3); art. 11, caput e parágrafo único, da Lei n.º 8.987/1995 c/c art. 3.º, caput, da Lei n.º 11.079/2004; art. 6.º, inciso XXIII, alínea 'j', da Lei n.º 14.133/2021"
+    flag_tecnico: true
+    flag_reserva: false
+    probabilidade_advogado: null
+
+  # ======================= REGULACAO_FISCALIZACAO =======================
+
+  - id_consolidado: C-029
+    ids_origem: [E1.edital-assinado-013, E2.termo-referencia-010, E3.minuta-contrato-004, E3.minuta-contrato-005, E3.matriz-riscos-004]
+    titulo: "Entidade reguladora ausente"
+    tema: REGULACAO_FISCALIZACAO
+    tema_descritivo: "Agência Reguladora"
+    tipo_achado: IRREGULAR
+    categoria: ilegalidade
+    categorias_secundarias: [contradicao]
+    dispositivos:
+      - { dispositivo: "Item 31 (Da Regulação e Fiscalização) e definições FISCALIZAÇÃO/ÓRGÃO FISCALIZADOR", documento_fonte: "Edital (versão assinada)" }
+      - { dispositivo: "Seção 16", documento_fonte: "Anexo II (Termo de Referência)" }
+      - { dispositivo: "Cláusulas 3.1.b, 8.10, 12.9, 20.7, 23.1.a e 29.1", documento_fonte: "Anexo III (Minuta do Contrato)" }
+      - { dispositivo: "Itens III.2, IV.1, IV.2, V.2, VI.1 e 7", documento_fonte: "Anexo III.2 (Matriz de Riscos do Contrato)" }
+    transcricoes:
+      - "O CONTRATO será regulado e fiscalizado pelo PODER CONCEDENTE (Edital, item 31)"
+      - "as normas do CONTRATO, seguidas das normas expedidas pela REGULADORA [termo sem definição] [...] nos termos definidos no CONVÊNIO DE COOPERAÇÃO [inexistente] [...] Lei Complementar Estadual n. 1.025/2007 [ARSESP] (Contrato)"
+      - "Desempenho é fiscalizado pela Agência Reguladora (Matriz de Riscos)"
+    descricao_breve: "Regulação e fiscalização atribuídas ao próprio poder concedente, sem designação de entidade reguladora com independência decisória — condição de validade dos contratos de saneamento —, enquanto contrato e matriz de riscos remetem a 'REGULADORA', 'convênio de cooperação' e à lei da ARSESP sem qualquer ato correspondente"
+    comentario: >-
+      A designação de entidade de regulação e fiscalização com autonomia é condição de
+      validade dos contratos de manejo de RSU (arts. 11, III, e 21 da Lei 11.445/2007),
+      e a NR 7/2024 da ANA atribui à entidade funções indelegáveis — nenhuma contemplada:
+      edital, TR e minuta concentram tudo no poder concedente, chegando o contrato a
+      grafar "por PODER CONCEDENTE e PODER CONCEDENTE". Em paralelo, cláusulas esparsas
+      remetem a uma "REGULADORA" não definida, a um "CONVÊNIO DE COOPERAÇÃO" não
+      celebrado e à LC estadual 1.025/2007 (ARSESP), e a matriz de riscos atribui a uma
+      "Agência Reguladora" inexistente a fiscalização de desempenho, o reajuste e a
+      revisão da própria matriz — indefinição da autoridade competente para regulação,
+      revisão tarifária e sanção ao longo de 30 anos.
+    dispositivo_legal: "art. 11, inciso III, e arts. 21 e 22 da Lei n.º 11.445/2007 (redação da Lei n.º 14.026/2020); NR n.º 7/2024 da ANA (Resolução ANA 187/2024 — atribuições de artigo a confirmar no texto oficial); art. 23, inciso VII, da Lei n.º 8.987/1995"
+    flag_tecnico: false
+    flag_reserva: false
+    probabilidade_advogado: null
+
+  # ======================= LICENCIAMENTO_AMBIENTAL =======================
+
+  - id_consolidado: C-030
+    ids_origem: [E1.edital-assinado-031, E2.diretrizes-ambientais-003, E2.termo-referencia-020, E3.matriz-riscos-007]
+    titulo: "Licenciamento ambiental indefinido"
+    tema: LICENCIAMENTO_AMBIENTAL
+    tema_descritivo: "Licenciamento ambiental e área contaminada"
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    categorias_secundarias: [contradicao]
+    dispositivos:
+      - { dispositivo: "Definições DIRETRIZES/LICENÇAS AMBIENTAIS e PLANILHA SINTÉTICA e item 34", documento_fonte: "Edital (versão assinada)" }
+      - { dispositivo: "Itens 1 e 12", documento_fonte: "Anexo II.7 (Diretrizes Ambientais Básicas)" }
+      - { dispositivo: "Seção 13, item 1, e Seção 21", documento_fonte: "Anexo II (Termo de Referência)" }
+      - { dispositivo: "Itens II.4 (FG 3) × III.1 (FG 1)", documento_fonte: "Anexo III.2 (Matriz de Riscos do Contrato)" }
+    transcricoes:
+      - "os itens aqui relacionados constituem referências legais [...] sem que isso represente qualquer antecipação de exigências (Anexo II.7, item 1)"
+      - "Gaseificação/Pirólise: até 30 meses contados da emissão da Licença de Instalação [sem prazo-limite para a própria LI] (TR, Seção 21)"
+    descricao_breve: "Edital não especifica quais licenças existem e quais faltam; o Anexo II.7, apontado como cumprimento do art. 10, VII, declara expressamente não antecipar exigências e remete o enquadramento (EAS × EIA/RIMA) à CETESB; cronograma sem prazo para obtenção das licenças e risco de atraso alocado de forma divergente — determinação 4 do TCE-SP atendida só em parte"
+    comentario: >-
+      A abertura de PPP exige licença prévia ou diretrizes para o licenciamento (art.
+      10, VII, da Lei 11.079/2004); o documento apresentado como diretriz nega ser
+      aquilo que o edital diz que ele é — lista genericamente LP/LI/LO e cinco estudos
+      possíveis, abstendo-se de definir o enquadramento aplicável — e todo o
+      licenciamento é transferido à SPE, sem nem a LP obtida. O cronograma conta os
+      marcos de implantação da emissão da LI, cuja data é indeterminada, sem data-limite
+      de início da operação, e a matriz de riscos aloca o atraso de licenciamento ora
+      como compartilhado, ora como integral da concessionária. A incerteza impede
+      precificar prazo e risco de licenciamento — ponto objeto de determinação expressa
+      do TCE-SP em 2019 (determinação 4).
+    dispositivo_legal: "TC-001718.989.19-7, TCE-SP, Pleno, 13/03/2019 (determinação 4); art. 10, inciso VII, da Lei n.º 11.079/2004; arts. 2.º, 3.º e 8.º da Resolução CONAMA n.º 237/1997; art. 6.º, inciso XXIII, alínea 'a', da Lei n.º 14.133/2021"
+    flag_tecnico: false
+    flag_reserva: false
+    probabilidade_advogado: null
+
+  - id_consolidado: C-031
+    ids_origem: [E2.termo-referencia-018, E2.monitoramento-ambiental-001, E2.monitoramento-ambiental-002, E3.minuta-contrato-030, E4.modelagem-tecnico-operacional-012]
+    titulo: "Área contaminada e passivo ambiental"
+    tema: LICENCIAMENTO_AMBIENTAL
+    tema_descritivo: "Licenciamento ambiental e área contaminada"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    categorias_secundarias: [omissao, risco_economico]
+    dispositivos:
+      - { dispositivo: "Item 10.23", documento_fonte: "Anexo II (Termo de Referência)" }
+      - { dispositivo: "Itens 1, 2 e 3", documento_fonte: "Anexo II.5 (Monitoramento Ambiental de Águas Subterrâneas e Ar do Solo)" }
+      - { dispositivo: "Cláusulas 23.2 e 45.5", documento_fonte: "Anexo III (Minuta do Contrato)" }
+      - { dispositivo: "Itens 6.1 e 8", documento_fonte: "Caderno I (Modelagem Técnico-Operacional)" }
+    transcricoes:
+      - "responsabilidade exclusiva da PREFEITURA DE MARÍLIA, por se tratar de área impactada com atividade do antigo lixão (TR, 10.23)"
+      - "deverá monitorar semanalmente o gás metano [...] nos poços de monitoramento de gases existentes no interior do aterro sanitário [encargo da concessionária] (Anexo II.5)"
+      - "referida ÁREA está impactada por atividade de disposição de resíduos, portanto, provavelmente contaminada (Contrato, 45.5)"
+    descricao_breve: "Área do empreendimento reconhecida como 'provavelmente contaminada' sem investigação confirmatória disponibilizada, com alocação contraditória do passivo (mitigação exclusiva da Prefeitura no TR × monitoramento e condução até a reabilitação a cargo da concessionária no Anexo II.5), sem baseline, e com duas localizações distintas no Caderno I"
+    comentario: >-
+      O contrato reconhece a área como provavelmente contaminada e aloca o passivo
+      pré-existente ao poder concedente, mas o Anexo II.5 transfere à concessionária o
+      monitoramento de águas subterrâneas e gases da área — até a reabilitação perante o
+      órgão ambiental — sem disponibilizar investigação confirmatória, rede de poços,
+      valores de referência (CMA) ou histórico: o encargo não é precificável e não há
+      delimitação de baseline entre o passivo do antigo lixão e a nova atividade,
+      exigência da Lei estadual 13.577/2009. O Caderno I ainda indica duas localizações
+      distintas para a área disponibilizada (Estr. Danilo Gonzáles km 06 × Rod. Eduardo
+      Zucari km 2,5). Conferir os dados da investigação no processo administrativo
+      antes de afirmar inexistência.
+    dispositivo_legal: "Lei Estadual n.º 13.577/2009 (SP) e Decreto Estadual n.º 59.263/2013, art. 57; DD CETESB 038/2017/C; art. 5.º, inciso III, da Lei n.º 11.079/2004; art. 18, § 1.º, incisos I e VIII, da Lei n.º 14.133/2021"
+    flag_tecnico: true
+    flag_reserva: false
+    probabilidade_advogado: null
+
+  - id_consolidado: C-032
+    ids_origem: [E2.diretrizes-plano-trabalho-003, E2.diretrizes-ambientais-006, E4.modelagem-juridica-004]
+    titulo: "Diretrizes técnicas ambientais incoerentes"
+    tema: LICENCIAMENTO_AMBIENTAL
+    tema_descritivo: "Licenciamento ambiental e área contaminada"
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    categorias_secundarias: [erro_material]
+    dispositivos:
+      - { dispositivo: "Item 3.1", documento_fonte: "Anexo II.1 (Diretrizes Plano de Trabalho)" }
+      - { dispositivo: "Itens 18.7, 18.8 e 21.1", documento_fonte: "Anexo II.7 (Diretrizes Ambientais Básicas)" }
+      - { dispositivo: "Itens 1.4, 1.8 e 1.9", documento_fonte: "Caderno III (Modelagem Jurídica)" }
+    transcricoes:
+      - "Estimativa de emissões dos seguintes poluentes: MP; SO₂, NOx, CO; HC e HCNM [sem dioxinas/furanos, HCl, HF e metais pesados] (Anexo II.1, 3.1)"
+      - "a temperatura mínima de operação [...] deve considerar a temperatura inicial de formação de Dioxinas e Furanos que é de 200ºC (Anexo II.7, 21.1)"
+    descricao_breve: "Rol de poluentes do Plano de Trabalho omite os parâmetros obrigatórios da CONAMA 316/2002 para tratamento térmico (dioxinas/furanos, HCl, HF, metais pesados); diretriz de 'temperatura mínima de 200°C' inverte a lógica de controle da faixa crítica de formação de dioxinas; e a base normativa ambiental do estudo jurídico está com números e anos trocados"
+    comentario: >-
+      Para um objeto com rota de tratamento térmico, o rol de emissões exigido no Plano
+      de Trabalho ignora exatamente os parâmetros críticos da CONAMA 316/2002; o Anexo
+      II.7 fixa "temperatura mínima de operação" por referência aos 200°C de início de
+      formação de dioxinas — a janela de 200–450°C é a faixa crítica na zona de
+      resfriamento, e o Anexo II.3 opera a 850–1.050°C — e o Caderno III cita "CONAMA
+      382/2002" e "386/2002" (a resolução de fontes fixas é a 382/2006, complementada
+      pela 436/2011) e omite a CONAMA 430/2011 para efluentes. O aparato de controle
+      ambiental do certame é tecnicamente inconsistente. [VALIDAÇÃO TÉCNICA]
+    dispositivo_legal: "art. 38 da Resolução CONAMA n.º 316/2002; Resoluções CONAMA 382/2006, 436/2011 e 430/2011; Decreto Estadual n.º 59.113/2013 (SP); art. 6.º, inciso XXIII, alínea 'a', da Lei n.º 14.133/2021"
+    flag_tecnico: true
+    flag_reserva: false
+    probabilidade_advogado: null
+
+  # ========================== QUESTOES_FORMAIS ==========================
+
+  - id_consolidado: C-033
+    ids_origem: [E1.edital-assinado-021, E1.edital-assinado-022, E3.minuta-contrato-028]
+    titulo: "Consórcio × SPE"
+    tema: QUESTOES_FORMAIS
+    tema_descritivo: "Questões pontuais/formais"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    dispositivos:
+      - { dispositivo: "Definição CONSÓRCIO, item 11.3.c e itens 27 e 28.2.1", documento_fonte: "Edital (versão assinada)" }
+      - { dispositivo: "Definição CONSÓRCIO OU CONCESSIONÁRIA e Cláusulas 9.1 a 9.3", documento_fonte: "Anexo III (Minuta do Contrato)" }
+    transcricoes:
+      - "CONSÓRCIO: Pessoa jurídica de direito privado a ser constituída pela LICITANTE VENCEDORA [...] que será a parceira privada (Edital, definição)"
+      - "3. A SPE deverá ser subsidiária integral da LICITANTE VENCEDORA. 3.1. No caso de a LICITANTE VENCEDORA ser consórcio, a SPE deverá ter como sócias as empresas integrantes (Edital, item 27)"
+    descricao_breve: "Termo 'CONSÓRCIO' definido como a própria SPE/parceira privada e usado também para o consórcio de licitantes; SPE exigida como 'subsidiária integral' (acionista único) e, simultaneamente, com sócias plurais no caso de consórcio — modelos societários incompatíveis que afetam estrutura, tributação e garantias"
+    comentario: >-
+      Consórcio não é pessoa jurídica e não pode ser o parceiro privado (art. 9.º da Lei
+      11.079/2004 exige SPE), mas o glossário o define como tal e o termo é usado nessa
+      função em todo o edital e na minuta ("CONSÓRCIO ou CONCESSIONÁRIO"); o item 11.3.c
+      admite constituir "o Consórcio ou a SPE" antes do contrato, enquanto os itens 27 e
+      28.2.1 exigem SPE. A exigência de subsidiária integral (art. 251 da Lei
+      6.404/1976 — acionista único) é logicamente incompatível com a SPE de sócias
+      plurais do item 27.3.1 — a estrutura societária, com reflexos em tributação e
+      garantias, precisa ser conhecida antes da proposta.
+    dispositivo_legal: "art. 9.º, caput, da Lei n.º 11.079/2004; art. 20 da Lei n.º 8.987/1995; art. 251 da Lei n.º 6.404/1976; art. 15 da Lei n.º 14.133/2021"
+    flag_tecnico: false
+    flag_reserva: false
+    probabilidade_advogado: null
+
+  - id_consolidado: C-034
+    ids_origem: [E1.edital-assinado-008, E1.edital-assinado-009, E3.minuta-contrato-001]
+    titulo: "Vigência e prorrogação contraditórias"
+    tema: QUESTOES_FORMAIS
+    tema_descritivo: "Questões pontuais/formais"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    dispositivos:
+      - { dispositivo: "Item 4.3 × item 32.1 e definição DATA DE ASSUNÇÃO DOS SERVIÇOS; item 4.4", documento_fonte: "Edital (versão assinada)" }
+      - { dispositivo: "Cláusulas 8.1, 8.3, 8.4 e 8.5", documento_fonte: "Anexo III (Minuta do Contrato)" }
+    transcricoes:
+      - "vigência de 30 anos, contados a partir da Ordem de Início da Operação (4.3) × a partir da DATA DE ASSUNÇÃO DOS SERVIÇOS (32.1)"
+      - "prorrogado por mais 5 (cinco) anos (Contrato, 8.1) × uma única vez ou sucessivamente, até o limite máximo de 35 anos (8.4)"
+    descricao_breve: "Marco inicial dos 30 anos fixado de dois modos incompatíveis (Ordem de Início da Operação × Data de Assunção dos Serviços) e regime de prorrogação disciplinado duas vezes de forma contraditória — com impacto direto em fluxo de caixa e amortização"
+    comentario: >-
+      O termo inicial da vigência determina quando começam a correr 30 anos de
+      contraprestação e amortização: o edital o fixa na Ordem de Início da Operação
+      (posterior à implantação) e, três capítulos adiante, na Data de Assunção dos
+      Serviços (dia útil seguinte à assinatura/ordem de serviço) — diferença potencial
+      de anos no equilíbrio do contrato. A prorrogação é "uma única vez ou
+      sucessivamente" no edital e na cláusula 8.4, e "por mais 5 anos" na cláusula 8.1
+      da mesma minuta.
+    dispositivo_legal: "art. 5.º, inciso I, da Lei n.º 11.079/2004; art. 23, inciso I, da Lei n.º 8.987/1995; art. 92 da Lei n.º 14.133/2021"
+    flag_tecnico: false
+    flag_reserva: false
+    probabilidade_advogado: null
+
+  - id_consolidado: C-035
+    ids_origem: [E1.edital-assinado-028, E2.tecnologias-aplicadas-005, E3.minuta-contrato-006, E4.modelagem-juridica-009]
+    titulo: "Hierarquia entre documentos ausente ou invertida"
+    tema: QUESTOES_FORMAIS
+    tema_descritivo: "Questões pontuais/formais"
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    categorias_secundarias: [ilegalidade]
+    dispositivos:
+      - { dispositivo: "Item 46.13", documento_fonte: "Edital (versão assinada)" }
+      - { dispositivo: "Item 6 (Disposições Finais), n.º 2", documento_fonte: "Anexo II.2 (Das Tecnologias Aplicadas)" }
+      - { dispositivo: "Cláusula 3.1", documento_fonte: "Anexo III (Minuta do Contrato)" }
+      - { dispositivo: "Item 10 (Disposições Finais)", documento_fonte: "Caderno III (Modelagem Jurídica)" }
+    transcricoes:
+      - "em segundo lugar, as disposições constantes das normas do CONTRATO [...] em terceiro lugar, as [...] do EDITAL (Contrato, 3.1)"
+      - "Em caso de contradição entre anexos, prevalecerá a interpretação mais favorável ao interesse público e à sustentabilidade (Caderno III, item 10)"
+    descricao_breve: "Não há ordem objetiva de prevalência entre os 18 anexos — cada documento reivindica prevalência para si, a minuta coloca o contrato acima do edital (inversão da vinculação ao instrumento convocatório) e a modelagem jurídica adota critério subjetivo — num conjunto repleto de contradições internas"
+    comentario: >-
+      A regra do edital só trata de divergência entre "outras disposições" e o próprio
+      edital; o Anexo II.2 declara prevalência unilateral sobre "instruções técnicas";
+      a minuta subordina o edital ao contrato e às normas de uma "REGULADORA"
+      inexistente, invertendo a vinculação ao instrumento convocatório; e o Caderno III
+      remete contradições à "interpretação mais favorável ao interesse público e à
+      sustentabilidade" — critério subjetivo. Dado o volume de contradições
+      inter-documentos deste certame (C-003, C-004, C-005, C-025 etc.), a lacuna
+      transfere às licitantes todo o risco interpretativo e agrava cada contradição.
+    dispositivo_legal: "art. 5.º e art. 25, caput, da Lei n.º 14.133/2021; art. 18, caput, da Lei n.º 8.987/1995; art. 92, inciso I, da Lei n.º 14.133/2021"
+    flag_tecnico: false
+    flag_reserva: false
+    probabilidade_advogado: null
+
+  - id_consolidado: C-036
+    ids_origem: [E1.edital-assinado-023, E1.edital-assinado-024, E1.edital-assinado-027]
+    titulo: "Canal e prazos de protocolo"
+    tema: QUESTOES_FORMAIS
+    tema_descritivo: "Questões pontuais/formais"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    categorias_secundarias: [ilegalidade]
+    dispositivos:
+      - { dispositivo: "Itens 7, 8, 12, 44.1 e 46.9", documento_fonte: "Edital (versão assinada)" }
+    transcricoes:
+      - "mediante protocolo no sítio eletrônico oficial da PREFEITURA (itens 7 e 8) × qualquer protocolo dever obrigatóriamento ser efetivado no Portal de Compras do Governo Federal (item 12)"
+      - "Até o 5º (quinto) dia anterior ao designado para a data da sessão [...] as LICITANTES poderão requerer esclarecimentos (7.1)"
+      - "dias consecutivos (44.1) × Somente serão contados os dias integrais e de expediente (46.9)"
+    descricao_breve: "Canal de protocolo de esclarecimentos/impugnações contraditório (portal municipal × Compras.gov), prazo de esclarecimento mais restritivo que o legal e limitado às 'licitantes', e duas regras opostas de contagem de prazos no mesmo edital"
+    comentario: >-
+      Esclarecimentos e impugnações são dirigidos ao portal municipal (itens 7 e 8),
+      mas o item 12 impõe que "qualquer protocolo" seja feito no Compras.gov, com
+      autoridades destinatárias também divergentes; o prazo de esclarecimento ("até o
+      5.º dia anterior à sessão", só para "licitantes") restringe o art. 164 da Lei
+      14.133/2021 (3 dias úteis, qualquer pessoa); e a contagem de prazos é
+      simultaneamente por dias consecutivos e por dias de expediente. Risco operacional
+      direto para este projeto: protocolar nos dois canais, com comprovante de ambos, e
+      observar o termo conservador de 11/09/2026 adotado na ficha.
+    dispositivo_legal: "art. 164, caput e parágrafo único, e art. 183 da Lei n.º 14.133/2021; art. 5.º da Lei n.º 14.133/2021"
+    flag_tecnico: false
+    flag_reserva: false
+    probabilidade_advogado: null
+
+  - id_consolidado: C-037
+    ids_origem: [E1.edital-assinado-017]
+    titulo: "Consularização sem apostilamento"
+    tema: QUESTOES_FORMAIS
+    tema_descritivo: "Questões pontuais/formais"
+    tipo_achado: IRREGULAR
+    categoria: restricao_competitividade
+    dispositivos:
+      - { dispositivo: "Item 13.1, alínea 'c'", documento_fonte: "Edital (versão assinada)" }
+    transcricoes:
+      - "documentos estrangeiros deverão estar devidamente consularizados no Consulado Brasileiro no País de origem"
+    descricao_breve: "Exigência de consularização de documentos estrangeiros sem admitir o apostilamento da Convenção da Haia (vigente no Brasil desde 2016) — ônus indevido a licitantes estrangeiras em certame de tecnologia com fornecedores internacionais"
+    comentario: >-
+      O Brasil é parte da Convenção da Apostila da Haia (Decreto 8.660/2016), que
+      substitui a consularização para os países signatários; exigir consularização sem
+      ressalva impõe custo e prazo desnecessários exatamente às licitantes estrangeiras
+      que dominam as rotas tecnológicas do objeto, e o edital tampouco trata da
+      inexistência de documento equivalente no país de origem. Nota de cobertura: a
+      exigência de autenticação indiscriminada da alínea 'd' do mesmo item (apontada na
+      planilha da equipe) não gerou achado específico dos extratores — verificar na
+      Fase 2.
+    dispositivo_legal: "Decreto n.º 8.660/2016; art. 9.º, inciso I, da Lei n.º 14.133/2021"
+    flag_tecnico: false
+    flag_reserva: false
+    probabilidade_advogado: null
+
+  - id_consolidado: C-038
+    ids_origem: [E1.edital-assinado-026, E1.edital-assinado-029, E1.minuta-edital-001, E1.modelo-credenciamento-001, E1.modelo-credenciamento-002, E2.termo-referencia-017, E2.termo-referencia-022, E3.minuta-contrato-014, E3.minuta-contrato-027, E4.proposta-criterios-julgamento-004, E4.modelagem-juridica-002, E4.modelagem-juridica-003, E4.modelagem-juridica-005, E4.modelagem-economico-financeira-021]
+    titulo: "Erros materiais e remissões equivocadas em série"
+    tema: QUESTOES_FORMAIS
+    tema_descritivo: "Questões pontuais/formais"
+    tipo_achado: IRREGULAR
+    categoria: erro_material
+    categorias_secundarias: [omissao]
+    dispositivos:
+      - { dispositivo: "Itens 14.6, 18.2, 28.1.1, 29.1.a, 30.1 e numeração 30–32; preâmbulo (remissões ao TR)", documento_fonte: "Edital (versão assinada) e Minuta de Edital" }
+      - { dispositivo: "Numeração interna (4.x, 5.x, alíneas duplicadas) e item 4", documento_fonte: "Anexo II (Termo de Referência)" }
+      - { dispositivo: "Cláusulas 16.13, 36.2, 45.6/47 e 52.1", documento_fonte: "Anexo III (Minuta do Contrato)" }
+      - { dispositivo: "Anexos I.1/I.2 (modelos)", documento_fonte: "Caderno III (Modelos)" }
+      - { dispositivo: "Itens 1.12, 1.13, 1.5–1.9; item 16", documento_fonte: "Cadernos II e III (Modelagens)" }
+    transcricoes:
+      - "hipóteses do artigo 29 da Lei nº 14.133/2021 [vedações estão no art. 14]; penalidades previstas no artigo 156, I [advertência] para recusa de assinatura (Edital)"
+      - "…aproveitamento energético térmico ou biodigestão… [expressão inserida em transcrição entre aspas do art. 3.º, VII, da Lei 12.305/2010] (Caderno III, 1.12)"
+      - "Cláusula 46 inexistente; arbitragem remetida à Cláusula 48 (comunicações); indenização de todas as extinções pela regra da encampação (Contrato)"
+    descricao_breve: "Série de erros materiais com efeito normativo: remissões legais trocadas (art. 29 por 14; art. 156, I; art. 80 por 81; art. 56, II para modo aberto), objeto do contrato remetido ao anexo errado, cláusulas inexistentes referenciadas, transcrição adulterada de texto legal, modelos de outro certame (Estado de SP, CP 000/2025), numeração interna descasada e valores ambíguos (R$ 1.200.000,000)"
+    comentario: >-
+      Não se trata de vício cosmético: as remissões erradas atingem regras operativas
+      (vedações de participação, penalidade por recusa de assinatura, objeto do
+      contrato, arbitragem, critérios de indenização na extinção), a numeração
+      descasada do TR torna indeterminadas as remissões cruzadas de todo o conjunto, o
+      Caderno III adultera transcrição literal de dispositivo da PNRS e apoia-se em
+      quadro normativo anacrônico (Protocolo de Copenhagen, portaria revogada), e os
+      modelos anexos referem-se a outro certame. O conjunto compromete a aplicação
+      segura das regras e evidencia ausência de revisão — reforço transversal aos
+      pontos substantivos.
+    dispositivo_legal: "art. 5.º e art. 25, caput, da Lei n.º 14.133/2021 (segurança jurídica, clareza e vinculação); arts. 14, 56, 58, 62–64, 81, 89, 92 e 156 da Lei n.º 14.133/2021 (dispositivos corretos); art. 3.º, inciso VII, da Lei n.º 12.305/2010 (redação oficial)"
+    flag_tecnico: false
+    flag_reserva: false
+    probabilidade_advogado: null
+
+  # ==================== RESERVA ESTRATÉGICA [RESERVA] ====================
+
+  - id_consolidado: C-039
+    ids_origem: [E2.termo-referencia-006, E3.minuta-contrato-018, E3.minuta-contrato-023, E3.minuta-contrato-024, E3.minuta-contrato-032, E4.modelagem-economico-financeira-017]
+    titulo: "Assimetrias favoráveis à concessionária"
+    tema: RISCOS_GARANTIAS
+    tema_descritivo: "Riscos e garantias — reserva estratégica"
+    tipo_achado: IRREGULAR
+    categoria: risco_economico
+    categorias_secundarias: [contradicao]
+    dispositivos:
+      - { dispositivo: "Item 4.4, subitem 4.2.2 (base anual da garantia)", documento_fonte: "Anexo II (Termo de Referência)" }
+      - { dispositivo: "Cláusulas 14.2.1/14.2.1.1, 19.3, 20.10, 32.2, 32.4 e 32.6", documento_fonte: "Anexo III (Minuta do Contrato)" }
+      - { dispositivo: "Item 15.6.1 (gatilhos 1 e 5) × itens 11.11–11.14", documento_fonte: "Caderno II (Modelagem Econômico-Financeira)" }
+    transcricoes:
+      - "1% do resultado contábil líquido [...] revertida [...] em favor da modicidade [...] poderá ser revisto caso ocasione desequilíbrio (Contrato, 14.2.1)"
+      - "O reajuste devidamente calculado poderá ser imediatamente faturado [...] independentemente de homologação (19.3); considerará tal proposta aceita [silêncio de 30 dias] (20.10)"
+      - "Gatilho 1 – DSCR inferior a 1,20x por dois exercícios consecutivos [reequilíbrio] (Caderno II, 15.6.1)"
+    descricao_breve: "[RESERVA] Conjunto de assimetrias que beneficiam a futura concessionária: garantia de execução sobre base anual (≈0,17% do valor da contratação), compartilhamento de receitas acessórias de apenas 1% do resultado líquido e revisível, multas nominais baixas com juros de mora de 0,001%/dia, aceitação tácita de reajuste e revisão por silêncio da Administração, e gatilhos de reequilíbrio por DSCR/custo de capital que protegem a dívida do privado"
+    comentario: >-
+      Pontos identificados como potencial vantagem competitiva/contratual do grupo — não
+      levantar publicamente sem decisão expressa do advogado: (i) garantia de execução
+      de 5% sobre o valor ANUAL (≈R$ 356 mil para contrato de R$ 213,4 mi); (ii)
+      partilha de receitas acessórias limitada a 1% do resultado líquido, ainda
+      revisível se causar desequilíbrio; (iii) multas de R$ 500 a R$ 50.000 com juros de
+      0,001%/dia sobre multas não pagas, contra 1%/mês para a mora do concedente; (iv)
+      faturamento imediato do reajuste sem homologação e aceitação tácita da proposta de
+      revisão por silêncio de 30 dias; (v) gatilhos de reequilíbrio por DSCR < 1,20x e
+      variação do custo de capital, contradizendo a alocação declarada do risco de
+      financiamento à concessionária. A decisão de levantar, reservar ou usar em
+      negociação é exclusiva do advogado.
+    dispositivo_legal: "art. 5.º, incisos II e III, art. 4.º, incisos VI e VII, da Lei n.º 11.079/2004; arts. 96–98 da Lei n.º 14.133/2021; art. 9.º, §§ 2.º e 4.º, e art. 11 da Lei n.º 8.987/1995"
+    flag_tecnico: false
+    flag_reserva: true
+    probabilidade_advogado: null
+
+# =========================================================================
+conformes:
+  # Itens de checklist verificados sem vício — fora do entregável (Tracker/Matriz)
+  - { id_origem: E1.edital-assinado-C01, documento_fonte: "Edital", descricao_breve: "Consulta pública (23/10/2025–02/03/2026) e audiência pública (29/01/2026) realizadas — art. 10, VI, da Lei 11.079/2004", nota: "A minuta submetida à consulta é textualmente idêntica à versão assinada — nenhuma contribuição incorporada (dado fático para a Fase 2)" }
+  - { id_origem: E1.edital-assinado-C02, documento_fonte: "Edital", descricao_breve: "Prazo de 30 anos (teto 35) e valor acima do piso legal — art. 5.º, I, e art. 2.º, § 4.º, I, da Lei 11.079/2004 (ressalvadas as contradições do C-034)" }
+  - { id_origem: E1.edital-assinado-C03, documento_fonte: "Edital", descricao_breve: "Modalidade concorrência para concessão administrativa — art. 10 da Lei 11.079/2004" }
+  - { id_origem: E1.edital-assinado-C04, documento_fonte: "Edital", descricao_breve: "Prazo e legitimidade de impugnação aderentes ao art. 164 (diversamente do prazo de esclarecimentos — C-036)" }
+  - { id_origem: E1.edital-assinado-C05, documento_fonte: "Edital", descricao_breve: "Inversão de fases admitida para PPP — art. 13 da Lei 11.079/2004" }
+  - { id_origem: E1.edital-assinado-C06, documento_fonte: "Edital", descricao_breve: "Ressarcimento dos estudos do PMI pelo vencedor — art. 21 da Lei 8.987/1995; valor e rateio definidos", nota: "A planilha da equipe (ponto 26) critica a não identificação dos beneficiários e a ausência de memória de custos — divergência registrada no cruzamento; numeral ambíguo capturado em C-038" }
+  - { id_origem: E1.minuta-edital-C01, documento_fonte: "Minuta de Edital", descricao_breve: "Minuta idêntica à versão assinada, exceto remissões do preâmbulo (C-038) e placeholders" }
+  - { id_origem: E1.modelo-declaracao-menor-C01, documento_fonte: "Anexo I.2", descricao_breve: "Modelo de declaração do art. 7.º, XXXIII, da CF conforme" }
+  - { id_origem: E2.termo-referencia-023, documento_fonte: "TR", descricao_breve: "Exigência de constituição de SPE prévia à assinatura — art. 9.º da Lei 11.079/2004 (contradições com edital/minuta em C-033)" }
+  - { id_origem: E2.termo-referencia-024, documento_fonte: "TR", descricao_breve: "Prazo de vigência dentro da baliza legal" }
+  - { id_origem: E2.termo-referencia-025, documento_fonte: "TR", descricao_breve: "Modalidades de garantia limitadas às legais (caução, seguro-garantia, fiança)", nota: "A planilha da equipe (ponto 20) aponta título de capitalização entre as garantias admitidas — dispositivo não localizado pelos extratores; conferência registrada no cruzamento" }
+  - { id_origem: E2.termo-referencia-026, documento_fonte: "TR", descricao_breve: "Disciplina de subcontratação conforme (vedação de transferência integral)" }
+  - { id_origem: E2.tecnologias-aplicadas-006, documento_fonte: "Anexo II.2", descricao_breve: "CETESB indicada como autoridade licenciadora com remissão à regulamentação de CDR (suficiência tratada em C-030)" }
+  - { id_origem: E2.tratamento-termico-biodigestao-013, documento_fonte: "Anexo II.3", descricao_breve: "Remissões normativas de biometano (ANP), efluentes (CONAMA 430/2011) e limpeza de gases presentes" }
+  - { id_origem: E2.diretrizes-engenharia-004, documento_fonte: "Anexo II.4", descricao_breve: "Plano de Trabalho em nível conceitual na fase licitatória — proporcional" }
+  - { id_origem: E2.diretrizes-plano-trabalho-004, documento_fonte: "Anexo II.1", descricao_breve: "Remissão às diretrizes ambientais do Anexo II.7 e destinação de subprodutos" }
+  - { id_origem: E2.metas-indicadores-007, documento_fonte: "Anexo II.6", descricao_breve: "Metodologia estatística da pesquisa de satisfação definida (pertinência do indicador tratada em C-025)" }
+  - { id_origem: E2.diretrizes-ambientais-007, documento_fonte: "Anexo II.7", descricao_breve: "Rol normativo ambiental abrangente e atualizado (Lei 15.190/2025, CONAMA 506/2024, NR 7/2024)" }
+  - { id_origem: E3.minuta-contrato-033, documento_fonte: "Minuta do Contrato", descricao_breve: "Prazo de 30 anos dentro da faixa legal (contradição do regime de prorrogação em C-034)" }
+  - { id_origem: E3.minuta-contrato-034, documento_fonte: "Minuta do Contrato", descricao_breve: "Contraprestação condicionada à efetiva execução/medição — art. 7.º da Lei 11.079/2004" }
+  - { id_origem: E3.minuta-contrato-035, documento_fonte: "Minuta do Contrato", descricao_breve: "Vistoria prévia dos bens reversíveis com termo de reversão prevista" }
+  - { id_origem: E3.minuta-contrato-036, documento_fonte: "Minuta do Contrato", descricao_breve: "Transferência de controle com anuência prévia e step-in dos financiadores" }
+  - { id_origem: E3.minuta-contrato-037, documento_fonte: "Minuta do Contrato", descricao_breve: "Arbitragem em português, de direito e com publicidade — art. 11, III, da Lei 11.079/2004" }
+  - { id_origem: E3.matriz-riscos-010, documento_fonte: "Matriz de Riscos", descricao_breve: "Matriz existe e está preenchida (alocação + mitigação) — não se confirma o padrão de anexo em branco" }
+  - { id_origem: E3.matriz-riscos-011, documento_fonte: "Matriz de Riscos", descricao_breve: "Risco regulatório/legislativo alocado ao concedente com reequilíbrio — sem o padrão de exclusão (mas ver contradição da cláusula 2.2, residual R-03)" }
+  - { id_origem: E3.matriz-riscos-012, documento_fonte: "Matriz de Riscos", descricao_breve: "Riscos cambial e de financiamento alocados à concessionária — lícito e usual (contradição com gatilhos de reequilíbrio em C-039)" }
+  - { id_origem: E3.matriz-riscos-013, documento_fonte: "Matriz de Riscos", descricao_breve: "Caso fortuito/força maior/fato do príncipe ao concedente acima da cobertura securitária" }
+  - { id_origem: E4.modelagem-tecnico-operacional-C01, documento_fonte: "Caderno I", descricao_breve: "Data formal do documento (21/07/2026) dentro do parâmetro de 6 meses (dados de partida antigos tratados em C-007/C-015)" }
+  - { id_origem: E4.modelagem-tecnico-operacional-C02, documento_fonte: "Caderno I", descricao_breve: "Projeção de biometano aritmeticamente consistente internamente (rendimento não validado — engenharia)" }
+  - { id_origem: E4.modelagem-economico-financeira-C01, documento_fonte: "Caderno II", descricao_breve: "Tabela de premissas macroeconômicas com fonte e três cenários existe (defasagem tratada em C-015)" }
+  - { id_origem: E4.modelagem-economico-financeira-C02, documento_fonte: "Caderno II", descricao_breve: "Mecanismo de compartilhamento de receitas acessórias existe (base bruta × líquida divergente — ver C-028)" }
+  - { id_origem: E4.modelagem-juridica-C01, documento_fonte: "Caderno III", descricao_breve: "Modalidade concorrência corretamente fundamentada (art. 28, II)" }
+  - { id_origem: E4.proposta-criterios-julgamento-C01, documento_fonte: "Anexo IV", descricao_breve: "Modo de disputa aberto com lances públicos, análise de exequibilidade e validade de proposta de 120 dias presentes" }
+  - { id_origem: E4.dre-xlsx-C01, documento_fonte: "DRE.xlsx", descricao_breve: "Valores agregados de equipamentos conferem com os Cadernos I e II" }
+  - { id_origem: E4.dre-xlsx-C02, documento_fonte: "DRE.xlsx", descricao_breve: "20 abas de conteúdo anunciadas existem; correspondência LOTE 1/2/3 coerente (sem aba para o Lote 4 — faceta de C-001)" }
+
+pontos_residuais:
+  # Achados materiais não fundíveis em pontos consolidados — decisão do advogado
+  - id_residual: R-01
+    id_origem: E3.minuta-contrato-019
+    descricao_breve: "Extensão dos serviços a outros municípios da região por simples termo aditivo, sem licitação e fora da titularidade municipal (Cláusulas 6.4/6.4.1)"
+    dispositivo_legal: "art. 37, inciso XXI, da CF/1988; arts. 124 a 126 da Lei n.º 14.133/2021; art. 8.º-A da Lei n.º 11.445/2007"
+    nota: "Ilegalidade autônoma; pode interessar ao grupo como oportunidade (avaliar reserva) ou como vício a impugnar — decisão comercial/estratégica"
+  - id_residual: R-02
+    id_origem: E3.minuta-contrato-003
+    descricao_breve: "Ausência de cláusula de compartilhamento dos ganhos econômicos decorrentes da redução do risco de crédito dos financiamentos (art. 5.º, IX, da Lei 11.079/2004 — numeração do inciso a confirmar)"
+    dispositivo_legal: "art. 5.º da Lei n.º 11.079/2004"
+    nota: "Cláusula essencial ausente; interesse em suscitar depende de posição do grupo"
+  - id_residual: R-03
+    id_origem: E3.minuta-contrato-007
+    descricao_breve: "Cláusula 2.2 blinda o contrato contra modificação de atos normativos, contradizendo as hipóteses de revisão por alteração legislativa da cláusula 20.2"
+    dispositivo_legal: "art. 9.º, § 3.º, da Lei n.º 8.987/1995"
+    nota: "Contradição pontual; pode ser absorvida por esclarecimento dirigido"
+  - id_residual: R-04
+    id_origem: E3.minuta-contrato-029
+    descricao_breve: "Frota inicial com até 5 anos de uso e renovação obrigatória de apenas 1 vez em 30 anos — incompatível com atualidade do serviço adequado"
+    dispositivo_legal: "art. 6.º, § 2.º, da Lei n.º 8.987/1995"
+    nota: "flag_tecnico — vida útil de frota/equipamentos; avaliar com engenharia"
+  - id_residual: R-05
+    id_origem: E2.monitoramento-ambiental-003
+    descricao_breve: "Equipamento de monitoramento indicado por marca/modelo ('GEM 5000') sem ressalva 'ou equivalente'"
+    dispositivo_legal: "art. 41, inciso I, da Lei n.º 14.133/2021"
+    nota: "Vício objetivo e simples — candidato natural a esclarecimento"
+
+cobertura:
+  documentos_processados: 19
+  pontos_brutos: 255
+  manifestos_conferidos: "19/19 — todos os extratores anexaram manifesto de cobertura; leitura integral declarada em todos"
+  lacunas_e_limitacoes:
+    - "Edital assinado: trechos com fonte estilizada ilegíveis na extração (definição de desempate, item 11.3.c, item 46.12, linhas A-7/A-18) — todos recuperados no PDF nativo ou na minuta idêntica; nenhuma lacuna remanescente"
+    - "Caderno I: Figuras 1–16 (fluxogramas, balanço gráfico, layout) sem conteúdo textual na extração — balanço avaliado pelos números do corpo do texto; conteúdo gráfico não conferido"
+    - "Anexo II.3: figuras conferidas no PDF nativo (pp. 6–9); divergências figura × texto registradas (faceta de C-005)"
+    - "DRE.xlsx: abas 'MF', 'Controle' e 'Output 2' referenciadas pelo Índice NÃO existem no arquivo publicado — fluxo de caixa completo, WACC e sensibilidade inauditáveis (elevado a achado C-015, não é lacuna de leitura)"
+    - "PMGIRS (Lei municipal 9.278/2025): não integra o conjunto disponibilizado — pendência operacional da triagem e faceta do achado C-006 (omissão de publicidade); conteúdo do plano não verificável pela varredura"
+    - "Item 28.2.4 do Edital (aprovação do Plano de Trabalho como condição de assinatura): lido pelo E1 mas sem achado específico sobre a ausência de critérios objetivos de aprovação — lacuna de captura identificada no cruzamento com a planilha da equipe (ponto 8); tratar na Fase 2"
+    - "Item 13.1.d do Edital (autenticação indiscriminada) e mínimo de 6 contraprestações na garantia de pagamento do TR: não capturados pelos extratores — identificados via cruzamento com a planilha da equipe (pontos 25 e 19); conferir na Fase 2"
+    - "Menção a 'título de capitalização' entre garantias (planilha da equipe, ponto 20): não localizada pelos extratores no TR examinado (E2.termo-referencia-025 registrou rol conforme) — conferir com a equipe o dispositivo de origem"
+  conferencia_anexos: "Relação A-1 a A-18 do edital confere com os 18 arquivos recebidos + edital assinado + DRE.xlsx; remissões a 'ANEXO VII' e 'ANEXO XI' apontam para anexos inexistentes (faceta de C-006)"
+
+cruzamento_matriz_2026:
+  # Cruzamento da varredura automatizada com a planilha de argumentos da equipe
+  # (12/08/2026, 27 pontos — ref-matriz-argumentos-marilia.docx). Sem juízo de valor
+  # sobre a planilha; status: CONVERGENTE | CONVERGENTE_PARCIAL | NAO_CAPTURADO.
+  resumo:
+    convergentes: 18
+    convergentes_parciais: 7
+    nao_capturados: 2
+    pontos_ineditos_da_varredura: 15
+  por_ponto_da_planilha:
+    - { ponto: 1, tema_planilha: "Divisão em lotes", status: CONVERGENTE, correspondencia: [C-001], nota: "Estrutura de lotes indefinida e sem justificativa — capturada por 11 achados de todos os extratores" }
+    - { ponto: 2, tema_planilha: "Divisão em lotes", status: CONVERGENTE, correspondencia: [C-001], nota: "Regras de participação/adjudicação contraditórias (17.2.1 × Anexo IV item 9) — facetas E1.edital-assinado-002 e E4.proposta-criterios-julgamento-005" }
+    - { ponto: 3, tema_planilha: "Divisão em lotes", status: CONVERGENTE, correspondencia: [C-001], nota: "Lote 4 sem conteúdo e denominações divergentes — E2.tecnologias-aplicadas-002 e E4.modelagem-tecnico-operacional-004" }
+    - { ponto: 4, tema_planilha: "Divisão em lotes", status: CONVERGENTE, correspondencia: [C-001], nota: "Interfaces entre concessionárias não disciplinadas — E4.proposta-criterios-julgamento-006" }
+    - { ponto: 5, tema_planilha: "Critério de julgamento", status: CONVERGENTE, correspondencia: [C-011], nota: "Fórmula em quatro formas, componente C informativo × classificatório, lance ≠ grandeza classificatória" }
+    - { ponto: 6, tema_planilha: "Critério de julgamento", status: CONVERGENTE, correspondencia: [C-012, C-026], nota: "Rejeitos declarados, desempate autodeclarado e bens reversíveis sem método — repartidos entre proposta (C-012) e bens reversíveis (C-026)" }
+    - { ponto: 7, tema_planilha: "Modelagem", status: CONVERGENTE, correspondencia: [C-013], nota: "Base única de 5.200 t e teto circular; a varredura agrega o benchmark fático CIVAP (R$ 85/t homologado em 2022)" }
+    - { ponto: 8, tema_planilha: "Modelagem", status: CONVERGENTE_PARCIAL, correspondencia: [C-009, C-030], nota: "Facetas correlatas capturadas (plano de trabalho 30 dias após adjudicação; caráter referencial × vinculante), mas o item 28.2.4 do edital — aprovação da tecnologia como condição de assinatura sem critérios — não gerou achado específico (lacuna registrada em cobertura)" }
+    - { ponto: 9, tema_planilha: "Modelagem", status: CONVERGENTE, correspondencia: [C-003, C-011], nota: "Contradição da rota térmica (incineração) e ausência de critério comparativo entre rotas" }
+    - { ponto: 10, tema_planilha: "Modelagem", status: CONVERGENTE, correspondencia: [C-019], nota: "Reiteração de vícios de 2019 — a varredura estende a verificação às 7 determinações (a planilha trabalha as de nos 1, 2, 4 e 6)" }
+    - { ponto: 11, tema_planilha: "Modelagem", status: CONVERGENTE, correspondencia: [C-014], nota: "VfM adjetivado e economia como custo evitado; a varredura acrescenta a aba VfM quebrada (#REF!) do modelo publicado" }
+    - { ponto: 12, tema_planilha: "Modelagem", status: CONVERGENTE, correspondencia: [C-015], nota: "Data-base fev/2025 defasada; a varredura acrescenta a data-base efetiva de 2020–2023 e a origem CONVALE do modelo" }
+    - { ponto: 13, tema_planilha: "Modelagem", status: CONVERGENTE_PARCIAL, correspondencia: [C-017, C-016], nota: "Falta de memória e R$ 682/MWh sem fonte capturados; o cotejo com a Tabela 5.10 do Caderno I (valores abaixo do piso da própria referência), as cotações de fornecedores (3–4× CAPEX) e o recálculo da geração líquida (~0,88 MW) dependem de dados comerciais e de engenharia externos aos documentos — subsídios da Fase 2 (parecer Eleusis)" }
+    - { ponto: 14, tema_planilha: "Modelagem", status: CONVERGENTE, correspondencia: [C-005], nota: "Biometano e digestato incompatíveis com as próprias premissas, digestato sem desidratação, caldeira 16–25 t/h, metas aritmeticamente impossíveis" }
+    - { ponto: 15, tema_planilha: "Modelagem", status: CONVERGENTE_PARCIAL, correspondencia: [C-007], nota: "Umidade sem critérios por fase capturada (det. 2); o limite de 1,0% de cloro do CDR sem separação óptica de clorados não gerou achado — inferência de engenharia (PVC→HCl→dioxinas) coberta pelo parecer Eleusis; tratar na Fase 2" }
+    - { ponto: 16, tema_planilha: "Modelagem", status: CONVERGENTE, correspondencia: [C-009], nota: "Maturidade comercial exigida × pirólise sem planta comercial no país — mesma formulação (contradição interna, não inadequação da tecnologia)" }
+    - { ponto: 17, tema_planilha: "Modelagem", status: CONVERGENTE_PARCIAL, correspondencia: [C-006], nota: "Ordem da PNRS e programa de segregação capturados; PMGIRS não disponibilizado registrado como omissão de publicidade — mas o conteúdo do plano (nenhuma menção a gaseificação/pirólise; rota triagem+compostagem/biodigestão) provém da Lei municipal 9.278/2025, fonte extra-editalícia inacessível à varredura" }
+    - { ponto: 18, tema_planilha: "Modelagem", status: CONVERGENTE, correspondencia: [C-030, C-031], nota: "Anexo II.7 que nega ser diretriz, licença prévia transferida à vencedora e área provavelmente contaminada sem investigação" }
+    - { ponto: 19, tema_planilha: "Modelagem", status: CONVERGENTE_PARCIAL, correspondencia: [C-021], nota: "FGP futuro, rol de 9 instrumentos (FPM/ICMS/COSIP), PL como alternativa e condicionamento dos investimentos capturados; a contradição de montante (TR: mínimo 6 contraprestações × contrato: 3) não foi registrada — o extrator E2 não capturou o mínimo de 6 do TR (ver cobertura)" }
+    - { ponto: 20, tema_planilha: "Modelagem", status: NAO_CAPTURADO, correspondencia: [], nota: "Título de capitalização entre garantias privadas: os extratores registraram o rol do TR como restrito a caução/seguro-garantia/fiança (E2.termo-referencia-025, CONFORME). Divergência objetiva com a planilha — indicar o dispositivo que veicula o título de capitalização para conferência antes da Fase 2" }
+    - { ponto: 21, tema_planilha: "Modelagem", status: NAO_CAPTURADO, correspondencia: [C-018], nota: "Ausência da PPP no PPA 2026-2029: apurada pela equipe na Lei municipal 9.387/2025 (Anexo III, Ação 2.256), documento extra-editalício fora do alcance da varredura E1–E4; a varredura registrou a condição do art. 10, V, como não demonstrada nos documentos publicados (C-018) — a constatação positiva da equipe supre o fato faltante" }
+    - { ponto: 22, tema_planilha: "Agência Reguladora", status: CONVERGENTE, correspondencia: [C-029, C-018], nota: "Entidade reguladora ausente + condições prévias (impacto orçamentário, LDO, PPA) não localizadas; a varredura acrescenta as remissões a REGULADORA/convênio/LC 1.025-ARSESP e a matriz de riscos que pressupõe agência" }
+    - { ponto: 23, tema_planilha: "Questões pontuais/formais", status: CONVERGENTE, correspondencia: [C-033], nota: "Consórcio como parceiro privado e subsidiária integral × sócias plurais" }
+    - { ponto: 24, tema_planilha: "Questões pontuais/formais", status: CONVERGENTE, correspondencia: [C-010], nota: "Visita obrigatória sem declaração substitutiva e compromisso de consórcio antecipado; a varredura acrescenta o acesso presencial aos dados (11.4.7)" }
+    - { ponto: 25, tema_planilha: "Questões pontuais/formais", status: CONVERGENTE_PARCIAL, correspondencia: [C-037], nota: "Consularização sem apostilamento capturada; a autenticação indiscriminada do item 13.1.d não gerou achado específico (ver cobertura)" }
+    - { ponto: 26, tema_planilha: "Questões pontuais/formais", status: CONVERGENTE_PARCIAL, correspondencia: [C-008, C-038], nota: "Qualificação do item 8.4 capturada (inclusive LP emitida para rota sem planta comercial); sobre o ressarcimento do PMI, os extratores registraram o mecanismo como conforme (E1.edital-assinado-C06) e capturaram o numeral ambíguo e o rateio sem memória (E4.modelagem-economico-financeira-021) — a não identificação dos beneficiários do Chamamento SMALP 001/2017 não foi apontada" }
+    - { ponto: 27, tema_planilha: "Questões pontuais/formais", status: CONVERGENTE, correspondencia: [C-036], nota: "Canal municipal × Compras.gov e descompasso de marcos temporais; recomendação operacional de protocolo duplo mantida" }
+  pontos_ineditos_da_varredura:
+    # Achados consolidados sem correspondente na planilha de 12/08/2026
+    - { id: C-002, titulo: "Objeto e obrigatoriedade das rotas ('e/ou')" }
+    - { id: C-004, titulo: "Cadeia de responsabilidades e rejeitos (det. 5) — três versões sobre quem paga a disposição final" }
+    - { id: C-016, titulo: "Inconsistências aritméticas do modelo (EBIT sem OPEX, TIR<WACC com VPL positivo, DREs copiadas entre rotas)" }
+    - { id: C-020, titulo: "Risco de demanda com quatro tratamentos e volumes mínimo/máximo indefinidos" }
+    - { id: C-022, titulo: "Garantias de proposta e execução viciadas (definição ininteligível, carta fiança única, art. 58 × 96)" }
+    - { id: C-023, titulo: "Matriz de riscos contraditória (tabela × narrativa), dinâmica e com alocações invertidas" }
+    - { id: C-024, titulo: "Regime sancionatório da Lei 8.666/1993 revogada e provisório" }
+    - { id: C-025, titulo: "Remuneração desvinculada do desempenho; KPIs com três réguas; medição duplicada" }
+    - { id: C-027, titulo: "Reajuste sem fórmula expressa e revisão ordinária anual sem parâmetros" }
+    - { id: C-028, titulo: "Receitas acessórias: três regimes incompatíveis e previsão quantitativa viciada (det. 3)" }
+    - { id: C-032, titulo: "Diretrizes ambientais tecnicamente incoerentes (poluentes omitidos, temperatura 200°C, resoluções erradas)" }
+    - { id: C-034, titulo: "Vigência com dois marcos iniciais e prorrogação contraditória" }
+    - { id: C-035, titulo: "Hierarquia entre documentos ausente/invertida (contrato acima do edital)" }
+    - { id: C-038, titulo: "Erros materiais e remissões normativas equivocadas em série (inclui transcrição adulterada de lei e modelos de outro certame)" }
+    - { id: C-039, titulo: "[RESERVA] Assimetrias favoráveis à concessionária — segregado" }
+  residuais_ineditos: [R-01, R-02, R-03, R-04, R-05]
