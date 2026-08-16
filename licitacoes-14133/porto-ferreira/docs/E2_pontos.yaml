@@ -1,0 +1,864 @@
+# E2 — Extrator: Anexo I (Termo de Referência) + anexos operacionais
+# Pregão Eletrônico nº 30/2026 (REABERTURA) — Porto Ferreira/SP — Processo nº 3.721/2026
+# Fontes: 61122568-021ee384a2ef4df4b7959822128a21b8.txt (linhas 1135-2716),
+#         Cronograma_de_Mobilizacao_e_Implantacao.txt, Indicadores_Chave_de_Desempenho_KPI_.txt,
+#         Tabela_de_Quilometragem.txt
+# [USO INTERNO] — Fase 1 (lista bruta, sem juízo de acolhimento, sem jurisprudência)
+
+- id: E2-001
+  dispositivo_editalicio: "Item 1.1 (tabela Lote 1) c/c itens 8.1 e 9.1 do TR"
+  transcricao: "O somatório total dos itens constantes nesta tabela possui caráter exclusivamente de estimativa para fins de empenho global. [...] Os itens 2 e 3 são mutuamente excludentes e sucessivos [...] O custo estimado total da contratação é de R$9.193.852,80"
+  tipo_achado: IRREGULAR
+  categoria: risco_economico
+  descricao_breve: "Julgamento por menor preço por lote soma integralmente itens 2 e 3 (12.480 t/ano cada), declarados mutuamente excludentes — valor estimado global inflado e comparação de propostas distorcida"
+  dispositivo_legal: "art. 23, caput, e art. 34 da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E2-002", "E2-003", "E2-007"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E2-002
+  dispositivo_editalicio: "Item 1.1 (tabela Lote 1) c/c itens 5.1.6, 8.1 e 9.1 do TR"
+  transcricao: "Item 2: 12.480 TON/ANO; Item 3: 12.480 TON/ANO [...] a execução e o respectivo pagamento do item 3 somente serão iniciados após o encerramento definitivo da execução do item 2"
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: "Pesos iguais no julgamento (12 meses de cada item) não refletem a execução esperada em 60 meses (item 2 ~12 meses até exaustão da vala; item 3 ~48 meses) — permite alocação assimétrica de preços entre itens 2 e 3 mantendo o mesmo total de lance"
+  dispositivo_legal: "art. 33 e art. 34 da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E2-001", "E2-022"]
+  flag_tecnico: false
+  flag_reserva: true
+
+- id: E2-003
+  dispositivo_editalicio: "Itens 1.1.1 e 1.1 (tabela Lote 1) do TR"
+  transcricao: "os quantitativos indicados no quadro a seguir consideram um horizonte de 12 (doze) meses. Tal referência não altera a vigência contratual, que será de 60 (sessenta) meses"
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: "Ausência de cronograma físico-financeiro da transição entre itens 2 e 3 ao longo dos 60 meses — quantitativos anuais idênticos para itens excludentes não indicam quantas toneladas serão executadas em cada item durante a vigência"
+  dispositivo_legal: "art. 6.º, inciso XXIII, e art. 18, § 1.º, inciso IV, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E2-001", "E2-022"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E2-004
+  dispositivo_editalicio: "Nota Informativa do item 1.1 e Nota do item 9.1 do TR; item 5.1.6.3"
+  transcricao: "sendo vedada a cumulatividade de faturamento entre ambos [...] fica expressamente vedada a cobrança do Item 2 do objeto, passando a ser faturado exclusivamente o Item 3"
+  tipo_achado: CONFORME
+  categoria: risco_economico
+  descricao_breve: "Exclusão mútua e sucessividade dos itens 2 e 3 estão expressas e com vedação de faturamento cumulativo — a dúvida sobre alternatividade dos itens está resolvida no texto da reabertura"
+  dispositivo_legal: "art. 25, caput, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E2-001"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E2-005
+  dispositivo_editalicio: "Item 1.1 (tabela, Item 4) c/c item 5.1.4 do TR"
+  transcricao: "Fornecimento, manutenção e higienização de contêineres com capacidade de 1000 litros [...] 5.1.4. Locação Manutenção e higienização de contêineres com capacidade de 1000 litros"
+  tipo_achado: IRREGULAR
+  categoria: erro_material
+  descricao_breve: "Divergência entre 'fornecimento' (tabela do objeto e item 9.1) e 'locação' (item 5.1.4) dos contêineres — natureza jurídica do item 4 ambígua, com reflexo em composição de custos, tributação e propriedade dos bens ao fim do contrato"
+  dispositivo_legal: "art. 6.º, inciso XXIII, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E2-027"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E2-006
+  dispositivo_editalicio: "Item 1.1 c/c itens 4.5 e 8.1 do TR"
+  transcricao: "coleta porta a porta, transporte e destinação final dos resíduos, incluindo a operação do aterro sanitário municipal ou destinação final de resíduos urbanos em aterro sanitário de outro município [...] MENOR PREÇO POR LOTE"
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: restricao_competitividade
+  descricao_breve: "Aglutinação em lote único de serviços de naturezas distintas (coleta/transporte, operação de aterro público, destinação externa e contêineres) — justificativa de não parcelamento não consta do TR, apenas remissão genérica ao ETP"
+  dispositivo_legal: "art. 47, inciso II, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E2-013"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E2-007
+  dispositivo_editalicio: "Item 9.1 c/c item 11.1 do TR"
+  transcricao: "O custo estimado total da contratação é de R$9.193.852,80 [...] O prazo de vigência da contratação é de 60 (sessenta) meses"
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: "Valor declarado como 'custo estimado total da contratação' corresponde a apenas 12 meses, embora a vigência seja de 60 meses — valor global quinquenal da contratação não declarado no TR"
+  dispositivo_legal: "art. 23, caput, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E2-001", "E2-008"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E2-008
+  dispositivo_editalicio: "Item 10.1 do TR (quadro orçamentário)"
+  transcricao: "641 R$ 1.988.294,40 (2026) R$ 1.988.294,40 (2027); 634 R$ 1.053.124,80 (2026) R$ 1.053.124,80 (2027); 662 R$ 0,00 (2026) R$ 3.111.014,40 (2027)"
+  tipo_achado: IRREGULAR
+  categoria: erro_material
+  descricao_breve: "Incoerência aritmética das dotações de 2027: prevê simultaneamente 6 meses de coleta (itens 1/4), 6 meses de aterro municipal (item 2) e 12 meses de destinação externa (item 3), embora o item 3 não possa exceder o período de coleta nem coexistir com o item 2"
+  dispositivo_legal: "arts. 15 e 16 da LC n.º 101/2000; art. 23, caput, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E2-007"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E2-009
+  dispositivo_editalicio: "Itens 2.5, 5.1.6.4 e 5.5.19 do TR c/c Tabela de Quilometragem (transbordo)"
+  transcricao: "Caso opte por utilizá-la após a sua conclusão, deverá disponibilizar 03 (três) carretas [...] a CONTRATADA poderá optar por: a) Utilização da Estação de Transbordo Municipal [...] ou b) Transporte Direto"
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: "Cenário-base de precificação do item 3 indefinido: estação de transbordo em obras, com licença de operação futura e incerta (a cargo da Administração), e tabela de quilometragem calculada apenas para carretas — licitantes podem precificar cenários distintos, gerando propostas incomparáveis"
+  dispositivo_legal: "art. 6.º, inciso XXIII, e art. 18, caput, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E2-010", "E2-012", "E2-021"]
+  flag_tecnico: true
+  flag_reserva: false
+
+- id: E2-010
+  dispositivo_editalicio: "Item 5.1.6.4, alínea 'b', do TR c/c Tabela de Quilometragem (transbordo)"
+  transcricao: "b) Transporte Direto: Destinação para aterro licenciado em outro município, sob inteira responsabilidade da CONTRATADA."
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: "Hipótese de transporte direto (sem transbordo) sem qualquer dimensionamento: não há estimativa de quilometragem, frota adicional ou produtividade para compactadores de 15 m³ percorrendo 67-140 km por viagem — a frota mínima de 4 caminhões é dimensionada apenas para a coleta"
+  dispositivo_legal: "art. 6.º, inciso XXIII, e art. 18, § 1.º, inciso IV, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E2-009", "E2-055"]
+  flag_tecnico: true
+  flag_reserva: false
+
+- id: E2-011
+  dispositivo_editalicio: "Item 5.5.20 do TR c/c Tabela de Quilometragem (nota do transbordo)"
+  transcricao: "volume operacional disponíveis para receber 40 (quarenta) toneladas por dia [...] *considerando 1,5 viagens por dia, cada viagem com 30 toneladas"
+  tipo_achado: IRREGULAR
+  categoria: erro_material
+  descricao_breve: "Inconsistência entre 40 t/dia (parâmetro do TR, coerente com 12.480 t/ano em 26 dias/mês) e a premissa da tabela de transbordo de 1,5 viagens/dia x 30 t = 45 t/dia"
+  dispositivo_legal: "art. 6.º, inciso XXIII, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E2-009"]
+  flag_tecnico: true
+  flag_reserva: false
+
+- id: E2-012
+  dispositivo_editalicio: "Itens 2.5, 5.4.5 e 5.5.19 do TR"
+  transcricao: "deve disponibilizar de 03 Carretas de semirreboque basculante com 3 eixos, com capacidade de 30–40 ton"
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: "Exigência fixa de 3 carretas independentemente do aterro de destino, para demanda estimada de 1,5 viagens/dia — possível superdimensionamento de frota exigida, com custo repassado ao item 3"
+  dispositivo_legal: "art. 6.º, inciso XXIII, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E2-009", "E2-011"]
+  flag_tecnico: true
+  flag_reserva: false
+
+- id: E2-013
+  dispositivo_editalicio: "Itens 4.5, 4.5.1, 4.5.2 e 4.6 do TR"
+  transcricao: "Poderá ser subcontratada a seguinte parcela do objeto: 4.5.1. Destinação final ambientalmente adequada de resíduos sólidos urbanos em aterro sanitário devidamente licenciado em outro Município."
+  tipo_achado: CONFORME
+  categoria: restricao_competitividade
+  descricao_breve: "Subcontratação permitida apenas para o item 3 (destinação externa), com justificativa de ampliação de competitividade; a operação do aterro municipal (item 2) não é subcontratável — empresas sem expertise em operação de aterro dependem de equipe própria nos ~12 primeiros meses"
+  dispositivo_legal: "art. 122 da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E2-006"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E2-014
+  dispositivo_editalicio: "Itens 4.8 e 4.8.1 do TR"
+  transcricao: "garantia da contratação [...] de 5% (cinco por cento) do valor anual da contratação, considerando como base de cálculo o valor máximo efetivamente executável, ou seja, o resultado da soma dos itens 1 [...], 3 [...] e 4"
+  tipo_achado: CONFORME
+  categoria: risco_economico
+  descricao_breve: "Garantia de 5% sobre o valor anual (base itens 1+3+4, coerente com a exclusão do item 2, de menor preço) e modalidades do art. 96, § 1.º, incluído o título de capitalização — dentro dos limites legais"
+  dispositivo_legal: "art. 96, § 1.º, e art. 98 da Lei n.º 14.133/2021"
+  referencias_cruzadas: []
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E2-015
+  dispositivo_editalicio: "Itens 4.10, 4.10.1, 14.2 e 14.5 do TR"
+  transcricao: "Em caso opção pelo seguro-garantia, a parte adjudicatária deverá apresentá-la, no prazo de 1 (um) mês, contado da data de homologação da licitação e anterior à assinatura do contrato [...] A convocação [...] deverá ser atendida no prazo máximo de 5 (cinco) dias úteis"
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: contradicao
+  descricao_breve: "Descompasso potencial entre o prazo de 1 mês (da homologação) para apresentar seguro-garantia antes da assinatura e o prazo de 5 dias úteis da convocação para assinar o contrato, com preclusão da modalidade"
+  dispositivo_legal: "art. 96, § 1.º, inciso II, da Lei n.º 14.133/2021"
+  referencias_cruzadas: []
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E2-016
+  dispositivo_editalicio: "Itens 4.12, 4.12.1, 4.12.1.1 e 4.12.1.2 do TR"
+  transcricao: "No caso de a proponente optar pela não realização da visita, deverá apresentar somente a folha 3/3 do Anexo VI (Declaração de conhecimento das condições de execução)"
+  tipo_achado: CONFORME
+  categoria: restricao_competitividade
+  descricao_breve: "Vistoria facultativa com declaração substitutiva de conhecimento das condições, agendamento individualizado (sem coincidência entre licitantes) até o dia útil anterior à sessão — sem caráter restritivo"
+  dispositivo_legal: "art. 9.º, inciso I, da Lei n.º 14.133/2021"
+  referencias_cruzadas: []
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E2-017
+  dispositivo_editalicio: "Item 5.1.5 do TR c/c item 1.1 do Cronograma de Mobilização e Implantação"
+  transcricao: "devendo ter início das atividades em 30 (trinta) dias [da Ordem de Serviço] [...] Dia 07 — Início da Operação — Assunção total dos serviços em todos os setores de coleta"
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: "Contradição entre o TR (início das atividades em 30 dias da OS; plano de infraestrutura em 30 dias — item 5.4.22 e KPI) e o Cronograma de Mobilização anexo (assunção total dos serviços no Dia 07)"
+  dispositivo_legal: "art. 25, caput, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E2-018", "E2-019"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E2-018
+  dispositivo_editalicio: "Item 1.1 do Cronograma de Mobilização e Implantação (Dias 01 a 07) e item 1.2.2"
+  transcricao: "Dia 04 — Comprovação de Pessoal — Apresentação da relação nominal dos funcionários, devidamente uniformizados e com os respectivos comprovantes de EPIs e exames admissionais [...] Dia 05 — Vistoria da Frota [...] Dia 06 — Testes de Rota"
+  tipo_achado: IRREGULAR
+  categoria: restricao_competitividade
+  descricao_breve: "Exiguidade do cronograma de mobilização: contratação de ~18 empregados com exames admissionais até o Dia 04, frota plotada no Dia 05, GPS operante no Dia 06 e SAC no Dia 01 — prazo favorece quem já está mobilizado (operador atual) e onera a formulação de propostas dos demais"
+  dispositivo_legal: "art. 5.º e art. 9.º, inciso I, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E2-017", "E2-019"]
+  flag_tecnico: true
+  flag_reserva: false
+
+- id: E2-019
+  dispositivo_editalicio: "Item 1.1 do Cronograma de Mobilização e Implantação"
+  transcricao: "contado a partir da assinatura do contrato ou da emissão da Ordem de Serviço inicial"
+  tipo_achado: IRREGULAR
+  categoria: erro_material
+  descricao_breve: "Marco inicial do cronograma de mobilização ambíguo (assinatura do contrato OU emissão da OS, sem definição de qual prevalece)"
+  dispositivo_legal: "art. 25, caput, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E2-017", "E2-020"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E2-020
+  dispositivo_editalicio: "Itens 5.1.5 e 11.1 do TR"
+  transcricao: "ficando a critério do poder público escolher a data conveniente para emissão de tal ordem [...] prazo de vigência da contratação é de 60 (sessenta) meses contados a partir da emissão da ordem de serviço"
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: "Ausência de prazo máximo para emissão da OS após a assinatura, com vigência contada da OS — mobilização e preços da proposta ficam em suspenso por período indeterminado, a critério exclusivo da Administração"
+  dispositivo_legal: "art. 92, inciso V, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E2-019", "E2-078"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E2-021
+  dispositivo_editalicio: "Item 5.1.6.5 do TR"
+  transcricao: "preserva expressamente o direito à recomposição da equação econômico-financeira nas hipóteses do art. 124, II, 'd', da Lei nº 14.133/2021 [...] o esgotamento da vida útil do aterro sanitário municipal, aliada à não emissão da licença de operação da estação de transbordo (obtida pela Administração), ensejará a revisão e o reequilíbrio"
+  tipo_achado: CONFORME
+  categoria: risco_economico
+  descricao_breve: "Alocação dos custos ordinários e previsíveis da transição ao item 3 na contratada, com válvula expressa de reequilíbrio para o cenário de esgotamento da vala sem licença de operação do transbordo"
+  dispositivo_legal: "art. 124, inciso II, alínea 'd', da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E2-009"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E2-022
+  dispositivo_editalicio: "Itens 5.1.6.2, 5.1.6.3 e 5.5.18 do TR"
+  transcricao: "É de responsabilidade dos técnicos da CONTRATANTE a validação contínua da utilização da vala [...] viabilizando o momento técnico oportuno para o fim do recebimento de resíduos [...] A partir da constatação do encerramento do Aterro Municipal, fica expressamente vedada a cobrança do Item 2"
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: "Gatilho da transição item 2 → item 3 (e da troca de preço unitário) definido por constatação unilateral da fiscalização, sem critérios técnicos objetivos, sem ato formal previsto e sem procedimento de contraditório — insegurança sobre o evento que altera a remuneração"
+  dispositivo_legal: "art. 6.º, inciso XXIII, e art. 92, inciso V, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E2-002", "E2-003"]
+  flag_tecnico: true
+  flag_reserva: false
+
+- id: E2-023
+  dispositivo_editalicio: "Itens 3.5, 5.2.1, 5.3.1.5, 5.3.1.6 e 5.3.1.13 do TR c/c KPI 'Intervalo entre Coletas'"
+  transcricao: "as áreas atendidas não permaneçam por período superior a 48 (quarenta e oito) horas sem coleta [...] Não poderá haver interrupção por mais de 48 (quarenta e oito) horas entre duas coletas consecutivas [...] (segunda, quarta e sexta) e (terça, quinta e sábado) [...] zonas rurais [...] 1 (um) dia na semana"
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: "Regra de intervalo máximo de 48h (com KPI sancionador: glosa + multa de 1% do valor mensal por dia) contradiz o próprio plano de frequências do TR — coleta alternada gera intervalos de 72h nos fins de semana (sex→seg; sáb→ter) e a coleta rural é semanal (168h)"
+  dispositivo_legal: "art. 25, caput, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E2-058", "E2-059"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E2-024
+  dispositivo_editalicio: "Item 5.3.1.6.1 do TR"
+  transcricao: "a CONTRATADA fica obrigada a realizar a coleta por meio de veículos utilitários próprios (com tração e capacidade adequadas ao terreno)"
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: "Coleta rural em intempéries exige veículos utilitários adicionais não incluídos na frota mínima nem quantificados — custo de reserva técnica não parametrizado para a proposta"
+  dispositivo_legal: "art. 6.º, inciso XXIII, e art. 18, § 1.º, inciso IV, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E2-055"]
+  flag_tecnico: true
+  flag_reserva: false
+
+- id: E2-025
+  dispositivo_editalicio: "Item 5.3.1.15 do TR"
+  transcricao: "deverá ser considerado a colocação pela CONTRATADA de contêineres de 1.000 litros removíveis [...] com remoção periódica dos resíduos ali depositados"
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: "Frequência da 'remoção periódica' dos resíduos dos contêineres rurais não definida — indefinição operacional e de custo, e potencial conflito com a regra das 48h"
+  dispositivo_legal: "art. 6.º, inciso XXIII, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E2-023", "E2-027"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E2-026
+  dispositivo_editalicio: "Item 5.3.1.16 do TR"
+  transcricao: "comunicar à CONTRATANTE toda coleta cujo volume [...] exceda 200 litros ou 50 kg diários por estabelecimento, para que a PREFEITURA tome as devidas providências, conforme Decreto 3.367/2026"
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: "Regulamentação de grandes geradores pode retirar tonelagem relevante do fluxo remunerado (R$/t) ao longo do contrato, sem parâmetro no TR sobre a participação atual desses geradores na tonelagem estimada"
+  dispositivo_legal: "art. 13, § 1.º, e art. 27, § 2.º, da Lei n.º 12.305/2010"
+  referencias_cruzadas: ["E2-066", "E2-067"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E2-027
+  dispositivo_editalicio: "Itens 5.3.1.14 e 5.9, alínea 'd', do TR"
+  transcricao: "deverá disponibilizar 80 (oitenta) contêineres [...] A medicação para efeito de pagamento dos contêineres (Item 4), será realizada por unidade utilizada no decorrer do mês."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: "Obrigação de disponibilizar 80 contêineres com pagamento apenas 'por unidade utilizada no mês' — investimento integral com receita variável dependente da quantidade de pontos que a Contratante indicar (locais não definidos no TR)"
+  dispositivo_legal: "art. 6.º, inciso XXIII, e art. 92, inciso V, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E2-005", "E2-025"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E2-028
+  dispositivo_editalicio: "Item 5.4.4.1.2, alínea 'd', do TR c/c KPI 'Manutenção de Contêineres'"
+  transcricao: "Em caso de avaria, quebra, furto ou necessidade de reparo [...] a CONTRATADA deverá efetuar a substituição por uma unidade nova ou em perfeito estado em até 24 (vinte e quatro) horas após a notificação."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: "Reposição de contêiner em 24h inclusive por furto, sem limite quantitativo anual, franquia ou repartição de risco — risco de evento fora do controle da contratada (segurança pública) integralmente transferido, sem parâmetro para precificação"
+  dispositivo_legal: "art. 103, caput e § 1.º, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E2-027"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E2-029
+  dispositivo_editalicio: "Item 5.4.4.1.2, alíneas 'a' e 'c', do TR"
+  transcricao: "Higienização dos Contentores: Lavagem e desinfecção (interna e externa) com produtos saneantes adequados [...] Higienização Interna/Externa: Mínimo de 02 (duas) vezes por semana."
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: "Higienização de 80 contêineres 2x/semana sem definição do local/método e da captação e destinação do efluente de lavagem (água contaminada com chorume) — o TR só disciplina captação de águas servidas para a lavagem de veículos (item 5.4.26)"
+  dispositivo_legal: "art. 6.º, inciso XXIII, da Lei n.º 14.133/2021; Resolução CONAMA n.º 430/2011 (padrões de lançamento de efluentes)"
+  referencias_cruzadas: ["E2-030"]
+  flag_tecnico: true
+  flag_reserva: false
+
+- id: E2-030
+  dispositivo_editalicio: "Itens 5.4.4.1.2 e 5.4.28 do TR c/c KPI 'Limpeza do Entorno'"
+  transcricao: "Limpeza do Entorno: Realização de varrição e coleta de todo e qualquer resíduo disperso em um raio de 2 (dois) metros de cada contentor [...] Diária."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: omissao
+  descricao_breve: "Limpeza diária do entorno de 80 contêineres e higienização 2x/semana não possuem equipe/veículo dedicados no quadro mínimo (13 coletores + 4 motoristas dimensionados para a coleta) — custo de equipe adicional não evidenciado"
+  dispositivo_legal: "art. 6.º, inciso XXIII, e art. 18, § 1.º, inciso IV, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E2-029", "E2-036"]
+  flag_tecnico: true
+  flag_reserva: false
+
+- id: E2-031
+  dispositivo_editalicio: "Item 3.5 do TR"
+  transcricao: "veículos que tenham, no máximo, 5 (cinco) anos de fabricação, considerados sempre em relação ao ano corrente de operação"
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: "Idade máxima de 5 anos aferida 'sempre em relação ao ano corrente' impõe renovação da frota durante os 60 meses (e eventuais prorrogações até 10 anos) — custo de reinvestimento obrigatório a ser captado na proposta"
+  dispositivo_legal: "art. 6.º, inciso XXIII, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E2-018"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E2-032
+  dispositivo_editalicio: "Itens 5.4.6 e 5.4.7 do TR c/c item 1.2.1 do Cronograma de Mobilização"
+  transcricao: "balança eletrônica instalada pelo responsável pela operação do Aterro Sanitário [...] Caso não exista disponibilidade de balança na unidade de tratamento, a CONTRATADA deverá indicar outro equipamento [...] Caso existam bens públicos (balança, contêineres, pátios ou estruturas municipais) cedidos"
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: omissao
+  descricao_breve: "Incerteza sobre a existência e a cessão de balança municipal (e demais bens públicos): o TR não informa se há balança no aterro, quem a fornece e mantém, e o cronograma trata a cessão como hipótese ('caso existam') — custo relevante indefinido"
+  dispositivo_legal: "art. 6.º, inciso XXIII, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E2-033"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E2-033
+  dispositivo_editalicio: "Itens 5.4.6, 5.5.1, 5.5.2 e 6.8.2 do TR"
+  transcricao: "O controle quanto à pesagem dos resíduos sólidos urbanos será realizado no Aterro Sanitário em balança eletrônica instalada pelo responsável pela operação do Aterro Sanitário"
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: omissao
+  descricao_breve: "Pesagem que lastreia o pagamento dos itens 1, 2 e 3 é operada pela própria contratada (operadora do aterro e da balança) — controle limitado à conferência documental de tickets pela fiscalização, sem previsão de aferição independente ou contraprova sistemática"
+  dispositivo_legal: "art. 6.º, inciso XXIII, e art. 117 da Lei n.º 14.133/2021; Lei n.º 9.933/1999 (controle metrológico)"
+  referencias_cruzadas: ["E2-032", "E2-057"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E2-034
+  dispositivo_editalicio: "Item 5.4.18 do TR"
+  transcricao: "Caso ocorra derramamento de chorume proveniente de prensagem e ou/ vazamento, que comprometa a limpeza e a higiene de uma via pública, a prazo máximo de 02 (duas) horas após a ocorrência do fato, independentemente de haver ou não a comunicação pela Fiscalização da CONTRATANTE."
+  tipo_achado: IRREGULAR
+  categoria: erro_material
+  descricao_breve: "Período sem oração principal — falta o comando (presume-se 'deverá efetuar a limpeza'), embora o KPI 'Vazamento de Chorume' pressuponha a obrigação de limpeza em 2h com multa por hora de atraso"
+  dispositivo_legal: "art. 25, caput, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E2-059"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E2-035
+  dispositivo_editalicio: "Itens 5.4.22, alínea 'a', e 5.4.23 do TR"
+  transcricao: "a) Garagem ou pátio de estacionamento para os veículos coletores; [...] Caso a empresa contratada possua sede situada dentro do perímetro urbano do município é proibido a pernoite dos veículos de coleta neste local."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: contradicao
+  descricao_breve: "Vedação de pernoite dos veículos na sede urbana condiciona a localização da garagem exigida (fora do perímetro urbano ou estrutura apartada) sem critério claro — ambiguidade com impacto de custo imobiliário"
+  dispositivo_legal: "art. 25, caput, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E2-040"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E2-036
+  dispositivo_editalicio: "Itens 5.4.2, 5.4.13, 5.4.28 e 12.1, alínea 'dd', do TR"
+  transcricao: "quadro mínimo de: 03 coletores e 01 motorista por caminhão, e mais 01 coletor reserva, totalizando 13 (treze) coletores e 4 (quatro) motoristas"
+  tipo_achado: CONFORME
+  categoria: risco_economico
+  descricao_breve: "Quadro mínimo (13 coletores + 4 motoristas) aritmeticamente consistente com 4 caminhões (3 operacionais + reserva) e com os dois turnos previstos, observada a vedação de turno subsequente — dimensionamento fino de produtividade a validar por engenharia"
+  dispositivo_legal: "art. 6.º, inciso XXIII, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E2-030", "E2-055"]
+  flag_tecnico: true
+  flag_reserva: false
+
+- id: E2-037
+  dispositivo_editalicio: "Item 5.4.29 do TR"
+  transcricao: "deverá atender integralmente à Convenção Coletiva de Trabalho 2025/2026 (em anexo) do SIEMACO Araraquara [...] sindicato este que atende os trabalhadores da categoria em Porto Ferreira"
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: ilegalidade
+  descricao_breve: "Imposição de CCT de sindicato determinado como obrigação contratual — o enquadramento sindical decorre da lei (categoria e base territorial), não do edital; para licitantes com enquadramento diverso a exigência pode gerar custo indevido ou conflito de normas coletivas"
+  dispositivo_legal: "art. 8.º, incisos I e II, da CF/1988; arts. 511 e 611 da CLT"
+  referencias_cruzadas: ["E2-077"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E2-038
+  dispositivo_editalicio: "Item 5.4.37 do TR"
+  transcricao: "Em caso de greve ou paralização dos funcionários, a CONTRATADA deverá tomar as providências necessárias para a realização da coleta, ficando sujeita às penalidades previstas no caso de não realização dos serviços que são classificados como essenciais."
+  tipo_achado: CONFORME
+  categoria: risco_economico
+  descricao_breve: "Dever de continuidade em greve — alocação usual de risco em serviço essencial de limpeza urbana, compatível com o regime de atendimento das necessidades inadiáveis da comunidade"
+  dispositivo_legal: "art. 10, inciso VI, e art. 11 da Lei n.º 7.783/1989"
+  referencias_cruzadas: []
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E2-039
+  dispositivo_editalicio: "Itens 5.2.1, 5.4.38 e 5.7.3, alínea 'b', do TR"
+  transcricao: "vespertino – das 16h00min às 24h00min [...] A descarga do resíduo da coleta deverá ocorrer de segunda-feira a sábado. [...] Horário de operação: 6h–22h."
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: "Rota vespertina encerra à 0h, mas o aterro opera das 6h às 22h e a descarga é restrita a segunda-sábado — resíduo coletado após ~21h não tem destino no mesmo dia (pernoite de caminhão carregado, vedada a permanência em via pública), sem disciplina no TR"
+  dispositivo_legal: "art. 25, caput, da Lei n.º 14.133/2021; ABNT NBR 13.896/1997"
+  referencias_cruzadas: ["E2-023"]
+  flag_tecnico: true
+  flag_reserva: false
+
+- id: E2-040
+  dispositivo_editalicio: "Item 12.2, alínea 'e', do TR c/c item 12.1, alínea 'cc'"
+  transcricao: "Abertura e manutenção de sede, filial ou escritório no local da prestação de serviços [...] Cartão Cidadão expedido pela Caixa Econômica Federal (CEF) e senha para acesso ao Extrato de Informações Previdenciárias para todos os empregados [...] Fixação de domicílio bancário dos empregados terceirizados no Município de Porto Ferreira."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: restricao_competitividade
+  descricao_breve: "Obrigações pós-contratação (30 dias): sede/filial local, domicílio bancário dos empregados no município e guarda de senha de acesso a dados previdenciários dos empregados — esta última de compatibilidade duvidosa com o regime de proteção de dados pessoais"
+  dispositivo_legal: "art. 9.º, inciso I, da Lei n.º 14.133/2021; arts. 6.º e 7.º da Lei n.º 13.709/2018"
+  referencias_cruzadas: ["E2-035", "E2-075"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E2-041
+  dispositivo_editalicio: "Itens 5.5.5, 5.5.6, 5.5.7, 5.5.8 e 5.5.15 do TR"
+  transcricao: "deverá a CONTRATADA garantir que o Aterro Sanitário possua uma camada de impermeabilização de base, constituída de geomembrana de polietileno de alta densidade – PEAD, assentada entre camadas de argila compactada (sistema trifásico)"
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: "Obrigações de infraestrutura da vala existente (impermeabilização de base, drenos, drenagem pluvial) atribuídas à contratada sem diagnóstico/baseline anexado do estado atual da Vala 05 — risco de assunção de passivo preexistente; terminologia atécnica ('sistema trifásico')"
+  dispositivo_legal: "art. 6.º, inciso XXIII, da Lei n.º 14.133/2021; ABNT NBR 13.896/1997"
+  referencias_cruzadas: ["E2-068", "E2-044"]
+  flag_tecnico: true
+  flag_reserva: false
+
+- id: E2-042
+  dispositivo_editalicio: "Itens 5.5.3, 5.5.4 e 5.7.2 do TR c/c itens 5.4.2 e 5.4.5"
+  transcricao: "Os resíduos deverão ser compactados através de trator de esteiras. [...] o trator sobre esteiras deverá espalhar os resíduos e passar de 3 a 5 vezes sobre a camada formada"
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: "Equipamentos da operação do aterro (trator de esteiras, equipamento para cobertura/umectação, retroescavadeira) não constam da relação de frota/equipamentos mínimos nem possuem quantitativo — a frota mínima do TR contempla apenas caminhões de coleta e carretas de transbordo"
+  dispositivo_legal: "art. 6.º, inciso XXIII, e art. 18, § 1.º, inciso IV, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E2-041"]
+  flag_tecnico: true
+  flag_reserva: false
+
+- id: E2-043
+  dispositivo_editalicio: "Item 5.6.1 do TR"
+  transcricao: "O aterro sanitário de Porto Ferreira/SP gera cerca de 190 litros de chorume por tonelada de resíduo recebida. Essa quantidade deverá ser coletada, transportada e tratada, sob responsabilidade operacional de custos da CONTRATADA."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: "Parâmetro de 190 L de chorume/tonelada (≈7,6 m³/dia) declarado sem memória de cálculo ou histórico — custo de transporte e tratamento em ETE embutido no item 2 depende da validação desse índice e da distância da ETE receptora (não indicada)"
+  dispositivo_legal: "art. 6.º, inciso XXIII, e art. 23 da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E2-044", "E2-053", "E2-068"]
+  flag_tecnico: true
+  flag_reserva: false
+
+- id: E2-044
+  dispositivo_editalicio: "Itens 5.1.6.3, 5.5.17, 5.6.1 e 5.7.1 do TR"
+  transcricao: "fica expressamente vedada a cobrança do Item 2 do objeto [...] [chorume] coletada, transportada e tratada, sob responsabilidade operacional de custos da CONTRATADA"
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: "O TR não define responsabilidade nem remuneração pela gestão do aterro encerrado após a exaustão da vala (chorume que continua sendo gerado por anos, drenagem, gases, monitoramento geotécnico e ambiental) durante os ~48 meses restantes do contrato, quando cessa o faturamento do item 2"
+  dispositivo_legal: "art. 6.º, inciso XXIII, da Lei n.º 14.133/2021; ABNT NBR 13.896/1997; Resolução CONAMA n.º 499/2020"
+  referencias_cruzadas: ["E2-043", "E2-045"]
+  flag_tecnico: true
+  flag_reserva: false
+
+- id: E2-045
+  dispositivo_editalicio: "Itens 5.5.7 e 5.5.18 do TR"
+  transcricao: "As camadas finais do aterro e dos taludes acabados de cada célula deverão ser impermeabilizadas através de uma camada de solo compactado, as quais receberão cobertura vegetal em grama."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: omissao
+  descricao_breve: "Custos de encerramento da Vala 05 (cobertura final, conformação de taludes, revegetação) não possuem item remuneratório próprio nem estão expressamente incluídos no R$/t do item 2 — indefinição de quem custeia o fechamento"
+  dispositivo_legal: "art. 6.º, inciso XXIII, da Lei n.º 14.133/2021; ABNT NBR 13.896/1997"
+  referencias_cruzadas: ["E2-044"]
+  flag_tecnico: true
+  flag_reserva: false
+
+- id: E2-046
+  dispositivo_editalicio: "Item 5.5.16 do TR"
+  transcricao: "operação integral do Aterro Sanitário e da Estação de Transbordo (quando apta), compreendendo o recebimento, triagem primária, transporte e a destinação final"
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: "'Triagem primária' mencionada uma única vez, sem especificação de escopo, equipe, local ou destino dos materiais triados — indefinição de parcela do objeto"
+  dispositivo_legal: "art. 6.º, inciso XXIII, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E2-047"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E2-047
+  dispositivo_editalicio: "Itens 3.2, 3.3 e 5.5 do TR (silêncio normativo)"
+  transcricao: "os resíduos sólidos urbanos não passíveis de reaproveitamento deverão ser encaminhados ao Aterro Sanitário Municipal"
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: omissao
+  descricao_breve: "TR silencia sobre vedação de catação nas áreas de disposição final e sobre interface da coleta convencional com coleta seletiva/organizações de catadores — controle exigível na operação do aterro"
+  dispositivo_legal: "art. 48, inciso II, e art. 36 da Lei n.º 12.305/2010"
+  referencias_cruzadas: ["E2-046"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E2-048
+  dispositivo_editalicio: "Itens 5.5.1, 5.5.2 e 5.9 do TR"
+  transcricao: "Todo resíduo a ser depositado no aterro sanitário terá sua entrada controlada na portaria, onde deverão ser pesados e identificados"
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: omissao
+  descricao_breve: "TR não define se o aterro municipal receberá resíduos de outras fontes (varrição e serviços próprios da Prefeitura, particulares autorizados) e se essas toneladas integram a remuneração do item 2 — indefinição do fluxo total operado e faturável"
+  dispositivo_legal: "art. 6.º, inciso XXIII, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E2-033", "E2-068"]
+  flag_tecnico: false
+  flag_reserva: true
+
+- id: E2-049
+  dispositivo_editalicio: "Item 5.5.20 do TR c/c Tabela de Quilometragem (transbordo)"
+  transcricao: "deverá possuir licença de operação vigente e carta de anuência atestando que o local possui ambiental válida, infraestrutura e volume operacional disponíveis para receber 40 (quarenta) toneladas por dia"
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: restricao_competitividade
+  descricao_breve: "Carta de anuência do aterro receptor é documento emitido por particulares verticalizados (aterros da região pertencem a grupos que podem disputar o certame) — risco de recusa estratégica de anuência a concorrentes, condicionando o acesso ao item 3"
+  dispositivo_legal: "art. 9.º, inciso I, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E2-050", "E2-051", "E2-052"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E2-050
+  dispositivo_editalicio: "Item 5.5.20 do TR"
+  transcricao: "A escolha do aterro sanitário dependerá de autorização prévia e expressa da Administração"
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: omissao
+  descricao_breve: "Autorização administrativa da escolha do aterro externo sem critérios objetivos (distância, preço, licença, capacidade) — recusa do destino mais econômico alteraria o custo do item 3 precificado pela contratada"
+  dispositivo_legal: "art. 6.º, inciso XXIII, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E2-049", "E2-021"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E2-051
+  dispositivo_editalicio: "Tabela de Quilometragem — Quilometragem Média Transbordo"
+  transcricao: "São Carlos Ambiental - Grupo Solví — 67 km [...] Aterro Casa Branca - Grupo Seleta — 67 km [...] **principais destinos considerados, sem prejuízo de outras opções."
+  tipo_achado: CONFORME
+  categoria: risco_economico
+  descricao_breve: "[USO INTERNO] Tabela oficial lista aterro do grupo (São Carlos Ambiental) empatado como destino mais próximo (67 km) — vantagem logística estrutural na precificação do item 3 e posição de eventual subcontratada/receptora de concorrentes"
+  dispositivo_legal: "não se aplica — dado fático do anexo do edital"
+  referencias_cruzadas: ["E2-049", "E2-002"]
+  flag_tecnico: false
+  flag_reserva: true
+
+- id: E2-052
+  dispositivo_editalicio: "Item 5.5.20 do TR"
+  transcricao: "carta de anuência atestando que o local possui ambiental válida, infraestrutura e volume operacional disponíveis"
+  tipo_achado: IRREGULAR
+  categoria: erro_material
+  descricao_breve: "Texto truncado ('possui ambiental válida' — faltou 'licença') no dispositivo que define o conteúdo da carta de anuência do aterro receptor"
+  dispositivo_legal: "art. 25, caput, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E2-049"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E2-053
+  dispositivo_editalicio: "Itens 5.6.1 e 5.5.20 do TR"
+  transcricao: "Será obrigatório apresentar a carta de anuência da Estação de Tratamento para recebimento do chorume do aterro municipal de Porto Ferreira/SP."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: omissao
+  descricao_breve: "Momento de exigência das cartas de anuência (ETE para chorume; aterro receptor para item 3) não definido — se exigidas com a proposta/habilitação, configuram condição restritiva; se na execução, mera obrigação contratual"
+  dispositivo_legal: "art. 62 e art. 9.º, inciso I, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E2-049", "E2-043"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E2-054
+  dispositivo_editalicio: "Itens 5.6.1 e 5.7.1 do TR"
+  transcricao: "Transporte e destinação ambientalmente adequados para ETE pela CONTRATADA."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: omissao
+  descricao_breve: "TR exige apenas carta de anuência da ETE, sem referir autorizações ambientais eventualmente exigíveis para transporte e destinação de líquidos percolados (ex.: CADRI/CETESB) — verificação de exigibilidade e custo regulatório"
+  dispositivo_legal: "art. 6.º, inciso XXIII, da Lei n.º 14.133/2021; Resolução CONAMA n.º 237/1997; ABNT NBR 13.221"
+  referencias_cruzadas: ["E2-043"]
+  flag_tecnico: true
+  flag_reserva: false
+
+- id: E2-055
+  dispositivo_editalicio: "Item 5.2.1.1 do TR c/c Tabela de Quilometragem (coleta)"
+  transcricao: "A quilometragem média mensal para coleta de resíduos domiciliares (RSU), sem considerar o trajeto até o aterro, é de 4.078 quilômetros"
+  tipo_achado: CONFORME
+  categoria: risco_economico
+  descricao_breve: "Tabela de quilometragem internamente consistente (somas por rota e por dia-tipo conferem: 4.078 km/mês) e aderente às frequências declaradas no TR (diária central com início 16h; alternadas 7h; rural às sextas) — validação de campo recomendada"
+  dispositivo_legal: "art. 6.º, inciso XXIII, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E2-023", "E2-036", "E2-056"]
+  flag_tecnico: true
+  flag_reserva: false
+
+- id: E2-056
+  dispositivo_editalicio: "Item 5.2.1.1 do TR c/c Tabela de Quilometragem (coleta)"
+  transcricao: "sem considerar o trajeto até o aterro"
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: omissao
+  descricao_breve: "Quilometragem de deslocamento setores-aterro-garagem (percorrida várias vezes ao dia por caminhão) não estimada em nenhum anexo — parcela relevante do custo do item 1 sem parâmetro oficial"
+  dispositivo_legal: "art. 6.º, inciso XXIII, e art. 23 da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E2-055", "E2-010"]
+  flag_tecnico: true
+  flag_reserva: false
+
+- id: E2-057
+  dispositivo_editalicio: "Itens 5.4.8, 5.9, alíneas 'a' e 'c', do TR"
+  transcricao: "apresentados à CONTRATANTE quinzenalmente junto com a Nota Fiscal [...] O pagamento do Item 1 será realizado de acordo com o peso, em tonelada, dos resíduos sólidos efetivamente coletados em cada mês (R$/TON)"
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: "Periodicidade de medição/faturamento ambígua: relatórios e NF quinzenais (5.4.8, 5.9.a; KPI de tickets quinzenais) versus pagamento apurado 'em cada mês' (5.9.c/e/f) — ciclo de faturamento indefinido"
+  dispositivo_legal: "art. 92, incisos V e VI, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E2-033", "E2-062"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E2-058
+  dispositivo_editalicio: "Item 5.9, alínea 'h', e item 7.13.1 do TR c/c Anexo KPI"
+  transcricao: "O Relatório de Desempenho (KPI) é documento obrigatório e vinculante para a aprovação da medição quinzenal, permitindo a retenção direta de valores em caso de descumprimento dos índices."
+  tipo_achado: IRREGULAR
+  categoria: ilegalidade
+  descricao_breve: "Anexo KPI institui multas aplicáveis por 'retenção direta' na medição, sem previsão de processo sancionatório, defesa prévia e contraditório — confusão entre glosa/ajuste de pagamento por resultado e sanção administrativa"
+  dispositivo_legal: "art. 5.º, inciso LV, da CF/1988; arts. 155 a 158 da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E2-059", "E2-060", "E2-065"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E2-059
+  dispositivo_editalicio: "Anexo KPI — linhas 'Frota Mínima', 'Manutenção de Contêineres', 'Uso de EPIs/Uniformes', 'Vazamento de Chorume'"
+  transcricao: "Multa diária por veículo faltante ou em desacordo com as normas. [...] Multa fixa por unidade/dia de atraso. [...] Multa por funcionário flagrado sem EPI ou com uniforme inadequado. [...] Multa por hora de atraso"
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: "Quatro penalidades do anexo KPI sem valor ou percentual definido (multa 'diária', 'fixa', 'por funcionário', 'por hora') — indeterminação do montante sancionatório impede precificação de risco e viola a moldura legal das multas"
+  dispositivo_legal: "art. 156, inciso II e § 3.º, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E2-058", "E2-060"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E2-060
+  dispositivo_editalicio: "Anexo KPI — linhas 'Rastreamento GPS', 'Intervalo entre Coletas', 'Veículo Reserva', 'Canal 0800'"
+  transcricao: "Glosa de 0,1% por dia em que o sinal de GPS do veículo em rota estiver offline. [...] Multa de 1% sobre o valor mensal por dia de atraso."
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: "Bases de cálculo indefinidas nos KPIs: glosa de '0,1%' sem indicar sobre o quê; referências a 'valor mensal' sem definição (faturamento efetivo variável ou valor mensal estimado?) em contrato remunerado por tonelada"
+  dispositivo_legal: "art. 156, § 3.º, e art. 92, inciso V, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E2-058", "E2-059"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E2-061
+  dispositivo_editalicio: "Anexo KPI — linha 'Rastreamento GPS' c/c item 5.4.15 do TR"
+  transcricao: "Glosa de 0,1% por dia em que o sinal de GPS do veículo em rota estiver offline."
+  tipo_achado: IRREGULAR
+  categoria: ilegalidade
+  descricao_breve: "Glosa automática por sinal de GPS offline independentemente da efetiva execução da rota e da causa da falha (sombra de sinal, falha da operadora) — desconto sem correlação com inexecução e sem apuração de culpabilidade"
+  dispositivo_legal: "art. 156, § 1.º, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E2-058", "E2-060"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E2-062
+  dispositivo_editalicio: "Anexo KPI — linha 'Destinação Final'"
+  transcricao: "Pesagem obrigatória e tickets quinzenais — Suspensão do pagamento da quinzena até a regularização da comprovação documental."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: "Suspensão do pagamento da quinzena inteira por pendência documental, sem ressalva de proporcionalidade para pendências parciais (ex.: tickets faltantes de um único dia/veículo)"
+  dispositivo_legal: "art. 92, inciso V, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E2-057", "E2-058"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E2-063
+  dispositivo_editalicio: "Anexo KPI — linha 'Plano de Infraestrutura' c/c item 5.4.22 do TR"
+  transcricao: "Entrega em até 30 dias (Garagem, Escritório, etc.) — Multa de 1% sobre o valor total do contrato por atraso na instalação da base operacional."
+  tipo_achado: IRREGULAR
+  categoria: ilegalidade
+  descricao_breve: "Multa de 1% sobre o 'valor total do contrato' (base de 60 meses?) por 'atraso' sem unidade temporal (por dia? por evento?) — indeterminação da incidência e potencial desproporção da base de cálculo frente às demais multas (referidas ao valor mensal)"
+  dispositivo_legal: "art. 156, §§ 1.º e 3.º, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E2-058", "E2-017"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E2-064
+  dispositivo_editalicio: "Anexo KPI — linha 'Vazamento de Chorume'"
+  transcricao: "Multa por hora de atraso + Sanção grave se houver dano ambiental comprovado."
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: "'Sanção grave' por dano ambiental sem tipificação (qual sanção do art. 156?) — cláusula sancionatória aberta"
+  dispositivo_legal: "art. 156, caput e § 1.º, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E2-058", "E2-059"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E2-065
+  dispositivo_editalicio: "Anexo KPI c/c itens 7.13 e 7.13.1 do TR"
+  transcricao: "Será indicada a retenção ou glosa no pagamento, proporcional à irregularidade verificada, sem prejuízo das sanções cabíveis"
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: ilegalidade
+  descricao_breve: "Sobreposição potencial entre multas do anexo KPI e o regime sancionatório geral do edital/minuta (bis in idem por um mesmo fato: glosa + multa KPI + sanção do art. 156) — compatibilização a verificar com as seções de sanções do edital e da minuta contratual"
+  dispositivo_legal: "arts. 155 e 156 da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E2-058", "E2-023"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E2-066
+  dispositivo_editalicio: "Itens 5.4.2, 5.4.22, 5.4.28 e 5.9 do TR"
+  transcricao: "O pagamento do Item 1 será realizado de acordo com o peso, em tonelada, dos resíduos sólidos efetivamente coletados em cada mês (R$/TON)"
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: "Remuneração 100% variável por tonelada com estrutura de custos majoritariamente fixa imposta pelo TR (frota mínima, quadro mínimo, infraestrutura completa) — risco integral de variação de demanda alocado à contratada, sem parcela fixa"
+  dispositivo_legal: "art. 6.º, inciso XXIII, da Lei n.º 14.133/2021; art. 29 da Lei n.º 11.445/2007"
+  referencias_cruzadas: ["E2-026", "E2-067"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E2-067
+  dispositivo_editalicio: "Item 1.1 (tabela Lote 1) do TR (ausência de anexo)"
+  transcricao: "Serviços de coleta e transporte de resíduos sólidos urbanos com caminhão compactador — 12.480 TON/ANO"
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: omissao
+  descricao_breve: "Série histórica de pesagem/tonelagem mensal não anexada ao TR — quantitativo de 12.480 t/ano (40 t/dia útil) sem memória de cálculo divulgada, dificultando validação de sazonalidade e projeção de crescimento em 60 meses"
+  dispositivo_legal: "art. 18, § 1.º, inciso IV, e art. 23 da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E2-066", "E2-068"]
+  flag_tecnico: true
+  flag_reserva: false
+
+- id: E2-068
+  dispositivo_editalicio: "Itens 2.4, 5.5.17 e 5.5.18 do TR (ausência de anexos técnicos do aterro)"
+  transcricao: "A Licença de Operação CETESB nº 4011055 do aterro sanitário corresponde apenas à Vala nº 05, delimitada por projeto e próxima do final de sua vida útil, estimada para o primeiro semestre de 2027."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: omissao
+  descricao_breve: "[USO INTERNO] Dados operacionais do aterro não anexados (levantamento topográfico, capacidade volumétrica remanescente da Vala 05, relatórios de monitoramento, condicionantes da LO) — assimetria informacional que favorece quem opera/conhece a unidade, inclusive para modelar a data real da transição ao item 3"
+  dispositivo_legal: "art. 18, § 1.º, e art. 25, § 3.º, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E2-022", "E2-041", "E2-043", "E2-048"]
+  flag_tecnico: true
+  flag_reserva: true
+
+- id: E2-069
+  dispositivo_editalicio: "Item 5.8, alínea 'c', do TR"
+  transcricao: "Auditorias Trimestrais: Verificação de conformidade com o Plano Municipal de Gestão Integrada de Resíduos Sólidos (PMGIRS)."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: omissao
+  descricao_breve: "PMGIRS é parâmetro de auditoria trimestral da contratada, mas não consta da relação de anexos divulgados — obrigação aferida contra documento não disponibilizado no certame"
+  dispositivo_legal: "art. 25, § 3.º, da Lei n.º 14.133/2021; art. 19 da Lei n.º 12.305/2010"
+  referencias_cruzadas: ["E2-076"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E2-070
+  dispositivo_editalicio: "Item 5.8, alíneas 'h' a 'm', do TR"
+  transcricao: "Planos a serem realizados pela CONTRATADA: Plano de contingência e emergência; Plano de manutenção das estruturas [...]; Plano de manutenção da frota [...]; Plano de controle ambiental; Elaboração do plano de adaptação e melhoria"
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: "Cinco planos exigidos da contratada sem prazo de entrega, conteúdo mínimo ou critério de aprovação (só o plano de infraestrutura tem prazo de 30 dias) — obrigações de exigibilidade indefinida"
+  dispositivo_legal: "art. 6.º, inciso XXIII, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E2-071"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E2-071
+  dispositivo_editalicio: "Item 5.8, alínea 'k', do TR"
+  transcricao: "Plano de manutenção da frota e dos equipamentos (seguindo a norma ABNT 13.221/2010)"
+  tipo_achado: IRREGULAR
+  categoria: erro_material
+  descricao_breve: "Referência normativa equivocada: a ABNT NBR 13.221 dispõe sobre transporte terrestre de resíduos, não sobre manutenção de frota"
+  dispositivo_legal: "art. 6.º, inciso XXIII, da Lei n.º 14.133/2021; ABNT NBR 13.221"
+  referencias_cruzadas: ["E2-070"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E2-072
+  dispositivo_editalicio: "Item 7.11 do TR c/c item 12.2, alínea 'b'"
+  transcricao: "depositados pelo Município em conta vinculada específica, conforme o disposto na Instrução Normativa SLTI/MP nº 02, de 30 de abril de 2008 [...] nos termos das Instruções Normativas n.02 e 03 do Ministério do Planejamento"
+  tipo_achado: IRREGULAR
+  categoria: erro_material
+  descricao_breve: "Conta vinculada fundada em IN SLTI/MP 02/2008, norma federal revogada (IN SEGES/MP 05/2017) e não vinculante para o município — fundamento normativo desatualizado para mecanismo que afeta o fluxo de caixa da contratada"
+  dispositivo_legal: "art. 6.º, inciso XXIII, da Lei n.º 14.133/2021; IN SEGES/MP n.º 05/2017 (revogação da IN SLTI/MP n.º 02/2008)"
+  referencias_cruzadas: ["E2-057"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E2-073
+  dispositivo_editalicio: "Itens 11.1 a 11.6 do TR"
+  transcricao: "O prazo de vigência da contratação é de 60 (sessenta) meses contados a partir da emissão da ordem de serviço, prorrogável por até 10 anos, na forma dos artigos 106 e 107 da Lei n° 14.133, de 2021."
+  tipo_achado: CONFORME
+  categoria: risco_economico
+  descricao_breve: "Vigência de 60 meses com prorrogação até 10 anos para serviço contínuo, condicionada a vantajosidade e regularidade — dentro do regime legal; redução de custos não renováveis na prorrogação prevista (item 11.5)"
+  dispositivo_legal: "arts. 106 e 107 da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E2-020", "E2-031"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E2-074
+  dispositivo_editalicio: "Item 14.2.2 do TR"
+  transcricao: "ficando sujeito a multa de 0,5% a 15% sobre o valor da proposta, além de outras sanções cabíveis"
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: omissao
+  descricao_breve: "Multa por recusa de assinatura com faixa ampla (0,5% a 15%) sem critérios de dosimetria no TR — gradação remetida à discricionariedade do aplicador"
+  dispositivo_legal: "art. 156, §§ 1.º e 3.º, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E2-058"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E2-075
+  dispositivo_editalicio: "Itens 13.1.1 e 13.3 do TR"
+  transcricao: "O licitante e/ou contratado autoriza o tratamento de dados referido no parágrafo acima sempre que se fizer necessário para os fins do Art. 7º e/ou Art. 11, ambos da Lei Federal n. º 13709/2018"
+  tipo_achado: IRREGULAR
+  categoria: ilegalidade
+  descricao_breve: "Cláusula de 'consentimento' compulsório para tratamento de dados como condição de participação — consentimento deve ser manifestação livre; a base legal adequada é execução de políticas públicas/obrigação legal, não autorização compelida via edital"
+  dispositivo_legal: "art. 5.º, inciso XII, e art. 7.º, incisos II e III, da Lei n.º 13.709/2018"
+  referencias_cruzadas: ["E2-040"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E2-076
+  dispositivo_editalicio: "Itens 15 e 15.1 do TR"
+  transcricao: "15.1. Compõem ainda o presente Anexo os arquivos abaixo relacionados, em formato PDF."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: omissao
+  descricao_breve: "Relação de arquivos adicionais do TR não legível no documento (lista ausente/em imagem) — verificar se todos os anexos referidos ao longo do TR (Mapa de Itinerário, Projeto Básico da Estação de Transbordo, Decreto 3.367/2026, CCT, ETP) foram efetivamente publicados"
+  dispositivo_legal: "art. 25, § 3.º, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E2-069", "E2-068"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E2-077
+  dispositivo_editalicio: "TR — seções 2, 3 e 5 (ausência de referência)"
+  transcricao: "(o TR fundamenta a contratação na Lei n.º 12.305/2010, Decreto n.º 7.404/2010 e normas ABNT, sem referência às normas de referência da ANA)"
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: omissao
+  descricao_breve: "TR não refere a NR n.º 7/2024 da ANA (Resolução ANA n.º 187/2024 — norma de referência para contratos de manejo de RSU) — aderência relevante inclusive como condicionante de acesso a recursos federais do saneamento"
+  dispositivo_legal: "art. 4.º-B da Lei n.º 9.984/2000 (incluído pela Lei n.º 14.026/2020); art. 50 da Lei n.º 11.445/2007"
+  referencias_cruzadas: ["E2-066"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E2-078
+  dispositivo_editalicio: "TR — seções 7, 9 e 11 (ausência de cláusula)"
+  transcricao: "(não há, no Termo de Referência, cláusula de reajuste, repactuação, índice, data-base ou periodicidade)"
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: omissao
+  descricao_breve: "TR omisso quanto a reajustamento/repactuação (índice, data-base, periodicidade) em contrato de 60 meses com dissídio anual da categoria — verificar se a minuta contratual/edital (escopo E1/E3) supre; se ausente também lá, falta cláusula necessária"
+  dispositivo_legal: "art. 25, § 7.º, e art. 92, inciso V, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E2-037", "E2-020"]
+  flag_tecnico: false
+  flag_reserva: false
