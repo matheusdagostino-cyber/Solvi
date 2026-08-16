@@ -1,0 +1,835 @@
+# =====================================================================
+# E1 — EXTRATOR: EDITAL PRINCIPAL (Seções I e II + Anexo II — Habilitação)
+# Pregão Eletrônico n.º 30/2026 REABERTURA — Município de Porto Ferreira/SP
+# Processo Administrativo n.º 3.721/2026 — Edital n.º 42/2026
+# Fonte: 61122568-021ee384a2ef4df4b7959822128a21b8.txt (linhas 1–1134 e 2717–2990,
+#        com verificações pontuais de referências cruzadas no TR: itens 4.8, 4.12 e 9.1)
+# Fase 1 — varredura exaustiva. Sem argumento desenvolvido, sem jurisprudência.
+# Data da extração: 2026-08-16
+# Total: 73 pontos — IRREGULAR: 18 | CONFORME: 32 | DEPENDE_DE_FATO: 23
+# =====================================================================
+
+- id: E1-001
+  dispositivo_editalicio: "Preâmbulo do Edital (modalidade, critério e modo de disputa)"
+  transcricao: "PREGÃO ELETRÔNICO Nº 30/2026 REABERTURA [...] REGIME DE EXECUÇÃO: CONTINUADO. CRITÉRIO DE JULGAMENTO: MENOR PREÇO POR LOTE. MODO DE DISPUTA: ABERTO E FECHADO"
+  tipo_achado: CONFORME
+  categoria: omissao
+  descricao_breve: "Adoção do pregão para coleta de RSU com operação de aterro sanitário — objeto tratável como serviço comum (inclusive serviço comum de engenharia), com critério menor preço por lote"
+  dispositivo_legal: "art. 6.º, inciso XLI, e art. 29, caput e parágrafo único, c/c art. 6.º, inciso XXI, alínea 'a', da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E1-018", "E1-054", "E2:TR-8"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E1-002
+  dispositivo_editalicio: "Preâmbulo do Edital — OBJETO"
+  transcricao: "incluindo a operação do aterro sanitário municipal ou destinação final de resíduos urbanos em aterro sanitário de outro município"
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: "Objeto com fases alternativas/sucessivas (operação do aterro municipal — item 2 — até seu encerramento definitivo, depois destinação em aterro de outro município — item 3, conforme nota do TR item 9.1); o momento de transição depende da vida útil remanescente do aterro municipal, fato não determinável pelo edital principal e que afeta o dimensionamento das propostas"
+  dispositivo_legal: "art. 6.º, inciso XXIII, alínea 'a', e art. 25, caput, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E1-057", "E1-064", "E2:TR-9.1", "E4:planilha-itens"]
+  flag_tecnico: true
+  flag_reserva: false
+
+- id: E1-003
+  dispositivo_editalicio: "Preâmbulo (data da sessão) c/c fecho do Edital (data de 13/08/2026)"
+  transcricao: "ABERTURA PREVISTA DA SESSÃO PÚBLICA [...] Dia 28 de agosto de 2026 — Encerramento das propostas: 8h [...] Porto Ferreira/SP, 13 de agosto de 2026"
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: omissao # prazo mínimo de publicidade
+  descricao_breve: "Entre a data do edital (13/08/2026) e a sessão (28/08/2026) há 10 dias úteis completos — exatamente o mínimo legal para serviços comuns; a regularidade depende da data efetiva de divulgação no PNCP (não informada no corpo do edital) e, por ser reabertura com retificação, da republicação com devolução integral do prazo"
+  dispositivo_legal: "art. 55, inciso II, alínea 'a', e § 1.º, c/c art. 54 da Lei n.º 14.133/2021"
+  referencias_cruzadas: []
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E1-004
+  dispositivo_editalicio: "Preâmbulo da Seção I (fundamentação) e nota de rodapé 1"
+  transcricao: "de acordo com a Lei Federal nº 14.133 [...] e Termo de Ajuste de Conduta (TAC) nº 088/2014 – MPT/PRT 15ª Região – PTM Araraquara [nota: Conforme decidido pelo E. Tribunal de Contas do Estado de São Paulo nos autos do TCs n° 12294.989.20-7 TC-12378.989.20-7]"
+  tipo_achado: CONFORME
+  categoria: omissao
+  descricao_breve: "TAC firmado com o MPT incorporado como norma de regência do certame (fundamenta conta vinculada, domicílio bancário e obrigações trabalhistas acessórias), com registro de exame pelo TCE-SP em processos indicados no próprio edital — inteiro teor do TAC e das decisões não anexado ao edital"
+  dispositivo_legal: "art. 5.º da Lei n.º 14.133/2021 (juridicidade); Lei n.º 7.347/1985, art. 5.º, § 6.º (compromisso de ajustamento de conduta)"
+  referencias_cruzadas: ["E1-035", "E1-036", "E1-040"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E1-005
+  dispositivo_editalicio: "Itens 4.1, 4.2 e 4.3 do Edital"
+  transcricao: "poderá formular consultas pelo e-mail pregao@portoferreira.sp.gov.br até 03 (três) dias úteis anteriores [...] A resposta à impugnação ou ao pedido de esclarecimento será divulgado em sítio eletrônico oficial no prazo de até 3 (três) dias úteis, limitado ao último dia útil anterior à data da abertura do certame [...] vincularão os participantes e a Administração"
+  tipo_achado: CONFORME
+  categoria: omissao
+  descricao_breve: "Prazos de esclarecimento (3 dias úteis antes) e de resposta (até 3 dias úteis, limitada ao último dia útil anterior à abertura), com efeito vinculante das respostas, reproduzem o regime legal"
+  dispositivo_legal: "art. 164, caput e parágrafo único, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E1-028"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E1-006
+  dispositivo_editalicio: "Itens 7.2 a 7.7 do Edital"
+  transcricao: "Estarão impedidos de participar [...] b) autor do anteprojeto, do projeto básico ou do projeto executivo [...] f) empresas controladoras, controladas ou coligadas [...] concorrendo entre si; g) pessoa física ou jurídica que, nos 5 (cinco) anos anteriores à divulgação do edital, tenha sido condenada judicialmente, com trânsito em julgado, por exploração de trabalho infantil..."
+  tipo_achado: CONFORME
+  categoria: omissao
+  descricao_breve: "Rol de impedimentos de participação reproduz fielmente o rol legal, inclusive extensão a quem atue em substituição para burlar sanção e equiparação de empresas do mesmo grupo econômico do autor do projeto"
+  dispositivo_legal: "art. 14, incisos I a VI e §§ 1.º a 3.º, da Lei n.º 14.133/2021"
+  referencias_cruzadas: []
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E1-007
+  dispositivo_editalicio: "Item 7.8 do Edital"
+  transcricao: "O custo de operacionalização e uso do sistema ficará a cargo do Licitante vencedor do certame, que pagará a provedora do sistema eletrônico, o percentual estabelecido, a título de taxa pela utilização dos recursos de tecnologia da informação."
+  tipo_achado: IRREGULAR
+  categoria: ilegalidade
+  descricao_breve: "Repasse ao licitante vencedor do custo da plataforma privada (BLL) sem amparo em dispositivo da Lei n.º 14.133/2021, transferindo ao particular despesa administrativa do certame"
+  dispositivo_legal: "art. 5.º e art. 9.º, inciso I, alínea 'a', da Lei n.º 14.133/2021; art. 37, caput, da CF/1988 (legalidade); ausência de previsão autorizativa no art. 175 da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E1-008"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E1-008
+  dispositivo_editalicio: "Item 7.8 do Edital (parte final)"
+  transcricao: "pagará a provedora do sistema eletrônico, o percentual estabelecido, a título de taxa"
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: "O percentual/valor da taxa da plataforma não é divulgado no edital ('o percentual estabelecido'), impedindo o licitante de precificar esse custo na proposta"
+  dispositivo_legal: "art. 25, caput, da Lei n.º 14.133/2021 (dever de o edital conter as regras da licitação); art. 5.º da Lei n.º 14.133/2021 (transparência)"
+  referencias_cruzadas: ["E1-007"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E1-009
+  dispositivo_editalicio: "Item 7.10 do Edital (e subitens 7.10.1 a 7.10.7)"
+  transcricao: "Pessoa jurídica poderá participar desta licitação em consórcio [...] comprovação de compromisso público de constituição de consórcio [...] discriminando a empresa líder, estabelecendo responsabilidade solidária com a indicação do percentual de responsabilidade de cada consorciada"
+  tipo_achado: CONFORME
+  categoria: omissao
+  descricao_breve: "Admissão de consórcios com regras espelhadas na lei (vedação de dupla participação, responsabilidade solidária, somatórios para habilitação, registro prévio à contratação, substituição condicionada de consorciada) — medida ampliativa da competitividade"
+  dispositivo_legal: "art. 15, incisos I a V e §§ 1.º a 5.º, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E1-010", "E1-057", "E1-061"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E1-010
+  dispositivo_editalicio: "Item 7.10.4.1 do Edital c/c item 1.4.2.1.1 do Anexo II"
+  transcricao: "haverá um acréscimo de 15 % (quinze por cento) para o consórcio em relação ao valor exigido para os licitantes individuais (art. 15, §1º e 2º da Lei nº 14.133/2021)"
+  tipo_achado: CONFORME
+  categoria: omissao
+  descricao_breve: "Acréscimo de 15% na qualificação econômico-financeira para consórcios está dentro da faixa legal (10% a 30%), com isenção correta para consórcios integralmente formados por ME/EPP"
+  dispositivo_legal: "art. 15, §§ 1.º e 2.º, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E1-009", "E1-063"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E1-011
+  dispositivo_editalicio: "Item 7.10.4.1 do Edital"
+  transcricao: "Se o consórcio não for formado integralmente por microempresas ou empresas de pequeno porte e o Termo de Referência exigir requisitos de habilitação econômico-financeira, haverá um acréscimo de 15 %"
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: erro_material
+  descricao_breve: "Condição remete a exigências econômico-financeiras 'do Termo de Referência', mas tais exigências constam do Anexo II (o TR, item 8.3, apenas remete ao Anexo II) — remissão imprecisa que pode gerar controvérsia sobre a incidência do acréscimo de 15%"
+  dispositivo_legal: "art. 25, caput, da Lei n.º 14.133/2021 (clareza das regras do certame)"
+  referencias_cruzadas: ["E1-010", "E2:TR-8.3"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E1-012
+  dispositivo_editalicio: "Item 9.1.1.2 do Edital c/c advertência final do Anexo II"
+  transcricao: "É vedada a identificação da licitante, sob pena de desclassificação. [...] É VEDADA A IDENTIFICAÇÃO DOS PROPONENTES LICITANTES NO SISTEMA, NAS FICHAS TÉCNICAS OU DOCUMENTOS, EM QUALQUER HIPÓTESE, ANTES DO TÉRMINO DA FASE COMPETITIVA"
+  tipo_achado: CONFORME
+  categoria: omissao
+  descricao_breve: "Sigilo da autoria das propostas até o fim da fase competitiva, com divulgação do menor lance sem identificação do licitante — coerente com o rito do pregão eletrônico"
+  dispositivo_legal: "art. 17, § 2.º, e art. 61 da Lei n.º 14.133/2021 (condução eletrônica e sigilo dos lances)"
+  referencias_cruzadas: []
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E1-013
+  dispositivo_editalicio: "Item 9.1.1.4 do Edital"
+  transcricao: "Tais encargos [de preposto] deverão estar expressos e quantificados na planilha de preços [...] A ausência de previsão desses custos na planilha será interpretada como compreensão, por parte do licitante, de que tais despesas estão integralmente incluídas nos preços ofertados."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: contradicao
+  descricao_breve: "Comando interno contraditório: exige que os custos de preposto estejam 'expressos e quantificados' na planilha, mas ao mesmo tempo tolera a ausência (interpretada como custo incluído) — insegurança sobre se a omissão pode motivar desclassificação"
+  dispositivo_legal: "art. 25, caput, e art. 59, inciso IV, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E1-020"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E1-014
+  dispositivo_editalicio: "Item 9.1.2.2 do Edital"
+  transcricao: "Indicação da marca do produto cotado, observadas as especificações do memorial descritivo, constante do Anexo I deste Edital, sob pena de desclassificação."
+  tipo_achado: IRREGULAR
+  categoria: erro_material
+  descricao_breve: "Exigência de indicação de 'marca do produto' sob pena de desclassificação em licitação cujo objeto é prestação de serviços — cláusula-padrão de compras inaplicável ao objeto, apta a gerar desclassificação sem amparo"
+  dispositivo_legal: "art. 9.º, inciso I, alínea 'a', e art. 5.º da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E1-046"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E1-015
+  dispositivo_editalicio: "Itens 10.3 e 10.4 do Edital"
+  transcricao: "mediante a consulta aos seguintes cadastros: 10.3.1. Cadastro Nacional de Empresas Inidôneas e Suspensas - CEIS [...] 10.3.2. Cadastro Nacional de Empresas Punidas – CNEP [...] 10.3.3 Apenados na base de dados do TCE-SP"
+  tipo_achado: CONFORME
+  categoria: omissao
+  descricao_breve: "Verificação de sanções impeditivas do primeiro classificado em cadastros oficiais (CEIS, CNEP, apenados TCE-SP) como condição de participação"
+  dispositivo_legal: "art. 14, inciso III, c/c art. 156, §§ 4.º e 5.º, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E1-016"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E1-016
+  dispositivo_editalicio: "Item 10.3.2 do Edital"
+  transcricao: "Cadastro Nacional de Empresas Punidas – CNEP, mantido pela Controladoria-Geral da União (https://www.portaltransparencia.gov.br/sancoes/ceis)"
+  tipo_achado: IRREGULAR
+  categoria: erro_material
+  descricao_breve: "Endereço eletrônico indicado para o CNEP é o mesmo do CEIS (/sancoes/ceis) — erro material de remissão de URL"
+  dispositivo_legal: "art. 25, caput, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E1-015"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E1-017
+  dispositivo_editalicio: "Item 10.5.3 do Edital c/c item 9.1 do Anexo I (TR)"
+  transcricao: "apresentar preços inexequíveis ou permanecerem acima do preço máximo definido para a contratação [TR 9.1: custo estimado total R$ 9.193.852,80; nota: 'Os itens 2 e 3 são mutuamente excludentes e sucessivos [...] vedada a cumulatividade de faturamento entre ambos']"
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: contradicao
+  descricao_breve: "O 'preço máximo definido para a contratação' não é parametrizado de forma unívoca: o valor estimado global (R$ 9.193.852,80) soma itens mutuamente excludentes (2 e 3), enquanto o 'valor máximo anual efetivamente executável' usado noutras cláusulas é de R$ 7.087.603,20 (itens 1+3+4) — ambiguidade sobre qual teto baliza a desclassificação por preço e o julgamento por lote"
+  dispositivo_legal: "art. 59, inciso III, c/c art. 24, caput, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E1-021", "E1-064", "E2:TR-9.1", "E4:planilha-itens"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E1-018
+  dispositivo_editalicio: "Item 10.6 do Edital"
+  transcricao: "No caso de bens e serviços em geral, é indício de inexequibilidade das propostas valores inferiores a 50% (cinquenta por cento) do valor orçado pela Administração."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: contradicao
+  descricao_breve: "Edital adota parâmetro de inexequibilidade de 'bens e serviços em geral' (50% como indício, com diligência prévia), mas trata a qualificação técnica com registro CREA/CAT típica de serviço de engenharia — se o objeto for qualificado como serviço (comum) de engenharia, o parâmetro legal é o de 75% do valor orçado"
+  dispositivo_legal: "art. 59, § 4.º, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E1-001", "E1-054", "E1-055"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E1-019
+  dispositivo_editalicio: "Item 10.6.2 do Edital"
+  transcricao: "Propostas com preços unitários manifestamente inexequíveis ou excessivos em qualquer item relevante poderão ser desclassificadas, ainda que o valor global se situe abaixo do orçamento estimado"
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: omissao
+  descricao_breve: "Desclassificação por preço unitário 'manifestamente inexequível ou excessivo' sem fixação de critério objetivo (percentual de tolerância por item) — margem de discricionariedade sem parâmetro editalício"
+  dispositivo_legal: "art. 59, incisos III e IV e §§ 2.º e 3.º, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E1-017", "E4:planilha-itens"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E1-020
+  dispositivo_editalicio: "Item 10.8 c/c item 10.6.2 do Edital"
+  transcricao: "Caso o custo global estimado do objeto licitado tenha sido decomposto em seus respectivos custos unitários por meio de Planilha de Custos e Formação de Preços elaborada pela Administração, o licitante classificado em primeiro lugar será convocado para apresentar Planilha por ele elaborada [10.6.2: 'uma vez que a Planilha de Cotação discrimina o preço unitário de cada item']"
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: contradicao
+  descricao_breve: "Item 10.8 trata a existência de planilha de custos como hipotética ('caso... tenha sido decomposto'), enquanto o item 10.6.2 afirma que a Planilha de Cotação discrimina preços unitários — indefinição sobre a obrigatoriedade e o formato da planilha exigível do primeiro classificado"
+  dispositivo_legal: "art. 25, caput, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E1-013", "E2:TR-7", "E4:planilha-itens"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E1-021
+  dispositivo_editalicio: "Itens 10.11 e 10.11.1 do Edital c/c item 9.1 do Anexo I (TR)"
+  transcricao: "O valor estimado ou o valor máximo aceitável para a contratação, se não constar expressamente do edital, possuirá caráter sigiloso [...] será tornado público apenas e imediatamente após o encerramento do envio de lances [TR 9.1 divulga: R$ 9.193.852,80]"
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: "Cláusula de orçamento sigiloso convive com a divulgação expressa do valor estimado no TR (Anexo I, item 9.1) e com o capital mínimo calculado sobre o valor executável (Anexo II, 1.4.2) — contradição redacional; o sigilo é inoperante e a manutenção do texto gera dúvida sobre o caráter vinculante do orçamento"
+  dispositivo_legal: "art. 24, caput, da Lei n.º 14.133/2021 (sigilo exige justificativa e não se presume); art. 25, caput, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E1-017", "E1-063", "E2:TR-9.1"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E1-022
+  dispositivo_editalicio: "Itens 11.10 a 11.10.6 do Edital"
+  transcricao: "A etapa de envio de lances da sessão pública terá duração de quinze minutos [...] transcorrido o período de até dez minutos, aleatoriamente determinado [...] o autor da oferta de valor mais baixo e os autores das ofertas com valores até dez por cento superiores àquela, possam ofertar um lance final e fechado em até cinco minutos"
+  tipo_achado: CONFORME
+  categoria: omissao
+  descricao_breve: "Procedimento do modo de disputa aberto e fechado (15 min + encerramento aleatório de até 10 min + lance final fechado de 5 min para o melhor e os até 10% superiores, com regras de repescagem) descrito de forma completa e compatível com a combinação de modos prevista em lei"
+  dispositivo_legal: "art. 56, caput, incisos I e II, da Lei n.º 14.133/2021"
+  referencias_cruzadas: []
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E1-023
+  dispositivo_editalicio: "Item 11.11 do Edital"
+  transcricao: "Não se aplicarão as disposições constantes dos arts. 42 a 49 da Lei Complementar nº 123, de 14 de dezembro de 2006. devido o valor estimado da contratação superar o limite de enquadramento para empresa de pequeno porte, nos termos do §1º do art. 4º da Lei nº 14.133/2021."
+  tipo_achado: CONFORME
+  categoria: omissao
+  descricao_breve: "Afastamento dos benefícios da LC 123/2006 amparado no valor estimado (R$ 9.193.852,80 anual; executável R$ 7.087.603,20) superior à receita bruta máxima de EPP (R$ 4,8 milhões) — fundamento legal correto"
+  dispositivo_legal: "art. 4.º, § 1.º, da Lei n.º 14.133/2021 c/c art. 3.º, inciso II, da LC n.º 123/2006"
+  referencias_cruzadas: ["E1-024"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E1-024
+  dispositivo_editalicio: "Item 11.11 do Edital c/c itens 1.2.3, 1.2.3.1 e 1.2.3.2 do Anexo II"
+  transcricao: "[11.11: Não se aplicarão os arts. 42 a 49 da LC 123] vs. [Anexo II 1.2.3.1: 'Havendo restrição na comprovação, serão assegurados 05 (cinco) dias úteis para regularização... nos termos do artigo 43, § 2º, da Lei Complementar n.º 123']"
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: "Contradição interna: o corpo do edital afasta expressamente os arts. 42 a 49 da LC 123/2006, mas o Anexo II assegura a ME/EPP/MEI o prazo de regularização fiscal tardia dos arts. 42-43 da mesma lei — regimes incompatíveis convivendo no mesmo instrumento convocatório"
+  dispositivo_legal: "art. 4.º, § 1.º, da Lei n.º 14.133/2021 c/c arts. 42 e 43 da LC n.º 123/2006; art. 25, caput, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E1-023", "E1-048", "E1-052"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E1-025
+  dispositivo_editalicio: "Itens 11.12, 11.12.1 e 11.12.2 do Edital"
+  transcricao: "Havendo eventual empate entre propostas ou lances, o critério de desempate será aquele previsto no art. 60 da Lei nº 14.133/2021. [...] Persistindo o empate, será aplicado o disposto no §1º do art. 60"
+  tipo_achado: CONFORME
+  categoria: omissao
+  descricao_breve: "Critérios de desempate remetidos integralmente ao regime legal (art. 60 e § 1.º), coerente com o afastamento do empate ficto da LC 123 declarado no item 11.11"
+  dispositivo_legal: "art. 60, caput e § 1.º, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E1-023"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E1-026
+  dispositivo_editalicio: "Item 11.14.1 do Edital"
+  transcricao: "O licitante terá o prazo de 2h. (duas horas), prorrogável por igual período, contado da solicitação do Pregoeiro no sistema, para envio da proposta adequada e os documentos de habilitação exigidos no Anexo II"
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: restricao_competitividade
+  descricao_breve: "Prazo de 2 horas (prorrogável por mais 2, inclusive de ofício) para envio simultâneo de proposta adequada e de todo o acervo de habilitação (atestados registrados, CATs, balanços com memorial de cálculo) — exiguidade potencial frente ao volume documental de contratação de grande porte"
+  dispositivo_legal: "art. 5.º (razoabilidade) e art. 12, inciso III, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E1-027", "E1-055", "E1-059", "E1-066"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E1-027
+  dispositivo_editalicio: "Itens 12.1.3, 12.1.6 e 12.1.7 do Edital"
+  transcricao: "O licitante declarará, em campo próprio do sistema, o cumprimento dos requisitos para a habilitação [...] A proposta adequada e os documentos de habilitação exigidos no anexo II deste edital do licitante vencedor, serão encaminhadas após o encerramento do envio de lances"
+  tipo_achado: CONFORME
+  categoria: omissao
+  descricao_breve: "Exigência dos documentos de habilitação apenas do licitante vencedor, após a fase de lances, precedida de declaração eletrônica de cumprimento dos requisitos — regime legal da habilitação posterior ao julgamento"
+  dispositivo_legal: "art. 63, incisos I e II, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E1-026"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E1-028
+  dispositivo_editalicio: "Item 14.1.1 do Edital"
+  transcricao: "A impugnação contra o presente Edital deverá ser realizada exclusivamente na página eletrônica da Bolsa de Licitações e leilões (bllcompras.com)."
+  tipo_achado: IRREGULAR
+  categoria: ilegalidade
+  descricao_breve: "Canal exclusivo de impugnação via plataforma privada que exige cadastro/credenciamento condiciona o exercício do direito de impugnar, legalmente assegurado a 'qualquer pessoa' (inclusive cidadão não licitante), e destoa do canal de e-mail admitido para consultas (item 4.1)"
+  dispositivo_legal: "art. 164, caput, da Lei n.º 14.133/2021; art. 5.º, inciso XXXIV, alínea 'a', da CF/1988 (direito de petição)"
+  referencias_cruzadas: ["E1-005"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E1-029
+  dispositivo_editalicio: "Itens 14.1.2, 14.1.3 e 14.1.4 do Edital"
+  transcricao: "A impugnação não possui efeito suspensivo [...] A concessão de efeito suspensivo à impugnação é medida excepcional e será motivada pelo Pregoeiro [...] Acolhida a impugnação contra o edital, será definida e publicada nova data para realização do certame."
+  tipo_achado: CONFORME
+  categoria: omissao
+  descricao_breve: "Disciplina do efeito da impugnação (regra sem efeito suspensivo, concessão excepcional motivada, redesignação de data em caso de acolhimento) compatível com o regime legal e a devolução de prazos"
+  dispositivo_legal: "art. 164, caput e parágrafo único, c/c art. 55, § 1.º, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E1-003"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E1-030
+  dispositivo_editalicio: "Item 14.2.1 do Edital"
+  transcricao: "Declarado o vencedor o Pregoeiro anunciará formalmente a abertura da fase recursal, abrindo prazo de (5 min.) cinco minutos, durante o qual qualquer licitante poderá manifestar a intenção de interpor recurso, imediata"
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: restricao_competitividade
+  descricao_breve: "Janela de apenas 5 minutos para manifestação da intenção recursal em sessão eletrônica — operacionalização do 'imediatamente' legal cuja exiguidade pode cercear o direito recursal se a sessão não for previamente comunicada com clareza"
+  dispositivo_legal: "art. 165, inciso I e § 1.º, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E1-031"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E1-031
+  dispositivo_editalicio: "Itens 14.2.1.1 a 14.2.1.3, 14.3, 14.5 e 14.6 do Edital"
+  transcricao: "Será concedido o prazo de 03 (três) dias úteis ao licitante que se manifestar, para apresentar as razões do recurso [...] ficando os demais licitantes, desde logo, intimados para, querendo, apresentarem contrarrazões [...] em outros 03 (três) dias úteis, que começarão a contar ao término do prazo do recorrente"
+  tipo_achado: CONFORME
+  categoria: omissao
+  descricao_breve: "Fase recursal única após declaração do vencedor, razões em 3 dias úteis e contrarrazões em igual prazo contado do término do prazo do recorrente, preclusão pela não manifestação imediata e aproveitamento dos atos — desenho compatível com o regime legal do recurso"
+  dispositivo_legal: "art. 165, inciso I e §§ 1.º a 4.º, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E1-030", "E1-032"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E1-032
+  dispositivo_editalicio: "Item 14.4 do Edital"
+  transcricao: "após transcorridos os prazos constantes do item 1.2.4. do Anexo II, se for o caso, a Autoridade Competente fará a adjudicação do objeto"
+  tipo_achado: IRREGULAR
+  categoria: erro_material
+  descricao_breve: "Remissão a item inexistente: o Anexo II não possui item 1.2.4 (a numeração da regularidade fiscal encerra em 1.2.3.2); a referência pretendida aparenta ser o prazo de regularização do item 1.2.3.1"
+  dispositivo_legal: "art. 25, caput, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E1-024", "E1-044"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E1-033
+  dispositivo_editalicio: "Item 20.1, alínea 'g', do Edital"
+  transcricao: "Não contratar, durante a vigência do contrato, cônjuge, companheiro ou parente em linha reta, colateral ou por afinidade, até o terceiro grau, de dirigente do contratante ou do fiscal ou gestor do contrato, nos termos do artigo 48, parágrafo único, da Lei nº 14.133, de 2021"
+  tipo_achado: CONFORME
+  categoria: omissao
+  descricao_breve: "Vedação de contratação de parentes de dirigentes, fiscal e gestor reproduz a norma legal antinepotismo na execução contratual"
+  dispositivo_legal: "art. 48, parágrafo único, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E1-041"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E1-034
+  dispositivo_editalicio: "Item 20.1, alínea 'hh', do Edital"
+  transcricao: "Instruir seus empregados, no início da execução contratual, quanto à obtenção das informações de seus interesses junto aos órgãos públicos [...] adotando, entre outras, as seguintes medidas: [segue diretamente a alínea 'ii', sobre protocolos]"
+  tipo_achado: IRREGULAR
+  categoria: erro_material
+  descricao_breve: "Cláusula truncada: a alínea 'hh' anuncia rol de medidas ('as seguintes medidas:') que não existe no texto — a lista foi suprimida na edição do edital"
+  dispositivo_legal: "art. 25, caput, da Lei n.º 14.133/2021"
+  referencias_cruzadas: []
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E1-035
+  dispositivo_editalicio: "Item 20.1, alínea 'cc', c/c item 20.2, alínea 'e', terceiro marcador, do Edital"
+  transcricao: "Efetuar o pagamento dos salários dos empregados [...] mediante depósito na conta bancária de titularidade do trabalhador, em agência situada na localidade em que ocorre a prestação dos serviços [...] Fixação de domicílio bancário dos empregados terceirizados no Município de Porto Ferreira."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: ilegalidade
+  descricao_breve: "Imposição de domicílio bancário dos empregados no município da prestação — medida de conferência de pagamentos lastreada no TAC 088/2014, mas que interfere na gestão interna da contratada e na liberdade de escolha bancária do trabalhador (portabilidade salarial); há válvula de escape mediante justificativa aceita pela Administração"
+  dispositivo_legal: "art. 48, caput, da Lei n.º 14.133/2021 (vedação de ingerência na administração do contratado)"
+  referencias_cruzadas: ["E1-004", "E1-041", "E3:minuta-obrigacoes"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E1-036
+  dispositivo_editalicio: "Item 20.2, alínea 'b', do Edital"
+  transcricao: "autorizar a abertura de conta vinculada a ao futuro contrato, nos termos das Instruções Normativas n.02 e 03 do Ministério do Planejamento, na qual serão feitas as provisões para o pagamento de férias, 13º salário e rescisão contratual"
+  tipo_achado: IRREGULAR
+  categoria: erro_material
+  descricao_breve: "Conta vinculada fundada em 'Instruções Normativas n. 02 e 03 do Ministério do Planejamento' sem indicação de ano e aparentemente revogadas (a IN SLTI/MP n.º 2/2008 foi revogada pela IN SEGES/MP n.º 5/2017), normas federais não autoaplicáveis ao município — fundamento normativo desatualizado; a base vigente é a lei de licitações e o regulamento local"
+  dispositivo_legal: "art. 121, § 3.º, da Lei n.º 14.133/2021 (base legal atual da conta vinculada em serviços contínuos com dedicação exclusiva de mão de obra)"
+  referencias_cruzadas: ["E1-004", "E3:minuta-obrigacoes"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E1-037
+  dispositivo_editalicio: "Item 20.2, alínea 'c', do Edital"
+  transcricao: "autorizar o repasse direto aos trabalhadores da remuneração mensal não paga pela empresa adjudicatária, quando houver retenção de faturas por inadimplência ou não apresentação de certidões"
+  tipo_achado: CONFORME
+  categoria: omissao
+  descricao_breve: "Previsão de pagamento direto aos trabalhadores em caso de inadimplência trabalhista da contratada, mecanismo admitido para serviços contínuos com dedicação exclusiva de mão de obra"
+  dispositivo_legal: "art. 121, § 3.º, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E1-036", "E3:minuta-pagamento"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E1-038
+  dispositivo_editalicio: "Item 20.2, alínea 'd', do Edital c/c item 4.8 do Anexo I (TR)"
+  transcricao: "prestar garantia de execução correspondente a 5% (cinco por cento) do valor anual da contratação, considerando como base de cálculo o valor máximo efetivamente executável, ou seja, o resultado da soma dos itens 1 [...], 3 [...] e 4 [...], a fim de assegurar as obrigações trabalhistas, fiscais e previdenciárias de qualquer natureza não horadas pela futura contratada"
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: "Garantia de execução de 5% sobre o valor ANUAL executável (≈1% do valor plurianual) — abaixo do teto legal de 5% do valor inicial do contrato — com finalidade textualmente restrita a verbas trabalhistas/fiscais/previdenciárias; conferir compatibilização com o TR 4.8 (que remete genericamente aos arts. 96 e seguintes) e cobertura de demais inadimplementos contratuais"
+  dispositivo_legal: "art. 96, art. 98 e art. 100 da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E1-064", "E2:TR-4.8", "E3:minuta-garantia"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E1-039
+  dispositivo_editalicio: "Item 20.2, alínea 'e', primeiro marcador, do Edital"
+  transcricao: "providenciar, no prazo máximo de 30 (trinta) dias a contar da assinatura do contrato ou da emissão da Ordem de Serviços: Abertura e manutenção de sede, filial ou escritório no local da prestação de serviços com capacidade operacional para receber e solucionar qualquer demanda da Administração Pública, bem como realizar todos os procedimentos pertinentes à seleção, treinamento, admissão e demissão dos empregados."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: restricao_competitividade
+  descricao_breve: "Exigência de sede/filial/escritório local imposta apenas na fase de execução (30 dias da assinatura/OS), não como requisito de habilitação — a razoabilidade do prazo de 30 dias para estrutura com plenas funções de RH depende de avaliação operacional"
+  dispositivo_legal: "art. 5.º e art. 9.º, inciso I, alínea 'a', da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E3:minuta-obrigacoes"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E1-040
+  dispositivo_editalicio: "Item 20.2, alínea 'e', segundo marcador, do Edital"
+  transcricao: "Cartão Cidadão expedido pela Caixa Econômica Federal (CEF) e senha para acesso ao Extrato de Informações Previdenciárias para todos os empregados que vier a contratar."
+  tipo_achado: IRREGULAR
+  categoria: ilegalidade
+  descricao_breve: "Obrigação de providenciar Cartão Cidadão e SENHA de acesso a extrato previdenciário de todos os empregados — tratamento de dados pessoais e credenciais de titularidade dos trabalhadores que extrapola a necessidade da fiscalização contratual e o desenho legal de conferência documental"
+  dispositivo_legal: "art. 6.º, incisos I a III, e art. 7.º da Lei n.º 13.709/2018 (LGPD); art. 48, caput, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E1-004", "E1-035", "E3:minuta-obrigacoes", "E2:TR-LGPD"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E1-041
+  dispositivo_editalicio: "Item 21.1, alínea 'h', do Edital"
+  transcricao: "Não praticar atos de ingerência na administração do contratado, tais como (art. 48 da Lei n.º 14.133/2021): indicar pessoas expressamente nominadas [...] prever exigências que constituam intervenção indevida da Administração na gestão interna do contratado."
+  tipo_achado: CONFORME
+  categoria: omissao
+  descricao_breve: "Reprodução das vedações legais de ingerência na administração do contratado — a ser cotejada com as exigências de domicílio bancário e senha de empregados que o próprio edital impõe (tensão interna)"
+  dispositivo_legal: "art. 48, caput, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E1-035", "E1-040"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E1-042
+  dispositivo_editalicio: "Item 21.1, alíneas 'k' e 'l', do Edital"
+  transcricao: "a Administração terá o prazo de até 30 dias, a contar da data do protocolo do requerimento para decidir, admitida a prorrogação motivada, por igual período. [...] Responder eventuais pedidos de reestabelecimento do equilíbrio econômico-financeiro feitos pelo contratado no prazo máximo de até 30 dias."
+  tipo_achado: CONFORME
+  categoria: omissao
+  descricao_breve: "Prazo de 30 dias (prorrogável) para decidir solicitações, inclusive pedidos de reequilíbrio econômico-financeiro, espelha o prazo legal de 1 mês"
+  dispositivo_legal: "art. 123, caput e parágrafo único, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E3:minuta-reequilibrio"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E1-043
+  dispositivo_editalicio: "Itens 22.1 a 22.14 do Edital"
+  transcricao: "A multa será recolhida em percentual de 0,5% a 30% incidente sobre o valor do contrato licitado [...] impedimento de licitar e contratar [...] pelo prazo máximo de 3 (três) anos [...] processo de responsabilização a ser conduzido por comissão composta por 2 (dois) ou mais servidores estáveis [...] recurso [...] efeito suspensivo"
+  tipo_achado: CONFORME
+  categoria: omissao
+  descricao_breve: "Regime sancionatório (tipos infracionais, dosimetria, faixas de multa de 0,5%-30% e 15%-30% para infrações graves, impedimento até 3 anos, inidoneidade com processo por comissão de 2+ servidores estáveis, defesa em 15 dias úteis, recurso com efeito suspensivo) reproduz o regime legal"
+  dispositivo_legal: "arts. 155, 156, §§ 3.º a 5.º, 157, 158, 166 e 167 da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E1-044", "E1-045"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E1-044
+  dispositivo_editalicio: "Item 22.8 do Edital"
+  transcricao: "bem como pelas infrações administrativas previstas nos itens 12.1.1, 22.1.2 e 22.1.3 que justifiquem a imposição de penalidade mais grave"
+  tipo_achado: IRREGULAR
+  categoria: erro_material
+  descricao_breve: "Remissão equivocada ao 'item 12.1.1' (que trata do envio de propostas pelo sistema) quando o contexto indica o item 22.1.1 (deixar de entregar documentação) — erro material que compromete a tipicidade da remissão sancionatória"
+  dispositivo_legal: "art. 156, § 3.º, da Lei n.º 14.133/2021 c/c art. 25, caput, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E1-032", "E1-043"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E1-045
+  dispositivo_editalicio: "Item 22.9 do Edital"
+  transcricao: "A recusa injustificada do adjudicatário em assinar o contrato [...] o sujeitará às penalidades e à imediata perda da garantia de proposta em favor do órgão ou entidade promotora da licitação, nos termos do art. 43, §4º do Decreto Municipal nº 2.708, de 15/02/2024"
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: "Previsão de perda de 'garantia de proposta' que o edital em nenhum momento exigiu — a garantia de proposta é facultativa e depende de previsão editalícia expressa no momento da apresentação das propostas; cláusula inoperante remetida a decreto municipal"
+  dispositivo_legal: "art. 58, caput e § 1.º, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E1-043"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E1-046
+  dispositivo_editalicio: "Itens 22.1.2.4, 22.1.2.5 e 22.1.6.3 do Edital"
+  transcricao: "deixar de apresentar amostra; [...] apresentar proposta ou amostra em desacordo com as especificações do edital; [...] apresentar amostra falsificada ou deteriorada"
+  tipo_achado: IRREGULAR
+  categoria: erro_material
+  descricao_breve: "Tipos infracionais referentes a 'amostra' em certame de prestação de serviços sem qualquer previsão de amostra — cláusula-padrão de compras estranha ao objeto"
+  dispositivo_legal: "art. 155, incisos III e VIII, c/c art. 25, caput, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E1-014"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E1-047
+  dispositivo_editalicio: "Itens 23.1 e 23.1.1 do Edital"
+  transcricao: "O Pregoeiro poderá, no julgamento da habilitação e das propostas, sanar erros ou falhas que não alterem a substância das propostas, dos documentos e sua validade jurídica, mediante decisão fundamentada [...] a sessão pública somente poderá ser reiniciada mediante aviso prévio no sistema com, no mínimo, (24h.) vinte e quatro horas de antecedência"
+  tipo_achado: CONFORME
+  categoria: omissao
+  descricao_breve: "Saneamento de erros formais em propostas e habilitação mediante decisão fundamentada registrada em ata, com reinício da sessão precedido de aviso de 24h — compatível com o dever de saneamento e a diligência"
+  dispositivo_legal: "art. 64, § 1.º, c/c art. 12, inciso III, da Lei n.º 14.133/2021"
+  referencias_cruzadas: []
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E1-048
+  dispositivo_editalicio: "Item 26.1 do Edital"
+  transcricao: "Em caso de divergência entre disposições deste Edital e de seus anexos ou demais peças que compõem o processo, prevalecerá as deste Edital."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: contradicao
+  descricao_breve: "Cláusula de prevalência do corpo do edital sobre os anexos que, combinada com as contradições internas detectadas (ex.: item 11.11 vs. Anexo II 1.2.3 sobre LC 123), pode ser invocada para suprimir direitos previstos apenas nos anexos"
+  dispositivo_legal: "art. 25, caput, da Lei n.º 14.133/2021 (vinculação ao edital e coerência interna do instrumento convocatório)"
+  referencias_cruzadas: ["E1-024"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E1-049
+  dispositivo_editalicio: "Item 26.15 do Edital"
+  transcricao: "Os casos não previstos neste edital serão decididos pelo PREGOEIRO."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: omissao
+  descricao_breve: "Atribuição genérica ao pregoeiro da decisão de todos os casos omissos, sem ressalva das competências da autoridade superior (adjudicação, homologação, revogação/anulação, sanções mais graves)"
+  dispositivo_legal: "art. 8.º, caput, e art. 71 da Lei n.º 14.133/2021"
+  referencias_cruzadas: []
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E1-050
+  dispositivo_editalicio: "Preâmbulo (regime continuado) c/c item 16.1 do Edital"
+  transcricao: "REGIME DE EXECUÇÃO: CONTINUADO [...] O contrato terá vigência conforme estabelecido no Anexo I – Termo de Referência. [Vigência de 60 meses conforme identificação do certame]"
+  tipo_achado: CONFORME
+  categoria: omissao
+  descricao_breve: "Vigência de 60 meses para serviço contínuo situa-se no limite legal de 5 anos; requisitos de vantajosidade e previsão orçamentária devem constar do processo (verificação na esfera do TR)"
+  dispositivo_legal: "art. 106, caput e incisos, e art. 107 da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E2:TR-11"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E1-051
+  dispositivo_editalicio: "Itens 1.1.1 a 1.1.6 do Anexo II"
+  transcricao: "registro comercial [...] ato constitutivo, estatuto ou contrato social em vigor [...] deles deverá constar, entre os objetivos sociais, a execução de atividades da mesma natureza ou compatível com objeto desta licitação [...] comprovação de compromisso público de constituição de consórcio"
+  tipo_achado: CONFORME
+  categoria: omissao
+  descricao_breve: "Habilitação jurídica limitada à comprovação de existência da pessoa jurídica, compatibilidade do objeto social e, para consórcios, compromisso de constituição — aderente ao regime legal"
+  dispositivo_legal: "art. 66 c/c art. 15, § 3.º, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E1-009"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E1-052
+  dispositivo_editalicio: "Itens 1.2.1 a 1.2.2.1 do Anexo II"
+  transcricao: "Provas de inscrição: a) no CNPJ/MF; b) no cadastro de contribuintes municipal [...] Provas de regularidade [...] a) aos tributos federais, neles abrangidas as contribuições sociais [...] b) aos tributos mobiliários - ISSQN [...] c) ao FGTS [...] d) à Justiça do Trabalho (CNDT)"
+  tipo_achado: CONFORME
+  categoria: omissao
+  descricao_breve: "Regularidade fiscal e trabalhista restrita aos tributos pertinentes ao objeto de serviços (federal, ISSQN municipal, FGTS, CNDT), sem exigência de Fazenda Estadual — modulação admitida pela conjunção 'e/ou' legal"
+  dispositivo_legal: "art. 68, incisos I a V, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E1-024"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E1-053
+  dispositivo_editalicio: "Item 1.3.1 do Anexo II c/c item 4.12 do Anexo I (TR) e Anexo VI"
+  transcricao: "declaração de conhecimento das condições de execução em que a os serviços serão executados fls 3/3 do Anexo VI ou caso a empresa opte pela realização da 'Visita Técnica', deverá apresentar a fls 2/3 do Anexo VI, comprovando a realização da Vistoria"
+  tipo_achado: CONFORME
+  categoria: omissao
+  descricao_breve: "Visita técnica facultativa, substituível por declaração de conhecimento das condições locais (TR 4.12.1 confirma vistoria opcional às expensas da proponente) — desenho alinhado à orientação consolidada sobre vistoria"
+  dispositivo_legal: "art. 67, inciso VI, da Lei n.º 14.133/2021; Súmula n.º 272 do TCU"
+  referencias_cruzadas: ["E2:TR-4.12"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E1-054
+  dispositivo_editalicio: "Item 1.3.2 do Anexo II"
+  transcricao: "Certidões de registro ou inscrições da pessoa jurídica e dos profissionais do seu quadro técnico na Conselho Regional de Engenharia e Agronomia – CREA ou conselho profissional competente, em plena validade."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: omissao
+  descricao_breve: "Exigência de registro no CREA da empresa E 'dos profissionais do seu quadro técnico' sem delimitar quais profissionais (todos? apenas os responsáveis técnicos indicados?) — indeterminação que pode ampliar indevidamente a exigência na fase de habilitação"
+  dispositivo_legal: "art. 67, incisos I e V, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E1-001", "E1-018", "E1-060"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E1-055
+  dispositivo_editalicio: "Item 1.3.3 do Anexo II"
+  transcricao: "atestado(s) de Capacidade Técnica em nome da empresa, fornecido por pessoa jurídica de direito público ou privado, devidamente registrado na Entidade Profissional Competente, onde se comprove a execução pela licitante de serviços compatíveis e semelhantes ao objeto (Súmula 24 do TCESP)"
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: restricao_competitividade
+  descricao_breve: "Exigência de que o atestado técnico-OPERACIONAL (em nome da empresa) esteja 'devidamente registrado na Entidade Profissional Competente' — condição de registro cuja exigibilidade para atestados da pessoa jurídica é controvertida (a Súmula 24 do TCE-SP menciona registro; a lei o condiciona a 'quando for o caso')"
+  dispositivo_legal: "art. 67, inciso II, da Lei n.º 14.133/2021; Súmula n.º 24 do TCE-SP"
+  referencias_cruzadas: ["E1-056", "E1-059"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E1-056
+  dispositivo_editalicio: "Item 1.3.3, alíneas 'a' e 'b', e item 1.3.3.1 do Anexo II"
+  transcricao: "Itens de maior relevância: a) Coleta e transporte de resíduos sólidos urbanos (Classe IIA) – 520 toneladas/mês; b) Operação de aterro sanitário de resíduos sólidos urbanos (Classe IIA) – 520 toneladas/mês; [...] poderá ser efetuada pelo somatório das quantidades realizadas em tantos atestados ou certidões quanto dispuser o licitante, desde que executados dentro de um mesmo período de tempo"
+  tipo_achado: CONFORME
+  categoria: restricao_competitividade
+  descricao_breve: "Quantitativos mínimos de 520 t/mês equivalem a exatos 50% da demanda estimada (12.480 t/ano = 1.040 t/mês) — calibrados no teto máximo admitido em lei e na faixa da Súmula 24; admitido somatório de atestados concomitantes"
+  dispositivo_legal: "art. 67, §§ 1.º e 2.º, da Lei n.º 14.133/2021; Súmula n.º 24 do TCE-SP"
+  referencias_cruzadas: ["E1-055", "E1-057", "E2:TR-tonelagem", "E4:planilha-itens"]
+  flag_tecnico: true
+  flag_reserva: true
+
+- id: E1-057
+  dispositivo_editalicio: "Item 1.3.3, alínea 'b', do Anexo II c/c itens 2 e 3 do quadro do TR 9.1"
+  transcricao: "b) Operação de aterro sanitário de resíduos sólidos urbanos (Classe IIA) – 520 toneladas/mês [TR: item 2 = destinação em aterro licenciado no Município, encerrado o qual inicia-se o item 3 em outro município]"
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: restricao_competitividade
+  descricao_breve: "Exigência de experiência em OPERAÇÃO DE ATERRO como segunda parcela de maior relevância, quando a operação do aterro municipal (item 2) é fase transitória, excluída do 'valor máximo anual efetivamente executável' — a pertinência e o peso da parcela dependem da vida útil remanescente do aterro municipal e do valor relativo do item 2 (R$ 2.106.249,60/ano ≈ 23% do estimado global); exigência cumulada (coleta + aterro) restringe o certame a operadores verticalizados"
+  dispositivo_legal: "art. 67, § 1.º, da Lei n.º 14.133/2021 (parcela de maior relevância e valor significativo ≥ 4%)"
+  referencias_cruzadas: ["E1-002", "E1-056", "E1-064", "E2:TR-9.1", "E4:planilha-itens"]
+  flag_tecnico: true
+  flag_reserva: true
+
+- id: E1-058
+  dispositivo_editalicio: "Item 1.3.3.2 do Anexo II"
+  transcricao: "A empresa licitante deverá comprovar, para os itens de maior relevância, que já prestou serviços – de maneira ininterrupta ou não – de ao menos 36 meses."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: restricao_competitividade
+  descricao_breve: "Exigência de tempo mínimo de experiência (36 meses) nas parcelas de relevância — a lei veda 'limitações de tempo' relativas aos atestados, havendo controvérsia sobre se a vedação alcança a exigência de duração mínima de experiência admitida na praxe de serviços contínuos"
+  dispositivo_legal: "art. 67, § 2.º, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E1-056"]
+  flag_tecnico: false
+  flag_reserva: true
+
+- id: E1-059
+  dispositivo_editalicio: "Item 1.3.4 do Anexo II"
+  transcricao: "Atestado(s) ou Certidão(ões) de Capacitação técnica em nome do profissional [...] acompanhando(s) da(s) Certidão(ões) de Acervo(s) Técnico(s) (CAT) [...] que façam explícita referência às parcelas de maior relevância, abaixo explicitadas (Súmula 23 do TCESP): Itens de maior relevância: a) Coleta e transporte [...] – 520 toneladas/mês; b) Operação de aterro sanitário [...] – 520 toneladas/mês"
+  tipo_achado: IRREGULAR
+  categoria: restricao_competitividade
+  descricao_breve: "Vinculação da capacitação técnico-PROFISSIONAL (CAT) a parcelas de relevância expressas com quantitativos mínimos (520 t/mês) — a qualificação do profissional restringe-se à comprovação de responsabilidade técnica por serviço de características semelhantes, sem imposição de quantitativos mínimos, e a própria Súmula 23 do TCE-SP invocada pelo edital trata da CAT sem autorizar quantitativos"
+  dispositivo_legal: "art. 67, inciso I, e § 2.º (a contrario sensu — quantitativos mínimos são próprios dos atestados da empresa), da Lei n.º 14.133/2021; Súmula n.º 23 do TCE-SP [VIT — conferir teor no portal do TCE-SP na Fase 2]"
+  referencias_cruzadas: ["E1-055", "E1-056"]
+  flag_tecnico: false
+  flag_reserva: true
+
+- id: E1-060
+  dispositivo_editalicio: "Item 1.3.4, Obs., c/c item 1.5.1, parte final, do Anexo II"
+  transcricao: "A comprovação do vínculo empregatício dos profissionais será apresentada por ocasião da assinatura do contrato, caso a proponente sagre-se vencedora, conforme Súmula nº 25 do TCESP."
+  tipo_achado: CONFORME
+  categoria: omissao
+  descricao_breve: "Diferimento da comprovação do vínculo do responsável técnico para a assinatura do contrato — medida pró-competitiva alinhada à súmula invocada"
+  dispositivo_legal: "art. 67, inciso I, da Lei n.º 14.133/2021; Súmula n.º 25 do TCE-SP"
+  referencias_cruzadas: ["E1-054", "E1-069"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E1-061
+  dispositivo_editalicio: "Item 1.3.5 do Anexo II"
+  transcricao: "No caso de consórcio de empresas, a habilitação técnica será feita por meio do somatório dos quantitativos de cada consorciado."
+  tipo_achado: CONFORME
+  categoria: omissao
+  descricao_breve: "Somatório de quantitativos técnicos entre consorciadas reproduz a regra legal"
+  dispositivo_legal: "art. 15, inciso III, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E1-009"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E1-062
+  dispositivo_editalicio: "Item 1.4.1 do Anexo II"
+  transcricao: "Certidão negativa de feitos sobre falência, expedida pelo distribuidor da sede da PROPONENTE que esteja dentro do prazo de validade."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: omissao
+  descricao_breve: "Exigência de certidão negativa de feitos sobre falência sem disciplina para licitantes em recuperação judicial/extrajudicial (se a certidão positiva por recuperação inabilita ou se se admite participação mediante plano homologado) — omissão com potencial restritivo; jurisprudência específica a levantar na Fase 2"
+  dispositivo_legal: "art. 69, inciso II, da Lei n.º 14.133/2021"
+  referencias_cruzadas: []
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E1-063
+  dispositivo_editalicio: "Item 1.4.2 do Anexo II"
+  transcricao: "comprovação de capital mínimo no valor de R$ 708.760,32 [...] equivalente a 10% do valor máximo anual efetivamente executável, ou seja, o resultado da soma dos itens 1 [...], 3 [...] e 4 [...], devendo a comprovação ser feita relativamente à data da apresentação das propostas"
+  tipo_achado: CONFORME
+  categoria: omissao
+  descricao_breve: "Capital mínimo de R$ 708.760,32 corresponde a 10% do valor anual executável (R$ 7.087.603,20) — muito abaixo do teto de 10% do valor estimado da contratação plurianual; aritmética conferida e exata"
+  dispositivo_legal: "art. 69, § 4.º, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E1-010", "E1-064", "E1-067"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E1-064
+  dispositivo_editalicio: "Item 1.4.2 do Anexo II c/c item 20.2, alínea 'd', do Edital e item 9.1 do TR"
+  transcricao: "valor máximo anual efetivamente executável, ou seja, o resultado da soma dos itens 1 (serviços de coleta e transporte de resíduos), 3 (destinação final em aterro licenciado em outro município) e 4 (fornecimento e manutenção de contêineres)"
+  tipo_achado: CONFORME
+  categoria: risco_economico
+  descricao_breve: "Base de cálculo de capital mínimo e garantia exclui o item 2 (destinação no aterro municipal) por serem os itens 2 e 3 mutuamente excludentes, adotando o cenário mais oneroso (item 3 > item 2) — metodologia coerente com a nota do TR 9.1 e conservadora em favor da Administração"
+  dispositivo_legal: "art. 69, § 4.º, e art. 98 da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E1-017", "E1-038", "E1-063", "E2:TR-9.1"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E1-065
+  dispositivo_editalicio: "Item 1.4.3, caput e subitens, do Anexo II"
+  transcricao: "balanço patrimonial, demonstração do resultado do exercício (DRE) e demonstrações contábeis dos dois últimos exercícios sociais, já exigíveis e apresentados na forma da lei e IN RFB 2003, de 18 de janeiro de 2021 [...] vedada a sua substituição por balancetes ou balanços provisórios [...] limitar-se-ão ao último exercício no caso de a pessoa jurídica ter sido constituída há menos de 2 (dois) anos"
+  tipo_achado: CONFORME
+  categoria: omissao
+  descricao_breve: "Exigência de demonstrações contábeis dos 2 últimos exercícios com formas alternativas de apresentação (publicação, Junta Comercial, SPED), regra de transição para empresas novas (balanço de abertura) e assinatura por contador — aderente ao rol legal"
+  dispositivo_legal: "art. 69, inciso I, da Lei n.º 14.133/2021 [conferir na Fase 2 o parágrafo específico do art. 69 sobre empresas constituídas há menos de 2 anos]"
+  referencias_cruzadas: ["E1-066"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E1-066
+  dispositivo_editalicio: "Item 1.4.3, alínea 'c' e nota justificativa, do Anexo II"
+  transcricao: "a boa situação financeira será avaliada pelos Índices de Liquidez Geral (LG), Solvência Geral (SG) e Liquidez Corrente (LC), que deverão apresentar o valor mínimo igual a 1 (um) [...] A adoção das fórmulas supra, justifica-se na busca dos resultados, consistentes na apuração da situação econômico-financeira das empresas..."
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: omissao
+  descricao_breve: "Índices contábeis LG/SG/LC ≥ 1,0 acompanhados de justificativa genérica inserida no próprio anexo — a lei exige coeficientes 'devidamente justificados no processo licitatório'; verificar se os autos contêm justificativa técnica específica para os patamares adotados"
+  dispositivo_legal: "art. 69, caput, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E1-063", "E1-067"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E1-067
+  dispositivo_editalicio: "Item 1.4.3, alínea 'c' (parte final) e fórmula 'PL', do Anexo II"
+  transcricao: "e Patrimônio Líquido (PL) superior a 1/12 (um doze avos) do valor total dos contratos firmados com a Administração Pública e com a iniciativa privada [...] PL = VALOR DO PATRIMÔNIO LÍQUIDO x 12 > 1 / VALOR TOTAL DOS CONTRATOS (transferir Valor Total apurado no Anexo IV)"
+  tipo_achado: IRREGULAR
+  categoria: restricao_competitividade
+  descricao_breve: "Cumulação de exigências econômico-financeiras: capital social mínimo (1.4.2) + índices LG/SG/LC ≥ 1 + patrimônio líquido mínimo atrelado a 1/12 dos compromissos firmados — a lei admite capital mínimo OU patrimônio líquido mínimo (alternatividade), e a relação de compromissos serve à análise, não à criação de terceiro requisito autônomo"
+  dispositivo_legal: "art. 69, §§ 3.º e 4.º, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E1-063", "E1-066", "E1-070"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E1-068
+  dispositivo_editalicio: "Item 1.4.3, alínea 'c', do Anexo II (redação)"
+  transcricao: "que deverão apresentar o valor mínimo igual a 1 (um) , ), que deverão apresentar o valor mínimo igual a 1 (um) e Patrimônio Líquido (PL) superior..."
+  tipo_achado: IRREGULAR
+  categoria: erro_material
+  descricao_breve: "Texto duplicado e pontuação órfã na cláusula dos índices contábeis — defeito de edição sem prejuízo interpretativo evidente, mas que denota falha de revisão em cláusula de habilitação"
+  dispositivo_legal: "art. 25, caput, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E1-066"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E1-069
+  dispositivo_editalicio: "Item 1.5.1 do Anexo II (Anexo IV — declaração unificada)"
+  transcricao: "de que autoriza a criação da Conta Vinculada para Quitações de Obrigações Trabalhistas, nos 5 (cinco) anos anteriores à divulgação deste edital, não fui condenada judicialmente, com trânsito em julgado, por exploração de trabalho infantil..."
+  tipo_achado: IRREGULAR
+  categoria: erro_material
+  descricao_breve: "Declaração unificada com períodos fundidos sem pontuação segregadora (autorização de conta vinculada emendada à declaração de não condenação por trabalho infantil/escravo) e alternância de pessoa verbal ('não fui condenada') — compromete a precisão do conteúdo declarado sob as penas da lei"
+  dispositivo_legal: "art. 25, caput, c/c art. 63, inciso IV, da Lei n.º 14.133/2021"
+  referencias_cruzadas: ["E1-060", "E1-070"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E1-070
+  dispositivo_editalicio: "Item 1.5.1 do Anexo II (conteúdos da declaração)"
+  transcricao: "relação de contratos firmados com a iniciativa privada e com a Administração Pública, vigentes na data da sessão pública de abertura deste Pregão; [...] disponibilização de máquinas e equipamentos para execução do objeto contratual; [...] cumpre integralmente as normas de saúde e segurança do trabalho (NR-06, NR-12, NR-15 e NR-38)"
+  tipo_achado: CONFORME
+  categoria: omissao
+  descricao_breve: "Conteúdos da declaração unificada com amparo legal: relação de compromissos assumidos (subsídio do índice PL), declaração de disponibilidade de equipamentos (sem exigir propriedade prévia), reserva de cargos PCD/aprendiz, inexistência de trabalho infantil e conformidade com NRs, inclusive a NR-38 específica de limpeza urbana"
+  dispositivo_legal: "art. 63, inciso IV, art. 67, inciso III, e art. 69, § 3.º, da Lei n.º 14.133/2021; art. 7.º, inciso XXXIII, da CF/1988"
+  referencias_cruzadas: ["E1-067", "E1-069"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E1-071
+  dispositivo_editalicio: "Item 2 do Anexo II"
+  transcricao: "Os documentos necessários à habilitação deverão ser apresentados: a) em original; b) por cópia; ou c) documentos apresentados com autenticação digital desde que acompanhadas da respectiva Certidão de Autenticação Digital certificada por empresa devidamente licenciada pelo ICP-BRASIL"
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: erro_material
+  descricao_breve: "Regras de apresentação física ('original', 'cópia') herdadas de certames presenciais em pregão exclusivamente eletrônico com envio via sistema — anacronismo sem prejuízo prático aparente, mas a exigência de 'Certidão de Autenticação Digital' por empresa licenciada pode gerar dúvida sobre a aceitação de documentos nato-digitais simples"
+  dispositivo_legal: "art. 12, inciso II, e art. 17, § 2.º, da Lei n.º 14.133/2021; MP n.º 2.200-2/2001"
+  referencias_cruzadas: ["E1-027"]
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E1-072
+  dispositivo_editalicio: "Item 3 do Anexo II"
+  transcricao: "A validade dos documentos será a expressa em cada qual, ou estabelecida em lei, admitindo-se como válidos, no caso de omissão, aqueles emitidos a menos de 60 (sessenta) dias."
+  tipo_achado: CONFORME
+  categoria: omissao
+  descricao_breve: "Regra supletiva de validade de 60 dias para documentos sem prazo expresso — critério objetivo e usual, sem vedação legal"
+  dispositivo_legal: "art. 25, caput, da Lei n.º 14.133/2021"
+  referencias_cruzadas: []
+  flag_tecnico: false
+  flag_reserva: false
+
+- id: E1-073
+  dispositivo_editalicio: "Anexo II, item 1.3 (ausência de exigência) c/c objeto (item 3 do lote — destinação em aterro de outro município)"
+  transcricao: "[Omissão — o Anexo II não exige, na habilitação, comprovação de disponibilidade/regularidade ambiental de aterro sanitário licenciado para a destinação final em outro município, nem licenças de operação da licitante]"
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: omissao
+  descricao_breve: "Habilitação silente quanto à comprovação de acesso a aterro licenciado de terceiro (item 3) e quanto a licenças ambientais de operação — omissão pró-competitiva na habilitação, mas que transfere para a execução o risco de destinação inadequada; licitantes verticalizadas com aterro próprio licenciado na região detêm assimetria favorável"
+  dispositivo_legal: "art. 67, inciso IV, da Lei n.º 14.133/2021 c/c art. 3.º, inciso VIII, da Lei n.º 12.305/2010"
+  referencias_cruzadas: ["E1-002", "E1-057", "E2:TR-requisitos"]
+  flag_tecnico: true
+  flag_reserva: true
+
+# =====================================================================
+# RESUMO DA EXTRAÇÃO E1
+# Total de pontos: 73
+#   IRREGULAR:       18  (E1-007, 008, 014, 016, 021, 024, 028, 032, 034,
+#                         036, 040, 044, 045, 046, 059, 067, 068, 069)
+#   CONFORME:        32  (E1-001, 004, 005, 006, 009, 010, 012, 015, 022,
+#                         023, 025, 027, 029, 031, 033, 037, 041, 042, 043,
+#                         047, 050, 051, 052, 053, 056, 060, 061, 063, 064,
+#                         065, 070, 072)
+#   DEPENDE_DE_FATO: 23  (E1-002, 003, 011, 013, 017, 018, 019, 020, 026,
+#                         030, 035, 038, 039, 048, 049, 054, 055, 057, 058,
+#                         062, 066, 071, 073)
+# Flags: flag_tecnico = 4 pontos (E1-002, 056, 057, 073)
+#        flag_reserva = 5 pontos (E1-056, 057, 058, 059, 073)
+# Notas de verificação factual (fonte: mesmo arquivo, TR):
+#   - TR 9.1: valor estimado anual R$ 9.193.852,80; itens 2 e 3 mutuamente
+#     excludentes e sucessivos; itens 1+3+4 = R$ 7.087.603,20 (10% = R$ 708.760,32 ✓)
+#   - Tonelagem: 12.480 t/ano = 1.040 t/mês → 520 t/mês = 50% exatos
+#   - Anexo II não contém item 1.2.4 (remissão quebrada no item 14.4)
+#   - TR 4.12: visita técnica facultativa com declaração substitutiva (Anexo VI)
+# =====================================================================
