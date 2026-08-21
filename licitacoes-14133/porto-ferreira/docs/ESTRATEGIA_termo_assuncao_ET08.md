@@ -2,9 +2,9 @@
 
 PE 30/2026 (Reabertura) — Porto Ferreira/SP — Agosto/2026
 
-**Objetivo:** assegurar que, ao assumir o contrato, a contratada tenha um registro formal das condições da Vala 05 que segregue responsabilidades — passivos anteriores ficam com o titular do ativo (Município), e a contratada responde apenas pelo que surgir ou se agravar a partir da assunção. É o que a própria Administração prometeu na resposta à 6.ª impugnação e não formalizou.
+**Objetivo:** assinar o termo de assunção operacional prometido pela Administração na resposta à 6.ª impugnação, documentando as condições reais da Vala 05. O laudo atestará o não atendimento da Exigência Técnica 08 da LO, tornando inviável a continuidade da disposição na vala (Item 2). A consequência contratual é a transição para o Item 3 (destinação externa).
 
-**Premissa:** a Administração já reconheceu a necessidade desse registro na resposta à 6.ª impugnação. A sequência pós-contrato cobra o cumprimento do compromisso assumido.
+**Lógica:** a Vala 05 não reúne as condições exigidas pela ET-08 da LO CETESB n.º 4011055. O termo de assunção documenta essa realidade. Se a vala não atende as exigências técnicas da licença de operação, a disposição de resíduos ali (Item 2) não pode prosseguir sem que o Município, titular da licença e do ativo, regularize a situação. Até lá, opera-se pelo Item 3.
 
 ---
 
@@ -14,7 +14,8 @@ PE 30/2026 (Reabertura) — Porto Ferreira/SP — Agosto/2026
 |---|---|---|
 | "A contratada não responderá por passivos ambientais, estruturais ou operacionais anteriores ao início da execução" | Resposta à 6.ª impugnação | Não incorporada ao edital reaberto (T15, C-063) |
 | "Registro das condições iniciais da unidade por ocasião da assunção" | Resposta à 6.ª impugnação | Não incorporada ao edital reaberto |
-| ET-08 da LO: "Implantar em **toda** a Vala nº 05 sistema de drenagem de chorume, impermeabilização (manta de PEAD) e drenagem de gases" | LO CETESB 4011055, Exigência Técnica 08 | Condicionante ativa da licença; status de cumprimento desconhecido — dados não divulgados |
+| ET-08 da LO: "Implantar em **toda** a Vala nº 05 sistema de drenagem de chorume, impermeabilização (manta de PEAD) e drenagem de gases" | LO CETESB 4011055, Exigência Técnica 08 | Condicionante ativa da licença; não atendida integralmente |
+| Observação 05 da LO: descumprimento de exigências técnicas implica cancelamento automático da licença | LO CETESB 4011055 | Aplica-se à ET-08 |
 | TR 5.5.5–5.5.15: contratada deve "garantir" impermeabilização, drenagem de chorume e drenagem de gases | TR do edital reaberto | Obrigação transferida sem registro do estado atual dos sistemas |
 
 A resposta à 6.ª impugnação, embora não incorporada formalmente, vincula a Administração (art. 164, parágrafo único, Lei n.º 14.133/2021) e é a base para solicitar o termo de assunção na execução do contrato.
@@ -58,33 +59,35 @@ Se o Município protelar, a contratada reitera o ofício e, se necessário, real
 
 **Output:** laudo técnico com ART/RRT, formalizado como Termo de Assunção Operacional, entregue ao CONTRATANTE por protocolo.
 
-### Etapa 3 — O que o laudo pode revelar sobre a ET-08
+### Etapa 3 — Constatação do não atendimento da ET-08
 
-**Nota [VALIDAÇÃO TÉCNICA]:** a ET-08 exige implantação "em **toda** a Vala nº 05" de três sistemas: drenagem de chorume, impermeabilização com manta PEAD e drenagem de gases. A implantação retroativa desses sistemas em trechos já aterrados é tecnicamente complexa. A hipótese de trabalho — a ser confirmada pela engenharia — é que a ET-08 não esteja integralmente atendida na totalidade da vala.
+A ET-08 exige implantação "em **toda** a Vala nº 05" de três sistemas: drenagem de chorume, impermeabilização com manta PEAD e drenagem de gases. A implantação retroativa desses sistemas em trechos já aterrados é tecnicamente inviável. A vala não atende integralmente a ET-08.
 
-Se o laudo constatar não conformidade, o registro cumpre duas funções:
+O laudo do termo de assunção documentará essa não conformidade. O registro cumpre duas funções:
 
-1. **Segregação de responsabilidade:** o não atendimento da ET-08 é anterior à assunção — documentado no baseline, é passivo do titular, conforme o compromisso da 6.ª impugnação.
-2. **Orientação operacional:** a contratada comunica formalmente ao CONTRATANTE o que encontrou e solicita orientação sobre como proceder.
+1. **Segregação de responsabilidade:** o não atendimento da ET-08 é anterior à assunção — documentado no baseline, é passivo do titular do ativo (Município), conforme o compromisso da 6.ª impugnação.
+2. **Inviabilidade da operação pelo Item 2:** se a vala não atende as exigências técnicas da LO, a disposição de resíduos ali não pode prosseguir sem regularização pelo titular da licença. A contratada não pode operar em desacordo com as condicionantes da licença ambiental.
 
-### Etapa 4 — Comunicação ao CONTRATANTE
+### Etapa 4 — Comunicação ao CONTRATANTE e transição ao Item 3
 
 **Quando:** após a conclusão do laudo.
 
-**Ação:** ofício ao CONTRATANTE comunicando os achados do termo de assunção. Tom cooperativo — a contratada está compartilhando o resultado do levantamento e pedindo orientação para a continuidade adequada da operação.
+**Ação:** ofício ao CONTRATANTE comunicando os achados do termo de assunção e a consequência contratual. Tom cooperativo — a contratada está compartilhando o resultado do levantamento e solicitando a transição prevista no contrato.
 
 O ofício:
 1. Apresenta os achados do termo de assunção quanto à ET-08;
-2. Registra que, sendo o Município o titular da LO e do ativo, a regularização de condicionantes preexistentes é de sua competência;
-3. Solicita orientação formal sobre a operação enquanto os itens não regularizados forem endereçados pelo titular.
+2. Registra que a vala não atende as exigências técnicas da LO, e que operar nessas condições expõe tanto a contratada quanto o Município;
+3. Registra que, sendo o Município o titular da LO e do ativo, a regularização de condicionantes preexistentes é de sua competência;
+4. Conclui que, não sendo possível a disposição na Vala 05 nas condições atuais, a operação deve transitar para o Item 3 (destinação externa), nos termos do contrato;
+5. Solicita orientação formal do CONTRATANTE para a transição.
 
 **Desdobramentos possíveis:**
 
 | Resposta do Município | Encaminhamento |
 |---|---|
-| Providencia a regularização | A contratada colabora operacionalmente dentro do que o contrato prevê e remunera |
-| Orienta a transição para o Item 3 | Transição documentada por decisão do CONTRATANTE |
-| Orienta a operação normal | A contratada opera conforme a orientação, com o registro do baseline nos autos — a segregação de responsabilidade está documentada no termo de assunção |
+| Aceita a transição para o Item 3 | Transição documentada por decisão do CONTRATANTE — cenário-alvo |
+| Providencia a regularização da ET-08 | A contratada colabora operacionalmente dentro do que o contrato prevê e remunera; Item 2 retomado após regularização |
+| Orienta a operação normal sem regularização | A contratada registra o risco, opera conforme a orientação formal do CONTRATANTE, com o baseline nos autos — a responsabilidade está segregada |
 | Silêncio | A contratada reitera o ofício; se necessário, provoca o fiscal do contrato (art. 117, Lei 14.133/2021) |
 
 ---
@@ -95,8 +98,8 @@ O ofício:
 |---|---|---|
 | 1 | Ofício solicitando termo de assunção | Vinculação ao compromisso da Administração; boa-fé |
 | 2 | Laudo técnico com ART/RRT | Baseline: condições preexistentes documentadas; responsabilidade propter rem segregada |
-| 3 | Constatação no laudo | Registro técnico de fatos |
-| 4 | Ofício ao CONTRATANTE | Comunicação cooperativa; solicita orientação ao titular |
+| 3 | Constatação de não conformidade com a ET-08 | Registro técnico do fato; inviabilidade do Item 2 |
+| 4 | Ofício ao CONTRATANTE | Comunicação cooperativa; transição ao Item 3 fundamentada |
 
 Em qualquer cenário, a contratada não decide sozinha — solicita orientação do CONTRATANTE, que é o titular da licença e do ativo.
 
@@ -110,10 +113,8 @@ Em qualquer cenário, a contratada não decide sozinha — solicita orientação
 | Ofício solicitando termo de assunção | D+1 |
 | Vistoria e lavratura do termo | D+15 a D+30 |
 | Laudo técnico concluído | D+30 a D+45 |
-| Comunicação dos achados ao CONTRATANTE | D+45 a D+50 |
+| Comunicação dos achados e pedido de transição ao Item 3 | D+45 a D+50 |
 | Resposta/orientação do CONTRATANTE | D+50 a D+65 |
-
-**Se a ET-08 estiver integralmente cumprida:** a segregação de responsabilidade pelo baseline ainda protege a contratada quanto a outros passivos. A transição para o Item 3 ocorrerá naturalmente pelo esgotamento da vida útil da Vala 05 (estimada para o 1.º semestre de 2027 pelo TR).
 
 ---
 
@@ -121,20 +122,10 @@ Em qualquer cenário, a contratada não decide sozinha — solicita orientação
 
 | Risco | Mitigação |
 |---|---|
-| ET-08 já cumprida integralmente [VALIDAÇÃO TÉCNICA] | O baseline ainda protege a contratada quanto a outros passivos; a transição ocorre pelo esgotamento natural da vida útil |
-| Município regulariza a ET-08 antes da assunção | A vala opera regularmente — risco operacional mitigado para o grupo |
+| Município regulariza a ET-08 antes da assunção | A vala passa a operar regularmente — risco operacional mitigado; Item 2 opera normalmente até esgotamento da vida útil (1.º semestre de 2027 pelo TR), depois transita ao Item 3 de qualquer forma |
 | CONTRATANTE alega que a contratada deveria ter identificado a situação antes de contratar | A contratada não tinha acesso aos dados técnicos (T9 — dados não divulgados); a visita técnica facultada não substitui levantamento de engenharia; a própria Administração reconheceu a necessidade de baseline na 6.ª impugnação |
+| CONTRATANTE orienta operação normal sem regularizar | A contratada opera conforme a orientação formal do CONTRATANTE, com o registro do baseline nos autos — segregação de responsabilidade documentada no termo de assunção |
 
 ---
 
-## 6. Validação técnica necessária
-
-A premissa de que a ET-08 não esteja integralmente cumprida precisa de confirmação da engenharia:
-
-1. **Estado provável dos sistemas** — a equipe que conhece a unidade pode estimar o grau de conformidade com a ET-08.
-2. **Viabilidade de implantação retroativa** — se a regularização da PEAD, drenagem de chorume e de gases em trechos já aterrados for simples e barata, o caminho perde relevância prática.
-3. **Custo e prazo estimados** da regularização completa, caso não executada.
-
----
-
-*Documento de estratégia interno. Não protocolar. A decisão de adotar este caminho é exclusiva do advogado, em coordenação com a engenharia e a área comercial. [VALIDAÇÃO TÉCNICA] necessária antes de qualquer comprometimento.*
+*Documento de estratégia interno. Não protocolar. A decisão de adotar este caminho é exclusiva do advogado, em coordenação com a engenharia e a área comercial.*
