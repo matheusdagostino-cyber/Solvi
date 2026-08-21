@@ -1,10 +1,10 @@
-# Proteção Contratual — Termo de Assunção Operacional [RESERVA — USO INTERNO]
+# Proteção Contratual Pós-Adjudicação — Termo de Assunção Operacional [RESERVA — USO INTERNO]
 
 PE 30/2026 (Reabertura) — Porto Ferreira/SP — Agosto/2026
 
 **Objetivo:** assegurar que, ao assumir o contrato, a contratada tenha um registro formal das condições da Vala 05 que segregue responsabilidades — passivos anteriores ficam com o titular do ativo (Município), e a contratada responde apenas pelo que surgir ou se agravar a partir da assunção. É o que a própria Administração prometeu na resposta à 6.ª impugnação e não formalizou.
 
-**Premissa:** a Administração já reconheceu a necessidade desse registro. O esclarecimento e a sequência pós-contrato apenas cobram o cumprimento do compromisso assumido.
+**Premissa:** a Administração já reconheceu a necessidade desse registro na resposta à 6.ª impugnação. A sequência pós-contrato cobra o cumprimento do compromisso assumido.
 
 ---
 
@@ -17,34 +17,11 @@ PE 30/2026 (Reabertura) — Porto Ferreira/SP — Agosto/2026
 | ET-08 da LO: "Implantar em **toda** a Vala nº 05 sistema de drenagem de chorume, impermeabilização (manta de PEAD) e drenagem de gases" | LO CETESB 4011055, Exigência Técnica 08 | Condicionante ativa da licença; status de cumprimento desconhecido — dados não divulgados |
 | TR 5.5.5–5.5.15: contratada deve "garantir" impermeabilização, drenagem de chorume e drenagem de gases | TR do edital reaberto | Obrigação transferida sem registro do estado atual dos sistemas |
 
----
-
-## 2. Esclarecimento pré-sessão
-
-### Pergunta dirigida (protocolar antes da sessão)
-
-> "Considerando que a resposta à 6.ª impugnação ao edital originário consignou expressamente que (a) 'a contratada não responderá por passivos ambientais, estruturais ou operacionais anteriores ao início da execução' e (b) haverá 'registro das condições iniciais da unidade por ocasião da assunção', e que tais compromissos não foram incorporados ao edital reaberto (Pregão Eletrônico n.º 30/2026 — Processo Administrativo n.º 3.721/2026), solicita-se esclarecer:
->
-> **(i)** Confirma-se que, na data da assunção do contrato pela CONTRATADA, será lavrado **termo de assunção operacional** com registro das condições físicas, ambientais e estruturais da Vala 05 e do aterro municipal, incluindo, no mínimo: levantamento planialtimétrico, estado da impermeabilização de base (PEAD), dos sistemas de drenagem de chorume e de drenagem de gases — elementos que compõem a Exigência Técnica 08 da LO CETESB n.º 4011055 —, inventário de passivos ambientais e condicionantes ativas?
->
-> **(ii)** Confirma-se que o registro do termo de assunção constituirá o **marco divisor** de responsabilidades: passivos documentados no termo são de responsabilidade do CONTRATANTE (titular da licença e do ativo), e apenas as condições surgidas ou agravadas a partir da assunção poderão ser imputadas à CONTRATADA?
->
-> **(iii)** A Administração providenciará a incorporação formal dessas previsões ao edital, mediante retificação, antes da sessão do pregão — ou entende que a resposta à 6.ª impugnação é suficiente para vincular as partes?"
-
-### Respostas possíveis
-
-| Resposta | Efeito |
-|---|---|
-| **Confirma (i) e (ii), incorpora ao edital** | Termo de assunção formalmente previsto. Na execução, a contratada solicita a lavratura e o levantamento registra o que encontrar. |
-| **Confirma (i) e (ii), sem incorporar** | Vinculação existe (art. 164, parágrafo único), embora fragilizada (TJPR 0001466-45.2021.8.16.0172 [VIT]). Soma-se à 6.ª impugnação como segunda declaração não incorporada. Na execução, a contratada invoca ambas as respostas ao solicitar o termo. |
-| **Confirma (i) parcialmente** | Qualquer registro das condições iniciais já serve como baseline, mesmo com escopo reduzido. |
-| **Nega ou silencia** | Documenta o vício para impugnação formal (terceira recusa de formalização). |
-
-A pergunta (iii) leva a Administração a se posicionar sobre a suficiência da resposta à 6.ª impugnação. Se responder que "basta a resposta", a contratada terá base para solicitar o termo na execução; se responder que "será incorporada", obtém a retificação.
+A resposta à 6.ª impugnação, embora não incorporada formalmente, vincula a Administração (art. 164, parágrafo único, Lei n.º 14.133/2021) e é a base para solicitar o termo de assunção na execução do contrato.
 
 ---
 
-## 3. Sequência pós-adjudicação
+## 2. Sequência pós-adjudicação
 
 Pressupõe vitória no certame.
 
@@ -52,12 +29,12 @@ Pressupõe vitória no certame.
 
 **Quando:** imediatamente após a assinatura do contrato.
 
-**Como:** ofício formal ao CONTRATANTE solicitando a lavratura do termo de assunção operacional, nos termos do compromisso da resposta à 6.ª impugnação (e, se obtida, da resposta ao esclarecimento).
+**Como:** ofício formal ao CONTRATANTE solicitando a lavratura do termo de assunção operacional, nos termos do compromisso da resposta à 6.ª impugnação.
 
 **Fundamento:** art. 5.º da Lei n.º 14.133/2021 (boa-fé, vinculação ao edital); art. 164, parágrafo único (vinculação da resposta); art. 92, XIV (responsabilidades das partes).
 
 **Conteúdo do ofício:**
-- Referência às respostas vinculantes (6.ª impugnação + esclarecimento);
+- Referência à resposta à 6.ª impugnação;
 - Rol de itens a registrar: (a) levantamento planialtimétrico da Vala 05; (b) estado da impermeabilização de base (manta PEAD); (c) estado dos sistemas de drenagem de chorume; (d) estado dos sistemas de drenagem de gases; (e) capacidade volumétrica remanescente; (f) condicionantes ativas da LO; (g) registro fotográfico georreferenciado;
 - Proposta de vistoria conjunta (CONTRATANTE + CONTRATADA + engenheiro RT).
 
@@ -112,20 +89,20 @@ O ofício:
 
 ---
 
-## 4. Proteção da contratada
+## 3. Proteção da contratada
 
 | Etapa | Documento | Função |
 |---|---|---|
 | 1 | Ofício solicitando termo de assunção | Vinculação ao compromisso da Administração; boa-fé |
 | 2 | Laudo técnico com ART/RRT | Baseline: condições preexistentes documentadas; responsabilidade propter rem segregada |
-| 3 | Constatação no laudo | Registro técnico de fatos — não acusação |
-| 4 | Ofício ao CONTRATANTE | Comunicação; a contratada não decide unilateralmente — solicita orientação ao titular |
+| 3 | Constatação no laudo | Registro técnico de fatos |
+| 4 | Ofício ao CONTRATANTE | Comunicação cooperativa; solicita orientação ao titular |
 
 Em qualquer cenário, a contratada não decide sozinha — solicita orientação do CONTRATANTE, que é o titular da licença e do ativo.
 
 ---
 
-## 5. Cronograma estimado
+## 4. Cronograma estimado
 
 | Marco | Prazo estimado |
 |---|---|
@@ -136,30 +113,21 @@ Em qualquer cenário, a contratada não decide sozinha — solicita orientação
 | Comunicação dos achados ao CONTRATANTE | D+45 a D+50 |
 | Resposta/orientação do CONTRATANTE | D+50 a D+65 |
 
-**Se a ET-08 estiver integralmente cumprida:** este caminho não se aplica; a segregação de responsabilidade pelo baseline ainda protege a contratada quanto a outros passivos, e restam as vias da ESTRATEGIA_esclarecimento_item2.md (vida útil curta da vala, teto de 60 t/d, encerramento).
+**Se a ET-08 estiver integralmente cumprida:** a segregação de responsabilidade pelo baseline ainda protege a contratada quanto a outros passivos. A transição para o Item 3 ocorrerá naturalmente pelo esgotamento da vida útil da Vala 05 (estimada para o 1.º semestre de 2027 pelo TR).
 
 ---
 
-## 6. Interseção com o esclarecimento do item 2
-
-Este caminho complementa as perguntas da ESTRATEGIA_esclarecimento_item2.md. A pergunta sobre o termo de assunção (seção 2) pode ser protocolada junto com as perguntas 1, 3, 4 e 5 daquele documento — a combinação é natural: reforça a pergunta 4 (encerramento e passivos) e tem a mesma base jurídica (resposta à 6.ª impugnação não incorporada).
-
-Recomendação: protocolar como bloco único de esclarecimento — aparência de diligência normal de licitante, não de ação dirigida.
-
----
-
-## 7. Riscos
+## 5. Riscos
 
 | Risco | Mitigação |
 |---|---|
-| ET-08 já cumprida integralmente [VALIDAÇÃO TÉCNICA] | Restam as vias da ESTRATEGIA_esclarecimento_item2.md; o baseline ainda protege a contratada quanto a outros passivos |
+| ET-08 já cumprida integralmente [VALIDAÇÃO TÉCNICA] | O baseline ainda protege a contratada quanto a outros passivos; a transição ocorre pelo esgotamento natural da vida útil |
 | Município regulariza a ET-08 antes da assunção | A vala opera regularmente — risco operacional mitigado para o grupo |
 | CONTRATANTE alega que a contratada deveria ter identificado a situação antes de contratar | A contratada não tinha acesso aos dados técnicos (T9 — dados não divulgados); a visita técnica facultada não substitui levantamento de engenharia; a própria Administração reconheceu a necessidade de baseline na 6.ª impugnação |
-| Dissolução de R2/R5 pelo esclarecimento | A pergunta sobre o termo de assunção não dissolve R2/R5 — trata de mecanismo contratual, não de divulgação de dados operacionais |
 
 ---
 
-## 8. Validação técnica necessária
+## 6. Validação técnica necessária
 
 A premissa de que a ET-08 não esteja integralmente cumprida precisa de confirmação da engenharia:
 

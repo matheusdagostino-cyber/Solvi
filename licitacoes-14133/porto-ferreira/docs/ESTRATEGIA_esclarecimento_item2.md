@@ -4,7 +4,7 @@ PE 30/2026 (Reabertura) — Porto Ferreira/SP — Agosto/2026
 
 **Objetivo estratégico:** obter respostas vinculantes que estabeleçam a vida útil residual curta da Vala 05, tornando o Item 2 (operação do aterro municipal) uma fase transitória de poucos meses — residual em valor e em risco operacional. O item 3 (destinação externa) passa a ser o objeto real do contrato por 54+ dos 60 meses de vigência.
 
-**Premissa tática:** a resposta ao pedido de esclarecimento vincula a Administração e integra o edital (art. 164, parágrafo único, da Lei n.º 14.133/2021). Cada resposta favorável fecha uma porta — e cada recusa documenta o vício para impugnação ou representação ao TCE.
+**Premissa tática:** a resposta ao pedido de esclarecimento vincula a Administração e integra o edital (art. 164, parágrafo único, da Lei n.º 14.133/2021). Cada resposta favorável fecha uma porta — e cada recusa documenta o vício para impugnação.
 
 ---
 
@@ -35,13 +35,13 @@ A lógica é em cascata: cada pergunta usa a resposta anterior como premissa. A 
 - **"1.º semestre de 2027" (confirma o TR):** item 2 dura ~6 meses. A memória de cálculo, se fornecida, cristaliza o dado; se não fornecida, o vício é documentado (ETP sem memória de cálculo — T4/T9).
 - **"2029" (confirma a resposta anterior):** contradiz o edital vigente; a licitante pode impugnar a incoerência (T2) e exigir retificação. Enquanto isso, a resposta antiga não vincula sobre o edital reaberto.
 - **"Não é possível estimar":** admissão de que o Item 2 foi licitado sem dado essencial — munição direta para T9 (dados sonegados) e T2 (transição sem disciplina).
-- **Silêncio/recusa:** descumprimento do art. 164 + segunda recusa de divulgação (após a 6.ª impugnação) — documentação para representação ao TCE.
+- **Silêncio/recusa:** descumprimento do art. 164 + segunda recusa de divulgação (após a 6.ª impugnação) — vício documentado para impugnação.
 
 ### Pergunta 2 — Forçar divulgação dos dados
 
 > "Em cumprimento ao compromisso assumido na resposta à 6.ª impugnação e ao disposto no art. 25, § 3.º, da Lei n.º 14.133/2021, solicita-se a disponibilização, no sítio oficial e na plataforma do certame, dos seguintes documentos técnicos do aterro municipal: (a) levantamento planialtimétrico/topográfico atualizado da Vala 05 com indicação da capacidade volumétrica remanescente em m³; (b) histórico mensal de pesagens dos últimos 24 meses; (c) relatórios de monitoramento ambiental e geotécnico mais recentes; (d) série mensal de geração e remoção de chorume que fundamenta o índice de 190 L/t (item 5.6.1 do TR)."
 
-**Lógica:** se os dados vierem, a engenharia calcula a vida útil real — que tende a ser curta (a própria Administração estimou 1.º sem/2027). Se não vierem, a recusa reiterada é o fato novo para impugnação/TCE, e a assimetria informacional fica documentada.
+**Lógica:** se os dados vierem, a engenharia calcula a vida útil real — que tende a ser curta (a própria Administração estimou 1.º sem/2027). Se não vierem, a recusa reiterada é fato novo para impugnação, e a assimetria informacional fica documentada.
 
 ### Pergunta 3 — Limitar o risco operacional (60 t/dia)
 
@@ -85,8 +85,7 @@ O esclarecimento dirigido força a Administração a resolver a contradição en
 Se a Administração mantiver a ambiguidade ou não divulgar os dados:
 
 1. **Impugnação formal** fundada em T2 + T9 (contradição na data + dados sonegados), pedindo retificação da estimativa com memória de cálculo e disciplina da transição.
-2. **Representação ao TCE-SP** (subsidiária) se a impugnação for rejeitada — terceira recusa de divulgação (6.ª impugnação → esclarecimento → impugnação), vício de planejamento (ETP sem custo da operação licitada), assimetria informacional.
-3. **Subcontratação** (vetor 3 da proposta original) como saída operacional: mesmo sem a data travada, subcontratar a operação da vala a terceiro que já conheça a unidade limita a exposição.
+2. **Subcontratação** (vetor 3 da proposta original) como saída operacional: mesmo sem a data travada, subcontratar a operação da vala a terceiro que já conheça a unidade limita a exposição.
 
 ---
 
