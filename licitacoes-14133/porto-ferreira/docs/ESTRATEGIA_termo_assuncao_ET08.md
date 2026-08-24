@@ -22,7 +22,43 @@ A resposta à 6.ª impugnação, embora não incorporada formalmente, vincula a 
 
 ---
 
-## 2. Estrutura contratual: Item 2 vs. Item 3
+## 2. O que é o baseline
+
+A resposta à 6.ª impugnação contém duas declarações (C-183, C-184):
+
+> "a contratada não responderá por passivos ambientais, estruturais ou operacionais anteriores ao início da execução, o que será consignado expressamente"
+
+> "registro das condições iniciais da unidade por ocasião da assunção"
+
+O baseline é esse registro: o estado da Vala 05 no momento em que a contratada assume a operação.
+
+### O que o edital reaberto não contém
+
+Nenhuma das duas declarações foi incorporada ao edital reaberto (C-183, C-184):
+
+| Elemento prometido | Situação no edital reaberto |
+|---|---|
+| Termo "passivo" | Não aparece em nenhum dispositivo |
+| Cláusula de não responsabilização por passivos anteriores | Inexistente |
+| Vistoria conjunta | Não prevista |
+| Inventário de condições iniciais | Não previsto |
+| Termo de assunção operacional | Não previsto |
+
+### O que o TR exige da contratada sem esse registro
+
+O TR atribui à contratada a obrigação de "garantir que o Aterro Sanitário possua uma camada de impermeabilização de base, constituída de geomembrana de polietileno de alta densidade – PEAD" e os sistemas de drenagem de chorume e de gases (TR 5.5.5–5.5.15; C-190) — sistemas que a contratada não projetou nem construiu, sem laudo de estado inicial nem inventário de passivos.
+
+A ET-08 da LO exige a implantação "em **toda** a Vala nº 05" desses mesmos três sistemas: drenagem de chorume, impermeabilização com manta PEAD e drenagem de gases. A contratada assume a obrigação de garantir uma infraestrutura preexistente sem saber em que estado essa infraestrutura se encontra.
+
+### Por que a resposta à 6.ª impugnação vincula
+
+Art. 164, parágrafo único, da Lei n.º 14.133/2021: a resposta à impugnação vincula a Administração. A Administração reconheceu a necessidade do registro das condições iniciais e da cláusula de não responsabilização — e não incorporou nenhuma das duas ao edital reaberto (T15, C-063).
+
+O termo de assunção operacional (Seção 4, Etapa 1) é a cobrança dessas duas declarações no D+1 do contrato.
+
+---
+
+## 3. Estrutura contratual: Item 2 vs. Item 3
 
 O edital estrutura a destinação final em dois itens **mutuamente excludentes e sucessivos** — não simultâneos. O Item 3 só começa quando o Item 2 termina. A vedação é expressa: "fica expressamente vedada a cobrança do Item 2 do objeto, passando a ser faturado exclusivamente o Item 3" (TR 5.1.6.3).
 
@@ -53,7 +89,7 @@ Este é um risco operacional adicional do Item 2 que o termo de assunção pode 
 
 ---
 
-## 3. Sequência pós-adjudicação
+## 4. Sequência pós-adjudicação
 
 Pressupõe vitória no certame.
 
@@ -123,7 +159,7 @@ O ofício:
 
 ---
 
-## 4. Proteção da contratada
+## 5. Proteção da contratada
 
 | Etapa | Documento | Função |
 |---|---|---|
@@ -136,7 +172,7 @@ Em qualquer cenário, a contratada não decide sozinha — solicita orientação
 
 ---
 
-## 5. Cronograma estimado
+## 6. Cronograma estimado
 
 | Marco | Prazo estimado |
 |---|---|
@@ -149,7 +185,7 @@ Em qualquer cenário, a contratada não decide sozinha — solicita orientação
 
 ---
 
-## 6. Riscos
+## 7. Riscos
 
 | Risco | Mitigação |
 |---|---|
