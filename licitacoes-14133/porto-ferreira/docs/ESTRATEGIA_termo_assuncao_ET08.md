@@ -59,60 +59,25 @@ Pressupõe vitória no certame.
 
 ### Etapa 1 — Solicitação do termo de assunção
 
-**Quando:** imediatamente após a assinatura do contrato.
+Ofício ao CONTRATANTE solicitando a lavratura do termo de assunção operacional, nos termos do compromisso da resposta à 6.ª impugnação (art. 164, parágrafo único, da Lei n.º 14.133/2021). O ofício referencia a resposta à 6.ª impugnação e propõe vistoria conjunta (CONTRATANTE + CONTRATADA + engenheiro RT) para registrar o estado da Vala 05: levantamento planialtimétrico, impermeabilização de base (manta PEAD), sistemas de drenagem de chorume e de gases, capacidade volumétrica remanescente, condicionantes ativas da LO e registro fotográfico georreferenciado.
 
-**Como:** ofício formal ao CONTRATANTE solicitando a lavratura do termo de assunção operacional, nos termos do compromisso da resposta à 6.ª impugnação.
-
-**Fundamento:** art. 5.º da Lei n.º 14.133/2021 (boa-fé, vinculação ao edital); art. 164, parágrafo único (vinculação da resposta); art. 92, XIV (responsabilidades das partes).
-
-**Conteúdo do ofício:**
-- Referência à resposta à 6.ª impugnação;
-- Rol de itens a registrar: (a) levantamento planialtimétrico da Vala 05; (b) estado da impermeabilização de base (manta PEAD); (c) estado dos sistemas de drenagem de chorume; (d) estado dos sistemas de drenagem de gases; (e) capacidade volumétrica remanescente; (f) condicionantes ativas da LO; (g) registro fotográfico georreferenciado;
-- Proposta de vistoria conjunta (CONTRATANTE + CONTRATADA + engenheiro RT).
-
-Se o Município protelar, a contratada reitera o ofício e, se necessário, realiza o levantamento por conta própria (laudo com ART/RRT), notificando o CONTRATANTE para acompanhar — preserva a boa-fé e documenta o estado independentemente da adesão do fiscal.
+Se o Município protelar, a contratada reitera o ofício e, se necessário, realiza o levantamento por conta própria (laudo com ART/RRT), notificando o CONTRATANTE para acompanhar.
 
 ### Etapa 2 — Vistoria e lavratura do termo
 
-**Quando:** primeiros 15–30 dias de contrato (antes do início efetivo da operação da vala, se possível).
+Vistoria técnica na Vala 05 pela equipe de engenharia da contratada, preferencialmente acompanhada do fiscal do contrato. Registra: presença e integridade da impermeabilização (PEAD) em toda a vala; existência, dimensionamento e funcionamento dos sistemas de drenagem de chorume e de gases; levantamento planialtimétrico e capacidade remanescente; estado da cobertura diária (ET-01), da drenagem pluvial (ET-04) e de passivos aparentes (chorume aflorante, erosão, vetores).
 
-**Execução:** equipe de engenharia da contratada, preferencialmente acompanhada do fiscal do contrato, realiza vistoria técnica na Vala 05:
-
-| Item | O que registrar |
-|---|---|
-| Impermeabilização (PEAD) | Presença/ausência em toda a vala; integridade; trechos sem cobertura |
-| Drenagem de chorume | Existência; dimensionamento; estado; funcionamento |
-| Drenagem de gases | Existência de drenos; espaçamento; funcionamento |
-| Topografia | Levantamento planialtimétrico; capacidade remanescente |
-| Cobertura diária | Camada sobre resíduos expostos (ET-01) |
-| Drenagem pluvial | Estado do sistema (ET-04) |
-| Passivos aparentes | Chorume aflorante, erosão, vetores, situação geral |
-
-**Output:** laudo técnico com ART/RRT, formalizado como Termo de Assunção Operacional, entregue ao CONTRATANTE por protocolo.
+O resultado é um laudo técnico com ART/RRT, formalizado como Termo de Assunção Operacional e entregue ao CONTRATANTE por protocolo.
 
 ### Etapa 3 — Constatação do não atendimento da ET-08
 
-A ET-08 exige implantação "em **toda** a Vala nº 05" de três sistemas: drenagem de chorume, impermeabilização com manta PEAD e drenagem de gases. A implantação retroativa desses sistemas em trechos já aterrados é tecnicamente inviável. A vala não atende integralmente a ET-08.
+A ET-08 da LO exige a implantação "em **toda** a Vala nº 05" de três sistemas: drenagem de chorume, impermeabilização com manta PEAD e drenagem de gases. A implantação retroativa desses sistemas em trechos já aterrados é tecnicamente inviável. A vala não atende a ET-08. A obrigação de implantar esses sistemas é do titular da licença (Município) — o TR transfere à contratada a obrigação de "garantir" (TR 5.5.5–5.5.15), não de implantar.
 
-O laudo do termo de assunção documentará essa não conformidade. O registro cumpre duas funções:
-
-1. **Segregação de responsabilidade:** o não atendimento da ET-08 é anterior à assunção — documentado no termo de assunção, é passivo do titular do ativo (Município), conforme o compromisso da 6.ª impugnação.
-2. **Inviabilidade da operação pelo Item 2:** se a vala não atende as exigências técnicas da LO, a disposição de resíduos ali não pode prosseguir sem regularização pelo titular da licença. A contratada não pode operar em desacordo com as condicionantes da licença ambiental.
+O laudo documenta essa não conformidade e cumpre duas funções: (1) segregação de responsabilidade — o não atendimento da ET-08 é anterior à assunção, é passivo do Município, conforme o compromisso da 6.ª impugnação; (2) inviabilidade da operação pelo Item 2 — se a vala não atende as exigências técnicas da LO, a disposição de resíduos ali não pode prosseguir sem regularização pelo titular da licença.
 
 ### Etapa 4 — Comunicação ao CONTRATANTE e transição ao Item 3
 
-**Quando:** após a conclusão do laudo.
-
-**Ação:** ofício ao CONTRATANTE comunicando os achados do termo de assunção e a consequência contratual. Tom cooperativo — a contratada está compartilhando o resultado do levantamento e solicitando a transição prevista no contrato.
-
-O ofício:
-1. Apresenta os achados do termo de assunção quanto à ET-08;
-2. Registra que a vala não atende as exigências técnicas da LO, e que operar nessas condições expõe tanto a contratada quanto o Município;
-3. Registra que, sendo o Município o titular da LO e do ativo, a regularização de condicionantes preexistentes é de sua competência;
-4. Conclui que, não sendo possível a disposição na Vala 05 nas condições atuais, a operação deve transitar para o Item 3 (destinação externa), nos termos do contrato;
-5. Solicita orientação formal do CONTRATANTE para a transição.
-
-**Desdobramentos possíveis:**
+Ofício ao CONTRATANTE comunicando os achados do termo de assunção e a consequência contratual. A contratada apresenta os achados quanto à ET-08, registra que a operação na vala nas condições atuais expõe ambas as partes, que a regularização de condicionantes preexistentes é competência do titular da LO (Município), e solicita orientação formal para a transição ao Item 3.
 
 | Resposta do Município | Encaminhamento |
 |---|---|
