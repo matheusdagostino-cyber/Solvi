@@ -22,7 +22,38 @@ A resposta à 6.ª impugnação, embora não incorporada formalmente, vincula a 
 
 ---
 
-## 2. Sequência pós-adjudicação
+## 2. Estrutura contratual: Item 2 vs. Item 3
+
+O edital estrutura a destinação final em dois itens **mutuamente excludentes e sucessivos** — não simultâneos. O Item 3 só começa quando o Item 2 termina. A vedação é expressa: "fica expressamente vedada a cobrança do Item 2 do objeto, passando a ser faturado exclusivamente o Item 3" (TR 5.1.6.3).
+
+| Elemento | Previsão editalícia | Fonte |
+|---|---|---|
+| Item 2 — Destinação no aterro municipal | Disposição na Vala 05 do aterro municipal, licenciado pela LO CETESB n.º 4011055 | TR 1.1, Lote 1 |
+| Item 3 — Destinação externa | Disposição em aterro licenciado em outro município, sob responsabilidade da contratada | TR 1.1, Lote 1 |
+| Quantitativo estimado | 12.480 t/ano para cada item (mesma tonelagem, nunca simultânea) | TR 1.1; ETP item 7 |
+| Preço unitário referencial | Item 2: R$ 168,77/t · Item 3: R$ 249,28/t | Quadro Comparativo de Preços |
+| Gatilho da transição | "É de responsabilidade dos técnicos da CONTRATANTE a validação contínua da utilização da vala, monitorando a capacidade de carga e estabilidade dos taludes" | TR 5.5.18 |
+| Vedação de cumulatividade | "A partir da constatação do encerramento do Aterro Municipal, fica expressamente vedada a cobrança do Item 2" | TR 5.1.6.3 |
+| Data estimada de esgotamento | "Provavelmente no primeiro semestre de 2027" | TR 2.4, 5.1.6.2, 5.5.17 |
+
+**Ponto central:** a decisão de quando encerrar o Item 2 e iniciar o Item 3 é **unilateral dos técnicos do Município** — sem parâmetro técnico objetivo, sem procedimento formal, sem laudo, sem prazo de aviso prévio e sem participação da contratada (TR 5.5.18). O termo de assunção cria o fundamento técnico da contratada para provocar a transição, em vez de ficar à mercê de uma constatação unilateral.
+
+### Teto diário da LO vs. tonelagem do edital
+
+| Parâmetro | Valor | Fonte |
+|---|---|---|
+| Teto diário licenciado | **60 t/dia** | Observação 01 da LO CETESB n.º 4011055 |
+| Média diária estimada (dias úteis) | **~40 t/dia** (12.480 t/ano ÷ 312 dias úteis) | TR 1.1; cálculo |
+| Premissa da tabela de transbordo | **45 t/dia** (1,5 viagens × 30 t) | Tabela de Quilometragem |
+| Tonelagem pré-Decreto 3.367/2026 | **~50 t/dia** (1.300 t/mês ÷ 26 dias) | ETP item 7 |
+
+Na média, a operação fica abaixo do teto de 60 t/dia. Nos **picos de segunda-feira**, porém, a concentração de coleta (região central diária + regiões alternadas + resíduo represado de domingo) pode se aproximar ou ultrapassar o limite licenciado. O edital **não prevê regra de escalonamento** da descarga para administrar esses picos. A contratada fica entre a penalidade contratual por atraso (se não descarregar) e a operação em desacordo com a licença ambiental (se descarregar acima do teto — art. 60 da Lei n.º 9.605/1998).
+
+Este é um risco operacional adicional do Item 2 que o termo de assunção pode documentar — reforçando a conveniência da transição ao Item 3.
+
+---
+
+## 3. Sequência pós-adjudicação
 
 Pressupõe vitória no certame.
 
@@ -92,7 +123,7 @@ O ofício:
 
 ---
 
-## 3. Proteção da contratada
+## 4. Proteção da contratada
 
 | Etapa | Documento | Função |
 |---|---|---|
@@ -105,7 +136,7 @@ Em qualquer cenário, a contratada não decide sozinha — solicita orientação
 
 ---
 
-## 4. Cronograma estimado
+## 5. Cronograma estimado
 
 | Marco | Prazo estimado |
 |---|---|
@@ -118,7 +149,7 @@ Em qualquer cenário, a contratada não decide sozinha — solicita orientação
 
 ---
 
-## 5. Riscos
+## 6. Riscos
 
 | Risco | Mitigação |
 |---|---|
