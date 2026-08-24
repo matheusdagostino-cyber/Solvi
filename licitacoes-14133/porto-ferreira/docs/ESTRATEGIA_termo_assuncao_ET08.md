@@ -22,43 +22,7 @@ A resposta à 6.ª impugnação, embora não incorporada formalmente, vincula a 
 
 ---
 
-## 2. O que é o baseline
-
-A resposta à 6.ª impugnação contém duas declarações (C-183, C-184):
-
-> "a contratada não responderá por passivos ambientais, estruturais ou operacionais anteriores ao início da execução, o que será consignado expressamente"
-
-> "registro das condições iniciais da unidade por ocasião da assunção"
-
-O baseline é esse registro: o estado da Vala 05 no momento em que a contratada assume a operação.
-
-### O que o edital reaberto não contém
-
-Nenhuma das duas declarações foi incorporada ao edital reaberto (C-183, C-184):
-
-| Elemento prometido | Situação no edital reaberto |
-|---|---|
-| Termo "passivo" | Não aparece em nenhum dispositivo |
-| Cláusula de não responsabilização por passivos anteriores | Inexistente |
-| Vistoria conjunta | Não prevista |
-| Inventário de condições iniciais | Não previsto |
-| Termo de assunção operacional | Não previsto |
-
-### O que o TR exige da contratada sem esse registro
-
-O TR atribui à contratada a obrigação de "garantir que o Aterro Sanitário possua uma camada de impermeabilização de base, constituída de geomembrana de polietileno de alta densidade – PEAD" e os sistemas de drenagem de chorume e de gases (TR 5.5.5–5.5.15; C-190) — sistemas que a contratada não projetou nem construiu, sem laudo de estado inicial nem inventário de passivos.
-
-A ET-08 da LO exige a implantação "em **toda** a Vala nº 05" desses mesmos três sistemas: drenagem de chorume, impermeabilização com manta PEAD e drenagem de gases. A contratada assume a obrigação de garantir uma infraestrutura preexistente sem saber em que estado essa infraestrutura se encontra.
-
-### Por que a resposta à 6.ª impugnação vincula
-
-Art. 164, parágrafo único, da Lei n.º 14.133/2021: a resposta à impugnação vincula a Administração. A Administração reconheceu a necessidade do registro das condições iniciais e da cláusula de não responsabilização — e não incorporou nenhuma das duas ao edital reaberto (T15, C-063).
-
-O termo de assunção operacional (Seção 4, Etapa 1) é a cobrança dessas duas declarações no D+1 do contrato.
-
----
-
-## 3. Estrutura contratual: Item 2 vs. Item 3
+## 2. Estrutura contratual: Item 2 vs. Item 3
 
 O edital estrutura a destinação final em dois itens **mutuamente excludentes e sucessivos** — não simultâneos. O Item 3 só começa quando o Item 2 termina. A vedação é expressa: "fica expressamente vedada a cobrança do Item 2 do objeto, passando a ser faturado exclusivamente o Item 3" (TR 5.1.6.3).
 
@@ -89,7 +53,7 @@ Este é um risco operacional adicional do Item 2 que o termo de assunção pode 
 
 ---
 
-## 4. Sequência pós-adjudicação
+## 3. Sequência pós-adjudicação
 
 Pressupõe vitória no certame.
 
@@ -132,7 +96,7 @@ A ET-08 exige implantação "em **toda** a Vala nº 05" de três sistemas: drena
 
 O laudo do termo de assunção documentará essa não conformidade. O registro cumpre duas funções:
 
-1. **Segregação de responsabilidade:** o não atendimento da ET-08 é anterior à assunção — documentado no baseline, é passivo do titular do ativo (Município), conforme o compromisso da 6.ª impugnação.
+1. **Segregação de responsabilidade:** o não atendimento da ET-08 é anterior à assunção — documentado no termo de assunção, é passivo do titular do ativo (Município), conforme o compromisso da 6.ª impugnação.
 2. **Inviabilidade da operação pelo Item 2:** se a vala não atende as exigências técnicas da LO, a disposição de resíduos ali não pode prosseguir sem regularização pelo titular da licença. A contratada não pode operar em desacordo com as condicionantes da licença ambiental.
 
 ### Etapa 4 — Comunicação ao CONTRATANTE e transição ao Item 3
@@ -154,17 +118,17 @@ O ofício:
 |---|---|
 | Aceita a transição para o Item 3 | Transição documentada por decisão do CONTRATANTE — cenário-alvo |
 | Providencia a regularização da ET-08 | A contratada colabora operacionalmente dentro do que o contrato prevê e remunera; Item 2 retomado após regularização |
-| Orienta a operação normal sem regularização | A contratada registra o risco, opera conforme a orientação formal do CONTRATANTE, com o baseline nos autos — a responsabilidade está segregada |
+| Orienta a operação normal sem regularização | A contratada registra o risco, opera conforme a orientação formal do CONTRATANTE, com o termo de assunção nos autos — a responsabilidade está segregada |
 | Silêncio | A contratada reitera o ofício; se necessário, provoca o fiscal do contrato (art. 117, Lei 14.133/2021) |
 
 ---
 
-## 5. Proteção da contratada
+## 4. Proteção da contratada
 
 | Etapa | Documento | Função |
 |---|---|---|
 | 1 | Ofício solicitando termo de assunção | Vinculação ao compromisso da Administração; boa-fé |
-| 2 | Laudo técnico com ART/RRT | Baseline: condições preexistentes documentadas; responsabilidade propter rem segregada |
+| 2 | Laudo técnico com ART/RRT | Condições preexistentes documentadas; responsabilidade segregada |
 | 3 | Constatação de não conformidade com a ET-08 | Registro técnico do fato; inviabilidade do Item 2 |
 | 4 | Ofício ao CONTRATANTE | Comunicação cooperativa; transição ao Item 3 fundamentada |
 
@@ -172,7 +136,7 @@ Em qualquer cenário, a contratada não decide sozinha — solicita orientação
 
 ---
 
-## 6. Cronograma estimado
+## 5. Cronograma estimado
 
 | Marco | Prazo estimado |
 |---|---|
@@ -185,13 +149,13 @@ Em qualquer cenário, a contratada não decide sozinha — solicita orientação
 
 ---
 
-## 7. Riscos
+## 6. Riscos
 
 | Risco | Mitigação |
 |---|---|
 | Município regulariza a ET-08 antes da assunção | A vala passa a operar regularmente — risco operacional mitigado; Item 2 opera normalmente até esgotamento da vida útil (1.º semestre de 2027 pelo TR), depois transita ao Item 3 de qualquer forma |
-| CONTRATANTE alega que a contratada deveria ter identificado a situação antes de contratar | A contratada não tinha acesso aos dados técnicos (T9 — dados não divulgados); a visita técnica facultada não substitui levantamento de engenharia; a própria Administração reconheceu a necessidade de baseline na 6.ª impugnação |
-| CONTRATANTE orienta operação normal sem regularizar | A contratada opera conforme a orientação formal do CONTRATANTE, com o registro do baseline nos autos — segregação de responsabilidade documentada no termo de assunção |
+| CONTRATANTE alega que a contratada deveria ter identificado a situação antes de contratar | A contratada não tinha acesso aos dados técnicos (T9 — dados não divulgados); a visita técnica facultada não substitui levantamento de engenharia; a própria Administração reconheceu a necessidade de registro das condições iniciais na 6.ª impugnação |
+| CONTRATANTE orienta operação normal sem regularizar | A contratada opera conforme a orientação formal do CONTRATANTE, com o termo de assunção nos autos — segregação de responsabilidade documentada |
 
 ---
 
