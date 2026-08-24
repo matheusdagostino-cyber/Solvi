@@ -71,7 +71,20 @@ O resultado é um laudo técnico com ART/RRT, formalizado como Termo de Assunç�
 
 ### Etapa 3 — Constatação do não atendimento da ET-08
 
-A ET-08 da LO exige a implantação "em **toda** a Vala nº 05" de três sistemas: drenagem de chorume, impermeabilização com manta PEAD e drenagem de gases. A implantação retroativa desses sistemas em trechos já aterrados é tecnicamente inviável. A vala não atende a ET-08. A obrigação de implantar esses sistemas é do titular da licença (Município) — o TR transfere à contratada a obrigação de "garantir" (TR 5.5.5–5.5.15), não de implantar.
+Exigências técnicas da LO CETESB n.º 4011055:
+
+| ET | Exigência |
+|---|---|
+| 01 | Os Resíduos Sólidos Domiciliares destinados ao aterro deverão ser devidamente compactados e recobertos com camada de terra diariamente |
+| 02 | Deverão ser observados todos os aspectos previstos no Índice de Qualidade de Resíduos (IQR), de modo a manter as condições adequadas do empreendimento |
+| 03 | Manter adequadamente a cortina vegetal existente com a finalidade de favorecer o isolamento visual do local |
+| 04 | Operar e manter adequadamente o sistema de coleta, armazenamento e drenagem de águas pluviais, de modo a evitar o extravasamento dessas águas para fora dos limites da área do empreendimento e formação de processos erosivos |
+| 05 | Ficam vedadas a disposição de poda de árvores e entulhos no interior das valas |
+| 06 | Fica proibida a disposição de resíduos de serviço de saúde e/ou industriais no aterro |
+| 07 | Fica proibida a queima de resíduos a céu aberto de qualquer natureza |
+| 08 | Implantar em toda a Vala nº 05 sistema de drenagem de chorume, impermeabilização (manta de PEAD) e drenagem de gases |
+
+A ET-08 exige a implantação "em **toda** a Vala nº 05" de três sistemas: drenagem de chorume, impermeabilização com manta PEAD e drenagem de gases. A implantação retroativa desses sistemas em trechos já aterrados é tecnicamente inviável. A vala não atende a ET-08. A obrigação de implantar esses sistemas é do titular da licença (Município) — o TR transfere à contratada a obrigação de "garantir" (TR 5.5.5–5.5.15), não de implantar.
 
 O laudo documenta essa não conformidade e cumpre duas funções: (1) segregação de responsabilidade — o não atendimento da ET-08 é anterior à assunção, é passivo do Município, conforme o compromisso da 6.ª impugnação; (2) inviabilidade da operação pelo Item 2 — se a vala não atende as exigências técnicas da LO, a disposição de resíduos ali não pode prosseguir sem regularização pelo titular da licença.
 
