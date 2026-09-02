@@ -1,0 +1,2775 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ESTUDOS DE DEMANDA E ENGENHARIA 
+ 
+ 
+ 
+ 
+ 
+EXPLORAÇÃO 
+E 
+PRESTAÇÃO 
+DOS 
+SERVIÇOS 
+DE 
+COLETA, 
+TRANSPORTE, 
+TRIAGEM, 
+TRANSBORDO 
+(TRANSFERÊNCIA), 
+TRATAMENTO E DESTINAÇÃO FINAL AMBIENTALMENTE ADEQUADA 
+DOS RESÍDUOS SÓLIDOS DOMICILIARES (RDO), DOS RESÍDUOS 
+PÚBLICOS URBANOS (RPU), DOS RESÍDUOS DA CONSTRUÇÃO CIVIL E 
+DEMOLIÇÃO (RCD), DOS RESÍDUOS DOS SERVIÇOS DE SAÚDE (RSS) E 
+COLETA SELETIVA (CS), BEM COMO ATIVIDADES CORRELATAS, NOS 
+MUNICÍPIOS DO CONSÓRCIO DE DESENVOLVIMENTO SUSTENTÁVEL DO 
+VELHO CHICO (“CDS VELHO CHICO”), MEDIANTE DELEGAÇÃO A SER 
+FEITA POR CONTRATO DE CONCESSÃO PATROCINADA. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+APOIO INSTITUCIONAL 
+ 
+ 
+TERMO DE COOPERAÇÃO TÉCNICA Nº 002/2023 E N° 001/2026
+
+ 
+ 
+GLOSSÁRIO 
+ABNT 
+Associação Brasileira de Normas Técnicas 
+ABRELPE 
+Associação Brasileira de Empresas de Limpeza Pública e Resíduos 
+Especiais 
+ANA 
+Agência Nacional de Águas e Saneamento Básico 
+ANVISA 
+Agência Nacional de Vigilância Sanitária 
+CDR 
+Combustível derivado de resíduos sólidos 
+CDS 
+Consórcio de Desenvolvimento Sustentável do Velho Chico 
+CONAMA 
+Conselho Nacional do Meio Ambiente 
+CS 
+Coleta Seletiva 
+CVR 
+Central de Valorização de Resíduos 
+Pontos de Entrega voluntária de Materiais Inservíveis, em pequeno 
+ECOPONTO 
+volume, (que não servem mais, como recicláveis, entulho da construção 
+civil e objetos volumosos). 
+EPI 
+Equipamento de Proteção Individual 
+ERGIRS 
+Estudo de Regionalização da Gestão Integrada de Resíduos Sólidos 
+ETR 
+Estágio de Transferência de Resíduos 
+EVTE 
+Estudos de Viabilidade Técnica Econômico-financeira 
+GPS 
+Sistema de Posicionamento Global 
+IBGE 
+Instituto Brasileiro de Geografia e Estatística 
+ICMBIO 
+Instituto Chico Mendes de Conservação da Biodiversidade 
+IN 
+Instrução Normativa 
+kg/hab/dia 
+quilograma por habitante por dia 
+Km 
+Quilômetro 
+LNSB 
+Lei Nacional de Saneamento Básico 
+MCIDADES 
+Ministério das Cidades 
+MDR 
+Ministério do Desenvolvimento Regional 
+MMA 
+Ministério do Meio Ambiente 
+NBR 
+Norma Brasileira 
+NR OS 
+Norma Regulamentadora Ordem de Serviço 
+OS 
+Ordem de Serviço 
+
+ 
+ 
+PEAD 
+Polietileno de alta densidade 
+PEBD 
+Polietileno de baixa densidade 
+PERS 
+Plano Estadual de Resíduos Sólidos 
+PET 
+Tereftalato de polietileno 
+PEV 
+Ponto de Entrega Voluntária 
+PNRS 
+Política Nacional de Resíduos Sólidos 
+PRAD 
+Plano de Recuperação de Áreas Degradadas 
+ProteGeer 
+Cooperação para Proteção do Clima na Gestão dos Resíduos Sólidos 
+Urbanos 
+RCD 
+Resíduos da Construção e Demolição 
+RDC 
+Resolução de Diretoria Colegiada 
+RDO 
+Resíduos Sólidos Domiciliares 
+RPU 
+Resíduos Públicos Urbanos 
+RSS 
+Resíduos do Serviço de Saúde 
+RSU 
+Resíduos Sólidos Urbanos 
+SPDA 
+Sistema de Proteção contra Descargas Atmosféricas 
+t/ano 
+Tonelada por ano 
+t/dia 
+Tonelada por dia 
+t/mês 
+Tonelada por mês 
+TEP 
+Tarifa do Ente Público 
+TUF 
+Tarifa do Usuário Final 
+UCO 
+Unidade de Compostagem de Resíduos Orgânicos 
+
+ 
+ 
+1. APRESENTAÇÃO 
+ 
+O presente Estudo de Demanda e Engenharia integra o conjunto de 
+estudos técnicos destinados a subsidiar a modelagem e a estruturação do 
+projeto de parceria público-privada dos serviços de manejo e gestão de 
+resíduos sólidos urbanos (RSU) no âmbito do CONSÓRCIO DE 
+DESENVOLVIMENTO SUSTENTÁVEL DO VELHO CHICO (“CDS VELHO 
+CHICO). 
+ 
+O CONSÓRCIO DE DESENVOLVIMENTO SUSTENTÁVEL DO 
+VELHO CHICO (CDS VELHO CHICO) celebrou os TERMOS DE 
+COOPERAÇÃO TÉCNICA N° 002/2023 e 001/2026 com a SECRETARIA DE 
+DESENVOLVIMENTO URBANO DO ESTADO DA BAHIA (SEDUR-BA), 
+tendo por objeto: (i) o compartilhamento entre as partes de informações e 
+dados técnicos para o desenvolvimento das analises quanto ao melhor arranjo 
+territorial e conjunto de soluções a serem ofertados para viabilizar a 
+regionalização e implantação do gerenciamento de resíduos sólidos na 
+região; (ii) auxílio ao Consórcio no que tange à análise e compatibilização dos 
+estudos, projetos, modelagens e relatórios técnicos recepcionados no âmbito 
+do PMI n° 001/2023, bem como no acompanhamento das próximas fases 
+decorrentes da contratação deles decorrente; (iii) capacitação dos gestores e 
+técnicos para melhor condução do processo administrativos. 
+ 
+ 
+As contribuições obtidas através das notas técnicas e pareceres fruto 
+da cooperação técnica foram devidamente analisadas, e incorporadas ao 
+EDITAL. Para os fins deste estudo, foram considerados os Municípios de 
+Ibotirama, Paratinga, Oliveira dos Brejinhos, Muquém do São Francisco e 
+Morpará, integrantes do CDS VELHO CHICO, que aderiram ao projeto. 
+ 
+O marco do projeto é a implantação, operação e manutenção do 
+“Parque do Sol Velho Chico”, cujo conceito é agrupar soluções tecnológicas 
+
+ 
+ 
+que possibilitem a recuperação de matéria e energia antes do processo de 
+disposição final dos resíduos, minimizando os impactos ambientais 
+decorrentes do manejo inadequado dos resíduos sólidos, a exemplo do 
+aterramento de todos os resíduos em lixões. 
+Os estudos estabeleceram a seguinte ordem de prioridade: não 
+geração, redução, reutilização, reciclagem, tratamento dos resíduos sólidos 
+e disposição final apenas dos rejeitos. 
+A destinação final agregará as melhores técnicas de reutilização, 
+reciclagem, compostagem, recuperação, possibilidade de estudo para 
+viabilidade de aproveitamento energético, inclusão social dos catadores na 
+cadeia produtiva e disposição final apenas dos rejeitos. 
+O Parque do Sol Velho Chico receberá tecnologias para prestar 
+serviços, objetivando a valorização dos resíduos, a exemplo de: (i) serviços 
+de recebimento, triagem e destinação final dos resíduos sólidos domiciliares 
+(RDO) gerado nas zonas urbana e rural; (ii) central de tratamento mecânico 
+biológico; (iii) operação da unidade de compostagem; (iv) estação de 
+transferência e destinação final ambientalmente adequada dos rejeitos. 
+Serão implantados um centro de educação ambiental, trilhas ecológicas e um 
+viveiro de mudas para receber a comunidade local e visitantes. 
+Para fins de estabelecimento das tarifas cobradas pela prestação dos 
+serviços, objeto da futura concessão, serão observadas as diretrizes 
+estabelecidas na Norma Regulamentadora (NR) nº 01/2021, aprovada pela 
+Resolução 79/2021, da Agência Nacional de Águas e Saneamento Básico 
+(ANA), a fim de assegurar a sustentabilidade econômico-financeira da 
+prestação dos serviços e a modicidade tarifária. 
+A tarifa denominada de TARIFA DO USUÁRIO FINAL (TUF) seguirá a 
+NR 01/2021 da ANA, englobando os resíduos domésticos e os resíduos 
+originários de atividades comerciais em quantidades similares aos resíduos 
+domésticos, desde que não estejam enquadrados em norma legal ou de 
+conduta, que atribua a responsabilidade ao seu gerador. 
+
+ 
+ 
+A TARIFA DO ENTE PÚBLICO (TEP) representará os valores pagos 
+diretamente pelos municípios que aderirem aos serviços relativos aos 
+resíduos dos serviços de saúde (RSS), resíduos da construção e demolição 
+(RCD) e resíduos públicos urbanos (RPU) gerados pelos estabelecimentos 
+públicos. 
+As receitas acessórias ou alternativas advirão da exploração de 
+atividades correlatas e complementares ao objeto da concessão, 
+englobando, mas não se limitando, ao manejo dos resíduos de atividades 
+comerciais de estabelecimentos privados classificados como grandes 
+geradores, em quantidade superior ao estabelecido em norma, ou cuja 
+responsabilidade seja dos seus geradores. Do valor da receita acessória 
+aferida pela prestação desses serviços pela Concessionária, o percentual de 
+3,00% (três) será revertido em favor da modicidade tarifária, nos termos do 
+Contrato de Concessão. 
+2. OBJETIVOS 
+ 
+O principal objetivo do estudo é o atendimento à política nacional de 
+resíduos sólidos (PNRS), por meio da estruturação da gestão sustentável 
+dos resíduos sólidos urbanos. O desenvolvimento do modelo para 
+otimização econômica, social e ambiental da logística operacional para 
+atendimento da área de interesse compreendeu: 
+a) seleção de áreas para implantação da infraestrutura operacional das 
+estações de transferência de resíduos (ETR) e da central de 
+valorização de resíduos (CVR); 
+b) simulador de cenários para o dimensionamento dos recursos 
+necessários; 
+c) extração de dados dos cenários, como total de quilômetros, horas e 
+contêineres para armazenamento dos resíduos para orçamentação; 
+d) ampliação da participação da sociedade na gestão dos resíduos 
+sólidos urbanos; 
+e) inclusão formal dos catadores; 
+f) redução dos riscos de impacto sobre a sociedade e o meio ambiente; 
+
+ 
+ 
+g) redução dos riscos existentes, mediante o manejo adequado dos 
+resíduos sólidos. 
+ 
+3. FONTES UTILIZADAS NOS ESTUDOS 
+ 
+As fontes utilizadas para pesquisa e levantamento de dados foram as 
+seguintes: 
+a) Setores censitários do instituto brasileiro de geografia e estatística (IBGE) 
+– censo demográfico 2010; 
+b) Estudo de regionalização da gestão integrada de resíduos sólidos 
+(ERGIRS-BA); 
+c) Programa de aceleração do crescimento (PAC) 1 - Diagnóstico ambiental 
+e social; 
+d) Programa de aceleração do crescimento (PAC) 2 - Foco em coleta 
+seletiva, tratamento e destinação final; 
+e) Projeção populacional - IBGE (2021); 
+f) Plano Estadual de Resíduos Sólidos (PERS-BA); 
+g) Mapas do Openstreetmap; 
+h) API do Google Maps (Places); 
+i) Mapa de unidades de conservação – Ministério do Meio Ambiente (MMA); 
+j) Mapa de hidrografia e rodovias (IBGE); 
+k) Panorama de resíduos sólidos no Brasil (ABREMA); 
+l) Dados levantados em campo; 
+m) Dados fornecidos pelos Municípios do CDS VELHO CHICO; 
+n) Normas Técnicas; 
+o) Legislações Vigentes; 
+p) Termos de Referência do Ministério do Desenvolvimento Regional (MDR). 
+ 
+ 
+4. TECNOLOGIA UTILIZADA NA MODELAGEM 
+ 
+Para o desenvolvimento da modelagem foram utilizados recursos 
+baseados no conceito de software livre. O sistema utilizou-se das melhores 
+
+ 
+ 
+práticas e de bibliotecas aplicadas à logística, que se encontram no estado 
+da arte da tecnologia. 
+As limitações do modelo estão relacionadas à qualidade dos mapas 
+disponíveis e ao período de mais de 10 (dez) anos decorridos desde o último 
+censo do IBGE. Neste sentido, optou-se por ajustar os dados com base na 
+taxa de produção de resíduos e manter inalterados esses quantitativos, 
+permitindo a padronização para análise dos planos de operação. 
+5. ETAPAS DA MODELAGEM 
+ 
+A modelagem seguiu o seguinte fluxo: 
+ 
+Figura 1 - Fluxo das etapas de modelagem 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+6. METODOLOGIA UTILIZADA 
+ 
+A metodologia utilizada para o estudo de demanda e engenharia 
+seguirá as normas de referência para a elaboração de estudos de 
+viabilidade técnica e econômico-financeira (EVTE) previstas no art. 10, da 
+Lei nº 11.445 de 5 de janeiro de 2007 - Lei Nacional de Saneamento 
+Básico (LNSB), na Portaria nº 557 de 11 de novembro de 2016, do 
+Ministério das Cidades (MCIDADES), e em outras normas pertinentes. 
+Utilizou-se os setores censitários com o esforço de operação para a 
+execução dos serviços, tanto do ponto de vista da operação interna de 
+cada setor, quanto do ponto de vista da logística entre os setores e as 
+bases de operação. 
+O fator principal de restrição para o dimensionamento dos recursos a 
+serem investidos foi o tempo, admitindo-se o trabalho mensal de 190 
+horas em 26 dias, aproximadamente 7,33 horas decimais por dia, com um 
+ciclo semanal de 6 dias trabalhados. Também foram adotados outros 
+fatores de restrição para implantação da infraestrutura operacional, tais 
+como: 
+a) a distância máxima para a sede dos Municípios; 
+b) a escolha dos locais para instalação da estrutura operacional deveria 
+priorizar áreas em vias com boa infraestrutura e de fácil acesso; e 
+c) imposições legais contidas na Lei nº 9.985/2000 e na Lei nº 
+12.651/2012. 
+Com a análise prévia dos dados, ficou caracterizado que a variável de 
+maior custo operacional corresponderá às distâncias, e não ao volume de 
+resíduos. 
+7. ANÁLISE DA SITUAÇÃO ATUAL 
+ 
+A análise de diagnóstico da situação atual foi feita através de vistorias 
+técnicas in loco e levantamento de dados em todos os municípios 
+integrantes do CDS VELHO CHICO que aderiram ao projeto. A referida 
+análise corresponde ao estudo, pesquisas e levantamento de informações 
+
+ 
+ 
+relacionadas a demandas de engenharia, logística e infraestrutura, a fim 
+de obter informações dos possíveis riscos e das possibilidades, tendo 
+como principal objetivo a estruturação do sistema de gestão de resíduos 
+sólidos urbanos (RSU) nos municípios. 
+ 
+ 
+7.1. 
+ESTRUTURA ATUAL 
+ 
+ 
+7.1.1. CONSÓRCIO DE DESENVOLVIMENTO SUSTENTÁVEL 
+DO VELHO CHICO 
+Os 5 (cinco) municípios do CDS VELHO CHICO que 
+aderiram ao projeto são: Ibotirama, Paratinga, Oliveira dos 
+Brejinhos, Muquém do São Francisco e Morpará. 
+O CDS VELHO CHICO tem como premissa a promoção do 
+desenvolvimento sustentável regional, visando à melhoria da 
+qualidade de vida da população do território Velho Chico do Estado 
+da Bahia e adjacências. Sua finalidade específica é a atuação nas 
+áreas de infraestrutura, desenvolvimento econômico regional, 
+desenvolvimento urbano e gestão ambiental, saúde, educação, 
+cultura e esporte, assistência, inclusão e direitos humanos, 
+segurança pública e fortalecimento institucional. 
+É de suma importância a participação do CDS VELHO 
+CHICO para equalizar problemas de ordem econômico-financeira 
+que impedem o avanço dos investimentos relacionados à gestão 
+dos resíduos sólidos, a fim de buscar uma solução que contemple 
+todos os 5 (cinco) municípios consorciados. 
+Para os municípios de menor porte, seria inviável realizar o 
+planejamento e a implementação do projeto, além da gestão e do 
+monitoramento do sistema integrado de resíduos sólidos, sem se 
+associar a outros Municípios. 
+
+ 
+ 
+Atualmente alguns Municípios que integram o CDS VELHO 
+CHICO possuem contratos com empresas terceirizadas para 
+prestação de parte dos serviços de limpeza urbana. O objetivo do 
+consórcio é articular ações voltadas à concretização da Política 
+Territorial 
+de 
+Resíduos 
+Sólidos, 
+buscando 
+alternativas 
+consorciadas para os Municípios da região que aderirem ao 
+programa. 
+7.1.2. GESTÃO ATUAL DOS RESÍDUOS SÓLIDOS NOS 
+MUNICÍPIOS 
+Os serviços de coleta e de limpeza pública dos 5 (cinco) 
+municípios integrantes da iniciativa são realizados através de 
+empresas terceirizadas contratadas pelas prefeituras. 
+7.1.3. COLETA E TRANSPORTE DOS RESÍDUOS SÓLIDOS 
+URBANOS 
+O estudo abordará os Resíduos Sólidos Urbanos, que 
+incluem Resíduos Sólidos Domiciliares (RDO) e Resíduos Públicos 
+Urbanos (RPU); resíduos da Construção e Demolição (RCD); 
+Resíduos do Serviço de Saúde (RSS); e Coleta Seletiva (CS), 
+englobando as áreas urbanas e rurais. 
+7.1.3.1. 
+RESÍDUOS 
+DOMICILIARES 
+NOS 
+MUNICÍPIOS 
+Com um total de 98.749 mil habitantes, segundo o censo 
+demográfico (IBGE), a população da região do CDS VELHO 
+CHICO gera uma média de aproximadamente 82 (oitenta e duas) 
+toneladas/dia de resíduos sólidos domiciliares, que atualmente são 
+destinados aos lixões localizados nos seus municípios ou em 
+municípios circunvizinhos, em desacordo com as exigências legais 
+em ambientais vigentes. 
+Os aterros sanitários licenciados mais próximos dos 
+municípios abrangidos pelo CDS VELHO CHICO estão nos 
+
+ 
+ 
+Municípios de Caetité (aterro privado sob gestão da CVR VELHO 
+CHICO LTDA) e Bom Jesus da Lapa (aterro privado sob gestão da 
+CVR SÃO FRANCISCO LTDA), ambos joint venture das empresas 
+RETEC TECNOLOGIA EM RESIDUOS LTDA (GVC HOLDING 
+S/A), AMBIENTAL FORT COLETA DE RESIDUOS LTDA e GBI 
+AMBIER EMPREENDIMENTOS AMBIENTAIS LTDA. 
+Todavia, a grande distância em relação ao centro de geração 
+dos resíduos, aliada à inexistência de Estações de Transferência 
+de Resíduos (ETR), acarretaria custos elevados de transporte para 
+os aterros sanitários situados nessas outras localidades. 
+A utilização dos aterros existentes, portanto, aumentaria 
+significativamente as despesas dos Municípios com disposição 
+final ambientalmente adequada dos resíduos sólidos, tornando a 
+atividade verdadeiramente inacessível. 
+Atualmente, a coleta e o transporte de RDO são realizados 
+individualmente por cada município integrante do CDS VELHO 
+CHICO, mediante a celebração de contratos administrativos típicos 
+para terceirização dos serviços ou a locação de equipamentos para 
+prestação direta dos serviços pelos Municípios. 
+Grande parte dos contratos existentes nos Municípios 
+aderentes foram celebrados ainda sob a égide da Lei n° 8.666/93, 
+com vigência limitada a até 60 meses (art. 57, II, da Lei n° 
+8.666/93). Há, ainda, contratos mais recentes firmados em caráter 
+emergencial (prazo de 6 meses a 12 meses) e outros firmados com 
+prazos de até 120 (cento e vinte) meses, com fundamento na Lei 
+nº 14.133/21 (Nova Lei de Licitações). 
+Em todos os casos, os contratos abrangem apenas o custeio 
+operacional, 
+não 
+contemplando 
+investimentos 
+estruturais 
+relevantes, o que impede a superação definitiva dos lixões e 
+implantação da infraestrutura necessária à destinação final 
+ambientalmente adequada dos resíduos. 
+
+ 
+ 
+Desse modo, os Municípios não dispõem de capacidade 
+financeira para, individualmente, realizar investimentos de longo 
+prazo, seja na modernização da frota, seja na implantação de 
+unidades de tratamento e destinação final ambientalmente 
+adequada dos resíduos, visto que esses ativos têm um alto valor 
+nominal. 
+Além disso, o sistema atualmente adotado para a coleta 
+domiciliar 
+é 
+predominantemente 
+convencional 
+e 
+precário, 
+desconsiderando as novas rotas tecnológicas, mais eficientes, e as 
+possibilidades de modernização do sistema previstas na legislação 
+aplicável. 
+De acordo com dados levantados sobre a quantidade média 
+estimada de resíduos coletados diariamente (t/dia) e os 
+equipamentos disponíveis para a coleta, observa-se que, na 
+maioria dos Municípios, são utilizados caminhões coletores 
+compactadores com idade média próxima de 10 (dez) anos e 
+caçambas basculantes com idade média próxima de 15 (quinze) 
+anos, o que compromete a eficiência e a confiabilidade do serviço. 
+Quanto aos resíduos de construção civil e demolição (RCD), 
+foi verificado que uma parte dos RCD são dispostos para aterrar 
+terrenos nos Municípios. 
+Verifica-se, ainda, que os Municípios não possuem 
+programas estruturados de redução, reaproveitamento ou coleta 
+seletiva dos resíduos, o que contraria as diretrizes da PNRS. 
+Observa-se também a existência de inúmeros catadores não 
+organizados, sem qualquer relação/cadastro com as Prefeituras e 
+sem acesso à infraestrutura técnica operacional para exercerem 
+suas atividades de maneira digna, com tecnologias de 
+mecanização e redução das atividades de cunho manual na 
+exploração dos resíduos. 
+
+ 
+ 
+Os catadores não organizados são exclusivamente 
+responsáveis pelo aproveitamento dos recicláveis descartados 
+pelos comércios e feiras locais. 
+No que concerne à coleta seletiva, o cenário ideal pressupõe 
+a implantação de programas estruturados, capazes de garantir aos 
+catadores renda, EPIs, fardamento, equipamentos como carrinho, 
+prensas e PONTOS DE ENTREGA VOLUNTÁRIA (PEV), para a 
+realização do transporte e destinação final dos resíduos recicláveis. 
+ 
+Nesse contexto, parcela significativa da coleta seletiva nos 
+Municípios Aderentes poderá ser realizada através da implantação 
+de PEVs estrategicamente distribuídos, associada à execução de 
+programa de educação ambiental, direcionado tanto ao comércio, 
+quanto às residências, inclusive com ações porta a porta. 
+7.1.3.2. 
+TRATAMENTO E DESTINAÇÃO FINAL 
+ 
+Os Resíduos Sólidos Urbanos (RSU) provenientes da 
+limpeza pública e da coleta domiciliar dos Municípios que integram 
+o CDS VELHO CHICO são destinados aos lixões, em 
+contrariedade ao que dispõe a legislação ambiental vigente. 
+ 
+8. APRESENTAÇÃO DOS ESTUDOS DE DEMANDA E ENGENHARIA 
+8.1. 
+DIMENSÃO DO PROJETO 
+ 
+A dimensão do estudo alcançará a estruturação do sistema de 
+gestão de Resíduos Sólidos Urbanos (RSU) de 5 (cinco) dos municípios 
+integrantes do CDS VELHO CHICO, a saber: Ibotirama, Paratinga, 
+Oliveira dos Brejinhos, Muquém do São Francisco e Morpará. 
+O projeto seguirá as normas de referência para a elaboração de 
+Estudos de Viabilidade Técnica Econômico-Financeira (EVTE) previstas 
+no art. 10, inciso I, da Lei nº 11.445/2007 - Lei Nacional de Saneamento 
+Básico (LNSB) e na Portaria nº 557/2016, do Ministério das Cidades 
+(MCIDADES). 
+
+ 
+ 
+O estudo de demanda seguirá o previsto no art. 10 da referida 
+portaria, que prevê o horizonte de tempo do contrato de 30 (trinta) anos. 
+Consideramos a identificação da expectativa de demanda pelos serviços, 
+baseada em estudos populacionais, em estudo de custos, despesas e 
+receitas, e no referido prazo contratual. 
+8.2. 
+ESTUDO DA GERAÇÃO PER CAPITA (KG/HAB/DIA) DE 
+RESÍDUOS SÓLIDOS URBANOS 
+Para dimensionar os resíduos sólidos domiciliares gerados em 
+5 (cinco) dos municípios que integram o CDS VELHO CHICO, foram 
+utilizados os dados populacionais disponibilizados pelo IBGE (2022); o 
+nível de atendimento da população, considerando a universalização 
+dos serviços ao longo do período do contrato; o crescimento 
+populacional; e o coeficiente de geração média per capita de resíduos 
+domiciliares. 
+Com base no último censo demográfico (IBGE, 2022), estimou-
+se a população total dos Municípios integrantes do CDS VELHO 
+CHICO. A Tabela 2 apresenta a estimativa dos quantitativos de RDO 
+recolhidos nos Municípios do CDS VELHO CHICO, no ano de 2025, 
+por Município. 
+Tabela 2 - Estimativa dos quantitativos de Resíduos Sólidos Domiciliares 
+(RDO) 
+recolhidos nos Municípios do CDS VELHO CHICO 
+MUNICÍPIOS 
+T/ANO 
+T/MÊS 
+T/DIA 
+KG/HAB.DIA 
+Ibotirama 
+9.294,48 
+699,89 
+25,46 
+0,83 
+Paratinga 
+3.272,76 
+774,54 
+8,97 
+0,83 
+Muquém do São Francisco 
+6.459,84 
+272,73 
+17,70 
+0,83 
+Morpará 
+2.490,24 
+207,52 
+6,82 
+0,83 
+Oliveira dos Brejinhos 
+8.398,68 
+538,32 
+23,01 
+0,83 
+Total 
+29.916,00 
+2.493,00 
+81,96 
+0,83 
+ 
+O valor médio calculado está compatível com a média 
+regional de 0,971 kg/hab/dia (ABRELPE, 2021) e com a média de 
+0,90 kg/hab/dia estabelecida no termo de referência do Ministério 
+do  Desenvolvimento  Regional  (MDR),  para  Municípios com 
+
+ 
+ 
+população de até 200 a 500 mil habitantes, com algumas variações 
+entre os Municípios. 
+Dentre as características que definem a média per capita 
+real de geração de resíduos na região, destacamos o elevado 
+índice de população residente na zona rural, que não possui a 
+mesma frequência de coleta das áreas urbanas. 
+Nas zonas rurais dos Municípios do CDS VELHO CHICO, 
+observa-se que a frequência de coleta dos resíduos varia entre 
+semanal, quinzenal e mensal, ao passo que há localidades que não 
+são contempladas com a coleta. Nos casos em que não existe 
+coleta, os resíduos orgânicos que não são aproveitados para 
+utilização, como adubo, ou para alimentação dos animais, são 
+levados para a queima. 
+De acordo com os estudos realizados, levando em 
+consideração o índice per capita, para que os resíduos gerados 
+sejam reduzidos, é necessária a implantação de programas 
+socioambientais que conscientizem e sensibilizem a população 
+sobre a importância da redução. 
+8.3. 
+PRINCÍPIOS APLICADOS AO ESTUDO 
+ 
+Os estudos tomaram como base os princípios e objetivos da PNRS, 
+em especial os prescritos no art. 7º da Lei nº 12.305/2010, a saber: 
+“I - Proteção da saúde pública e da qualidade ambiental; 
+ 
+II - Não geração, redução, reutilização, reciclagem e tratamento dos 
+resíduos sólidos, bem como disposição final ambientalmente 
+adequada dos rejeitos; 
+III - estímulo à adoção de padrões sustentáveis de produção e 
+consumo de bens e serviços; 
+IV - adoção, desenvolvimento E aprimoramento de tecnologias 
+limpas como forma de minimizar impactos ambientais; 
+
+ 
+ 
+VII - gestão integrada de resíduos sólidos; 
+ 
+IX - Capacitação técnica continuada na área de resíduos sólidos; 
+ 
+X - regularidade, continuidade, funcionalidade E universalização da 
+prestação dos serviços públicos de limpeza urbana e de manejo de 
+resíduos sólidos, com adoção de mecanismos gerenciais e 
+econômicos que assegurem a recuperação dos custos dos serviços 
+prestados, 
+como 
+forma 
+de 
+garantir 
+sua 
+sustentabilidade 
+operacional e financeira, observada a Lei nº 11.445, de 2007; 
+XII - integração dos catadores de materiais reutilizáveis e 
+recicláveis 
+nas 
+ações 
+que 
+envolvam 
+a 
+responsabilidade 
+compartilhada pelo ciclo de vida dos produtos.” (BRASIL, Lei nº 
+12.305) 
+A meta do presente estudo é reduzir progressivamente, até o final do 
+contrato, percentual relevante do rejeito levado ao aterro sanitário, considerando 
+para tanto o conceito de rejeito da PNRS em atendimento a Nota Técnica 
+Conjunta nº 001/2024/CC/PR/MCID/MMA: 
+“Os resíduos sólidos que, depois de esgotadas todas as possibilidades de 
+tratamento e recuperação por processos tecnológicos disponíveis e 
+economicamente viáveis, não apresentem outra possibilidade que não a 
+disposição final ambientalmente adequada” (BRASIL, Lei nº 12.305) 
+ 
+ 
+Para a redução dos rejeitos nos Municípios pertencentes ao CDS VELHO 
+CHICO, serão disponibilizados: 
+a) 
+O complexo Parque do Sol Velho Chico, preferencialmente no 
+Município de Ibotirama, com a implantação de Central de Valorização 
+de Resíduos (CVR) 
+b) 
+Unidade de Compostagem de resíduos orgânicos (UCO); 
+
+ 
+ 
+c) 
+Estações de Transferência de Resíduos (ETR) localizadas em 
+Paratinga, Muquém do São Francisco, Morpará e Oliveira dos 
+Brejinhos 
+d) 
+Ecopontos nas cidades; 
+e) 
+Pontos de Entrega Voluntária (PEVs) espalhados em todos os 
+Municípios integrantes do consórcio. 
+ 
+8.4. 
+MODELO OPERACIONAL 
+ 
+O modelo operacional adotado considerou o estudo regional de 
+toda extensão territorial, as unidades de conservação, o 
+levantamento de dados, o conhecimento da geração de resíduos, 
+a análise da demanda, o conhecimento do destino final, a atuação 
+dos catadores, a distância entre Municípios integrantes do CDS 
+VELHO CHICO, os processos tecnológicos existentes, a 
+capacidade produtiva dos equipamentos a serem utilizados, as 
+estratégias para alcançar a universalização dos serviços e a 
+modicidade tarifária, observadas as normas de regência da matéria. 
+8.5. 
+ROTA TÉCNOLÓGICA 
+8.5.1. CONCEITO SELECIONADO PARA O PROJETO 
+ 
+Segundo Reichert (2021), em publicação resultante de termo 
+de cooperação para proteção do clima na gestão de resíduos sólidos 
+urbanos (ProteGeer), na gestão de resíduos sólidos urbanos, o 
+conceito de rota tecnológica é conjunto de processos, tecnologias 
+e fluxos de resíduos, desde sua geração até a sua disposição final, 
+envolvendo circuito de coleta de resíduos de forma indiferenciada e 
+diferenciada, e contemplando tecnologias de tratamento dos 
+resíduos com ou sem valoração energética. A rota tecnológica 
+inicia-se com a geração dos resíduos e encerra-se com a disposição 
+final em aterro sanitário licenciado a ser construído pela 
+CONCESSIONÁRIA até o 1º ano de contrato. 
+
+ 
+ 
+8.5.2. PREMISSAS E DIRETRIZES 
+ 
+O estudo seguirá as seguintes premissas e diretrizes 
+indicadas no ProteGeer: 
+a) conhecer a rota tecnológica atualmente utilizada pelo 
+Município; 
+b) seguir com os objetivos de redução, aproveitamento, 
+reaproveitamento, tratamento ambientalmente adequado 
+e inclusão dos catadores de materiais recicláveis e 
+reutilizáveis, nos termos da Lei nº 12.305/2010, 
+regulamentada pelo Decreto nº 10.936/2022; 
+c) recuperar as áreas degradadas com encerramento e 
+monitoramento de lixões; 
+d) compatibilizar a rota tecnológica com as metas definidas; 
+e) avaliar e quantificar os subprodutos que possam resultar 
+em receitas acessórias ao sistema; 
+f) atender à hierarquia do gerenciamento integrado de 
+resíduos estabelecida no art. 9º da Lei nº 12.305/2010; 
+g) considerar 
+tecnologias 
+consolidadas, 
+viáveis 
+e 
+licenciáveis de acordo com a legislação brasileira; 
+h) avaliar a possibilidade de implantação de avanços 
+tecnológicos e de novas formas de tratamento de 
+maneira escalonada, após realização do estudo de 
+balanço de massa e de energia das rotas avaliadas; 
+i) criar cronograma de implementação dos investimentos e 
+da estruturação dos serviços componentes da rota 
+tecnológica. 
+O estudo seguirá em busca de alcançar o fluxograma 
+sugerido pelo ProteGeer, conforme disposto na Figura 5. 
+
+ 
+ 
+Figura 5 - Fluxograma da Rota Tecnológica adotada 
+ 
+ 
+Fonte: ProteGeer (2021). 
+ 
+ 
+ 
+8.5.3. DAS ROTAS TECNOLÓGICAS DEFINIDAS NO ESTUDOS 
+ 
+ 
+8.5.3.1. 
+GESTÃO DE RESÍDUOS X TARIFA DO 
+USUÁRIO FINAL (TUF) 
+A gestão de RDO fará parte do escopo de 
+serviços do estudo e será arcada com receitas 
+provenientes da cobrança da Tarifa do Usuário Final 
+(TUF). A seguir, apresentamos a descrição da gestão 
+de RDO, fundamentada nas premissas e nas 
+diretrizes já descritas e nas etapas definidas no 
+cronograma. 
+
+ 
+ 
+8.5.3.1.1. Parque do Sol Velho Chico 
+ 
+ 
+a) Pré-Implantação, 
+ 
+Projeto, 
+Licenciamento, 
+Implantação, 
+Operação, Encerramento e Pós-
+encerramento 
+da 
+Central 
+de 
+Valorização de Resíduos (CVR): 
+ 
+ 
+O complexo Parque do Sol Velho Chico, composto dos itens a seguir, é 
+um projeto que propõe o conceito de valorização dos resíduos, fomentando a 
+universalização dos serviços de Limpeza Urbana e de Manejo dos resíduos 
+sólidos, com auxílio do programa de Educação Ambiental, que contribuirá de 
+forma direta com a conscientização e comunicação social. A Central de 
+Valorização de Resíduos (CVR) será composta dos itens abaixo: 
+• Unidade de Compostagem dos Resíduos Orgânicos (UCO) 
+• Célula de Aterramento de Rejeitos (aterro sanitário licenciado) 
+• Viveiro de Mudas 
+• Trilha Ecológica 
+• Centro de Educação Ambiental 
+• Área Administrativa 
+• Apoio Operacional 
+ 
+a.1) Projeto, Licenciamento, Implantação e operação da Unidade de 
+Compostagem dos Resíduos Orgânicos (UCO): 
+Compostagem é o processo biológico de transformação da fração 
+orgânica dos resíduos em adubo humificado, chamado “composto”. O composto 
+é o adubo orgânico preparado pela decomposição de restos animais e vegetais 
+que, em condições favoráveis de fermentação, conduz essas matérias primas a 
+um estado de parcial ou total humificação. O composto é, portanto, o resultado 
+de um processo controlado de decomposição bioquímica de materiais orgânicos, 
+
+ 
+ 
+transformando-os em um produto mais estável, mais bem utilizado como 
+fertilizante orgânico. 
+Segundo termo de referência do MDR, as Unidades de Compostagem 
+(UCOs) constituem instalações onde são processados os resíduos orgânicos. 
+Nelas, os resíduos orgânicos passam pela bioestabilização, por meio de 
+compostagem aeróbia, que é o processo biológico em que os microrganismos 
+transformam a matéria orgânica, como estrume, folhas, papel e restos de 
+comida, num material fisicamente semelhante ao solo, chamado de composto, e 
+que pode ser utilizado como biofertilizantes para produção agrícola. As UCOs 
+compreendem áreas específicas para a recepção e o tratamento dos resíduos, 
+a estocagem, o acondicionamento e a expedição do composto orgânico. 
+As UCOs deverão ser projetadas para atender até 7,50% (sete virgula 
+cinquenta por cento) dos resíduos orgânicos, previamente segregados, gerados 
+pela população no período de 30 (trinta) anos. Elas deverão ser dimensionadas 
+com base no aporte diário, nas características dos resíduos orgânicos e no clima 
+da região. Deverá ser concebido o processo mais adequado de compostagem, 
+tendo por preferência o sistema natural a céu aberto com reviramento mecânico 
+das leiras (Windrow). 
+A unidade de compostagem será implantada no complexo Parque do Sol 
+Velho Chico e deverá conter as seguintes instalações: 
+• galpão com cobertura; 
+• área de recepção dos resíduos orgânicos; 
+• trituração de podas; 
+• pátio de compostagem propriamente dito; 
+• laboratório de controle do processo de compostagem (com especificação 
+e quantificação dos equipamentos e instalações necessários); 
+• peneiramento, armazenamento e expedição de composto curado; 
+• estacionamento para máquinas operacionais e veículos de carga. 
+
+ 
+ 
+O sistema a ser utilizado será o de leiras. Os resíduos serão dispostos em 
+leiras de seção triangular, nos períodos chuvosos, e, trapezoidal, nos períodos 
+secos, com cerca de 2,5 metros a 5,0 metros de base e de 1,5 metros a 2,0 
+metros de altura. Estas leiras sofrerão reviradas periódicas, para que o ar circule, 
+permitindo a difusão do oxigênio e possibilitando uma fermentação uniforme e 
+mais completa. 
+O composto para uso agronômico deverá passar por um peneiramento 
+visando a remoção de fragmentos como plásticos, vidros e outros, podendo ser 
+a eles adicionados outros nutrientes. 
+a.2) Projeto, Licenciamento, Pré implantação, Implantação, Operação, 
+Encerramento e Pós Encerramento da célula de aterramento de rejeitos: 
+Segundo a NBR 8419/1992, da ABNT, entende-se como aterro sanitário a 
+técnica de disposição de resíduos sólidos urbanos no solo, sem causar danos à 
+saúde pública e à sua segurança, minimizando os impactos ambientais. Este 
+método utiliza princípios de engenharia para confinar os resíduos sólidos à 
+menor área possível e reduzi-los ao menor volume permissível, cobrindo-os com 
+uma camada de terra na conclusão de cada jornada de trabalho, ou a intervalos 
+menores, se necessário. 
+O processo de licenciamento ambiental seguirá as normas vigentes e 
+pertinentes e o termo de referência do MDR ou do órgão licenciador de controle 
+ambiental. Os cálculos para o dimensionamento serão para uma vida útil de 30 
+(trinta) anos. 
+Seguindo a sugestão do MDR, o projeto executivo deverá contemplar: vias 
+internas (permanente e transitórias) de acesso à frente de operações (plantas; 
+perfil longitudinal médio; e perfis transversais, a cada 10m); sistema de drenagem 
+e manejo de águas pluviais; sistema de impermeabilização da base e de 
+captação e escoamento dos efluentes líquidos; sistema de tratamento dos 
+efluentes líquidos (inclusive detalhamento da rede de lançamento dos efluentes 
+tratados em seu corpo receptor); sistema de captação e tratamento dos gases; 
+plantas (globais e parciais, fase a fase) do maciço; secções, longitudinais e 
+transversais, do maciço; poços de monitoramento da qualidade do lençol 
+
+ 
+ 
+freático; edificações necessárias (guarita, sede administrativa e de apoio ao 
+pessoal técnico e operacional, galpão para manutenção primária e guarda de 
+máquinas e veículos operacionais etc.); urbanização, paisagismo/revegetação e 
+sinalização da gleba. 
+A distância de 30 km, indicada pelo MDR como máxima desejável em 
+relação à região mais populosa das cidades, serviu como base para se buscar o 
+melhor roteiro possível na região e adequar os custos de transporte. Contudo, 
+em alguns municípios não foi possível alcançar a distância recomendada, 
+mesmo utilizando-se estações de transferência de resíduos (ETR). Assim, 
+recomendamos uma extensão superficial mínima de 31 hectares de gleba 
+destinada à implantação de aterro sanitário licenciado fruto da concessão. 
+A operação do aterro sanitário licenciado fruto da concessão compreende 
+as atividades de operação, espalhamento, compactação e cobertura dos 
+resíduos sólidos, bem como obras de drenagem (águas pluviais, líquidos 
+percolados e gases), cobertura vegetal, monitoramento do maciço e das águas 
+subterrâneas. 
+Deverá ser elaborado um plano, indicando como e quando o aterro 
+sanitário licenciado fruto da concessão será encerrado, assim como os cuidados 
+que serão mantidos após o encerramento das atividades, tais como 
+monitoramento e controle de vetores. 
+A correta gestão dos resíduos, com aterramento da parcela considerada 
+como rejeito, trará benefícios do ponto de vista técnico, econômico e 
+socioambiental, a exemplo de: 
+• redução da frota para transporte dos rejeitos até a disposição final; 
+• redução do espaço nas células; 
+• aumento da vida útil total do Parque do Sol Velho Chico; 
+• redução dos riscos ambientais na operação do aterro sanitário licenciado 
+fruto da concessão 
+
+ 
+ 
+c) Projeto, Licenciamento, Implantação e Operação das Estações de 
+Transferência de Resíduos (ETR): 
+Segundo termo de referência do MDR, as Estações de Transferência 
+constituem espaços onde se faz a transferência de resíduos sólidos de um 
+veículo coletor para um outro veículo (transportador), com maior capacidade de 
+carga. Esse segundo veículo faz o transporte dos resíduos até o local 
+ambientalmente adequado para tratamento e/ou destinação final. 
+A ETRs preferencialmente deverão ser localizadas na periferia da zona 
+urbana, em local com baixa densidade de ocupação populacional, levando-se 
+consideração sua função essencial, de redução das distâncias de deslocamento 
+dos veículos coletores, entre as áreas de coleta e estação de transbordo, e a 
+função dos veículos transportadores, de deslocamento entre as ETRs e o aterro 
+sanitário licenciado fruto da concessão, ou unidade de tratamento. 
+Para concepção do projeto da Estação de Transferência, deverão ser 
+projetados, na área operacional, pátio de manobra com respectiva drenagem, 
+sistema de tratamento das águas de lavagem do pasto, drenagem pluvial, 
+cercamento, placa de identificação, área administrativa, sistema de segurança e 
+estacionamento. 
+A 
+Estação 
+será preferencialmente direta 
+por gravidade. Para 
+dimensionamento do veículo a ser utilizado, deverá ser considerada capacidade 
+volumétrica de um para dois, ou seja, cada veículo transportador deve ter 
+capacidade volumétrica mínima correspondente ao dobro da capacidade do 
+maior veículo coletor, devendo realizar no mínimo duas viagens por dia entre a 
+Estação e o destino final. 
+A demarcação do local a ser instalada a Estação de Transferência dentro 
+do Parque do Sol Velho Chico deverá ocorrer na fase preliminar, para elaboração 
+de projeto e licenciamento. 
+No caso do CDS VELHO CHICO, justificam-se as Estações de 
+Transferências de Resíduos, pois o local da destinação final possui uma 
+distância superior à máxima recomendável entre alguns Municípios. Logo, essas 
+
+ 
+ 
+estações viabilizam o armazenamento temporário dos resíduos até sua 
+disposição final. 
+8.5.3.1.2.  Projeto, Licenciamento, Elaboração e Execução do 
+Plano de Recuperação de Áreas Degradadas (PRAD) 
+Entende-se como área degradada, segundo a 
+instrução normativa (IN) nº 11/2014 do ICMBIO, aquela 
+impossibilitada de retornar por uma trajetória natural a um 
+ecossistema que se assemelhe ao estado inicial, dificilmente 
+sendo restaurada, mas apenas recuperada. Extrai-se da IN 
+que o PRAD tem como objetivo definir medidas necessárias 
+à recuperação, ou seja, medidas que visem à restituição de 
+um ecossistema ou de uma população silvestre degradada 
+a uma condição não degradada, que pode ser diferente da 
+sua condição original. 
+Segundo a IN 11/2014, para elaboração do PRAD, 
+deverão 
+ser 
+definidas 
+as 
+medidas 
+necessárias 
+à 
+recuperação da área degradada, fundamentadas nas 
+características bióticas e abióticas da área e em 
+conhecimentos secundários sobre o tipo de impactos 
+causados, a resiliência da vegetação e a sucessão 
+secundária. 
+Segundo o termo de referência do MDR, o objeto dos 
+estudos e projetos de encerramento e/ou remediação de 
+lixões consiste em um conjunto de procedimentos, serviços 
+e obras necessários para a redução ao mínimo considerado 
+possível, do ponto de vista técnico e dos recursos financeiros 
+disponíveis, do potencial de comprometimento ambiental 
+associado aos referidos despejos de lixo, tendo em vista o 
+volume aparente e a natureza intrínseca dos resíduos neles 
+predominantemente dispostos, bem como a 
+
+ 
+ 
+maior ou menor fragilidade dos contextos ambientais em que 
+estejam inseridos. 
+Os projetos executivos deverão conter todos os 
+componentes físicos, aí incluídos: 
+a) Projeto de terraplenagem; 
+b) Urbanização e paisagismo (inclusive comunicação 
+visual); 
+c) Projetos arquitetônico, estrutural (se for o caso) e 
+de instalações complementares das edificações 
+se necessário; 
+d) Drenagem pluvial; 
+e) Entrada de energia elétrica e iluminação pública; 
+f) Drenagem e tratamento de líquidos percolados; 
+g) Manual de operação e monitoramento 
+h) Memorial do cálculo para o dimensionamento dos 
+diversos 
+componentes 
+da 
+unidade 
+de 
+compostagem; 
+i) Planilhas 
+de 
+especificações 
+técnicas, 
+quantificação e orçamento da implantação do 
+empreendimento 
+(inclusive 
+especificação 
+e 
+quantificação dos equipamentos e instalações 
+necessários para o laboratório de controle) 
+j) Plano de operação; e 
+k) Plano de monitoramento ambiental. 
+ 
+Os estudos das áreas degradadas foram realizados 
+nos locais em que se encontram identificados os lixões 
+atualmente utilizados pelos Municípios. A execução do Plano 
+de Recuperação de Áreas Degradadas (PRAD) em cada 
+Município deverá ocorrer após a obtenção do licenciamento 
+ambiental 
+pertinente, 
+observadas 
+as 
+condicionantes 
+estabelecidas pelo órgão ambiental competente. 
+
+ 
+ 
+Para fins de viabilidade econômico-financeira do 
+projeto, não foram considerados os custos relativos à 
+remoção dos resíduos atualmente dispostos nos lixões 
+existentes, tampouco ao transporte desses resíduos para 
+destinação final ambientalmente adequada, os quais não 
+integram o escopo contemplado na modelagem. 
+A 
+implantação 
+do 
+aterro 
+sanitário 
+licenciado, 
+integrante da infraestrutura objeto da CONCESSÃO e de 
+responsabilidade da CONCESSIONÁRIA, deverá ser 
+concluída até o final do 1º (primeiro) ano de vigência 
+contratual, estando prevista, a destinação final dos resíduos 
+ao aterro sanitário licenciado fruto da CONCESSÃO. 
+estudos das áreas degradadas foram realizados nos locais 
+onde foram identificados os lixões. 
+ 
+ 
+8.5.3.1.3. PROGRAMA SOCIOAMBIENTAL 
+ 
+8.5.3.1.3.1. 
+EDUCAÇÃO AMBIENTAL 
+ 
+ 
+O conceito de Educação Ambiental 
+está prescrito no art. 1º da Lei nº 9.795/99, 
+que dispõe: 
+“Entendem-se por educação ambiental os 
+processos por meio dos quais o indivíduo e 
+a coletividade constroem valores sociais, 
+conhecimentos, habilidades, atitudes e 
+competências voltadas para a conservação 
+do meio ambiente, bem de uso comum do 
+povo, essencial à sadia qualidade de vida e 
+sua sustentabilidade” (art. 1º da Lei nº 
+9.795/99)”. 
+
+ 
+ 
+O programa nacional de educação 
+ambiental tem como eixo orientador a 
+perspectiva da sustentabilidade ambiental. 
+Suas ações destinam-se a assegurar, no 
+âmbito educativo, a interação e a integração 
+da sustentabilidade ambiental (ecológica, 
+social, ética, cultural, econômica, espacial e 
+política) ao desenvolvimento da região, 
+buscando o envolvimento e a participação 
+social na proteção, na recuperação e na 
+melhoria das condições ambientais e de 
+qualidade de vida, visando à sensibilização 
+dos cidadãos quanto aos princípios da 
+Política Nacional de Resíduos Sólidos. 
+A 
+Implantação 
+do 
+programa 
+de 
+educação ambiental no Parque do Sol Velho 
+Chico abrangerá todos os municípios 
+integrantes do CDS VELHO CHICO e 
+seguirá as diretrizes do programa nacional 
+de educação ambiental. 
+8.5.3.1.3.2. 
+PROGRAMA  DE  APOIO 
+COMUNITÁRIO 
+AOS 
+CATADORES E ÀS SUAS 
+FAMÍLIAS 
+ NA 
+CONSCIENTIZAÇÃO 
+DAS 
+MUDANÇAS NO SISTEMA 
+DE 
+GESTÃO 
+DOS 
+RESÍDUOS 
+SÓLIDOS. 
+BENEFÍCIOS 
+ 
+E 
+IMPORTÂNCIA 
+DA 
+IMPLEMENTAÇÃO 
+DO 
+PROJETO EM QUESTÃO: 
+
+ 
+ 
+A implantação de programa de apoio 
+comunitário será destinada aos catadores 
+identificados nas áreas de lixões, de modo a 
+reintroduzi-los no mercado de trabalho de 
+forma digna, através dos PEVs e Ecopontos. 
+O programa de apoio comunitário aos 
+catadores tem como objetivo conscientizar 
+famílias de catadores que estão nos lixões, 
+assim como as que serão alocadas nas 
+centrais de triagem, onde os catadores 
+estarão inseridos em associações ou 
+cooperativas, recebendo treinamento e 
+estrutura para exercer suas atividades em 
+melhores condições 
+8.5.3.1.3.3. 
+PROGRAMA 
+DE 
+CAPACITAÇÃO DO PODER 
+PÚBLICO 
+PARA 
+ENTES 
+ENVOLVIDOS 
+NOS 
+SERVIÇOS 
+A 
+SEREM 
+CONCEDIDOS 
+Será 
+realizado 
+um 
+programa 
+de 
+capacitação do poder público, a fim de 
+qualificar os colaboradores integrantes dos 
+municípios do consórcio. 
+O programa de capacitação do poder 
+público consiste na realização de treinamentos, 
+palestras, seminários e cursos por instituições 
+de ensino, com o objetivo de capacitar o poder 
+concedente. 
+
+ 
+ 
+A capacitação poderá ser realizada em 
+parceria com especialistas em PPPs e 
+concessões, 
+empresas 
+de 
+consultoria 
+especializadas, universidades ou instituições 
+de ensino, tendo como premissa a promoção 
+do desenvolvimento sustentável, com atenção 
+ao princípio da proteção ao meio ambiente, à 
+preservação dos recursos naturais e à geração 
+de emprego. 
+Os cursos deverão abordar, no mínimo, 
+os seguintes assuntos: aspectos jurídicos em 
+PPPs e concessões, gestão regulatória e 
+contratual de PPPs e Concessões, reequilíbrio 
+contratual, gestão sustentável de resíduos; 
+marco legal de saneamento; ferramentas de 
+apoio 
+para 
+gestão 
+de 
+resíduos; 
+rota 
+tecnológica; encerramento dos lixões; coleta 
+seletiva; e sustentabilidade ambiental. 
+8.5.3.1.4. COLETA SELETIVA 
+ 
+O modelo de logística da coleta seletiva inicialmente adotada 
+no presente estudo será “ponto a ponto”, devendo ser ampliado 
+pelos Municípios em modelo “porta a porta”. Serão instalados 
+pontos de entrega voluntária (PEVs) e Ecopontos. Esses resíduos 
+serão coletados e transportados para as cooperativas e 
+associações de catadores. O grande gerador poderá separar, 
+coletar e transportar seus resíduos recicláveis e entregá-los as 
+cooperativas e associações de catadores. O grande gerador com 
+sede no Município de Ibotirama poderá levar os resíduos recicláveis 
+diretamente ao Parque do Sol Velho Chico. 
+Nos locais que receberem composteiras domésticas para a 
+coleta  seletiva,  a  parcela  orgânica  poderá  ser  coletada, 
+
+ 
+ 
+transportada e destinada à UCO. Os materiais recicláveis serão 
+segregados em duas frações (secos e úmidos), devendo o PEV e 
+o Ecoponto receber apenas os secos. Após os processos na UCO, 
+os rejeitos seguirão para o Parque do Sol Velho Chico, podendo 
+ainda passar por nova triagem e identificação de alternativas de 
+tratamento e recuperação. 
+A implantação e operação da coleta seletiva se dará através 
+dos PEVs implantados em todos os Municípios do CDS VELHO 
+CHICO e dos Ecopontos implantados em áreas estratégicas nos 
+Municípios. As cooperativas e associações de catadores ficarão 
+localizadas próximo da ETR, para que neste local também ocorra a 
+separação dos resíduos secos e úmidos. 
+As campanhas educativas irão orientar a população a 
+respeito do consumo sustentável, reuso e separação dos resíduos. 
+A coleta seletiva deverá almejar a meta do Programa “Lixo Zero”, 
+que preconiza o encaminhamento dos resíduos para as PEV, 
+Ecopontos e ETRs, e a destinação final do rejeito, para aterro 
+sanitário licenciado a ser implantado pela CONCESSIONÁRIA. 
+A meta até o final do Contrato de Concessão é alcançar um 
+aterramento de até 7,50% dos rejeitos gerados pelos Municípios 
+integrantes do CDS VELHO CHICO. 
+8.5.3.1.4.1. 
+IMPLANTAÇÃO 
+E 
+OPERAÇÃO  
+ 
+DE 
+ECOPONTOS: 
+CONTEMPLANDO 
+ A 
+COLETA E TRANSPORTE 
+DE 
+ 
+ 
+RESÍDUOS 
+PROVENIENTES 
+DESSE 
+ECOPONTO 
+PARA 
+AS 
+ASSOCIAÇÕES 
+E/OU 
+COOPERATIVAS 
+DE 
+
+ 
+ 
+RECICLAGEM 
+INDICADAS 
+PELOS MUNICÍPIOS: 
+ 
+Os Ecopontos são Pontos 
+de Entrega Voluntária (PEV) 
+de materiais recicláveis, em 
+pequeno 
+volume, 
+(como 
+materiais recicláveis, entulho 
+da construção civil e objetos 
+volumosos). É uma solução 
+para 
+disponibilizar 
+aos 
+geradores, 
+de 
+forma 
+ambientalmente 
+adequada, 
+um equipamento, a fim de 
+acabar com o despejo desses 
+materiais em vias públicas, 
+rios e terrenos baldios, o que 
+acaba por gerar enchentes e 
+prejuízos à saúde pública, 
+onerando 
+o 
+orçamento 
+municipal. 
+ 
+A seleção de áreas para a 
+instalação dos Ecopontos se 
+dará 
+nos 
+Municípios 
+de 
+Ibotirama, Paratinga, Morpará, 
+Muquém do São Francisco e 
+Oliveira dos Brejinhos. 
+ 
+8.5.3.1.4.2 IMPLANTAÇÃO E 
+OPERAÇÃO DE PONTOS DE 
+ENTREGA 
+VOLUNTÁRIA 
+(PEVS), CONTEMPLANDO A 
+
+ 
+ 
+COLETA E TRANSPORTE 
+DE 
+RESÍDUOS 
+PROVENIENTES 
+DESTA 
+COLETA SELETIVA PARA 
+AS 
+ASSOCIAÇÕES 
+E/OU 
+COOPERATIVAS 
+DE 
+RECICLAGEM 
+INDICADAS 
+PELOS MUNICÍPIOS. 
+ 
+O 
+Ponto 
+de 
+Entrega 
+Voluntária 
+(PEV) 
+é 
+um 
+equipamento 
+desenvolvido 
+para 
+realizar 
+o 
+acondicionamento, 
+o 
+manuseio e o transporte de 
+resíduos sólidos provenientes 
+da coleta seletiva. O sistema 
+de coleta dos PEVs é feito 
+através 
+de 
+caminhão 
+específico para coleta seletiva, 
+com 
+implemento 
+do 
+tipo 
+“munck” 
+ou 
+caminhão 
+compactador com concha do 
+tipo “meia-lua” e implemento 
+do tipo braço mecânico. 
+ 
+Os Pontos de Entregas 
+Voluntárias (PEVs) são de 
+diferentes 
+cores, 
+para 
+identificar o descarte correto 
+dos 
+diversos 
+tipos 
+de 
+materiais. 
+As 
+cores 
+são 
+associadas  à  coleta  de 
+
+ 
+ 
+resíduos 
+como 
+plásticos, 
+papeis, 
+vidros, 
+metais, 
+orgânicos, não recicláveis etc. 
+Haverá a escolha de locais em 
+todos os 5 (cinco) municípios 
+do CONSÓRCIO inseridos na 
+iniciativa para implantação e 
+operação 
+dos 
+Pontos 
+de 
+Entregas Voluntárias (PEVs), 
+fomentando a ampliação do 
+serviço 
+de 
+coleta 
+de 
+recicláveis. 
+Os 
+resíduos 
+recicláveis provenientes do 
+acondicionamento nos Pontos 
+de 
+Entregas 
+Voluntárias 
+(PEVs) serão disponibilizados 
+para 
+as 
+cooperativas 
+e 
+associações 
+de 
+catadores 
+indicadas pelos Municípios. 
+8.5.3.2 GESTÃO DE RESÍDUOS 
+ 
+8.5.3.2.1 COLETA E TRANSPORTE DE RESÍDUOS SÓLIDOS DOMICILIARES 
+(RDO), NA ZONA URBANA E RURAL 
+Os serviços de coleta e de transporte de resíduos sólidos domiciliares 
+(RDO) serão implantados pela CONCESSIONÁRIA, à medida que os 5 (cinco) 
+municípios aderirem aos referidos serviços. 
+A coleta domiciliar consiste no recolhimento de todos os resíduos 
+provenientes de residências e de comércios, utilizando-se veículos coletores 
+compactadores e contêineres estacionários, podendo ser executada de forma 
+manual e mecanizada. 
+
+ 
+ 
+Na zona rural, a coleta de resíduos poderá ser realizada por equipamentos 
+diversos, de acordo com a realidade de cada Município, tais como: caminhões 
+basculantes, quadriciclos, triciclos, tratores, entre outros. 
+8.5.3.2.2 
+SERVIÇOS 
+DE 
+COLETA, 
+TRANSPORTE, 
+TRIAGEM, 
+TRANSBORDO, TRATAMENTO E DESTINAÇÃO FINAL DE RESÍDUOS DE 
+SERVIÇOS DE SAÚDE (RSS) GERADOS PELOS ESTABELECIMENTOS 
+PÚBLICOS 
+Segundo a resolução da diretoria colegiada (RDC) Anvisa nº 306/04 e nº 
+222/18, resíduos de serviço de saúde (RSS) são os resíduos resultantes de 
+atividades exercidas por estabelecimento gerador que, por suas características, 
+necessitam de processos diferenciados em seu manejo, exigindo ou não 
+tratamento prévio à sua disposição. 
+O gerenciamento do RSS consiste no manuseio, na minimização da 
+geração, na segregação, no acondicionamento, na identificação, no 
+armazenamento temporário, na coleta e no transporte interno, no tratamento 
+interno e externo, no armazenamento externo, na coleta e no transporte externo, 
+e na disposição final para cada grupo dos serviços de saúde, com o objetivo de 
+melhorar a segurança, a qualidade dos serviços e evitar impactos ao meio 
+ambiente. 
+Segundo o gerenciamento de resíduos do serviço de saúde 
+disponibilizado pelo MDR, para o tratamento adequado dos resíduos de saúde, 
+são utilizadas tecnologias específicas e ambientalmente adequadas. Uma delas 
+é a autoclavagem, que consiste em manter o resíduo contaminado em contato 
+com vapor de água, a uma temperatura elevada, durante período de tempo 
+suficiente para destruir potenciais agentes patogênicos ou reduzi-los a um nível 
+que não constitua risco. 
+A disposição final ambientalmente adequada dos resíduos de saúde, após 
+o respectivo tratamento, deverá ocorrer em aterro sanitário devidamente 
+licenciado, integrante da infraestrutura objeto da CONCESSÃO. A implantação 
+desse aterro deverá ser concluída até o final 1º ano após a assinatura do 
+
+ 
+ 
+Contrato de Concessão, estando prevista, a destinação final no aterro sanitário 
+fruto da CONCESSÃO. 
+Verifica-se que os resíduos de saúde dos Municípios do CDS VELHO 
+CHICO são atualmente geridos pelas Prefeituras Municipais, mediante 
+contratações diretas para a prestação dos respectivos serviços. Contudo, a 
+maioria dos Municípios não disponibilizou informações quanto aos quantitativos 
+de RSS gerados em cada um deles. 
+Diante dessa limitação, para fins de estimativa e quantificação do RSS, 
+foram adotados parâmetros e dados de referência provenientes da ABRELPE e 
+do IBGE. 
+8.5.3.2.3 SERVIÇOS DE COLETA E TRANSPORTE DOS RESÍDUOS DA 
+CONSTRUÇÃO CIVIL (RCD) GERADOS PELOS ESTABELECIMENTOS 
+PÚBLICOS 
+Segundo a resolução CONAMA 307/2002, resíduos da construção civil 
+são os provenientes de construções, reformas, reparos e demolições de obras 
+de construção civil, e os resultantes da preparação e da escavação de terrenos, 
+tais como: tijolos, blocos cerâmicos, concreto em geral, solos, rochas, metais, 
+resinas, colas, tintas, madeiras e compensados, forros, argamassa, gesso, 
+telhas, pavimento asfáltico, vidros, plásticos, tubulações, fiação elétrica etc., 
+comumente chamados de entulhos de obras, caliça ou metralha. 
+O destino a ser dado aos resíduos da construção civil (RCD) priorizará as 
+soluções de reutilização e reciclagem. Quando inevitável, será adotada uma das 
+alternativas indicadas na Resolução 307 do CONAMA e nas normas da 
+associação brasileira de normas técnicas (ABNT). 
+Os resíduos da construção civil e demolição (RCD) poderão ainda ser 
+utilizados para correção dos tipos de terreno na CVR ou ser dispostos 
+temporariamente em área de reservação para uso futuro. 
+Atualmente, inexiste gestão de RCD nos Municípios integrantes do CDS 
+VELHO CHICO, o que demonstra a inobservância das normas técnicas e da 
+legislação aplicável. Nos Municípios, os referidos resíduos são utilizados, via de 
+
+ 
+ 
+regra, para aproveitamento em pequenas contenções de encostas, aterramento 
+de áreas privadas e aterramento de vias com difícil acesso, sem quaisquer 
+preceitos de engenharia. 
+8.5.3.2.4 RECEBIMENTO NA ETR E TRANSPORTE PARA DESTINAÇÃO 
+FINAL DE RCD GERADO PELOS ESTABELECIMENTOS PÚBLICOS 
+Esse serviço atenderá aos Municípios que eventualmente não aderirem 
+aos serviços de coleta e transporte de RCD, mas optarem por utilizar a ETR a 
+ser implantada pela CONCESSIONÁRIA, para posterior transporte para 
+destinação final. 
+Nessa hipótese, deverá o Município necessariamente contratar a 
+CONCESSIONÁRIA para também prestar os serviços de recebimento, triagem 
+e reciclagem do RCD na CVR 
+8.5.3.2.5 RECEBIMENTO, TRIAGEM E RECICLAGEM DE RCD GERADO 
+PELOS ESTABELECIMENTOS PÚBLICOS. 
+Esse serviço atenderá aos Municípios que eventualmente não aderirem 
+aos serviços de coleta e transporte de RCD, mas optarem por utilizar apenas a 
+CVR a ser implantada pela CONCESSIONÁRIA, para destino final do RCD. 
+8.5.3.2.6 SERVIÇO DE RECEBIMENTO NA ESTAÇÃO DE TRANSFERÊNCIA 
+DE RESÍDUOS E TRANSPORTE PARA A DESTINAÇÃO FINAL DOS 
+RESÍDUOS PÚBLICOS (RPU) 
+Os Municípios poderão destinar seus resíduos públicos, oriundos dos 
+serviços de varrição, capina, roçagem e poda, para as estações de transferência 
+de resíduos (ETR) a serem implantadas pela CONCESSIONÁRIA. 
+Nesse caso, a CONCESSIONÁRIA será remunerada mediante 
+pagamento direto do gerador do resíduo, observando-se o quanto disposto no 
+Contrato de Concessão e nas normas que regulam os serviços. 
+8.5.3.2.7 SERVIÇO DE RECEBIMENTO, TRATAMENTO E DESTINAÇÃO 
+FINAL DOS RESÍDUOS PÚBLICOS (RPU) 
+
+ 
+ 
+Os Municípios poderão contratar da CONCESSIONÁRIA os serviços de 
+recebimento, tratamento e destinação final de RPU, oriundos dos serviços de 
+varrição, capina, roçagem e poda. 
+Nesse caso, a CONCESSIONÁRIA será remunerada mediante 
+pagamento direto do gerador do resíduo, observando-se o quanto disposto no 
+Contrato de Concessão e nas normas que regulam os serviços. 
+Os fluxogramas, apresentados a seguir demonstram a estrutura 
+operacional de todos os serviços descritos neste estudo. O fluxograma inicial 
+mostra toda a logística de manejo e gestão de RDO até o aterro sanitário 
+licenciado sob escolha da CONCESSIONÁRIA, onde os rejeitos serão 
+temporariamente destinados até a conclusão da implantação da CVR no Parque 
+do Sol Velho Chico. 
+O fluxograma definitivo mostra a logística de manejo e gestão de RDO, 
+RCD, RSS e dos resíduos recicláveis. 
+8.5.3.3 GESTÃO DE RESÍDUOS X RECEITA ACESSÓRIA 
+ 
+A exploração de receitas acessórias ou receitas alternativas está prescrita 
+no art. 11 da Lei nº 8.987/95, com objetivo de favorecer a modicidade das tarifas, 
+para dar sustentabilidade econômico-financeira ao Contrato. 
+A concessionária deverá elaborar, para fins de atendimento dos serviços 
+incluídos neste tipo de receita, o estudo de engenharia e o estudo de viabilidade 
+econômico-financeira. 
+As receitas acessórias serão originadas da exploração de atividades 
+correlatas e complementares ao objeto da CONCESSÃO, incluindo a 
+comercialização, junto aos grandes geradores de resíduos privados, dos 
+serviços de coleta, transporte, tratamento e destinação final de RDO, RSS, RCD, 
+bem como a comercialização dos produtos oriundos da geração de energia e de 
+créditos de carbono. 
+
+ 
+ 
+Tais receitas serão revertidas à modicidade tarifária, nos termos e 
+condições estabelecidas no Contrato de Concessão, e aplicadas na aferição do 
+equilíbrio econômico-financeiro do Contrato. 
+8.5.3.3.1 SERVIÇO DE COLETA, TRANSPORTE E DESTINAÇÃO FINAL DE 
+RESÍDUOS 
+SÓLIDOS 
+DOMICILIARES 
+(RDO), 
+PROVENIENTES 
+DE 
+GRANDES GERADORES PRIVADOS, PESSOAS FÍSICAS OU JURÍDICAS 
+Os serviços de coleta, transporte e destinação final de RDO, proveniente 
+dos grandes geradores privados, cujos resíduos estão em quantidade superior 
+aos estabelecidos em norma, poderão ser executados pela CONCESSIONÁRIA, 
+mediante cobrança direta ao gerador, para fins de obtenção de receitas 
+acessórias. 
+8.5.3.3.2 SERVIÇO DE COLETA, TRANSPORTE DOS RESÍDUOS DA 
+CONSTRUÇÃO CIVIL (RCD), GERADOS POR GRANDES GERADORES 
+PRIVADOS, PESSOAS FÍSICAS OU JURÍDICAS 
+Os serviços de coleta e transporte de RCD, proveniente dos grandes 
+geradores privados, cujos resíduos estão em quantidade superior aos 
+estabelecidos em norma, poderão ser executados pela CONCESSIONÁRIA, 
+mediante cobrança direta ao gerador, para fins de obtenção de receitas 
+acessórias. 
+8.5.3.3.3 SERVIÇO DE RECEBIMENTO NA ETR E TRANSPORTE PARA 
+DESTINAÇÃO FINAL DOS RESÍDUOS DA CONSTRUÇÃO CIVIL (RCD), 
+PROVENIENTES DE GRANDES GERADORES PRIVADOS, PESSOAS 
+FÍSICAS OU JURÍDICAS 
+Para fins de obtenção de receitas acessórias, a CONCESSIONÁRIA 
+poderá executar os serviços de recebimento na ETR e transporte para 
+destinação final de RCD gerado por grandes geradores privados que pretendam 
+transportar seus resíduos à ETR utilizando-se de veículos próprios. 
+8.5.3.3.4 SERVIÇO DE RECEBIMENTO, TRIAGEM E RECICLAGEM DOS 
+RESÍDUOS DA CONSTRUÇÃO CIVIL (RCD) GERADOS POR GRANDES 
+GERADORES PRIVADOS, PESSOAS FÍSICAS OU JURÍDICAS 
+
+ 
+ 
+Para fins de obtenção de receitas acessórias, a CONCESSIONÁRIA 
+poderá executar os serviços de recebimento, triagem e reciclagem de RCD 
+gerado por grandes geradores privados. 
+8.5.3.3.5 SERVIÇO DE COLETA, TRANSPORTE, TRATAMENTO DE 
+DESTINAÇÃO FINAL DOS RESÍDUOS DOS SERVIÇOS DE SAÚDE (RSS) 
+GERADOS PELOS ESTABELECIMENTOS PRIVADOS 
+Para fins de obtenção de receitas acessórias, a CONCESSIONÁRIA 
+poderá prestar aos estabelecimentos de saúde privados os serviços de coleta, 
+transporte, tratamento e destinação final de RSS, seguindo as resoluções do 
+CONAMA e da ANVISA. 
+Para os grupos de resíduos devidamente classificados na RDC 222/2018, 
+o tratamento a ser utilizado será térmico, através de autoclave, com objetivo de 
+modificar as características físicas, químicas ou biológicas dos resíduos, 
+reduzindo o risco de danos ao meio ambiente e à saúde pública. 
+O rejeito proveniente do pós-tratamento será encaminhado para aterro 
+sanitário licenciado a ser implantado pela CONCESSIONÁRIA, até o final do 1º 
+ano após a assinatura do Contrato de Concessão. 
+9 
+ESTRUTURA ADMINISTRATIVA E OPERACIONAL 
+ 
+Será implantada, no Parque do Sol Velho Chico, em Ibotirama, uma 
+estrutura para administrar os serviços prestados, objeto do contrato de 
+concessão. Serão contratados profissionais para executar a gestão, o controle 
+da operação e o monitoramento dos serviços, em busca da qualidade na 
+prestação dos serviços e de melhorias contínuas. 
+O organograma abaixo apresenta a estrutura administrativa e operacional 
+que será implantada no Parque do Sol Velho Chico, bem como a estrutura de 
+apoio, a ser instalada em Ibotirama 
+
+ 
+ 
+9.1 
+EQUIPE 
+TÉCNICA 
+E 
+ADMINISTRATIVA 
+NECESSÁRIA 
+PARA 
+IMPLANTAÇÃO E OPERAÇÃO DO CONTRATO 
+A equipe técnica necessária para implantar e operar os serviços objeto do 
+contrato de concessão será composta de profissionais com experiência 
+comprovada nas atividades pertinentes ao escopo dos serviços, devidamente 
+registrados nos seus respectivos conselhos de classe, conforme descrito no 
+Quadro 1. 
+Quadro 1 - Equipe técnica administrativa 
+ 
+PROFISSIONAIS RECOMENDADOS PARA GESTÃO DA CONCESSIONÁRIA 
+CARGOS 
+QUANTIDADE MÍNIMA 
+Diretor Executivo 
+1 
+Auxiliar de atendimento ao usuário (pontos de 
+atendimento e call center) 
+5 
+Auxiliar de Gestão Comercial (“leiturista”) 
+5 
+Jovem aprendiz 
+5 
+Almoxarife 
+1 
+Assistente de Recursos Humanos 
+1 
+Auxiliar de Manutenção (borracheiro, mecânico e 
+moleiro) 
+3 
+  
+9.2 ESTRUTURA TÉCNICA, ADMINISTRATIVA E DE APOIO NECESSÁRIA À 
+IMPLANTAÇÃO E OPERAÇÃO DO CONTRATO 
+A escolha da área onde serão implantados os setores administrativos e 
+operacionais será de responsabilidade da CONCESSIONÁRIA. Vale frisar que, 
+neste local, serão instaladas as áreas administrativas, operacionais e a oficina. 
+Dessa forma, a área deve ser suficiente para atender a esta estrutura e para que 
+os veículos transitem sem nenhuma dificuldade ou interferência. 
+Além disso, a área onde ficará localizado o setor operacional e 
+administrativo deverá ser fechada e deverá conter pátios para abrigo e 
+manutenção da frota de veículos. A divisão das áreas que irão contemplar a sede 
+deverá ser composta de: 
+
+ 
+ 
+Área Administrativa 
+ 
+Nesse setor ficarão instaladas as atividades técnicas e administrativas. 
+Sua alocação deve ser realizada em locais estratégicos, contemplando: 
+ 
+● 
+Portaria (entrada principal do terreno); 
+ 
+● 
+Escritório Administrativo. 
+ 
+Área de Serviços 
+ 
+Deverá ser instalada próximo à área de manutenção, de forma a dar apoio 
+a todos os funcionários, contemplando: 
+● 
+Sanitários e Vestiários; 
+ 
+● 
+Refeitório; 
+ 
+● 
+Descanso laboral; 
+ 
+Área de Manutenção 
+ 
+Local onde serão realizadas as manutenções de todos os veículos e 
+equipamentos que serão utilizados para execução dos serviços. Deverá ser 
+instalada em local estratégico, de forma a facilitar a manobra dos veículos. 
+Dentro desse setor serão implantados: 
+● 
+Almoxarifado; 
+ 
+● 
+Oficina de Manutenção de Equipamentos e Veículos; 
+ 
+● 
+Rampa de lavagem; 
+ 
+● 
+Abastecimento de Combustível. 
+ 
+ 
+ 
+9.2.1 DIMENSIONAMENTO E ESPECIFICAÇÕES DAS UNIDADES 
+ 
+Para fins de dimensionamento e especificações das unidades, o projeto 
+deverá atender às Normas Regulamentadoras de medicina e segurança do 
+trabalho, em especial as NR 18 e NR 24. Os ambientes deverão ser mantidos 
+sempre limpos, asseados e seguros, de forma a garantir qualidade do ambiente 
+
+ 
+ 
+de trabalho aos colaboradores. A CONCESSIONÁRIA será responsável por 
+zelar pela segurança patrimonial dos ativos relativos ao contrato até o final do 
+contrato de concessão. 
+9.3 INFRAESTRUTURA DA REDE ELÉTRICA E HIDRÁULICA 
+ 
+As redes de energia elétrica, hidráulica, sanitária, dispositivos de 
+segurança contra incêndios e redes de drenagem serão estimadas de acordo 
+com as Normas Técnicas. A água a ser utilizada será adquirida em rede de 
+abastecimento já existente. Caso sejam necessárias obras de instalações 
+hidráulicas, a sua realização será de responsabilidade da Concessionária. 
+Os equipamentos de segurança contra incêndio deverão atender às 
+normas regulamentadoras do tema. Os Sistemas de Proteção contra Descargas 
+Atmosféricas (SPDAs) deverão ser instalados em pontos estratégicos, devendo 
+o dimensionamento e a distribuição atender às Normas Técnicas pertinentes. 
+9.4 PLANO DE MANUTENÇÃO DA FROTA E EQUIPAMENTOS 
+ 
+Os veículos e equipamentos que atenderão ao Contrato deverão seguir 
+plano de manutenção preventiva, corretiva e preditiva. Os planos seguirão 
+sempre os procedimentos estabelecidos pelos fabricantes, devendo a 
+Concessionária elaborar o planejamento e um cronograma para o efetivo 
+atendimento. 
+O setor de manutenção que será estruturado para atender o Contrato 
+deverá ter como objetivo zelar e manter os veículos e equipamentos em perfeito 
+funcionamento, assegurando a plena continuidade dos serviços e a preservação 
+do patrimônio, bem como a remuneração e o retorno do seu investimento. 
+Para o atendimento do plano de manutenção, a Concessionária deverá 
+contratar e capacitar equipe técnica qualificada, bem como dispor das 
+instalações de apoio necessárias à adequada execução das atividades. A 
+lavagem e a lubrificação dos veículos e equipamentos deverão ser executadas 
+regularmente, com o objetivo de prevenir danos, assegurar o desempenho 
+operacional e prolongar a vida útil dos veículos e dos demais equipamentos. 
+
+ 
+ 
+Os serviços de borracharia deverão ser implantados pela Concessionária, 
+a fim de atender a todos os veículos da frota. A Concessionária deverá 
+disponibilizar instalações físicas compatíveis, com infraestrutura necessária para 
+atender todas as demandas relacionadas com a manutenção da frota e dos 
+equipamentos em operação. 
+A frota, inclusive as unidades de reserva, deverá ser mantida em perfeita 
+condição de funcionamento, inclusive no que concerne ao hodômetro, à pintura, 
+ao controle de emissão sonora, ao controle de emissão de gases poluentes e à 
+limpeza geral. 
+A CONCESSIONÁRIA executará manutenção preventiva e corretiva de 
+todos os equipamentos auxiliares, a exemplo dos contêineres plásticos e 
+metálicos, mantendo a pintura e preservando sempre a apresentação. 
+9.4.1 PLANO DE MANUTENÇÃO PREVENTIVA E PREDITIVA 
+ 
+O plano de manutenção preventiva é um conjunto de documentos com 
+objetivo de registrar todas as intervenções designadas pelos fabricantes na frota 
+de veículos e de equipamentos. O objetivo do plano deve ser o de garantir que 
+a frota atue de maneira ideal, sem falhas e com o mínimo possível de 
+intercorrências, para que a Concessionária alcance a eficiência e a lucratividade 
+prevista em orçamento. 
+A manutenção preventiva consiste basicamente no atendimento às 
+recomendações dos fabricantes, com a substituição de peças em períodos 
+indicados. Desse modo, serão realizadas interferências na frota antes da 
+ocorrência inesperada. 
+A intervenção da manutenção preventiva deverá seguir um planejamento 
+para que não interfira negativamente na execução dos serviços. A manutenção 
+preditiva atuará antecipando os problemas, através da análise crítica dos 
+parâmetros de eficiência da frota. O principal objetivo da manutenção preditiva 
+é, com base nos dados que informam o desgaste dos equipamentos, atuar de 
+forma eficiente, a fim de evitar a degradação dos seus componentes. 
+
+ 
+ 
+A manutenção preditiva, proativa, pressupõe que, através do 
+monitoramento, haverá uma intervenção ideal nos veículos e equipamentos. Ou 
+seja, será identificado o melhor momento para interferir de forma eficaz no 
+equipamento, a fim de manter um bom desempenho. Recomenda-se, para 
+realização dos serviços, a manutenção de veículos e caminhões, seguindo as 
+seguintes frequências, apresentadas na Tabela 4. 
+Tabela 4 - Tipos de serviço para manutenção de veículos e caminhões 
+ 
+SERVIÇOS 
+FREQUÊNCIA (A CADA) 
+Trocas de óleo do motor 
+10.000 km 
+Substituição do filtro de óleo 
+10.000 km 
+Verificar bomba injetora 
+10.000 km 
+Elemento de filtro de combustível 
+20.000 km 
+Limpar elemento filtro de ar 
+10.000 km 
+Trocar elemento filtro de ar 
+30.000 km 
+Limpar bicos injetores 
+30.000 km 
+Pressão dos pneus 
+Semana 
+Verificar bateria 
+Semana 
+Verificar água radiador 
+Dia 
+Verificar sistema de freios 
+30 dias 
+Verificar nível de óleo caixa de câmbio 
+10.000 km 
+Trocar óleo da caixa de câmbio 
+40.000 km 
+Trocar óleo do diferencial 
+40.000 km 
+Verificar nível do fluido da direção hidráulica 
+5.000 km 
+Trocar fluido do sistema da direção hidráulica 
+40.000 km 
+Substituir elemento filtrante do sistema da direção 
+40.000 km 
+Verificar e ajustar correia ventilador 
+10.000 km 
+Lubrificar e ajustar rolamento das rodas dianteiras 
+40.000 km 
+Rodízios dos pneus e balancear rodas 
+10.000 km 
+Lubrificar suspensão dianteira 
+10.000 km 
+Trocar fluido do sistema de freios 
+50.000 km 
+Verificar sistema de freios 
+10.000 km 
+Regular faróis 
+10.000 km 
+Verificar nível óleo do motor 
+Dia 
+Verificar nível de água limpador para-brisa 
+Dia 
+Lavagem dos caminhões de coleta 
+Dia 
+Lavagem dos veículos leves 
+Semana 
+ 
+9.4.2 INSPEÇÃO MECÂNICA 
+ 
+a) 
+Os equipamentos serão inspecionados, sistematicamente, toda semana 
+para regulagem e troca de peças ou por eventuais desgastes detectados; 
+b) 
+Os equipamentos serão inspecionados regularmente pela equipe da 
+mecânica para observação do funcionamento e comportamento do motor, caixa 
+de câmbio, diferencial, bomba injetora e sistema elétrico, suspensão e sistema 
+hidráulico; 
+
+ 
+ 
+c) 
+Controle de consumo de combustível, controle de pneus, verificação das 
+partes da carroceria dos caminhões coletores compactadores, que desgastam 
+pela ação do chorume; 
+d) 
+É de vital importância para a empresa ter uma manutenção preventiva que 
+eficaz, pois isto reflete em custos menores e maior produção; 
+e) 
+Sistematicamente, é indispensável verificar: 
+ 
+● 
+Ao trocar o óleo do motor, a presença de limalha no óleo retirado; 
+ 
+● 
+Ao trocar o óleo do diferencial ou da caixa de câmbio, se há presença de 
+limalha no óleo trocado; 
+A existência de limalha nos óleos indica a existência de algum desgaste, 
+que pode ser evitado, muitas vezes, com um simples ajuste ou troca de uma 
+peça, antes que o conjunto todo se danifique; 
+f) 
+O setor de manutenção, sempre que observar qualquer irregularidade, 
+deverá comunicar o fato ao encarregado da oficina para as devidas providências; 
+g) 
+De acordo com recomendações do fabricante, os catálogos de 
+manutenção trazem indicações dos componentes que deverão ser verificados ou 
+trocados e em que períodos. 
+A inspeção mecânica nos equipamentos tanto pode auxiliar na 
+manutenção preventiva, como pode indicar necessidade de manutenção 
+corretiva. 
+9.4.2.1 MANUTENÇÃO CORRETIVA 
+ 
+Manutenção corretiva é o conjunto de medidas tomadas para corrigir um 
+defeito ou uma quebra ocorrida no veículo ou no equipamento. A correção pode 
+ser feita com a recuperação da peça danificada, se for o caso, ou pela 
+substituição por outra peça. 
+A 
+manutenção 
+poderá 
+ser 
+executada 
+pelos 
+profissionais 
+da 
+Concessionária na própria oficina ou no campo, e dependerá das condições do 
+veículo/equipamento, sendo também autorizada a terceirização do serviço 
+
+ 
+ 
+mecânico, preferencialmente em oficinas autorizadas pelo fabricante. As 
+manutenções corretivas são intervenções realizadas após ocorrência de falha 
+mecânica, ou seja, de forma emergencial, não programada. 
+9.4.2.1.1 PROGRAMA DE SUBSTITUIÇÃO 
+ 
+Substituição temporária: 
+ 
+Se ocorrer algum imprevisto que a equipe de socorro não possa 
+solucionar no campo, o fato será comunicado pelo rádio à supervisão, que 
+providenciará a substituição do equipamento por outro reserva, quando couber. 
+O veículo/equipamento substituído será recolhido à garagem para 
+diagnóstico e reparo, e o veículo/equipamento reserva será acionado para 
+prosseguir com o serviço que foi interrompido. 
+Substituição definitiva: 
+ 
+A CONCESSIONÁRIA deverá dispor de um sistema informatizado 
+integrado de entrada e saída de materiais e serviços, que totaliza 
+instantaneamente os consumos diário e acumulado de um determinado 
+equipamento. De posse destes dados, pode-se acompanhar detalhadamente o 
+comportamento do equipamento sob a ótica de custo-benefício, obtendo 
+indicadores importantes para decisão sobre a troca ou não do equipamento, ou 
+sobre a viabilidade de reforma. 
+Uma manutenção efetiva e eficaz, aliada a uma operação correta, irá 
+induzir a Concessionária na escolha adequada dos equipamentos, levando em 
+conta também a influência da topografia, o estado de conservação das pistas de 
+rolamento, o tipo de serviço, etc. 
+Para os serviços objeto do contrato de concessão, será necessário manter 
+uma equipe de apoio para socorro mecânico e externo imediato, para qualquer 
+eventualidade durante os turnos de trabalho. Caso a equipe de socorro externo 
+não consiga resolver o problema com a rapidez desejada, o fato será 
+comunicado à supervisão para proceder com a substituição do equipamento, 
+evitando prejuízos aos serviços. 
+
+ 
+ 
+Sempre que for solicitado o socorro interno ou externo, será emitida uma 
+ordem de serviço (OS) e um formulário para o acompanhamento dos 
+procedimentos de reparo e de liberação do veículo/equipamento. 
+9.5 PLANO DE CONTINGENCIAMENTO 
+ 
+O plano de contingenciamento deverá descrever os instrumentos que 
+estimam os riscos da prestação dos serviços e prever ações necessárias à 
+minimização dos seus impactos. O plano estará limitado a situações de 
+emergência, devendo levar em conta o atual cenário e prever as ações a serem 
+realizadas nessas circunstâncias, a exemplo de: substituição de veículos e 
+equipamentos para manutenção, substituição de colaboradores por acidente de 
+trabalho, férias ou falta, greve, dentre outras razões. A elaboração do Plano 
+deverá seguir o seguinte roteiro: 
+I. 
+Eleger uma comissão para gestão e tomada de decisão; 
+ 
+II. 
+Definir estratégias e cronograma de reuniões da comissão; 
+ 
+III. 
+Analisar as diferentes gradações dos impactos das situações 
+emergenciais e as suas respectivas intensidades; 
+IV. 
+Descrever os riscos e as possíveis ocorrências; 
+ 
+V. 
+Eleger as prioridades, estabelecendo ações segundo critérios pré-
+estabelecidos e análises das situações reais; 
+VI. 
+Eleger os responsáveis, os prazos, os recursos e suas respectivas 
+fontes; 
+VII. 
+Descrever as formas de monitoramento e de avaliação das ações 
+do plano, com cronograma pré-definido. 
+ 
+ 
+Todos os planos de contingenciamento deverão conter os temas descritos 
+no Quadro 2, a seguir colacionado. 
+
+ 
+ 
+Quadro 2 - Temas que deverão constar nos Planos de Contingenciamento 
+ 
+VULNERABILIDADE 
+Indicará as situações emergenciais às quais um colaborador 
+poderá ser exposto devido a acidentes de trabalho ou 
+situações similares. 
+RISCO 
+Descreverá os riscos emergenciais. 
+AÇÃO 
+Definirá ações de combate aos riscos, elencando as ações 
+voltadas a evitar os acidentes. 
+PRAZO 
+Definir os prazos e datas (quando necessário) para as ações. 
+RESPONSÁVEL 
+Apresentar os setores ou gestores responsáveis pela 
+execução das ações 
+RECURSOS 
+Designar os recursos humanos, físicos e financeiros 
+necessários para as ações. 
+FONTE DE RECURSOS 
+Estabelecer, a partir dos recursos existentes em orçamento, 
+quais serão utilizados em cada ação. 
+Fonte: Torre (2025) 
+ 
+12 CRONOGRAMA FÍSICO FINANCEIRO 
+ 
+O cronograma físico financeiro será anexado no Caderno 4 – “Viabilidade 
+Econômico-financeira”. 
+13 CUSTOS DAS OBRAS E INVESTIMENTOS COM DETALHAMENTOS 
+ 
+13.1 Dimensionamento/Detalhamento 
+ 
+a) 
+Dimensionamento de veículos, equipamentos e mão de obra para a 
+execução do serviço de implantação e operação de pontos de entrega 
+voluntária (PEVs), com coleta e transporte de resíduos provenientes da 
+coleta seletiva para as associações e/ou cooperativas de reciclagem 
+indicadas pelos Municípios. 
+Tabela 7 - Quantidade de veículos e equipamentos para operação dos serviços 
+de implantação e operação de pontos de entrega voluntária (PEVS), Mão de obra 
+e Sistemas. 
+ 
+GRUPO 
+DETALHAMENTO 
+QUANTIDADE 
+ 
+ 
+ 
+Equipamentos 
+Caminhão de coleta seletiva c/ munck ou 
+caminhão compactador com concha do tipo “meia 
+lua” e braço mecânico (a ser rateado entre os 
+1 
+serviços) 
+PEV 2500 litros 
+12 
+Sistema de comunicação (smartphone) 
+1 
+Sistema de posicionamento global (GPS) 
+1 
+Mão de Obra/Função 
+Coletor (a ser rateado entre os serviços) 
+2 
+Motorista (a ser rateado entre os serviços) 
+1 
+Fonte: Torre Construções, 2025 
+
+ 
+ 
+b) 
+Dimensionamento de veículos, equipamentos e mão de obra para a 
+execução do serviço de implantação e operação de Ecopontos. 
+Tabela 8 - Dimensionamento de veículos, equipamentos e mão de obra para a 
+execução do serviço de implantação e operação de Ecopontos 
+Ecoponto 
+5 
+Caminhão  de  coleta  seletiva  c/  munck  ou 
+Equipamentos 
+caminhão compactador com concha do tipo “meia 
+1 
+lua” e braço mecânico (a ser rateado entre os 
+serviços) 
+ 
+ 
+ 
+Mão de Obra/Função 
+Sistema de comunicação (smartphone) 
+1 
+Sistema de posicionamento global (GPS) 
+1 
+Agente coletor (fixo em cada ecoponto) 
+5 
+Agente coletor (a ser rateado entre os serviços) 
+2 
+Motorista (a ser rateado entre os serviços) 
+1 
+Fonte: Torre (2025). 
+c) 
+Dimensionamento de veículos, equipamentos e mão de obra para a 
+execução dos serviços de implantação e de operação de Estações de 
+Transferência de Resíduos (ETR). 
+Tabela 9 - Dimensionamento de veículos, equipamentos e mão de obra para a 
+execução dos serviços de implantação e de operação de Estações de 
+Transferência de Resíduos (ETR). 
+Caminhão Roll On Roll Off acoplado a implemento do tipo 
+2 
+julieta (a ser rateado entre os serviços) 
+Equipamentos 
+Mão de Obra/Função 
+Caixa Estacionária com capacidade volumétrica de 30 e/ou 40m³ 
+14 
+Sistema de comunicação (smartphone) 
+2 
+Sistema de posicionamento global (GPS) 
+2 
+Motorista 
+2 
+Porteiro 
+4 
+Agente Coletor 
+4 
+Fonte: Torre (2025). 
+d) 
+Dimensionamento de veículos, equipamentos e mão de obra para a 
+execução dos serviços de implantação e de operação de unidade de 
+compostagem dos resíduos orgânicos oriundos de feiras livres (UCO). 
+GRUPO 
+DETALHAMENTO 
+QUANTIDADE 
+GRUPO 
+DETALHAMENTO 
+QUANTIDADE 
+
+ 
+ 
+Tabela 11 - Dimensionamento de veículos, equipamentos e mão de obra para a 
+execução dos serviços de implantação e de operação de unidade de 
+compostagem dos resíduos orgânicos oriundos de feiras livres (UCO). 
+ 
+GRUPO 
+DETALHAMENTO 
+QUANTIDADE 
+ 
+ 
+ 
+Equipamentos 
+ 
+ 
+ 
+Mão de 
+Obra/Função 
+Triturador de Resíduos Orgânicos 
+1 
+Triturador de Podas 
+1 
+Reservatório de água 10.000 litros 
+1 
+Composteira 
+10 
+Sistema de comunicação (smartphone) 
+1 
+Sistema de posicionamento global (GPS) 
+1 
+Técnico Agrícola 
+1 
+Agente de Limpeza 
+3 
+Fonte: Torre (2025). 
+ 
+e) 
+Dimensionamento de veículos, equipamentos e mão de obra para a 
+execução do serviço de disposição final ambientalmente adequada (pré-
+implantação, implantação, operação, encerramento e pós-encerramento de 
+central de valorização de resíduos com aterro sanitário); 
+Tabela 12 - Dimensionamento de veículos, equipamentos e mão de obra para a 
+execução do serviço de disposição final ambientalmente adequada (pré-
+implantação, implantação, operação, encerramento e pós-encerramento de 
+central de valorização de resíduos com aterro sanitário) 
+ 
+GRUPO 
+DETALHAMENTO 
+QUANTIDADE 
+Trator de esteira 
+1 
+Caçamba basculante 
+1 
+Pá carregadeira 
+1 
+Equipamentos 
+Veículo para transporte de pessoal 
+1 
+Balança de pesagem 
+1 
+Sistema de comunicação (smartphone) 
+4 
+Sistema de posicionamento global (GPS) 
+4 
+Coordenador técnico 
+1 
+Porteiro diurno 
+2 
+Mão de
+Porteiro noturno 
+2 
+Obra/Função 
+Balanceiro 
+2 
+Operador de máquina pesada 
+2 
+Motorista 
+2 
+Servente 
+7 
+Fonte: Torre Construções, 2025 
+
+ 
+ 
+f) 
+Elaboração e Execução do PRAD (Plano de Recuperação de Áreas 
+Degradadas) 
+Tabela 13 - Dimensionamento de veículos, equipamentos e mão de obra para 
+operação do serviço de Recuperação de áreas degradadas/lixões (elaboração e 
+execução do PRAD). 
+ 
+GRUPO 
+DETALHAMENTO 
+QUANTIDADE 
+ 
+ 
+Equipamentos 
+ 
+ 
+ 
+ 
+Mão de 
+Obra/Função 
+Caçamba basculante 
+3 
+Retroescavadeira 
+1 
+Pá carregadeira 
+1 
+Sistema de comunicação (smartphone) 
+5 
+Sistema de posicionamento global (GPS) 
+3 
+Engenheiro 
+1 
+Fiscal 
+1 
+Motorista 
+3 
+Operador de máquina 
+2 
+Servente 
+5 
+Fonte: Torre Construções (2025). 
+g) 
+Educação Ambiental 
+Tabela 14 - Dimensionamento de veículos, equipamentos e mão de obra para a 
+operação do serviço de Educação Ambiental: Sensibilização dos cidadãos 
+quanto aos princípios da Política Nacional de Resíduos Sólidos 
+ 
+ 
+ 
+ 
+ 
+Equipamentos 
+ 
+ 
+ 
+Mão de Obra/Função 
+Veículo para transporte 
+1 
+Sistema de comunicação (smartphone) 
+1 
+Sistema de posicionamento global (GPS) 
+1 
+Técnico Ambiental 
+1 
+Agente Ambiental 
+3 
+Motorista 
+1 
+Fonte: Torre Construções (2025). 
+GRUPO 
+DETALHAMENTO 
+QUANTIDADE 
+
+ 
+ 
+h) 
+Programa de Apoio Comunitário aos catadores e às suas famílias na 
+conscientização das mudanças no sistema de gestão dos resíduos sólidos, 
+demonstrando os benefícios e a importância da implementação do projeto 
+em questão. 
+Tabela 15 - Dimensionamento de veículos, equipamentos e mão de obra para 
+operação do Programa de Apoio Comunitário aos catadores e às suas famílias 
+ 
+GRUPO 
+DETALHAMENTO 
+QUANTIDADE 
+Veículo para transporte (a ser rateado entre os 
+1 
+Equipamentos 
+serviços) 
+Sistema de comunicação (smartphone) 
+1 
+Sistema de posicionamento global (GPS) 
+1 
+Técnico  Ambiental  (a  ser  rateado  entre  os 
+Mão de Obra/Função 
+serviços) 
+1 
+Agente Ambiental (a ser rateado entre os serviços) 
+2 
+Motorista (a ser rateado entre os serviços) 
+1 
+Fonte: Torre Construções, 2025 
+ 
+ 
+i) 
+Programa de Capacitação do Poder Concedente para os entes que 
+aderiram aos serviços concedidos 
+Tabela 16 - Dimensionamento da Mão de Obra para o Programa de Capacitação 
+do poder público 
+ 
+GRUPO 
+DETALHAMENTO 
+QUANTIDADE 
+ 
+ 
+Equipamentos 
+Software LMS (“Learning Management System”), 
+Plataforma digital em formato web que permite a 
+1 
+criação  e  gestão  de  cursos,  programas  de 
+treinamento e aprendizagem. 
+Mão de Obra/Função 
+Especialista em PPPs e Concessões 
+1 
+Fonte: Torre Construções, 2025 
+
+ 
+ 
+j) 
+Dimensionamento de veículos, equipamentos e mão de obra para 
+implantação dos serviços de coleta e transporte de resíduos domiciliares 
+em área Urbana e Rural (RDO). 
+Tabela 18 - Dimensionamento de veículos, equipamentos e mão de obra para 
+implantação dos serviços de coleta e transporte de resíduos domiciliares (RDO) 
+em área urbana 
+ 
+GRUPO 
+DETALHAMENTO 
+QUANTIDADE 
+Caminhão Compactador de 15 m³ 
+6 
+Caminhão Compactador de 15 m³ (Reserva) 
+2 
+Caminhão Roll On Roll Off para feiras livres (a ser rateado 
+entre os serviços) 
+2 
+Triciclo de carga (Motocicleta) 
+6 
+Equipamentos 
+Veículo para fiscalização 
+1 
+Contêineres de 4,2 m³ 
+154 
+Caixa compactadora estacionária de 17 m³ (para uso em 
+feiras livres) 
+5 
+Sistema de comunicação (smartphone) 
+22 
+Sistema de posicionamento global (GPS) 
+22 
+Supervisor 
+1 
+Fiscal (Cabo de Turma) 
+1 
+ 
+Motorista Compactador 
+8 
+Função 
+Motorista Roll On Roll Off (a ser rateado entre os serviços) 
+                                 Condutor de veículo Ciclomotor (triciclo de carga)                       6 
+2 
+ 
+ Coletor 
+35 
+ 
+ 
+Tabela 19 - Dimensionamento de veículos, equipamentos e mão de obra para 
+implantação dos serviços de coleta e transporte de resíduos domiciliares (RDO) 
+em área rural 
+ 
+GRUPO 
+DETALHAMENTO 
+QUANTIDADE 
+Caminhão Basculante 6 m³ 
+3 
+Trator com Reboque 
+1 
+Quadriciclo 
+1 
+Veículo de fiscalização 4x4 
+1 
+Contêineres de 1,2 m³ (25 unidades) e 4,5m³ (6 unidades) 
+31 
+Composteira 
+10 
+Sistema de comunicação (smartphone) 
+6 
+Sistema de posicionamento global (GPS) 
+6 
+
+ 
+ 
+ 
+Supervisor 
+1 
+Fiscal (Cabo de Turma) 
+1 
+Motorista (Caçamba) 
+3 
+Operador de Quadriciclo 
+1 
+Operador de Máquina Pesada 
+1 
+Coletor 
+9 
+Fonte: Torre Construções, 2025 
+ 
+ 
+k) 
+Dimensionamento de veículos, equipamentos e mão de obra para a 
+execução do serviço de coleta, transporte, recebimento, triagem e 
+reciclagem 
+de 
+Resíduos 
+da 
+Construção 
+Civil 
+gerados 
+pelos 
+estabelecimentos públicos (RCD). 
+ 
+Tabela 20 - Dimensionamento de veículos, equipamentos e mão de obra para a 
+execução do serviço de coleta, transporte, recebimento, triagem e reciclagem de 
+Resíduos da Construção Civil gerados pelos estabelecimentos públicos (RCD) 
+ 
+GRUPO 
+DETALHAMENTO 
+QUANTIDADE 
+ 
+ 
+ 
+Equipamentos 
+Caminhão basculante de 6m³ 
+3 
+Caminhão basculante de 10m³ 
+3 
+Pá carregadeira ou Retroescavadeira 
+2 
+Veículo para fiscalização 
+1 
+Sistema de comunicação (smartphone) 
+9 
+Sistema de posicionamento global (GPS) 
+9 
+Unidade de Reciclagem de RCD 
+1 
+Mão de 
+Obra/Função 
+Operador de máquina pesada / equipamento 
+3 
+Motorista caçamba 6m³ 
+3 
+Motorista caçamba 10 m³ 
+3 
+Coletor 
+13 
+Fonte: Torre Construções, 2025 
+l) 
+Dimensionamento de veículos, equipamentos e mão de obra para os 
+serviços de coleta, transporte, tratamento e destinação final de Resíduos 
+de Serviços de Saúde gerados pelos estabelecimentos públicos (RSS). 
+Tabela 21 - Dimensionamento de veículos, equipamentos e mão de obra para os 
+serviços de coleta, transporte, tratamento e destinação final de Resíduos de 
+Serviços de Saúde gerados pelos estabelecimentos públicos (RSS) 
+Equipamentos 
+Caminhão Baú 6 m³ 
+1 
+Bombona 200 litros 
+200 
+GRUPO 
+DETALHAMENTO 
+QUANTIDADE 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Mão de 
+Obra/Função 
+Bombona 50 litros 
+100 
+Unidade de Tratamento Térmico (Autoclave) 
+1 
+Balança 
+1 
+Sistema de comunicação (smartphone) 
+1 
+Sistema de posicionamento global (GPS) 
+1 
+Supervisor 
+1 
+Técnico ambiental 
+1 
+Motorista 
+1 
+Agente Coletor 
+2 
+Fonte: Torre Construções, 2025. 
+m) 
+Dimensionamento de veículos, equipamentos e mão de obra para a 
+execução do serviço de recebimento, transporte, tratamento e destinação 
+final dos Resíduos Públicos (RPU). 
+Tabela 22 - Dimensionamento de veículos, equipamentos e mão de obra para a 
+execução do serviço de recebimento, transporte, tratamento e destinação final 
+dos Resíduos Públicos (RPU) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Equipamentos 
+ 
+ 
+ 
+Mão de 
+Obra/Função 
+Caminhão basculante de 6m³ 
+1 
+Triturador de resíduos orgânicos 
+1 
+Triturador de Podas 
+1 
+Reservatório de água com capacidade para 10.000 litros 
+1 
+Sistema de comunicação (smartphone) 
+1 
+Sistema de posicionamento global (GPS) 
+1 
+Técnico agrícola 
+1 
+Motorista de caçamba 
+1 
+Agente de Limpeza 
+1 
+Agente Coletor 
+1 
+Fonte: Torre Construções, 2025. 
+ 
+ 
+n) 
+Quadro de mão de obra administrativa 
+ 
+Para todas as atividades de suporte administrativo e gerência das atividades 
+operacionais e de planejamento do contrato de concessão, também foi 
+dimensionado o quadro administrativo apresentado na Tabela 23. 
+Tabela 23 - Dimensionamento de equipamentos e profissionais necessários para 
+gestão 
+GRUPO 
+DETALHAMENTO 
+QUANTIDADE 
+
+ 
+ 
+Computadores e periféricos (notebooks e desktops) 
+5 
+Mobiliário de escritório (kits) 
+5 
+Veículo tipo caminhonete de pequeno porte para apoio a 
+1 
+manutenção 
+Totem de autoatendimento 
+5 
+Pin pad para uso em campo pelos leituristas 
+5 
+Impressoras para uso em campo pelos leiturista 
+5 
+Central telefônica 
+1 
+Pin pad e impressoras para uso nos pontos de 
+5 
+atendimento (kits) 
+Motocicletas para uso pelos leiturista 
+5 
+ERP  Gestão  Comercial  de  Resíduos/Central  de 
+1 
+atendimento 
+Estrutura de manutenção veicular 
+1 
+Smartphone 
+5 
+ 
+Diretor Executivo 
+1 
+Auxiliar  de  atendimento  ao  usuário  (pontos  de 
+5 
+atendimento e call center) 
+Auxiliar de Gestão Comercial (“leiturista”) 
+5 
+Jovem aprendiz 
+5 
+Almoxarife 
+1 
+Assistente de Recursos Humanos 
+1 
+Auxiliar de Manutenção (borracheiro, mecânico e 
+3 
+moleiro) 
+ 
+Fonte: Torre Construções, 2025 
+ 
+13.2 CUSTOS DAS OBRAS E INVESTIMENTOS 
+ 
+Os investimentos necessários à implantação, construção e aquisição de 
+equipamentos, a serem realizados pela CONCESSIONÁRIA, e, os custos 
+associados à operação dos serviços, encontram-se detalhadamente descritos no 
+Estudos de Viabilidade Econômico-Financeira. 
+Para fins conceituais, os custos da CONCESSIONÁRIA correspondem 
+aos dispêndios necessários à prestação dos serviços contratados, abrangendo 
+tanto os gastos indispensáveis ao funcionamento regular, quanto aqueles 
+relacionados ao desenvolvimento e à manutenção das atividades operacionais. 
+Dentre os principais custos de implantação e de operação, destacam-se os 
+custos com: salário da equipe, manutenção de sistemas, veículos e 
+equipamentos, tarifas públicas, dentre outros. 
+Em síntese, os custos associados à Concessão podem ser classificados 
+como financeiros (empréstimo, financiamento e capital de giro), de implantação 
+e de operação. 
+EQUIPAMENTOS 
+QUANTIDADE MÍNIMA 
+CARGOS 
+QUANTIDADE MÍNIMA 
+
+ 
+ 
+REFERÊNCIAS BIBLIOGRÁFICAS 
+ 
+ASSOCIAÇÃO  BRASILEIRA DE  EMPRESAS  DE  LIMPEZA PÚBLICA E 
+RESÍDUOS ESPECIAIS (ABRELPE). Panorama dos Resíduos Sólidos no Brasil, 
+Associação Brasileira de Empresas de Limpeza Pública e Resíduos Especiais. 
+Disponível em: https://abrelpe.org.br/panorama-2021/. 
+AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA (ANVISA). Resolução de 
+Diretoria Colegiada – RDC nº 306, de 7 de dezembro de 2004. Dispõe sobre o 
+Regulamento Técnico para o gerenciamento de resíduos de serviços de saúde. 
+Diário Oficial da União, de 7 de dezembro de 2004. 
+AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA (ANVISA). Resolução de 
+Diretoria Colegiada – RDC nº 222, de 28 de março de 2018. Regulamenta as 
+Boas Práticas de Gerenciamento dos Resíduos de Serviços de Saúde e dá 
+outras providências. Diário Oficial da União, de 28 de março de 2018. 
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS (ABNT). NBR 8419: 
+1992. Apresentação de projetos de aterros sanitários de resíduos sólidos 
+urbanos. Rio de Janeiro: ABNT, 1992. 
+BRASIL. Banco Interamericano de Desenvolvimento – BID. Caixa Econômica 
+Federal – Caixa. Programa de Parcerias de Investimentos – PPI. Guia prático de 
+estruturação de projetos de concessão de manejo sustentável de resíduos 
+sólidos urbanos. 1º ed. Brasília. 2023 
+BRASIL. Decreto-lei nº 10.936, de 12 de janeiro de 2022. Regulamenta a Lei nº 
+12.305, de 2 de agosto de 2010, que institui a Política Nacional de Resíduos 
+Sólidos. Diário Oficial da União, de 12 de janeiro de 2022. 
+BRASIL. Lei Federal n° 8.987, de 13 de fevereiro de 1995. Dispõe sobre o regime 
+de concessão e permissão da prestação de serviços públicos previsto no art. 175 
+da Constituição Federal, e dá outras providências. Diário Oficial da União, de 
+14/02/1995. 
+
+ 
+ 
+BRASIL. Lei Federal n° 9.795, de 27 de abril de 1999. Dispõe sobre a educação 
+ambiental, institui a Política Nacional de Educação Ambiental e dá outras 
+providências. Diário Oficial, de 28/04/1999. 
+BRASIL. Lei Federal nº 11.445, de 05 de janeiro de 2007. Estabelece as 
+diretrizes nacionais para o saneamento básico; cria o Comitê Interministerial de 
+Saneamento Básico; altera as Leis nos 6.766, de 19 de dezembro de 1979, 
+14.133, de 01 de abril de 2021, e 8.987, de 13 de fevereiro de 1995; e revoga a 
+Lei nº 6.528, de 11 de maio de 1978. Diário Oficial da União de 08 de janeiro de 
+2007. 
+BRASIL. Lei Federal nº 12.305, 02 de agosto de 2010. Institui a Política Nacional 
+de Resíduos Sólidos; altera a Lei nº 9.605, de 12 de fevereiro de 1998; e dá 
+outras providências. Diário Oficial da União de 03 de agosto de 2010. 
+BRASIL. Lei Federal nº 12.651, de 25 de maio de 2012. Dispõe sobre a proteção 
+da vegetação nativa; altera as Leis nºs 6.938, de 31 de agosto de 1981, 9.393, 
+de 19 de dezembro de 1996, e 11.428, de 22 de dezembro de 2006; revoga as 
+Leis nºs 4.771, de 15 de setembro de 1965, e 7.754, de 14 de abril de 1989, e a 
+Medida Provisória nº 2.166-67, de 24 de agosto de 2001; e dá outras 
+providências. Diário Oficial da União, de 28 de maio de 2012. 
+BRASIL. Lei Federal nº 9.985, de 18 de julho de 2000. Regulamenta o art. 225, 
+§ 1o, incisos I, II, III e VII da Constituição Federal, institui o Sistema Nacional de 
+Unidades de Conservação da Natureza e dá outras providências. Diário Oficial, 
+de 19 de julho de 2000. 
+BRASIL. Ministério das Cidades. Gabinete do Ministro. Portaria nº 557, de 11 de 
+novembro de 2016. Institui normas de referência para a elaboração de estudos 
+de viabilidade técnica e econômico-financeira (EVTE) previstos no art. 11, inciso 
+II, da Lei nº 11.445, de 5 de janeiro de 2007 - Lei Nacional de Saneamento Básico 
+(LNSB). Diário Oficial da União, de 14 de novembro de 2016. 
+
+ 
+ 
+CONSELHO NACIONAL DO MEIO AMBIENTE (CONAMA). Resolução 
+CONAMA nº 307/2022. Estabelece diretrizes, critérios e procedimentos para a 
+gestão dos resíduos da construção civil. Brasil, 2002. 
+INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA (IBGE). Censo 
+Demográfico 2010. Disponível em: <https://censo2010.ibge.gov.br/>. 
+ 
+INSTITUTO CHICO MENDES DE CONSERVAÇÃO DA BIODIVERSIDADE 
+(ICMBio). Instrução Normativa nº 11, de 11 de dezembro de 2014. Estabelece 
+procedimentos para elaboração, análise, aprovação e acompanhamento da 
+execução de Projeto de Recuperação de Área Degradada ou Perturbada - 
+PRAD, para fins de cumprimento da legislação ambiental. (Processo nº 
+02127.000030/ 2013-48). 
+MINISTÉRIO DAS CIDADES. Secretaria Nacional de Saneamento Ambiental. 
+Termo 
+de 
+Referência 
+Técnico. 
+Disponível 
+em: 
+https://antigo.mdr.gov.br/saneamento/biblioteca/101-secretaria-nacional-de-
+saneamento/biblioteca/1444-termo-de-referencia. 
+MINISTÉRIO DO DESENVOLVIMENTO REGIONAL. Protegeer – Cooperação 
+para a proteção do clima na Gestão dos Resíduos Sólidos Urbanos. Disponível 
+em: < http://protegeer.gov.br/biblioteca/ferramentas-rsu>. 
+
+

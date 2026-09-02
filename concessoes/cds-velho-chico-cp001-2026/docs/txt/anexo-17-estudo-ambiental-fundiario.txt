@@ -1,0 +1,1990 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ANEXO XVII – ESTUDO AMBIENTAL E FUNDIÁRIO 
+ 
+ 
+ 
+EXPLORAÇÃO 
+E 
+PRESTAÇÃO 
+DOS 
+SERVIÇOS 
+DE 
+COLETA, 
+TRANSPORTE, 
+TRIAGEM, 
+TRANSBORDO 
+(TRANSFERÊNCIA), 
+TRATAMENTO E DESTINAÇÃO FINAL AMBIENTALMENTE ADEQUADA 
+DOS RESÍDUOS SÓLIDOS DOMICILIARES (RDO), DOS RESÍDUOS 
+PÚBLICOS URBANOS (RPU), DOS RESÍDUOS DA CONSTRUÇÃO CIVIL E 
+DEMOLIÇÃO (RCD), DOS RESÍDUOS DOS SERVIÇOS DE SAÚDE (RSS) E 
+COLETA SELETIVA (CS), BEM COMO ATIVIDADES CORRELATAS, DO 
+CONSÓRCIO DE DESENVOLVIMENTO SUSTENTÁVEL DO VELHO CHICO 
+(“CDS VELHO CHICO”), MEDIANTE DELEGAÇÃO A SER FEITA POR 
+CONTRATO DE CONCESSÃO PATROCINADA. 
+ 
+ 
+ 
+ 
+ 
+ 
+APOIO INSTITUCIONAL 
+ 
+TERMO DE COOPERAÇÃO TÉCNICA Nº 002/2023 E N° 001/2026 
+
+ 
+ 
+GLOSSÁRIO 
+ 
+ 
+ANAC 
+Agência Nacional de Aviação Civil 
+CDS 
+Consórcio de Desenvolvimento Sustentável do Velho Chico 
+CONAMA 
+Conselho Nacional do Meio Ambiente 
+CONDER 
+Companhia de Desenvolvimento Urbano do Estado da Bahia 
+CVR 
+Central de Valorização de Resíduos 
+ECOPONTO 
+Pontos de Entrega Voluntária de Materiais Inservíveis, em 
+pequeno volume, (que não servem mais, como recicláveis, 
+EMBRAPA 
+entulho da construção civil e objetos volumosos). 
+Empresa Brasileira de Pesquisa Agropecuária 
+ERGIRS 
+Estudo de Regionalização da Gestão Integrada de Resíduos 
+Sólidos 
+ETR 
+Estações de Transferência de Resíduos 
+FAO 
+Organização  das  Nações  Unidas  para  Alimentação  e 
+GEE 
+Agricultura 
+Gases de Efeito Estufa 
+IBGE 
+Instituto Brasileiro de Geografia e Estatística 
+MNCR 
+Movimento Nacional de Catadores de Materiais Recicláveis 
+ODM 
+Objetivos de Desenvolvimento do Milênio 
+PERS 
+Plano Estadual de Resíduos Sólidos 
+PEV 
+Pontos de Entrega Voluntária 
+PNMC 
+Política Nacional sobre Mudança do Clima 
+PNRS 
+Política Nacional de Resíduos Sólidos 
+PRAD 
+Plano de Recuperação de Áreas Degradadas 
+RCD 
+Resíduos da Construção Civil e Demolição 
+RDO 
+Resíduos Sólidos Domiciliares 
+RDS 
+Regiões de Desenvolvimento Sustentável 
+RSS 
+Resíduos dos Serviços de Saúde 
+SEDUR 
+Secretaria de Desenvolvimento Urbano do Estado da Bahia 
+UC 
+Unidade de Conservação 
+UCO 
+Unidade de Compostagem de Resíduos Orgânicos 
+ZEE 
+Zoneamento Ecológico Econômico 
+
+ 
+ 
+1. APRESENTAÇÃO E OBJETIVOS GERAIS 
+ 
+Este estudo tem por objetivo avaliar as questões ambientais e 
+fundiárias nas áreas de abrangência de 5 (cinco) Municípios integrantes do 
+CONSÓRCIO DE DESENVOLVIMENTO SUSTENTÁVEL VELHO CHICO 
+(CDS VELHO CHICO), a saber: Ibotirama, Paratinga, Oliveira dos Brejinhos, 
+Morpará e Muquém do São Francisco. 
+ 
+A finalidade é identificar e georreferenciar os lixões nas localidades, 
+correlacionando-os aos proprietários sempre que possível, bem como 
+apresentar o diagnóstico ambiental da área do projeto, avaliar o passivo 
+ambiental e desenvolver os estudos dos impactos ao meio ambiente, 
+sugerindo as respectivas medidas mitigadoras. 
+ 
+A Lei nº 12.932/2014 instituiu a Política de Resíduos Sólidos do Estado 
+da Bahia, estabelecendo normas relativas à gestão e ao gerenciamento 
+integrado de resíduos sólidos, garantindo a efetividade das ações do 
+Governo Estadual, em sinergia com os Objetivos de Desenvolvimento do 
+Milênio (ODM), através da Secretaria de Desenvolvimento Urbano do Estado 
+da Bahia (SEDUR) responsável pela elaboração do Estudo de 
+Regionalização de Gestão Integrada de Resíduos Sólidos (ERGIRS). 
+ 
+A regionalização da gestão integrada de resíduos sólidos do Estado 
+da Bahia, em 2014, permitiu orientar as ações do Governo do Estado em 
+resíduos, buscando soluções integradas desde a geração até a destinação 
+final adequada, estimulando a busca de soluções consorciadas com base nas 
+diretrizes nacionais para o saneamento (Lei Federal nº 11.445/07), nas 
+diretrizes da Política Nacional de Resíduos Sólidos (Lei Federal nº 12.305/10) 
+e na Lei Federal de Consórcios (Lei nº 11.707/2005). 
+ 
+A proposta do ERGIRS agrega um conjunto de recomendações de 
+arranjos com base em critérios técnicos, resultando em 26 (vinte e seis) 
+regiões  de  desenvolvimento  sustentável  (RDS),  tendo  como  base 
+
+ 
+ 
+levantamentos de dados populacionais e produção diária de resíduos sólidos 
+urbanos, considerando o espaço temporal de 20 anos (2013 a 2033). 
+ 
+O PLANO ESTADUAL DE RESÍDUOS SÓLIDOS DA BAHIA (PERS- 
+BA), instrumento elaborado pelo Governo do Estado da Bahia, através da 
+SECRETARIA ESTADUAL DE DESENVOLVIMENTO URBANO (SEDUR), 
+é de fundamental importância para o planejamento e ações de 
+implementação das políticas públicas, em saneamento básico e ambiental, 
+em especial no gerenciamento de resíduos sólidos, e contribuirá na busca, 
+pelos municípios, de soluções para a destinação final ambientalmente 
+adequada dos resíduos sólidos, de modo a resolver os problemas existentes 
+e cumprir a legislação pertinente. 
+ 
+A SEDUR foi selecionada pelo Ministério das Cidades para elaboração 
+de estudos, projetos de engenharia e sistemas integrados de destinação final 
+de resíduos sólidos urbanos, adotando arranjos de cidades propostos no 
+ERGIRS. 
+ 
+No relatório “Produto 3”, diagnóstico da gestão de resíduos sólidos do 
+Estado da Bahia, concluído em julho/2022, destaca-se os estudos 
+apresentados no “território de identidade do velho chico”. 
+ 
+Com relação ao tema “existência de normativa associada ao 
+saneamento básico”, o relatório do PERS é conclusivo em afirmar que, para 
+o Território de Identidade Velho Chico, apenas 01 (um) dos municípios, em 
+2017, possuía normas associadas à política municipal de saneamento 
+básico. 
+ 
+Com relação à abrangência do Programa de Aceleração do 
+Crescimento (PAC) 2, no Território de Identidade Velho Chico, o relatório é 
+conclusivo em afirmar que os municípios do Território de Identidade Velho 
+Chico estão inseridos no objeto do PAC 2, com diagnóstico ambiental e 
+estudo de mercado. 
+
+ 
+ 
+ 
+Destaca-se do estudo desenvolvido pelo PAC 2 os temas inerentes 
+aos aspectos sociais dos catadores, que serão considerados quando do 
+cadastramento deles. A ausência do cadastro é ratificada pelo estudo do PAC 
+2, apontando para a necessidade de uma política de reinserção dos 
+catadores na sociedade e a gestão de resíduos com coleta seletiva dos 
+materiais recicláveis, atendendo aos aspectos legais, sociais e econômicos. 
+ 
+O CONSÓRCIO DE DESENVOLVIMENTO SUSTENTÁVEL DO 
+VELHO CHICO (CDS VELHO CHICO) celebrou os TERMOS DE 
+COOPERAÇÃO TÉCNICA N° 02/2023 e 01/2026 com a SECRETARIA DE 
+DESENVOLVIMENTO URBANO DO ESTADO DA BAHIA (SEDUR-BA), 
+tendo por objeto: (i) o compartilhamento entre as partes de informações e 
+dados técnicos para o desenvolvimento das analises quanto ao melhor 
+arranjo territorial e conjunto de soluções a serem ofertados para viabilizar a 
+regionalização e implantação do gerenciamento de resíduos sólidos na 
+região; (ii) auxílio ao Consórcio no que tange à análise e compatibilização 
+dos estudos, projetos, modelagens e relatórios técnicos recepcionados no 
+âmbito do PMI n° 01/2023, bem como no acompanhamento das próximas 
+fases decorrentes da contratação deles decorrente; (iii) capacitação dos 
+gestores e técnicos para melhor condução do processo administrativos. 
+ 
+As contribuições obtidas através das notas técnicas e pareceres fruto 
+da cooperação técnica foram devidamente analisadas, e incorporadas ao 
+EDITAL. 
+ 
+2. ESTUDOS AMBIENTAIS E FUNDIÁRIOS 
+ 
+ 
+Os 5 (cinco) municípios do CDS VELHO CHICO que aderiram ao 
+Projeto estão localizados em um dos eixos viários mais importantes do 
+
+ 
+ 
+Estado da Bahia. Os estudos fundiários demonstraram que as áreas dos 
+lixões estão situadas na zona rural dos Municípios, com distâncias que 
+variam de 60 a 90 km dos centros das sedes municipais. 
+No Brasil, o critério político-administrativo, em diversos casos, não 
+corresponde à realidade territorial das unidades federativas que o compõem. 
+O Instituto Brasileiro de Geografia e Estatística (IBGE), como órgão federal 
+responsável pelas estatísticas oficiais, segue o Decreto-Lei nº 311, de 2 de 
+março de 1938, que representa um marco legal acerca da diferenciação entre 
+os espaços urbanos e rurais do país. 
+ 
+Segundo esse decreto, todos os distritos-sede de municípios 
+passaram a ser classificados como cidades, enquanto as vilas seriam todas 
+as sedes dos municípios. Tudo o que estivesse fora desse enquadramento 
+corresponderia ao rural. 
+ 
+É possível verificar que existem residências no entorno de parte 
+dessas áreas, bem como pessoas morando nas áreas de trabalho dos lixões. 
+Em relação à questão ambiental, verificou-se que: (i) há corpo hídrico nas 
+proximidades de grande parte dos lixões; (ii) não há recobrimento do lixo com 
+material argiloso; (iii) existe mau cheiro no entorno, resultando em foco 
+atrativo de aves, insetos e roedores; e (iv) há contaminação dos solos e dos 
+respectivos lençóis freáticos. 
+ 
+O estudo fundiário e ambiental mostrará como estão as áreas dos 
+lixões e quais as medidas que serão adotadas para minimizar os impactos 
+causados pelo descarte irregular desses resíduos, bem como as diretrizes 
+para a implantação das unidades para o descarte ambientalmente adequado. 
+ 
+2.1. 
+Identificação do empreendimento e da respectiva situação 
+fundiária 
+ 
+2.1.1. Identificação da situação fundiária dos Lixões 
+
+ 
+ 
+ 
+Com o objetivo de identificar e quantificar as áreas das poligonais dos 
+lixões de cada município, de modo a auxiliar na elaboração, no licenciamento 
+e na execução do Plano de Recuperação de Áreas Degradadas (PRAD), foi 
+utilizada a ferramenta Google Earth para estimar suas áreas a partir de 
+coordenadas geográficas obtidas in loco. 
+ 
+Deve-se frisar que todos os 5 (cinco) municípios que tiveram suas 
+áreas analisadas sempre destinaram seus resíduos sólidos aos lixões locais. 
+Delimita-se, nesses estudos, as áreas dos mencionados lixões, que serão 
+desativados, recuperados e monitorados. 
+ 
+2.1.2. Identificação da poligonal do empreendimento e respectiva 
+situação fundiária do CVR, Estações de Transferência de 
+Resíduos e Ecopontos 
+ 
+ 
+Os estudos técnicos demonstraram a melhor logística e a 
+viabilidade econômico-financeira do projeto. Após os estudos, foram 
+sugeridos locais favoráveis, preferencialmente no município de Ibotirama, 
+para a fundação do complexo de educação ambiental e valorização de 
+resíduos Parque do Sol Velho Chico, contemplando a implantação de 
+Central de Valorização de Resíduos (CVR) e Unidade de Compostagem 
+de Resíduos Orgânicos (UCO). 
+ 
+As Estações de Transferência de Resíduos (ETRs) deverão estar 
+situadas nos municípios de Paratinga, Oliveira dos Brejinhos, Muquém do 
+São Francisco e Morpará, para direcionar os rejeitos à CVR PARQUE DO 
+SOL VELHO CHICO. 
+ 
+As áreas e edificações das Estações de Transferência de Resíduos 
+(ETR), dos Pontos de Atendimento ao Cidadão (PAC), dos Pontos de 
+Entregas  Voluntárias  (PEVs)  e  dos  Ecopontos  deverão  ser 
+
+ 
+ 
+disponibilizadas pelos Municípios, livres e desembaraçadas, ao passo que 
+a área da CVR será identificada, adquirida e custeada pela futura 
+CONCESSIONÁRIA. 
+ 
+As áreas passarão pelos requisitos legais e procedimentos 
+necessários ao seu licenciamento ambiental junto ao órgão competente, 
+sendo também imprescindível a regularização destas áreas junto às 
+prefeituras locais. 
+ 
+Serão utilizados como requisitos técnicos e legais para estudos e 
+licenciamento ambiental destas áreas as normas técnicas, portarias e 
+resoluções do CONAMA. 
+ 
+Utilizou-se como referência para a escolha do município a ser 
+contemplado com o CVR o ERGIRS-BA, que indica Ibotirama como 
+“município polo”. 
+ 
+2.2. 
+Cadastro de possíveis interferências existentes nos locais onde 
+serão executadas as obras e levantamento de desapropriações e 
+de desocupações necessárias 
+ 
+2.2.1. Lixões 
+ 
+A futura Concessionária deverá elaborar e executar um PRAD para 
+cada lixão. É possível verificar se os municípios que integram o CDS 
+VELHO CHICO têm seus lixões em áreas públicas ou em áreas privadas. 
+Sugere-se que, após a recuperação das áreas privadas, estas sejam 
+desapropriadas e monitoradas pelos Municípios para que não haja 
+posterior ocupação. Com relação às áreas públicas, após a recuperação, 
+sugere-se que os Municípios façam o monitoramento para evitar 
+retrocessos. 
+ 
+2.2.2. CVR e Ecopontos 
+
+ 
+ 
+No processo de licenciamento ambiental exigido pelo órgão 
+competente, serão identificadas as possíveis interferências existentes nas 
+áreas de implantação de CVR. Após essa definição, se iniciarão os 
+processos de desapropriação e de desocupação destas áreas e dos seus 
+entornos, quando necessário. 
+ 
+Como citado no tópico anterior, as áreas dos Ecopontos serão 
+cedidas pelas Prefeituras dos Municípios integrantes do CDS VELHO 
+CHICO para implantação das estruturas pela CONCESSIONÁRIA. 
+ 
+2.3. 
+Dimensionamento dos custos relativos à desocupação 
+ 
+Os custos de desocupação foram estimados preliminarmente serão arcados 
+diretamente pelo poder concedente e dessa forma não detalhados nos estudos de 
+viabilidade econômico-financeira. 
+ 
+2.3.1. Lixões 
+ 
+Caberá ao PODER CONCEDENTE a desocupação das áreas utilizadas 
+como lixões nos Municípios, bem como a organização e o cadastramento dos 
+catadores para que sejam inseridos nos PEVs e Ecopontos, onde terão melhores 
+condições de trabalho. Será fomentada a formação de cooperativas ou associações 
+com o apoio da CONCESSIONÁRIA. 
+ 
+Sugere-se que, após cadastro dos catadores de materiais recicláveis dos 
+lixões, realizado pelos Municípios, sejam provisoriamente fornecidas pelo poder 
+concedente moradias sociais aos cidadãos que atualmente moram nos lixões ou 
+passagens de ônibus para regressarem às suas cidades de origem, bem como 
+cestas básicas para os que serão remanejados para os PEVs e Ecopontos, até que 
+o novo sistema de gestão dos resíduos recicláveis esteja em pleno funcionamento. 
+ 
+A desocupação dos lixões, mediante a retirada dos catadores, será 
+necessária para viabilizar a elaboração e a execução do PRAD nos Municípios, e 
+deverá ser realizada pelos Municípios após o cadastro dos catadores. 
+
+ 
+ 
+Deverá ser atendido o disposto no art. 36 do Decreto nº 10.936/2022, que 
+regulamenta a Lei nº 12.305/2010 (Política Nacional de Resíduos Sólidos): 
+ 
+“Art. 36. O sistema de coleta seletiva de resíduos sólidos priorizará a 
+participação de cooperativas ou de outras formas de associação de catadores de 
+materiais reutilizáveis e recicláveis, constituídas por pessoas físicas de baixa renda, 
+com vistas: 
+I - à formalização da contratação; 
+II - ao empreendedorismo; 
+III - à inclusão social; e 
+IV - à emancipação econômica.” (Lei n°12.305/2010) 
+ 
+ 
+É necessário, portanto, que o processo de desocupação transcorra de forma 
+ordeira, pacífica, obedeça aos dispositivos legais e concorra para o processo de 
+transição do encerramento dos lixões e sua recuperação, sempre priorizando o 
+quanto estabelecido no título IV, do Decreto 10.936/2022. 
+ 
+2.3.2. CVR 
+ 
+Os custos para aquisição de área, implantação e operação da CVR 
+serão de exclusiva responsabilidade da futura Concessionária. Os 
+requisitos para escolha da área para a implantação da CVR seguirão a 
+legislação ambiental, as normas técnicas e o termo de referência do órgão 
+de controle ambiental, em especial os requisitos preliminares utilizados 
+nos estudos para indicar o município onde preferencialmente deve ser 
+implantada a estrutura: População, Taxa de crescimento populacional, 
+Geração per capita de resíduos. 
+ 
+Além disso, deverá ser utilizado para a escolha do logradouro o 
+código florestal, a distância mínima de 500 m da cidade ou área 
+urbanizada (de acordo com a NBR 13896/97), e a distância mínima de 
+200 m para corpos, de forma a causar o mínimo impacto ambiental. 
+
+ 
+ 
+Os impactos ambientais gerados com a implantação do CVR 
+podem ser minimizados com a aplicação das melhores técnicas de 
+engenharia e práticas operacionais. A não utilização de tais técnicas 
+acarreta riscos significativos, como a poluição do meio ambiente com 
+vazamentos de líquidos e gases; a contaminação dos lençóis freáticos e 
+aquíferos; os riscos aos animais selvagens; a presença de vetores, entre 
+outros. 
+ 
+2.3.3. ECOPONTO, 
+PEV E ESTAÇÃO DE TRANSFERÊNCIA 
+DE 
+RESÍDUOS 
+ 
+ 
+As áreas para implantação desses equipamentos serão cedidas 
+pelos Municípios, e o custo de construção, implantação e operação será 
+de responsabilidade da futura Concessionária, exceto as Estações de 
+Transferência de Resíduos (ETRs), que por sua vez, deverão ser 
+construídas pelo poder concedente. 
+ 
+As áreas para a implantação dos ECOPONTOS e PEVs deverão 
+ser selecionadas em função da facilidade de acesso dos munícipes, 
+preferencialmente em região central da sede, que concentre atividade 
+comercial. Não existe impacto ambiental em decorrência da implantação 
+desses equipamentos, pois eles só receberão a parcela de resíduos 
+secos. 
+ 
+Por outro lado, os requisitos para escolha das áreas para a 
+implantação dos equipamentos da Estação de Transferência de Resíduos 
+(ETR) são: (i) estar em conformidade com o Zoneamento Municipal; (ii) 
+apresentar distância mínima de 500 (quinhentos) metros de núcleos 
+populacionais, medidos a partir do limite da área de transbordo; (iii) 
+respeitar as faixas de domínio de estradas e rodovias; (iv) dispor de vias 
+de acesso em boas condições de tráfego ao longo de todo o ano, inclusive 
+no período de chuvas intensas; (v) não estar localizada em áreas 
+alagadas ou sujeitas a inundações, ainda que periódicas; (vi) não estar 
+
+ 
+ 
+localizada em áreas restringidas pelas legislações federal, estadual ou 
+municipal; e (vii) não estar localizada em áreas de preservação 
+permanente (APP), conforme definido pela Resolução CONAMA N° 
+303/2002 e pela Lei Federal Nº 4771/1965 (Novo Código Florestal). 
+ 
+Os impactos ambientais gerados com a implantação da Estação de 
+Transferência de Resíduos (ETR) podem ser minimizados com a 
+utilização das melhores técnicas de engenharia e emprego das melhores 
+formas de operação e manutenção. Os riscos oriundos de ineficientes 
+construção e operação podem ser: poluição do meio ambiente com 
+vazamentos de líquidos e gases; contaminação dos lençóis freáticos e 
+aquíferos e presença de vetores. 
+ 
+3. DIAGNÓSTICO AMBIENTAL DA ÁREA DO PROJETO, AVALIAÇÃO 
+DO PASSIVO AMBIENTAL, ESTUDOS DOS IMPACTOS AO MEIO 
+AMBIENTE, MEDIDAS MITIGADORAS 
+ 
+3.1. 
+LIXÕES 
+a) DIAGNÓSTICO AMBIENTAL 
+ 
+ 
+A metodologia utilizada para o diagnóstico ambiental foi a visita técnica in 
+loco, com a realização de análise dos aspectos socioambientais, a identificação 
+das APAs e dos recursos hídricos e a coleta de informações dos gestores 
+municipais e dos munícipes. 
+ 
+Constatou-se a existência de lixões em todos os Municípios integrantes 
+do CDS VELHO CHICO, todos eles em funcionamento inadequado, sem atender 
+às regras de proteção ao meio ambiente. 
+ 
+Verificou-se que os resíduos são descartados a céu aberto, em solos sem 
+qualquer tipo de impermeabilização que impeça o escoamento do seu lixiviado 
+para águas superficiais (riachos, nascentes, rios, córregos etc.) e para águas 
+
+ 
+ 
+subterrâneas (lençóis freáticos e lençóis artesianos). O solo, por sua vez, é 
+contaminado pela composição físico-química dos resíduos descartados 
+diretamente nele. 
+ 
+Dessa forma, foram observados nos lixões dos municípios que integram 
+o CDS VELHO CHICO os seguintes impactos no meio físico: aumento dos 
+processos erosivos no solo; compactação do solo; depreciação da água 
+subterrânea; poluição do ar (Gases de Efeito Estufa); proliferação de micro e 
+macrovetores de doenças; e poluição do solo (percolado). 
+ 
+De igual modo, foram identificados efeitos nefastos no meio biótico, a 
+saber: a redução da biota do solo; a redução da capacidade de sustentação da 
+fauna; a redução da biodiversidade nativa; e o estresse da fauna local. Ademais, 
+foram identificados, no meio antrópico, visuais desnudamentos do solo; poluição 
+de áreas circunvizinhas e poluição visual. 
+ 
+Nesse sentido, observa-se o grau de complexidade e de abrangência 
+decorrentes de atividades ou ações antropogênicas, que alteram e danificam os 
+componentes bióticos e abióticos do meio ambiente nos seus mais diversos 
+aspectos: natural, cultural, social e econômico. 
+ 
+Como consequência, têm-se os efeitos causados pela contaminação do 
+solo e das águas subterrâneas: a deterioração da paisagem e dos alimentos; a 
+poluição visual; a redução da biodiversidade nativa; a redução da capacidade de 
+sustentação da fauna; e o desequilíbrio ecológico; provocando uma série de 
+prejuízos à qualidade ambiental e, principalmente, à saúde pública 
+(TORNISIELO; GOBBI; FOWLER, 1995). 
+ 
+Estima-se que, no Brasil, 39 mil toneladas de alimentos são 
+desperdiçadas todos os dias; são R$12 bilhões anuais desperdiçados, que se 
+refletem nos preços dos produtos. Além de representar um grande desperdício 
+de terras, água, energia e materiais, esse quadro traz um importante ônus 
+ambiental, em razão da contaminação da água e do solo pelo chorume, e da 
+
+ 
+ 
+contaminação do ar pela geração de Gases de Efeito Estufa (GEE). 
+ 
+ 
+O caminho percorrido pelo desperdício começa na plantação e termina na 
+matéria orgânica disposta em aterros sanitários ou em alguma solução 
+inadequada. A falta de planejamento, a ineficiência na colheita, no transporte e 
+na 
+distribuição 
+geram 
+8% 
+de 
+perdas 
+de 
+alimentos 
+(INSTITUTO 
+ECODESENVOLVIMENTO, 2013). 
+ 
+Em diversos municípios brasileiros, o trabalho desenvolvido pelos 
+catadores de material reciclável já perdura por muito tempo. A catação de 
+materiais descartados pelas diversas atividades socioeconômicas, que possuem 
+valor econômico, é uma atividade que contribui como meio de sobrevivência de 
+pessoas em situação de vulnerabilidade. O Brasil ainda conta com um 
+contingente significativo de catadores não organizados que atuam em condições 
+precárias em lixões. 
+ 
+O Movimento Nacional de Catadores de Materiais Recicláveis (MNCR) 
+estima que existe entre 600 mil (estimativa indicada no Plano Nacional de 
+Resíduos Sólidos) e 1 milhão de catadores no Brasil, sendo que a maioria 
+absoluta atua de forma individualizada. 
+ 
+Estudos desenvolvidos apontam que existem diferentes níveis de 
+organização dos catadores, divididos basicamente em três segmentos: os 
+organizados 
+em 
+associações/cooperativas, 
+os 
+catadores 
+parcialmente 
+organizados (em processo de organização), e um contingente maior dos 
+catadores não organizados. 
+ 
+Os lixões interferem diretamente nas mudanças climáticas. Os principais 
+GEE relacionados com o manejo de resíduos sólidos são: o dióxido de carbono 
+(CO2), que é o mais abundante, sendo emitido como resultado do transporte dos 
+resíduos; o gás metano (CH4), produzido durante a decomposição da matéria 
+orgânica, em aterros sanitários e que tem poder de aquecimento global 21 vezes 
+maior que o dióxido de carbono; o óxido nitroso (N2O), cujas emissões resultam 
+
+ 
+ 
+da queima de combustíveis fósseis, da incineração de resíduos e do uso de 
+fertilizantes, e que possui um poder de aquecimento global 310 vezes maior que 
+o dióxido de carbono. 
+ 
+O Brasil, mesmo incluído na lista do protocolo de Quioto (1997), assumiu 
+suas metas próprias para redução das emissões de GEE, entre 36,1% e 38,9% 
+das emissões projetadas para 2020. 
+ 
+O art. 4º, V, da Lei nº 12.187/2009 estabelece que a Política Nacional 
+sobre Mudanças do Clima visará a implementação de medidas para promover a 
+adaptação à mudança do clima pelas três esferas da Federação. 
+ 
+A PNMC, em seu art. 11, estabelece que os princípios, objetivos, diretrizes 
+e instrumentos das políticas públicas e programas governamentais deverão 
+compatibilizar-se com os da PNRS, utilizando-se as possibilidades de não 
+geração e redução; a reciclagem dos resíduos secos e orgânicos; a segregação 
+e a reciclagem dos diversos resíduos (RDO Secos, RCC, RSS, industriais e 
+outros); a retenção dos resíduos orgânicos e a compostagem in situ em 
+domicílios, condomínios e comunidades; a priorização da coleta seletiva e 
+compostagem para eficientização dos orgânicos; e a adoção da biodigestão para 
+eliminação do biogás. 
+ 
+Essas práticas conduzem ao melhor caminho para gerar menos gases de 
+efeito estufa e aproveitar o conteúdo energético dos resíduos, valorizando estes 
+como bem econômico e social, promovendo a integração dos catadores de 
+materiais reutilizáveis e recicláveis, incentivando a indústria da reciclagem e 
+possibilitando a logística reversa, em atendimento às diretrizes centrais da 
+Política Nacional de Resíduos Sólidos. 
+ 
+A biodigestão de resíduos orgânicos apresenta a maior redução de 
+emissão de GEE. A compostagem apresenta, por sua vez, significativa diferença 
+quanto às emissões de metano, quando comparado aos valores do aterro 
+sanitário, apresentando emissão aproximadamente 10 vezes menor, segundo 
+
+ 
+ 
+estudo realizado pela EMBRAPA (INÁCIO, 2010). 
+ 
+ 
+Considerando que a metodologia utilizada para a realização desses 
+estudos valeu-se de informações técnicas visuais in loco, será necessário o 
+aprofundamento dos diagnósticos referentes à compactação do solo, à alteração 
+dos ciclos hidrológicos, à poluição do ar e à diminuição da umidade do ar. 
+ 
+Os diagnósticos ambientais citados no estudo também deverão ser 
+detalhados no PRAD, que será elaborado e executado pela futura 
+Concessionária. 
+ 
+b) Avaliação do Passivo Ambiental e Impacto ao Meio Ambiente 
+ 
+Através de visita in loco, observou-se que existe passivo ambiental, 
+conforme itens elencados seguir: 
+a) Contaminação do solo e das águas subterrâneas e 
+superficiais, que impedem o restabelecimento vegetal com 
+espécies arbóreas, provocada pelo descarte dos resíduos 
+sólidos nas áreas dos lixões; 
+b) Supressão irregular da vegetação nativa; 
+c) Maus odores nos lixões; descarte inadequado dos resíduos; 
+d) Proliferação de micro e macro vetores de doenças; 
+e) Poluição visual; 
+f) Alteração na qualidade do solo; 
+g) Depreciação de águas subterrâneas; 
+h) Extinção de espécies da fauna e da flora; 
+i) Diminuição de mananciais; 
+j) Emissão de metano, um dos gases responsáveis pelo 
+aquecimento global; 
+k) Aumento do número de incêndios gerados pelos gases, em 
+função da decomposição dos resíduos; 
+l) Erosões do solo, causando deslizamentos de terra; e 
+m) Redução da biodiversidade nativa. 
+
+ 
+O resultado da avaliação do passivo e dos impactos ambientais está 
+descrito na matriz de avaliação abaixo exposta: 
+
+ 
+Matriz de avaliação qualitativa dos impactos ambientais, nos meios Físico, Biótico e Antrópico dos Lixões dos municípios do CDS VELHO 
+CHICO. 
+MEIOS/ 
+IMPACTOS 
+CARACTERÍSTICAS 
+Frequência 
+Reversibil 
+idade 
+Extensão 
+Duração 
+Origem 
+Sentido 
+Grau de impacto 
+T 
+Pr 
+C 
+R 
+v 
+Ir 
+L 
+Rg 
+C 
+p 
+Mp 
+Lp 
+D 
+I 
+P 
+N 
+B 
+M 
+A 
+MEIO FÍSICO 
+Aumento dos 
+processos erosivos 
+X 
+x 
+x 
+x 
+x 
+x 
+x 
+Compactação do solo 
+X 
+x 
+x 
+X 
+x 
+x 
+x 
+Depreciação da 
+qualidade da água 
+subterrânea 
+X 
+x 
+x 
+X 
+x 
+x 
+x 
+Poluição do ar 
+(biogás) 
+X 
+x 
+x 
+X 
+x 
+x 
+x 
+Poluição do solo 
+(percolato) 
+x 
+x 
+x 
+x 
+x 
+x 
+x 
+Proliferação de micro e 
+macrovetores 
+x 
+x 
+x 
+x 
+x 
+x 
+x 
+MEIO BIÓTICO 
+Redução da biota do 
+solo 
+X 
+x 
+x 
+x 
+x 
+x 
+x 
+Redução da 
+capacidade de 
+sustentação da fauna 
+X 
+x 
+x 
+x 
+x 
+x 
+x 
+Redução da 
+biodiversidade nativa 
+X 
+x 
+X 
+x 
+x 
+x 
+x 
+
+ 
+Estresse da fauna 
+local 
+x 
+x 
+x 
+x 
+x 
+x 
+x 
+MEIO ANTRÓPICO 
+Visual desnudamento 
+do solo 
+x 
+x 
+x 
+x 
+x 
+x 
+x 
+Poluição de áreas 
+circunvizinhas 
+x 
+x 
+x 
+x 
+x 
+x 
+x 
+Contaminação dos 
+catadores 
+x 
+x 
+X 
+x 
+x 
+x 
+x 
+Poluição visual 
+x 
+x 
+X 
+x 
+x 
+x 
+x 
+Legenda: 
+T - Temporário; 
+Pr - Permanente; 
+C - Cíclico; 
+Rv - Reversível; 
+Ir - Irreversível; 
+L - Local; 
+Rg - Regional; 
+Cp - Curto Prazo; 
+Mp - Médio Prazo; 
+Lp - Longo Prazo; 
+D - Direta; 
+I - Indireta; 
+P - Positiva; 
+N - Negativa; 
+B - Baixa; 
+M - Médio; 
+A -Alto. 
+
+ 
+ 
+c) Prováveis Medidas Mitigatórias ou Compensatórias 
+ 
+As medidas mitigadoras serão adotadas para atenuar os 
+impactos ambientais causados pelos lixões irregularmente instalados 
+nos Municípios. 
+ 
+O detalhamento dessas medidas deverá estar contemplado 
+no PRAD de cada lixão, que será entregue pela licitante vencedora, 
+devendo ser observadas as seguintes diretrizes: (i) implantação de 
+programas capazes de sensibilizar e induzir a população local a 
+priorizar a redução do consumo e o reaproveitamento de materiais, 
+utilizando-se, para tais fins, os princípios da educação ambiental; 
+(ii) elaboração de projetos escolares, visando a promover a 
+mudança comportamental da comunidade escolar desde cedo, 
+com a formação de novos hábitos relacionados à importância da 
+coleta seletiva, da reciclagem, bem como o descarte correto do lixo; 
+(iii) promoção de programas de capacitação para os catadores, 
+na intenção de informar-lhes acerca dos perigos aos quais estão 
+sujeitos e dos procedimentos necessários para evitá-los; e (iv) 
+isolamento das áreas do lixão, com as intervenções de engenharia 
+indicadas nos PRADs. 
+ 
+3.2. 
+CVR, ESTAÇÕES DE TRANSFERÊNCIA 
+DE RESÍDUOS E 
+ECOPONTOS 
+ 
+O relatório com os diagnósticos ambientais dos locais onde serão 
+implantados esses equipamentos deverá ser elaborado pela licitante 
+vencedora, observando-se as normas técnicas aplicáveis e a legislação 
+vigente. 
+ 
+4. LICENÇA 
+AMBIENTAL 
+PRÉVIA 
+OU 
+DIRETRIZ 
+PARA 
+O 
+LICENCIAMENTO, QUANDO O PROJETO EXIGIR 
+
+ 
+ 
+A Resolução do Conselho Nacional do Meio Ambiente (CONAMA) Nº 
+237, de 19 de dezembro de 1997, nos incisos do art. 1º, define: 
+ 
+“I - Licenciamento Ambiental: procedimento administrativo pelo qual o 
+órgão ambiental competente licencia a localização, instalação, ampliação 
+e a operação de empreendimentos e atividades utilizadoras de recursos 
+ambientais, consideradas efetiva ou potencialmente poluidoras ou 
+daquelas que, sob qualquer forma, possam causar degradação 
+ambiental, considerando as disposições legais e regulamentares e as 
+normas técnicas aplicáveis ao caso. 3 IX Simpósio Brasileiro de 
+Engenharia Ambiental, XV Encontro Nacional de Estudantes de 
+Engenharia Ambiental e III Fórum Latino-Americano de Engenharia e 
+Sustentabilidade 
+ 
+II - Licença Ambiental: ato administrativo pelo qual o órgão ambiental 
+competente, estabelece as condições, restrições e medidas de controle 
+ambiental que deverão ser obedecidas pelo empreendedor, pessoa física 
+ou jurídica, para localizar, instalar, ampliar e operar empreendimento ou 
+atividades utilizadoras dos recursos ambientais consideradas efetiva ou 
+potencialmente poluidoras ou aquelas que, sob qualquer forma, possam 
+causar degradação ambiental. 
+ 
+III  - Estudos Ambientais: são todos e quaisquer estudos relativos aos 
+aspectos ambientais relacionados à localização, instalação, operação e 
+ampliação de uma atividade ou empreendimento, apresentado como 
+subsídio para a análise da licença requerida, tais como: relatório 
+ambiental, plano e projeto de controle ambiental, relatório ambiental 
+preliminar, diagnóstico ambiental, plano de manejo, plano de 
+recuperação de área degradada e análise preliminar de risco. 
+ 
+IV  - Impacto Ambiental Regional: é todo e qualquer impacto ambiental 
+que afete diretamente (área de influência direta do projeto), no todo ou 
+em parte, o território de dois ou mais Estados.” (CONAMA Nº 237/1997) 
+
+ 
+ 
+Com base nas definições elencadas, deverão ser utilizadas as diretrizes 
+do INEMA, que é o órgão responsável pelos processos de licenciamento e de 
+autorização para intervenção ambiental e tem por finalidade executar as ações 
+e programas relacionados à Política Estadual de Meio Ambiente e de Proteção 
+à Biodiversidade, à Política Estadual de Recursos Hídricos e à Política Estadual 
+sobre Mudança do Clima. 
+ 
+Para a implantação de um empreendimento cujas atividades sejam 
+potencialmente degradadoras ou que venha causar impacto ambiental direto ou 
+indireto, faz-se necessária a emissão de uma licença ambiental adequada à 
+natureza da atividade. O processo de licenciamento ambiental no Estado da 
+Bahia compreende a avaliação de impactos ambientais, a outorga de direito de 
+uso de recursos hídricos e a supressão de vegetação, processos que 
+dependerão da anuência do órgão competente. 
+ 
+Será também considerado para escolha da área da CVR a Lei Federal n° 
+9985/2000, que regulamenta o art. 225, § 1o, incisos I, II, III e VII da Constituição 
+Federal, institui o Sistema Nacional de Unidades de Conservação da Natureza e 
+dá outras providências. 
+ 
+Deve-se buscar uma área fora de Área de Proteção Ambiental (APA) e 
+Área de Preservação Permanente (APP). Deverá ser considerado, ainda, na 
+escolha da área, o Zoneamento Ecológico-Econômico (ZEE), conforme conceito 
+abaixo: 
+“O Zoneamento Ecológico Econômico – ZEE BA é um instrumento de 
+gestão socioeconômica e ambiental que tem como objetivo orientar o 
+planejamento e a tomada de decisões sobre programas, projetos e atividades 
+que utilizam recursos naturais e promover o desenvolvimento sustentável. As 
+delimitações territoriais do ZEE BA são chamadas de Zonas, as quais foram 
+definidas a partir da convergência de características geoambientais e 
+socioeconômicas do Estado, unindo as Unidades Geoambientais (espaços com 
+solo, clima, hidrografia e vegetação semelhantes) e as Unidades de Paisagem 
+(regiões marcadas por atividades produtivas, a exemplo da agricultura e 
+pecuária).” 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figura 26 - Mapa das Zonas Ecológico-Econômicas (ZEE) 
+Fonte:http://www.zee.ba.gov.br/wp-content/uploads/2013/10/Zona_BA_Territorios_17102013.pdf 
+ 
+ 
+Vale destacar que, independentemente do local de instalação do 
+empreendimento, deverão ser cumpridos todos os requisitos legais 
+referentes aos recursos hídricos, bacias hidrográficas, hidrologia e solos, 
+bem como todos os requisitos legais da Agência Nacional de Aviação Civil 
+(ANAC). 
+ 
+A seguir, colaciona-se os mapas dos recursos hídricos do Estado 
+da Bahia e recorte da região do CDS VELHO CHICO: 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figura 27 - Mapa dos Recursos Hídricos do Estado da Bahia 
+Fonte: Inema-2014 
+ 
+Deverão ser utilizados, portanto, no processo de licenciamento ambiental, 
+todos os instrumentos legais necessários, inclusive as resoluções do CONAMA, 
+ANAC, UC e ZEE. 
+ 
+4.1. 
+LIXÔES 
+ 
+Para a recuperação dos lixões, será necessária a elaboração do PRAD e 
+seu respectivo licenciamento/autorização, emitido pelo órgão ambiental. 
+
+ 
+ 
+4.2. 
+CVR, 
+ESTAÇÃO 
+DE 
+TRANSFERÊNCIA 
+DE 
+RESÍDUOS 
+E 
+ECOPONTOS 
+ 
+ 
+O início do processo de licenciamento ambiental ocorre quando o 
+empreendimento é enquadrado na classe adequada de execução de suas 
+atividades, que acontecem após a prestação das informações solicitadas 
+pelo órgão de controle ambiental. 
+ 
+A título ilustrativo, o fluxograma abaixo apresenta o passo a passo 
+para caracterização do empreendimento e início da análise do processo 
+de licenciamento ambiental, para retirada da Licença Prévia (figura 46): 
+ 
+Figura 28 - Fluxograma do processo de licenciamento 
+Fonte: Ministério do Meio Ambiente, 2016 
+
+ 
+ 
+5. CONCLUSÃO 
+ 
+Após a realização dos trabalhos de campo e de escritório, e ainda as 
+reuniões realizadas com os técnicos do CDS VELHO CHICO, observou-se a 
+necessidade de buscar soluções para gestão integrada dos resíduos sólidos, 
+que fossem compatíveis com as características com o espaço territorial, seus 
+recursos ambientais, diversidade biológica, sempre em bases sustentáveis. 
+
+ 
+ 
+ANEXO I – DIRETRIZES AMBIENTAIS 
+ 
+ 
+1. INTRODUÇÃO 
+ 
+Em cumprimento ao inciso VII do art. 10 da Lei Federal N° 
+11.079/04, as diretrizes aqui contidas visam informar aos LICITANTES a 
+respeito dos principais aspectos que deverão ser observados quando do 
+licenciamento ambiental para implantação de Ecopontos, Estações de 
+Transferência de Resíduos (ETR), Galpão de Triagem de Resíduos 
+Sólidos, Unidade de Compostagem dos Resíduos Orgânicos na área da 
+CVR, Unidade de Compostagem Aeróbia na zona rural e diretrizes para o 
+transporte de resíduos não perigosos e a recuperação dos antigos lixões. 
+ 
+2. PRINCÍPIOS 
+• Prevalência do interesse público. 
+• Melhoria contínua da qualidade ambiental. 
+• Multidisciplinaridade no trato das questões ambientais. 
+• Participação comunitária na defesa do meio ambiente. 
+• Integração com as políticas de meio ambiente nas esferas de 
+competência da União, Estado, Município e as demais ações do 
+governo. 
+• Manutenção de equilíbrio ambiental. 
+• Uso racional dos recursos naturais. 
+• Mitigação e minimização dos impactos ambientais. 
+• Educação 
+e 
+conscientização 
+ambiental 
+como 
+ação 
+mobilizadora da sociedade. 
+• Recuperação do dano ambiental. 
+ 
+ 
+Para o cumprimento do disposto no art. 30 da Constituição Federal, no 
+que concerne ao meio ambiente, consideram-se como de interesse local: 
+• O incentivo à adoção de posturas e práticas sociais e 
+econômicas ambientalmente sustentáveis; 
+
+ 
+ 
+• A adequação das atividades e ações econômicas, sociais, 
+urbanas e do Poder Público, às imposições do equilíbrio 
+ambiental; 
+• A busca permanente de soluções negociadas entre o Poder 
+Público e a iniciativa privada para a redução dos impactos 
+ambientais; 
+• A adoção no processo de planejamento, de normas relativas ao 
+desenvolvimento urbano e econômico que priorize a proteção 
+ambiental, a utilização adequada do espaço territorial e dos 
+recursos naturais e que possibilitem novas oportunidades de 
+geração de trabalho e renda; 
+• O licenciamento ambiental e o controle das atividades potencial 
+ou efetivamente poluidoras; 
+• A melhoria constante da qualidade do ar, da água, do solo, da 
+paisagem e dos níveis de ruído e vibrações, mantendo-os 
+dentro dos padrões técnicos estabelecidos pelas legislações de 
+Controle de Poluição Ambiental Federal, Estadual e Municipal 
+no que couber; 
+• O acondicionamento, armazenamento, a coleta, o transporte, a 
+reciclagem, o tratamento e a disposição final dos resíduos 
+sólidos; 
+• O cumprimento de normas de segurança no tocante à 
+manipulação, armazenagem e transporte de produtos, 
+substâncias, materiais e resíduos perigosos ou tóxicos; e 
+• O estabelecimento de indicadores ambientais. 
+ 
+ 
+A gestão integrada dos resíduos sólidos e o desenvolvimento 
+sustentável do MUNICÍPIO deverá ter ênfase na qualidade de vida de sua 
+população, tendo como base a educação, direito fundamental para o 
+exercício da cidadania. 
+
+ 
+ 
+3. LICENCIAMENTO AMBIENTAL 
+ 
+ 
+Toda atividade de licenciamento ficará sob responsabilidade da 
+CONCESSIONÁRIA que deverá observar a legislação federal, estadual e 
+municipal pertinentes à matéria. 
+ 
+Com 
+vistas 
+ao 
+licenciamento 
+dos 
+empreendimentos, 
+a 
+CONCESSIONÁRIA deverá levar em consideração as especificações 
+técnicas, constantes no CADERNO DE ENCARGOS, e as legislações 
+ambientais vigentes. 
+ 
+O licenciamento ambiental é um dos instrumentos da Política Nacional 
+do Meio Ambiente (PNMA), Lei Federal N° 6.938/1981, que visa agir 
+preventivamente na proteção do meio ambiente, considerado bem de uso 
+comum de toda a sociedade (BRASIL, 1981). 
+ 
+O licenciamento ambiental consiste na avaliação da viabilidade de um 
+empreendimento por meio de um órgão competente que atesta seu 
+enquadramento às normas ambientais vigentes e determina ações que o 
+empreendedor deve tomar para minimizar os impactos ambientais do 
+empreendimento. 
+ 
+O órgão competente licencia a localização, instalação, ampliação e a 
+operação de empreendimentos e atividades utilizadoras de recursos 
+ambientais, consideradas efetiva ou potencialmente poluidoras ou daquelas 
+que, sob qualquer forma, possam causar degradação ambiental, 
+considerando as disposições legais e regulamentares e as normas técnicas 
+aplicáveis ao caso. Todo empreendimento listado na Resolução CONAMA 
+237 de 1997 é obrigado a ter licença ambiental, estando o tratamento e 
+destinação de resíduos sólidos urbanos citados nesta lista. 
+
+ 
+ 
+O empreendimento, sujeito ao licenciamento, que não regularizar sua 
+situação infringirá a legislação, podendo sofrer as sanções previstas na Lei 
+de Crimes Ambientais, Lei Federal N° 9.605/1998, como multa, embargo ou 
+mesmo detenção. 
+ 
+De acordo com o Art. 7º. da Resolução CONAMA Nº. 237/1997 os 
+empreendimentos 
+e 
+atividades 
+são 
+licenciados 
+ou 
+autorizados 
+ambientalmente por um único ente federativo, em conformidade com as 
+atribuições definidas em lei. No nível federal, o órgão responsável é o Instituto 
+Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (IBAMA) e 
+no nível estadual, no caso da Bahia, é o Instituto Do Meio Ambiente E 
+Recursos Hídricos (INEMA). No nível municipal, o licenciamento ambiental 
+em Angra dos Reis é de responsabilidade da Secretaria Executiva do Meio 
+Ambiente - Departamento de Licenciamento (SMA) e estabelecido pelo artigo 
+11 da Lei n° 1.965, de 24 de junho de 2008. 
+ 
+No quadro a seguir são apresentados os casos em que cada órgão 
+deve ser responsável pelo licenciamento. 
+ 
+Quadro 1: Competências para o licenciamento ambiental no Brasil 
+ 
+Órgão 
+Ambiental 
+Competente 
+Dano 
+Potencial 
+Outros requisitos legais 
+Significativo 
+Atividades 
+localizadas 
+ou 
+desenvolvidas 
+impacto 
+conjuntamente no Brasil e em país limítrofe; no mar 
+IBAMA 
+ambiental, de 
+territorial;  na  plataforma  continental;  em  zona 
+âmbito nacional 
+econômica exclusiva; em terras indígenas ou em 
+ou regional 
+unidades de conservação do domínio da União. 
+ 
+Órgão 
+Ambiental 
+Competente 
+Dano Potencial 
+Outros requisitos legais 
+Atividades localizadas ou desenvolvidas em dois ou 
+mais Estados. 
+
+ 
+ 
+IBAMA 
+Significativo 
+impacto ambiental, 
+de âmbito nacional 
+ou regional 
+Atividades cujos impactos ambientais diretos 
+ultrapassem os limites territoriais do País ou de um 
+ou mais Estados. 
+Bases ou empreendimentos de caráter militar, 
+quando couber, observada a legislação específica. 
+Destinados a pesquisar, lavrar, produzir, beneficiar, 
+transportar, armazenar e dispor material radioativo, 
+em qualquer estágio, ou que utilizem energia 
+nuclear em qualquer de suas formas e aplicações, 
+mediante parecer da Comissão Nacional de Energia 
+Nuclear (CNEN). 
+INEMA 
+Impactos 
+ambientais 
+diretos que 
+ultrapassem os 
+limites territoriais 
+de 
+um ou mais 
+municípios 
+Atividades localizadas ou desenvolvidas em mais 
+de um município ou em unidades de conservação 
+de domínio estadual. 
+Atividades localizadas ou desenvolvidas nas 
+florestas e demais formas de vegetação natural de 
+preservação permanente relacionadas no artigo 2º 
+da Lei nº 4.771, de 15 de setembro de 1965, e em 
+todas as que assim forem consideradas por normas 
+federais, estaduais ou municipais. 
+Atividades e empreendimento cujos impactos 
+ambientais diretos ultrapassem os limites territoriais 
+de um ou mais Municípios. 
+Atividades delegadas pela União aos Estados ou 
+ao Distrito Federal por instrumento legal ou 
+convênio. 
+Secretária 
+Municipal de 
+Meio 
+Ambiente 
+Impacto 
+ambiental local 
+Atividades cujos impactos ambientais diretos 
+concentram-se dentro dos limites do Município. 
+ 
+O licenciamento ambiental é regido, de forma geral, pelas Resoluções 
+CONAMA N° 01/86 e N° 237/97. O processo consiste na emissão de três 
+tipos de licenças, sendo cada uma exigida em uma etapa específica do 
+licenciamento. Assim, temos: 
+• Licença Prévia (LP); 
+• Licença de Instalação (LI); 
+• Licença de Operação (LO). 
+
+ 
+ 
+O Estado da Bahia possui o Sistema de Licenciamento Ambiental 
+(SLA), instituído pela Lei Estadual nº 10.431/2006, posteriormente alterada 
+pela Lei 12.377 de 28 de dezembro de 2011 estabelece competências, 
+critérios e diretrizes relacionados a regularização ambiental no estado da 
+Bahia e a melhoria dos instrumentos de controle ambiental (licença, 
+fiscalização e monitoramento). Nele determina-se que ao empreendimento 
+ou atividade sujeito ao licenciamento ambiental, podem ser concedidas as 
+seguintes Licenças Ambientais: 
+ 
+• Licença Prévia (LP): concedida na fase preliminar do 
+planejamento do empreendimento ou atividade e aprova sua 
+localização e concepção, atestando a viabilidade ambiental e 
+estabelecendo os requisitos básicos e condicionantes a serem 
+atendidos nas fases seguintes de sua implantação. 
+ 
+• Licença de Instalação (LI): concedida antes de iniciar-se a 
+implantação do empreendimento ou atividade e autoriza a 
+instalação do empreendimento ou atividade de acordo com as 
+especificações constantes dos planos, programas e projetos 
+aprovados, incluindo as medidas de controle ambiental e 
+demais 
+condicionantes, 
+da 
+qual 
+constituem 
+motivo 
+determinante. 
+ 
+• Licença Prévia e de Instalação (LPI): concedida antes de 
+iniciar-se a implantação do empreendimento ou atividade e o 
+órgão ambiental, em uma única fase, atesta a viabilidade 
+ambiental e autoriza a implantação de empreendimentos ou 
+atividades, nos casos em que a análise de viabilidade ambiental 
+da atividade ou empreendimento não depender da elaboração 
+de EIA/Rima ou RAS, estabelecendo as condições e medidas 
+de controle ambiental. 
+
+ 
+ 
+• Licença de Operação (LO): autoriza a operação de 
+empreendimento ou atividade, após a verificação do efetivo 
+cumprimento do que consta nas licenças anteriores, com base 
+em constatações de vistoria, relatórios de pré-operação, 
+relatórios de auditoria ambiental, dados de monitoramento ou 
+qualquer meio técnico de verificação do dimensionamento e 
+eficiência do sistema de controle ambiental e das medidas de 
+mitigação implantadas. 
+ 
+• Licença de Instalação e de Operação (LIO): concedida antes 
+de iniciar-se a implantação do empreendimento ou atividade e 
+autoriza, concomitantemente, a instalação e a operação de 
+empreendimento ou atividade cuja operação represente um 
+potencial poluidor insignificante, estabelecendo as condições e 
+medidas de controle ambiental que devem ser observadas na 
+sua implantação e funcionamento. A LIO poderá ser concedida 
+para 
+a 
+realização 
+de 
+ampliações 
+ou 
+ajustes 
+em 
+empreendimentos e atividades já implantados e licenciados. 
+ 
+• Licença Ambiental Simplificada (LAS): concedida antes de 
+iniciar-se a implantação do empreendimento ou atividade e, em 
+uma única fase, atesta a viabilidade ambiental, aprova a 
+localização e autoriza a implantação e a operação de 
+empreendimento ou atividade enquadrados na Classe 2, 
+estabelecendo as condições e medidas de controle ambiental 
+que deverão ser atendidas. 
+ 
+• Licença de Operação e Recuperação (LOR): autoriza a 
+operação de empreendimento ou atividade concomitante à 
+recuperação ambiental de áreas contaminadas. 
+ 
+• Licença Ambiental de Recuperação (LAR): autoriza a 
+recuperação  de  áreas  contaminadas  em  atividades  ou 
+
+ 
+ 
+empreendimento fechado, desativado ou abandonado ou de 
+áreas degradadas, de acordo com os critérios técnicos 
+estabelecidos em leis e regulamentos. 
+ 
+ 
+O prazo de validade da LP é, no mínimo, o estabelecido no 
+cronograma de elaboração dos planos, programas e projetos e, no máximo, 
+de 5 (cinco) anos. Já para a LI e para a LPI o prazo mínimo se dá de acordo 
+com o estabelecido no cronograma de instalação e pré-operação, e o 
+máximo, de 6 (seis) anos. 
+ 
+Para a LO o prazo mínimo é de 4 (quatro) anos e, o máximo, de 10 
+(dez) anos. Nos casos em que a LO for concedida com prazo de validade 
+inferior ao máximo, poderá ter seu prazo de validade ampliado até o limite de 
+10 (dez) anos, mediante requerimento do titular da licença, quando 
+constatadas, cumulativamente: 
+• Manutenção das condições ambientais existentes quando de 
+sua concessão 
+• Implementação voluntária de programa eficiente de gestão 
+ambiental; 
+• Inexistência de denúncias e autos de constatação e de infração; 
+• Correção das não conformidades decorrentes da última 
+auditoria ambiental realizada. 
+ 
+ 
+Os prazos de validade da LIO e da LAS são, no mínimo, de 4 (quatro) 
+anos e, no máximo, de 10 (dez) anos. Por fim, tanto o prazo mínimo da LAR 
+como da LOR é de acordo com o estabelecido pelo cronograma de 
+recuperação ambiental do local e, no máximo, de 6 (seis) anos. 
+ 
+Para todas as licenças ambientais, caso elas tenham sido concedidas 
+com prazo de validade inferior ao máximo, este poderá ser ampliado, por 
+meio de averbação, até o seu respectivo limite máximo, mediante 
+requerimento do titular da licença, desde que comprovada a manutenção do 
+
+ 
+ 
+projeto original e das condições ambientais existentes quando de sua 
+concessão. 
+ 
+Para verificar o enquadramento das atividades e empreendimento 
+sujeitos ao processo de licenciamento, e consequentemente, qual licença 
+solicitar, a CONCESSIONÁRIA deverá informar os dados necessários a 
+respeito da atividade. O INEMA indicará o enquadramento e o órgão 
+ambiental responsável pelo licenciamento da atividade (estadual ou 
+municipal). 
+ 
+Para os casos de licenciamento junto ao Instituto do Meio Ambiente e 
+Recursos Hídricos (INEMA), ele também indicará a documentação 
+necessária para dar entrada no processo, o local para entrega desta 
+documentação, bem como emitirá o boleto bancário para pagamento dos 
+custos de análise do processo. 
+ 
+Das atividades previstas no CADERNO DE ENCARGOS, serão 
+licenciadas no âmbito municipal, pela Secretaria Municipal de Meio Ambiente 
+dos municípios, os Ecopontos, a Galpão de Triagem de Resíduos Sólidos, a 
+Unidade de Compostagem dos Resíduos Orgânicos e a Unidade de 
+Compostagem Aeróbia. 
+ 
+Para estas atividades, os procedimentos e documentos necessários 
+para abertura de processo de licenciamento que serão apresentados. 
+Poderão ser solicitados outros documentos além dos descritos a seguir em 
+função das características específicas da localização e da tipologia do 
+empreendimento. 
+ 
+Já o transporte rodoviário de resíduos não perigosos e a recuperação 
+da área dos antigos lixões serão objeto de licenciamento em âmbito estadual, 
+pelo INEMA. 
+
+ 
+ 
+3.1. 
+ECOPONTOS 
+ 
+No enquadramento, considera-se como inexigível o licenciamento 
+ambiental de Ecopontos. Sendo assim, a CONCESSIONÁRIA deverá 
+solicitar a emissão da Certidão Ambiental de Inexigibilidade e dar entrada no 
+processo com a seguinte documentação: 
+• Requerimentos, que deverão ser assinados pelo proprietário ou 
+representante legal, devidamente autorizado; 
+• Comprovante de pagamento da taxa de licenciamento 
+ambiental; 
+• Documento de identificação do Requerente / Representante 
+legal CPF (Pessoa física) ou CNPJ (Pessoa jurídica); 
+• Documento de identificação, Registro no Conselho de Classe e 
+Anotação de Responsabilidade Técnica (ART) com respectivo 
+comprovante de pagamento do responsável técnico; 
+• RGI ou Comprovante de domínio ou ocupação do imóvel; 
+• Para imóvel rural: Imposto sobre a Propriedade Territorial Rural 
+(ITR) e Certificado de Cadastro do Imóvel Rural (CCRI) ou 
+Prova de Justa Posse; 
+• Para imóvel em que o requerente não for proprietário: Contrato 
+de Locação, comodato ou equivalente e carta de anuência do 
+proprietário; 
+• Alvará de funcionamento e habite-se para licenciamento de 
+atividades; 
+• Alvará de construção para licenciamento de edificações novas; 
+• Alvará de habite-se para licenciamento de edificações já 
+existentes; 
+• Declaração possibilidade de esgotamento sanitário (DPE) e 
+abastecimento de água (DPA) pela concessionária, no caso de 
+sistema público; 
+• Documento de comprovação da legalidade do abastecimento 
+de água: 
+• Rede Pública: Conta de água da concessionária; 
+
+ 
+ 
+• Rede Particular: Declaração do responsável pelo loteamento ou 
+condomínio, ou documento de Outorga de Direito de Uso de 
+Recursos Hídricos emitido pelo órgão estadual; 
+• Captação Superficial ou Subterrânea: Certidão de Uso 
+Insignificante ou Outorga de Direito de Uso de Recursos 
+Hídricos; 
+• Para pedidos de renovação, apresentar cópia da Licença 
+Ambiental ou equivalente (Certidão/Autorização) anterior. 
+ 
+ 
+Para os ecopontos localizados em unidades de conservação a 
+CONCESSIONÁRIA (SPE) deverá realizar consulta prévia, no órgão 
+responsável, sobre o tipo de licença a ser solicitada. 
+ 
+3.2. 
+UNIDADE DE TRIAGEM DOS RESÍDUOS SÓLIDOS 
+ 
+A documentação listada neste item é referente à obtenção de Licença 
+Ambiental Simplificada para Galpão de Triagem de Resíduos Sólidos com 
+capacidade acima de 10 t/d. 
+• Requerimentos, que deverão ser assinados pelo proprietário ou 
+representante legal, devidamente autorizado; 
+• Comprovante de pagamento da taxa de licenciamento 
+ambiental; 
+• Documento de identificação do Requerente / Representante 
+legal CPF (Pessoa física) ou CNPJ (Pessoa jurídica); 
+• Documento de identificação, Registro no Conselho de Classe e 
+Anotação de Responsabilidade Técnica (ART) com respectivo 
+comprovante de pagamento do responsável técnico; 
+• RGI ou Comprovante de domínio ou ocupação do imóvel; 
+• Para imóvel rural: Imposto sobre a Propriedade Territorial Rural 
+(ITR) e Certificado de Cadastro do Imóvel Rural (CCRI) ou 
+Prova de Justa Posse; 
+
+ 
+ 
+• Para imóvel em que o requerente não for proprietário: Contrato 
+de Locação, comodato ou equivalente e carta de anuência do 
+proprietário; 
+• Alvará de funcionamento e habite-se para licenciamento de 
+atividades; 
+• Alvará de construção para licenciamento de edificações novas; 
+• Alvará de habite-se para licenciamento de edificações já 
+existentes; 
+• Declaração possibilidade de esgotamento sanitário (DPE) e 
+abastecimento de água (DPA) pela concessionária, no caso de 
+sistema público; 
+• Documento de comprovação da legalidade do abastecimento 
+de água: 
+• Rede Pública: Conta de água da concessionária; 
+• Rede Particular: Declaração do responsável pelo loteamento ou 
+condomínio, ou documento de Outorga de Direito de Uso de 
+Recursos Hídricos emitido pelo órgão estadual; 
+• Captação Superficial ou Subterrânea: Certidão de Uso 
+Insignificante ou Outorga de Direito de Uso de Recursos 
+Hídricos; 
+• Para pedidos de renovação, apresentar cópia da Licença 
+Ambiental ou equivalente (Certidão/Autorização) anterior. 
+ 
+3.3. 
+UNIDADE DE COMPOSTAGEM DOS RESÍDUOS ORGÂNICOS 
+E UNIDADE DE COMPOSTAGEM AERÓBIA 
+ 
+ 
+Para o licenciamento de uma nova unidade de compostagem com 
+capacidade de até 10 t/d, será emitida uma Licença Ambiental Simplificada. 
+Para isso é necessária a apresentação dos seguintes documentos: 
+• Requerimentos disponível no portal do INEMA, que deverão ser 
+assinados 
+pelo 
+proprietário 
+ou 
+representante 
+legal, 
+devidamente autorizado; 
+
+ 
+ 
+• Comprovante de pagamento da taxa de licenciamento 
+ambiental; 
+• Documento de identificação do Requerente / Representante 
+legal CPF (Pessoa física) ou CNPJ (Pessoa jurídica); 
+• Documento de identificação, Registro no Conselho de Classe e 
+Anotação de Responsabilidade Técnica (ART) com respectivo 
+comprovante de pagamento do responsável técnico; 
+• RGI ou Comprovante de domínio ou ocupação do imóvel; 
+• Para imóvel rural: Imposto sobre a Propriedade Territorial Rural 
+(ITR) e Certificado de Cadastro do Imóvel Rural (CCRI) ou 
+Prova de Justa Posse; 
+• Para imóvel em que o requerente não for proprietário: Contrato 
+de Locação, comodato ou equivalente e carta de anuência do 
+proprietário; 
+• Alvará de funcionamento e habite-se para licenciamento de 
+atividades; 
+• Alvará de construção para licenciamento de edificações novas; 
+• Alvará de habite-se para licenciamento de edificações já 
+existentes; 
+• Declaração possibilidade de esgotamento sanitário (DPE) e 
+abastecimento de água (DPA) pela concessionária, no caso de 
+sistema público; 
+• Documento de comprovação da legalidade do abastecimento 
+de água: 
+• Rede Pública: Conta de água da concessionária; 
+• Rede Particular: Declaração do responsável pelo loteamento ou 
+condomínio, ou documento de Outorga de Direito de Uso de 
+Recursos Hídricos emitido pelo órgão estadual; 
+• Captação Superficial ou Subterrânea: Certidão de Uso 
+Insignificante ou Outorga de Direito de Uso de Recursos 
+Hídricos; 
+
+ 
+ 
+• Para pedidos de renovação, apresentar cópia da Licença 
+Ambiental ou equivalente (Certidão/Autorização) anterior. 
+ 
+3.4. 
+TRANSPORTE RODOVIÁRIO 
+ 
+Para o licenciamento da atividade de transporte rodoviário de 
+resíduos perigosos (classe I) e não perigosos (classes II A e II B) a seguinte 
+documentação deverá ser apresentada no INEMA, conforme Norma 
+Operacional: 
+• Comprovante da Guia de Recolhimento (GR) do custo de 
+análise da licença ambiental requerida; 
+• Formulários de requerimento de licença preenchido e assinado 
+pelo representante legal; 
+• Cópia dos documentos de identidade e CPF do representante 
+legal que assina o requerimento; 
+• Se houver procurador, apresentar cópia da procuração, pública 
+ou particular, com firma reconhecida, e cópia do documento de 
+identidade e do CPF; 
+• Cópia das atas de constituição e eleição da última diretoria, 
+quando se tratar de S/A, ou contrato social atualizado quando 
+se tratar de sociedade por cotas de responsabilidade limitada. 
+Se o requerente for órgão público deverá ser apresentado o Ato 
+de Nomeação do representante que assinar o requerimento; 
+• Cópia de inscrição no Cadastro Nacional de Pessoa Jurídica 
+(CNPJ) contemplando a atividade de transporte rodoviário de 
+resíduos; 
+• Alvará emitido pela Prefeitura Municipal; 
+• Declaração de entrega de documentos em meio impresso e 
+digital; 
+• Formulário de Cadastro de Transporte de resíduos perigosos 
+classe I e não perigosos – classe II - CTR, preenchido e 
+assinado pelo representante legal, de acordo com o modelo do 
+Anexo VI A do presente edital; 
+
+ 
+ 
+• Cópia dos Cerificados de Registro e Licenciamento de Veículo 
+(CRLV) vigentes, usados no transporte dos Resíduos; 
+• Cópia do CIPP e CIV, no caso de transporte rodoviário de 
+resíduos perigosos a granel, dentro da validade, emitido pelo 
+Inmetro ou entidade por este acreditada; 
+• Cópia dos contratos efetuados com os proprietários dos 
+veículos agregados e/ou terceirizados que efetuarão o 
+transporte dos resíduos; 
+• Cópia da Carteira de Movimentação de Produtos Perigosos 
+(MOPP) para os condutores dos veículos responsáveis pelo 
+transporte dos Resíduos perigosos – classe I; 
+• Cópia do CPF e do Registro no Conselho de Classe do(s) 
+profissional(is) responsável(veis) pela elaboração do Plano de 
+ação de emergência (PAE) no atendimento a acidentes 
+acompanhados da A.R.T atualizada para os casos de transporte 
+rodoviário de resíduos perigosos – classe I; 
+• Cópia(s) 
+da(s) 
+identidade(s) 
+Profissional 
+do(s) 
+Responsável(eis) Técnico(s) pelas atividades de coleta e 
+transporte rodoviário de Resíduos perigosos - classe I e não 
+perigosos - classe II. 
+• Cópia(s) da(s) A.R.T com atribuições e responsabilidades 
+referentes aos serviços de coleta e transporte de resíduos 
+realizados pela empresa; 
+• Cópia do Plano de ação de emergência (PAE) referente ao 
+transporte rodoviário dos Resíduos perigosos – classe I a serem 
+transportados, seguindo os requisitos mínimos de elaboração 
+da 
+ABNT 
+NBR 
+15480, 
+devidamente 
+assinado 
+pelo 
+representante legal e responsável técnico pela sua elaboração; 
+• Cópia do contrato com a empresa que realizará o atendimento 
+emergencial (nos casos de terceirização do serviço) ou 
+comprovação de posse de recursos materiais, humanos e de 
+comunicação, de acordo com ABNT NBR 15480 e NBR 14064 
+
+ 
+ 
+com apresentação dos certificados de treinamento dos 
+colaboradores da empresa (atendimento emergencial próprio); 
+• Fichas de Emergência referentes aos resíduos perigosos 
+transportados ABNT NBR 7503; 6.3.2.12 Cópia da licença 
+Ambiental de operação das empresas que realizarão as 
+atividades de tratamento e/ou destinação final dos Resíduos 
+transportados, emitida pelo órgão ambiental competente; 
+• Comprovante de inscrição do Cadastro Técnico Federal – CTF 
+e o Certificado de regularidade, para os casos de transporte 
+rodoviário de resíduos classe I; 
+• Comprovante de que os veículos possuem sistema de 
+rastreabilidade de forma a atender à Lei 6.268 de 15 de julho de 
+2014. 
+ 
+ 
+Para o licenciamento da atividade de transporte rodoviário de resíduos 
+da construção civil a seguinte documentação deverá ser apresentada no 
+INEMA, conforme Norma Operacional: 
+• Comprovante da guia de recolhimento (GR) do custo de análise 
+da licença ambiental requerida; 
+• Formulários de requerimento de licença preenchido e assinado 
+pelo representante legal; 
+• Declaração de entrega de documentos em meio impresso e 
+digital; 
+• Cópia dos documentos de identidade e CPF do representante 
+legal que assina o requerimento; 
+• Se houver procurador, apresentar cópia da procuração, pública 
+ou particular, com firma reconhecida, e cópia do documento de 
+identidade e do CPF; 
+• Cópia das atas de constituição e eleição da última diretoria, 
+quando se tratar de S/A, ou contrato social atualizado quando 
+se tratar de sociedade por cotas de responsabilidade limitada. 
+
+ 
+ 
+Se o requerente for órgão público deverá ser apresentado o Ato 
+de Nomeação do representante que assinar o requerimento; 
+• Cópia de inscrição no Cadastro Nacional de Pessoa Jurídica 
+(CNPJ) e Inscrição Estadual contemplando a atividade de 
+transporte rodoviário de resíduos; 
+• Alvará emitido pela Prefeitura Municipal; 
+• Formulário de Cadastro de Transporte de Resíduos da 
+Construção Civil (RCC) - CTRCC, preenchido e assinado pelo 
+representante legal, de acordo com o modelo do Anexo VI B 
+presente neste edital; 
+• Cópia dos Cerificado de Registro e Licenciamento de Veículo 
+(CRLV) vigentes, usados no transporte dos RCC; 
+• Relatório fotográfico comprovando à adequação dos veículos e 
+caçambas; 
+• Cópia dos contratos efetuados com os proprietários dos 
+veículos agregados e/ou terceirizados que efetuarão o 
+transporte dos resíduos; 
+• Cópia do CPF e do Registro no Conselho de Classe do(s) 
+profissional(is) responsável pela atividade de coleta e 
+transporte rodoviário de RCC e PAE. Cópia(s) da(s) ART com 
+atribuições e responsabilidades referentes aos serviços de 
+coleta e transporte de resíduos realizados pela empresa e pelo 
+PAE; 
+• Cópia do plano de Ação de Emergência (PAE) no atendimento 
+a acidentes no transporte rodoviário, de acordo com as 
+características do resíduo a ser transportado e seguindo os 
+requisitos mínimos de elaboração da ABNT NBR 15480. 
+Devendo estar devidamente assinado pelo representante legal 
+e responsável técnico pela elaboração do plano; 
+• Cópia do contrato com a empresa que realizará o atendimento 
+emergencial (quando terceirizado) ou comprovação de posse 
+de recursos materiais, humanos e de comunicação, de acordo 
+
+ 
+ 
+com ABNT NBR 15480 e NBR 14064 com apresentação dos 
+certificados de treinamento dos colaboradores da empresa 
+(atendimento emergencial próprio); 
+• Possuir cópia da licença ambiental que autoriza a operação das 
+empresas que realizarão as atividades de beneficiamento e 
+destino dos RCC, emitida por órgão ambiental do estado de 
+destino; 
+• Comprovante 
+que 
+os 
+veículos 
+possuem 
+sistema 
+de 
+rastreabilidade. 
+ 
+3.5. 
+RECUPERAÇÃO E MONITORAMENTO DE LIXÃO 
+ 
+Para a recuperação de áreas contaminadas, se faz necessária a 
+obtenção de Licença Ambiental de Recuperação – Área Contaminada (porte 
+2). Será solicitada a lista de documentos a seguir, havendo possibilidade de 
+durante a análise do requerimento serem exigidos outros documentos 
+complementares: 
+• Formulário de requerimento preenchido e assinado pelo 
+representante legal; 
+• Boleto e respectivo comprovante de pagamento de acordo com 
+o instrumento do solicitado; 
+• Recibo de inscrição no Cadastro Ambiental Rural - CAR, para 
+atividades ou empreendimento desenvolvidos em imóveis 
+rurais, se couber; 
+• Cadastro Técnico Federal de Atividades Potencialmente 
+Poluidoras 
+e/ou 
+Utilizadoras 
+de 
+Recursos 
+Ambientais 
+(CTF/APP) ou Cadastro Técnico Federal de Atividades e 
+Instrumentos de Defesa Ambiental (CTF/AIDA), se couber; 
+• Contrato de trabalho ou CTPS e CPF do Responsável Técnico, 
+sua habilitação e o respectivo comprovante de vinculação ao 
+Conselho de Classe, se couber. Anotação de Responsabilidade 
+Técnica (ART) ou Termo de Responsabilidade Técnica (TRT) - 
+para biólogos; 
+
+ 
+ 
+• Declaração de microempresa ou relatório do simples nacional 
+emitido pela receita federal, se couber; 
+• Cópias dos documentos de identidade e CPF do representante 
+legal que assina o requerimento. Se o requerente for pessoa 
+física, deverá apresentar também comprovante de residência; 
+• Se houver procurador, apresentar cópia da procuração pública 
+ou particular com firma reconhecida, e cópias dos documentos 
+de identidade e CPF; 
+• Cópia de inscrição no Cadastro Nacional de Pessoa Jurídica 
+(CNPJ), para o caso de pessoa jurídica ou cópia do Cadastro 
+de Pessoa Física (CPF) para o caso de pessoa física; 
+• Certidão Municipal de Zoneamento ou Declaração da 
+Prefeitura, 
+dentro 
+do 
+prazo 
+de 
+validade, 
+afirmando 
+expressamente que a atividade ou empreendimento está de 
+acordo com as normas de Uso e Ocupação do Solo, ou Alvará 
+de localização e Funcionamento expedido pelo MUNICÍPIO que 
+ateste a conformidade da atividade/empreendimento quanto ao 
+uso e ocupação", válido. Na falta da data de validade o 
+documento deverá ter sido emitido 1(um) ano antes do pedido 
+da licença. 
+• Cópia do título de propriedade do imóvel e da Certidão 
+atualizada do Registro Geral de Imóveis (RGI); ou cópia da 
+certidão de aforamento, se for o caso; ou cópia da Cessão de 
+Uso, quando se tratar de imóvel de propriedade da 
+União/Estado. Se o requerente não for proprietário do imóvel, 
+apresentar também Contrato de Locação, de Comodato ou 
+outros. 
+• Planta de localização – em cópias de plantas do IBGE, mapas 
+do programa Google Earth, indicando: 
+• Coordenadas UTM ou geográficas, em SIRGAS2000; 
+• Localização do terreno em relação ao logradouro principal, aos 
+acessos, indicando suas denominações; 
+
+ 
+ 
+• Caso esteja situado às margens da estrada ou rodovia, indicar 
+o quilômetro e o lado em que se localiza; 
+• Corpos 
+d’água 
+(rios, 
+lagos 
+etc.) 
+mais 
+próximos 
+ao 
+empreendimento, com seus respectivos nomes, quando 
+houver; 
+• Usos dos imóveis e áreas vizinhas, num raio mínimo de 100 
+metros. 
+• Relatório consolidado referente às investigações do solo e da 
+água subterrâneas realizadas anteriores ao requerimento de 
+Licença Ambiental de Recuperação; 
+• Plano de ação, devendo minimamente contemplar: 
+• Cronograma detalhado contendo as etapas de Gerenciamento 
+de Áreas Contaminadas a serem realizadas conforme 
+Resolução CONAMA n° 420/2009, incluindo 2 (dois) anos de 
+monitoramento para reabilitação; 
+• Plano de Desmobilização da Unidade, objetivando a destinação 
+ambientalmente correta de todos os resíduos gerados, bem 
+como a remoção e destinação de todas as instalações e 
+equipamentos, superficiais ou subterrâneos, substâncias e 
+produtos perigosos, em conformidade com as legislações 
+aplicáveis à respectiva atividade; 
+• Relatório de cumprimento das condicionantes dos Instrumentos 
+do Sistema de Licenciamento Ambiental e/ou Termos de 
+Ajustamento de Conduta anteriormente emitidos para a 
+respectiva atividade; 
+• Projeto das medidas de intervenção propostas para uso 
+pretendido, caso já tenha sido definido; 
+• Declaração técnica pelo projeto de recuperação da área. 
+ 
+ 
+Os relatórios deverão conter: assinatura original e Anotação de 
+Responsabilidade Técnica (ART) do responsável técnico pelo estudo, laudos 
+originais, no formato digital, das análises de solo e água subterrânea emitidos 
+
+ 
+ 
+por laboratório credenciado pelo INEMA e as respectivas cadeias de custódia 
+das amostragens. A amostragem de água subterrânea deverá ser feita pelo 
+método de baixa vazão. 
+ 
+Observar todas as normas brasileiras da Associação Brasileira de 
+Normas Técnicas – ABTN/NBR elaboradas pela Comissão de Estudo de 
+Especial Temporária de Avaliação da Qualidade do Solo e da Água para 
+Levantamento de Passivo Ambiental e Avaliação de Risco à Saúde Humana, 
+como as ABNT/NBR 15.492, 15.495, 15.847, 15515, 15.935, 16.209 e 16.210 
+e demais publicações e atualizações. 
+ 
+ 
+O custo da análise do procedimento é de responsabilidade da 
+CONCESSIONÁRIA o qual deve ser pago via boleto bancário. Apenas após 
+o pagamento da taxa a CONCESSIONÁRIA poderá dar entrada no processo 
+de licenciamento da atividade e agendar uma data para seu comparecimento 
+em uma das unidades do INEMA. 
+
+ 
+ 
+4. REFERÊNCIAS BIBLIOGRÁFICAS 
+ 
+BRASIL. Banco Interamericano de Desenvolvimento – BID. Caixa 
+Econômica Federal – Caixa. Programa de Parcerias de Investimentos – PPI. 
+Guia prático de estruturação de projetos de concessão de manejo sustentável 
+de resíduos sólidos urbanos. 1º ed. Brasília. 2023 
+ 
+BRASIL. Lei Federal nº 12.187, de 29 de dezembro de 2009. Institui a 
+Política Nacional sobre Mudança do Clima – PNMC e dá outras providências. 
+Diário Oficial da União de 29 de dezembro de 2009. 
+ 
+BRASIL. Lei Federal nº 12.305, 02 de agosto de 2010. Institui a Política 
+Nacional de Resíduos Sólidos; altera a Lei nº 9.605, de 12 de fevereiro de 
+1998; e dá outras providências. Diário Oficial da União de 03 de agosto de 
+2010. 
+ 
+Decreto Federal nº 10.936, de 12 de janeiro de 2022. Regulamenta a 
+Lei nº 12.305, de 02 de agosto de 2010, que institui a Política Nacional de 
+Resíduos Sólidos. Diário Oficial da União de 12 de janeiro de 2022. 
+ 
+EPIFANIA, 
+A. 
+G. 
+et 
+al. 
+TERRITÓRIO, 
+CULTURA 
+E 
+DESENVOLVIMENTO NO BAIXO SUL DA BAHIA. 1ª edição. Curitiba/PR: 
+Appris,2021. 
+ 
+ 
+FERREIRA, R.G. Proposta de padronização cartográfica para carta-
+imagem emergencial de inundação. Impactos ambientais decorrentes do 
+lixão 
+da 
+cidade 
+de 
+Condado-PB, 
+2017. 
+Disponível 
+em: 
+https://periodicos.ufsm.br/geografia/article/view/24004/pdf. 
+ 
+Plano de Gestão Integrada de Resíduos Sólidos da Cidade de São 
+Paulo. Comitê Intersecretarial para a Política Municipal de Resíduos Sólidos, 
+2014. 
+Disponível 
+em: 
+<https://www.prefeitura.sp.gov.br/cidade/secretarias/upload/servicos/arquivo 
+
+ 
+ 
+s/PGIRS-2014.pdf>. 
+ 
+ 
+Procedimentos de Licenciamento Ambiental. Ministério do Meio 
+Ambiente, 
+2016. 
+Disponível 
+em: 
+<http://pnla.mma.gov.br/images/2018/08/VERS%C3%83O-FINAL-E-BOOK-
+Procedimentos-do-Lincenciamento-Ambiental-WEB.pdf>. 
+ 
+Regionalização da gestão integrada de resíduos sólidos do Estado da 
+Bahia. 
+Disponível 
+em: 
+http://www.sedur.ba.gov.br/wp-
+content/uploads/sgt/residuos/DocumentoSinteseEstudoRegionalizacao.pdf 
+ 
+Política 
+Estadual 
+de 
+Resíduos 
+Sólidos. 
+Disponível 
+em: 
+https://www.legisweb.com.br/legislacao/?id=264190. 
+ 
+Mapa dos Recursos Hídricos do Estado da Bahia, 2014. Disponível 
+em: < http://www.inema.ba.gov.br/servicos/mapas-tematicos/>. 
+
+

@@ -1,0 +1,1910 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ESTRUTURA DE GARANTIAS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DESCRIÇÃO DAS GARANTIAS A SEREM PRESTADAS PELA 
+ADMINISTRAÇÃO PÚBLICA, BEM COMO ESTUDO DE SUA VIABILIDADE, 
+CONTENDO INFORMAÇÕES INERENTES AO CASO. 
+ 
+ 
+ 
+ 
+ 
+ 
+APOIO INSTITUCIONAL 
+ 
+ 
+TERMO DE COOPERAÇÃO TÉCNICA Nº 002/2023 E N° 0 01/2026 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+GLOSSÁRIO 
+ 
+CAPEX – Capital Expenditure – Despesas de Capitais 
+ 
+CGP – Comitê Gestor do Programa de Parcerias Público-Privadas 
+CDS – Consórcio de Desenvolvimento Sustentável do Velho Chico 
+FGP – Fundo Garantidor das Parcerias Público-Privadas 
+FPM – Fundo de Participação dos Municípios 
+ 
+ICMS – Imposto sobre Circulação de Mercadorias e Serviços 
+OPEX – Operational Expenditure - Despesas Operacionais 
+PPPs – Parcerias Público-Privadas 
+RCD – Resíduos da Construção e Demolição 
+RCL – Receita Corrente Líquida 
+RDO – Resíduos Sólidos Domiciliares 
+RPU – Resíduos Públicos Urbanos 
+RSS – Resíduos do Serviço de Saúde 
+SPE – Sociedade de Propósito Específico 
+TEPs – Tarifas do Ente Público 
+
+ 
+ 
+PREÂMBULO 
+O CONSÓRCIO DE DESENVOLVIMENTO SUSTENTÁVEL DO VELHO 
+CHICO (“CDS VELHO CHICO”), pessoa jurídica de direito público, inscrita no 
+CNPJ nº 30.069.044/0001-39, com sede na BR 430, Bairro Shangrilá, s/nº, 
+Cidade de Bom Jesus da Lapa, CEP nº 47.600-000, Estado da Bahia, através 
+da COMISSÃO ESPECIAL DE LICITAÇÃO, nomeada pela Portaria nº 
+014/2026, torna pública aos interessados a presente CONCORRÊNCIA 
+PÚBLICA, 
+objetivando 
+selecionar 
+a 
+melhor 
+PROPOSTA 
+para 
+a 
+EXPLORAÇÃO 
+E 
+PRESTAÇÃO 
+DOS 
+SERVIÇOS 
+DE 
+COLETA, 
+TRANSPORTE, 
+TRIAGEM, 
+TRANSBORDO 
+(TRANSFERÊNCIA), 
+TRATAMENTO E DESTINAÇÃO FINAL AMBIENTALMENTE ADEQUADA 
+DOS RESÍDUOS SÓLIDOS DOMICILIARES (RDO), DOS RESÍDUOS 
+PÚBLICOS URBANOS (RPU), DOS RESÍDUOS DA CONSTRUÇÃO CIVIL E 
+DEMOLIÇÃO (RCD), DOS RESÍDUOS DOS SERVIÇOS DE SAÚDE (RSS) E 
+COLETA SELETIVA (CS), BEM COMO ATIVIDADES CORRELATAS, NOS 
+MUNICÍPIOS DO CONSÓRCIO DE DESENVOLVIMENTO SUSTENTÁVEL 
+DO VELHO CHICO (“CDS VELHO CHICO”), MEDIANTE DELEGAÇÃO A 
+SER FEITA POR CONTRATO DE CONCESSÃO. 
+O CONSÓRCIO DE DESENVOLVIMENTO SUSTENTÁVEL DO VELHO 
+CHICO (CDS VELHO CHICO) celebrou os TERMOS DE COOPERAÇÃO 
+TÉCNICA 
+N° 
+002/2023 
+e 
+001/2026 
+com 
+a 
+SECRETARIA 
+DE 
+DESENVOLVIMENTO URBANO DO ESTADO DA BAHIA (SEDUR-BA), 
+tendo por objeto: (i) o compartilhamento entre as partes de informações e dados 
+técnicos para o desenvolvimento das analises quanto ao melhor arranjo 
+territorial e conjunto de soluções a serem ofertados para viabilizar a 
+regionalização e implantação do gerenciamento de resíduos sólidos na região; 
+(ii) auxílio ao Consórcio no que tange à análise e compatibilização dos estudos, 
+projetos, modelagens e relatórios técnicos recepcionados no âmbito do PMI n° 
+001/2023, bem como no acompanhamento das próximas fases decorrentes da 
+contratação deles decorrente; (iii) capacitação dos gestores e técnicos para 
+melhor condução do processo administrativos. 
+
+ 
+ 
+ 
+As contribuições obtidas através das notas técnicas e pareceres fruto 
+da cooperação técnica foram devidamente analisadas, e incorporadas ao 
+EDITAL. 
+A presente LICITAÇÃO será regida pelas regras previstas neste EDITAL 
+e nos seus ANEXOS, pela Lei Federal nº14.133, de 01 de abril de 2021 (Nova 
+Lei de Licitações e Contratos); Lei Federal nº 8.987, de 13 de fevereiro de 1995 
+(Lei Geral de Concessões); Lei Federal n° 11.079, de 30 de dezembro de 2004 
+(Lei de Parcerias Público-Privadas); Lei Federal nº 12.305, de 2 de agosto de 
+2010 (Política Nacional de Resíduos Sólidos – PNRS) e seu decreto 
+regulamentador: Decreto Federal nº 10.936, de 12 de janeiro de 2022; Resolução 
+NR 1 – AGERSA (Estabelece o regime, a estrutura e os parâmetros da cobrança 
+pela prestação dos Serviços de Limpeza Urbana – SLU e Manejo de Resíduos 
+Sólidos Urbanos – SMRSU); Resolução NR7 – AGERSA (Estabelece as 
+condições gerais para a prestação direta dos serviços ou mediante concessão); 
+Metodologia Tarifária – AGERSA para atendimento à Norma de Referência nº 1 
+da Agência Nacional de Águas e Saneamento Básico – ANA (Propõe uma 
+metodologia tarifária adaptada ao contexto do Estado da Bahia, com análise do 
+cenário nacional, definição de regras específicas para a cobrança, arrecadação 
+e distribuição de recursos); Lei Federal nº 11.445, de 05 de janeiro de 2007 (Lei 
+Nacional do Saneamento Básico – LNSB), com redação dada pela Lei n° 
+14.026/2020, e seu decreto regulamentador: Decreto Federal nº 7.217, de 21 de 
+junho de 2010; pelo Contrato, pelo Estatuto do CDS VELHO CHICO, pela Lei 
+Estadual n° 12.932/14 (Política Estadual de Resíduos Sólidos), pelo Plano 
+Estadual de Resíduos Sólidos (“PERS-BA”), da Secretaria de Desenvolvimento 
+Urbano do Governo do Estado da Bahia, e pelas demais normas vigentes sobre 
+a matéria, incluindo suas alterações posteriores. 
+
+ 
+ 
+1. 
+CONCESSÃO COMUM 
+ 
+A concessão comum, regida pela Lei Geral de Concessões e legislação 
+correlata, consiste no contrato por meio do qual delega-se a uma pessoa jurídica 
+de direito privado, ou a um consórcio de pessoas jurídicas, a execução de 
+serviços públicos, para que o eventual concessionário os explore, por sua conta 
+e risco, prazo e condições contratualmente determinadas, geralmente mediante 
+o recebimento de tarifas cobradas diretamente dos usuários dos serviços 
+públicos concedidos. 
+Tal modalidade contratual tem como base constitucional o artigo 175 da 
+Constituição Federal, que atribui ao poder público, na forma da lei, diretamente 
+ou sob o regime de concessão ou permissão, a prestação de serviços públicos. 
+O mencionado dispositivo constitucional deixa claro que a concessão comum 
+corresponde à delegação da execução de serviço cuja incumbência original é do 
+poder público. 
+A lei prevê duas modalidades de concessão comum, a saber: (a) a 
+concessão de serviços públicos; e (b) a concessão de serviços públicos 
+precedida da execução de obra pública. Na primeira modalidade de contratação, 
+são delegados apenas os serviços públicos relacionados a uma infraestrutura já 
+existente. Na segunda modalidade, além da delegação dos serviços, atribui-se 
+ao concessionário a obrigação de realização de investimentos, os quais devem 
+ser amortizados mediante a exploração do serviço ou da obra por um prazo 
+determinado. 
+Ambas as formas de contratação encontram amparo no artigo 2º, incisos 
+II e III, da Lei Geral de Concessões, que assim determina: 
+Art. 2º. Para os fins do disposto nesta Lei, considera-se: 
+(...) 
+II - Concessão de serviço público: a delegação de sua prestação, feita pelo poder 
+concedente, mediante licitação, na modalidade de concorrência, à pessoa 
+
+ 
+ 
+jurídica ou consórcio de empresas que demonstre capacidade para seu 
+desempenho, por sua conta e risco e por prazo determinado; 
+III - Concessão de serviço público precedida da execução de obra pública: a 
+construção, total ou parcial, conservação, reforma, ampliação ou melhoramento 
+de quaisquer obras de interesse público, delegada pelo poder concedente, 
+mediante licitação, na modalidade de concorrência, à pessoa jurídica ou 
+consórcio de empresas que demonstre capacidade para a sua realização, por 
+sua conta e risco, de forma que o investimento da concessionária seja 
+remunerado e amortizado mediante a exploração do serviço ou da obra por prazo 
+determinado. (...). 
+Para a celebração de contrato de concessão comum, seu objeto deverá 
+ser licitado, necessariamente, por meio de concorrência pública, a ser realizada 
+nos termos da Lei Federal nº 14.133/2021 (“Nova Lei de Licitações”) e da Lei 
+Geral de Concessões, podendo-se adotar, como critério para a seleção do futuro 
+concessionário: 
+• o menor valor da tarifa do serviço público a ser prestado (art. 15, inc. I da 
+Lei Geral de Concessões); 
+• o maior valor oferecido à Administração Pública em pagamento de ônus 
+da outorga (art.15, inc. II da Lei Geral de Concessões); ainda, mediante 
+decisão do Poder Concedente, 
+• a combinação do critério “a” ou “b” com o critério de melhor técnica (art. 
+15, incisos V e VI, da Lei Geral de Concessões); ou 
+• exclusivamente o critério de melhor técnica, com a fixação do preço no 
+edital da concorrência pública (art. 15, inc. IV da Lei Geral de 
+Concessões). 
+No que tange ao prazo contratual, a Lei Geral de Concessões é silente 
+quanto ao prazo máximo de duração das concessões comuns, sendo de se 
+destacar que os prazos fixados no artigo 57, caput e inciso II da Lei de Licitações 
+não se aplicam a esta modalidade de contratação, devendo ser adotado o 
+
+ 
+ 
+necessário para que o futuro concessionário possa ter seus investimentos 
+amortizados. 
+O modelo ora em comento tem como principal característica a 
+inexistência, em regra, da obrigação do poder público de pagar qualquer 
+contraprestação ao concessionário. Nesses casos, o concessionário costuma 
+ser remunerado, principalmente, pelas tarifas pagas pelos usuários do serviço 
+objeto da concessão, admitindo-se, caso previsto no edital e no contrato, a 
+obtenção de receitas extraordinárias, para favorecer a modicidade tarifária. 
+Portanto, se, de um lado, a inexistência de contraprestação do poder 
+público evita o direcionamento de escassos recursos públicos para custear a 
+prestação e a expansão dos serviços concedidos, por outro lado, este aspecto 
+geralmente implica cobrança de tarifa dos usuários como forma de remuneração 
+dos investimentos realizados pela concessionária. 
+Bem por isso pode-se dizer que as modalidades de concessão comum 
+costumam ser mais adequadas aos serviços que a doutrina entende por uti 
+singuli ou individuais, que têm usuários determinados e utilização mensurável 
+para cada destinatário, como o uso de rodovias. Segundo Hely Lopes Meirelles 
+“esses serviços, desde que implantados, geram direito subjetivo à sua obtenção 
+para todos os administrados que se encontrem na área de sua prestação ou 
+fornecimento e satisfaçam as exigências regulamentares. São sempre serviços 
+de utilização individual, facultativa e mensurável, pelo qual devem ser 
+remunerados por taxa (tributo) ou tarifa (preço público), e não por imposto”. 
+Com efeito, embora a definição legal não vincule a Concessão comum à 
+necessária cobrança de tarifa do usuário, “ela determina que a remuneração do 
+concessionário se dê por meio da exploração do serviço ou obras concedidas”, 
+o que, em muitos dos casos, de fato se materializa por meio da cobrança de 
+tarifa do usuário. 
+Conforme aponta Egon Bockmann Moreira: “Nas concessões comuns, 
+cujo projeto é autossustentável, a tarifa há de ser a principal fonte de 
+
+ 
+ 
+remuneração, amortização e lucratividade”. Em suma, ela advém da composição 
+de, ao menos, cinco itens: 
+• Benefícios aos usuários; 
+• Administração do serviço e respectivos custos operacionais; 
+• Lucro do investidor; 
+• Amortização dos investimentos; e 
+• Tributos. 
+ 
+O percentual dessas unidades varia de concessão a concessão. 
+ 
+2. 
+PARCERIAS 
+PÚBLICO-PRIVADAS 
+(PPPS) 
+- 
+CONCESSÃO 
+PATROCINADA E ADMINISTRATIVA 
+As PPPs, regidas, em nível federal, pelas normas gerais instituídas pela 
+Lei das PPPs, consistem em contratos de concessão, na modalidade 
+patrocinada ou administrativa, que objetivam a mútua colaboração entre a 
+Administração Pública e entes privados, com a transferência a estes da 
+prestação dos serviços, execução de atividades, operação e gestão de 
+infraestruturas, estabelecimentos ou empreendimentos de interesse público, 
+dentre outras situações, mediante remuneração total ou parcialmente pelo Poder 
+Público. 
+É no percentual de participação do orçamento público nesses contratos 
+onde reside a diferenciação entre concessão patrocinada e administrativa. Nesse 
+sentido, essa subseção é organizada em: 
+• Subseção 3.3.2.1: Trata da alternativa Concessão Patrocinada; e 
+• Subseção 3.3.2.2: Trata da alternativa Concessão Administrativa. 
+ 
+3. CONCESSÃO PATROCINADA 
+
+ 
+ 
+A concessão patrocinada, cujo fundamento, a exemplo da concessão 
+comum, igualmente decorre do artigo 175 da Constituição Federal, encontra-se 
+definida no artigo 2º, §1º da Lei de PPP, que assim dispõe: 
+Art. 2.º. Parceria público-privada é o contrato administrativo de concessão, 
+na modalidade patrocinada ou administrativa. 
+§ 1.º Concessão patrocinada é a concessão de serviços públicos ou de 
+obras públicas de que trata a Lei nº 8.987, de 13 de fevereiro de 1995, quando 
+envolver, adicionalmente à tarifa cobrada dos usuários e contraprestação 
+pecuniária ou aporte público do parceiro público ao parceiro privado. (...). 
+Em outras palavras, a concessão patrocinada é a modalidade de PPP que 
+consiste na concessão de serviço público em que, conforme a própria 
+denominação sugere, a viabilidade de sua implantação depende de pagamentos 
+adicionais, por parte do poder público, às tarifas arrecadadas pelo 
+concessionário. 
+É o que ocorre, por exemplo, em um contrato de concessão rodoviária em 
+que o pedágio não seja suficiente para cobrir os custos, amortizar os 
+investimentos e remunerar o concessionário, necessitando, para sua 
+viabilização, de pagamentos complementares realizados diretamente pelo poder 
+público ao parceiro privado. 
+Tal qual ocorre na concessão comum, um dos conceitos centrais da 
+concessão patrocinada está justamente na expressão "serviços públicos", 
+composta de dois principais elementos, a saber: (a) a prestação de utilidade ou 
+comodidade fruível singularmente pelos administrados, e (b) a prestação em 
+regime de direito público. 
+Para a celebração de um contrato de concessão patrocinada, seu objeto 
+deverá, igualmente, ser licitado por meio de concorrência pública, a ser realizada 
+nos termos da Lei de Licitações e da Lei de PPP, podendo-se adotar como 
+critérios para a seleção do futuro concessionário, além daqueles previstos no 
+artigo 15, incisos I a V, da Lei Geral de Concessões, os seguintes: (a) menor 
+
+ 
+ 
+valor da contraprestação a ser paga pela poder público (art. 12, inc. II, alínea "a" 
+da Lei de PPP); ou (b) a combinação do critério da menor contraprestação do 
+poder público com o critério de melhor técnica (art. 12, inc. II, alínea "b" da Lei 
+de PPP). 
+Adicionalmente, a contratação de uma concessão patrocinada exige a 
+observância de requisitos mínimos no que tange ao seu prazo, valor e objeto, 
+consoante disposições da Lei de PPP. Nesse sentido, a legislação de regência 
+estabelece que as PPPs devem ser contratadas por prazo compatível com a 
+amortização dos investimentos previstos, sendo que o seu termo mínimo de 
+vigência será de cinco anos, e o prazo máximo da contratação não poderá ser 
+superior a trinta e cinco anos. 
+Ressalta-se, além disso, que inúmeras legislações municipais trazem, 
+ainda, como valor mínimo anual do Contrato, o montante de R$20.000.000,00 
+(vinte milhões de reais), vedando-se a contratação de PPP que tenha por objeto 
+único o fornecimento de mão de obra, o fornecimento e a instalação de 
+equipamentos ou a execução de obra pública. 
+Além do pressuposto da necessidade de contraprestação pecuniária ou 
+aporte público por parte do poder público, bem como da observância do prazo e 
+dos valores mínimos de contratação, as PPPs afastam-se da concessão comum 
+na medida em que o parceiro privado não presta o serviço ou executa a obra 
+pública por sua conta e risco, havendo necessidade – imposta pela legislação 
+geral, em nível federal – de repartição (contratual) objetiva dos riscos com o 
+poder público. 
+Considerando o vulto dos investimentos necessários à implantação de 
+uma PPP, a Lei de PPPs previu, além das garantias de execução do contrato 
+pelo parceiro privado, um forte mecanismo de garantias a serem prestadas pelo 
+parceiro público, incluindo a possibilidade de: (a) vinculação de receitas em 
+garantia pelo poder público; (b) instituição ou utilização de fundos especiais 
+previstos em lei; (c) contratação de seguro-garantia de entidades não 
+controladas pelo poder público; (d) prestação de garantias por organismos 
+
+ 
+ 
+internacionais ou instituições financeiras não controladas pelo poder público; (e) 
+prestação de garantias por fundo garantidor ou empresa estatal criada para essa 
+finalidade; bem como (f) outros mecanismos admitidos em lei, tudo com vistas a 
+assegurar a solidez financeira e atratividade do projeto. 
+4. 
+CONCESSÃO ADMINISTRATIVA 
+ 
+O conceito de concessão administrativa, por sua vez, encontra-se no 
+artigo 2.º, § 2.º, da Lei das PPPs, que assim dispõe: 
+Art. 2.º. Parceria público-privada é o contrato administrativo de concessão, 
+na modalidade patrocinada ou administrativa (...) 
+§ 2.º. Concessão administrativa é o contrato de prestação de serviços de 
+que a Administração Pública seja a usuária direta ou indireta, ainda que envolva 
+execução de obra ou fornecimento e instalação de bens. (...). 
+A concessão administrativa, portanto, consiste em modalidade de PPP na 
+qual o poder público é o usuário direto ou indireto do serviço concedido, ainda 
+que o contrato envolva a execução de obra ou o fornecimento e a instalação de 
+bens. Ocorre que, diferentemente da concessão patrocinada, na concessão 
+administrativa o poder público arca integralmente com a remuneração do 
+concessionário. 
+Em linhas gerais, a concessão administrativa distingue-se da concessão 
+comum e da concessão patrocinada na medida em que não tem como finalidade 
+a delegação de um serviço público, mas a contratação de serviço de que o poder 
+público seja o usuário direto ou indireto, não passível de cobrança de tarifa (ao 
+menos não pelo concessionário, em nome próprio). 
+Desta forma, nas concessões administrativas a remuneração do parceiro 
+privado é composta integralmente pela contraprestação paga pelo parceiro 
+público, sem prejuízo de eventuais receitas extraordinárias que poderão ser 
+exploradas pelo concessionário. 
+
+ 
+ 
+Pode-se dizer, assim, que a peculiaridade da concessão administrativa 
+advém do fato de esta modalidade não envolver atividades tarifadas ou tarifáveis, 
+ou seja, atividades que, pela sua natureza ou pelo regime jurídico incidente, não 
+podem ser divididas em unidades aptas a serem cobradas dos usuários. Trata-
+se, portanto, do modelo de concessão adequado aos serviços públicos que Hely 
+Lopes Meirelles classifica como uti universi ou gerais. Segundo o aludido 
+doutrinador, estes serviços são aqueles que a Administração presta sem ter 
+usuários determinados, para atender à coletividade no seu todo (...). Esses 
+serviços satisfazem indiscriminadamente a população, sem que se erijam em 
+direito subjetivo de qualquer administrado à sua obtenção para o seu domicílio, 
+para sua ou rua ou para seu bairro. Estes serviços são indivisíveis, isto é, não 
+mensuráveis na sua utilização. Daí por que, normalmente, os serviços uti universi 
+devem ser mantidos por imposto (tributo geral), e não por taxa ou tarifa, que é 
+remuneração mensurável e proporcional ao uso individual do serviço. 
+Nesse mesmo sentido, entende-se que, ainda que a Lei de PPPs fale em 
+“prestação de serviços que a Administração seja usuária direta ou indireta”, não 
+se exclui do âmbito das concessões administrativas a exploração de serviços 
+públicos, uma vez que a estrutura legal que incide sobre esta modalidade de 
+concessão não é essencialmente diferente da aplicável às concessões comuns 
+de serviço público. 
+Ademais, a concessão administrativa, assim como a concessão 
+patrocinada, enquanto modalidade de PPP, deve ser estruturada de modo que 
+seu prazo seja compatível com a amortização dos investimentos e a 
+remuneração do parceiro privado, variando de cinco (prazo mínimo de vigência) 
+a trinta e cinco anos (prazo máximo de vigência). 
+Assim como ocorre nas concessões patrocinadas, há leis municipais que 
+estabelecem o valor mínimo anual de R$20.000.000,00 (vinte milhões de reais) 
+para os contratos de concessões administrativas, vedando-se ainda a 
+celebração de contrato que tenha por objeto único o fornecimento de mão de 
+
+ 
+ 
+obra, o fornecimento e a instalação de equipamentos ou a execução de obra 
+pública. 
+ 
+5. 
+VANTAGENS E DESVANTAGENS DE CADA MODELO 
+ 
+Esta subseção apresenta a análise comparativa das vantagens e 
+desvantagens das diferentes espécies de concessão previstas no ordenamento 
+jurídico brasileiro, à luz das características técnicas, econômicas e institucionais 
+do projeto de manejo de resíduos sólidos dos Municípios do CDS VELHO 
+CHICO. 
+Da análise realizada, nota-se que o projeto do CDS VELHO CHICO pode, 
+em tese, assumir qualquer modelo de concessão. Todavia, a escolha de cada 
+espécie implica arranjos contratuais distintos. 
+Conforme visto, a concessão comum possui como vantagens o fato de o 
+projeto se mostrar economicamente autossustentável. Essa circunstância 
+simplificaria a estruturação da concessão, já que, diante da desnecessidade de 
+contraprestação pública continuada, fica dispensada a criação do necessário 
+(mas potencialmente complexo) sistema de garantias previsto na lei das PPPs, 
+voltados a garantir pagamentos periódicos provenientes do erário. 
+De igual modo, tratando-se de concessão comum, e não de uma parceria 
+público-privada, o Município não irá comprometer absolutamente nada dos 
+limites fiscais previstos no art. 28 da Lei 11.079/04, que assim estabelece: 
+Art. 28. A União não poderá conceder garantia ou realizar transferência 
+voluntária aos Estados, Distrito Federal e Municípios se a soma das despesas 
+de caráter continuado derivadas do conjunto das parcerias já contratadas por 
+esses entes tiver excedido, no ano anterior, a 5% (cinco por cento) da receita 
+corrente líquida do exercício ou se as despesas anuais dos contratos vigentes 
+nos 10 (dez) anos subsequentes excederem a 5% (cinco por cento) da receita 
+corrente líquida projetada para os respectivos exercícios. (Redação dada pela 
+Lei nº 12.766, de 2012) 
+
+ 
+ 
+O dispositivo impede que a União conceda garantias ou realize 
+transferências voluntárias para os entes subnacionais cujas despesas com PPPs 
+tenham superado, no ano anterior, 5% da RCL projetada. 
+Assim, a opção por uma concessão comum preservaria a capacidade 
+futura dos Municípios do CDS VELHO CHICO para eventual celebração de 
+outros contratos de PPP em outros setores. 
+Outro aspecto positivo da concessão comum reside na maior flexibilidade 
+do modelo tarifário, vez que se mostra mais flexível que a cobrança dos usuários 
+por meio de tributos, sujeitos ao regime jurídico-tributário. 
+No caso do projeto do CDS VELHO CHICO, os estudos demonstram que 
+o projeto é economicamente autossustentável exclusivamente caso haja a 
+implementação do cofaturamento e efetivação de acordo comercial entre a futura 
+concessionária de resíduos (SPE) e as concessionárias de serviços públicos de 
+saneamento básico (água e esgoto) para realização das cobranças conjuntas 
+para os serviços de água-esgoto-resíduos, garantindo assim a manutenção da 
+inadimplência alvo e custos operacionais no que tange à gestão comercial do 
+sistema a ser implementado. Ou seja, o estudo de viabilidade econômico 
+financeira fora idealizado para garantir um ecossistema autossustentável e 
+modular partir da combinação entre a Tarifa do Usuário Final, aplicável aos 
+serviços relativos aos resíduos domiciliares, e a Tarifa do Ente Público, devida 
+pelos Municípios exclusivamente em relação aos serviços divisíveis e 
+facultativos (RCD, RSS e RPU), mediante adesão específica. Porém, por se 
+tratar de uma relação contratual e comercial externa a relação do PODER 
+CONCEDENTE e a CONCESSIONÁRIA (SPE), sendo está a parte mais 
+competente para gerenciar esse risco, faz-se que o PODER CONCEDENTE, 
+conduza a conclusão da negociação junto as concessionárias de serviços 
+públicos de saneamento básico (água e esgoto) possibilitando a construção de 
+acordo comercial entre as partes para realização das cobranças conjuntas para 
+os serviços de água-esgoto-resíduos, garantindo assim a manutenção da 
+
+ 
+ 
+inadimplência alvo e custos operacionais no que tange à gestão comercial do 
+sistema a ser implementado. 
+É importante frisar que o manejo de RPU não constitui serviço indivisível 
+(uti universi). Conforme orientações do Guia Prático de Estruturação de Projetos 
+de Concessão de Manejo Sustentável de Resíduos Sólidos Urbanos, o manejo 
+de RPU não se confunde com os serviços de limpeza urbana (estes, sim, 
+indivisíveis), uma vez que é possível identificar o usuário dos serviços de manejo 
+de RPU como sendo o próprio Poder Público, o que viabiliza a mensuração 
+correta e a cobrança do serviço diretamente da Administração, mediante tarifa 
+por ela devida à Concessionária de forma proporcional à utilização efetiva do 
+serviço. 
+As espécies de concessão enquadradas como concessões comuns foram 
+analisadas no âmbito dos estudos, mostrando-se juridicamente possíveis, 
+embora menos aderentes às premissas do projeto. 
+A concessão patrocinada apresenta como principal vantagem a 
+possibilidade de complementação da remuneração do parceiro privado por meio 
+de contraprestação pública e/ou aporte público, o que pode ser relevante em 
+cenários nos quais a tarifa paga pelos usuários se mostre insuficiente ou 
+excessivamente onerosa. Trata-se, contudo, de uma solução indicada sobretudo 
+para projetos estruturalmente deficitários sob a ótica tarifária, o que não se 
+verifica no caso em análise. 
+Já a concessão administrativa tem como ponto positivo a possibilidade de 
+concentrar todo o ciclo de serviços em um único contrato, independentemente 
+da natureza divisível ou universal das atividades prestadas. Essa concentração 
+pode gerar ganhos de escala e facilitar a gestão contratual, porém pressupõe 
+que o Poder Público figure como usuário direto e exclusivo dos serviços, arcando 
+integralmente com a remuneração do parceiro privado. 
+Por outro lado, ambas as modalidades de PPP apresentam como 
+desvantagens relevantes a necessidade de estruturação de sistemas robustos e 
+
+ 
+ 
+potencialmente complexos de garantias, destinados a assegurar o pagamento 
+das contraprestações públicas, bem como o comprometimento dos limites fiscais 
+previstos no art. 28 da Lei nº 11.079/2004, reduzindo a margem de manobra dos 
+entes públicos para futuras contratações dessa natureza. Em resumo: 
+ 
+CONCESSÃO COMUM 
+CONCESSÃO PATROCINADA 
+CONCESSÃO ADMINISTRATIVA 
+VANTAGENS 
+DESVANTAGENS 
+VANTAGENS 
+DESVANTAGENS 
+VANTAGENS 
+DESVANTAGENS 
+Projeto 
+autossustentável 
+Necessidade  
+de 
+licitar 
+de 
+forma 
+separada 
+ 
+ os 
+serviços 
+“universais” 
+Caso 
+a 
+ tarifa 
+se 
+mostre  
+excessiva, 
+permite que o Poder 
+Público  
+ 
+pague 
+contraprestação 
+complementar 
+Necessidade  
+de 
+licitar 
+de 
+forma 
+separada 
+ 
+ os 
+serviços 
+“universais” 
+Permite que se 
+concentre todo o 
+ciclo em apenas 
+um 
+contrato, 
+facilitando 
+a 
+gestão e gerando 
+ganhos de escala 
+Pagamento 
+ 
+do 
+parceiro 
+privado 
+exclusivamente 
+por 
+meio 
+ 
+de 
+contraprestação 
+pública 
+Dispensa sistema de 
+garantias 
+Exige o sistema de 
+garantias 
+Exige o sistema de 
+garantias 
+Não compromete os 
+5% do art. 28 da Lei 
+11.079/04 
+Compromete parte 
+dos 5% do art. 28 
+da Lei 11.079/04 
+Compromete 
+parte 
+dos 5% do art. 28 da 
+Lei 11.079/04 
+Tarifa - flexibilidade 
+Tributo - menor 
+flexibilidade 
+Tributo 
+- 
+menor 
+flexibilidade 
+Fonte: Torre Construções (2025) 
+ 
+6. 
+ANÁLISE DE COMPROMETIMENTO DA RCL 
+ 
+Esta subseção apresenta a análise de comprometimento da Receita 
+Corrente Líquida (RCL) de cada município, em função da contraprestação do 
+projeto à luz do limite orçamentário para contratações de concessões 
+administrativas pelos municípios do CDS VELHO CHICO, nos moldes da Lei 
+11.079/04. 
+A 
+presente 
+análise 
+é 
+acompanhada 
+de 
+avaliação 
+do 
+comprometimento da RCL em cenários de contraprestação calculada com 
+diferentes níveis de OPEX e CAPEX 
+Para tanto, primeiramente é calculado o limite de comprometimento da 
+RCL com contratos de concessão administrativa e patrocinada (PPP) para os 
+municípios do CDS VELHO CHICO. Conforme apresentado na Estrutura de 
+Garantias (contendo o diagnóstico Jurídico e Econômico), em sua seção 5, o 
+
+ 
+limite se refere a 5% da RCL (Lei 11.079/04) de limite de comprometimento para 
+os municípios integrantes do projeto, o que por sua vez fora plenamente atendido 
+e respeitado. Ademais, uso integral do limite representaria para os municípios 
+um potencial de comprometimento de R$32.005.268 (trinta e dois milhões, cinco 
+mil, duzentos e sessenta e oito reais). 
+
+ 
+ 
+ 
+Municipio 
+Previsão para 2025 
+Limite RCL % 
+Valor a 
+comprometer 
+Valor 
+comprometido 
+RCL % 
+Comprometida 
+Saldo a 
+comprometer 
+RCL 
+FPM 
+ICMS 
+Ibotirama 
+230.873.000 
+40.731.558 13.356.563 
+5,00% 
+11.543.650 
+5.187.277 
+2,25% 
+6.356.373,13 
+Morpará 
+48.128.965 
+17.456.382 
+5.771.653 
+5,00% 
+2.406.448 
+1.263.651 
+2,63% 
+1.142.796,79 
+Paratinga 
+149.921.935 
+46.550.352 
+12.204.469 
+5,00% 
+7.496.097 
+4.315.281 
+2,88% 
+3.180.815,80 
+Muquém de São Francisco 
+73.586.500 
+23.275.176 
+10.391.851 
+5,00% 
+3.679.325 
+1.800.239 
+2,45% 
+1.879.085,54 
+Oliveira dos Brejinhos 
+137.594.969 
+34.912.764 
+12.500.034 
+5,00% 
+6.879.748 
+3.450.040 
+2,51% 
+3.429.708,79 
+TOTAL 
+640.105.369 
+162.926.232 
+54.224.570 
+32.005.268 
+16.016.488,38 
+15.988.780,05 
+ 
+Municipio 
+FPM 
+ICMS 
+R$ TEP 
+R$ Limite p/ constituição de 
+adicional garantia e realização de 
+aportes públicos 
+% FPM 
+% ICMS 
+Ibotirama 
+40.731.558 
+13.356.563 
+2.070.491,37 
+3.116.785,50 
+9,55% 
+9,71% 
+Morpará 
+17.456.382 
+5.771.653 
+613.910,44 
+649.741,03 
+5,43% 
+5,47% 
+Paratinga 
+46.550.352 
+12.204.469 
+2.291.334,82 
+2.023.946,12 
+7,42% 
+7,07% 
+Muquém de São Francisco 
+23.275.176 
+10.391.851 
+806.821,71 
+993.417,75 
+5,41% 
+5,20% 
+Oliveira dos Brejinhos 
+34.912.764 
+12.500.034 
+1.592.507,57 
+1.857.532,08 
+7,41% 
+6,90% 
+TOTAL 
+162.926.232 
+54.224.570 
+7.375.065,90 
+8.641.422,48 
+Fonte: 
+ICMS https://www.sefaz.ba.gov.br/docs/financas-publicas/repasse/val24dez.pdf 
+FPM https://informacoesmunicipais.com.br/wp-content/uploads/2024/03/mar-abr-mai-2024-29-BA.pdf 
+ 
+ 
+Logo, considerando adesão integral das Tarifas do Ente Público (TEPs) atingindo assim um montante total a partir do ano 1 
+de R$7.375.065,90 (sete milhões, trezentos e setenta e cinco mil, sessenta e cinco reais e noventa centavos), as TEPs correspondem 
+a 1,15% do RCL ou 23,04% do limite da RCL, portanto significativamente abaixo do limite de 5%. Adicionalmente, fora calculado 
+qual seria o comprometimento da RCL em cenários de aporte público máximo (uma vez que esse fora limitado há 1,35% da RCL) 
+calculada com diferentes níveis de desembolsos de TEP, desse modo alcançou-se 50,04% do limite da RCL ou 2,50% da RCL. 
+
+ 
+ 
+7. 
+DAS GARANTIAS 
+ 
+As obrigações pecuniárias contraídas pela Administração Pública em 
+contrato de parceria público-privada poderão ser garantidas mediante: 
+I - Vinculação de receita, observado o disposto no inciso IV do artigo 167 
+da Constituição Federal; 
+II - Utilização do fundo garantidor; 
+ 
+III - Garantia fidejussória ou seguro; 
+ 
+IV - Atribuição ao contratado do encargo de faturamento e cobrança de 
+crédito do contratante em relação a terceiros, salvo os relativos a tributos; 
+V - Outros mecanismos admitidos em lei. 
+ 
+8. 
+CRIAÇÃO DE FUNDO GARANTIDOR PELOS MUNICÍPIOS 
+ 
+Os Municípios somente poderão contratar parceria público privada até o 
+limite de 5% (cinco por cento) da receita corrente líquida do exercício, devendo 
+adequar as despesas anuais dos contratos às receitas correntes líquidas 
+projetadas para os exercícios seguintes respectivos. 
+Exclui-se do limite a que se refere o caput deste artigo os contratos de 
+parcerias público-privadas não custeados com recursos do Tesouro Municipal, 
+os quais estarão submetidos às condições específicas do respectivo projeto e 
+àquelas estabelecidas pelas partes. 
+A previsão de receita e despesa dos contratos de parcerias público-
+privadas consta do Anexo de Metas Fiscais a que se refere o § 10 do art. 4° da 
+Lei Complementar nº 101, de 04 de maio de 2000. 
+As despesas relativas ao Programa de Parcerias Público-Privadas são 
+caracterizadas como despesas obrigatórias, de caráter continuado, submetidas 
+à disciplina da Lei Complementar nº 101/2000, e constarão dos Relatórios de 
+Gestão Fiscal, inclusive para aferição do comprometimento do limite. 
+
+ 
+ 
+Compete ao Consórcio responsável pela área que porventura está sendo 
+realizado o projeto de parceria público privada a manifestação prévia sobre o 
+mérito do projeto. 
+Competem às Secretarias Municipais da Fazenda a manifestação prévia 
+sobre o impacto financeiro e a compatibilidade do projeto com as Leis 
+Orçamentárias do Município. 
+Compete ao Secretário Executivo do Consórcio Intermunicipal (ou órgão 
+similar) exercer o controle dos contratos a serem celebrados e, obrigatoriamente, 
+emitir parecer final sobre o projeto a ser realizado. 
+As Procuradorias Gerais do Município emitirão, obrigatoriamente, parecer 
+prévio quanto aos editais e contratos. 
+Deverá ser criado o Fundo Garantidor das Parcerias Público-Privadas de 
+cada um dos Municípios do Consórcio de Desenvolvimento Sustentável do Velho 
+Chico (FGP CDS VELHO CHICO), entidade contábil sem personalidade jurídica, 
+com o objetivo de viabilizar a implantação do Programa de Parcerias Público-
+Privadas, prestando as garantias necessárias quanto ao pagamento das 
+obrigações pecuniárias assumidas pelo Município. São beneficiárias do Fundo 
+as empresas parceiras definidas e habilitadas nos termos da Lei. São recursos 
+do Fundo: 
+I – As dotações consignadas no orçamento do Município e os créditos 
+adicionais; 
+II – Os rendimentos provenientes de depósitos bancários e aplicações 
+financeiras do próprio Fundo; 
+III – As doações, os auxílios, as contribuições e os legados destinados ao 
+Fundo. 
+IV – Os recursos provenientes de operações de crédito internas e externas 
+destinadas ao Fundo; 
+V – Transferências de outros fundos municipais; 
+
+ 
+ 
+VI – Os provenientes do Estado da Bahia e da União; 
+ 
+VII – Outras receitas destinadas ao Fundo. 
+ 
+O suprimento ao Fundo Garantidor das Parcerias Público-Privada dos 
+Municípios do Consórcio de Desenvolvimento Sustentável do Velho Chico (FGP 
+CDS VELHO CHICO) dos recursos previstos nos incisos III, VI e VII deste artigo 
+deverá ser processado através das Secretarias Municipais das cidades que 
+compõem o Consórcio de Desenvolvimento Sustentável do Velho Chico 
+(Finanças ou Fazenda), a quem caberá a prestação de contas da aplicação 
+desses recursos à instituição de origem e seu controle orçamentário. 
+A destinação dos recursos financeiros mencionados no parágrafo anterior, 
+quando sua aplicação não estiver condicionada pela instituição de origem, 
+pública ou privada, será definida pelo Comitê Gestor do Programa de Parcerias 
+Público-Privadas dos Municípios do Consórcio de Desenvolvimento Sustentável 
+do Velho Chico (CGP CDS VELHO CHICO), criado por esta lei, em conformidade 
+com suas atribuições, o qual indicará o órgão responsável pela aplicação desses 
+recursos, tipo de investimento e seu controle. 
+Os órgãos responsáveis pela aplicação dos recursos do Programa de 
+Parceria Público-Privada deverão fornecer a documentação necessária à 
+Secretaria Executiva do Programa de Parcerias Público-Privadas dos Municípios 
+do Consórcio de Desenvolvimento Sustentável do Velho Chico, para a devida 
+prestação de contas. Poderão ser alocados ao Fundo: 
+I - Ativos de propriedade do Município, excetuados os de origem tributária; 
+ 
+II- Bens móveis e imóveis, na forma definida em regulamento, observadas 
+as condições previstas em lei. 
+As receitas decorrentes do recebimento dos ativos de que trata o inciso I 
+e da alienação dos bens de que trata o inciso II deste artigo poderão ser 
+utilizadas prioritariamente no pagamento de parcelas devidas pelo contratante. 
+
+ 
+ 
+As condições para liberação e utilização de recursos do Fundo por parte 
+do beneficiário serão estabelecidas no contrato de parceria público-privada, 
+firmado nos termos da Lei. 
+Os recursos do FGP CDS VELHO CHICO serão depositados em conta 
+específica junto à instituição oficial de crédito ou instituição gestora das contas 
+dos Municípios. 
+Será criado o Comitê Gestor do Programa de Parcerias Público-Privadas 
+dos Municípios do Consórcio de Desenvolvimento Sustentável do Velho Chico - 
+CGP CDS VELHO CHICO, integrado pelos seguintes membros: 
+I - Secretário Executivo do Consórcio Intermunicipal (ou órgão similar), 
+que o presidirá; 
+II - Secretários Municipais de Finanças ou Fazenda dos municípios que 
+compõem o Consórcio Intermunicipal do Velho Chico (ou órgão similar); 
+III - Secretários Municipais de Meio Ambiente dos municípios que 
+compõem o Consórcio Intermunicipal do Velho Chico (ou órgão similar); 
+IV - Presidente do Consórcio Intermunicipal (ou órgão similar); 
+ 
+V - 1 (um) representante do Poder Legislativo Municipal por cidade. 
+ 
+VI - Secretários Municipais de Infraestrutura dos municípios que compõem 
+o Consórcio Intermunicipal do Velho Chico (ou órgão similar); 
+Participarão das reuniões do Comitê com direito a voz e voto os demais 
+titulares de Secretarias ou Órgãos dos Municípios que tiverem interesse direto 
+em determinada parceria, em razão de vínculo temático entre o objeto a ser 
+contratado e a respectiva competência. 
+O Comitê deliberará por maioria de votos de seus membros, tendo o 
+Presidente o direito ao voto de qualidade. 
+A participação no Comitê não será remunerada, sendo considerada 
+serviço público relevante. 
+
+ 
+ 
+Compete ao Comitê Gestor: 
+ 
+I - Definir os projetos prioritários para execução no regime de parcerias 
+público-privadas; 
+II - Disciplinar os procedimentos para a celebração desses contratos; 
+ 
+III - Autorizar a abertura da licitação e aprovar projetos de parcerias 
+público-privadas, para deliberação do Prefeito Municipal; 
+IV - Supervisionar a fiscalização e a execução das parcerias público-
+privadas; 
+V - Opinar sobre alteração, revisão, resolução, rescisão, prorrogação ou 
+renovação dos contratos de parceria, observado o limite de prazo fixado 
+nesta Lei; 
+VI – Elaborar o seu Regimento Interno, a ser aprovado pelo Prefeito 
+Municipal. 
+Ao membro do Comitê é vedado: 
+ 
+I - Exercer o direito de voz e voto ou qualquer ato em matéria objeto do 
+Programa de Parcerias Público-Privadas em que tiver interesse pessoal 
+conflitante, cumprindo-lhe cientificar os demais membros do Comitê de 
+seu impedimento e fazer constar em ata a natureza e extensão do conflito 
+de seu interesse; 
+II - Valer-se de informação sobre processo de parceria público-privada 
+ainda não divulgado para obter vantagem, para si ou para terceiros; 
+III - Adquirir bens móveis ou imóveis eventualmente alienados pelo ente 
+privado, quando da execução da parceria. 
+Cada Secretaria ou órgão interessado em desenvolver contrato de 
+parceria público-privada encaminhará ao Comitê Gestor os estudos 
+fundamentados, nos termos e prazos previstos em regulamento, ficando 
+
+ 
+ 
+responsável, nas fases subsequentes, pelo acompanhamento da execução da 
+parceria. 
+Sem prejuízo do disposto, as posições e relatórios sobre o desempenho 
+dos contratos de parcerias público-privadas serão incluídos na prestação de 
+contas dos Municípios, para a Câmara de Vereadores e ao Tribunal de Contas 
+dos Municípios. 
+Será criada na estrutura da Câmara Técnica de Meio Ambiente do Velho 
+Chico (ou órgão similar), o Departamento de Parcerias Público-Privadas em 
+representação aos Município que compõem o CDS VELHO CHICO, com as 
+seguintes competências: 
+I - Executar as atividades operacionais e coordenar as ações correlatas 
+ao desenvolvimento dos projetos de parcerias público-privadas; 
+II - Assessorar e prestar apoio técnico ao Comitê Gestor do Programa de 
+Parcerias Público-Privadas (CGP CDS VELHO CHICO); 
+III - Divulgar os conceitos metodológicos próprios dos contratos de 
+parceria público-privadas. 
+O Poder Executivo regulamentará a legislação atinente aos temas aqui 
+abordados, no que couber. 
+9. 
+DA GARANTIA DE EXECUÇÃO DO CONTRATO PELO PODER 
+CONCEDENTE 
+Será constituído sistema contratual de garantias, lastreado nos seguintes 
+instrumentos: 
+• Vinculação e destinação para o CONSÓRCIO DE DESENVOLVIMENTO 
+SUSTENTÁVEL  DO  VELHO  CHICO (CDS VELHO  CHICO) dos 
+percentuais abaixo indicados, oriundos do Fundo de Participação dos 
+Municípios (FPM), do Imposto sobre Circulação de Mercadorias e 
+Serviços (ICMS) e do instrumento de cobrança (taxa ou tarifa) instituído 
+
+ 
+ 
+nos moldes do Art. 35 da Lei 11.445/07 por cada município consorciado, 
+destinados ao custeio das seguintes atividades: 
+I - Percentual para custear a tarifa do ente público e os aportes 
+públicos da concessão celebrada pelo CONSÓRCIO DE 
+DESENVOLVIMENTO SUSTENTÁVEL DO VELHO CHICO (CDS 
+VELHO CHICO); 
+II - Percentual para custear a garantia da tarifa do ente público 
+pública e os aportes públicos da concessão celebrada pelo 
+CONSÓRCIO DE DESENVOLVIMENTO SUSTENTÁVEL DO 
+VELHO CHICO (CDS VELHO CHICO); 
+III - Instituição da CONTA PAGAMENTO, decorrente da celebração 
+de CONTRATO DE DEPÓSITO, a ser obrigatoriamente celebrado 
+entre  o  PODER  CONCEDENTE,  a  CONCESSIONÁRIA  e 
+AGENTE CUSTODIANTE, alimentada, de parte dos recursos 
+oriundos do Fundo de Participação dos Municípios (FPM), do 
+Imposto sobre Circulação de Mercadorias e Serviços (ICMS) e do 
+instrumento de cobrança (taxa ou tarifa) instituído nos moldes do 
+Art. 35 da Lei 11.445/07 por cada município consorciado, conforme 
+previsão legal municipal, para custear as TARIFAS DO ENTE 
+PÚBLICO (TEPs) e os aporte públicos da CONCESSÃO celebrada 
+pelo PODER CONCEDENTE. 
+• Instituição da CONTA GARANTIA DO CONTRATO, decorrente da 
+celebração de CONTRATO DE DEPÓSITO, a ser obrigatoriamente 
+celebrado entre o PODER CONCEDENTE, a CONCESSIONÁRIA e 
+AGENTE CUSTODIANTE, alimentada de parte dos recursos oriundos do 
+Fundo de Participação dos Municípios (FPM), do Imposto sobre 
+Circulação de Mercadorias e Serviços (ICMS) e do instrumento de 
+cobrança (taxa ou tarifa) instituído nos moldes do Art. 35 da Lei 11.445/07 
+por cada município consorciado, conforme previsão legal municipal, para 
+custear a garantia adicional das futuras TARIFAS DO ENTE PÚBLICO 
+
+ 
+ 
+(TEPs) e os aporte públicos da CONCESSÃO celebrada pelo PODER 
+CONCEDENTE. 
+ 
+• Contratação de SEGURO GARANTIA pela CONCESSIONÁRIA, na 
+forma do art. 8º, inciso III, da Lei Federal nº11.079/2004. 
+Os instrumentos acima elencados deverão ser obrigatoriamente 
+implementados. O acionamento das garantias deverá ser gradual e crescente, 
+observando-se a ordem de ocorrência dos itens I, II, III, IV do item 7 acima, à 
+medida e na proporção que vierem a ocorrer os fatos e/ou eventos que 
+ensejaram a sua aplicação, especialmente quando se verificarem ausentes 
+recursos suficientes para custeio das TARIFAS DO ENTE PÚBLICO (TEPs) em 
+prol da CONCESSIONÁRIA, ou ainda, os aporte públicos em caso que o 
+inadimplemento das TARIFAS DO USUÁRIO FINAL (TUF) extrapolarem as 
+premissas previstas na matriz de risco, esse por sua vez limitado ao montante 
+de 1,35% (um virgula trinta e cinco por cento) da RCL anual do município. 
+10. 
+DA GARANTIA DE SATISFAÇÃO DO CRÉDITO DO FINANCIADOR 
+PERANTE A CONCESSIONÁRIA 
+Na hipótese de a CONCESSIONÁRIA vir a celebrar contrato de 
+financiamento com terceiro para a execução do OBJETO do CONTRATO, 
+poderá oferecer-lhe em garantia, nos termos do artigo 28 da Lei Federal nº 
+8.987/95, os direitos emergentes da CONCESSÃO, na forma deste CONTRATO. 
+O oferecimento, em garantia, nos financiamentos vinculados ao escopo 
+do CONTRATO, dos direitos emergentes da CONCESSÃO, somente poderá 
+ocorrer até o limite que não comprometa a operacionalização e a continuidade 
+da CONCESSÃO. 
+As ações de emissão da CONCESSIONÁRIA poderão ser dadas em 
+garantia de financiamentos ou como contragarantia de operações, vinculadas ao 
+cumprimento de obrigações decorrentes do CONTRATO, sem necessidade de 
+prévia autorização pelo PODER CONCEDENTE. 
+
+ 
+ 
+As ações correspondentes ao controle da CONCESSIONÁRIA poderão 
+ser dadas em garantia de financiamentos, ou como contragarantia de operações, 
+vinculadas ao cumprimento de obrigações decorrentes do CONTRATO, sem 
+necessidade de prévia autorização pelo PODER CONCEDENTE. 
+Sem prejuízo da garantia estipulada neste item, é permitido o pagamento 
+direto em nome do FINANCIADOR da CONCESSIONÁRIA, em relação às 
+obrigações pecuniárias do PODER CONCEDENTE, nos termos deste 
+CONTRATO e no anexo CONTRATO DE DEPÓSITO. 
+Reconhece-se 
+a 
+legitimidade 
+dos 
+FINANCIADORES 
+da 
+CONCESSIONÁRIA para receber indenizações por extinção antecipada do 
+CONTRATO. 
+
+ 
+ 
+11. 
+ANEXOS 
+
+ 
+ 
+ANEXO A 
+ 
+MINUTA DE CONTRATO DE DEPÓSITO 
+ 
+ 
+ 
+Através deste instrumento de contrato de DEPÓSITO, o CONSÓRCIO DE 
+DESENVOLVIMENTO SUSTENTÁVEL DO VELHO CHICO (CDS VELHO 
+CHICO), pessoa jurídica de direito público interno da espécie associação pública, 
+de natureza autárquica, integrante da Administração Pública Indireta dos Poderes 
+Executivos dos entes da Federação consorciados, inscrita no CNPJ sob o n.º   .  
+.  /    -  , com sede na Rua da  
+, nº  
+, Bairro da 
+ 
+, Cidade de  
+, Estado da Bahia, CEP nº  
+- 
+, neste ato 
+representado por seu Presidente, Sr(a).   , brasileiro, inscrito no CPF/MF sob o 
+n°  
+ 
+, doravante denominado simplesmente CDS VELHO CHICO, a 
+(NOME DA SPE), sociedade de propósito específico de direito privado, 
+(qualificação), neste ato representada por seu(s) diretor(es), (qualificação), 
+doravante denominada simplesmente SPE, e BANCO (nome do banco), 
+instituição financeira brasileira oficial, (qualificação), neste ato representada por 
+seu(s) diretor(es), (qualificação), doravante denominado simplesmente AGENTE 
+CUSTODIANTE, em conjunto doravante denominados simplesmente de 
+PARTES, considerando-se que encontram-se contratadas através do contrato n° 
+(número), cujo objeto é a concessão para prestação dos serviços de 
+gerenciamento da coleta, transporte, triagem, transbordo (transferência), 
+tratamento e destinação final de resíduos domiciliares, da saúde, da construção 
+civil e demolição e dos serviços públicos urbanos, no território dos Municípios 
+integrantes do CDS VELHO CHICO (Ibotirama, Paratinga, Oliveira dos 
+Brejinhos, Morpará e Muquém do São Francisco), tem entre si justo e acertado 
+o presente CONTRATO DE DEPÓSITO, e acordam o seguinte: 
+CLÁUSULA PRIMEIRA – CARACTERIZAÇÃO DOS RECURSOS. 
+ 
+1.1. 
+O CDS VELHO CHICO depositará, com periodicidade mensal, os 
+recursos provenientes dos repasses dos Municípios Consorciados (Ibotirama, 
+
+ 
+ 
+Paratinga, Oliveira dos Brejinhos, Morpará e Muquém do São Francisco), 
+oriundos do Fundo de Participação dos Municípios (FPM), do Imposto sobre 
+Circulação de Mercadorias e Serviços (ICMS) e do instrumento de cobrança 
+(taxa ou tarifa) instituído nos moldes do Art. 35 da Lei 11.445/07 por cada 
+município consorciado, para custear as TARIFAS DO ENTE PÚBLICO (TEPs) e 
+aportes públicos da CONCESSÃO celebrada pelo CONSÓRCIO DE 
+DESENVOLVIMENTO SUSTENTÁVEL DO VELHO CHICO (CDS VELHO 
+CHICO), em contas correntes de sua titularidade, mantida pelo AGENTE 
+CUSTODIANTE. 
+1.2. 
+Estas contas serão denominadas de CONTA PAGAMENTO e CONTA 
+GARANTIA. 
+CLAUSULA SEGUNDA – TRATAMENTO DA CONTA PAGAMENTO E DA 
+CONTA GARANTIA 
+2.1. 
+Os recursos que venham a ser depositados na CONTA PAGAMENTO e 
+na CONTA GARANTIA terão remuneração a ser definida através de resolução 
+das PARTES, após a abertura das respectivas contas, segregadas de acordo 
+com os termos deste CONTRATO DE DEPÓSITO. 
+2.2. 
+Estas contas terão os números ................ e .................. , e serão mantidas 
+na Agência ......................... , do AGENTE CUSTODIANTE. 
+ 
+CLÁUSULA TERCEIRA – DA DESTINAÇÃO DOS RECURSOS PARA A 
+CONTA PAGAMENTO E PARA A CONTA GARANTIA 
+3.1. 
+Recursos destinados ao depósito na CONTA PAGAMENTO: 
+ 
+3.1.1. O valor equivalente ao percentual constante da tabela abaixo, dos 
+respectivos dos recursos oriundos do Fundo de Participação dos Municípios 
+(FPM), do Imposto sobre Circulação de Mercadorias e Serviços (ICMS) e do 
+instrumento de cobrança (taxa ou tarifa) instituído nos moldes do Art. 35 da Lei 
+11.445/07 por cada município consorciado, para custear as TARIFAS DO ENTE 
+PÚBLICO (TEPs) e aportes públicos da CONCESSÃO celebrada pelo CDS 
+VELHO CHICO com a SPE: 
+
+ 
+ 
+ 
+MUNICÍPIO 
+PERCENTUAL A ACRESCENTAR PARA 
+CUSTEIO DAS TEPs, INCIDENTE SOBRE A 
+SOMA DOS VALORES RECEBIDOS A 
+TÍTULO DE FPM 
+Ibotirama 
+3,81% 
+Paratinga 
+3,94% 
+Oliveira dos Brejinhos 
+3,42% 
+Morpará 
+2,64% 
+Muquém do São Francisco 
+2,43% 
+ 
+ 
+ 
+MUNICÍPIO 
+PERCENTUAL A ACRESCENTAR PARA 
+CUSTEIO DAS TEPs, INCIDENTE SOBRE A 
+SOMA DOS VALORES RECEBIDOS A 
+TÍTULO DE ICMS 
+Ibotirama 
+3,88% 
+Paratinga 
+3,75% 
+Oliveira dos Brejinhos 
+3,19% 
+Morpará 
+2,66% 
+Muquém do São Francisco 
+2,33% 
+ 
+ 
+3.2. Recursos destinados ao depósito na CONTA GARANTIA DO CONTRATO: 
+ 
+3.2.1. O valor equivalente ao percentual constante da tabela abaixo, dos 
+respectivos recursos oriundos do Fundo de Participação dos Municípios (FPM), 
+do Imposto sobre Circulação de Mercadorias e Serviços (ICMS) e do instrumento 
+de cobrança (taxa ou tarifa) instituído nos moldes do Art. 35 da Lei 11.445/07 por 
+cada município consorciado, para garantia adicional das futuras TARIFAS DO 
+ENTE PÚBLICO (TEPs) e aportes públicos da CONCESSÃO celebrada pelo 
+CDS VELHO CHICO com a SPE, até o saldo acumulado de forma individual por 
+cada município até montante de 1,35% (um virgula trinta e cinco por cento) da 
+
+ 
+ 
+RCL anual, ou ainda, até o saldo acumulado de forma global por todos 
+municípios de R$8.641.422,48 (oito milhões de reais. seiscentos e quarenta e 
+um mil, quatrocentos e vinte e dois reais e quarenta e oito centavos) a ser 
+atualizado monetariamente anualmente pelo IPCA a partir da assinatura do 
+contrato: 
+ 
+MUNICÍPIO 
+PERCENTUAL A ACRESCENTAR PARA 
+CUSTEIO DAS TEPs, INCIDENTE SOBRE A 
+SOMA DOS VALORES RECEBIDOS A 
+TÍTULO DE FPM 
+Ibotirama 
+5,74% 
+Paratinga 
+3,48% 
+Oliveira dos Brejinhos 
+3,99% 
+Morpará 
+2,79% 
+Muquém do São Francisco 
+2,99% 
+ 
+ 
+MUNICÍPIO 
+PERCENTUAL A ACRESCENTAR PARA 
+CUSTEIO DAS TEPs, INCIDENTE SOBRE A 
+SOMA DOS VALORES RECEBIDOS A 
+TÍTULO DE ICMS 
+Ibotirama 
+5,83% 
+Paratinga 
+3,32% 
+Oliveira dos Brejinhos 
+3,72% 
+Morpará 
+2,81% 
+Muquém do São Francisco 
+2,87% 
+ 
+ 
+CLÁUSULA QUARTA – INVESTIMENTOS DA CONTA PAGAMENTO E DA 
+CONTA GARANTIA 
+4.1. Os recursos existentes na CONTA PAGAMENTO e na CONTA GARANTIA 
+serão 
+investidos 
+e 
+reinvestidos 
+pelo 
+AGENTE 
+CUSTODIANTE, 
+nos 
+
+ 
+ 
+investimentos determinados pelo Comitê Gestor do Programa de Parcerias 
+Público-Privadas dos Municípios do Consórcio de Desenvolvimento Sustentável 
+do Velho Chico (CGP CDS VELHO CHICO), por escrito, dentre as modalidades 
+existentes nas carteiras de investimento mantidas e operadas pelo AGENTE 
+CUSTODIANTE. 
+4.2. O AGENTE CUSTODIANTE fornecerá relatórios, com periodicidade 
+mensal, refletindo as transações realizadas na CONTA PAGAMENTO e na 
+CONTA GARANTIA. 
+4.3. O AGENTE CUSTODIANTE terá o direito de liquidar todos os investimentos 
+realizados, a fim de fazer os desembolsos necessários, nos termos deste 
+CONTRATO DE DEPÓSITO. 
+4.4. O AGENTE CUSTODIANTE não terá nenhuma responsabilidade por 
+qualquer prejuízo sofrido como resultado de todo o investimento feito em 
+conformidade com as instruções do Comitê Gestor do Programa de Parcerias 
+Público-Privadas dos Municípios do Consórcio de Desenvolvimento Sustentável 
+do Velho Chico (CGP CDS VELHO CHICO), ou como resultado de qualquer 
+liquidação de qualquer investimento antes de seu vencimento ou com a não 
+obtenção de resultado programado para qualquer investimento advindo de 
+instrução do Comitê Gestor do Programa de Parcerias Público-Privadas dos 
+Municípios do Consórcio de Desenvolvimento Sustentável do Velho Chico (CGP 
+CDS VELHO CHICO). 
+CLÁUSULA 
+QUINTA 
+– 
+PROCEDIMENTOS 
+E 
+INSTRUÇÕES 
+DE 
+MOVIMENTAÇÃO FINANCEIRA DA CONTA PAGAMENTO E DA CONTA 
+GARANTIA. 
+5.1. Procedimentos para pagamento com recursos da CONTA PAGAMENTO: 
+ 
+5.1.1. Os recursos depositados pelo CDS VELHO CHICO na CONTA 
+PAGAMENTO serão utilizados exclusivamente para custeio das TARIFAS DO 
+ENTE PÚBLICO (TEPs) e aportes públicos, conforme o Atestado Liberatório de 
+pagamento encaminhado ao AGENTE CUSTODIANTE pelo CDS VELHO 
+
+ 
+ 
+CHICO, por meio do Comitê Gestor do Programa de Parcerias Público-Privadas 
+dos Municípios do Consórcio de Desenvolvimento Sustentável do Velho Chico 
+(CGP CDS VELHO CHICO). 
+5.1.2. O valor referente às TARIFAS DO ENTE PÚBLICO (TEPs), conforme 
+indicado no Atestado Liberatório de pagamento encaminhado ao AGENTE 
+CUSTODIANTE pelo Comitê Gestor do Programa de Parcerias Público-Privadas 
+dos Municípios do Consórcio de Desenvolvimento Sustentável do Velho Chico 
+(CGP CDS VELHO CHICO), será pago à SPE, na sua conta especialmente 
+destinada, em até 2 (dois) dias úteis após o recebimento do Atestado Liberatório, 
+conforme modelo no Anexo A. 
+5.1.3. Os Boletins de Medição serão entregues pela SPE ao CDS VELHO 
+CHICO no 1º (primeiro) dia útil de cada mês. 
+5.1.4. Os Atestados Liberatórios serão entregues pelo CDS VELHO CHICO ao 
+AGENTE CUSTODIANTE no 5º (quinto) dia útil de cada mês. 
+ 
+5.1.5. Não havendo entrega de qualquer Atestado Liberatório, pelo CDS VELHO 
+CHICO ao AGENTE CUSTODIANTE até o 5º (quinto) dia útil de cada mês, a 
+SPE poderá entregar o respectivo Boletim de Medição para pagamento ao 
+AGENTE CUSTODIANTE, substituindo-se Atestado Liberatório para todos os 
+fins de direito. 
+5.1.6. O AGENTE CUSTODIANTE poderá, a seu critério, buscar a confirmação 
+da emissão do atestado liberatório de pagamento e da respectiva autorização de 
+pagamento. Nesse caso, poderá entrar em contato por qualquer meio que julgue 
+conveniente com pelo menos um dos seguintes servidores do CDS VELHO 
+CHICO: 
+Secretaria Executiva do CDS VELHO CHICO: Sr(a).  
+ 
+ 
+- Outros que se deseje incluir 
+ 
+5.1.7. Caso o AGENTE CUSTODIANTE entenda que há necessidade da 
+confirmação de pelo menos um dos servidores do CDS VELHO CHICO acima 
+
+ 
+ 
+relacionados e não obtenha êxito na tentativa de contato, poderá, a seu critério, 
+não realizar qualquer movimentação na CONTA PAGAMENTO e/ou na CONTA 
+GARANTIA, até que o contato seja realizado e o respectivo pagamento 
+confirmado. 
+5.2. Após a realização do pagamento, caso haja saldo na CONTA PAGAMENTO, 
+os valores serão nela mantidos para custeio das subsequentes TARIFAS DO 
+ENTE PÚBLICO (TEPs) e aportes públicos devidas pelo CDS VELHO CHICO à 
+SPE, através do AGENTE CUSTODIANTE. 
+5.3. Ao fim da execução do CONTRATO DE CONCESSÃO, quitados todos os 
+compromissos financeiros do CDS VELHO CHICO com a SPE, caso haja saldo 
+na CONTA PAGAMENTO, os respectivos recursos financeiros serão devolvidos 
+aos Municípios, sob a forma de rateio compatível com a contribuição de cada um 
+para a composição da CONTA PAGAMENTO. 
+5.4. A CONTA PAGAMENTO, juntamente com todos os juros recebidos nessa 
+conta (que constituem parte integrante da CONTA PAGAMENTO), será mantida 
+pelo AGENTE CUSTODIANTE, e seus recursos desembolsados de acordo com 
+os termos deste CONTRATO DE DEPÓSITO. 
+5.5. As PARTES reconhecem que o AGENTE CUSTODIANTE está autorizado 
+a utilizar as instruções de transferência de fundos para desembolsar os recursos 
+existentes na CONTA PAGAMENTO, sem a emissão de ordem adicional, 
+conforme estabelecido no item 3.2, na forma determinada no Anexo A deste 
+contrato. Os desembolsos serão realizados através da seguinte movimentação: 
+5.5.1. Movimentações da CONTA PAGAMENTO: 
+ 
+A) Contas para débito – CONTA PAGAMENTO: 
+ 
+Titularidade: Prefeitura Municipal de [ 
+] 
+Número: 
+Agência: 
+Banco: 
+
+ 
+ 
+B) Contas para crédito – CONTA PAGAMENTO: 
+ 
+Titularidade: (SPE) 
+Número: 
+Agência: 
+ 
+Banco: 
+ 
+C) Contas a serem mantidas no AGENTE CUSTODIANTE. 
+ 
+5.6. Procedimentos para pagamento com recursos da CONTA GARANTIA: 
+ 
+5.6.1. Após a emissão do Atestado Liberatório, não havendo saldo suficiente na 
+CONTA PAGAMENTO, juntamente com todos os juros recebidos nessa conta 
+(que constituem parte integrante da CONTA PAGAMENTO), a CONTA 
+GARANTIA será acionada, tanto por iniciativa direta e imediata do AGENTE 
+CUSTODIANTE, quanto por provocação da SPE, de acordo com os termos deste 
+CONTRATO DE DEPÓSITO, para cobrir eventual ausência de disponibilidade 
+financeira da CONTA PAGAMENTO para cobrir as TARIFAS DO ENTE 
+PÚBLICO (TEPs) e aportes públicos. 
+5.6.2. As PARTES reconhecem que o AGENTE CUSTODIANTE está autorizado 
+a utilizar as instruções de transferência de fundos para desembolsar os recursos 
+existentes na CONTA GARANTIA, sem a emissão de ordem adicional, conforme 
+estabelecido no item 3.2, na forma determinada no Anexo A deste contrato. Os 
+desembolsos serão realizados através da seguinte movimentação: 
+5.6.2.1. Movimentações da CONTA GARANTIA: 
+ 
+A) Contas para débito – CONTA GARANTIA: 
+Titularidade: Prefeitura Municipal de [ 
+] 
+Número: 
+Agência: 
+Banco: 
+
+ 
+ 
+B) Contas para crédito – CONTA GARANTIA: 
+ 
+Titularidade: (SPE) 
+Número: 
+Agência: 
+ 
+Banco: 
+ 
+C) Contas a serem mantidas no AGENTE CUSTODIANTE. 
+ 
+5.6.3. Os recursos componentes da CONTA GARANTIA deverão ser utilizados 
+para pagamento da SPE se (e somente se) os recursos existentes na CONTA 
+PAGAMENTO não forem suficientes para o pagamento das TÁRIFAS DO ENTE 
+PÚBLICO (TEPs) e aportes públicos. no todo ou em parte. 
+5.6.4. O AGENTE CUSTODIANTE deverá utilizar os recursos existentes da 
+CONTA GARANTIA para pagamento das TARIFAS DO ENTE PÚBLICO (TEPs) 
+e aportes públicos à SPE nas mesmas datas previstas no CONTRATO DE 
+CONCESSÃO celebrado entre os municípios integrantes da CONCESSSÃO, 
+através do Consórcio Intermunicipal (CDS VELHO CHICO) e a Concessionária 
+(SPE), parte integrante deste contrato, no Anexo B. 
+5.6.5. Ao fim da execução do CONTRATO DE CONCESSÃO, quitados todos os 
+compromissos financeiros dos municípios integrantes da CONCESSSÃO com a 
+Concessionária (SPE), caso haja saldo na CONTA GARANTIA, os respectivos 
+recursos financeiros serão devolvidos aos Municípios, sob a forma de rateio 
+compatível com a contribuição de cada um para a composição da CONTA 
+GARANTIA. 
+5.7. Procedimentos para pagamento a terceiros com recursos da CONTA 
+PAGAMENTO e da CONTA GARANTIA: 
+5.7.1. Caso a SPE contrair financiamento com instituição financeira, fornecedor 
+de equipamentos e/ou materiais a serem utilizados no contrato de concessão ou 
+com outro ente que haja financiado a SPE para o custeio dos investimentos ou 
+serviços a serem executados no contrato de concessão, o CDS VELHO CHICO 
+
+ 
+ 
+poderá emitir ordem, através do atestado liberatório de pagamento total ou 
+parcial, ao AGENTE CUSTODIANTE, para que pague diretamente ao 
+financiador ou fornecedor seus haveres financeiros junto à SPE. 
+5.7.2. Para o procedimento disposto neste item 5.3, a SPE deverá apresentar ao 
+CDS VELHO CHICO o contrato de financiamento ou fornecimento que haja 
+celebrado, cabendo ao CDS VELHO CHICO reconhecer o financiador ou 
+fornecedor como parte da relação contratual, constituindo-o como titular de seus 
+haveres financeiros, conforme disposto no contrato celebrado entre o financiador 
+ou fornecedor. 
+5.7.3. O AGENTE CUSTODIANTE liquidará os haveres do financiador ou 
+fornecedor através das seguintes movimentações na CONTA PAGAMENTO ou 
+na CONTA GARANTIA: 
+5.7.3.1. 
+Movimentações da CONTA PAGAMENTO: 
+ 
+A) Contas para débito – CONTA PAGAMENTO: 
+Titularidade: Prefeitura Municipal de [ 
+] 
+Número: 
+Agência: 
+ 
+Banco: 
+ 
+B) Contas para crédito – CONTA PAGAMENTO: 
+Titularidade: (Financiador ou Fornecedor) 
+Número: 
+Agência: 
+ 
+Banco: 
+ 
+C) Contas a serem mantidas no AGENTE CUSTODIANTE. 
+ 
+5.7.3.2. 
+Movimentações da CONTA GARANTIA: 
+
+ 
+ 
+A) Contas para débito – CONTA GARANTIA: 
+ 
+Titularidade: Prefeitura Municipal de [ 
+] 
+Número: 
+Agência: 
+ 
+Banco: 
+ 
+B) Contas para crédito – CONTA GARANTIA: 
+ 
+Titularidade: (Financiador ou Fornecedor) 
+Número: 
+Agência: 
+ 
+Banco: 
+ 
+C) Contas a serem mantidas no AGENTE CUSTODIANTE. 
+CLÁUSULA SEXTA – DA RESCISÃO 
+6.1. Este CONTRATO DE DEPÓSITO estará rescindido de pleno direito no caso 
+da ocorrência de qualquer dos seguintes eventos: 
+6.1.1. A descontinuidade de carreamento dos recursos provenientes do repasse, 
+pelo prazo de 6 (seis) meses subsequentes, pelos Municípios Consorciados 
+(Ibotirama, Paratinga, Oliveira dos Brejinhos, Morpará e Muquém do São 
+Francisco), oriundos do FUNDO DE PARTICIPAÇÃO DOS MUNICÍPIOS (FPM), 
+do IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS 
+(ICMS) e do instrumento de cobrança (taxa ou tarifa) instituído nos moldes do 
+Art. 35 da Lei 11.445/07 por cada município consorciado, para custear as 
+TARIFAS DO ENTE PÚBLICO (TEPs) e aportes públicos da CONCESSÃO 
+celebrada pelos municípios integrantes da CONCESSSÃO, através do 
+Consórcio Intermunicipal (CDS VELHO CHICO) e a Concessionária (SPE) para 
+as CONTA PAGAMENTO e CONTA GARANTIA, por qualquer motivo. 
+Excetuada em casos previstos anteriormente que, por motivos de alcançar o 
+
+ 
+ 
+saldo acumulado limite, tendo assim a soma dos depósitos da conta garantia 
+alcançado a marca de 1,35% (um virgula trinta e cinco por cento) da RCL do 
+município em questão, uma vez que, fica dispensado a hipótese da RESCISÃO 
+pela descontinuidade de carreamento dos recursos provenientes do repasse, 
+pelo prazo de 6 (seis) meses subsequentes. 
+6.1.2. O decurso do prazo de 30 (trinta) anos, a partir da data da emissão da 
+ordem de início da prestação dos serviços deste contrato, emitida pelo CDS 
+VELHO CHICO, caso em que o saldo remanescente na CONTA PAGAMENTO 
+e na CONTA GARANTIA será desembolsado de acordo com as disposições dos 
+itens 5.3 e 5.6.5. 
+CLÁUSULA SÉTIMA - DISPOSIÇÕES SOBRE O AGENTE CUSTODIANTE 
+ 
+7.1. O presente CONTRATO DE DEPÓSITO expressa e exclusivamente 
+estabelece os deveres do AGENTE CUSTODIANTE com relação a todos os 
+assuntos pertinentes a este instrumento, não havendo para o AGENTE 
+CUSTODIANTE quaisquer deveres ou obrigações tácitas ou implícitas. 
+7.1.1. Este CONTRATO DE DEPÓSITO constitui o único acordo entre o 
+AGENTE CUSTODIANTE e as outras PARTES em relação ao objeto deste 
+contrato, e nenhum outro acordo celebrado entre as PARTES, em conjunto ou 
+isoladamente, será considerado como obrigação inerente ao AGENTE 
+CUSTODIANTE, no todo ou em parte. 
+7.1.2. O AGENTE CUSTODIANTE irá atuar apenas e tão somente como 
+executor dos depósitos aqui determinados, das movimentações financeiras aqui 
+autorizadas e das aplicações financeiras aqui determinadas, não se 
+responsabilizando de qualquer forma pela suficiência, exatidão, autenticidade ou 
+validade do objeto deste CONTRATO DE DEPÓSITO ou qualquer parte dele, 
+pela forma de sua execução ou pela entidade ou autoridade de qualquer pessoa 
+envolvida nos atos aqui previstos. 
+7.1.3. O AGENTE CUSTODIANTE não terá qualquer obrigação de investigar ou 
+inquirir sobre a validade ou a exatidão de qualquer documento, acordo, instrução 
+
+ 
+ 
+ou pedido que lhe for enviado, não podendo ser responsabilizado por agir ou não 
+agir de acordo com qualquer documento, acordo, instrução ou solicitação que 
+lhe haja sido enviada e que não seja autêntica. 
+7.1.4. O AGENTE CUSTODIANTE não será, de nenhuma maneira, responsável 
+por notificar, nem será o seu dever notificar a qualquer das PARTES ou qualquer 
+outra parte interessada no presente contrato, acerca de qualquer pagamento 
+determinado por este contrato ou seus anexos. 
+7.1.5. O AGENTE CUSTODIANTE fica autorizado e obrigado a atuar por meio 
+deste CONTRATO DE DEPÓSITO somente em conformidade com as 
+disposições contidas na cláusula primeira. 
+7.2. 
+O 
+AGENTE 
+CUSTODIANTE 
+será 
+resguardado 
+de 
+qualquer 
+responsabilidade por agir em conformidade com qualquer notificação por escrito, 
+pedido, 
+contraordem, 
+consentimento, 
+certificado, 
+recibo, 
+autorização, 
+procuração ou outro documento que receba e considere de boa-fé como 
+genuíno, não limitados, mas incluindo itens direcionados a investimento ou não-
+aplicação dos recursos, itens que solicitem ou autorizem a liberação, o 
+desembolso ou retenção do objeto deste contrato e itens que alterem os termos 
+deste CONTRATO DE DEPÓSITO. 
+7.2.1. Em caso de qualquer disputa ou dúvida quanto às disposições deste 
+contrato, o AGENTE CUSTODIANTE contratará assistência, consultoria ou 
+assessoria jurídica para se resguardar de qualquer obrigação não prevista que 
+eventualmente lhe seja imputada, ficando desde já estipulado que as 
+recomendações jurídicas advindas desse contrato serão seguidas pelo AGENTE 
+CUSTODIANTE. 
+7.2.2. As custas desses serviços jurídicos deverão ser suportadas pelas 
+PARTES, caso reste comprovado que deram causa a tal procedimento. 
+ 
+7.3. Em caso de qualquer divergência entre qualquer uma das PARTES no 
+presente CONTRATO DE DEPÓSITO, ou entre as PARTES no contrato de 
+parceria  público  privada   correlato,  que  resulte  em  reclamações  ou 
+
+ 
+ 
+reivindicações conexas às matérias abrangidas pelo presente contrato, ou no 
+caso de o AGENTE CUSTODIANTE, de boa-fé, encontrar-se em dúvida quanto 
+a que medidas tomar em virtude de evento ocorrido em divergência de posição 
+entre as PARTES ou em desconformidade com o disposto neste contrato, o 
+AGENTE CUSTODIANTE poderá, a seu critério, recusar-se a cumprir com todas 
+as reivindicações ou exigências sobre tal evento, ou ainda recusar-se a tomar 
+qualquer medida prevista neste instrumento, assim que reste comprovado o 
+desacordo ou dúvida, e, em qualquer caso, o AGENTE CUSTODIANTE não será 
+ou tornar-se-á responsável de qualquer forma ou perante qualquer pessoa por 
+sua falha ou recusa em agir, permanecendo no direito a continuar a abster-se de 
+agir até que: 
+7.3.1. Os direitos das partes envolvidas no eventual litígio tenham sido total e 
+finalmente julgados por um tribunal de jurisdição competente; 
+7.3.2. Todas as divergências entre as PARTES tenham sido julgadas e/ou todas 
+as dúvidas resolvidas por acordo entre os envolvidos, e o AGENTE 
+CUSTODIANTE tenha sido notificado por escrito, em termo(s) assinado(s) por 
+todos os envolvidos. 
+7.4. No caso de qualquer controvérsia entre as PARTES deste contrato não 
+encontrar solução judicial ou extrajudicial, ou no caso de o AGENTE 
+CUSTODIANTE rescindir o presente contrato por motivo que lhe seja de direito, 
+e as partes não elegerem agente que o substitua, o AGENTE CUSTODIANTE 
+terá o direito de ingressar judicialmente para estabelecer os direitos das partes. 
+CLÁUSULA OITAVA – DA REMUNERAÇÃO. 
+ 
+8.1. Pela execução dos serviços objeto deste contrato, o AGENTE 
+CUSTODIANTE não terá direito à remuneração. 
+CLÁUSULA NONA - INDENIZAÇÃO. 
+ 
+9.1. As PARTES concordam solidariamente em indenizar o AGENTE 
+CUSTODIANTE, suas afiliadas e seus diretores, funcionários, sucessores, 
+cessionários, advogados e agentes (cada um denominado simplesmente Parte 
+
+ 
+ 
+Indenizada), que sejam declarados isentos de responsabilidade por ato 
+relacionado a este contrato, judicial ou extrajudicialmente, referentes a perdas, 
+custos, reclamações, demandas, despesas, danos, multas e honorários 
+advocatícios sofridos ou incorridos por qualquer Parte Indenizada ou pelo 
+AGENTE CUSTODIANTE, como resultado de qualquer ato realizado ou não 
+realizado em função deste contrato, ou qualquer litígio ou ação decorrente deste 
+contrato. 
+9.2. Essa indenização deve incluir, mas não se limitando a todos os custos 
+incorridos em conjunto por qualquer Parte Indenizada ou pelo AGENTE 
+CUSTODIANTE. 
+CLÁUSULA DÉCIMA – DISPOSIÇÕES GERAIS. 
+ 
+10.1. O AGENTE CUSTODIANTE não realizará qualquer pagamento, 
+investimento ou outro uso de recursos até que a CONTA PAGAMENTO ou a 
+CONTA GARANTIA, conforme o caso, tenham os recursos suficientes para tal. 
+10.2. Fica resguardado ao AGENTE CUSTODIANTE o direito de retirar-se deste 
+contrato a qualquer momento, mediante notificação por escrito às PARTES, 
+quando então as partes deverão nomear imediatamente um sucessor para a 
+função de AGENTE CUSTODIANTE. 
+10.2.1. 
+O AGENTE CUSTODIANTE deverá permanecer na relação 
+contratual até que as PARTES nomeiem seu substituto. 
+10.2.2. 
+A permanência, neste caso, não poderá estender-se por prazo 
+superior a 4 (quatro) meses. 
+10.2.3. 
+Caso transcorra o prazo estabelecido no item 10.2.2, e as PARTES 
+não tenham elegido um substituto, fica facultado ao AGENTE CUSTODIANTE a 
+sua retirada imediata desta relação contratual. 
+10.2.4. 
+Após a entrega de toda a documentação exigida para sua retirada 
+deste contrato e de todos os recursos existentes na CONTA PAGAMENTO e/ou 
+na CONTA GARANTIA, ficam as funções do AGENTE CUSTODIANTE extintas, 
+
+ 
+ 
+não havendo mais qualquer obrigação do AGENTE CUSTODIANTE em relação 
+a este contrato. 
+10.3. Todos os direitos inerentes ao AGENTE CUSTODIANTE permanecerão 
+vigentes mesmo após a rescisão deste contrato. 
+CLÁUSULA DÉCIMA PRIMEIRA – DA NOTIFICAÇÃO. 
+ 
+11.1. Qualquer notificação relativa a este contrato deverá ser realizada ao 
+AGENTE CUSTODIANTE por escrito. 
+ 
+CLÁUSULA DÉCIMA SEGUNDA – DAS ALTERAÇÕES. 
+ 
+12.1. Os termos deste contrato somente poderão ser alterados, modificados ou 
+revogados através de instrumento de aditivo contratual firmado pelas partes. 
+CLÁUSULA DÉCIMA TERCEIRA – DA FORÇA MAIOR. 
+ 
+13.1. O AGENTE CUSTODIANTE não poderá ser responsabilizado por eventos 
+advindos de casas fortuitos ou força maior, tais como greves, falha de 
+equipamento ou falha de transmissão, guerra, terrorismo ou qualquer outro ato 
+ou circunstância além do seu controle. 
+CLÁUSULA DÉCIMA QUARTA – DA NOVAÇÃO. 
+ 
+14.1. A exigência de uma das partes no que tange ao cumprimento, pelas outras 
+partes, de qualquer das disposições ora pactuadas, será considerada mera 
+liberalidade, não constituindo renúncia a esse direito, nem impedimento ao seu 
+exercício posterior, nem constituirá novação contratual. 
+CLAUSULA DÉCIMA QUINTA – RESOLUÇÃO DE DISPUTAS, TRATATIVAS 
+AMIGÁVEIS E ARBITRAGEM 
+15.1. Em caso de disputas ou controvérsias oriundas deste Contrato, ou 
+decorrentes de sua interpretação e execução, as Partes se reunirão e buscarão 
+dirimi-las amigavelmente, convocando, sempre que necessário, suas instâncias 
+diretivas com poderes para se compor ou recorrendo, de mútuo acordo, a 
+processo de mediação. 
+
+ 
+ 
+15.2. Qualquer procedimento de resolução de disputa instaurado no âmbito do 
+presente Contrato deverá ser plurilateral entre as partes. 
+15.3. A submissão de qualquer questão à Mediação ou Arbitragem não exonera 
+as Partes do pontual e tempestivo cumprimento das disposições do Contrato e 
+das determinações do CDS VELHO CHICO a ele atinentes, nem permite 
+qualquer interrupção do desenvolvimento das atividades objeto da Concessão, 
+que deverão continuar a processar-se nos termos contratualmente exigíveis, 
+assim permanecendo até que uma decisão final seja obtida relativamente à 
+matéria em discussão. 
+15.4. Qualquer disputa ou controvérsia relativa à interpretação ou execução do 
+Contrato, ou de qualquer forma oriunda ou associada a ele, e que não seja 
+dirimida amigavelmente na forma da Cláusula 15.1, deverá ser resolvida de 
+forma definitiva por meio de processo arbitral (“Arbitragem”), que terá início 
+mediante comunicação remetida por uma Parte à outra, requerendo a instalação 
+de tribunal arbitral composto por três árbitros (“Tribunal Arbitral”) e indicando 
+detalhadamente a matéria em torno da qual gira a controvérsia, utilizando como 
+parâmetro as regras arbitrais estabelecidas no Regulamento do Tribunal Arbitral 
+do Centro de Arbitragem e Mediação da Câmara de Comércio Brasil-Canadá 
+(CAM-CCBC), conforme as regras de seu regulamento (“Regulamento”), 
+devendo ser realizada em consonância com os seguintes preceitos: 
+a) a administração e o correto desenvolvimento do procedimento arbitral caberão 
+ao Tribunal Arbitral do Centro de Arbitragem e Mediação da Câmara de Comércio 
+Brasil-Canadá (CAM-CCBC), (“Câmara”); 
+b) o Tribunal Arbitral será constituído por 3 (três) árbitros, cabendo a cada uma 
+das Partes a escolha de um árbitro titular e respectivo suplente, de acordo com 
+os prazos e condições previstos no Regulamento; 
+c) os árbitros indicados pelas partes deverão escolher em conjunto o nome do 
+terceiro árbitro, a quem caberá a presidência do Tribunal Arbitral; 
+
+ 
+ 
+d) se qualquer das partes deixar de indicar árbitro e/ou suplente, caberá ao 
+Presidente do Centro de Arbitragem e Mediação da Câmara de Comércio Brasil-
+Canadá (CAM-CCBC) fazer essa nomeação; 
+e) caso os árbitros indicados não cheguem a um consenso quanto à indicação 
+do terceiro árbitro, caberá ao Presidente da Câmara fazê-lo; 
+f) o idioma a ser utilizado no processo de Arbitragem será a língua portuguesa; 
+ 
+g) quanto ao mérito, decidirão os árbitros com base nas leis substantivas 
+brasileiras, obedecendo, quanto ao procedimento, as disposições da presente 
+Cláusula, o Regulamento e o disposto na Lei Federal 9.307, de 23 de setembro 
+de 1996. 
+15.4. A cidade de São Paulo, São Paulo, Brasil, será a sede da Arbitragem e o 
+local da prolação do laudo arbitral. 
+15.5. A sentença arbitral será definitiva para o impasse e seu conteúdo obrigará 
+as Partes e seus sucessores. 
+15.6. A Parte vencida no procedimento arbitral arcará com todos os custos do 
+procedimento, incluindo os honorários dos árbitros, a não ser que os árbitros 
+decidam de outra forma ante as peculiaridades do litígio; e, em caso de derrota 
+parcial, os custos do procedimento, inclusive honorários dos árbitros, serão 
+rateados pelas Partes. 
+15.7. Não obstante as disposições acima, cada Parte permanece com o direito 
+de requerer medidas judiciais: 
+15.7.1. para obter medidas cautelares de proteção de direitos previamente à 
+instauração do procedimento de Arbitragem, cuja propositura não será 
+interpretada como renúncia à arbitragem pelas Partes; e 
+15.7.2. para executar qualquer decisão arbitral, inclusive o laudo final. 
+ 
+15.8. As Partes reconhecem que qualquer ordem, decisão ou determinação 
+arbitral será definitiva e vinculativa, constituindo o laudo final título executivo 
+judicial. 
+
+ 
+ 
+15.9. Em sendo necessária a obtenção de medida liminar antes da instituição do 
+procedimento arbitral, as Partes elegem o foro central da comarca de Salvador, 
+Bahia, Brasil. 
+CLÁUSULA DÉCIMA SEXTA – DO FORO 
+ 
+As Partes elegem o foro central da comarca de Salvador, Bahia, Brasil. 
+ 
+E por assim estarem de pleno acordo com as disposições e condições do 
+presente CONTRATO, as PARTES o assinam em 2 (duas) vias de igual teor e 
+forma na presença das testemunhas, que também o assinam, para que se 
+produzam seus legais e jurídicos efeitos. 
+ 
+ 
+Ibotirama – BA,  
+de  
+de  
+. 
+ 
+ 
+ 
+PARTES: 
+ 
+ 
+ 
+CDS VELHO CHICO (PODER CONCEDENTE) 
+ 
+ 
+ 
+CONCESSIONÁRIA 
+ 
+ 
+ 
+AGENTE CUSTODIANTE 
+ 
+ 
+ 
+TESTEMUNHAS 
+ 
+NOME: 
+NOME: 
+ 
+CPF: 
+CPF: 
+
+ 
+ 
+ANEXO B 
+ 
+ATESTADO LIBERATÓRIO DE PAGAMENTO 
+ 
+De acordo com o determinado no CONTRATO DE CONCESSÃO, 
+celebrado entre o CDS VELHO CHICO e a CONCESSIONÁRIA (SPE), para o 
+manejo e gerenciamento de Resíduos Sólidos, e com o quanto determinado no 
+CONTRATO DE DEPÓSITO celebrado entre o CDS VELHO CHICO, a SPE e o 
+BANCO (nome), a Secretaria Executiva do CDS VELHO CHICO vem, por meio 
+deste atestado, solicitar a transferência de recursos da CONTA PAGAMENTO 
+e/ou da CONTA GARANTIA para a conta da CONCESSIONÁRIA (SPE) ou do 
+FINANCIADOR OU FORNECEDOR, para o pagamento das TARIFAS DO ENTE 
+PÚBLICO (TEPs) e aportes públicos da concessão a ser celebrada pelo 
+CONSÓRCIO DE DESENVOLVIMENTO SUSTENTÁVEL DO VELHO CHICO 
+(CDS VELHO CHICO), conforme estipulado no item 1.3 do CONTRATO DE 
+DEPÓSITO, nos seguintes montantes: 
+1. Movimentações da CONTA PAGAMENTO: 
+ 
+A) Contas para débito – CONTA PAGAMENTO: 
+ 
+Titularidade: Prefeitura Municipal de [ 
+] 
+Número: 
+Agência: 
+ 
+Banco: 
+ 
+Valor: R$ 
+ 
+ 
+B) Contas para crédito – CONTA PAGAMENTO: 
+ 
+Titularidade: (SPE) 
+Número: 
+Agência: 
+Banco: 
+
+ 
+ 
+Valor: R$ 
+ 
+ 
+2. Movimentações da CONTA GARANTIA: 
+ 
+A) Contas para débito – CONTA GARANTIA: 
+ 
+Titularidade: Prefeitura Municipal de [ 
+] 
+Número: 
+Agência: 
+ 
+Banco: 
+ 
+Valor: R$ 
+ 
+ 
+B) Contas para crédito – CONTA GARANTIA: 
+ 
+Titularidade: (SPE) 
+Número: 
+Agência: 
+ 
+Banco: 
+ 
+Valor: R$ 
+ 
+ 
+E/OU 
+ 
+3. Movimentações da CONTA PAGAMENTO: 
+ 
+A) Contas para débito – CONTA PAGAMENTO: 
+ 
+Titularidade: Prefeitura Municipal de [ 
+] 
+Número: 
+Agência: 
+ 
+Banco: 
+ 
+Valor: R$ 
+ 
+ 
+B) Contas para crédito – CONTA PAGAMENTO: 
+
+ 
+ 
+Titularidade: (Financiador ou Fornecedor) 
+Número: 
+Agência: 
+ 
+Banco: 
+ 
+Valor: R$ 
+ 
+ 
+4. Movimentações da CONTA GARANTIA: 
+ 
+A) Contas para débito – CONTA GARANTIA: 
+ 
+Titularidade: Prefeitura Municipal de [ 
+] 
+Número: 
+Agência: 
+ 
+Banco: 
+ 
+Valor: R$ 
+ 
+ 
+B) Contas para crédito – CONTA GARANTIA: 
+Titularidade: (Financiador ou Fornecedor) 
+Número: 
+Agência: 
+ 
+Banco: 
+ 
+Valor: R$ 
+ 
+ 
+ 
+Este atestado refere-se à medição mensal dos serviços executados pela 
+SPE e demais movimentações financeiras no mês de competência de (mês/ano) 
+ 
+ 
+SERVIDOR PÚBLICO 
+IDENTIFICAÇÃO 
+
+

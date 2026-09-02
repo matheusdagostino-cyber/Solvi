@@ -1,0 +1,722 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ESTUDO DE VIABILIDADE ECONÔMICO-FINANCEIRA 
+ 
+ 
+ 
+EXPLORAÇÃO 
+E 
+PRESTAÇÃO 
+DOS 
+SERVIÇOS 
+DE 
+COLETA, 
+TRANSPORTE, 
+TRIAGEM, 
+TRANSBORDO 
+(TRANSFERÊNCIA), 
+TRATAMENTO E DESTINAÇÃO FINAL AMBIENTALMENTE ADEQUADA 
+DOS RESÍDUOS SÓLIDOS DOMICILIARES (RDO), DOS RESÍDUOS 
+PÚBLICOS URBANOS (RPU), DOS RESÍDUOS DA CONSTRUÇÃO CIVIL E 
+DEMOLIÇÃO (RCD), DOS RESÍDUOS DOS SERVIÇOS DE SAÚDE (RSS) E 
+COLETA SELETIVA (CS), BEM COMO ATIVIDADES CORRELATAS, DO 
+CONSÓRCIO DE DESENVOLVIMENTO SUSTENTÁVEL DO VELHO CHICO 
+(“CDS VELHO CHICO”), MEDIANTE DELEGAÇÃO A SER FEITA POR 
+CONTRATO DE CONCESSÃO PATROCINADA 
+ 
+ 
+ 
+ 
+ 
+ 
+APOIO INSTITUCIONAL 
+ 
+ 
+TERMOS DE COOPERAÇÃO TÉCNICA Nº02/2023 E N° 01/2026 
+
+ 
+ 
+1. INTRODUÇÃO 
+ 
+Este documento apresenta a descrição das parcelas que comporão a 
+TARIFAS DO ENTE PÚBLICO (TEP) e a TARIFA DO USUÁRIO FINAL (TUF), 
+com a previsão das receitas oriundas dos serviços descritos, considerando a 
+proposta de preço apresentada no MODELO DE APRESENTAÇÃO DE 
+PROPOSTA COMERCIAL em ANEXO ao EDITAL. Esta previsão das receitas 
+tomou como base o volume de resíduos sólidos (RDO, RPU, RSS e RCD) 
+produzido no município que encaminharão seus resíduos para o aterro sanitário 
+licenciado. Neste Plano de Negocial referencial foram considerados os seguintes 
+municípios 
+integrantes 
+do 
+CONSÓRCIO 
+DE 
+DESENVOLVIMENTO 
+SUSTENTÁVEL DO VELHO CHICO (“CDS VELHO CHICO”): (i) Ibotirama; (ii) 
+Paratinga; (iii) Morpará; (iv) Muquém do São Francisco; e (v) Oliveira dos 
+Brejinhos; 
+ 
+O CONSÓRCIO DE DESENVOLVIMENTO SUSTENTÁVEL DO VELHO 
+CHICO (CDS VELHO CHICO) celebrou os TERMOS DE COOPERAÇÃO 
+TÉCNICA N° 02/2023 e 01/2026 com a SECRETARIA DE DESENVOLVIMENTO 
+URBANO DO ESTADO DA BAHIA (SEDUR-BA), tendo por objeto: (i) o 
+compartilhamento entre as partes de informações e dados técnicos para o 
+desenvolvimento das analises quanto ao melhor arranjo territorial e conjunto de 
+soluções a serem ofertados para viabilizar a regionalização e implantação do 
+gerenciamento de resíduos sólidos na região; (ii) auxílio ao Consórcio no que 
+tange à análise e compatibilização dos estudos, projetos, modelagens e relatórios 
+técnicos recepcionados no âmbito do PMI n° 01/2023, bem como no 
+acompanhamento das próximas fases decorrentes da contratação deles 
+decorrente; (iii) capacitação dos gestores e técnicos para melhor condução do 
+processo administrativos. 
+ 
+Este documento foi estruturado em conformidade com as diretrizes 
+definidas no EDITAL e reflete o modelo de exploração do CONTRATO DE 
+CONCESSÃO a ser firmado com o CDS VELHO CHICO. 
+Em observância à modelagem estabelecida no EDITAL, este documento 
+
+ 
+ 
+reúne tanto os conteúdos usualmente previstos nas melhores práticas de 
+elaboração de um ESTUDO DE VIABILIDADE ECONÔMICO-FINANCEIRA 
+REFERENCIAL, quanto as premissas apresentadas no formato definido no 
+CADERNO DE ENCARGOS. 
+ 
+As premissas aqui apresentadas e seus respectivos resultados 
+econômico-financeiros estão em consonância com o CADERNO DE 
+ENCARGOS, 
+MODELAGEM 
+TÉCNICO-OPERACIONAL, 
+ESTUDO 
+DE 
+DEMANDA E ENGENHARIA e ESTUDOS AMBIENTAIS E FUNDIÁRIOS 
+apresentados  nos  demais  cadernos  do presente  estudo  elaborado  pela 
+PROPONENTE do PMI. 
+ 
+Assim, o presente documento inclui o detalhamento originalmente previsto 
+para este documento, incluindo: 
+a) as principais variáveis financeiras assumidas para estimativa do CAPITAL 
+EXPENDITURE (CAPEX), OPERATIONAL EXPENDITURE (OPEX) e 
+Receitas; 
+ 
+b) as questões relativas aos financiamentos, depreciação e tributos 
+assumidos, todos indispensáveis para estruturação do demonstrativo 
+econômico-financeiro e do fluxo de caixa do projeto; 
+ 
+c) os resultados obtidos, nas modalidades sem financiamento e com 
+financiamento, contendo a WACC, TIR, payback, a exposição máxima, o 
+saldo de caixa, etc. 
+ 
+d) as considerações relevantes para entendimento do modelo econômico-
+financeiro e ESTUDO DE VIABILIDADE ECONÔMICO-FINANCEIRA. 
+ 
+e) quadros do ESTUDO DE VIABILIDADE ECONÔMICO-FINANCEIRA que 
+geraram os resultados do projeto, contendo: 
+a. receitas ordinárias 
+b. receitas acessórias 
+c. tributos 
+
+ 
+ 
+d. cronograma físico-financeiro 
+e. investimentos 
+f. depreciação 
+g. despesas operacionais 
+h. demonstrativo de resultado do projeto 
+i. fluxo de caixa do projeto 
+j. financiamentos (dívidas) 
+k. premissas financiamento 
+l. cálculo financiamento 
+m. demonstrativo de resultado alavancado 
+n. fluxo de caixa alavancado 
+o. seguros e garantias 
+ 
+Desta forma, o ESTUDO DE VIABILIDADE ECONÔMICO-FINANCEIRA 
+REFERENCIAL foi desenvolvido com base nas melhores práticas do 
+mercado, segue as características do Contrato de Concessão Patrocinada e 
+inclui as projeções estabelecidas ao longo dos 30 (trinta) anos de prazo 
+contratual, contemplando todos os direitos e obrigações contratuais. 
+ 
+Neste 
+ESTUDO 
+DE 
+VIABILIDADE 
+ECONÔMICO-FINANCEIRA 
+REFERENCIAL foram considerados os seguintes municípios integrantes do 
+CDS VELHO CHICO: (i) Ibotirama; (ii) Paratinga; (iii) Morpará; (iv) Muquém 
+do São Francisco; e (v) Oliveira dos Brejinhos. 
+ 
+Os ativos operacionais a serem implantados deverão atender à demanda 
+de resíduos urbanos dos Municípios abrangidos pelo Contrato pelo período 
+mínimo de 30 (trinta) anos. Além da central de valorização de resíduos (CVR), 
+deverá ser construída no mesmo terreno uma unidade de compostagem, 
+Ecopontos, pontos de entrega voluntária (PEVs), uma unidade de tratamento 
+térmico de resíduos dos serviços de saúde (RSS) e uma unidade de 
+tratamento dos resíduos da construção civil e demolição (URCD), bem como 
+outros ativos operacionais correlatos. 
+
+ 
+ 
+A previsão é que os ativos operacionais sejam implantados em uma gleba 
+cerca de 31 (trinta e um) hectares com capacidade para absorver a produção 
+gerada em 30 (trinta) anos nos Municípios. 
+Sempre em linha com a proposta técnica, destaca-se que a área proposta 
+deverá contar com todos os sistemas e instalações necessários à sua 
+adequada operação e controle técnico e ambiental, envolvendo: 
+ Áreas específicas para disposição e tratamento de resíduos sólidos 
+(RDO, RPU, RSS e RCD); 
+ Ecopontos; 
+ Pontos de Entrega Voluntária (PEVs); 
+ Caixa compactadoras estacionárias para atendimento a feiras livres e 
+mercados públicos; 
+ Contêineres para acondicionamento temporário de resíduos sólidos em 
+vias e logradouros; 
+ Unidade de Tratamento Térmico dos Resíduos dos Serviços de Saúde 
+(RSS); 
+ Unidade de valorização de resíduos da construção civil e demolição 
+(RCD); 
+ Unidade de Compostagem de Resíduos Orgânicos (UCO); 
+ Trilha ecológica; 
+ Horta Orgânica; 
+ Viveiro de Mudas; 
+ Centro de Educação Ambiental e Experiências Sustentáveis; 
+ Sistema de drenagem de águas pluviais; 
+ Unidade de guarita, balança, pátio para manutenção e bloco 
+administrativo; 
+ Urbanização da área, vias de acesso principais e secundários e 
+cercamento de toda extensão do empreendimento; 
+ Sistema de controle e preservação ambiental; 
+ Planejamento de utilização e encerramento da área. 
+ 
+ 
+
+ 
+ 
+2. DESCRIÇÃO DA CONCESSÃO 
+ 
+DADOS DA CONCESSÃO 
+ 
+PODER CONCEDENTE: 
+CONSÓRCIO 
+DE 
+DESENVOLVIMENTO 
+SUSTENTÁVEL DO VELHO CHICO (“CDS VELHO 
+CHICO”) 
+MODALIDADE DE LICITAÇÃO: 
+Concorrência Pública Nacional com Possibilidade de 
+Empresa Estrangeira 
+PRAZO DE CONCESSÃO: 
+30 (trinta) anos 
+TARIFA DO ENTE PÚBLICO – TEP-C RPU (R$/TON): 
+R$227,78/ton de resíduos públicos urbanos 
+TARIFA DO ENTE PÚBLICO – TEP-D RPU (R$/TON): 
+R$85,00/ton de resíduos públicos urbanos 
+TARIFA DO ENTE PÚBLICO – TEP-C RCD (R$/TON): 
+R$227,78/ton  de  resíduos  da  construção  civil  e 
+demolição 
+TARIFA DO ENTE PÚBLICO – TEP-D RCD (R$/TON): 
+R$85,00/ton de resíduos da construção civil e demolição 
+TARIFA DO ENTE PÚBLICO – TEP RSS (R$/KG): 
+R$19,20/kg de resíduos dos serviços de saúde 
+R$3,81 (três reais e oitenta e um centavos) por metro 
+cúbico de água faturada para remuneração dos serviços 
+de transferência, triagem, tratamento reciclagem e 
+destinação final dos resíduos domiciliares (RDO), coleta 
+seletiva (CS), programas socioambientais e atividades 
+correlatas. 
+R$2,33 (dois reais e trinta e três centavos) por metro 
+cúbico de água faturada para remuneração dos serviços 
+de coleta e transporte dos resíduos domiciliares (RDO). 
+TARIFA DO USUÁRIO FINAL DE TRANSFERÊNCIA, 
+TRIAGEM, 
+TRATAMENTO, 
+RECICLAGEM 
+E 
+DESTINAÇÃO FINAL DOS RESÍDUOS SÓLIDOS 
+DOMICILIARES (RDO) – TUF-D (R$/M³) 
+TARIFA DO USUÁRIO FINAL DE COLETA E 
+TRANSPORTE 
+DOS 
+RESÍDUOS 
+SÓLIDOS 
+DOMICILIARES (RDO) – TUF-C (R$/M³) 
+REALIZAÇÃO DE OBRA E MELHORIAS: 
+Modernização, 
+otimização, 
+expansão, 
+operação 
+e 
+manutenção da exploração e prestação dos serviços de 
+coleta, 
+transporte, 
+tratamento 
+e 
+destinação 
+final 
+ambientalmente 
+adequada 
+dos 
+resíduos 
+sólidos 
+domiciliares (RDO), dos resíduos públicos urbanos 
+(RPU), dos resíduos da construção civil e demolição 
+(RCD), dos resíduos dos serviços de saúde (RSS), 
+programas socioambientais e coleta seletiva (CS), bem 
+como atividades correlatas, do CONSÓRCIO DE 
+DESENVOLVIMENTO SUSTENTÁVEL DO VELHO 
+CHICO (“CDS VELHO CHICO”). 
+
+ 
+ 
+R$ 6.397.735 (seis milhões, trezentos e noventa e sete 
+mil, setecentos e trinta cinco reais) 
+CAPITAL SOCIAL TOTAL PREVISTO EM PROJETO: 
+CRITÉRIO DE JULGAMENTO DE PROPOSTAS: 
+Menor valor da tarifa do serviço a ser prestado 
+ 
+ 
+ 
+ 
+ 
+ 
+3. RECEITAS 
+ 
+O 
+ESTUDO 
+DE 
+VIABILIDADE 
+ECONÔMICO-FINANCEIRA 
+REFERENCIAL (PNR) considera, como forma de remuneração da 
+Concessionária, a combinação de 3 (três) tipologias distintas de receitas, a 
+saber: 
+(i) 
+Tarifas do Usuário Final (TUF); 
+(ii) 
+Tarifas do Ente Público (TEP); e 
+(iii) 
+Receitas acessórias (RA). 
+ 
+As TARIFAS DO USUÁRIO FINAL (TUF) destinam-se à remuneração 
+direta e exclusiva dos serviços públicos divisíveis de coleta, transporte, 
+triagem, transferência (transbordo), tratamento e disposição final dos 
+resíduos domiciliares (RDO), quando prestados aos usuários finais. 
+A TUF constitui a principal base remuneratória da Concessionária para os 
+serviços relativos ao RDO, subdividindo-se em TUF-D (remuneração dos 
+serviços obrigatórios de triagem, transferência, tratamento e destinação final 
+de RDO) e TUF-C (remuneração dos serviços opcionais de coleta e 
+transporte de RDO). 
+A TUF-D será devida a partir do início da operação, que ocorrerá no 
+primeiro ano de concessão, obedecendo as previsões de implantação do 
+serviço definidas no Contrato e seus Anexos. 
+A TUF-C somente será devida a partir da formalização da adesão, pelos 
+Municípios, à prestação dos serviços de coleta e transporte de RDO pela 
+Concessionária. 
+
+ 
+ 
+As TARIFAS DO ENTE PÚBLICO (TEP) destinam-se à remuneração 
+direta e exclusiva dos serviços públicos divisíveis de coleta, transporte, 
+triagem, transferência (transbordo), tratamento e disposição final dos 
+resíduos da construção civil e demolição (RCD), dos serviços de saúde (RSS) 
+e públicos urbanos (RPU), quando gerados por estabelecimentos e 
+atividades públicas. 
+A TEP será devida pelos Municípios que formalizem a adesão à prestação 
+desses serviços pela Concessionária. 
+As RECEITAS ACESSÓRIAS (RA) poderão ser obtidas através da 
+execução de atividades correlatas e complementares ao objeto da 
+concessão, nos termos autorizados pelo Contrato de Concessão. 
+Incluem-se dentre as potenciais fontes de RA a prestação dos serviços de 
+coleta, transporte, triagem, transferência (transbordo), tratamento e 
+disposição final de RDO, RSS e RCD de grandes geradores privados. 
+Na hipótese de não implementação do regime de cofaturamento da TUF 
+na fatura de água e esgoto, a CONCESSIONÁRIA fará jus a subsídio dos 
+Municípios, com a finalidade de complementar a remuneração dos serviços 
+públicos divisíveis de coleta, transporte, triagem, transbordo, tratamento e 
+destinação final ambientalmente adequada de resíduos sólidos domiciliares 
+(RDO). 
+Esse subsídio somente será devido quando o inadimplemento dos 
+usuários for superior a 9,5% em cada período de apuração, conforme os 
+termos e condições estabelecidos no Contrato de Concessão e seus Anexos. 
+
+ 
+ 
+Esse valor será cobrado por tonelada, independentemente do município 
+de origem dos resíduos, tendo em vista os custos de implantação, operação 
+e manutenção da estação de transferência (transbordo) de resíduos (ETR) e 
+das demais infraestruturas associadas à destinação final. 
+Tal cobrança não se aplica nas hipóteses em que a Concessionária for 
+contratada também para esses serviços, os quais serão precificados e 
+cobrados individualmente dos clientes públicos. 
+3.1. TARIFAS DO USUÁRIO FINAL (TUF) 
+ 
+As PROPOSTAS COMERCIAIS deverão ser apresentadas com deságio 
+corresponde ao multiplicador K (x,xxxx), com 4 (quatro) casas decimais e valor 
+máximo de 1,0000 (um inteiro), a ser aplicado linearmente sobre os valores da 
+estrutura tarifária previstos a seguir: 
+ 
+A título de TUF-D: R$3,81 (três reais e oitenta e um centavos) 
+referenciado à data-base de julho de 2026, a ser cobrado 
+mensalmente por metro cúbico de água faturado pelos serviços 
+obrigatórios de transferência (transbordo), reciclagem, tratamento e 
+destinação final ambientalmente adequada dos resíduos domiciliares 
+(RDO), coleta seletiva (CS), programas socioambientais e atividades 
+correlatas; 
+ 
+ 
+A título de TUF-C: R$2,33 (dois reais e trinta e três centavos) 
+referenciado à data-base de julho de 2026, a ser cobrado 
+mensalmente por metro cúbico de água faturado pelos serviços 
+opcionais de coleta e transporte dos resíduos domiciliares (RDO), com 
+caminhões compactadores, tratores compactadores, quadriciclos com 
+reboque, caminhão basculante do tipo caçamba, ciclomotores (triciclos 
+de carga) e disponibilização de contentores; 
+ 
+3.2. TARIFAS DO ENTE PÚBLICO (TEP) 
+
+ 
+ 
+As PROPOSTAS COMERCIAIS deverão ser apresentadas com deságio 
+corresponde ao multiplicador K (x,xxxx), com 4 (quatro) casas decimais e valor 
+máximo de 1,0000 (um inteiro), a ser aplicado linearmente sobre os valores da 
+estrutura tarifária previstos a seguir: 
+ 
+R$85,00 (oitenta e cinco reais) referenciado à data-base de julho de 
+2026, a ser cobrado mensalmente dos Municípios que aderirem aos 
+serviços, por tonelada, dos serviços de triagem, transferência 
+(transbordo), tratamento e destinação final ambientalmente adequada 
+dos resíduos da construção civil e demolição (RCD) e dos resíduos 
+públicos urbanos (RPU) oriundo dos serviços de limpeza urbana, 
+desde varrição, roçagem, poda, capina, serviços congêneres até 
+paisagismo, da coleta programada e transporte de resíduos volumosos 
+e inservíveis e programa “cata bagulho”; 
+ 
+ 
+R$227,78 (duzentos e vinte e sete reais e setenta e oito centavos) 
+referenciado à data-base de julho de 2026, a ser cobrado 
+mensalmente dos Municípios que aderirem aos serviços, por tonelada, 
+dos serviços de coleta e transporte da construção civil e demolição 
+(RCD) e dos resíduos públicos urbanos (RPU) oriundo dos serviços de 
+limpeza urbana, desde varrição, roçagem, poda, capina, serviços 
+congêneres até paisagismo, da coleta programada e transporte de 
+resíduos volumosos e inservíveis e programa “cata bagulho”; 
+ 
+ 
+R$19,20 (dezenove reais e vinte centavos) referenciado à data-base 
+de julho de 2026, a ser cobrado mensalmente dos Municípios que 
+aderirem aos serviços, por quilograma, dos serviços de coleta, 
+transporte, triagem, tratamento e destinação final ambientalmente 
+adequada dos resíduos dos serviços de saúde (RSS); 
+3.3. RECEITAS ACESSÓRIAS 
+
+ 
+ 
+A CONCESSIONÁRIA deverá elaborar, para fins de atendimento dos 
+serviços incluídos neste tipo de receita, o estudo de engenharia e o estudo 
+de viabilidade econômico-financeira. 
+As receitas acessórias serão originadas de atividades correlatas e 
+complementares ao objeto da concessão, conforme autorizado no Contrato 
+de Concessão e seus Anexos, o que inclui a comercialização, junto aos 
+grandes geradores privados, dos serviços de coleta, transporte, tratamento e 
+destinação final de RDO, RCD e RSS em quantidade superior ao 
+estabelecido em norma, ou cuja responsabilidade seja dos seus geradores, 
+e dos produtos oriundos da geração de energia e de créditos de carbono. 
+As receitas acessórias serão revertidas à modicidade tarifária, na forma 
+estabelecida no Contrato de Concessão, servindo também para consideração 
+na aferição do equilíbrio econômico-financeiro da Concessão. 
+4. PROJEÇÃO DE DEMANDA 
+ 
+Com um total de 98.749 habitantes (IBGE 2022) dos Municípios 
+consorciados ao CDS VELHO CHICO que aderiram ao projeto, estima-se que 
+haverá uma produção média de aproximadamente 117.626 toneladas/ano de 
+Resíduos Sólidos Domiciliares (RDO), de acordo com os parâmetros e diretrizes 
+da ABREMA (anteriormente ABRELPE). 
+Atualmente os resíduos sólidos domiciliares do município não são 
+destinados a aterro sanitário. Os aterros sanitários privados licenciados mais 
+próximos dos Municípios do CDS VELHO CHICO estão nos Municípios de 
+Caetité (aterro privado sob gestão da CVR VELHO CHICO LTDA) e Bom Jesus 
+da Lapa (aterro privado sob gestão da CVR SÃO FRANCISCO LTDA), ambos 
+joint ventures das empresas RETEC TECNOLOGIA EM RESIDUOS LTDA 
+(GVC HOLDING S/A), AMBIENTAL FORT COLETA DE RESIDUOS LTDA e 
+GBI AMBIER EMPREENDIMENTOS AMBIENTAIS LTDA. 
+Todavia, a grande distância em relação ao centro de geração dos 
+resíduos, aliada à inexistência de Estações de Transferência de Resíduos (ETR), 
+
+ 
+ 
+acarretaria custos elevados de transporte para os aterros sanitários situados 
+nessas outras localidades. 
+A 
+utilização 
+dos 
+aterros 
+existentes, 
+portanto, 
+aumentaria 
+significativamente as despesas dos Municípios com disposição final 
+ambientalmente adequada dos resíduos sólidos. 
+Desse modo, com intuito de promover a competitividade e a eficiência 
+logística, o estudo considerou a implantação e operação de ETRs, possibilitando 
+o transporte racionalizado dos resíduos a qualquer uma das unidades existentes 
+no Estado da Bahia. 
+A solução encontrada para o problema foi a construção de diversos ativos 
+operacionais à exemplo da Estação de Transferência de Resíduos (ETR), 
+Ecopontos, Pontos de Entrega Voluntaria (PEVs), Unidade de Compostagem 
+(UCO), Unidade de Valorização dos Resíduos da Construção Civil e Demolição 
+(URCD), dentro outros investimentos com o intuito de gerar uma redução da 
+quantidade de resíduos sólidos a ser transportado ao aterro sanitário fruto do 
+projeto. 
+ ESPECIFICAÇÃO DOS SERVIÇOS DE MANEJO E GESTÃO DE 
+RESÍDUOS SÓLIDOS 
+Dentro do processo de implantação e operação do sistema integrado de 
+gestão de resíduos sólidos (SIGRS), as seguintes diretrizes devem ser 
+observadas pela CONCESSIONÁRIA: 
+o Deverá a concessionária atender às diretrizes nacionais para o 
+saneamento básico, estabelecidas por meio da Lei nº 11.445/2007; 
+o Deverá a concessionária atender às metas de curto, médio e longo 
+prazo apresentadas no presente documento, que foram estabelecidas 
+com base na Lei Federal nº 12.305/2010, que institui a Política 
+Nacional de Resíduos Sólidos; 
+o Deverá a concessionária atender à Lei Federal nº 14.026, de 15 de 
+julho de 2020; 
+o Deverá a concessionária atender ao Decreto Federal nº 10.936, de 12 
+
+ 
+ 
+de janeiro de 2022 que regulamenta a Lei nº 12.305, de 02 de agosto 
+de 2010, que institui a Política Nacional de Resíduos Sólidos. 
+ 
+Os serviços a serem prestados pela Concessionária são os seguintes: 
+ 
+a) 
+Pré-Implantação, 
+Projeto, 
+Licenciamento, 
+Implantação, 
+operação, 
+encerramento e pós encerramento da Central de Valorização dos Resíduos 
+(CVR), denominada Parque do Sol Velho Chico; 
+a.1) Projeto, Licenciamento, Implantação e operação de unidade de 
+compostagem dos resíduos orgânicos (UCO); 
+a.2) Projeto, licenciamento, pré-implantação, implantação, operação, 
+encerramento e pós encerramento da célula de aterramento de rejeitos. 
+a.3) 
+Implantação e operação dos serviços de gestão comercial e 
+atendimento aos usuários dos serviços de resíduos sólidos, ofertando os 
+serviços de leitura, cálculo, emissão e entrega de contas de consumo, 
+serviços de cobrança e cadastro dos usuários. 
+b) Implantação, operação e manutenção dos serviços de manejo de Resíduos: 
+ 
+b.1) Operação e manutenção de Estação de Transferência (Transbordo) 
+de Resíduos Sólidos; 
+b.2) 
+Serviço de coleta, transporte e destinação final de resíduos 
+orgânicos oriundos de feiras livres e mercados públicos com o uso de 
+equipamentos do tipo caminhão roll-on roll-off e contêineres estacionários 
+do tipo caixas compactadoras de no mínimo 17 m³ 
+b.3) 
+Equipe para coleta, programa e transporte de resíduos volumosos 
+e inservíveis, através da implantação de programa “cata bagulho”, “cata 
+treco” ou similar. 
+c) Projeto, Licenciamento, Elaboração e Execução do PRAD (Plano de 
+Recuperação de Áreas Degradadas); 
+d) Programa Socioambiental: 
+ 
+
+ 
+ 
+d.1) Educação Ambiental; 
+d.2) Programa de Apoio Comunitário aos catadores e as suas famílias na 
+conscientização das mudanças no sistema de gestão dos resíduos 
+sólidos, os benefícios e a importância da implementação do projeto em 
+questão; 
+d.3) Programa de Capacitação do Poder Público para os entes envolvidos 
+nos serviços a serem concedidos; 
+e) Coleta seletiva: 
+ 
+e.1) Implantação e operação de Ecopontos, contemplando a coleta e 
+transporte dos resíduos provenientes destes Ecopontos para as 
+associações e/ou cooperativas de reciclagem indicadas pelo município; 
+e.2) Implantação e operação de pontos de entrega voluntária (PEVs), 
+contemplando a coleta e transporte dos resíduos provenientes desta 
+coleta seletiva para as associações e/ou cooperativas de reciclagem 
+indicadas pelo município; 
+f) Coleta e Transporte de Resíduos Sólidos Domiciliares (RDO) na zona urbana, 
+rural e áreas de difícil acesso, em caso de adesão pelos Municípios, nos termos 
+e instrumento específico anexo ao Contrato; 
+f.1) Coleta e transporte manual e mecanizada de resíduos domiciliares em 
+zona urbana, zona rural e áreas de difícil acesso (RDO), com adoção de 
+equipamentos do tipo caminhões compactadores de 15 m³ com 
+monitoramento via GPS e videomonitoramento, tratores compactadores, 
+caminhões basculantes do tipo caçamba, quadriciclos com reboque, 
+ciclomotores (triciclo de carga) e disponibilização de contêineres 
+estacionários de 4,2 m³ e 1,2 m³; 
+g) Triagem, Transbordo (Transferência), Tratamento e Destinação Final 
+Ambientalmente Adequada de RDO; 
+h) Coleta, transporte, triagem, transbordo, tratamento e destinação final de 
+resíduos sólidos dos serviços de saúde (RSS), em caso de adesão dos 
+
+ 
+ 
+Municípios, com ação de tecnologia de tratamento térmico através de Autoclave 
+ou tratamento similar previsto em norma para Resíduos do Serviço de Saúde 
+(RSS); 
+i) Coleta e transporte de resíduos sólidos da Construção Civil e Demolição (RCD) 
+gerados pelos estabelecimentos e atividades públicas, de modo manual e 
+mecanizado, com o uso de comboio com caminhões basculantes e pás 
+carregadeiras, em caso de adesão dos Municípios; 
+j) Recebimento, triagem, tratamento, valorização e destinação final de resíduos 
+da Construção Civil e Demolição (RCD), com operação de tecnologias de 
+valorização de resíduos, a exemplo de Unidade de Reciclagem dos Resíduos da 
+Construção Civil (URCD); 
+k) Estudo, projeto, licenciamento, implantação e operação da Unidade de 
+Geração de Energia; 
+m) Serviço de coleta, transporte, triagem, transbordo, tratamento e destinação 
+final de resíduos oriundos dos serviços de limpeza pública urbana (RPU), em 
+caso de adesão dos Municípios. 
+a. RESÍDUOS DOMICILIARES 
+ 
+Para dimensionar os resíduos sólidos domiciliares gerados nos Municípios 
+integrantes do CDS VELHO CHICO que aderiram ao projeto, foram utilizados os 
+dados disponibilizados pelo IBGE; o nível de atendimento da população, 
+considerando a universalização dos serviços ao longo do período do contrato; o 
+crescimento populacional; e o coeficiente de geração média per capita de 
+resíduos domiciliares. 
+ 
+Estima-se que em 2025 serão coletadas, nos municípios integrantes do 
+projeto, aproximadamente 29.916 toneladas de resíduos. 
+ 
+Com base no último censo, a população total das localidades integrantes 
+dos municípios do CDS VELHO CHICO que aderiram ao projeto teve projeção 
+estimada de 98.749 habitantes (IBGE 2025). Essa população dos Municípios 
+
+ 
+ 
+gera uma média per capita de 0,83 kg/hab/dia de resíduos, que são mais 
+destinados no aterro sanitário, localizado no seu município. 
+ 
+O valor médio calculado está compatível com a média regional do 
+PANORAMA ABRELPE e com a média de 0,83 kg/hab/dia estabelecida no 
+termo de referência do MDR (2010), para municípios entre 50 e 100 mil 
+habitantes, com algumas variações entre os Municípios. 
+ 
+Dentre as características que definem a média per capita real de geração 
+de resíduos na região, destacamos o elevado índice de população residente na 
+zona urbana, que possui a mesma frequência de coleta superior às das áreas 
+rurais. 
+ 
+Nas zonas rurais dos Municípios, observa-se que a frequência de coleta 
+dos resíduos varia entre semanal, quinzenal e mensal, ao passo que há 
+localidades que não são contempladas com a coleta. Nos casos em que não 
+existe coleta, os resíduos orgânicos que não são aproveitados para utilização 
+como adubo ou para alimentação dos animais são levados para queima. 
+ 
+De acordo com os estudos realizados, levando em consideração o índice 
+per capita, para que os resíduos gerados sejam reduzidos, é necessária a 
+implantação de programas socioambientais que conscientizem e sensibilizem a 
+população sobre a importância da redução dos resíduos. 
+ 
+ CARACTERIZAÇÃO DOS RDO GERADOS 
+Para análise do potencial de aproveitamento de RDO no Brasil, a análise 
+gravimétrica realizada em 2020 pela ABREMA (anteriormente ABRELPE) 
+através do Panorama dos Resíduos Sólidos do Brasil, aponta que, dos 100% de 
+resíduos gerados, 45,3% são de materiais orgânicos, 14,1% são materiais 
+rejeitos, 16,8% são materiais plásticos, 10,40% são materiais papel e papelão, 
+5,60% são materiais de embalagens multicamadas, 2,7% são materiais de vidro, 
+2,3% são materiais de metais, 1,4% são materiais têxteis, couros e borrachas e 
+
+ 
+ 
+1,4% são outros materiais. Com relação ao potencial de aproveitamento dos 
+resíduos RDO nos Municípios integrantes do CDS VELHO CHICO que aderiram 
+ao projeto, a análise gravimétrica demostra que: 
+ 
+ 
+Figura 2 –Composição gravimétrica dos resíduos sólidos urbanos coletados seletivamente 
+Fonte: CEMPRE Review (2019), com dados de 2017 
+ 
+ 
+ 
+Verifica-se que parcela significativa dos resíduos coletados seletivamente 
+é composta por papel, papelão e plástico, que representam 35% do total. 
+Observa-se, ainda, que os rejeitos correspondem a cerca de 26% do total, o que 
+denota a necessidade de se aprimorar a separação dos resíduos na fonte 
+geradora, uma vez que isso possibilita otimizar a coleta, bem como transportar 
+um maior volume de materiais recicláveis e um volume menor de rejeitos, 
+facilitando a triagem dos materiais e reduzindo os custos do sistema (BESEN et 
+al., 2017). 
+ MATÉRIA ORGÂNICA 
+o Contempla sobras e perdas de alimentos, resíduos verdes e madeiras. 
+ 
+ 
+ TÊXTEIS, COUROS E BORRACHAS 
+o Inclui retalhos no geral, peças de roupas, calçados, mochila, tênis, 
+
+ 
+ 
+pedaços de couro e borracha. 
+ 
+ 
+ EMBALAGENS MULTICAMADAS 
+o Consistem em embalagens compostas por mais de um tipo de material. 
+ 
+ REJEITOS 
+o Incluem resíduos sanitários, outros materiais que não foram passíveis 
+de identificação, bem como recicláveis contaminados que não 
+permitiram a separação. 
+ 
+ OUTROS 
+o Contempla os resíduos identificados e que não deveriam estar no fluxo 
+de RSU, eletroeletrônicos, pilhas e baterias, resíduos perigosos, RCD, 
+pneus, óleos e graxas, embalagens de agrotóxico e outros resíduos 
+perigosos. 
+ 
+ 
+b. RESÍDUOS DA CONSTRUÇÃO CIVIL E DEMOLIÇÃO 
+ 
+Para dimensionar os resíduos da construção civil e demolição gerados 
+nos Municípios do CDS VELHO CHICO que aderiram ao projeto, foram utilizados 
+os dados disponibilizados pelo IBGE; o nível de atendimento da população, 
+considerando a universalização dos serviços ao longo do período do contrato; o 
+crescimento populacional; e o coeficiente de geração média per capita de 
+resíduos da construção civil e demolição (RCD). 
+ 
+Estima-se que em 2024 foram coletadas, nos municípios do CDS VELHO 
+CHICO que aderiram ao projeto, aproximadamente 15.569 toneladas de RCD. 
+ 
+c. RESÍDUOS DOS SERVIÇOS DE SAÚDE (RSS) 
+ 
+Para dimensionar os resíduos dos serviços de saúde gerados nos 
+municípios do CDS VELHO CHICO que aderiram ao projeto, foram utilizados os 
+
+ 
+dados disponibilizados pelo IBGE; o nível de atendimento da população, 
+considerando a universalização dos serviços ao longo do período do contrato; o 
+crescimento populacional; e o coeficiente de geração média per capita de 
+resíduos dos serviços de saúde (RSS). 
+ 
+Estima-se que em 2024 foram coletadas, nos municípios do CDS VELHO 
+CHICO que aderiram ao projeto, aproximadamente 8.641 quilogramas de RSS. 
+d. RESÍDUOS PÚBLICOS URBANOS (RPU) 
+ 
+Para dimensionar os resíduos públicos urbanos gerados nos Municípios 
+do CDS VELHO CHICO que aderiram ao projeto, foram utilizados os dados 
+disponibilizados pelo IBGE; o nível de atendimento da população, considerando 
+a universalização dos serviços ao longo do período do contrato; o crescimento 
+populacional; e o coeficiente de geração média per capita de resíduos públicos 
+urbanos (RPU). 
+ 
+Estima-se que em 2024 foram coletadas, nos municípios do CDS VELHO 
+CHICO que aderiram ao projeto, aproximadamente 7.480 toneladas de RPU. 
+
+ 
+5. PROJEÇÃO DE RECEITAS 
+Tabela 3 – Projeção da Receita Ano 1 ao Ano 10 
+ 
+Tabela 4 – Projeção da Receita Ano 11 ao Ano 20 
+ 
+
+

@@ -1,0 +1,876 @@
+ANEXO XXI – JUSTIFICATIVAS 
+ 
+JUSTIFICATIVA DA ESCOLHA DA SOLUÇÃO ADOTADA 
+A presente licitação foi desenvolvida para atender às prementes necessidades 
+dos Municípios consorciados ao CDS Velho Chico, em estrito cumprimento às diretrizes 
+do Novo Marco Legal do Saneamento Básico (Lei Federal nº 11.445/2007, alterada pela 
+Lei Federal nº 14.026/2020) e da Política Nacional de Resíduos Sólidos (Lei Federal nº 
+12.305/2010), que impõem o encerramento imediato das áreas de disposição irregular 
+de rejeitos.  
+O projeto foi estruturado para garantir, desde o início, uma base mínima 
+obrigatória capaz de atacar o déficit público mais grave e urgente da região: a 
+inexistência de destinação final ambientalmente adequada para os resíduos sólidos 
+domiciliares.  
+Conforme verificado nos estudos desenvolvidos na fase pré-licitatória, os 
+Municípios integrantes do projeto licitado não dispõem, atualmente, de solução própria 
+de destinação final ambientalmente adequada, o que impõe, sob a ótica da PNRS e das 
+metas de encerramento de lixões, a priorização de uma solução integrada, regionalizada 
+e economicamente viável.  
+O escopo obrigatório da concessão compreende a triagem, o transbordo, o 
+tratamento e a destinação final ambientalmente adequada dos Resíduos Domiciliares 
+(RDO) dos cinco municípios abrangidos pelo projeto (Ibotirama, Paratinga, Muquém do 
+São Francisco, Morpará e Oliveira dos Brejinhos).  
+Para esta parcela nuclear do contrato, a remuneração ocorrerá por meio da Tarifa 
+do Usuário Final de Destinação (TUF-D). É esse o núcleo mínimo do contrato licitado, 
+plenamente definido, com abrangência territorial determinada (os Municípios aderentes) 
+e com escopo técnico descrito em detalhe no Caderno de Encargos e demais anexos.  
+Em contrapartida, os serviços de coleta e transporte de RDO, bem como o 
+manejo de Resíduos Públicos Urbanos (RPU), Resíduos de Serviços de Saúde (RSS) 
+e Resíduos da Construção Civil (RCD), foram modelados como serviços por adesão 
+opcional. Caso os municípios decidam aderir, os serviços serão prestados pela futura 
+Concessionária observando os termos do contrato de concessão, sendo a remuneração 
+realizada mediante Tarifa do Usuário Final de Coleta (TUF-C) e Tarifa do Ente Público 
+(TEP), respectivamente.  
+
+A opção pela facultatividade de determinados serviços decorre de diagnóstico 
+técnico que identificou uma realidade heterogênea nos Municípios consorciados.  
+Enquanto o déficit de destinação final adequada de RDO é comum a todos – e, 
+portanto, exige solução imediata obrigatória e integrada, os serviços de coleta e 
+transporte de RDO e o manejo das outras espécies de resíduos apresentam 
+particularidades locais relevantes, com arranjos distintos, soluções preexistentes e 
+diferentes graus de maturidade e eficiência operacional.   
+Por essa razão, a modelagem buscou assegurar o objetivo público mais urgente, 
+viabilizar o encerramento dos lixões e implantar solução ambientalmente adequada para 
+o manejo do RDO, sem impor ruptura automática e uniforme na coleta e no manejo de 
+outros tipos de resíduos municipais, permitindo que cada Município, conforme sua 
+capacidade, estratégia e conveniência administrativa, opte por manter sua estrutura ou 
+aderir aos demais serviços pela futura concessionária, nos termos e condições previstos 
+em termo de adesão próprio (Anexo IV da minuta do contrato de concessão), vinculado 
+ao contrato de concessão.  
+A opção resulta da comparação motivada com as alternativas, todas menos 
+aderentes ao interesse público: execução isolada (não gera escala); contratação de 
+curto prazo (não amortiza CAPEX); concessão integral obrigatória (tensiona a 
+autonomia municipal); e concessão comum sem contraprestação (tarifa excessiva).  
+Os estudos de viabilidade econômico-financeira (Anexo III do Edital) e de Value 
+for money (Anexo XVI do Edital), principalmente, demonstram que essa é a solução 
+mais vantajosa diante das demais existentes. 
+ 
+JUSTIFICATIVA PARA A MODALIDADE ADOTADA 
+O art. 10 da Lei 11.079/04 dispõe que a contratação de parceria público-privada 
+será precedida de licitação na modalidade concorrência ou diálogo competitivo.  
+A modalidade concorrência se adequa melhor ao caso em questão, uma vez que 
+o objeto contratado não se amolda, em tese, a nenhuma das hipóteses previstas no art. 
+32 da Lei 14.133/21. 
+JUSTIFICATIVA PARA O CRITÉRIO DE JULGAMENTO ADOTADO 
+É importante ressaltar que a área técnica do Poder Concedente entende que, 
+em razão da natureza e da complexidade do objeto licitado – que envolve a implantação 
+de uma solução integrada, intermunicipal e orientada a desempenho, com impactos 
+
+ambientais, sociais e econômicos de longo prazo, a técnica é um aspecto de especial 
+importância para o sucesso da futura contratação. 
+Por essa razão, originariamente, o critério de julgamento da presente licitação 
+era o critério de técnica e preço, com ponderação de 60% técnica e 40% preço. 
+Entendia-se que o perfil da contratação autorizava a utilização do referido 
+critério: o art. 15 da Lei 8.987/1995 admite o julgamento pela melhor técnica ou pela 
+combinação de técnica e preço; o art. 12 da Lei 11.079/2004 incorpora e amplia esses 
+critérios às concessões patrocinada e administrativa; e, subsidiariamente, os arts. 33, 
+36 e 37 da Lei 14.133/2021 disciplinam o julgamento por técnica e preço quando a 
+qualidade das propostas for relevante aos fins pretendidos; a ponderação adotada 
+situava-se dentro do teto legal de 70% (art. 37, §2º, da Lei 14.133/2021, e art. 13, I, da 
+IN Seges/MGI nº 2/2023), preservando a disputa econômica efetiva. 
+Ademais, entendia-se que o critério exclusivamente econômico poderia 
+privilegiar propostas com preços agressivos, porém sustentadas em soluções 
+tecnicamente frágeis, subdimensionadas ou com visão de curto prazo, o que aumentaria 
+o risco de judicialização, reequilíbrios e deterioração da qualidade dos serviços. 
+Porém, em decisão prolatada no Processo TCM/BA n° 03450e26, baseada em 
+conclusão da Diretoria de Assistência aos Municípios em relatório técnico sobre o 
+certame em questão, a Corte de Contas estadual entendeu que o critério “técnica e 
+preço” seria eventualmente não recomendado para o caso em questão. 
+Nesse sentido, o Tribunal autorizou a reestruturação do Edital, com a 
+substituição do critério de “técnico e preço” pelo critério de “menor preço”, condicionada 
+à apresentação, por todos os licitantes, juntamente com a proposta de preço, de plano 
+de trabalho, metodologia, diagnóstico, cronograma de execução dos serviços e 
+investimentos e mapas/roteiros de validação das premissas operacionais, como 
+instrumentos de aferição da aceitabilidade e da exequibilidade técnica e econômica das 
+propostas, na forma do art. 59 da Lei 14.133/2021. 
+Por essas razões, adotou-se, no caso em questão, o critério de julgamento de 
+“menor preço”, através do menor valor da tarifa do serviço público a ser prestado, 
+conforme o disposto no artigo 15, inciso I, da Lei Federal n° 8.987/95, e no artigo 12, II, 
+da Lei 11.079/2004, exigindo-se junto à proposta de preço a apresentação de plano de 
+trabalho e metodologia, que permita a verificação da exequibilidade técnica e econômica 
+das propostas, bem como a adequação destas com os parâmetros do Edital e seus 
+Anexos. 
+
+ 
+JUSTIFICATIVA PARA INVERSÃO DE FASES DE JULGAMENTO E HABILITAÇÃO 
+Conforme previsto no Edital, o procedimento da licitação observará a 
+antecipação da fase de habilitação, que precederá as fases de apresentação de 
+propostas e lances e de julgamento, conforme autorizado pelo artigo 17, §1º, da Lei 
+Federal nº 14.133/2021. 
+A escolha pela antecipação da fase de habilitação mostra-se adequada e 
+conveniente em razão das características do objeto licitado, que compreende a 
+exploração e a prestação integrada dos serviços de coleta, transporte, transbordo, 
+triagem, tratamento e destinação final ambientalmente adequada dos resíduos sólidos 
+domiciliares (RDO), dos resíduos públicos urbanos (RPU), dos resíduos da construção 
+civil e demolição (RCD), dos resíduos dos serviços de saúde (RSS), da coleta seletiva 
+(CS), bem como das atividades correlatas, no âmbito do CONSÓRCIO DE 
+DESENVOLVIMENTO SUSTENTÁVEL DO VELHO CHICO (CDS VELHO CHICO).  
+Trata-se de empreendimento de elevada complexidade técnica, operacional e 
+econômico-financeira, que demanda verificação prévia da capacidade jurídica, fiscal, 
+técnica e econômico-financeira dos licitantes antes da realização da etapa competitiva 
+de preços. A antecipação da fase de habilitação permite que apenas licitantes 
+efetivamente aptos a executar o objeto participem da disputa de preços e lances, 
+conferindo maior segurança jurídica e maior confiabilidade ao certame. 
+Além disso, a prévia análise da documentação de habilitação contribui para a 
+racionalização do procedimento licitatório, evitando que a Administração conduza a 
+etapa competitiva com participantes que, posteriormente, poderiam ser inabilitados por 
+não atenderem aos requisitos mínimos de qualificação. Em licitações como esta, 
+marcadas por elevada complexidade técnica, expressivos investimentos e longa 
+duração, essa sistemática favorece uma condução mais eficiente do certame, reduzindo 
+riscos de retrabalho, de questionamentos e de atrasos na contratação. 
+Dessa forma, a antecipação da fase de habilitação revela-se plenamente 
+justificada, legalmente amparada e compatível com a natureza e a relevância do objeto 
+licitado, assegurando maior eficiência e segurança jurídica.  
+JUSTIFICATIVA PARA REALIZAÇÃO DE SESSÃO PRESENCIAL NA SEDE DA B3 
+Conforme previsto no Edital, a sessão pública para análise dos documentos e 
+julgamento das propostas será realizada de forma presencial na sede da B3, localizada 
+
+na Rua Quinze de Novembro, 275 - Centro Histórico, no Município de São Paulo, Estado 
+de São Paulo.  
+A realização da SESSÃO PÚBLICA de maneira presencial na sede da B3 
+justifica-se por diversas razões, especialmente: a) a adequação às melhores práticas de 
+mercado; b) o aumento da publicidade (e consequentemente da competitividade), da 
+segurança e da transparência; e c) o reconhecimento, por parte dos órgãos de controle, 
+dos benefícios da realização do certame no “ambiente B3”.  
+Há mais de duas décadas a B3 vem prestando serviços de assessoria na 
+condução de licitações para contratação de obras, serviços, entre outros objetos, tendo 
+como práxis a divulgação extraoficial dos certames em seu sítio eletrônico oficial 
+(promovendo-os aos players que direta ou indiretamente participam de seu mercado), o 
+recebimento da documentação das licitantes e a realização das sessões públicas 
+sempre de maneira presencial.  
+A referida companhia conta com avançados recursos tecnológicos que 
+contribuem para a prestação de serviços eficientes e seguros a toda cadeia impactada 
+pelos certames, garantindo um ambiente de leilões hígido, idôneo e confiável para os 
+investidores privados em processos licitatórios. 
+Os documentos dos licitantes são armazenados nos cofres da B3, lacrados, e as 
+sessões gravadas e transmitidas em tempo real para todo o Brasil, no Youtube 
+(https://www.youtube.com/@bolsadobrasil), justamente para se proporcionar maior 
+segurança, garantir a inviabilidade das propostas e aumentar a publicidade do certame, 
+como demandam os projetos de elevada monta e relevância, tais quais o projeto em 
+questão.  
+Não por outra razão, diversos leilões especiais, públicos e privado, foram e 
+seguem sendo realizados na sede da B3, inclusive no setor específico das concessões 
+de resíduos sólidos urbanos, como nos casos do Município de Franca/SP, do Consórcio 
+Intermunicipal de Gestão Integrada de Resíduos Sólidos – COMARES CARIRI/CE, do 
+Consórcio Intermunicipal de Desenvolvimento Regional – CONVALE/MG, Consórcio 
+Intermunicipal de Resíduos Sólidos do Oeste Paulista – CIRSOP/SP, Consórcio Público 
+Intermunicipal de Desenvolvimento Sustentável do Alto Paranaíba – CISPAR/MG, 
+Consórcio Intermunicipal Multifinalitário do Centro Oeste Mineiro – CIAS/MG e do 
+Consórcio Intermunicipal do Mosaico das Apas do Baixo Sul – CIAPRA/BA.  
+Sendo assim, a opção do CDS VELHO CHICO pela contratação da B3 (Brasil, 
+Bolsa, Balcão) para a realização do leilão de concessão dos serviços públicos de 
+
+manejo de resíduos sólidos justifica-se pela sua reconhecida expertise, capilaridade 
+nacional e comprovada capacidade de atração de investimentos privados em projetos 
+de infraestrutura.  
+No ano de 2025, a B3 alcançou recorde absoluto na realização de leilões, 
+totalizando 75 (setenta e cinco) leiloes, número aproximadamente 20,00% (vinte por 
+cento) superior ao registrado em 2024, até então o maior da série histórica. Esses leilões 
+viabilizaram mais de R$ 240 bilhões em investimentos no segmento de infraestrutura 
+em especial sob a forma de concessões e parcerias públicos privadas, com impactos 
+diretos em 22 (vinte e dois) estados da Federação e geração estimada de 1,6 milhão de 
+empregos.  
+Tais resultados evidenciam a superioridade da plataforma da B3 em relação aos 
+portais tradicionais de compras públicas, especialmente no que se refere à ampla 
+divulgação nacional e internacional, à segurança jurídica e operacional, à transparência 
+dos procedimentos e à efetiva ampliação da competitividade entre os participantes. 
+Nesse contexto, a utilização da infraestrutura especializada da B3 mostra-se mais 
+adequada à complexidade e à relevância econômica e social do projeto de concessão, 
+assegurando maior eficiência, atratividade e sucesso do certame.  
+ 
+JUSTIFICATIVA PARA A PREVISÃO DE RESTRIÇÃO À PARTICIPAÇÃO DE 
+EMPRESAS REUNIDAS EM CONSÓRCIO 
+O art. 15 da Lei nº 14.133/2021 autoriza a participação de empresas reunidas 
+em consórcio como regra, mas permite não só a vedação a essa possibilidade, como 
+também o estabelecimento de limite máximo para o número de empresas consorciadas 
+(conforme §4°). 
+O item 6.3 admite a participação de empresas reunidas em consórcios, mas 
+prevê, no subitem “g”, que o consórcio poderá ser integrado por, no máximo, 3 (três) 
+consorciados, observadas as seguintes participações mínimas: (i) 30,00% (trinta por 
+cento), para fundos de investimento e demais veículos financeiros; e (ii) 35,00% (trinta 
+e cinco por cento), para empresas e demais consorciados. 
+A restrição prevista no Edital é justificada pelas seguintes razões: 
+(i) Expressa autorização legal. Diferentemente do regime da Lei nº 8.666/1993, sob o 
+qual a limitação do número de consorciadas era admitida apenas excepcionalmente, o 
+art. 15, § 4º, da Lei nº 14.133/2021 positivou a possibilidade de limitação do número de 
+
+empresas consorciadas, desde que haja justificativa técnica aprovada pela autoridade 
+competente. A opção editalícia, portanto, não inova nem restringe além do que a lei 
+autoriza: exerce competência discricionária expressamente conferida pelo legislador, 
+acompanhada da motivação exigida pela jurisprudência do Tribunal de Contas da União 
+(TCU), "deve ser justificada a limitação excepcional quanto ao número de empresas a 
+integrarem consórcios, quando seja admitida a participação destes em processo 
+licitatório" (Acórdão 718/2011-Plenário, rel. Min. Valmir Campelo), orientação reiterada 
+nos Acórdãos 1305/2013-Plenário e 3654/2012-Segunda Câmara, que reconhecem a 
+natureza discricionária da decisão, condicionada à devida motivação no processo 
+administrativo. 
+(ii) Governança e exequibilidade contratual. Trata-se de contrato de longa duração, 
+intensivo em capital e em obrigações de desempenho, a ser executado por sociedade 
+de propósito específico. A experiência em concessões de infraestrutura demonstra que 
+consórcios numerosos elevam exponencialmente os custos de coordenação, 
+multiplicam instâncias decisórias, favorecem impasses societários na futura SPE e 
+fragilizam a interlocução com o Poder Concedente, o verificador independente e os 
+financiadores. A limitação a 3 (três) consorciados preserva estrutura decisória funcional, 
+compatível com a celeridade exigida na fase de transição operacional e ao longo de 
+toda a execução. 
+(iii) Efetividade da responsabilidade solidária. A solidariedade dos consorciados 
+pelos atos praticados na licitação e na execução (art. 15, inciso V, da Lei nº 14.133/2021) 
+é garantia instituída em favor da Administração. Consórcios excessivamente 
+pulverizados esvaziam, na prática, essa garantia: diluem responsabilidades, dificultam 
+a identificação de centros de imputação e oneram a fiscalização contratual. O número 
+reduzido de membros mantém a solidariedade operável e a accountability de cada 
+consorciado efetiva. 
+(iv) Vedação à agregação meramente instrumental de qualificação. A Lei nº 
+14.133/2021 admite, para consórcios, o somatório dos quantitativos de cada 
+consorciado para fins de habilitação técnica e o cálculo dos indicadores econômico-
+financeiros a partir do somatório dos valores das contas contábeis de cada consorciado. 
+Sem limite de membros e sem participações mínimas, criar-se-ia incentivo à formação 
+de consórcios integrados por sociedades de participação simbólica, reunidas com a 
+finalidade exclusiva de emprestar atestados ou demonstrações contábeis, sem lastro 
+real de comprometimento com a execução. As participações mínimas de 30,00% (trinta 
+por cento) e 35,00% (trinta e cinco por cento) asseguram que todo aquele que contribui 
+
+para a habilitação do proponente detenha, correlatamente, comprometimento 
+econômico relevante no empreendimento, alinhamento entre quem se qualifica e quem 
+efetivamente responde pela concessão.  
+(v) Preservação da competitividade do certame. O consórcio cumpre função pró-
+competitiva quando viabiliza a participação de agentes que, isoladamente, não 
+reuniriam condições de disputa. Essa função, contudo, inverte-se quando a agregação 
+ilimitada permite que potenciais competidores independentes se aglutinem em um único 
+proponente, reduzindo o número de propostas efetivas. O limite de 3 (três) membros 
+equilibra as duas dimensões: mantém aberta a via associativa e, simultaneamente, 
+protege a pluralidade de proponentes, finalidade última do próprio instituto. 
+(vi) Racionalidade das participações mínimas diferenciadas. O piso de 30,00% 
+(trinta por cento) para fundos de investimento e demais veículos financeiros reconhece 
+o papel desses agentes como provedores de capital, cuja presença amplia a competição 
+e a capacidade de funding dos proponentes, exigindo, porém, participação 
+suficientemente relevante para vincular compromisso efetivo de aportes e permanência, 
+afastando posições meramente figurativas. O piso de 35% para empresas e demais 
+consorciados assegura que os agentes incumbidos da dimensão técnico-operacional 
+detenham peso societário compatível com as responsabilidades que assumem. Ambos 
+os pisos projetam, desde a licitação, a estrutura de governança da futura 
+concessionária, com sócios relevantes e identificáveis — condição igualmente 
+valorizada por agentes financiadores na análise de bancabilidade do projeto (exigência 
+usual de sponsors com participação material). 
+(vii) Estabilidade societária e continuidade do serviço. A composição enxuta e com 
+participações mínimas relevantes facilita o controle público sobre alterações societárias 
+da SPE, a exigência de anuência prévia para transferências de participação e a 
+recomposição do quadro em caso de inadimplemento de sócio, tudo em favor da 
+continuidade do serviço público, princípio reitor das concessões. 
+ 
+Registre-se, por fim, que a previsão editalícia não veda a participação de 
+consórcios, mantida como regra, na linha do caput do art. 15, limitando-se a discipliná-
+la de forma proporcional: a medida é adequada (guarda pertinência direta com a 
+exequibilidade e a governança do contrato), necessária (não há meio menos restritivo 
+capaz de neutralizar a agregação artificial de qualificação e a pulverização de 
+responsabilidades) e proporcional em sentido estrito (o ônus imposto aos interessados 
+é reduzido, ao passo que os ganhos de segurança contratual e de efetividade da disputa 
+
+são substanciais). Presente, assim, a justificativa técnica exigida pelo art. 15, § 4º, da 
+Lei nº 14.133/2021, aprovada pela autoridade competente nos autos do processo 
+administrativo. 
+JUSTIFICATIVA PARA VEDAÇÃO DA SUBCONCESSÃO 
+O art. 26 da Lei 8.987/95 prevê que: 
+Art. 26. É admitida a subconcessão, nos termos previstos no contrato de 
+concessão, desde que expressamente autorizada pelo poder concedente. 
+§1º A outorga de subconcessão será sempre precedida de concorrência. 
+§2º O subconcessionário se sub-rogará todos os direitos e obrigações da 
+subconcedente dentro dos limites da subconcessão. 
+A subconcessão, portanto, é uma possibilidade, que depende, para a sua 
+concretização, de: (i) previsão contratual; (ii) autorização expressa do poder 
+concedente; (iii) concorrência prévia. 
+O item 32.1 do Edital prevê que “Incumbe unicamente à CONCESSIONÁRIA a 
+execução dos serviços concedidos, conforme compromisso assumido quando da 
+assinatura deste CONTRATO, sendo vedada a subconcessão.” 
+Portanto, na licitação em questão, não se admite a subconcessão. No caso em 
+questão, a vedação existe pelas seguintes razões: 
+ 
+(i) 
+Legitimidade da opção regulatória. O art. 26 da Lei nº 8.987/1995 não 
+institui direito subjetivo à subconcessão: admite-a apenas "nos termos 
+previstos no contrato de concessão" e mediante autorização expressa do 
+poder concedente. A subconcessão é, portanto, faculdade de modelagem e 
+não elemento obrigatório do regime concessório. Ao vedá-la expressamente, 
+o Edital não restringe nada que a lei assegure; exerce, de forma motivada, a 
+competência discricionária de conformação do contrato que o próprio art. 26 
+reserva ao poder concedente. 
+ 
+(ii) 
+Caráter intuitu personae da delegação. A licitação seleciona não apenas 
+a melhor proposta, mas o parceiro delegatário, cujos atributos de capacidade 
+técnica, econômico-financeira, regularidade e experiência são aferidos na 
+habilitação e projetados para toda a vigência contratual. É essa mesma 
+lógica que leva o art. 27 da Lei nº 8.987/1995 a condicionar a transferência 
+
+da concessão ou do controle societário à anuência prévia, sob pena de 
+caducidade. A subconcessão, ao operar a sub-rogação de direitos e 
+obrigações em favor de terceiro (art. 26, § 2º), fragmentaria justamente o 
+vínculo de confiança e de responsabilidade que o certame constitui. 
+ 
+(iii) 
+Unicidade da matriz de riscos e do centro de imputação. A modelagem 
+econômico-financeira, o sistema de remuneração, os indicadores de 
+desempenho, o mecanismo de reajuste e revisão e o sistema de garantias 
+foram estruturados para um único centro de responsabilidade, a 
+Concessionária. A subconcessão criaria sub-rogações parciais, zonas 
+cinzentas de interface entre subsistemas operacionais e controvérsias de 
+imputação em caso de falha sistêmica, fragilizando a posição do poder 
+concedente, do regulador e dos usuários. A alocação objetiva de riscos, pilar 
+do equilíbrio contratual, pressupõe saber, sem ambiguidade, quem responde 
+pelo quê. 
+ 
+(iv) 
+Interdependência funcional do objeto. As atividades concedidas integram 
+cadeia tecnicamente interdependente, cuja eficiência decorre precisamente 
+da operação integrada, com ganhos de escala e de escopo capturados na 
+própria proposta econômica e revertidos à modicidade tarifária. O fatiamento 
+do objeto por subconcessões comprometeria a lógica sistêmica da operação, 
+a rastreabilidade dos fluxos, a consolidação de indicadores e a coerência do 
+plano de investimentos. 
+ 
+(v) 
+Efetividade da regulação e da fiscalização. A relação contratual foi 
+desenhada como bilateral: um concedente, uma concessionária. A 
+multiplicação de subconcessionários oneraria a fiscalização, pulverizaria a 
+aferição de desempenho, dificultaria a aplicação de sanções e a execução 
+de garantias, e multiplicaria litígios de fronteira entre operadores, tudo em 
+desfavor da continuidade e da qualidade do serviço essencial. 
+ 
+(vi) 
+Bancabilidade do projeto. Os instrumentos usuais de financiamento de 
+concessões, cessão fiduciária de recebíveis, direitos de intervenção dos 
+financiadores (step-in), pacotes de garantias, pressupõem a unicidade da 
+concessionária e de seus recebíveis. A subconcessão fragmentaria fluxos e 
+garantias, elevando o custo de capital do projeto em prejuízo, novamente, da 
+modicidade tarifária. 
+ 
+
+(vii) 
+Prevenção à especulação da outorga. A vedação impede que o vencedor 
+do certame se comporte como mero intermediário da delegação, capturando 
+valor pela "revenda" parcial da concessão sem executá-la, o que distorceria 
+a competição original: os licitantes disputam o contrato para operá-lo, e é 
+sobre essa premissa que formulam suas propostas. 
+ 
+(viii) 
+Preservação da flexibilidade operacional legítima. A vedação à 
+subconcessão não se confunde com vedação à subcontratação: permanece 
+íntegra a faculdade de a Concessionária contratar com terceiros o 
+desenvolvimento de atividades inerentes, acessórias ou complementares ao 
+serviço, nos termos do art. 25, §§ 1º a 3º, da Lei nº 8.987/1995, hipótese em 
+que os contratos reger-se-ão pelo direito privado e a Concessionária 
+permanecerá integral e diretamente responsável perante o poder concedente 
+e os usuários (art. 25, caput). Não há, portanto, qualquer restrição indevida 
+à execução contratual nem à participação de empresas de menor porte na 
+cadeia de suprimento: o que se veda é unicamente a transferência parcial da 
+posição contratual de concessionária. 
+ 
+Registre-se, por fim, que a vedação em nada restringe a competitividade do 
+certame, não interfere em quem pode licitar, nem em como as propostas são 
+formuladas, ao passo que assegura ganhos substanciais de segurança jurídica, 
+exequibilidade e accountability na execução. Trata-se de medida adequada (guarda 
+pertinência direta com a integridade do objeto e da matriz de responsabilidades), 
+necessária (não há meio menos gravoso de impedir a fragmentação do vínculo 
+concessório, já que a subcontratação permanece admitida) e proporcional em sentido 
+estrito, encontrando pleno amparo no art. 26 da Lei nº 8.987/1995 e na motivação 
+constante destes autos. 
+ 
+JUSTIFICATIVA DA EXIGÊNCIA DE GARANTIA DA PROPOSTA 
+O art. 58 da Lei 14.133/2021 prevê que: 
+“Art. 58. Poderá ser exigida, no momento da apresentação da proposta, a 
+comprovação do recolhimento de quantia a título de garantia de proposta, como 
+requisito de pré-habilitação. 
+
+§ 1º A garantia de proposta não poderá ser superior a 1% (um por cento) do valor 
+estimado para a contratação. 
+§ 2º A garantia de proposta será devolvida aos licitantes no prazo de 10 (dez) 
+dias úteis, contado da assinatura do contrato ou da data em que for declarada 
+fracassada a licitação. 
+§ 3º Implicará execução do valor integral da garantia de proposta a recusa em 
+assinar o contrato ou a não apresentação dos documentos para a contratação. 
+§ 4º A garantia de proposta poderá ser prestada nas modalidades de que trata 
+o § 1º do art. 96 desta Lei.” 
+O item 14 e subitens do Edital exigem a apresentação de garantia da proposta 
+em valor equivalente a 1% (um por cento) do valor estimado do contrato, sob pena de 
+desclassificação.  
+ 
+A exigência de garantia da proposta no certame em questão se dá pelas 
+seguintes razões: 
+(i) 
+Autorização legal expressa e observância estrita dos limites. A exigência 
+encontra fundamento direto no art. 58 da Lei nº 14.133/2021, que a admite 
+como requisito de pré-habilitação, e o Edital a fixa exatamente no teto legal 
+de 1,00% (um por cento) do valor estimado da contratação (§ 1º), admitidas 
+as modalidades plurais do § 1º do art. 96, caução em dinheiro ou títulos da 
+dívida pública, seguro-garantia e fiança bancária. Não há, portanto, inovação 
+restritiva: há exercício motivado de faculdade legal, nos exatos contornos 
+que o legislador desenhou. 
+ 
+(ii) 
+Garantia de seriedade e firmeza das propostas. Trata-se de delegação de 
+longo prazo, cuja disputa pressupõe estudos técnicos, jurídicos e econômico-
+financeiros aprofundados por parte dos licitantes. A garantia de proposta 
+funciona como sinalização objetiva de comprometimento: apenas 
+proponentes que efetivamente estruturaram sua participação e pretendem 
+honrá-la, mobilizam o instrumento. Filtra-se, assim, a participação 
+aventureira ou meramente especulativa, sem qualquer juízo subjetivo da 
+Administração. 
+ 
+
+(iii) 
+Proteção contra o comportamento oportunista pós-certame. O § 3º do 
+art. 58 vincula a execução integral da garantia à recusa em assinar o contrato 
+ou à não apresentação dos documentos para a contratação. Sem esse 
+mecanismo, o vencedor poderia desistir da adjudicação sem consequência 
+econômica relevante, impondo à Administração os custos de repetição de 
+atos do certame, de convocação de remanescentes em condições 
+potencialmente menos vantajosas e o mais grave em concessões de serviço 
+essencial, o custo social da postergação do início da operação. A garantia 
+internaliza no licitante o risco que hoje recairia integralmente sobre a 
+coletividade. 
+ 
+(iv) 
+Desestímulo a propostas temerárias ou inexequíveis. Em certames 
+disputados pelo critério econômico, a possibilidade de desistência sem ônus 
+incentiva lances agressivos e irrealistas, formulados na expectativa de 
+renegociação ou de simples abandono. A perspectiva de perda da garantia 
+induz cada licitante a ofertar apenas aquilo que pode sustentar, elevando a 
+qualidade média das propostas e a confiabilidade do resultado do leilão, em 
+benefício, inclusive, dos competidores sérios. 
+ 
+(v) 
+Preservação da isonomia e da competitividade. O valor exigido, limitado 
+ao percentual máximo legal, representa fração diminuta do contrato e pode 
+ser prestado por instrumentos de mercado de baixo custo de emissão 
+(seguro-garantia e fiança), acessíveis a qualquer agente com capacidade 
+real de executar a concessão. A exigência incide de modo uniforme sobre 
+todos os interessados e não guarda potencial de afastar licitantes aptos: 
+afasta, deliberadamente, apenas quem não estaria disposto a vincular-se à 
+própria proposta, exclusão que é a finalidade legítima do instituto, e não 
+efeito colateral. 
+ 
+(vi) 
+Celeridade e objetividade do rito. Como requisito de pré-habilitação, a 
+garantia confere segurança às fases subsequentes do certame: a 
+Administração processa a disputa sabendo que os proponentes classificados 
+estão economicamente vinculados às suas ofertas, o que reduz incidentes, 
+recursos protelatórios e riscos de esvaziamento do resultado. 
+ 
+(vii) 
+Ausência de oneração indevida. A garantia é temporária e integralmente 
+restituível: devolvida em até 10 (dez) dias úteis da assinatura do contrato ou 
+da declaração de fracasso da licitação (§ 2º). Não constitui receita da 
+
+Administração nem barreira patrimonial permanente, apenas caução de 
+seriedade, com vigência circunscrita ao próprio certame. 
+ 
+(viii) 
+Alinhamento à prática consolidada em concessões de infraestrutura. A 
+exigência de garantia de proposta (bid bond) é padrão nos leilões de 
+concessão no Brasil e internacionalmente, precisamente pelas razões acima, 
+prática que os agentes do setor, seus seguradores e financiadores conhecem 
+e precificam com naturalidade. 
+ 
+Diante disso, a medida revela-se adequada (guarda pertinência direta com a 
+seriedade das propostas e a segurança do resultado), necessária (não há instrumento 
+menos gravoso capaz de vincular economicamente o licitante à própria oferta antes da 
+contratação) e proporcional em sentido estrito (o ônus é mínimo, temporário e restituível, 
+enquanto os ganhos de confiabilidade do certame são substanciais), encontrando pleno 
+amparo no art. 58 da Lei nº 14.133/2021. 
+ 
+JUSTIFICATIVA DA EXIGÊNCIA DE GARANTIA CONTRATUAL 
+O art. 5°, VIII, da Lei 11.079/04 admite que se exija a prestação, pelo parceiro 
+privado, de garantias de execução suficientes e compatíveis com os ônus e riscos 
+envolvidos, observados os limites previstos na lei geral de licitações e contratos 
+administrativos. 
+O art. 96 da Lei 14.133/2021 admite a possibilidade de exigência de garantia 
+contratual conforme transcrito a seguir: 
+“Art. 96. A critério da autoridade competente, em cada caso, poderá ser exigida, 
+mediante previsão no edital, prestação de garantia nas contratações de obras, serviços 
+e fornecimentos. 
+§ 1º Caberá ao contratado optar por uma das seguintes modalidades de garantia: 
+I – caução em dinheiro ou em títulos da dívida pública emitidos sob a forma 
+escritural, mediante registro em sistema centralizado de liquidação e de custódia 
+autorizado pelo Banco Central do Brasil, e avaliados por seus valores 
+econômicos, conforme definido pelo Ministério da Economia; 
+II – seguro-garantia; 
+
+III – fiança bancária emitida por banco ou instituição financeira devidamente 
+autorizada a operar no País pelo Banco Central do Brasil. 
+IV – título de capitalização custeado por pagamento único, com resgate pelo 
+valor total.   (Incluído pela Lei nº 14.770, de 2023) 
+ 
+ 
+§2º Na hipótese de suspensão do contrato por ordem ou inadimplemento da 
+Administração, o contratado ficará desobrigado de renovar a garantia ou de endossar a 
+apólice de seguro até a ordem de reinício da execução ou o adimplemento pela 
+Administração. 
+ 
+§3º O edital fixará prazo mínimo de 1 (um) mês, contado da data de homologação 
+da licitação e anterior à assinatura do contrato, para a prestação da garantia pelo 
+contratado quando optar pela modalidade prevista no inciso II do § 1º deste artigo.” 
+ 
+Enquanto o artigo 98 da lei 14.133/2021 estabelece o limite de valor da garantia 
+conforme transcrito a seguir: 
+ 
+“Art. 98. Nas contratações de obras, serviços e fornecimentos, a garantia poderá 
+ser de até 5% (cinco por cento) do valor inicial do contrato, autorizada a majoração 
+desse percentual para até 10% (dez por cento), desde que justificada mediante análise 
+da complexidade técnica e dos riscos envolvidos. 
+ 
+Parágrafo único. Nas contratações de serviços e fornecimentos contínuos com 
+vigência superior a 1 (um) ano, assim como nas subsequentes prorrogações, será 
+utilizado o valor anual do contrato para definição e aplicação dos percentuais previstos 
+no caput deste artigo.” 
+Conforme descrito no Edital (Item 24) e na minuta do Contrato (item 11), a 
+Licitante vencedora do certame manterá em vigor, durante todo o prazo de vigência do 
+contrato, garantia de execução do contrato, correspondente a 1% (um por cento) do 
+valor do Contrato.  
+
+Essa exigência se justifica com base nos riscos de não cumprimento de 
+obrigações contratuais pela concessionária, conforme identificado na Matriz de Riscos 
+(Anexo V do Edital). Nesse sentido, a futura concessionária pode causar: 
+• 
+Prejuízos em decorrência do não cumprimento do objeto contratado, da 
+realização dos investimentos previstos e do não adimplemento das obrigações 
+contratuais. 
+• 
+Prejuízos diretos ao Poder Concedente decorrentes de culpa ou dolo durante a 
+execução do contrato.  
+ 
+Desse modo, entre as ações de contingência para esse risco, previstas na Matriz 
+de Riscos, está a execução de garantia contratual. De outra parte, a variação no 
+percentual da garantia ao longo do período de vigência contratual se justifica pelas 
+seguintes razões: 
+ 
+(i) 
+A compatibilidade exigida por lei é dinâmica, não estática. O art. 
+5º, VIII, da Lei nº 11.079/2004 exige garantias "suficientes e 
+compatíveis com os ônus e riscos envolvidos". Ora, o perfil de risco 
+de uma concessão não é constante no tempo: concentra-se na fase 
+de implantação, em que se acumulam obrigações de investimento, 
+execução de obras, aquisição de ativos e cumprimento de marcos e 
+decresce na fase operacional estabilizada, quando os investimentos 
+já foram internalizados e o desempenho passa a ser aferido 
+continuamente por indicadores. Um percentual único e invariável 
+seria, por definição, incompatível com essa curva: insuficiente no pico 
+de exposição ou excessivo no risco residual. A modulação temporal 
+é, portanto, a forma tecnicamente correta de cumprir o comando legal 
+de compatibilidade. 
+ 
+(ii) 
+Correspondência com a Matriz de Riscos. A garantia contratual é 
+ação de contingência vinculada a riscos específicos identificados na 
+Matriz (Anexo V), inexecução do objeto, não realização dos 
+investimentos e inadimplemento de obrigações. Como esses riscos 
+têm intensidade e probabilidade distintas em cada fase contratual, a 
+calibragem do percentual acompanha a própria lógica da Matriz: a 
+
+garantia é dimensionada onde e quando o risco efetivamente reside, 
+e não de forma linear e desconectada da realidade da execução. 
+ 
+(iii) 
+Modicidade tarifária e eficiência alocativa. O custo de 
+carregamento da garantia, prêmios de seguro, comissões de fiança, 
+custo de oportunidade da caução, integra a equação econômica do 
+projeto e é, em última análise, repassado à contraprestação e aos 
+usuários. Manter percentuais dimensionados para o pico de risco em 
+fases de exposição reduzida imporia custo permanente sem 
+contrapartida de proteção, em afronta à eficiência e à modicidade. A 
+variação do percentual otimiza o binômio proteção × custo, extraindo 
+o máximo de segurança pelo mínimo de oneração do projeto. 
+ 
+(iv) 
+Suficiência material do valor garantido. Em concessões, a base de 
+cálculo é o valor global do contrato, grandeza que consolida décadas 
+de execução. Ainda no patamar de 1,00% (um por cento), o montante 
+absoluto garantido é expressivo e guarda proporção adequada com 
+os 
+prejuízos 
+potenciais 
+mapeados, 
+mantendo-se, 
+ademais, 
+confortavelmente dentro do limite do art. 98 da Lei nº 14.133/2021, o 
+que dispensa a justificativa qualificada reservada às majorações 
+acima de 5,00% (cinco por cento). 
+ 
+(v) 
+Preservação da capacidade financeira e da bancabilidade. 
+Garantias sobredimensionadas consomem limites de crédito e de 
+colateral da concessionária junto ao mercado segurador e bancário, 
+exatamente os mesmos limites de que ela necessita para contratar o 
+financiamento do projeto e as demais garantias exigidas pelos 
+financiadores. A modulação do percentual evita que a garantia em 
+favor do Poder Concedente concorra, sem necessidade, com a 
+estrutura de funding da concessão, cuja higidez interessa 
+diretamente à continuidade do serviço. 
+ 
+(vi) 
+Alinhamento à prática do mercado de garantias. Apólices de 
+seguro-garantia de execução com valores modulados por fase ou por 
+marcos contratuais são prática consolidada no mercado brasileiro de 
+infraestrutura, conhecida e precificada por seguradoras e instituições 
+financeiras. A aderência do Edital a esse padrão amplia a oferta de 
+
+garantidores, reduz o custo de emissão e facilita as renovações 
+anuais ao longo da vigência. 
+ 
+(vii) 
+Função de incentivo ao desempenho. A variação do percentual 
+atrelada ao avanço da execução opera também como mecanismo de 
+incentivo: a transição para patamares inferiores pressupõe o 
+cumprimento das obrigações da fase anterior, funcionando como 
+reconhecimento objetivo de conformidade e não como liberalidade 
+automática. Alinham-se, assim, os interesses da concessionária ao 
+adimplemento tempestivo de suas obrigações. 
+ 
+Diante do exposto, a exigência de garantia de execução com percentual 
+modulado ao longo da vigência revela-se adequada (espelha a curva real de exposição 
+ao risco do contrato), necessária (não há meio menos oneroso de manter proteção 
+suficiente em cada fase sem sobrecustear o projeto) e proporcional em sentido estrito 
+(equilibra a segurança do Poder Concedente, o custo suportado pelo projeto e a 
+modicidade tarifária), com pleno amparo no art. 5º, VIII, da Lei nº 11.079/2004 c/c os 
+arts. 96 a 98 da Lei nº 14.133/2021. 
+ 
+JUSTIFICATIVA QUANTO A INDICAÇÃO DAS PARCELAS DE MAIOR RELEVÂNCIA 
+TÉCNICA OU VALOR SIGNIFICATIVO DO OBJETO  
+Nos termos do art. 3°, §1°, da Lei 11.079/04, e do art. 186 da Lei 14.133/2021, 
+aplica-se subsidiariamente às concessões patrocinadas a Lei 8.987/95 e a Lei 
+14.133/2021. 
+ 
+A Lei 11.079/04 não aborda, especificamente, a questão da avaliação da 
+qualificação técnica das licitantes, razão pela qual é necessário recorrer às Leis 
+8.987/95 e 14.133/2021 para tratar sobre o tema. 
+O art. 18, V, da Lei 8.987/95, estabelece que o edital de licitação deverá conter, 
+entre outros aspectos, os critérios e a relação dos documentos exigidos para a aferição 
+da capacidade técnica. O art. 18, IX, da Lei 14.133/2021, por sua vez, estabelece que a 
+fase preparatória da licitação deve conter a motivação circunstanciada das condições 
+do edital, tais como a justificativa de exigências de qualificação técnica, mediante 
+indicação das parcelas de maior relevância técnica ou valor significativo do objeto. 
+
+Na licitação em questão, as parcelas de maior relevância técnica ou valor 
+significativo do objeto envolvem: 
+a) Implantação, pré-operação, operação e manutenção de aterro sanitário 
+(disposição final ambientalmente adequada). Parcela de máxima criticidade 
+técnico-ambiental 
+do 
+objeto: 
+exige 
+domínio 
+de 
+geotecnia 
+aplicada 
+(impermeabilização de base, estabilidade de taludes e maciços), sistemas de 
+drenagem e tratamento de lixiviados, captação e queima ou aproveitamento de 
+biogás, monitoramento geotécnico e ambiental contínuo e gestão de 
+conformidade perante o órgão licenciador. Falhas nessa parcela geram dano 
+ambiental de difícil reversão, responsabilização do Poder Concedente e risco de 
+interdição, com colapso de toda a cadeia de manejo. 
+ 
+b) Coleta e transporte de resíduos sólidos domiciliares. Parcela de maior peso 
+operacional recorrente e de interface direta e diária com o usuário: exige 
+capacidade logística de planejamento e execução de roteiros em escala, gestão 
+de frota dedicada e de equipes numerosas, regularidade e universalidade da 
+prestação. É a face mais visível do serviço, descontinuidades ainda que breves 
+comprometem salubridade pública e a percepção de qualidade de todo o 
+contrato. 
+ 
+c) Implantação e operação de unidade de triagem, tratamento e valorização 
+de resíduos (coleta seletiva, triagem e compostagem). Parcela de maior 
+complexidade tecnológica do objeto: envolve engenharia de processo, 
+integração de equipamentos eletromecânicos, curvas de aprendizado 
+operacional e atingimento de metas de desvio de aterro e de recuperação de 
+recicláveis vinculadas a indicadores de desempenho. O insucesso nessa parcela 
+inviabiliza as metas finalísticas da concessão e da Política Nacional de Resíduos 
+Sólidos. 
+ 
+d) Implantação e operação de estações de transbordo e transporte de longa 
+distância. Elo logístico crítico entre a coleta e a destinação: eventual paralisação 
+interrompe imediatamente todo o fluxo de resíduos do território atendido, sem 
+possibilidade de estocagem prolongada, dada a natureza putrescível dos 
+resíduos. 
+ 
+e) A eleição dessas parcelas decorre da conjugação dos dois critérios legais: 
+relevância técnica, são as atividades de maior complexidade de engenharia, 
+
+maior criticidade ambiental e sanitária e maior risco de inexecução com 
+repercussão sobre a continuidade do serviço essencial, e valor significativo 
+respondem, em conjunto, por aproximadamente 4,00% (quatro por cento) do 
+valor do contrato, conforme plano de negócios referencial. 
+ 
+Com base nessa indicação, o Edital exige, para fins de qualificação técnico-
+operacional e técnico-profissional (art. 67, I e II, da Lei nº 14.133/2021 c/c art. 18, V, da 
+Lei nº 8.987/1995), a comprovação de experiência anterior exclusivamente nas parcelas 
+acima indicadas, mediante atestados acompanhados, quando cabível, do respectivo 
+registro no conselho profissional competente, observando-se: (i) quantitativos mínimos 
+limitados a 50% dos quantitativos previstos para cada parcela, em atenção ao teto do 
+art. 67, § 2º, da Lei nº 14.133/2021; (ii) a admissão do somatório de atestados e, no 
+caso de consórcios, do somatório dos quantitativos de cada consorciado, na forma da 
+lei; e (iii) a ausência de restrições quanto a tempo, época ou local de execução dos 
+serviços atestados, vedadas pela tradição legislativa e pela jurisprudência consolidada 
+dos órgãos de controle. 
+ 
+A limitação das exigências às parcelas de maior relevância e valor cumpre dupla 
+função: assegura que o futuro concessionário detenha experiência real e aferível naquilo 
+que é decisivo para a execução, protegendo a continuidade de serviço público essencial 
+de longo prazo e, simultaneamente, impede a proliferação de exigências acessórias sem 
+pertinência, preservando a competitividade do certame. A medida é, assim, adequada 
+(as parcelas eleitas concentram objetivamente o risco técnico e o valor do contrato), 
+necessária (não há meio menos restritivo de aferir aptidão para um objeto dessa 
+criticidade) e proporcional em sentido estrito, atendendo à motivação circunstanciada 
+exigida pelo art. 18, IX, da Lei nº 14.133/2021. 
+ 
+JUSTIFICATIVA DAS CONDIÇÕES DE EXIGÊNCIAS QUALIFICAÇÃO TÉCNICA 
+Os requisitos de qualificação técnica incluem qualificação técnico-profissional e 
+técnico-operacional. 
+A documentação relativa à qualificação técnico-profissional e técnico-
+operacional está prevista no artigo 67 da Lei 14.133/2021. 
+
+Considerando que o conhecimento das condições locais para o cumprimento das 
+obrigações objeto da licitação é obrigatório, caso o licitante opte por não realizar a 
+vistoria, poderá apresentar declaração de conhecimento pleno das condições e 
+peculiaridades da contratação, conforme inciso VI, artigo 67, da Lei 14.133/2021. 
+Com vistas a reduzir os riscos da contratação relacionados a capacidade de 
+satisfazer a necessidade prestação do serviço foi solicitado atestado de execução de 
+serviços similares, compatível em características, quantidades e prazos com o objeto 
+da presente licitação, envolvendo serviços de implantação, pré-operação, operação e 
+manutenção de manejo, tratamento e destinação final de resíduos sólidos. 
+Considerando que conforme § 2º, artigo 67 da Lei 14.133/2021 será admitida a 
+exigência de atestados com quantidades mínimas de até 50% das parcelas. 
+Conforme inciso I, artigo 67, da Lei 14.133/2021 foi solicitado comprovação de 
+engenheiro(s) responsável técnico por execução de serviços com características 
+semelhantes. 
+Desse modo, a Administração tomou cuidado de adotar condições que permitam 
+a presunção de aptidão do fornecedor para executar os serviços atendendo os critérios 
+de quantidade, qualidade e obrigações contratuais dentro dos limites legais e sem limitar 
+a competitividade. 
+ 
+JUSTIFICATIVA DAS EXIGÊNCIAS DE QUALIFICAÇÃO ECONÔMICO-FINANCEIRA 
+A habilitação econômico-financeira está prevista no artigo 69 da Lei 14.133/2021 
+conforme transcrito a seguir: 
+“Art. 69. A habilitação econômico-financeira visa a demonstrar a aptidão 
+econômica do licitante para cumprir as obrigações decorrentes do futuro contrato, 
+devendo ser comprovada de forma objetiva, por coeficientes e índices econômicos 
+previstos no edital, devidamente justificados no processo licitatório, e será restrita à 
+apresentação da seguinte documentação: 
+I – Balanço patrimonial, demonstração de resultado de exercício e demais 
+demonstrações contábeis dos 2 (dois) últimos exercícios sociais; 
+II – Certidão negativa de feitos sobre falência expedida pelo distribuidor da sede 
+do licitante.” 
+ 
+
+No modelo de execução do objeto da presente licitação, está prevista a 
+realização de investimentos consideráveis em implantação e expansão de infraestrutura 
+e universalização de serviços de manejo de resíduos sólidos em 5 (cinco) municípios. 
+Trata-se de contratação de grande expressão econômica e elevada responsabilidade 
+técnica, que demandará da futura concessionária robustez econômico-financeira para a 
+satisfatória execução do objeto contratado. 
+Assim, previu-se no item 15.5 e subitens do Edital que:  
+“15.5.1. A qualificação econômico-financeira será comprovada através dos seguintes 
+documentos:  
+15.5.1.1. Capital Social e sua respectiva demonstração do resultado do último exercício 
+social, exigível à época da apresentação da documentação, onde deverá ser 
+evidenciada um montante superior a R$100.424.963,02 (cem milhões, quatrocentos e 
+vinte e quatro mil, novecentos e sessenta e três reais e dois centavos). Em caso de 
+CONSÓRCIO será exigida parcela adicional de 30,00% (trinta por cento).  
+15.5.1.2. Balanço Patrimonial e respectiva demonstração do resultado do último 
+exercício social, exigível à época da apresentação da documentação, onde deverá ser 
+evidenciada a boa situação financeira da LICITANTE ou de todas as empresas 
+integrantes do CONSÓRCIO, conforme o caso. Para fins de demonstração da boa 
+situação financeira, a LICITANTE deve possuir, no mínimo, os seguintes índices 
+financeiros:  
+a.1) ÍNDICE DE LIQUIDEZ CORRENTE: ILC ≥ 1,00 (AC /PC)  
+a.2) ÍNDICE DE LIQUIDEZ GERAL: ILG ≥ 1,00((AC + ANC) /(PC+PNC)) 
+a.3) ÍNDICE DE ENDIVIDAMENTO TOTAL: IE ≤ 0,50 (PC +PNC)/AT) 
+Onde:  
+AC – ATIVO CIRCULANTE  
+ANC – ATIVO NÃO CIRCULANTE  
+PC – PASSIVO CIRCULANTE  
+PNC – PASSIVO NÃO CIRCULANTE  
+AT – ATIVO TOTAL  
+a.4) Para LICITANTES constituídas por fundos de investimentos ou entidades de 
+previdência complementar:  
+
+a.4.1) Índice de Alavancagem (IA) ≤ 14 IA = CT / PL  
+Em que:  
+IA: Índice de Alavancagem;  
+CT: Passivo real menos o patrimônio líquido e os diversos;  
+PL: Capital social integralizado mais as reservas capitalizáveis e lucros, menos os 
+prejuízos.  
+a.5.2) Índice de Cobertura de Benefícios (ICB) ≥ 0,7 ICB = (AT – CC – EO – EC – F – 
+BC – PMI) / BaC 
+Em que:  
+ICB = Índice de Cobertura de Benefícios;  
+AT = Ativo Total;  
+CC = Contribuições Contratadas;  
+EO = Exigível Operacional;  
+EC = Exigível Contingencial;  
+F = Fundos;  
+BC = Benefícios Concedidos;  
+PMI = Provisões Matemáticas a Integralizar;  
+BaC = Benefícios a Conceder  
+15.5.1.3. A LICITANTE deverá apresentar cópia do Livro Diário em que o balanço foi 
+transcrito, registrado na correspondente Junta Comercial ou SPED, com o respectivo 
+recibo de apresentação do balanço.  
+15.5.1.4. As empresas estrangeiras deverão apresentar os indicadores econômico-
+financeiros mínimos exigidos na comprovação da qualificação econômico-financeira, 
+ajustados à estrutura contábil da legislação brasileira. Para a conversão da moeda 
+estrangeira para o Real, deverá ser indicada a taxa de câmbio comercial para venda 
+(PTAX), divulgada pelo Banco Central do Brasil, relativa à data de encerramento do 
+exercício social.  
+
+15.5.1.5. Certidão negativa de falência e recuperação judicial, expedida pelo distribuidor 
+judicial da Comarca da sede da LICITANTE ou dos integrantes de CONSÓRCIO, dentro 
+do prazo de validade, observado o contido na alínea “d” do subitem 6.4.”  
+A adoção do critério de índices econômico-financeiros justifica-se como medida 
+de prudência e segurança contratual, compatível com a materialidade dos 
+investimentos, seu volume vultuoso e com a complexidade operacional inerentes à 
+presente concessão patrocinada. Busca-se, assim, selecionar licitantes com efetiva 
+capacidade econômico-financeira, aptos a assegurar a execução integral do contrato, a 
+adequada prestação dos serviços e a continuidade operacional ao longo de toda a 
+vigência.  
+No que tange o objetivo é prevenir a participação e eventual adjudicação a 
+proponentes que, embora atendam formalmente às exigências de habilitação, não 
+disponham de robustez financeira e técnica suficiente para suportar o ciclo de 
+implantação e operação, sobretudo em cenário de oscilações de mercado, 
+contingências não previstas e necessidades de capital de giro. Trata-se de providência 
+que protege o interesse público contra riscos de inexecução, paralisação, degradação 
+da qualidade do serviço e consequentes custos adicionais de recomposição, 
+substituição ou relicitação.  
+As licitantes deverão demonstrar capacidade financeira para, além de cumprir 
+todas as obrigações contratuais, suportar eventuais defasagens temporais no fluxo de 
+recebimentos, em especial aquelas relacionadas ao risco de inadimplência e aos prazos 
+de pagamento aplicáveis às receitas previstas no arranjo econômico do projeto.  
+Nesse ponto, cumpre destacar que a disciplina legal aplicável impõe, em 
+determinadas hipóteses, condições mais favoráveis à Administração quanto à dinâmica 
+de adimplemento, a exemplo do art. 137, IV, da Lei nº 14.133/2021, que pode repercutir 
+na gestão de caixa da concessionária e exige, por consequência, maior resiliência 
+financeira para manutenção da execução contratual. Assim, ainda que a concessionária 
+apresente os documentos de cobrança, poderá ter de absorver prazos usuais de 
+processamento e, eventualmente, atrasos, sem que isso implique, de imediato, 
+autorização para interromper ou reduzir a prestação dos serviços, dada a natureza 
+essencial e contínua do objeto.  
+A exigência dos índices revela-se proporcional, necessária e adequada para 
+assegurar que a futura concessionária possua capacidade de suportar atrasos pontuais, 
+preservar a continuidade do serviço, manter padrões de desempenho e cumprir 
+
+obrigações de investimento, operação e manutenção, sem transferir ao Poder 
+Concedente riscos decorrentes de fragilidade econômico-financeira do contratado.  
+Por fim, ressalta-se que tais requisitos se alinham ao propósito maior do certame 
+de garantir a observância do interesse público, com seleção de proposta efetivamente 
+exequível e vantajosa, mitigando riscos inerentes à contratação e a eventos 
+supervenientes alheios à vontade das partes, inclusive de natureza extraordinária, cuja 
+materialização pode impactar custos e cronogramas. 
+
+

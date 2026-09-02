@@ -1,0 +1,1485 @@
+ 
+ 
+ 
+ANEXO IV – INDICADORES DE DESEMPENHO 
+ 
+ 
+ 
+ 
+EXPLORAÇÃO E PRESTAÇÃO DOS SERVIÇOS DE COLETA, TRANSPORTE, 
+TRANSBORDO (TRANSFERÊNCIA), TRATAMENTO E DESTINAÇÃO FINAL 
+AMBIENTALMENTE ADEQUADA DOS RESÍDUOS SÓLIDOS DOMICILIARES 
+(RDO), DOS RESÍDUOS PÚBLICOS URBANOS (RPU), DOS RESÍDUOS DA 
+CONSTRUÇÃO CIVIL E DEMOLIÇÃO (RCD), DOS RESÍDUOS DOS SERVIÇOS DE 
+SAÚDE (RSS) E DA COLETA SELETIVA (CS), BEM COMO ATIVIDADES 
+CORRELATAS, DO CONSÓRCIO DE DESENVOLVIMENTO SUSTENTÁVEL DO 
+VELHO CHICO (CDS VELHO CHICO), MEDIANTE DELEGAÇÃO A SER FEITA 
+POR CONTRATO DE CONCESSÃO. 
+ 
+ 
+ 
+ 
+APOIO INSTITUCIONAL 
+ 
+TERMOS DE COOPERAÇÃO TÉCNICA N° 002/2023 E N° 001/2026 
+ 
+ 
+
+ 
+GLOSSÁRIO 
+AGERSA 
+   Agência Reguladora de Saneamento Básico do Estado da Bahia 
+CDS 
+Consórcio de Desenvolvimento Sustentável do Velho Chico 
+CR 
+Crédito da Receita Acessória 
+CS 
+Coleta Seletiva 
+FA 
+Fator de Avaliação 
+INMETRO 
+Instituto Nacional de Metrologia, Qualidade e Tecnologia 
+IPCA 
+Índice de Preços ao Consumidor Amplo 
+PNRS 
+Política Nacional de Resíduos Sólidos 
+RCD 
+Resíduos da Construção e Demolição 
+RDO 
+Resíduos Sólidos Domiciliares 
+RPU 
+Resíduos Públicos Urbanos 
+RSS 
+Resíduos do Serviço de Saúde 
+RSU 
+Resíduos Sólidos Urbanos 
+SAC 
+Serviço de Atendimento ao Cliente 
+TUF 
+Tarifa do Usuário Final 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+1 PREMISSAS PARA AVALIAÇÃO DOS SERVIÇOS DA CONCESSIONÁRIA 
+Todos os serviços prestados pela CONCESSIONÁRIA devem ser acompanhados 
+diariamente pela fiscalização da CONCESSIONÁRIA e serão avaliados semestralmente 
+através dos indicadores de produção e qualidade, que medirão o desempenho dos serviços 
+prestados à população. São eles: coleta, transporte, transbordo (transferência), tratamento e 
+destinação final ambientalmente adequada dos resíduos sólidos domiciliares (RDO), dos 
+resíduos de públicos urbanos (RPU), dos resíduos da construção civil e demolição (RCD), dos 
+resíduos dos serviços de saúde (RSS) e da coleta seletiva (CS). 
+Desse modo, a adoção de indicadores de desempenho tem por objetivo avaliar 
+quantitativamente e qualitativamente toda a gestão integrada dos serviços desempenhados 
+pela CONCESSIONÁRIA. O nível de qualidade dos serviços disponibilizados aos usuários 
+deverá ser aferido através de planejamento elaborado de maneira integrada, de política de 
+treinamento da mão de obra e de um eficiente sistema de fiscalização e monitoramento dos 
+serviços. 
+Sendo assim, a constante utilização de indicadores é de extrema importância para o 
+acompanhamento do contrato, servindo ainda como ferramenta impulsionadora para a 
+melhoria constante da qualidade da prestação de serviços, em busca de ganhos em eficiência 
+operacional e de redução dos dispêndios em atividades de regulação e fiscalização. A 
+avaliação de desempenho contribui para o fornecimento de informações necessárias para a 
+elaboração do diagnóstico anual, que deverá ser expresso no formato de relatório operacional 
+e apresentado ao PODER CONCEDENTE, e pode ser utilizada como fonte para a 
+estruturação de diretrizes operacionais e embasamento para desenho de políticas públicas 
+do segmento. 
+Além disso, os indicadores de desempenho são dados referenciais de performance do 
+Contrato e estímulo à busca por ganhos de eficiência operacional. Os indicadores refletirão 
+na qualidade dos serviços prestados, gerarão resultados positivos e serão utilizados como 
+ferramentas e metodologias a serem aplicadas nos reajustes e nas revisões periódicas das 
+tarifas. Nesse sentido, indicadores que demonstrem o não atingimento de metas contratuais 
+ou a incipiência na prestação dos serviços e na condução da operação deverão resultar em 
+redução da base remuneratória do operador.  
+Conclui-se, assim, que a apuração e o acompanhamento de tais indicadores trazem 
+para o ambiente de gestão contratual a possibilidade concreta de realizar uma avaliação 
+periódica e acompanhar a evolução da performance operacional da Concessionária, 
+constituindo também um banco de dados e referências históricas para servir de base 
+
+ 
+comparativa do desempenho dos serviços prestados pela Concessionária em relação a outras 
+operações similares ou outras Concessionárias do setor. 
+1.1 REGULAÇÃO E FISCALIZAÇÃO 
+Os serviços a serem prestados pela Concessionária poderão ser regulados inicialmente 
+pela AGÊNCIA REGULADORA DE SANEAMENTO BÁSICO DO ESTADO DA BAHIA 
+(AGERSA), na qualidade de órgão regulador, nos termos do Contrato de Concessão, da Lei 
+nº 12.602/2012, da Lei nº 12.932/2014 e das alterações posteriores. A AGERSA inicialmente 
+executará as atividades de regulação, sendo substituída caso haja a criação da Agência 
+Reguladora de Serviços Públicos Intermunicipal do Velho Chico ou ente semelhante. 
+Todos os indicadores serão apurados pela fiscalização e avaliados por comparação 
+com suas metas respectivas. Os relatórios de avaliação dos indicadores serão encaminhados 
+para a Entidade Reguladora que, após validação, os utilizará para determinar os índices de 
+reajuste e revisões de tarifas. A Entidade Reguladora estabelecerá normas e índices para 
+apuração dos indicadores em comum acordo com a fiscalização. A definição das datas 
+recorrentes de apuração mensal e anual dos indicadores será proposta pela fiscalização para 
+acompanhamento pela Entidade Reguladora. 
+A CONCESSIONÁRIA deverá realizar a manutenção do cadastro, fornecendo acesso 
+sempre que houver solicitação prévia por comunicação oficial, por parte do PODER 
+CONCEDENTE ou da Entidade Reguladora. A CONCESSIONÁRIA também manterá toda a 
+infraestrutura, livros, registros e documentos relacionados ao contrato, fornecendo os 
+esclarecimentos que lhe forem solicitados, em prazo estabelecido de comum acordo com a 
+parte solicitante. 
+Desse modo, quando solicitado, a CONCESSIONÁRIA deverá elaborar relatório de 
+avaliação dos indicadores e encaminhar à fiscalização para posterior encaminhamento à 
+Entidade Reguladora. 
+1.2 SELEÇÃO DOS INDICADORES 
+Na seleção dos indicadores, buscou-se avaliar todos os serviços operacionais que 
+serão realizados pela Concessionária (coleta, transporte, transbordo, tratamento e destinação 
+final ambientalmente adequada dos resíduos sólidos domiciliares, dos Resíduos de Públicos 
+Urbanos, dos resíduos da construção civil e demolição, dos resíduos dos serviços de saúde 
+e da coleta seletiva), de modo a garantir que os parâmetros técnicos mais significativos para 
+a avaliação do desempenho da Concessionária sejam obtidos. Para a seleção individual dos 
+indicadores, foram considerados os seguintes aspectos: 
+
+ 
+● Possibilidade de cálculo sem significativo esforço adicional; 
+● Facilidade e simplicidade de interpretação e obtenção; 
+● Medição objetiva e imparcial de aspecto específico do desempenho da concessionária; 
+● Facilidade de validação e auditoria pela agência reguladora; e 
+● Possibilidade de validação por verificadores independentes. 
+São ainda pontos de atenção para atestar o nível de serviço desejado a observância 
+dos seguintes princípios:  
+● Coleta universal de todos os domicílios com escopo contratado (excetuando-se os 
+classificados como grandes geradores); 
+● Regularidade na frequência da prestação dos serviços; 
+● Controle ambiental; e 
+● Segurança do trabalho e cuidados com a saúde ocupacional da força de trabalho. 
+1.3 TIPOS DE INDICADORES DE DESEMPENHO 
+Os indicadores propostos para avaliação do desempenho da Concessionária, para 
+efeito de avaliação e organização de critérios, foram classificados em 2 (dois) grupos de 
+análise de requisitos: 
+● Indicadores de Desempenho Operacional; 
+● Indicadores de Desempenho Socioambiental. 
+Desse modo, foram desenvolvidos indicadores que busquem direcionar o 
+desempenho e o posicionamento do operador, a fim de gerar um alinhamento entre o 
+interesse econômico do operador e o interesse público. 
+Os Indicadores de Desempenho ora apresentados contêm a descrição do aspecto a 
+ser avaliado, fórmula de cálculo, componentes do indicador, unidade de medida, periodicidade 
+e fonte de coleta dos dados componentes. Sendo assim, a partir do conceito de avaliação 
+desenvolvido, foram elaboradas as planilhas de avaliação de indicadores de desempenho. 
+2 QUADRO DE INDICADORES DE DESEMPENHO 
+2.1 AVALIAÇÃO DOS REQUISITOS OPERACIONAIS 
+ 
+Os requisitos operacionais buscam avaliar a performance da CONCESSIONÁRIA na 
+prestação dos serviços objeto da CONCESSÃO PATROCINADA, conforme descritos na 
+Tabela 1, a seguir: 
+
+ 
+Tabela 3 - Indicadores de Desempenho Quantitativo - Requisitos Operacionais 
+INDICADORES DE DESEMPENHO QUANTITATIVO - REQUISITOS OPERACIONAIS 
+ 
+ 
+CONTRATO Nº: 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+Avaliação referente ao período: 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+Técnico responsável pela avaliação:  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+Data da 
+avaliação: 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+FICHA DE AVALIAÇÃO DE DESEMPENHO DA CONCESSIONÁRIA 
+ 
+ 
+Item 
+Quesitos avaliados 
+Critérios 
+Periodicidade 
+Forma de 
+apuração 
+Indicador 
+Nota 
+Recebida 
+PESO 
+FÓRMULA 
+1 
+Atendimento da 
+coleta domiciliar 
+urbana, observando-
+se a frequência e 
+eventuais 
+descumprimento de 
+roteiros. 
+Ótimo (100%) 
+Mensal 
+Planos de 
+operação de 
+coleta com 
+roteiros que 
+atendem as 
+cidades deverão 
+ser entregues à 
+fiscalização. Os 
+veículos 
+coletores serão 
+dotados de 
+dispositivos que 
+permitam a 
+geolocalização 
+da frota de 
+modo que a 
+fiscalização 
+observará 
+remotamente o 
+cumprimento de 
+cada roteiro, 
+independente 
+da fiscalização 
+de campo. 
+Mensalmente, 
+será apurado 
+percentualment
+e a quantidade 
+de roteiros que 
+não foram 
+ 
+ID1 = 
+(Quantidade 
+de rotas 
+realizadas) 
+(Quantidade 
+de rotas do 
+plano) 
+ 
+ 
+ 
+8,96% 
+Nota 
+Recebida x 
+Peso 
+Bom (80% a 99%) 
+Regular (60% a 79%) 
+Ruim (Abaixo de 60%) 
+
+ 
+cumpridos 
+integralmente 
+por falhas 
+operacionais e 
+que não foram 
+regularizados 
+no mesmo dia. 
+2 
+Atendimento da 
+coleta domiciliar nas 
+áreas de difícil 
+acesso em 
+conformidade com o 
+estabelecido no 
+contrato. 
+Ótimo (100%) 
+Mensal 
+Planos de 
+operação de 
+coleta nas áreas 
+de difícil acesso 
+deverá ser 
+entregues à 
+fiscalização. Os 
+veículos 
+coletores serão 
+dotados de 
+dispositivos que 
+permitam a 
+geolocalização 
+da frota de 
+modo que a 
+fiscalização 
+observará 
+remotamente o 
+cumprimento de 
+cada roteiro, 
+independente 
+da fiscalização 
+de campo. 
+Mensalmente, 
+será apurado 
+percentualment
+e a quantidade 
+de roteiros que 
+não foram 
+cumpridos 
+integralmente 
+por falhas 
+operacionais e 
+que não foram 
+ 
+ID2 = 
+(Quantidade 
+de rotas 
+realizadas) 
+(Quantidade 
+de rotas do 
+plano) 
+ 
+ 
+ 
+13,43% 
+Nota 
+Recebida x 
+Peso 
+Bom (80% a 99%) 
+Regular (60% a 79%) 
+Ruim (Abaixo de 60%) 
+
+ 
+regularizados 
+no mesmo dia. 
+3 
+Atendimento da 
+coleta domiciliar nas 
+áreas rurais em 
+conformidade com o 
+estabelecido no 
+contrato 
+Ótimo (100%) 
+Mensal 
+Planos de 
+operação de 
+coleta nas áreas 
+rurais deverão 
+ser entregues à 
+fiscalização. Os 
+veículos 
+coletores serão 
+dotados de 
+dispositivos que 
+permitam a 
+geolocalização 
+da frota de 
+modo que a 
+fiscalização 
+observará 
+remotamente o 
+cumprimento de 
+cada roteiro, 
+independente 
+da fiscalização 
+de campo. 
+Mensalmente, 
+será apurado 
+percentualment
+e a quantidade 
+de roteiros que 
+não foram 
+cumpridos 
+integralmente 
+por falhas 
+operacionais e 
+que não foram 
+regularizados 
+no mesmo dia. 
+ 
+ID3 = 
+(Quantidade 
+de rotas 
+realizadas) 
+(Quantidade 
+de rotas do 
+plano) 
+ 
+ 
+ 
+13,43% 
+Nota 
+Recebida x 
+Peso 
+Bom (80% a 99%) 
+Regular (60% a 79%) 
+Ruim (Abaixo de 60%) 
+4 
+Atendimento da 
+coleta de resíduos 
+dos serviços de 
+saúde em 
+conformidade com o 
+Ótimo (100%) 
+Mensal 
+Planos de 
+operação de 
+coleta com 
+roteiros que 
+atendem as 
+ 
+ID4 = 
+(Quantidade 
+ 
+8,96% 
+Nota 
+Recebida x 
+Peso 
+Bom (80% a 99%) 
+Regular (60% a 79%) 
+Ruim (Abaixo de 60%) 
+
+ 
+estabelecido no 
+contrato 
+cidades deverão 
+ser entregues à 
+fiscalização. Os 
+veículos 
+coletores serão 
+dotados de 
+dispositivos que 
+permitam a 
+geolocalização 
+da frota de 
+modo que a 
+fiscalização 
+observará 
+remotamente o 
+cumprimento de 
+cada roteiro, 
+independente 
+da fiscalização 
+de campo. 
+Mensalmente, 
+será apurado 
+percentualment
+e a quantidade 
+de roteiros que 
+não foram 
+cumpridos 
+integralmente 
+por falhas 
+operacionais e 
+que não foram 
+regularizados 
+no mesmo dia. 
+de rotas 
+realizadas) 
+(Quantidade 
+de rotas do 
+plano) 
+ 
+ 
+5 
+Atendimento da 
+coleta de resíduos 
+da construção civil e 
+demolição em 
+conformidade com o 
+estabelecido no 
+contrato 
+Ótimo (100%) 
+Mensal 
+Planos de 
+operação de 
+coleta com 
+roteiros que 
+atendem as 
+cidades deverão 
+ser entregues à 
+fiscalização. Os 
+veículos 
+coletores serão 
+ 
+ID5 = 
+(Quantidade 
+de rotas 
+realizadas) 
+(Quantidade 
+de rotas do 
+plano) 
+ 
+ 
+ 
+5,97% 
+Nota 
+Recebida x 
+Peso 
+Bom (80% a 99%) 
+Regular (60% a 79%) 
+Ruim (Abaixo de 60%) 
+
+ 
+dotados de 
+dispositivos que 
+permitam a 
+geolocalização 
+da frota de 
+modo que a 
+fiscalização 
+observará 
+remotamente o 
+cumprimento de 
+cada roteiro, 
+independente 
+da fiscalização 
+de campo. 
+Mensalmente, 
+será apurado 
+percentualment
+e a quantidade 
+de roteiros que 
+não foram 
+cumpridos 
+integralmente 
+por falhas 
+operacionais e 
+que não foram 
+regularizados 
+no mesmo dia. 
+6 
+Implantação e 
+manutenção dos 
+PEVs previstos em 
+contrato 
+Ótimo (100%) 
+Anual 
+A 
+Fiscalização 
+verificará o 
+atendimento 
+das metas de 
+implantação de 
+PEVs previstos 
+em contrato e 
+pelas condições 
+de asseio, 
+conservação e 
+organização 
+interna das 
+áreas. 
+Anualmente 
+ 
+ID6 
+= (Metas 
+realizadas)   
+(Meta 
+prevista em 
+cronograma) 
+ 
+2,99% 
+No
+ta Recebida 
+x Peso 
+Bom (80% a 99%) 
+Regular (60% a 79%) 
+Ruim (Abaixo de 60%) 
+
+ 
+será apurado 
+percentualment
+e da quantidade 
+de PEVs 
+implantados de 
+acordo com as 
+metas do 
+cronograma. 
+7 
+Implantação de 
+programa de 
+capacitação de 
+pessoal operacional 
+e técnico envolvidos 
+no sistema de coleta 
+e transporte de 
+resíduos 
+Ótimo (100%) 
+Anual 
+A Fiscalização 
+deverá avaliar o 
+programa de 
+capacitação do 
+corpo técnico, 
+através das 
+metas 
+estabelecidas 
+no programa 
+apresentado e 
+aprovado pelo 
+Poder 
+Concedente. 
+Anualmente 
+será apurado 
+percentualment
+e a quantidade 
+de capacitação 
+executadas de 
+acordo com as 
+metas do 
+cronograma. 
+ 
+ID7 = (Metas 
+realizadas)     
+(Meta 
+prevista em 
+cronograma) 
+ 
+2,99% 
+Nota 
+Recebida x 
+Peso 
+Bom (80% a 99%) 
+Regular (60% a 79%) 
+Ruim (Abaixo de 60%) 
+8 
+Apresentação da 
+frota de veículos, 
+máquinas e 
+equipamentos 
+conforme 
+programação visual, 
+condições de asseio 
+e conservação 
+Ótimo (100%) 
+Mensal 
+A Fiscalização 
+observará as 
+condições 
+referentes ao 
+tempo de vida 
+útil dos veículos 
+e 
+equipamentos, 
+asseio, 
+conservação, 
+segurança e 
+trafegabilidade 
+ 
+ID8 = (Nº 
+Equipamento
+s em 
+conformidade
+)                      
+(Nº Total de 
+Equipamento
+s em 
+atividade) 
+ 
+ 
+ 
+2,99% 
+Nota 
+Recebida x 
+Peso 
+Bom (80% a 99%) 
+Regular (60% a 79%) 
+Ruim (Abaixo de 60%) 
+
+ 
+dos veículos 
+que compõem a 
+frota da 
+concessionária. 
+Mensalmente 
+será apurado 
+percentualment
+e a quantidade 
+de veículos em 
+conformidade 
+com o contrato 
+e as 
+quantidades 
+previstas em 
+contrato. 
+9 
+Verificação dos 
+Certificados de 
+Calibração emitido 
+pelo INMETRO e do 
+atendimento ao 
+cronograma de 
+manutenção 
+preventiva periódica 
+da balança das 
+ETRs e do CVR 
+Ótimo (100%) 
+Anual 
+Serão 
+verificados 
+mensalmente 
+pela 
+Fiscalização os 
+certificados de 
+calibração 
+emitido pelo 
+INMETRO da 
+balança 
+rodoviária das 
+ETRs e CVR e 
+a execução do 
+cronograma de 
+manutenção 
+preventiva 
+periódica 
+previsto pelo 
+fabricante. 
+Anualmente 
+será apurado 
+percentualment
+e a quantidade 
+de verificações 
+pelo INMETRO 
+de acordo com 
+ 
+ID9 = 
+(Quantidade 
+realizada)       
+(quantidade 
+previstas em 
+cronograma) 
+ 
+ 
+ 
+1,49% 
+Nota 
+Recebida x 
+Peso 
+Bom (80% a 99%) 
+Regular (60% a 79%) 
+Ruim (Abaixo de 
+60%) 
+
+ 
+as metas do 
+cronograma. 
+TOTAL 
+61,19% 
+ 
+Fonte: Torres Construções (2025) 
+ 
+
+ 
+ 
+2.2 AVALIAÇÃO DOS REQUISITOS SOCIOAMBIENTAIS  
+ 
+Os requisitos socioambientais verificam o atingimento das premissas, segundo as 
+recomendações da Política Nacional de Resíduos Sólidos (PNRS) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Tabela 4 - - Indicadores de Desempenho Qualitativos - Requisitos Socioambientais 
+INDICADORES DE DESEMPENHO QUALITATIVOS - REQUISITOS SOCIOAMBIENTAIS 
+ 
+ 
+CONTRATO Nº: 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+Avaliação referente ao período: 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+Técnico responsável pela avaliação:  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+Data da avaliação: 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+FICHA DE AVALIAÇÃO DE DESEMPENHO DA CONCESSIONÁRIA 
+ 
+ 
+Item  
+Quesitos avaliados 
+Critérios  
+Periodici
+dade  
+Forma de apuração  
+Indicador  
+Nota Recebida 
+PESO 
+FÓRMULA 
+1 
+Cumprimento das metas de 
+ampliação 
+gradativa 
+da 
+geração 
+de 
+composto 
+orgânico 
+destinados 
+em 
+aterro sanitário (Tabela 2 do 
+Caderno de Encargos) 
+Ótimo (100%) 
+Anual 
+O indicador deverá ser 
+apurado pela Fiscalização a 
+partir 
+dos 
+relatórios 
+de 
+pesagem 
+do 
+composto 
+orgânico 
+gerado 
+na 
+compostagem 
+na 
+CVR. 
+Será 
+apropriado 
+o 
+quantitativo em quilo (Kg) 
+do composto gerado e 
+calculado o valor percentual 
+de incremento em relação 
+ao 
+quantitativo 
+no 
+ano 
+anterior. 
+ 
+ID10 = 
+(Quantidade)  
+(Quantidade a
+  
+8,96% 
+Nota 
+Recebida x 
+Peso 
+Bom (80% a 99%)  
+Regular (60% a 
+79%) 
+Ruim (Abaixo de 
+60%) 
+2 
+Cumprimento das metas de 
+ampliação gradativa da 
+coleta seletiva nos 
+Ecopontos (Tabela 3 do 
+Caderno de Encargos) 
+Ótimo (100%) 
+Anual 
+O indicador deverá ser 
+apurado pela Fiscalização a 
+partir 
+dos 
+relatórios 
+de 
+entregas de recicláveis nas 
+CTM. Será apropriado o 
+quantitativo em número de 
+viagens (vg) de resíduos 
+recicláveis entregues nas 
+CTM  e calculado o valor 
+percentual de incremento 
+em relação ao quantitativo 
+no ano anterior. 
+ 
+ID11 = 
+(Quantidade)  
+(Quantidade a
+  
+8,96% 
+Nota 
+Recebida x 
+Peso 
+Bom (80% a 99%)  
+Regular (60% a 
+79%) 
+Ruim (Abaixo de 
+60%) 
+3 
+Nível de satisfação da 
+população com o serviço 
+Ótimo (100%) 
+Trimestral 
+O concessionário deverá 
+implantar um Sistema de 
+ 
+  
+8,96% 
+Bom (80% a 99%)  
+
+ 
+ 
+prestado (medido através 
+do SAC) 
+Regular (60% a 
+79%) 
+Atendimento 
+ao 
+Cliente 
+(SAC) através de ligação 
+gratuita dos usuários para 
+recebimento de demanda 
+de serviços, reclamações, 
+sugestões de melhoria dos 
+serviços objeto do contrato. 
+Ao final de cada ligação 
+deverá ser avaliado o nível 
+de satisfação do usuário 
+com 
+os 
+serviços. 
+Trimestralmente 
+será 
+apurado o valor percentual 
+da média das notas de 
+avaliação e a quantidade de 
+ligações 
+recebidas 
+de 
+acordo com as metas do 
+cronograma. 
+ID12 = (Notas de 
+avaliação)             
+(Quantidade de 
+ligações) 
+ 
+Nota 
+Recebida x 
+Peso 
+Ruim (Abaixo de 
+60%) 
+4 
+Nível de satisfação da 
+população com o serviço 
+prestado (medido através 
+de pesquisa junto à 
+população) 
+Ótimo (100%) 
+Anual 
+O concessionário deverá 
+realizar 
+anualmente 
+pesquisa junto aos usuários 
+dos 
+serviços 
+objeto 
+da 
+concessão, para avaliação 
+da qualidade dos serviços 
+prestados 
+pela 
+concessionária. 
+ 
+ID13 = (Média
+Notas da Pesq
+variando de 0 
+(amostras 
+realizadas) 
+  
+8,96% 
+Not
+a Recebida x 
+Peso 
+Bom (80% a 99%)  
+Regular (60% a 
+79%) 
+Ruim (Abaixo de 
+60%) 
+5 
+Avaliação da 
+execução do Programa de  
+Educação Ambiental 
+Ótimo (100%) 
+Anual 
+O concessionário deverá 
+apresentar 
+ao 
+Poder 
+Concedente o Programa de 
+Educação Ambiental que 
+será desenvolvido durante 
+a vigência do contrato; com 
+plano de ação, cronograma 
+das atividades e metas 
+anuais. 
+O 
+Poder 
+Concedente 
+após 
+a 
+aprovação do programa, irá 
+aferir 
+periodicamente 
+o 
+desempenho 
+através 
+da 
+ 
+ID14 = (Metas
+realizadas)     
+(Meta prevista
+contrato) 
+ 
+ 
+  
+2,99% 
+Nota 
+Recebida x 
+Peso 
+Bom (80% a 99%)  
+Regular (60% a 
+79%) 
+Ruim (Abaixo de 
+60%) 
+
+ 
+ 
+razão entre a quantidade de 
+metas atingidas e a de 
+metas previstas  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TOTAL 
+  
+38,81% 
+  
+     Fonte: Torres,2025 
+
+ 
+ 
+3 METODOLOGIA PARA OBTENÇÃO DOS INDICADORES DE DESEMPENHO 
+A metodologia de apuração dos indicadores de desempenho tem o objetivo de criar 
+uma forma de mensuração de índices e medições operacionais, que permita a avaliação da 
+qualidade e da eficiência dos serviços prestados pela CONCESSIONÁRIA.  
+A apuração de serviços de manejo dos resíduos sólidos, na maioria dos serviços 
+implementados, será a quantidade de resíduos gerados pelo usuário, conforme os pesos 
+apresentados na Tabela 3. 
+3.1 PERIODICIDADE DA MEDIÇÃO DOS INDICADORES 
+A periodicidade de mensuração foi definida na metodologia, em função das 
+características de cada indicador e do espaço de tempo mais adequado à avaliação. 
+3.2 OBTENÇÃO DOS DADOS DE CÁLCULO PARA OS INDICADORES 
+A extração dos dados poderá ser feita pela CONCESSIONÁRIA ou pela fiscalização 
+do poder concedente. A CONCESSIONÁRIA implantará controle e registros para 
+disponibilizar fidedignamente esses dados, a exemplo de: 
+✔ Relatório de inspeção em campo; 
+✔ Ordens de Serviço (OS) da CONCESSIONÁRIA; 
+✔ Relatórios Operacionais; 
+✔ Relatório das auditorias ambientais;  
+✔ Relatório de Registro do Sistema SAC da CONCESSIONÁRIA; e 
+✔ Relatório de Resultado da Pesquisa de opinião contratada pela CONCESSIONÁRIA. 
+ 
+O 
+PODER 
+CONCEDENTE 
+utilizará 
+os 
+dados 
+disponibilizados 
+pela 
+CONCESSIONÁRIA e os sistemas automatizados e georreferenciados. 
+3.3 MATRIZ DE PESOS DE INDICADORES 
+O peso foi estabelecido utilizando o nível de relevância e a praticidade na obtenção 
+dos dados, que incidem na fórmula de cálculo do indicador. 
+O nível de relevância de cada indicador foi determinado a partir do nível de exigência 
+para o seu cumprimento, com base na relevância para a avaliação de qualidade dos serviços 
+prestados. 
+
+ 
+ 
+O nível de praticidade indica se há um maior ou menor grau de dificuldade na obtenção 
+de dados, pelo fato de não ser um serviço aferido através de registro por instrumento de 
+medição, o que pode acarretar impactos na mensuração e na universalidade de atendimento. 
+Dessa forma, indicadores que não têm uma mensuração considerada prática – ou seja, para 
+os quais é difícil a obtenção de um ou mais parâmetros de cálculo – devem ter um peso menor 
+na composição da nota consolidada de avaliação. 
+As avaliações de relevância e a praticidade de cada indicador comporão a matriz 
+responsável pelo cálculo do FA, conforme tabelas a seguir.  
+Tabela 5 - Avaliações de relevância e a praticidade dos indicadores de desempenho 
+AVALIAÇÕES DE RELEVÂNCIA E A PRATICIDADE DOS INDICADORES 
+Peso 
+Relevância  
+Peso  
+Regularidade  
+9 
+Muito Relevante 
+9 
+Muito Regular  
+6 
+Relevante 
+6 
+Regular  
+3 
+Pouco Relevante  
+3 
+Pouco Regular  
+Fonte: Torres Construções (2025)
+
+ 
+ 
+ 
+Tabela 6 - Metodologia de cálculo do peso por serviço 
+METODOLOGIA DE CÁLCULO DO PESO POR SERVIÇO 
+INDICADORES 
+  
+RELEVÂNCIA 
+ATENDIME
+NTO 
+= 
+% 
+61,19% 
+OPERACIONAIS 
+Atendimento da coleta domiciliar urbana, observando-se a 
+frequência e eventuais descumprimento de roteiros. 
+9 
+2 
+18 8,96% 
+Atendimento da coleta domiciliar nas áreas de difícil acesso em 
+conformidade com o estabelecido no contrato. 
+9 
+3 
+27 13,43% 
+Atendimento da coleta domiciliar nas áreas rurais em conformidade 
+com o estabelecido no contrato 
+9 
+3 
+27 13,43% 
+Atendimento da coleta de resíduos dos serviços de saúde em 
+conformidade com o estabelecido no contrato 
+9 
+2 
+18 8,96% 
+Atendimento da coleta de resíduos da construção civil e demolição 
+em conformidade com o estabelecido no contrato 
+6 
+2 
+12 5,97% 
+Implantação e manutenção dos PEVs previstos em contrato 
+3 
+2 
+66 2,99% 
+Implantação de programa de capacitação de pessoal operacional e 
+técnico envolvidos no sistema de coleta e transporte de resíduos 
+3 
+2 
+66 2,99% 
+Apresentação da frota de veículos, máquinas e equipamentos 
+conforme programação visual, condições de asseio e conservação 
+3 
+2 
+66 2,99% 
+Verificação dos Certificados de Calibração emitido pelo INMETRO 
+e do atendimento ao cronograma de manutenção preventiva 
+periódica da balança das ETRs e do CVR 
+3 
+1 
+33 1,49% 
+SOCIOAMBIENTA
+IS 
+0 
+Cumprimento das metas de ampliação gradativa da geração de 
+composto orgânico destinados em aterro sanitário (Tabela 2 do 
+Caderno de Encargos) 
+6 
+3 
+18 8,96% 
+38,81% 
+1 
+Cumprimento das metas de ampliação gradativa da coleta seletiva 
+nos Ecopontos (Tabela 3 do Caderno de Encargos) 
+6 
+3 
+18 8,96% 
+
+ 
+ 
+2 
+Nível de satisfação da população com o serviço prestado 
+(medido através do SAC) 
+9 
+2 
+18 8,96% 
+3 
+Nível de satisfação da população com o serviço prestado 
+(medido através de pesquisa junto à população) 
+9 
+2 
+18 8,96% 
+4 
+Avaliação 
+da 
+execução 
+do 
+Programa 
+de  
+Educação Ambiental 
+3 
+2 
+66 2,99% 
+TOTAL  
+ 
+100,00% 
+ 
+Fonte: Torres Construções (2025)
+
+                         
+Tabela 7 - Pesos dos níveis de atendimento 
+                                                 Fonte: Torres Construções (2025) 
+3.4 CRITÉRIOS PARA PONTUAÇÃO POR FAIXAS DE DESEMPENHO 
+ 
+A pontuação dos indicadores deve seguir a tabela abaixo, observando a faixa em que se 
+enquadra a nota alcançada pela CONCESSIONÁRIA em cada serviço e seus respectivos 
+fatores de aplicação para fins de reajuste. 
+Tabela 8 - Critérios para pontuação 
+                                                 Fonte: Torres Construções (2025) 
+3.5 CONSOLIDAÇÃO DOS INDICADORES DE DESEMPENHO 
+A nota alcançada pela Concessionária utilizará a metodologia de cálculo da tabela a 
+seguir:  
+Tabela 9 - Ficha modelo de apuração 
+ 
+INDICADORES DE DESEMPENHO – MODELO DE APLICAÇÃO CONTRATO 
+ 
+Avaliação referente ao período: 
+ 
+FICHA DE APURAÇÃO 
+ 
+ITEM 
+REQUISITOS  
+PESO 
+NOTA 
+ALCANÇADA PELA 
+CONCESSIONÁRIA  
+% DA NOTA 
+MÁXIMA 
+1 
+OPERACIONAIS  
+61,19% 
+0,00% 
+61,19% 
+2 
+SOCIOAMBIENTAIS 
+ 
+ 
+38,81% 
+0,00% 
+38,81% 
+ATENDIMENTO 
+DESCRIÇÃO 
+PESO 
+Fácil atendimento 
+1 
+Médio atendimento 
+2 
+Difícil atendimento 
+3 
+CRITÉRIOS 
+ÓTIMO (90% a 100%) 
+Bom (80% a 89,99%) 
+Regular (60% a 79%) 
+Ruim (abaixo de 60%) 
+
+                         
+ 
+TOTAL  
+100% 
+ 
+ 
+Resultado da Avaliação de Desempenho (Fator ID) **0 
+100,00% 
+* Nota ponderada em função dos pesos de cada indicador. 
+**Resultado da Avaliação de Desempenho é obtido pela conversão da Nota Ponderada 
+Total para base 100. 
+Fonte: Torres Construções (2025) 
+3.6 SISTEMAS DE AVALIAÇÃO DO NÍVEL DE SATISFAÇÃO DOS USUÁRIOS 
+3.6.1 SERVIÇO DE ATENDIMENTO AO CLIENTE (SAC) 
+O serviço de atendimento ao cliente (SAC) é uma ferramenta importante como canal 
+de comunicação entre o usuário dos serviços e a Concessionária e deverá ser implementado, 
+de forma que garanta o atendimento e a obtenção, através de seus relatórios, de importantes 
+dados para análise, avaliação dos pontos críticos e busca contínua de melhorias. 
+A CONCESSIONÁRIA submeterá a definição geral do serviço, as métricas, os 
+processos padronizados e as ferramentas de gestão do atendimento à aprovação pelo 
+PODER CONCEDENTE e pela Agência Reguladora. 
+3.6.2 PESQUISA DE AVALIAÇÃO DO NÍVEL DE SATISFAÇÃO DOS USUÁRIOS 
+A pesquisa de satisfação dos usuários é um canal de escuta ativa, que deverá ser 
+anual e ter como principal objetivo escutar os usuários do sistema com relação à qualidade 
+dos serviços contratados.  
+A pesquisa deverá ser quantitativa, utilizando questionário estruturado com a coleta 
+de dados através de pesquisas individuais em domicílios, realizada com o responsável da 
+residência ou cônjuge. A amostra deve ser representativa para que a inferência estatística 
+produza resultados. A pesquisa abrangerá os domicílios ocupados dos municípios integrantes 
+do CDS VELHO CHICO e o resultado final deve respeitar o intervalo de confiança de 95% e 
+a margem de erro de 3 pontos percentuais. 
+O produto final da pesquisa será o relatório analítico que apresente as percepções dos 
+usuários quanto à qualidade dos serviços, que servirá de ferramenta para os gestores 
+qualificarem os processos e tomarem decisões. 
+A pesquisa deverá ser realizada pela empresa competente contratada pelo Poder 
+Concedente, que comprovadamente seja desinteressada do objeto concedido. A pesquisa 
+ocorrerá sob supervisão do PODER CONCEDENTE, da Agência Reguladora e da 
+
+                         
+CONCESSIONÁRIA. O questionário de quesitos da pesquisa será elaborado em conjunto 
+pelo PODER CONCEDENTE e CONCESSIONÁRIA.  
+4 INCIDÊNCIA DO INDICADOR DE DESEMPENHO NO CÁLCULO DO REAJUSTE 
+CONTRATUAL  
+4.1 FATOR DE AVALIAÇÃO 
+A CONCESSIONÁRIA, conforme estabelecido no CONTRATO DE CONCESSÃO, 
+fará jus anualmente ao reajuste da tarifa pela variação do indexador utilizado para atualização 
+dos últimos 12 (doze) meses, contados a partir da emissão da Ordem de Serviço. 
+O indexador será composto por uma cesta de índices que leva em consideração os 
+custos ponderados dos serviços executados, a saber: 
+Índice de Reajuste = [0,30 ∗ (𝑀𝑂𝑖/𝑀𝑂0)] + [0,20 ∗ (𝐸𝑄𝑖/𝐸𝑄0)] + [0,10 ∗ (𝑂𝐵𝑖/𝑂𝐵0)] + [0,10 ∗ 
+(𝑂𝐷𝑖/𝑂𝐷0)] + [0,30 ∗ (𝑆𝐸𝑖/𝑆𝐸0)    
+Onde:  
+I reaj = Índice de Reajuste com base na ponderação de cesta de índices   
+MOi = piso salarial estabelecido em acordo coletivo de trabalho ou convenção coletiva de 
+trabalho, para reajuste da mão-de-obra, relativo ao mês de reajuste contratual.  
+MO0 = piso salarial estabelecido em acordo coletivo de trabalho ou convenção coletiva de 
+trabalho, para reajuste da mão-de-obra, relativo ao mês de apresentação da proposta.  
+EQi = número índice do IPA-OG-Veículos Automotores (FGV), para reajuste de 
+equipamentos, relativo ao mês de reajuste contratual. 
+EQ0 = número índice do IPA-OG-Veículos Automotores (FGV), para reajuste de 
+equipamentos, relativo ao mês de apresentação da proposta.  
+OBi = número índice do INCC (FGV), para reajuste de obras, relativo ao mês de reajuste 
+contratual. OB0 = número índice do INCC (FGV), para reajuste de obras, relativo ao mês de 
+apresentação da proposta.  
+ODi = Preço do Óleo Diesel (ANP), para reajuste de combustível, custo pneumático e 
+lubrificação, relativo ao mês de reajuste contratual.  
+OD0 = Preço do Óleo Diesel (ANP), para reajuste de combustível, custo pneumático e 
+lubrificação, relativo ao mês de apresentação da proposta.  
+SEi = número índice do IPCA (IBGE), para reajuste de serviços e demais itens, relativo ao 
+mês de reajuste contratual.  
+
+                         
+SE0 = número índice do IPCA (IBGE), para reajuste de serviços e demais itens, relativo ao 
+mês de apresentação da proposta. 
+Para efeito da apuração do valor da Tarifa do Usuário Final (TUF), além da aplicação 
+do reajustamento citado anteriormente, deverá haver a recomposição mediante a aplicação 
+do FATOR DE AVALIAÇÃO, de acordo com a fórmula a seguir:  
+TUF Reajustada = [TUF x ((1 +I reaj) x (FA)] 
+Onde:  
+• TUF = Tarifa Usuário Final;  
+• I reaj = Índice de Reajuste com base na ponderação de cesta de índices  
+• FA = Fator de Avaliação;  
+A TARIFA DO ENTE PÚBLICO será reajustada a cada 12 (doze) meses, a contar da 
+emissão da Ordem de Serviço, sendo que o primeiro reajuste levará em consideração a data 
+de apresentação da Proposta da licitante. O indexador utilizado para atualização será 
+composto pela mesma cesta de índices utilizada para reajuste da TUF, que leva em 
+consideração os custos ponderados dos serviços executados.  
+Tarifa Reajustada = [TEP x ((1 +I reaj) x (FA)] 
+Onde: • TEP = Tarifa do Ente Público;  
+• I reaj = Índice de Reajuste com base na ponderação de cesta de índices   
+• FA = Fator de Avaliação; 
+A Concessionária será avaliada, conforme periodicidade, pelos serviços prestados, 
+tendo os seus resultados consolidados anualmente para efeito de avaliação de performance. 
+A Pontuação Final do Indicador de Desempenho irá incidir no cálculo do reajuste da 
+tarifa, através da aplicação do Fator de Avaliação, conforme tabela a seguir. 
+Tabela 10 - Pontuação e fator de avaliação 
+PONTUAÇÃO E FATOR DE AVALIAÇÃO 
+NOTA 
+FATOR DE APLICAÇÃO PAARA 
+REAJUSTE 
+Acima de 90% 
+1 
+Entre 80% e 89,99% 
+0,990 
+Entre 70% e 79,99% 
+0,9800 
+Entre 60% e 69,99% 
+0,9700 
+Abaixo de 60% 
+0,9600 
+Fonte: Torres Construções (2025) 
+
+                         
+ 
+O Fator de Aplicação (FA) comporá a fórmula de reajuste da tarifa e incidirá 
+diretamente sobre o preço da tarifa reajustada, conforme definido no contrato. 
+4.1 IMPACTO NO REAJUSTE DAS TARIFAS 
+ 
+A Tarifa do Usuário final (TUF) e a Tarifa do Ente Público (TEP) serão reajustadas a 
+cada 12 meses, a contar da emissão da Ordem de Serviço, sendo que o primeiro reajuste 
+levará em consideração, para início do cálculo, a data de apresentação da Proposta do 
+Licitante. O índice utilizado para atualização será o “I reaj” apresentado no Anexo I do Edital 
+– Caderno de Encargos e levará em consideração, para sua nova composição, o Fator de 
+Aplicação (FA) e o Crédito da Receita Extraordinária fruto de Tecnologias (CRT), de acordo 
+com a fórmula a seguir: 
+Tarifa Reajustada = TUF x [(I reaj) x (FA)+1] – [CRT] 
+Onde: 
+• TUF = Tarifa do usuário final; 
+• I reaj = Índice de Reajuste com base na ponderação de cesta de índices; 
+• FA = Fator de Avaliação; 
+• CR = Crédito da Receita Acessória aplicadas ao beneficiamento dos resíduos e 
+aproveitamento energético: 3% (três por cento) do valor da receita bruta acessória apurada 
+nas atividades ou serviços complementares, alternativos ou acessórios, conforme 
+apresentado no Caderno de Encargos. 
+Tarifa Reajustada = TEP x [(I reaj) x (FA)+1] – [CRT] 
+Onde: 
+• TEP = Tarifa do ente público; 
+• I reaj = Índice de Reajuste com base na ponderação de cesta de índices; 
+• FA = Fator de Avaliação; 
+• CR = Crédito da Receita Acessória aplicadas ao beneficiamento dos resíduos e 
+aproveitamento energético: 3% (três por cento) do valor da receita bruta acessória apurada 
+nas atividades ou serviços complementares, alternativos ou acessórios, conforme 
+apresentado no Caderno de Encargos.  
+
+
