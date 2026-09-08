@@ -12,7 +12,8 @@ Não é análise de edital; por isso não segue o pipeline E1–E4/C/AN/R do `CL
 | `memo-dois-contratos-destinacao-final.docx` | Mesmo memo em Word (Times New Roman 12, espaçamento 1,5, A4) |
 | `fontes/links.md` | URLs de todos os documentos consultados |
 | `fontes/contrato-consorcio-amsa-2018-trechos.md` | Transcrição das cláusulas relevantes do Contrato de Consórcio (versão 5/04/2018), feita a partir das imagens do anexo à Lei 334/2018 de Mulungu |
-| `fontes/contrato-rateio-04-2025-baturite.md` | Resumo do Contrato de Rateio 04/2025 (cota de R$ 30 mil/mês; fonte ICMS/IQM) |
+| `fontes/contrato-rateio-04-2025-baturite.md` | Resumo e transcrição das cláusulas financeiras do Contrato de Rateio 04/2025 (cota de R$ 30 mil/mês; autorização de retenção do ICMS/IQM pela SEFAZ) |
+| `fontes/retencao-icms-iqm.md` | Onde está prevista a retenção do ICMS/IQM em favor da AMSA: documentos do consórcio, base estadual, modelo em outros consórcios cearenses, lacunas e precedentes de Tribunais de Contas `[VIT]` |
 | `fontes/textos/` | Texto extraído (camada de texto ou OCR) dos estatutos, atas, editais de convocação, portarias, despacho do MP e leis de ratificação |
 
 ## Pendências registradas no memo

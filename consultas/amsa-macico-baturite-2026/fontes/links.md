@@ -69,3 +69,19 @@ Listagem: https://amsa.ce.gov.br/normativosproprios (30 registros; a paginação
 - Secretaria das Cidades do Ceará, consórcios públicos de resíduos: https://www.cidades.ce.gov.br/consorcios-publicos-de-residuos/
 - Reportagem (custo de R$ 100/t no aterro de Baturité): https://portalterradaluz.com.br/destaques/gestao-consorcio-de-lixo-do-macico-de-baturite-arrecada-milhoes-mas-centrais-seguem-abandonadas/
 - Valores da Lei 14.133 para 2026 (Decreto 12.807/2025): https://elicitacao.com.br/2026/01/15/valores-de-licitacao-em-2026/ (fonte secundária)
+
+## Fontes sobre a retenção do ICMS/IQM (levantamento de 8/09/2026)
+
+- Consórcio Litoral Norte, Contrato de Rateio 07/2025 (Granja): https://www.cpmrsrln.ce.gov.br/arquivos/234/CR%20%20CONTRATOS%20DE%20RATEIO_07_2025_0000001.pdf
+- Consórcio Serra da Ibiapaba, Contrato de Rateio 002/2024 (Ibiapina): https://cpmrsri.ce.gov.br/arquivos/57/CONTRATOS%20DE%20RATEIO_002_2024_0000001.pdf
+- COMARES Litoral Leste, publicações (orçamento 2026 com receita "Transferências de Municípios a Consórcios Públicos / IQM"): https://www.comaresucv.ce.gov.br/publicacoes
+- Decreto Estadual 37.051/2025 (LegisWeb, fonte secundária): https://www.legisweb.com.br/legislacao/?id=488957
+- Decreto Estadual 35.051/2022 (SEMA, PDF não acessado): https://www.sema.ce.gov.br/wp-content/uploads/sites/36/2023/01/Decreto-Estadual-no-35.051-15-de-dezembro-de-2022-Altera-metodologia-calculo-do-Indice-Municipal-de-Qualidade-do-Meio-Ambiente-IQM.pdf
+- Decreto Estadual 29.306/2008 (SEMA, PDF não acessado): https://www.sema.ce.gov.br/wp-content/uploads/sites/36/2021/09/Decreto-Estadual-no-29.306-de-05-de-junho-de-2008-Indice-Municipal-de-Qualidade-de-Meio-Ambiente-IQM.pdf
+- Lei Estadual 12.612/1996 (BELT/AL-CE, indisponível durante a consulta): https://belt.al.ce.gov.br/index.php/legislacao-do-ceara/titulos-de-utilidade-publica/item/2512-lei-n-12-612-de-07-08-96-d-o-de-12-08-96
+- Lei Estadual 17.320/2020 (BELT/AL-CE, indisponível durante a consulta): https://belt.al.ce.gov.br/index.php/legislacao-do-ceara/organizacao-tematica/viacao-transportes-desenvolvimento-urbano/item/8043-lei-n-17-320-22-10-2020-d-o-23-10-20
+- Portaria SEFAZ 358/2024 (índices 2025; LegisWeb): https://www.legisweb.com.br/legislacao/?id=465215
+- IPECE, Notas Explicativas — índices de rateio da cota-parte do ICMS 2022/2023: https://www.ipece.ce.gov.br/wp-content/uploads/sites/45/2022/09/Notas_explicativas_ICMS_2022.pdf
+- SEPLAG, apresentação "Cota Parte do ICMS: incentivos financeiros" (jul. 2024): https://www.seplag.ce.gov.br/wp-content/uploads/sites/14/2025/01/Apresentacao-Evento-SEPLAG-CE_Jul2024.pdf
+- TCE-CE, infográfico da distribuição da cota-parte do ICMS: https://www.tce.ce.gov.br/downloads/INFOGRAFICO_cota_ICMS.pdf
+- CNM, Os Consórcios Públicos e a Jurisprudência dos Tribunais de Contas (2016), item 5.4: https://cnm.org.br/storage/biblioteca/Consorcios-publicos-e-a-jurisprudencia-dos-tribunais-de-contas.pdf
