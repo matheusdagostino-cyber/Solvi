@@ -10,6 +10,7 @@ Não é análise de edital; por isso não segue o pipeline E1–E4/C/AN/R do `CL
 |---|---|
 | `memo-dois-contratos-destinacao-final.md` | Memo interno `[USO INTERNO]` com resposta direta, fundamentos, análise, alternativas de estruturação, checklist e inventário dos 30 normativos da AMSA |
 | `memo-dois-contratos-destinacao-final.docx` | Mesmo memo em Word (Times New Roman 12, espaçamento 1,5, A4) |
+| `memo-cota-extra-estrutura-juridica.md` / `.docx` | Memo `[USO INTERNO]` restrito à estrutura jurídica da cota extra: os três instrumentos (contrato AMSA–unidade, contrato de rateio com franquia, contrato de programa) e a mecânica de apuração, preço, cobrança e pagamento do excedente |
 | `fontes/links.md` | URLs de todos os documentos consultados |
 | `fontes/contrato-consorcio-amsa-2018-trechos.md` | Transcrição das cláusulas relevantes do Contrato de Consórcio (versão 5/04/2018), feita a partir das imagens do anexo à Lei 334/2018 de Mulungu |
 | `fontes/contrato-rateio-04-2025-baturite.md` | Resumo e transcrição das cláusulas financeiras do Contrato de Rateio 04/2025 (cota de R$ 30 mil/mês; autorização de retenção do ICMS/IQM pela SEFAZ) |
