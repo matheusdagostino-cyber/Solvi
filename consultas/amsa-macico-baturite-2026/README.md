@@ -10,7 +10,7 @@ Não é análise de edital; por isso não segue o pipeline E1–E4/C/AN/R do `CL
 |---|---|
 | `memo-dois-contratos-destinacao-final.md` | Memo interno `[USO INTERNO]` com resposta direta, fundamentos, análise, alternativas de estruturação, checklist e inventário dos 30 normativos da AMSA |
 | `memo-dois-contratos-destinacao-final.docx` | Mesmo memo em Word (Times New Roman 12, espaçamento 1,5, A4) |
-| `memo-estrutura-juridica-modelo-regional.md` / `.docx` | Memo `[USO INTERNO]` com a estrutura jurídica completa do modelo de destinação final regional: premissas, contrato do consórcio com a unidade, contrato de programa, contrato de rateio com franquia, cota extra, Fundo Regional e contas por município, garantias, regulação, fluxo obrigacional e atos de implementação |
+| `memo-posicao-consolidada-estrutura-juridica.md` / `.docx` | Memo `[USO INTERNO]` com a posição consolidada (AMSA como prestadora direta, rateio com três parcelas e cota extra como parcela variável, sem contrato de programa), a estrutura jurídica completa dessa posição, as Posições II (contrato de programa) e III (contratação pelos municípios) fechadas em si, matriz de confronto e regras de não contaminação |
 | `fontes/links.md` | URLs de todos os documentos consultados |
 | `fontes/contrato-consorcio-amsa-2018-trechos.md` | Transcrição das cláusulas relevantes do Contrato de Consórcio (versão 5/04/2018), feita a partir das imagens do anexo à Lei 334/2018 de Mulungu |
 | `fontes/contrato-rateio-04-2025-baturite.md` | Resumo e transcrição das cláusulas financeiras do Contrato de Rateio 04/2025 (cota de R$ 30 mil/mês; autorização de retenção do ICMS/IQM pela SEFAZ) |
