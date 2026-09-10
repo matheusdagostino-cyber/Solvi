@@ -1,0 +1,15 @@
+ |  | SENSIBILIDADE
+ |  |  |  |  |  | Variação em %
+ |  | Geração de Resíduos
+ |  | População total (hab.)  |  |  |  | 0
+ |  | Geração per capita RSD (Kg/hab/d) |  |  |  | 0
+ |  | Inadimplência |  |  |  | 0
+ |  | Receita Acessória
+ |  | Valor de venda da energia (R$ por MWh) |  |  |  | 0
+ |  | VPL  |  |  |  | 0
+ |  | TIR  a.a. |  |  |  | 0.11686498859823247
+ |  | TIR a.m. |  |  |  | 0.009253017167338395
+ |  | Tarifa-Base Referencial (R$/m³) |  |  |  | 2.855879456931295
+ |  | Tarifa Básica dos Entes Públicos (R$ por tonelada) |  |  |  | 223.66777191751288
+ | Para recalcular clicar na macro "Zerar VPL" Tarifa Básica dos Entes Públicos (R$ por tonelada) - Aba "Cálculo Valor RPU", após, clicar na marcro "Zerar VPL" na aba "Fluxo de Caixa".
+[14 linhas]

@@ -1,0 +1,9 @@
+--- ORIGINAL
++++ REPUBLICADO
+@@ -11,4 +11,4 @@
+  |  | TIR a.m. |  |  |  | 0.009253017167338395
+- |  | Tarifa-Base Referencial (R$/m³) |  |  |  | 2.8567488023289074
+- |  | Tarifa Básica dos Entes Públicos (R$ por tonelada) |  |  |  | 223.6683778869185
++ |  | Tarifa-Base Referencial (R$/m³) |  |  |  | 2.855879456931295
++ |  | Tarifa Básica dos Entes Públicos (R$ por tonelada) |  |  |  | 223.66777191751288
+  | Para recalcular clicar na macro "Zerar VPL" Tarifa Básica dos Entes Públicos (R$ por tonelada) - Aba "Cálculo Valor RPU", após, clicar na marcro "Zerar VPL" na aba "Fluxo de Caixa".

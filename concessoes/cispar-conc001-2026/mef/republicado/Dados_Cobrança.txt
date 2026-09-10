@@ -1,0 +1,52 @@
+ | Levantamento de despesas estimadas com cobrança e arrecadação
+ | Registro e Liquidação | Itaú¹ | SICOOB² | BANPARÁ³ | Banco do Brasil4 | Média
+ | Serviço de registro de liquidação (valor atualizado) | 1.9119027599999998 | 1.2794452799999998 | 2.34940288 | 3.138822135 | 2.1698932637499997
+ | Serviço de registro de liquidação (vlr. Unit. Nominal) | 1.8 | 1.2 | 2.2 | 2.85 | 2.0125
+ | Data de assinatura do contrato | 2024-05-23 00:00:00 | 2024-04-01 00:00:00 | 2024-03-06 00:00:00 | 2023-05-04 00:00:00
+ | Índice de ajuste | 0.0621682 | 0.0662044 | 0.0679104 | 0.1013411
+ | Atualização pelo IPCA para data base: ago/25
+ | ¹ Contrato n° 026/2024. Município de Goianira e itaú Unibanco S.A. Disponível em: https://pncp.gov.br/app/contratos/01291707000167/2024/24
+ | ² Contrato n° 081/2024. Município de São Bento do Sul e SICOOB-CREDINORTE. Disponível em: https://pncp.gov.br/app/contratos/86051398000100/2024/158
+ | ³ Contrato n° 002/2024. Secretaria Executiva do Estado da Fazenda Pará e BANPARÁ. Disponível em: https://pncp.gov.br/app/contratos/05054861000176/2024/44
+ | 4 Contrato n° 014/2023. Conselho Regional dos Representantes Comerciais no Estado de Minas Gerais e Banco do Brasil. Disponível em: https://pncp.gov.br/app/contratos/17314360000160/2023/3
+ | Impressão | Ata de Registro de Preços N°467/2023¹ | Ata de Registro de Preços N°009/2024² | Ata de Registro de Preços Nº07/2023³ | Ata de Registro de Preços4 | Média
+ | Serviço de impressão (Valor Atualizado) | 0.23921737399999998 | 0.10550889000000002 | 0.21625930000000004 | 0.43070959999999997 | 0.247923791
+ | Serviço de impressão Valor Nominal | 0.22 | 0.1 | 0.2 | 0.4 | 0.23
+ | Data de assinatura do contrato | 2023-12-13 00:00:00 | 2024-07-17 00:00:00 | 2024-01-18 00:00:00 | 2024-02-05 00:00:00
+ | Atualização pelo IPCA para data base: ago/25 | 0.0873517 | 0.0550889 | 0.0812965 | 0.076774
+ | ¹ Ata de Registro de Preços Nº 467/2023. Pregão Eletrônico Nº 179/2023. Prefeitura Municipal de Marília. Disponível em: https://pncp.gov.br/app/atas/44477909000100/2023/5/1
+ | ² Ata de Registro de Preços Nº 009/2024. Pregão Eletrônico Nº 008/2024. Conselho Regional de Enfermagem de Santa Catarina. Disponível em: https://pncp.gov.br/app/atas/75308106000156/2024/18/1
+ | ³ Ata de Registro de Preços Nº 007/2023. Pregão Eletrônico Nº 261/2023. Município de Montes Claros. Disponível em: https://pncp.gov.br/app/atas/22678874000135/2023/315/1
+ | 4 Ata de Registro de Preços. Pregão Eletrônico Nº 001/2024. Município de Rio Pomba. Disponível em: https://pncp.gov.br/app/atas/17744434000107/2024/1/1
+ | Postagem | ECT¹
+ | Faixa de Peso (em gramas) até 20 | 3.7
+ | ¹Portaria MCOM Nº 17.364, de 7 de abril de 2025, do Ministério das Comunicações.
+ | Sistema de Gestão da Cobrança
+ | SISTEMA DE GESTÃO DA COBRANÇA |  | Valor Nominal | Valor Atual.
+ | Implantação | Parcela única | 14000 | 14771.244600000002
+ | Treinamento | Parcela única | 3000 | 3165.2667
+ | Plano com 20.000 contrato ativos e 20 licenças | Mês | 3500 | 3692.8111500000005
+ | Contratos Adicional Unitário | Mês | 0.02 | 0.021101778
+ | Serviços (SMS, WhatsApp, E-mail) unitário | Mês | 0.27 | 0.28487400300000004
+ | Índice de correção IPCA |  | 0.0550889
+ | Fonte: Cotação julho de 2024
+ | EQUIPE DE GESTÃO DA COBRANÇA | Quantidade | Valor unitário
+Mensal | Valor total
+Mensal
+ | Coordenador | 1 | 15200 | 15200
+ | Advogado | 1 | 16900 | 16900
+ | Administrativo de cobrança | 3 | 3560 | 10680
+ | Administrativo de jurídico | 3 | 3560 | 10680
+ | Total |  | 39220 | 53460
+ | Fonte: Guia Salarial Roberto Half, 2025.
+ | Negativação | Associação Comercial do Paraná¹ | Previnity Soluções Inteligentes em Informática² | Armando Semeghini³ | Média
+ | Instrução de Protesto/inclusão de Negativação | 5.63 | 3.99 | 2.79 | 4.136666666666667
+ | Instrução de Protesto/inclusão de Negativação Nominal | 5.63 | 3.99 | 2.79 | 4.136666666666667
+ | Data de assinatura do contrato | 2024-09-13 00:00:00 | 2024-07-24 00:00:00 | 2024-02-16 00:00:00
+ | Atualização pelo IPCA para data base: ago/25
+ | ¹ Contrato Administrativo Nº 155/2024. Município de Nossa Senhora das Graças/PR e a Associação Comercial do Paraná. Disponível em: https://pncp.gov.br/app/contratos/76970300000165/2024/119
+ | ² Contrato de Prestação de serviços que entre si fazem o Município de Porto Seguro e a empresa Previnity Soluções Inteligentes em Informática Ltda. Disponível em:  https://pncp.gov.br/app/contratos/13635016000112/2024/225
+ | ³ Contrato Administrativo Nº 7/2024. Poder Judiciário do Estado de Roraima. Disponível em: https://pncp.gov.br/app/contratos/34812669000108/2024/4
+ | Serviços |  | Referência
+ | Instrução de Protesto / Inclusão de Negativação | por boleto | 4.136666666666667
+[49 linhas]

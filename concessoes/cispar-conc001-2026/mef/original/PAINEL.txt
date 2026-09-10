@@ -1,0 +1,19 @@
+ | Painel de Informações do Projeto
+ | Principais informações e resultados
+ | Prazo de Concessão: |  | 30 | anos
+ | Valor do Capex: |  | 144967729.68 | (considerando todo o período de concessão)
+ |  |  | 144967729.68
+ | Valor do OPEX: |  | 1040707659.8720034 | (considerando todo o período de concessão)
+ | Valor do Contrato: |  | 1743398724.0872536 | (soma das receitas ordinárias previstas para todo o período da concessão)
+ | WACC: |  | 0.11686498859823251 | a.a. real
+ | VPL  |  | 0
+ | TIR  a.a. |  | 0.11686498859823247 | a.a.
+ | TIR  a.m. |  | 0.009253017167338395 | a.m.
+ | Payback simples |  | 10 | anos
+ | Tarifa-Base Referencial (R$/m³) |  | 2.8567488023289074
+ | Tarifa Básica dos Entes Públicos (R$ por tonelada) |  | 223.6683778869185
+ | Valor da tarifa por economia  |  | 413.29891997533355 | ano
+ | (no ano 1) - média |  | 34.44157666461113 | mês
+ | Valor da tarifa per capita |  | 181.45425367422848 | ano
+ | (no ano 1) - média |  | 15.121187806185707 | mês
+[18 linhas]

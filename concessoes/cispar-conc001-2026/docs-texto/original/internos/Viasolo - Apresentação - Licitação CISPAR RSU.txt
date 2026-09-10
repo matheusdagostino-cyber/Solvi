@@ -1,0 +1,192 @@
+
+===== SLIDE 1 =====
+CISPAR | CONCESSÃO DE RESÍDUOS SÓLIDOS URBANOS
+Concorrência nº 01/2026
+[NOTAS] PARA TROCAR A FOTO É SÓ CLICAR EM CIMA 2X DA IMAGEM, DEPOIS CLICAR NO LADO DIREITO DO MOUSE VAI APARECER A OPÇÃO ALTERAR IMAGEM. AI É SÓ IR NO DIRRTÓRIO AONDE ESTÁ A IMAGEM E SUBSTITUIR.
+
+
+===== SLIDE 2 =====
+Informações Gerais
+17
+
+===== SLIDE 3 =====
+Informações gerais da concessão
+Informações gerais | 
+Regime jurídico | Concessão comum
+Poder Concedente | Consórcio Público Intermunicipal de Desenvolvimento Sustentável do Alto Paranaíba (CISPAR)
+Prazo da Concessão | 30 anos a partir da emissão o da primeira Ordem de Serviço
+Critério de julgamento | Maior desconto sobre a tarifa base referencial máxima
+Modo de disputa | Fechado (com possibilidade de disputa por lances)
+Objeto | Prestação dos serviços de: (i) coleta*, transbordo, transporte, triagem para reutilização ou reciclagem, tratamento e destinação final dos resíduos sólidos domésticos (e equiparados aos domésticos); e (ii) transbordo, transporte, triagem, tratamento e destinação final dos resíduos de limpeza urbana.
+*Os serviços de coleta estão excluídos do Município de Presidente Olegário (cl. 6.4 da Minuta de Contrato)
+Área | 9 municípios integrantes do CISPAR
+A Concessionária poderá prestar os serviços de MRSU em munícipios que não integram o CISPAR, após aprovação do Poder Concedente (cl. 23.10 da Minuta de Contrato)
+Valor estimado do contrato | R$ 1.743.398.724,09
+CAPEX total estimado | R$ 144.967.729,68
+Outorga | R$ 50.000,00 / mês
+WACC do projeto | 11,69% 
+Entrega dos envelopes | 14/08/2026 (10h00 às 12h00)
+Sessão pública | 21/08/2026 (14h00)
+
+===== SLIDE 4 =====
+Aspectos Jurídicos Estratégicos do Projeto
+217
+
+===== SLIDE 5 =====
+Bens Reversíveis
+O Edital não apresenta uma lista específica dos bens integrantes da concessão, mas as cls. 1.2.12 e 1.2.13 da Minuta de Contrato definem quais bens devem ser considerados reversíveis e não reversíveis. A cl. 48.29 do Contrato estabelece que o aterro sanitário não constitui bem reversível.
+Minuta de Contrato – cls. 1.2.12 e 1.2.13
+"
+1.2.12 BENS NÃO REVERSÍVEIS: são aqueles que perderam as características de reversibilidade, bem como os bens de uso administrativo e/ou não essenciais e vinculados à prestação dos serviços, que possam ser eventualmente utilizados pela CONCESSIONÁRIA na execução do CONTRATO;
+1.2.13 BENS REVERSÍVEIS: são todos os bens móveis e imóveis, imprescindíveis, essenciais e vinculados à execução da CONCESSÃO, adquiridos pela CONCESSIONÁRIA ou que lhe tenham sido cedidos pelo PODER CONCEDENTE, ao longo de todo o PRAZO DA CONCESSÃO, os quais reverterão em favor do PODER CONCEDENTE após o término, por qualquer razão, da CONCESSÃO, estando excluídos do conceito os BENS NÃO REVERSÍVEIS;
+"
+48.29. Será BEM NÃO REVERSÍVEL o novo ATERRO SANITÁRIO, sendo de responsabilidade exclusiva da CONCESSIONÁRIA sua construção, manutenção, operação e desativação, bem como o gerenciamento de eventuais passivos dele decorrentes.
+Minuta de Contrato – cl. 48.29
+
+===== SLIDE 6 =====
+Irreversibilidade do aterro sanitário
+Aterro sanitário como bem não reversível
+Impactos da Regra Contratual
+Bens reversíveis - Definição do Contrato: 
+Bens móveis e imóveis, imprescindíveis, essenciais e vinculados à execução da concessão. 
+Adquiridos pela concessionária ou cedidos pelo Concedente.
+Bens não reversíveis - Definição do Contrato: 
+Bens que perderam as características de reversibilidade, de uso administrativo e/ou não essenciais ou vinculados. 
+Risco de ausência de indenização relativa ao aterro em caso de extinção antecipada (caducidade, encampação, rescisão)
+Passivo ambiental sem destinação: aterro permanece em monitoramento por décadas com custos regulatórios
+Risco de Questionamento por órgãos de controle: tarifa remunera o CAPEX do aterro, mas o bem não retorna à Administração
+Risco de invalidade futura: reclassificação unilateral do aterro em bem reversível futuramente geraria litígio sobre equilíbrio econômico-financeiro
+
+===== SLIDE 7 =====
+Irreversibilidade do aterro sanitário
+Providências mitigadoras
+Sugerimos a apresentação de pedido de esclarecimento para confirmar se o aterro sanitário, por constituir infraestrutura permanente, imprescindível, essencial e diretamente vinculada à prestação dos serviços objeto da concessão, deverá ser classificado como bem reversível, especialmente considerando sua previsão no CAPEX do projeto e os conceitos de bens reversíveis previstos no Edital, no Contrato, doutrina e jurisprudência.
+Sugerimos a apresentação de pedido de esclarecimento para abordar expressamente o tema do cabimento de indenização pelos investimentos não amortizados no aterro sanitário em caso de extinção antecipada da concessão.
+
+===== SLIDE 8 =====
+Remuneração da Concessionária
+Sistema tarifário
+Impactos da Regra Contratual
+A Tarifa de Resíduos Sólidos Domésticos (RSD) será cobrada com base no volume faturado de água dos usuários (item 3.1 do Anexo 4 do Contrato e item 1.2 do Anexo 5 do Edital).
+A Tarifa de Resíduos de Limpeza Urbana (RPU) será cobrada do Município considerado o valor de R$ 223,67 por tonelada de resíduo (item 4.1 do Anexo 4 do Contrato). 
+Dependência de terceiro para faturamento: condicionamento da cobrança da RSD ao fornecimento de dados pelo prestador do serviço de água, reduzindo a autonomia operacional da Concessionária de resíduos.
+Assimetria de controle da base de cálculo: impossibilidade de verificação integral do volume faturado de água, que é utilizado como base para a RSD.
+Tarifas de RSD e RPU
+O item 1.2.6 do Anexo 4 do Contrato indica que a emissão das faturas e a cobrança das tarifas serão efetuadas exclusivamente pela Concessionária. Nesse modelo, a Concessionária depende do compartilhamento de dados pela prestadora do serviço de água para cobrança da Tarifa de RSD.
+Modelo de cobrança
+Potencial de conflitos operacionais: divergências quanto à qualidade, periodicidade ou integridade dos dados fornecidos pela concessionária de água.
+Risco de inadimplência: cobrança apartada da RSD em relação ao serviço de água cria desincentivo ao pagamento pelos usuários, elevando os índices de inadimplência.
+
+===== SLIDE 9 =====
+Compartilhamento de dados de consumo de água
+Os itens 2.2.1 e 2.2.1.1 Anexo 4 do Contrato indicam que o Poder Concedente será o responsável pela obtenção dos dados necessários à cobrança da Tarifa de RSD, e que esses dados serão adquiridos anualmente dos Municípios e/ou da agência reguladora. Além disso, o item 2.5 autoriza o cofaturamento desde que por conta e risco da Concessionária.
+Anexo 4 do Contrato – itens 2.2.1 e 2.2.1.1
+"
+2.2.1 O PODER CONCEDENTE assegurará à CONCESSIONÁRIA, durante todo o PRAZO DO CONTRATO, o acesso à base cadastral de USUÁRIOS e aos dados de consumo de água fornecidos pela prestadora do serviço público de abastecimento de água potável atuante na área de abrangência da CONCESSÃO, em conformidade com a legislação vigente.
+2.2.1.1 O PODER CONCEDENTE deverá obter, anualmente, dos MUNICÍPIOS e/ou da agência reguladora do serviço de abastecimento de água potável, informações sobre o consumo de água das unidades autônomas de consumo, para fins de cobrança pela CONCESSIONÁRIA das TARIFAS DE RSD;
+"
+2.5 Fica permitido o cofaturamento da cobrança da TARIFA DE RSD em conjunto com outros serviços públicos, por conta e risco da CONCESSIONÁRIA, e mediante “não objeção” do PODER CONCEDENTE e da AGÊNCIA REGULADORA.
+Anexo 4 do Contrato – item 2.5
+
+===== SLIDE 10 =====
+Defasagem anual do cadastro de usuários
+Impactos da manutenção do item 
+Defasagem operacional: faturamento baseado em informações potencialmente desatualizadas, podendo implicar em cobranças indevida e perda de receitas. 
+Aumento da inadimplência: boletos enviados com dados desatualizados reduzem a eficiência arrecadatória.
+Desequilíbrio econômico-financeiro: perdas operacionais e inadimplência sem mecanismo claro de recomposição contratual*.
+Transferência excessiva de risco: concessionária responde por falhas decorrentes da própria limitação contratual de acesso aos dados.
+Risco operacional: necessidade de refaturamentos, compensações e correções recorrentes, com aumento de custos operacionais, insumos e mão de obra.
+Providências mitigadoras
+Sugerimos a apresentação de pedido de esclarecimento para tentar garantir que a concessionária terá acesso mensal ou contínuo ao cadastro atualizado e aos dados de consumo dos usuários dos serviços de abastecimento de água.
+*O item 2.2.5 prevê o reequilíbrio em favor da Concessionária especificamente em caso de atraso na disponibilização dos dados da prestadora dos serviços de água.
+
+===== SLIDE 11 =====
+Inadimplência e mecanismos de mitigação
+Matriz de riscos
+O itens C7 e C8 da Matriz de Riscos (Anexo 5 do Contrato) atribuem à Concessionária os riscos pela inadimplência dos:
+usuários, em relação à Tarifa de RSD, que implique em alteração do volume de receita tarifária prevista no estudo referencial do Poder Concedente; e 
+municípios, em relação à Tarifa de RPU, que implique em volume de receita maior ou menor do que o previsto no estudo referencial do Poder Concedente.
+Contudo, a Concessionária não deve ser penalizada por projeções eventualmente inadequadas realizadas pelo Poder Concedente. Além disso, o Edital não prevê mecanismos eficazes para solução das inadimplências.
+Providências mitigadoras
+Sugerimos a apresentação de pedido de esclarecimento para (i) definição de um limite de responsabilidade da Concessionária pelos inadimplementos dos usuários e dos municípios, com o respectivo direito de reequilíbrio caso superado esse limite; (ii)  inscrição do usuário inadimplente em cadastros de proteção ao crédito, como SPC e Serasa, bem como afastando expressamente a necessidade de judicialização; e (iii) aplicação subsidiária da Lei Federal 14.133/2021 para autorizar a suspensão dos serviços relativos aos RPU em caso de inadimplência dos Municípios.
+
+===== SLIDE 12 =====
+Aspectos tributários: Reforma tributária
+Reforma tributária
+Impactos da manutenção do item 
+A cl. 36.16 estabelece que a Concessionária deverá “considerar como premissa contratual, inclusive para efeitos de eventual reequilíbrio, a incidência tributária sem as modificações introduzidas pela Emenda”. 
+A Minuta de Contrato e a Matriz de Riscos já previram a possibilidade de reequilíbrio em decorrência do advento da Reforma Tributária (EC 123/2023). 
+Quebra da isonomia: impossibilidade de precificação adequada, afetando o critério objetivo de menor tarifa e o julgamento das propostas.
+Desequilíbrio estrutural: distorção da equação econômico-financeira desde a origem do contrato
+Insegurança jurídica: aumento do risco de disputas contratuais e judicialização
+Problema: tributos em extinção
+Apesar de apresentar evolução em relação à outras licitações de RSU, prevendo expressamente o direito de reequilíbrio em decorrência da EC 123/2023, a adoção dos tributos atuais pode gerar uma assimetria na projeção da proposta da Concessionária.
+Premissa da proposta
+Opex subestimado ou superestimado: propostas com custo tributário desatualizado podem gerar vantagem artificial frente a quem considerar a Reforma (ou o inverso)
+
+===== SLIDE 13 =====
+Aspectos tributários: Reforma tributária
+Providências mitigadoras
+Sugerimos a apresentação de pedido de esclarecimento para abordar expressamente que os erros de projeção da Concessionária, decorrentes da consideração do PIS, COFINS e ISS na elaboração da proposta, ensejarão a recomposição do equilíbrio econômico-financeiro do contrato.
+
+===== SLIDE 14 =====
+Penalidades: Multas
+Ausência de tipicidade 
+A cl. 37.20.5 da Minuta de Contrato classifica como conduta gravíssima “cometer quaisquer infrações às normas legais federais, estaduais e municipais”. Ocorre que há diversos tipos de normas, com previsões diversas.
+Multa diária
+Impactos da manutenção do item 
+Violação ao princípio da tipicidade: ampliação excessiva da discricionariedade sancionatória do Poder Público. 
+Desproporcionalidade da penalidade: multa de 2% da receita bruta anual da concessionária extremamente onerosa e potencialmente desarrazoada. 
+Insegurança jurídica: previsão genérica de multa por “qualquer infração” sem tipificação específica das condutas. 
+Desequilíbrio econômico-financeiro: aplicação de multas altas e indeterminadas podem comprometer a exequibilidade do projeto. 
+A cl. 37.13 da Minuta de Contrato prevê a aplicação de multa de até 2% da receita bruta do exercício anterior da Concessionária, cumulada com perdas e danos, para infrações consideradas gravíssimas. 
+Providências mitigadoras
+Ponto impugnável sob a ótica do principio da tipicidade estrita.  
+
+===== SLIDE 15 =====
+Pontos de atenção – Matriz de riscos
+Obtenção de licenças 
+O item B1 da Matriz de Riscos atribui à Concessionária o risco de atraso na obtenção de licenças em razão da não entrega de todos os documentos, estudos e informações exigidos, ou da entrega em qualidade inferior à mínima estabelecida pelo órgão competente.
+O órgão ambiental pode solicitar complementações da documentação apresentada pela Concessionária, mesmo quando o protocolo do pedido de licenciamento tiver sido completo e tempestivo. Nesses casos, a Concessionária não deve ser responsabilizada por atrasos decorrentes de exigências adicionais do órgão licenciador.
+Impactos da manutenção do item 
+Em Minas Gerais, o licenciamento ambiental de aterros sanitários é de competência exclusiva do órgão ambiental estadual (c.f. Deliberação Normativa COPAM nº 213/2017).
+Transferência indevida de risco regulatório: concessionária pode ser responsabilizada por atrasos decorrentes da atuação de entes públicos. 
+Risco de desequilíbrio econômico-financeiro: atrasos em licenças ambientais podem impactar cronograma, CAPEX, OPEX e início da operação sem garantia de recomposição. 
+Risco de aplicação de penalidades: demora no licenciamento pode resultar em descumprimento de marcos contratuais e aplicação de multas à concessionária. 
+Impacto na financiabilidade do projeto: indefinição sobre responsabilidade por licenças ambientais aumenta percepção de risco por investidores e financiadores. 
+
+===== SLIDE 16 =====
+Pontos de atenção – Matriz de riscos
+Providências mitigadoras
+Sugerimos a apresentação de pedido de esclarecimento para tentar induzir o entendimento de que o risco previsto no item B1 da Matriz de Riscos somente seja alocado à Concessionária nas hipóteses em que ela der causa ao atraso na obtenção das licenças, permissões e autorizações necessárias, não abrangendo atrasos decorrentes de exigências adicionais ou complementações solicitadas pelos órgãos licenciadores.
+Possível referência: NR 05 da ANA, ainda que esta seja aplicável apenas aos serviços de água e esgoto. 
+
+===== SLIDE 17 =====
+Pontos de atenção – Matriz de riscos
+Itens da Matriz de Riscos em que recomendamos a avaliação técnica detalhada da aderência dos parâmetros previstos no Edital e Anexos à realidade do projeto e aos respectivos impactos econômico-financeiros:
+Item C6 – Alocado ao Poder Concedente e Concessionária
+"
+Variação do percentual de instalações sujeitas ao pagamento de modalidade social da TARIFA DE RSD, se houver, frente ao total de economias ativas, sendo que:
+• no caso de variação, para mais ou para menos, de até 7 (sete) pontos percentuais do previsto no estudo referencial do PODER CONCEDENTE, não caberá pleito de REEQUILÍBRIO ECONÔMICO-FINANCEIRO do CONTRATO.
+• fora do limite de variação, para mais ou para menos, de 7 (sete) pontos percentuais do previsto no estudo referencial do PODER CONCEDENTE, caberá pleito de REEQUILÍBRIO ECONÔMICO-FINANCEIRO do CONTRATO.
+
+===== SLIDE 18 =====
+Pontos de atenção – Matriz de riscos
+Itens J1 – Alocado à Concessionária
+"
+Vícios ocultos dos BENS DA CONCESSÃO, não constatados e não reclamados no prazo de 5 (cinco) anos, contados da sua transferência à CONCESSIONÁRIA pelo PODER CONCEDENTE.
+Não se considera ocultos aqueles vícios que, dentre outras hipóteses: (i) figurem expressamente no EDITAL ou no CONTRATO como sendo risco da CONCESSIONÁRIA; (ii) constem de manifestação formal da Administração Pública, em documentos públicos disponíveis para qualquer interessado ou sejam de conhecimento comum à época da LICITAÇÃO; (iii) poderiam ter sido detectados pelas licitantes, por expertise e conhecimentos pretéritos, ou pela utilização de meios e técnicas ordinariamente disponíveis e financeiramente acessíveis no mercado, no momento anterior ao processo licitatório, em igualdade de condições com os demais interessados.
+
+===== SLIDE 19 =====
+© 2025. Para mais informações, contate Madrona Advogados.
+AV. BRIGADEIRO FARIA LIMA, 3064 – 11º ANDAR
+JD. PAULISTANO CEP 01451 000
+SÃO PAULO – BRASIL
+T +55 11 4883 8750
+AV. AFONSO PENA, 4100 -  13º E 15º ANDARES
+CEP 30130-009
+BELO HORIZONTE – BRASIL
+T +55 31 4501 7797 
+MADRONAADVOGADOS.COM.BR
+Nossa Equipe
+Os profissionais do Madrona Advogados somam mais de 25 anos de experiência. Todos os setores possuem atuação multidisciplinar e soluções únicas desenvolvidas aos clientes.

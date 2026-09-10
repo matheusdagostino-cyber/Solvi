@@ -1,0 +1,2139 @@
+             ANEXO DO EDITAL 4 – PROJETO BÁSICO REFERENCIAL
+
+
+
+
+                      EDITAL DE CONCESSÃO N.º 001/2026
+
+
+ COLETA, TRANSBORDO, TRANSPORTE, TRIAGEM PARA REUTILIZAÇÃO OU RECICLAGEM,
+TRATAMENTO E DESTINAÇÃO FINAL AMBIENTALMENTE ADEQUADA DE RESÍDUOS SÓLIDOS
+                                      URBANOS DO CISPAR
+
+
+
+
+                                                2026
+
+
+                                                                                             i
+
+  CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                 Telefone: (34) 3822-5450
+                                                                     SUMÁRIO
+
+1.      INTRODUÇÃO .................................................................................................................................. 6
+
+2.      CONTEXTUALIZAÇÃO SOBRE A SITUAÇÃO ATUAL DO MANEJO DE RESÍDUOS SÓLIDOS URBANOS
+        NOS MUNICÍPIOS ............................................................................................................................. 7
+
+3.      PARÂMETROS E CRITÉRIOS DE PROJETO .........................................................................................10
+
+3.1. ABRANGÊNCIA DO PROJETO ...........................................................................................................10
+
+3.2. ESCOPO DO PROJETO .....................................................................................................................10
+
+3.3. HORIZONTE DO PROJETO ................................................................................................................10
+
+3.4. PROJEÇÃO POPULACIONAL .............................................................................................................10
+
+3.5. QUANTIFICAÇÃO DA GERAÇÃO DE RESÍDUOS SÓLIDOS URBANOS (RSU) ........................................11
+
+3.5.1. RESÍDUOS SÓLIDOS DOMICILIARES (RSD) .......................................................................................11
+
+3.5.2. RESÍDUOS DE LIMPEZA URBANA (RPU) ...........................................................................................12
+
+3.5.3. RESÍDUOS SÓLIDOS URBANOS (RSU) ..............................................................................................13
+
+3.6. COMPOSIÇÃO GRAVIMÉTRICA ........................................................................................................13
+
+4.      CONCEPÇÃO DA ROTA TECNOLÓGICA REFERENCIAL .......................................................................14
+
+4.1. CRITÉRIOS E DIRETRIZES BÁSICAS PARA A CONCEPÇÃO DA ROTA TECNOLÓGICA REFERENCIAL .....14
+
+4.2. PREMISSAS .....................................................................................................................................14
+
+4.3. ROTA TECNOLÓGICA ADOTADA ......................................................................................................15
+
+5.      DESCRITIVO CONCEITUAL DO PROJETO ..........................................................................................16
+
+5.1. RESUMO GERAL DA ROTA TECNOLÓGICA .......................................................................................16
+
+5.1.1. DESCRIÇÃO DO MANEJO DE RESÍDUOS SÓLIDOS URBANOS E INFRAESTRUTURA PROJETADA ........16
+
+5.1.2. ETAPAS DE IMPLANTAÇÃO DO PROJETO ........................................................................................18
+
+5.1.3. FLUXOGRAMAS DA ROTA TECNOLÓGICA E BALANÇOS DE MASSA .................................................20
+
+5.2. COLETA ...........................................................................................................................................25
+
+5.2.1. COLETA INDIFERENCIADA ...............................................................................................................25
+
+5.2.2. COLETA SELETIVA DE RECICLÁVEIS SECOS .......................................................................................28
+
+6.      COLETA SELETIVA DE ORGÂNICOS ..................................................................................................31
+
+6.1. UNIDADES DE TRIAGEM DE RECICLÁVEIS LOCAL (UTR) ...................................................................32
+                                                                                                                        ii
+
+  CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                                  Telefone: (34) 3822-5450
+6.2. TRANSBORDO E TRANSPORTE ........................................................................................................33
+
+6.3. UNIDADE DE TRIAGEM MECANIZADA (UTM) ..................................................................................39
+
+7.     COMPOSTAGEM .............................................................................................................................43
+
+8.     ATERRO SANITÁRIO ........................................................................................................................44
+
+8.1. ATERRO (S) SANITÁRIO (S) PRIVADO (S) – ANO 1 AO 4 DO PRAZO DA CONCESSÃO ........................44
+
+8.2. NOVO ATERRO SANITÁRIO – ANO 5 AO 30 .....................................................................................44
+
+9.     REFERÊNCIAS ..................................................................................................................................45
+
+10.    APÊNDICE I – PROJEÇÕES POPULACIONAIS .....................................................................................49
+
+11.    APÊNDICE II – PROJEÇÃO DA GERAÇÃO DE RESÍDUOS NO HORIZONTE DE PROJETO .......................50
+
+
+
+
+                                                                                                                                                    iii
+
+  CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                                Telefone: (34) 3822-5450
+                                                                    LISTA DE QUADROS
+Quadro 1 – População projetada pela Fundação João Pinheiro (FJP)................................................... 11
+Quadro 2 – Geração per capita de Resíduos Sólidos Domiciliares (RSD), por MUNICÍPIO. .................. 12
+Quadro 3 – Composição gravimétrica de resíduos sólidos urbanos (RSU) adotada para os MUNICÍPIOS
+............................................................................................................................................................... 13
+Quadro 4 – Resumo descritivo das etapas do manejo de RSU e das unidades projetadas .................. 16
+Quadro 5 – Resumo das etapas projetadas da operação do SMRSU.................................................... 19
+Quadro 6 – Dimensionamento dos veículos e equipamentos da coleta indiferenciada no ano 5 do prazo
+da concessão ......................................................................................................................................... 27
+Quadro 7 – Dimensionamento dos veículos e equipamentos da coleta seletiva de recicláveis secos no
+ano 3 do prazo da concessão ................................................................................................................ 30
+Quadro 8 – Dimensionamento dos equipamentos de transbordo e de transporte dos resíduos da coleta
+indiferenciada para o ano 5 do prazo da concessão ............................................................................. 35
+Quadro 9 – Dimensionamento dos equipamentos de transbordo e de transporte dos resíduos da
+limpeza urbana (RPU) para o ano 5 do prazo da concessão ................................................................. 36
+Quadro 10 – Dimensionamento dos equipamentos de transbordo e de transporte dos resíduos da
+coleta seletiva de recicláveis secos para o ano 5 .................................................................................. 37
+Quadro 11 – Dimensionamento do novo ATERRO SANITÁRIO ............................................................. 44
+
+
+
+
+                                                                                                                                                               iv
+
+        CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                                         Telefone: (34) 3822-5450
+                                                                  LISTA DE FIGURAS
+Figura 1 - Balanço de Massa da Massa Etapa I...................................................................................... 21
+Figura 2 - Balanço de Massa da Etapa II ................................................................................................ 22
+Figura 3 - Balanço de Massa da Etapa III ............................................................................................... 23
+Figura 4 - Balanço de Massa da Etapa IV............................................................................................... 24
+Figura 5 - Desenho esquemático da estação de transbordo padrão adotada ...................................... 38
+Figura 6 – Desenho esquemático da Unidade de Triagem Mecanizada (UTM) referencial ................. 42
+Figura 7 – Desenho esquemático da área de processamento da Unidade de Triagem Mecanizada (UTM)
+referencial ............................................................................................................................................. 42
+
+
+
+
+                                                                                                                                                          v
+
+        CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                                       Telefone: (34) 3822-5450
+1. INTRODUÇÃO
+    O presente ANEXO DO EDITAL 4 - PROJETO BÁSICO REFERENCIAL descreve a rota tecnológica
+referencial para os serviços de manejo de resíduos sólidos urbanos do Consórcio Público
+Intermunicipal de Desenvolvimento Sustentável do Alto Paranaíba (CISPAR).
+
+    O CISPAR localiza-se na região do Alto do Paranaíba no estado de Minas Gerais, e Patos de Minas
+é seu município polo. O presente projeto de estruturação de concessão de manejo de resíduos sólidos
+urbanos abrange 9 (nove) municípios do CISPAR, a saber: Arapuá, Coromandel, Cruzeiro da Fortaleza,
+Guimarânia, Lagoa Formosa, Patos de Minas, Presidente Olegário, Rio Paranaíba e Serra do Salitre. A
+população total na área de abrangência do projeto é 280.551 habitantes (Fundação João Pinheiro,
+2025).
+
+    O propósito do Projeto Básico Referencial é descrever as soluções de engenharia analisadas para
+o Consórcio, levando em conta o cumprimento da Política Nacional de Resíduos Sólidos e demais
+exigências da legislação ambiental. O intuito é estimar os custos de Capital (CAPEX) e custos
+Operacionais (OPEX) que servirão de base para o cálculo da tarifa referencial na licitação.
+
+    É importante ressaltar que este documento não possui caráter vinculante, permitindo à
+PROPONENTE a escolha de alternativas tecnológicas de sua preferência. No entanto, tais escolhas
+devem estar alinhadas com as obrigações e metas estabelecidas no CONTRATO e seus anexos.
+
+
+
+
+                                                                                                 6
+
+     CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                    Telefone: (34) 3822-5450
+2. CONTEXTUALIZAÇÃO SOBRE A SITUAÇÃO ATUAL DO MANEJO DE RESÍDUOS SÓLIDOS URBANOS
+   NOS MUNICÍPIOS
+    A infraestrutura de manejo dos RESÍDUOS SÓLIDOS URBANOS nos MUNICÍPIOS apresenta
+deficiências e irregularidades, desde a etapa de coleta até a disposição final de resíduos sólidos
+urbanos. Apresenta-se, a seguir, resumo conforme Diagnóstico Técnico realizado no primeiro trimestre
+de 2023 e atualizado em abril de 2024.
+
+    Quanto aos serviços de coleta indiferenciada domiciliar atualmente prestados pelo poder público,
+de forma direta ou através de empresa contratada, verificou-se que o atendimento se dá de forma
+satisfatória à população urbana e aos centros dos distritos municipais, embora não universalizado. A
+coleta indiferenciada nas áreas rurais é realizada com frequência menor que na área urbana,
+concentrando-se basicamente nos dias pós finais de semana. A população rural apresenta
+característica de ocupação dispersa, distribuída em grandes extensões de área.
+
+    A maioria dos municípios executa a coleta indiferenciada e transporte de RSU por administração
+direta, através de secretarias municipais, a exceção de: i) Patos de Minas, que possui contrato de
+terceirização desses serviços; ii) Lagoa Formosa, que utiliza um sistema híbrido com frota e motorista
+da prefeitura municipal e mão de obra terceirizada (empresa Solid Construtores e Serviços), que
+também opera a Unidade de Triagem e Compostagem (UTC); e iii) Presidente Olegário, que possui
+contrato com empresa terceirizada local para fornecimento apenas da frota de caminhões basculantes
+para a coleta domiciliar.
+
+    Há dois tipos de carrocerias montadas sobre chassis adotadas na coleta e transporte de RESÍDUOS
+SÓLIDOS DOMICILIARES (RSD): com e sem compactação. As carrocerias sem compactação são
+normalmente abertas com descarga mediante báscula, apresentam a desvantagem de não serem
+estanques e ocasionarem o derramamento de chorume nas vias públicas. Por isso devem ser cobertas
+por lonas para evitar o escape de resíduos pela ação do vento durante o percurso. As carrocerias com
+compactação são utilizadas pela maioria dos municípios, são fechadas e dotadas de dispositivos
+hidráulicos e mecânicos que possibilitam a distribuição e compressão dos resíduos no interior da
+carroceria.
+
+    Apenas o município de Coromandel possui sistema de coleta seletiva de recicláveis secos
+estruturado atendendo parte do município, com coleta porta a porta. Essa coleta seletiva no município
+é uma ação coordenada envolvendo os municípios que compõem o Consórcio Intermunicipal – Região
+Integrada de Desenvolvimento Sustentável (RIDES), cujo objetivo é promover a inclusão social e a
+geração de trabalho e renda para os catadores de materiais recicláveis e reutilizáveis. O programa
+
+                                                                                                    7
+
+     CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                    Telefone: (34) 3822-5450
+realiza ainda a compostagem de resíduos orgânicos e de poda de árvores, para geração de composto
+para a horta comunitária mantida pela Prefeitura Municipal.
+
+   Os resíduos recolhidos pela coleta seletiva em Coromandel são encaminhados para a Unidade de
+Triagem e Reciclagem local, instalada em galpão de propriedade da Prefeitura Municipal, operada por
+12 catadores pertencentes à Associação dos Catadores de Materiais Recicláveis de Coromandel, que
+também executa a coleta seletiva de recicláveis secos. Existe no local uma prensa e uma esteira.
+
+   Dois municípios do CISPAR realizam recuperação de recicláveis em Unidades de Triagem de RSU a
+partir da coleta indiferenciada domiciliar regular, sem separação na fonte geradora: Lagoa Formosa e
+Presidente Olegário.
+
+   Em Lagoa Formosa, todos os resíduos da coleta indiferenciada domiciliar são destinados à Unidade
+de Triagem e Compostagem operada pela Prefeitura Municipal com mão de obra terceirizada. A
+Unidade de Triagem dispõe de esteira de catação e três prensas hidráulicas para enfardamento do
+material. Em 2023 foi construída uma Unidade de Triagem no município e que mantém cerca de 30
+trabalhadores terceirizados.
+
+   Em Presidente Olegário, há uma Unidade de Triagem de Recicláveis e Compostagem administrada
+pela Prefeitura Municipal, por meio da Secretaria Municipal de Meio Ambiente. Na unidade trabalham
+14 servidores públicos municipais que dispõem de duas prensas hidráulicas, um trator agrícola e uma
+retroescavadeira.
+
+   Rio Paranaíba possui uma unidade de triagem e compostagem em funcionamento.
+
+   Com relação à disposição final, os municípios de Lagoa Formosa e Presidente Olegário operam
+aterros de resíduos em valas, sem quaisquer sistemas de controle ambiental, para disposição de
+rejeitos em áreas nas unidades de triagem e/ou compostagem municipais. O município de Serra do
+Salitre opera uma estação de transbordo em área de lixão desativado e encaminha resíduos sólidos
+urbanos para o aterro sanitário privado da empresa Integração de Resíduos – Parque de
+Transformação Ambiental, localizado em Bambuí/MG. O município de Rio Paranaíba também passou
+a destinar seus RSU para esse mesmo aterro privado em Bambuí. Já os municípios de Arapuá e
+Coromandel, encaminham seus RSU para o aterro sanitário privado da empresa Salto Soluções
+Ambientais, situado em Uberlândia/MG. O município de Guimarânia destinava seus RSU a aterro
+sanitário privado da empresa Soma Ambiental, em Uberaba/MG. No entanto, em visita a campo,
+verificou-se que nos municípios de Arapuá, Guimarânia e Serra do Salitre persistem condições
+irregulares de acumulação temporária de RSU sobre terreno natural, incluindo eventuais práticas de
+
+                                                                                                   8
+
+     CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                    Telefone: (34) 3822-5450
+aterramento dos resíduos que excedem a capacidade de armazenamento dos contêineres nas
+Estações de Transbordo, precárias em estrutura e operação. Em 22/12/2025, o município de
+Guimarânia informou ao CISPAR que a disposição final dos RSU é feita em lixão. Não foi realizada visita
+de campo a estação de transbordo de Coromandel, implantada após a validação do diagnóstico junto
+ao CISPAR. O município de Patos de Minas dispõe os rejeitos em aterro sanitário municipal sem licença
+ambiental vigente, cuja operação é realizada por empresa terceirizada.
+
+
+
+
+                                                                                                     9
+
+     CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                    Telefone: (34) 3822-5450
+3. PARÂMETROS E CRITÉRIOS DE PROJETO
+
+    3.1. Abrangência do Projeto
+    A exploração do SERVIÇO PÚBLICO DE MANEJO DE RESÍDUOS SÓLIDOS URBANOS (SMRSU)
+abrangerá as ÁREAS URBANAS e ÁREAS RURAIS dos 9 (nove) MUNICÍPIOS do CISPAR relacionados a
+seguir: Arapuá, Coromandel, Cruzeiro da Fortaleza, Guimarânia, Lagoa Formosa, Patos de Minas,
+Presidente Olegário, Rio Paranaíba e Serra do Salitre.
+
+
+    3.2. Escopo do Projeto
+    O escopo geral dos serviços compreende:
+
+    1. As atividades de coleta em três frações (indiferenciada, seletiva de recicláveis secos e seletiva
+de resíduos orgânicos), transbordo, transporte, triagem para fins de reutilização ou reciclagem,
+tratamento e destinação final ambientalmente adequada dos resíduos sólidos urbanos, englobando:
+
+        (i) resíduos domiciliares (também denominado resíduos domésticos – RSD);
+
+        (ii) resíduos equiparados aos domésticos, isto é, os resíduos originários de atividades
+            comerciais, industriais e de serviços, em quantidade e qualidade similares às dos resíduos
+            domésticos, que, nos termos das legislações municipais, sejam considerados resíduos
+            sólidos urbanos, desde que não sejam de responsabilidade de seu gerador nos termos da
+            norma legal ou administrativa, de decisão judicial ou de termo de ajustamento de conduta.
+
+    2. As atividades de transbordo, transporte, triagem, tratamento e destinação final ambientalmente
+adequada dos resíduos originários do SERVIÇO PÚBLICO DE LIMPEZA URBANA (SPLU), sendo a
+recepção, triagem e tratamento dos RESÍDUOS VERDES pela CONCESSIONÁRIA realizada sem ônus aos
+MUNICÍPIOS desde que encaminhados de forma segregada.
+
+
+    3.3. Horizonte do Projeto
+    O horizonte de projeto adotado na avaliação das alternativas será o mesmo definido pela Portaria
+nº 557, de 11/11/2016, do Ministério das Cidades (MCID), estabelecido em 30 (trinta) anos.
+
+        •   Ano de início da concessão (ano 1)...............................................................................2027.
+
+        •   Ano de final da concessão (ano 30)...............................................................................2056.
+
+
+    3.4. Projeção populacional
+    O apêndice I apresenta o resultado da projeção populacional ano a ano, e por município, que foi
+adotada no estudo referencial. A metodologia para a estimativa da geração é apresentada a seguir.
+                                                                                                                              10
+
+     CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                           Telefone: (34) 3822-5450
+   Para estimar a população dos MUNICÍPIOS para o horizonte do projeto, foi adotada, como
+população-base, a estimativa da Fundação João Pinheiro para o ano de 2025, bem como para as
+projeções populacionais a nível municipal, para os anos 2027 (ano 1 do Projeto), 2032, 2037 e 2042
+(conforme Quadro 1), já que a Fundação João Pinheiro (FJP) é o órgão oficial de produção de
+informações sociais e econômicas do estado de Minas Gerais e parceiro técnico do IBGE, no âmbito do
+Sistema de Projeções e Estimativas Populacionais (SISPEP). Para se estimar a população dos
+MUNICÍPIOS nos demais anos não cobertos pela FJP: (i) para os anos intermediários, adotou-se a taxa
+de crescimento linear do respectivo quinquênio; (ii) para os anos posteriores ao ano de 2047, não
+cobertos pela projeção da FJP, adotou-se a taxa de crescimento do último quinquênio (2042-2047) até
+o ano de 2056 previsto para o final da concessão.
+
+                 Quadro 1 – População projetada pela Fundação João Pinheiro (FJP)
+  Municípios     2027 (hab.)       2032 (hab.)         2037 (hab.)      2042 (hab.)       2047 (bab.)
+    Arapuá          2.642             2.567               2.474            2.365                2.248
+ Coromandel        30.204            30.291               30.066          29.629                29.005
+  Cruzeiro da       3.646
+                                      3.668               3.661            3.622                3.562
+   Fortaleza
+  Guimarânia        9.071             9.490               9.854           10.146                10.354
+    Lagoa          19.814
+                                     20.238               20.485          20.582                20.522
+   Formosa
+   Patos de        172.460
+                                    177.094              181.737         184.861            186.745
+    Minas
+  Presidente       19.112
+                                     18.855               18.409          17.797                17.139
+   Olegário
+ Rio Paranaíba     15.453            16.121               16.652          17.078                17.354
+   Serra do        12.601
+                                     13.158               13.627          13.959                14.201
+    Salitre
+    Total         285.003            291.482             296.965         300.039            301.130
+                                              Fonte: FJP, 2025.
+
+
+    3.5. Quantificação da geração de resíduos sólidos urbanos (RSU)
+   A projeção da geração de RSD, RPU e RSU no horizonte de projeto por município, a cada ano, está
+apresentada no apêndice II. A metodologia para a estimativa da geração é apresentada na sequência.
+
+
+        3.5.1. Resíduos Sólidos Domiciliares (RSD)
+   A estimativa da geração de RSD corresponde ao produto da população projetada pela geração per
+capita de RSD. A geração per capita foi adotada conforme o porte populacional de cada município,
+segundo valores de geração per capita por faixa populacional reportados pela FEAM (2017). Para o
+município de Patos de Minas, adotou-se o valor de geração per capita de 0,860 kg/hab./dia, calculado
+                                                                                                         11
+
+     CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                    Telefone: (34) 3822-5450
+a partir de dados operacionais de pesagem dos veículos de coleta fornecidos pelo município, quando
+da visita técnica para fins de diagnóstico da situação dos resíduos sólidos. O Quadro 2 apresenta a
+geração per capita adotada para cada município.
+
+       Quadro 2 – Geração per capita de Resíduos Sólidos Domiciliares (RSD), por MUNICÍPIO.
+                         Município                              Per capita de RSD (kg/hab./dia)
+ Arapuá                                                                      0,681
+ Coromandel                                                                  0,697
+ Cruzeiro da Fortaleza                                                       0,681
+ Guimarânia                                                                  0,654
+ Lagoa Formosa                                                               0,697
+ Patos de Minas                                                              0,860
+ Presidente Olegário                                                         0,697
+ Rio Paranaíba                                                               0,697
+ Serra do Salitre                                                            0,697
+ Total / Média Per Capita                                                    0,707
+  Fonte: Adaptado FEAM, 2017 e considerando os valores de RSD efetivamente pesados de Patos de Minas.
+
+
+          3.5.2. Resíduos de Limpeza Urbana (RPU)
+    A quantidade de resíduos gerados decorrente dos serviços de limpeza urbana (varrição, capina,
+poda etc.) foi estimada a partir do Sistema Nacional de Informações sobre Saneamento (SNIS 2021 –
+ano base 2020), considerando a razão RPU/RSD média dos municípios mineiros que informaram os
+dados de RPU segregados de RSD no SNIS e cuja população fosse menor que 200.000 habitantes,
+semelhante ao porte dos municípios que compõem o CISPAR.
+
+    Com essas premissas definidas, o cenário de análise foi formado por 123 municípios, que
+apresentaram razão RPU/RSD média de 23,5%. Esse valor foi adotado para dimensionamento do
+serviço de manejo de resíduos sólidos urbanos.
+
+    A gestão e remoção do RPU é de competência das Prefeituras Municipais. Entretanto, para o
+transporte e disposição final desses resíduos a concessionária deverá considerá-los no
+dimensionamento dos transbordos e aterro sanitário e será remunerada através da TARIFA DE RPU.
+Caso o RESÍDUO VERDE proveniente do RPU seja entregue pelo município de forma segregada, a
+concessionária irá prestar o serviço de triagem e tratamento desse resíduo de forma gratuita.
+
+
+
+
+                                                                                                        12
+
+      CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                     Telefone: (34) 3822-5450
+           3.5.3. Resíduos Sólidos Urbanos (RSU)
+    Os Resíduos Sólidos Urbanos (RSU) englobam os RSD e RPU, por isso foram estimados mediante o
+somatório das duas frações, por municípios: RSU = RSD + RPU.
+
+
+    3.6. Composição gravimétrica
+    Os Planos Municipais de Gestão Integrada de Resíduos Sólidos (PMGIRS) da maioria dos municípios
+não abordam a composição gravimétrica dos resíduos. Os planos que abordam (Coromandel, Patos de
+Minas, Serra do Salitre e Presidente Olegário) apresentam valores de composição média divergentes
+das médias nacionais e regionais.
+
+    Diante disso, no presente estudo, foi adotada a média reportada pela Fundação Estadual do Meio
+Ambiente, em estudo realizado em 2015 (FEAM, 2017). Como resultado do referido estudo, verificou-
+se que a fração orgânica possui a maior representatividade, seguida pela de recicláveis e a de rejeitos,
+conforme apresentado no Quadro 3.
+
+Quadro 3 – Composição gravimétrica de resíduos sólidos urbanos (RSU) adotada para os MUNICÍPIOS
+ Fração                                                         Percentual sobre o RSU
+ Orgânica                                                               44,82 %
+ Potencialmente reciclável                                              40,05 %
+ Rejeito                                                                15,13 %
+                                          Fonte: FEAM, 2017.
+
+
+
+
+                                                                                                     13
+
+     CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                    Telefone: (34) 3822-5450
+4. CONCEPÇÃO DA ROTA TECNOLÓGICA REFERENCIAL
+
+    4.1. Critérios e diretrizes básicas para a concepção da rota tecnológica referencial
+   A definição das rotas tecnológicas que nortearam a escolha do modelo de manejo dos RSU partiu
+das diretrizes apontadas na Nota Técnica Conjunta nº 001/2024/CC/PR/MCID/MMA, adaptadas ao
+projeto em curso, a seguir, resumidas:
+
+       (i) Estratégia cronológica de implementação das unidades e da estruturação de serviços
+           componentes da rota tecnológica constituinte da CONCESSÃO;
+
+       (ii) Instrumentos para inclusão dos catadores de materiais reutilizáveis e recicláveis, nos
+           termos da Lei Federal nº 12.305/2010 (Política Nacional de Resíduos Sólidos);
+
+       (iii) Instrumentos para o atendimento da Política Nacional sobre Mudança do Clima (PNMC);
+           por meio da mitigação de gases de efeito estufa;
+
+       (iv) Rota tecnológica que considera especificidades locais;
+
+       (v) Ações de educação ambiental.
+
+
+    4.2. Premissas
+   Para a concepção deste projeto básico, foram consideradas as seguintes premissas:
+
+       (i) Considerou-se exclusivamente os Resíduos Sólidos Urbanos (RSU), que englobam os
+           resíduos domiciliares (RSD) e os resíduos originários da limpeza urbana (RPU). Os resíduos
+           especiais estão fora do escopo da CONCESSÃO, mas poderão ser incorporados pelo futuro
+           CONCESSIONÁRIO para recebimento de receita extraordinária;
+
+       (ii) Atendeu-se, obrigatoriamente, aos requisitos da Política Nacional de Resíduos Sólidos (Lei
+           Federal nº 12.305/2010), notadamente no que diz respeito ao artigo 9°, que estabelece
+           que deve ser observada a seguinte ordem de prioridade na gestão e gerenciamento de
+           resíduos sólidos: não geração, redução, reutilização, reciclagem, tratamento dos resíduos
+           sólidos e disposição final ambientalmente adequada dos rejeitos, bem como as diretrizes
+           da Política Estadual de Resíduos Sólidos (Lei Estadual nº 18.031/2009 e Decreto Estadual
+           nº 45.181/2009);
+
+       (iii) Buscaram-se tecnologias que permitem a valorização dos RSD, sempre considerando a
+           modicidade tarifária;
+
+
+                                                                                                   14
+
+     CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                    Telefone: (34) 3822-5450
+       (iv) Adotou-se, como obrigatório, o uso de veículo gaiola para a realização da coleta seletiva
+           em todos os municípios do projeto;
+
+       (v) Adotou-se o limite de 50 km para o percurso do caminhão de coleta indiferenciada ou
+           seletiva, do fim da coleta até a unidade onde ocorrerá o processo de descarga;
+
+       (vi) Foram considerados os seguintes programas como necessários para atender diretrizes das
+           Políticas Nacional e Estadual de Resíduos Sólidos: programa de recuperação de áreas
+           degradadas pela disposição inadequada de resíduos sólidos urbanos; de educação
+           ambiental; e de inclusão social e emancipação econômica de catadores de materiais
+           reutilizáveis e recicláveis no manejo de RSU do CISPAR; além do plano de inclusão de
+           organizações de catadores na concessão. O detalhamento desses programas e do plano
+           está apresentado no ANEXO DO CONTRATO 1 – CADERNO DE ENCARGOS DA
+           CONCESSIONÁRIA, no ANEXO DO CONTRATO 3 - DIRETRIZES BÁSICAS PARA A INCLUSÃO
+           SOCIAL E EMANCIPAÇÃO ECONÔMICA DE CATADORES DE MATERIAIS REUTILIZÁVEIS E
+           RECICLÁVEIS NA CONCESSÃO e no PIGIRS.
+
+
+   4.3. Rota tecnológica adotada
+   Com base nas premissas apresentadas, a rota tecnológica adotada neste projeto básico referencial
+é composta das seguintes etapas e/ou unidades:
+
+       •   Coleta indiferenciada;
+
+       •   Coleta seletiva de recicláveis secos;
+
+       •   Coleta seletiva de orgânicos;
+       •   Triagem local em unidade de triagem de resíduos (UTR) operadas e mantidas por
+           organização de catadores de materiais reutilizáveis e recicláveis, com a realização de
+           triagem manual de RSD proveniente da coleta seletiva de recicláveis secos, quando
+           existentes ou quando criadas ao longo da concessão;
+
+       •   Transbordo em estações, quando necessário;
+       •   Transporte;
+
+       •   Triagem mecanizada em UNIDADE DE VALORIZAÇÃO DE RESÍDUOS (UVR), para fins de
+           reutilização ou reciclagem da fração seca e tratamento aeróbio da fração orgânica, por
+           meio de compostagem em leiras;
+       •   Aterro sanitário com captura do biogás.
+
+
+                                                                                                  15
+
+     CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                    Telefone: (34) 3822-5450
+5. DESCRITIVO CONCEITUAL DO PROJETO
+
+   5.1. Resumo geral da rota tecnológica
+
+         5.1.1. Descrição do manejo de resíduos sólidos urbanos e infraestrutura projetada
+   No Quadro 4 é apresentado resumo das etapas do manejo de resíduos sólidos e das respectivas
+unidades projetadas para o atendimento dos MUNICÍPIOS.
+
+         Quadro 4 – Resumo descritivo das etapas do manejo de RSU e das unidades projetadas
+      Etapa/
+                                                                Descrição
+ Unidade Projetada
+                        Com exceção do município de Presidente Olegário que não irá conceder os serviços
+                        de coleta (indiferenciada, seletiva de recicláveis secos e seletiva de orgânicos), os
+                        demais terão a universalização da coleta indiferenciada a partir do ano 1 do prazo da
+       Coleta
+                        concessão, considerando coleta porta a porta em 100% da área urbana e coleta ponto
+   indiferenciada
+                        a ponto em 100% da área rural.
+                        Essa coleta foi dimensionada para uma frota com 17 caminhões compactadores de 15
+                        m³ e 94 contenedores de 1 m³ para as zonas rurais.
+
+                        Com exceção do município de Presidente Olegário, realização da coleta seletiva de
+                        recicláveis secos a partir do ano 1 do prazo da concessão para os municípios que
+                        possuem unidade de triagem local licenciada e operada por associação ou
+                        cooperativa de catadores1 de materiais recicláveis e reutilizáveis, considerando coleta
+                        porta a porta em 100% da área urbana e ponto a ponto em 100% da área rural. Para
+  Coleta seletiva de    os demais municípios, que não possuem unidade de triagem local licenciada e
+  recicláveis secos     operada por associação ou cooperativa de catadores de materiais recicláveis e
+                        reutilizáveis, a universalização da coleta seletiva de recicláveis secos ocorre a partir do
+                        ano 3 do prazo da concessão. A partir desse ano 3, a coleta seletiva de recicláveis
+                        secos foi dimensionada para uma frota com 6 caminhões tipo gaiola de 10 m³ e a
+                        colocação de 17 Pontos de Entrega Voluntária (PEV) compostos por 3 contenedores
+                        de 1 m³ cada.
+                        A coleta seletiva de orgânicos será iniciada no ano 8 do prazo da concessão
+                        atendendo, com exceção de Presidente Olegário, todos os municípios participantes da
+                        concessão. A coleta seletiva de orgânicos será realizada porta a porta, priorizando
+  Coleta seletiva de    atendimento aos pequenos e médios geradores que gerem maior quantidade de
+      orgânicos         resíduos orgânicos (mercearias, restaurantes, hortifrutis, cantinas de escolas etc.).
+                        Essa coleta foi dimensionada para uma frota com 6 caminhões tipo compactador de 6
+                        m³, iniciando o serviço a partir do ano 8 da concessão e permanecendo com a mesma
+                        quantidade de caminhões até o término da concessão.
+
+
+
+
+   1
+       Coromandel e Rio Paranaíba.
+                                                                                                                 16
+
+       CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                        Telefone: (34) 3822-5450
+     Etapa/
+                                                         Descrição
+Unidade Projetada
+                    Visando à inclusão socioprodutiva dos catadores de materiais reutilizáveis e
+                    recicláveis, dentre outras ações:
+                       - Reforma, antes do início do prazo da concessão, da unidade de triagem local
+                       licenciada existente e operada por associação ou cooperativa de catadores de
+                       materiais recicláveis e reutilizáveis dos seguintes municípios: Coromandel e Rio
+                       Paranaíba;
+  Triagem local        - Encaminhamento dos resíduos da coleta seletiva de recicláveis secos
+                       primeiramente (ano 1 do prazo da concessão) para a unidade de triagem local
+                       licenciada existente e operada por associação ou cooperativas de catadores de
+                       materiais recicláveis e reutilizáveis dos seguintes municípios: Coromandel e Rio
+                       Paranaíba.
+                       - Recolhimento, quando estiverem operando, dos rejeitos das unidades de triagem
+                       local e encaminhamento para próxima etapa do manejo de RSU.
+
+                    Construção de 5 (cinco) estações de transbordo para operação no ano 1 do prazo da
+                    concessão. Projetou-se, nesse ano, um total de 29 caixas roll on roll off (17 para
+                    resíduos da coleta indiferenciada, 5 para resíduos da coleta seletiva de recicláveis
+                    secos e 7 para resíduos da limpeza urbana - RPU) com capacidade de 30m³, sendo:
+                        - ETR 01 em Arapuá: atendendo aos municípios de Arapuá e Rio Paranaíba;
+                        - ETR 02 em Coromandel: atendendo apenas ao município de Coromandel;
+   Transbordo           - ETR 03 em Guimarânia: atendendo aos municípios de Cruzeiro da Fortaleza,
+                        Guimarânia e Serra do Salitre;
+                        - ETR 04 em Presidente Olegário: atendendo apenas ao município de Presidente
+                        Olegário, que não concedeu os serviços de coleta indiferenciada, seletiva de
+                        recicláveis secos e seletiva de orgânicos;
+                        - ETR 05 em Patos de Minas: atendendo aos municípios de Lagoa Formosa e Patos
+                        de Minas;
+
+                    Transporte dos resíduos das estações de transbordo (ETR) para unidade subsequente
+                    da rota tecnológica. Para os dois primeiros anos do prazo da concessão, quando os
+                    resíduos irão diretamente para aterros sanitários privados distantes (Uberlândia e
+                    Bambuí), a frota calculada é de 23 carretas de 3 eixos. Para os anos 3 e 4 da
+   Transporte
+                    concessão, quando as unidades de tratamento estiverem em operação, a frota de
+                    carretas de 3 eixos será reduzida para o total de 17 veículos. Para os demais anos,
+                    quando o novo aterro sanitário estiver em operação, a frota de carretas de 3 eixos
+                    será reduzida para o total de 4 veículos.
+
+                    Triagem Mecanizada no município de Patos de Minas com início de operação no ano
+    Triagem         3 do prazo da concessão, com capacidade nominal de 220 t/dia, para fins de
+   Mecanizada       reciclagem e reutilização da fração seca e a segregação da fração orgânica para
+                    posterior tratamento biológico.
+                    Unidade de compostagem no município de Patos de Minas, na mesma área da UVR,
+                    com início de operação no ano 3 do prazo da concessão. Essa unidade realizará o
+  Compostagem       tratamento biológico da fração orgânica segregada pela Triagem Mecanizada e, a
+                    partir do ano 8 do prazo da concessão, dos resíduos da coleta seletiva de orgânicos. A
+                    unidade foi dimensionada para receber até 50 t/dia.
+                    No Projeto Básico Referencial, nos 2 primeiros anos do prazo da concessão, optou-se
+                    por dispor os resíduos dos municípios do CISPAR no Aterro sanitário privado em
+ Disposição final   Uberlândia, com exceção de Arapuá e Rio Paranaíba que destinarão os resíduos no
+   temporária       Aterro sanitário privado em Bambuí por serem mais próximos do local de destinação.
+                    Nos anos 3 e 4 do prazo da concessão, quando as unidades de tratamento de resíduos
+                    estarão operando, todos os rejeitos serão dispostos no Aterro sanitário privado em
+                                                                                                         17
+
+   CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                   Telefone: (34) 3822-5450
+      Etapa/
+                                                                   Descrição
+ Unidade Projetada
+                          Uberlândia. A disposição final temporária encerra ao término do ano 4 do prazo da
+                          concessão.
+
+                          Implantação de novo aterro sanitário na área definida a partir do centro de massa do
+                          consórcio, localizado em Patos de Minas, com início da operação no ano 5 do prazo
+   Disposição final
+                          da concessão. Considerou-se operação de sistema de aproveitamento e
+                          beneficiamento de biogás do novo aterro a partir do ano 11 da concessão.
+Nota: A ETR de Patos de Minas será desativada quando o novo aterro sanitário iniciar operação.
+                                  Fonte: elaboração própria; Consórcio Vital, 2025.
+
+
+         5.1.2. Etapas de implantação do projeto
+    É importante estabelecer uma estratégia que permita escalonar a implementação de unidades e a
+estruturação dos serviços, de forma a garantir um processo gradual e progressivo de implementação
+da rota tecnológica, em que estejam presentes o atendimento às metas, às legislações ambientais e
+ao ganho de qualidade na prestação dos serviços, sem comprometer a sustentabilidade econômico-
+financeira.
+
+    Nessa perspectiva, estabeleceu-se estratégia cronológica de implementação das unidades e da
+estruturação de serviços (conforme o Quadro 5) da seguinte forma:
+
+         •    Etapa I: dispor da infraestrutura mínima para a coleta indiferenciada, coleta seletiva de
+              recicláveis secos e disposição final temporária em aterro sanitário licenciado, realizar os
+              estudos e elaboração de Planos de Recuperação de Áreas Degradadas (PRAD) para o
+              encerramento dos lixões e dos aterros controlados, e iniciar a inclusão socioprodutiva das
+              organizações de catadores de materiais recicláveis e reutilizáveis, bem como as ações de
+              educação ambiental;
+
+         •    Etapa II: implantação da Triagem Mecanizada e compostagem da fração orgânica visando
+              à ampliação gradativa do aproveitamento e reciclagem dos resíduos, e à redução de
+              rejeitos encaminhados para disposição final em aterro sanitário;
+
+         •    Etapa III: implantar a disposição final ambientalmente adequada em novo ATERRO
+              SANITÁRIO licenciado, prevendo a coleta do biogás;
+
+         •    Etapa IV: Início da coleta seletiva de orgânicos.
+
+
+
+
+                                                                                                              18
+
+      CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                           Telefone: (34) 3822-5450
+                                                                        
+
+
+
+                                                                Quadro 5 – Resumo das etapas projetadas da operação do SMRSU
+ Etapa                  I           II            III                                                                            IV
+ Prazo        da    1       2   3        4   5    6     7   8   9   10      11     12   13   14   15    16   17   18    19   20       21   22   23   24   25   26   27   28   29   30
+ concessão
+ Coleta
+                    x       x   x        x   x    x     x   x   x   x       x       x    x    x    x    x     x     x   x    x        x    x    x    x    x    x    x    x    x         x
+ indiferenciada
+ Coleta seletiva
+ de recicláveis     x       x   x        x   x    x     x   x   x   x       x       x    x    x    x    x     x     x   x    x        x    x    x    x    x    x    x    x    x         x
+ secos1
+ Coleta seletiva                                            x   x   x       x       x    x    x    x    x     x     x   x    x        x    x    x    x    x    x    x    x    x         x
+ de orgânicos
+ Triagem local2     x       x   x        x   x    x     x   x   x   x       x       x    x    x    x    x     x     x   x    x        x    x    x    x    x    x    x    x    x         x
+ Transbordo         x       x   x        x   x    x     x   x   x   x       x       x    x    x    x    x     x     x   x    x        x    x    x    x    x    x    x    x    x         x
+ Transporte         x       x   x        x   x    x     x   x   x   x       x       x    x    x    x    x     x     x   x    x        x    x    x    x    x    x    x    x    x         x
+ Triagem
+                                x        x   x    x     x   x   x   x       x       x    x    x    x    x     x     x   x    x        x    x    x    x    x    x    x    x    x         x
+ Mecanizada
+ Compostagem                    x        x   x    x     x   x   x   x       x       x    x    x    x    x     x     x   x    x        x    x    x    x    x    x    x    x    x         x
+ Aterro
+ sanitário          x       x   x        x
+ transitório
+ Novo ATERRO
+                                             x    x     x   x   x   x       x       x    x    x    x    x     x     x   x    x        x    x    x    x    x    x    x    x    x         x
+ SANITÁRIO
+1 A coleta seletiva de recicláveis secos inicia no ano 1 do prazo da concessão somente para Coromandel e Rio Paranaíba. Nos demais municípios, essa coleta será iniciada a partir do início da
+
+operação da Triagem Mecanizada (ano 3 do prazo da concessão) ou a partir do momento em que esses municípios tiverem organizações de catadores formalizadas, o que ocorrer primeiro.
+2 Encaminhamento dos resíduos da coleta seletiva de recicláveis e recolhimento dos rejeitos.
+
+
+                                                                                 Fonte: Elaboração própria; Consórcio Vital, 2025.
+
+
+
+
+                                                                                                                                                                                             19
+
+                                                 CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                                                                         Telefone: (34) 3822-5450
+       5.1.3. Fluxogramas da rota tecnológica e balanços de massa
+   As figuras apresentadas na sequência ilustram o balanço de massa projetado em cada etapa,
+conforme a estratégia cronológica de implementação das unidades e da estruturação de serviços
+relacionados à rota tecnológica proposta.
+
+
+
+
+                                                                                                20
+
+     CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                    Telefone: (34) 3822-5450
+                                                                                                                 Figura 1 - Balanço de Massa da Etapa I
+
+                                                                                                                         Balanço de Massa - Anos 1 e 2
+
+                                                     COLETA                                    TRANSBORDO E TRANSPORTE                                                               DISPOSIÇÃO FINAL
+
+                                                      Arapuá
+                                                      562 t/ano
+                                                      132 t/ano                                                                                           3.744 t/ano
+                                                         0 t/ano                                                                                           928 t/ano
+                                                                                                                                                                                 Aterro Sanitário de
+                                                  Rio Paranaíba                  3.744 t/ano                                                               40,7 t/ano
+                                                                                                                                                                                      Bambuí
+                                                     3.183 t/ano                  928 t/ano             ETR-01
+                                                      796 t/ano                   40,7 t/ano           (Arapuá)
+                                   203 t/ano        UTL            41 t/ano
+                                                                                                                                                                              3.744 t/ano coleta convencional
+                                                                                                                                                                               928 t/ano RPU
+                                                                                                                                                                               40,7 t/ano rejeito da UTL
+
+
+
+
+                                                   Coromandel
+                                                     6.196 t/ano                 6.196 t/ano
+                                                     1.549 t/ano                 1.549 t/ano            ETR-02
+                                   395 t/ano       UTL             79 t/ano        79 t/ano          (Coromandel)
+
+
+
+                                               Cruzeiro da Fortaleza
+                                                      778 t/ano
+                                                      183 t/ano
+                                                         0 t/ano
+                                                 Serra do Salitre                                                                                        66.643 t/ano            Aterro Sanitário de
+                                                     2.761 t/ano                 5.404 t/ano                                                             15.754 t/ano                Uberlância
+                                                      649 t/ano                  1.270 t/ano            ETR-03                                              79 t/ano
+                                                         0 t/ano                    0 t/ano           (Guimarânia)
+                                                   Guimarânia
+                                                     1.865 t/ano                                                                                                          66.643 t/ano    coleta convencional
+                                                      438 t/ano                                                                                                           15.754 t/ano    RPU
+                                                         0 t/ano                                                                                                          79 t/ano        rejeito da UTL
+
+
+
+
+                                                 Patos de Minas
+                                                    46.548 t/ano
+                                                    10.938,7 t/ano
+                                                         0 t/ano
+                                                  Lagoa Formosa                 50.879 t/ano
+                                                     4.332 t/ano                11.957 t/ano            ETR-05
+                                                     1.018 t/ano                    0 t/ano         (Patos de Minas)
+                                                         0 t/ano
+
+
+
+
+                                               Presidente Olegário
+                                                     4.164 t/ano                 4.164 t/ano
+                                                                                                        ETR-04
+                                                      979 t/ano                   979 t/ano
+                                                                                                      (Presidente
+                                                         0 t/ano                    0 t/ano            Olegário)
+
+                                Obs.: Correspondente a média dos anos 1 e 2.
+
+
+Legenda: verde - resíduos/rejeitos provenientes da coleta seletiva; laranja - resíduos/rejeitos provenientes da coleta indiferenciada; roxo - RPU, cinza - rejeitos da triagem e tratamento.
+Nota 1: Em Presidente Olegário, a coleta será realizada pelo próprio município.
+
+                                                                                                                                                                                                                21
+
+                                                                               CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                                                                                                       Telefone: (34) 3822-5450
+                                                                                                                         Figura 2 - Balanço de Massa da Etapa II
+
+
+                                                                                                                                  Balanço de Massa - Anos 3 e 4
+
+                                                           COLETA                                                                                                     TRATAMENTO                                                      DISPOSIÇÃO FINAL
+                                                                                                        TRANSBORDO E TRANSPORTE
+                                                           Arapuá
+                                                           514 t/ano                                                                                                   UTM CISPAR
+                                                           130 t/ano                                                                                                    220 t/dia
+                                                               41 t/ano
+                                                        Rio Paranaíba                     3.704 t/ano
+                                                           3.189 t/ano                     940 t/ano              ETR-01                                              66.342 t/ano
+                                                           809 t/ano                        92 t/ano              (Arapuá)                                            4.707 t/ano
+                                         255 t/ano       UTL              51 t/ano
+
+
+                                                                                                                                                      Resíduo da coleta convencional
+
+                                                                                                                                                              10%                    Recicláveis
+                                                                                                                                                                                                                                      Aterro Sanitário
+                                                                                                                                                                               6.634 t/ano
+                                                                                                                                                                                                               46.440 t/ano
+                                                     Coromandel                                                                                               70%                      Rejeitos
+                                                           6.110 t/ano                    6.110 t/ano                                                                        46.440 t/ano
+                                                           1.551 t/ano                    1.551 t/ano              ETR-02
+                                         488 t/ano       UTL              98 t/ano          98 t/ano            (Coromandel)           18.732 t/ano                                                                              51.362 t/ano Rejeitos
+                                                                                                                                        4.754 t/ano           20%                      Orgânicos                  16.836 t/ano   16.836 t/ano RPU
+                                                     Cruzeiro da Fortaleza                                                               902 t/ano                           13.268 t/ano
+                                                           722 t/ano
+                                                           183 t/ano
+                                                                                                                                                                          Compostagem
+                                                               58 t/ano
+                                                       Serra do Salitre
+                                                           2.602 t/ano                    5.083 t/ano
+                                                           660 t/ano                      1.290 t/ano             ETR-03                                      60%                                      40%
+                                                           208 t/ano                       406 t/ano            (Guimarânia)                           Redução                           Composto
+                                                         Guimarânia                                                                                     7.961 t/ano                              5.307 t/ano
+                                                           1.759 t/ano                                                                                                                                 25%
+                                                           446 t/ano
+                                                                                                                                                                                               Composto
+                                                           141 t/ano
+                                                                                                                                                                                               Peneirado
+
+                                                       Patos de Minas
+                                                          43.565 t/ano                   43.565 t/ano                                  43.565 t/ano                                              1.327 t/ano
+                                                          11.056 t/ano                   11.056 t/ano                                  11.056 t/ano
+                                                           3.481 t/ano                    3.481 t/ano                                   3.481 t/ano                                                             3.981 t/ano
+                                                                                                                                                                                    Rejeitos
+
+                                                Lagoa Formosa                                                                                                                          75%       3.981 t/ano
+                                                           4.046 t/ano                    4.046 t/ano                                   4.046 t/ano
+                                                           1.027 t/ano                    1.027 t/ano                                   1.027 t/ano
+                                                           323 t/ano                       323 t/ano                                     323 t/ano    Resíduo da coleta seletiva
+
+                                                     Presidente Olegário                                                                                      80%                     Recicláveis
+                                                           3.835 t/ano                    3.835 t/ano             ETR-04                                                       3.766 t/ano
+                                                           973 t/ano                       973 t/ano            (Presidente
+                                                           306 t/ano                       306 t/ano             Olegário)                                    20%                     Rejeitos                   941 t/ano
+                                                                                                                                                                                941 t/ano
+
+
+
+
+                                      Obs.: Correspondente a média dos anos 3 e 4.
+
+
+Legenda: verde - resíduos/rejeitos provenientes da coleta seletiva; laranja - resíduos/rejeitos provenientes da coleta indiferenciada; roxo - RPU, cinza - rejeitos da triagem e tratamento.
+Nota 1: O RPU entregue pelas prefeituras, representado pela linha na cor roxa, não será objeto de separação na Unidade de Triagem Mecanizada, sendo o local utilizado apenas como ponto de transbordo.
+Nota 2: Em Presidente Olegário, a coleta é realizada pelo próprio município.
+
+                                                                                                                                                                                                                                                         22
+
+                                                                                     CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                                                                                                               Telefone: (34) 3822-5450
+                                                                                                                     Figura 3 - Balanço de Massa da Etapa III
+
+
+                                                                                                                             Balanço de Massa - Anos 5 ao 7
+
+                                                       COLETA                                       TRANSBORDO E TRANSPORTE                                       TRATAMENTO                                                  DISPOSIÇÃO FINAL
+
+                                                       Arapuá
+                                                                                                                                                                   UTM CISPAR
+                                                       498 t/ano
+                                                       129 t/ano
+                                                                                                                                                                    220 t/dia
+                                                           49 t/ano                   3.699 t/ano
+                                                    Rio Paranaíba                      955 t/ano              ETR-01                                                   65.977 t/ano
+                                                       3.201 t/ano                     112 t/ano             (Arapuá)                                               5.751 t/ano
+                                                       826 t/ano
+                                     314 t/ano       UTL               63 t/ano                                                                   Resíduo da coleta convencional
+
+                                                                                                                                                          10%               Recicláveis                                  Novo Aterro Sanitário
+                                                                                                                                                                        6.598 t/ano                                            CISPAR
+                                                                                                                                                                                                       46.184 t/ano
+                                                     Coromandel                                                                                           70%                     Rejeitos
+                                                       6.014 t/ano                    6.014 t/ano                                                                      46.184 t/ano
+                                                       1.552 t/ano                    1.552 t/ano             ETR-02                                                                                       4.787 t/ano
+                                     590 t/ano       UTL              118 t/ano        118 t/ano           (Coromandel)            18.549 t/ano                                                                          51.293 t/ano Rejeitos
+                                                                                                                                    4.787 t/ano           20%                 Orgânicos                                   4.787 t/ano RPU
+                                                 Cruzeiro da Fortaleza                                                              1.097 t/ano                        13.195 t/ano
+                                                       712 t/ano
+                                                       184 t/ano
+                                                                                                                                                                    Compostagem
+                                                           70 t/ano
+                                                   Serra do Salitre
+                                                       2.613 t/ano                    5.093 t/ano
+                                                       674 t/ano                      1.314 t/ano             ETR-03
+                                                       256 t/ano                       500 t/ano            (Guimarânia)                                  60%                                  40%
+                                                     Guimarânia                                                                                    Redução                         Composto
+                                                       1.768 t/ano                                                                                  7.917 t/ano                          5.278 t/ano
+                                                       456 t/ano                                                                                                                               25%
+                                                       174 t/ano
+                                                                                                                                                                                     Composto
+                                                                                                                                                                                     Peneirado
+                                                   Patos de Minas
+                                                      43.410 t/ano                   43.410 t/ano                                  43.410 t/ano                                          1.320 t/ano
+                                                      11.203 t/ano                   11.203 t/ano                                  11.203 t/ano
+                                                       4.260 t/ano                    4.260 t/ano                                   4.260 t/ano                                                         3.959 t/ano
+                                                                                                                                                                        Rejeitos
+                                                    Lagoa Formosa                                                                                                                 75%    3.959 t/ano
+                                                       4.018 t/ano                    4.018 t/ano                                   4.018 t/ano
+                                                       1.037 t/ano                    1.037 t/ano                                   1.037 t/ano
+                                                       394 t/ano                       394 t/ano                                     394 t/ano    Resíduo da coleta seletiva
+
+                                                 Presidente Olegário                                                                                      80%                 Recicláveis
+                                                       3.744 t/ano                    3.744 t/ano             ETR-04                                                    4.601 t/ano
+                                                       966 t/ano                       966 t/ano            (Presidente
+                                                       367 t/ano                       367 t/ano             Olegário)                                    20%                 Rejeitos                  1.150 t/ano
+                                                                                                                                                                        1.150 t/ano
+
+
+
+
+                                  Obs.: Correspondente a média dos anos 5 ao 7.
+
+
+Legenda: verde - resíduos/rejeitos provenientes da coleta seletiva; laranja - resíduos/rejeitos provenientes da coleta indiferenciada; roxo - RPU, cinza - rejeitos da triagem e tratamento.
+Nota 1: Considerou-se o Novo Aterro Sanitário em Patos de Minas.
+Nota 2: Em Presidente Olegário, a coleta é realizada pelo próprio município.
+
+                                                                                                                                                                                                                                                 23
+
+                                                                                  CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                                                                                                           Telefone: (34) 3822-5450
+                                                                                                                           Figura 4 - Balanço de Massa da Etapa IV
+
+
+                                                                                                                                   Balanço de Massa - Anos 8 ao 30
+
+                                                          COLETA                                       TRANSBORDO E TRANSPORTE                                       TRATAMENTO                                                       DISPOSIÇÃO FINAL
+
+                                                          Arapuá
+                                                                                                                                                                      UTM CISPAR
+                                                          429 t/ano
+                                                          115 t/ano
+                                                                                                                                                                       220 t/dia
+                                                              60 t/ano                   3.715 t/ano
+                                                       Rio Paranaíba                      996 t/ano              ETR-01                                                   65.503 t/ano
+                                                          3.287 t/ano                     153 t/ano             (Arapuá)                                               8.233 t/ano
+                                                          881 t/ano
+                                        464 t/ano       UTL               93 t/ano                                                                 Resíduo da coleta convencional
+
+                                                                                                                                                             10%                Recicláveis                                      Novo Aterro Sanitário
+                                                                                                                                                                           6.550 t/ano                                                 CISPAR
+                                                                                                                                                                                                               45.852 t/ano
+                                                                                                                                                                                     Rejeitos
+                                                        Coromandel                                                                                           70%
+                                                          5.582 t/ano                    5.582 t/ano             ETR-02                                                   45.852 t/ano
+                                                          1.496 t/ano                    1.496 t/ano          (Coromandel)
+                                        785 t/ano       UTL              157 t/ano        157 t/ano                                 17.817 t/ano             20%                     Orgânicos                                   51.429 t/ano Rejeito
+                                                                                                                                     4.776 t/ano                                                                  17.563 t/ano   17.563 t/ano RPU
+                                                    Cruzeiro da Fortaleza                                                            1.509 t/ano                          13.101 t/ano
+                                                          669 t/ano
+                                                          179 t/ano
+                                                              94 t/ano
+                                                      Serra do Salitre                                                                                                      Compostagem
+                                                          2.690 t/ano                    5.195 t/ano
+                                                          721 t/ano                      1.393 t/ano            ETR-03
+                                                          379 t/ano                       733 t/ano           (Guimarânia)
+                                                        Guimarânia                                                                                           60%                                       40%
+                                                          1.837 t/ano
+                                                                                                                                                     Redução                           Composto
+                                                          493 t/ano
+                                                          259 t/ano                                                                                    7.860 t/ano                               5.240 t/ano
+
+
+                                                                                                                                                                                                       25%
+                                                      Patos de Minas
+                                                         43.768 t/ano                   43.768 t/ano                                43.768 t/ano                                 Composto Peneirado
+                                                         11.736 t/ano                   11.736 t/ano                                11.736 t/ano
+                                                          6.172 t/ano                    6.172 t/ano                                 6.172 t/ano                                                 1.310 t/ano    3.930 t/ano
+                                                                                                                                                                          Rejeitos
+                                                       Lagoa Formosa                                                                                                                 75%
+                                                          3.918 t/ano                    3.918 t/ano                                 3.918 t/ano                           3.930 t/ano
+                                                          1.050 t/ano                    1.050 t/ano                                 1.050 t/ano
+                                                          552 t/ano                       552 t/ano                                   552 t/ano
+
+
+                                                    Presidente Olegário
+                                                          3.325 t/ano                    3.325 t/ano
+                                                                                                                 ETR-04
+                                                          891 t/ano                       891 t/ano
+                                                                                                               (Presidente
+                                                          467 t/ano                       467 t/ano
+                                                                                                                Olegário)
+                                                                                                                                                   Resíduo da coleta seletiva
+
+                                                                                                                                                             80%                     Recicláveis
+                                                                                                                                                                           6.586 t/ano                          1.647 t/ano
+                                                                                                                                                             20%                     Rejeitos
+                                                                                                                                                                           1.647 t/ano
+
+
+
+
+                                     Obs.: Correspondente a média dos anos 8 ao 30.
+
+
+Legenda: verde - resíduos/rejeitos provenientes da coleta seletiva; laranja - resíduos/rejeitos provenientes da coleta indiferenciada; roxo - RPU, cinza - rejeitos da triagem e tratamento.
+Nota 1: Considerou-se o Novo Aterro Sanitário em Patos de Minas.
+Nota 2: Em Presidente Olegário, a coleta é realizada pelo próprio município.
+                                                                                                                                                                                                                                                         24
+
+                                                                                     CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                                                                                                              Telefone: (34) 3822-5450
+    5.2. Coleta
+    A rota tecnológica adotada inclui três tipos de coleta: coleta indiferenciada, a coleta seletiva, para
+os resíduos secos com potencial de reciclagem e coleta seletiva de orgânicos. Em todas foi adotada
+frota nova e própria, e estabeleceu-se a vida útil dos veículos em 8 anos.
+
+    Para o RPU provenientes da limpeza urbana foram considerados transbordo, transporte e a
+disposição final ambientalmente adequada em aterro sanitário, à exceção do RESÍDUO VERDE para as
+áreas e/ou unidades de tratamento da CONCESSIONÁRIA, considerando o seu potencial de
+aproveitamento como insumo em processos de compostagem do resíduo orgânico domiciliar. A
+execução dos serviços de limpeza urbana, como varrição, poda e capina permanece sob
+responsabilidade das prefeituras municipais. Caso o RESÍDUO VERDE proveniente do RPU seja
+entregue pelo município de forma segregada, a concessionária irá prestar o serviço de triagem e
+tratamento desse resíduo de forma gratuita.
+
+
+        5.2.1. Coleta indiferenciada
+    A coleta indiferenciada será universalizada a partir do ano 1 da CONCESSÃO. O dimensionamento
+da frota de veículos considerou a utilização de caminhões compactadores com capacidade de 15 m³
+(utilizando ou não contentores que possam ser operados por estes caminhões), com taxa de
+compactação aproximada de 3:1, por serem os veículos de melhor relação custo-benefício para as
+quantidades envolvidas. A definição da quantidade de RSD a ser coletada em área rural e urbana
+obedeceu a proporção existente de população urbana e rural, conforme IBGE (2022).
+
+    O município de Presidente Olegário optou por não conceder os serviços de coleta (indiferenciada,
+seletiva de recicláveis secos e de orgânicos). Portanto, a geração de resíduos do município não foi
+levada em consideração no dimensionamento de veículos para a coleta em três frações. A
+concessionária deverá implantar ESTAÇÃO DE TRANSBORDO a uma distância máxima de 50 km
+(cinquenta quilômetros) do centro geográfico da sede municipal para que o município envie os
+resíduos coletados.
+
+    Para o dimensionamento da frota de veículos para a coleta indiferenciada, foram adotadas as
+seguintes premissas:
+
+        •   Proporção entre população urbana e rural ..............................................Censo Demográfico, 2022
+        •   Peso específico dos resíduos soltos.............................................................0,23 t/m³
+        •   Capacidade de carga útil do caminhão compactador..................................7.250 kg
+        •   Número de viagens por dia..........................................................................2 viagens/dia
+        •   Jornada de trabalho.....................................................................................8 h/dia.
+
+                                                                                                                          25
+
+     CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                          Telefone: (34) 3822-5450
+    Ao todo, foram previstos 17 caminhões compactadores de 15m³ e 94 contenedores de 1 m³ para
+zona rural, sendo a especificação dos equipamentos as apresentadas abaixo:
+
+        •   Coletor compactador para lixo urbano, com carregamento traseiro, capacidade
+            volumétrica útil de 15m³, montado em chassi eletrônico com peso bruto total de 16.000
+            kg.
+
+        •   Contenedores em polietileno com capacidade de 1.000 litros, com descarga mecanizada
+            em caminhões coletores compactadores com capacidade de 15 m³, a serem utilizados na
+            coleta de RSD nas zonas rurais.
+
+    Considerou-se guarnição composta de 1 motorista e 2 coletores e reserva técnica mensal de 10%.
+
+    No Quadro 6 está apresentado o dimensionamento dos veículos e equipamentos para coleta
+indiferenciada.
+
+
+
+
+                                                                                                26
+
+     CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                    Telefone: (34) 3822-5450
+                        Quadro 6 – Dimensionamento dos veículos e equipamentos da coleta indiferenciada no ano 5 do prazo da concessão
+                                    Coleta     Coleta
+                                                                       Quantida
+                      Quantidad      área       área                                                                              Necessidade
+                                                           Local de      de de                      N° de         Quantidade                         N° de      Quantidade      Quantidade
+                       e de RSD     urbana      rural                               Quantidade                                  containers 1000
+     Municípios                                          Transbordo    resíduos                    roteiros      caminhões 15                     containers     motoristas      coletores
+                      (t/dia) ano     RSD        RSD                                 roteiros                                        litros
+                                                         /Destinação    (t/dia)                   adotados            m³                           adotados    (sem reserva)   (sem reserva)
+                           5        (t/dia)    (t/dia)                                                                           pelo RSD rural
+                                                                         ano 5
+                                     ano 5      ano 5
+
+       Arapuá            1,63        1,28       0,34                                                                                 1,48             2
+                                                         Transbordo
+                                                                        11,95          0,82           1               1                                             1               2
+                                                           Arapuá
+   Rio Paranaíba        10,32        7,95       2,37                                                                                10,30            11
+
+                                                         Transbordo
+    Coromandel          19,54       16,22       3,32                    19,54          1,35           2               2             14,43            15             2               4
+                                                         Coromandel
+     Cruzeiro da
+                         2,31        1,91       0,39                                                                                 1,74             2
+      Fortaleza
+                                                         Transbordo
+    Guimarânia           5,70        4,70       1,00                    16,43          1,13           2               2              4,35             5             2               4
+                                                         Guimarânia
+
+   Serra do Salitre      8,42        6,55       1,87                                                                                 8,13             9
+
+   Lagoa Formosa        13,01       10,41       2,60     UVR CISPAR     13,01          1,99                                         11,30            12
+                                                                                                     12              12                                             12              24
+   Patos de Minas       140,29      131,6       8,70     UVR CISPAR     140,29         9,68                                         37,83            38
+
+                                                         Transbordo
+     Presidente
+                           -           -          -      Presidente       -              -            0               0                -              -             0               0
+      Olegário
+                                                          Olegário
+
+     SUBTOTAL           201,22      180,6      20,60          -         200,45       SUBTOTAL        17              17             89,56            94             17              34
+
+Nota 1: Os municípios foram agrupados por local de transbordo / destinação. A quantidade de roteiros necessária foi calculada pela razão entre a quantidade de resíduos
+da coleta indiferenciada do agrupamento e a capacidade de carga do veículo coletor (14,5 t/roteiro). Foi adotado apenas o coletor de 15 m³.
+Nota 2: A necessidade de containers foi calculada pela razão entre a quantidade de resíduos da coleta indiferenciada na área rural de cada município e a capacidade do
+container adotado (1 m³ - 0,23 t)
+Nota 3: Presidente Olegário não concedeu os serviços de coleta para a futura concessionária.
+                                                                                 Fonte: Consórcio Vital, 2025.
+
+
+                                                                                                                                                                                           27
+
+                                            CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                                                              Telefone: (34) 3822-5450
+        5.2.2. Coleta seletiva de recicláveis secos
+    Para os municípios que possuem atualmente unidade de triagem local licenciada e operada por
+associação ou cooperativa de catadores de materiais recicláveis e reutilizáveis, a coleta seletiva de
+recicláveis secos deverá ser universalizada a partir do ano 1 do prazo da concessão. Para os municípios
+que não possuem unidade de triagem local licenciada existente, a coleta seletiva de recicláveis secos
+deverá ser universalizada a partir do ano 3 do prazo da concessão, momento em que a Triagem
+Mecanizada iniciará a operação. A coleta seletiva de recicláveis secos terá frota específica e
+independente daquela a ser utilizada na coleta indiferenciada. Para a coleta seletiva, optou-se pelo
+caminhão do tipo gaiola, com capacidade de 10 m³.
+
+    A coleta seletiva de recicláveis secos deverá ser implantada em duas modalidades, porta a porta e
+nos Pontos de Entrega Voluntária (PEV) a serem implantados.
+
+    Para o dimensionamento da frota de veículos para a coleta seletiva, foram adotadas as seguintes
+premissas:
+
+        •    Proporção de reciclável sobre o RSU .............................................................................40,05%
+        •    Peso específico dos resíduos soltos................................................................................0,23 t/m³
+        •    Capacidade volumétrica do caminhão gaiola.................................................................10 m³
+        •    Número de viagens por dia.............................................................................................2 viagens/dia
+        •    Jornada de trabalho........................................................................................................8 h/dia.
+
+
+    Ao todo, foram previstos 6 caminhões gaiola de 10 m³ e 17 PEV (51 contenedores), com as
+seguintes especificações técnicas:
+
+        •    Caminhão peso bruto total (PBT) mínimo de 14.000 kg; potência mínima de 180 cv, tipo
+             turbo 4 cilindros. Emissões máximas de acordo com programa de controle da poluição do
+             ar por veículos automotores (PROCONVE). Montado com carroceria tipo gaiola armada
+             para caminhão de coleta, fabricada em aço estrutural “ASTM A-36” a ser acoplada em
+             veículo; com fechamento em tela nas laterais, frontal, traseira e no teto, com capacidade
+             total de até 18 m³; sem divisões internas. Deverá possuir chapa de aço compatível com a
+             carroceria, para fixação de arte de acordo com o modelo definido pelo PODER
+             CONCEDENTE.
+
+        •    Os PEVs serão construídos e operados pela concessionária e obedecerão aos seguintes
+             parâmetros: deverão ser cercados e dotados de placa de identificação, podendo ser
+             aproveitados espaços/áreas públicas ociosas, com uso autorizado pelo poder público,
+
+                                                                                                                                            28
+
+     CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                                Telefone: (34) 3822-5450
+            passíveis de receberem os PEVs, ou mesmo áreas privadas como por exemplo
+            estacionamento de mercados desde que haja cessão do espaço para implantação do PEV.
+
+            Cada unidade deve ter área aproximada de 40 m² e ser dimensionada para abrigar 3
+            contêineres de 1.000 litros para disposição de recicláveis pelos munícipes.
+
+    No Quadro 7 está apresentado o dimensionamento dos veículos e equipamentos para a coleta
+seletiva.
+
+
+
+
+                                                                                                 29
+
+      CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                     Telefone: (34) 3822-5450
+                Quadro 7 – Dimensionamento dos veículos e equipamentos da coleta seletiva de recicláveis secos no ano 3 do prazo da concessão
+                   Quantidade                    Encaminhado                 Quantidade
+                                 Encaminhado                     Rejeito                                  N° de     Quantidade                   Quantitativo
+                   de resíduos                   diretamente                 de resíduos   Quantidade                            Quantitativo                    Quantidade
+   Municípios                      para UTR                      das UTR                                 roteiros   caminhões                      de PEV
+                     (t/dia)                      para a UVR                   (t/dia)      roteiros                               de PEV                        containers
+                                 (t/dia) ano 3                    locais                                adotados      gaiola                      adotado
+                      Ano3                       (t/dia) ano 3                  ano 3
+     Arapuá           0,13             -             0,13           -                                                                0,09             1              3
+                                                                                0,95          0,21          1           1
+ Rio Paranaíba        0,82           0,82              -          0,16                                                               0,59             1              3
+  Coromandel          1,56           1,56              -          0,31          1,56          0,34          1           1            1,13             2              6
+  Cruzeiro da
+                      0,18             -             0,18           -                                                                0,13             1              3
+    Fortaleza
+  Guimarânia          0,46             -             0,46           -           1,31          0,28          1           1            0,33             1              3
+    Serra do
+                      0,67             -             0,67           -                                                                0,49             1              3
+     Salitre
+     Lagoa
+                      1,04             -             1,04           -                                                                0,75             1              3
+    Formosa
+                                                                               12,25          2,66          3           3
+    Patos de
+                      11,21         11,21              -          2,24                                                               8,12             9              27
+     Minas
+   Presidente
+                        -              -               -            -             -                -        0           0              -              0              0
+    Olegário
+   SUBTOTAL           16,07         13,59            2,48         2,71         16,07       SUBTOTAL         6           6              -             17              51
+Nota 1: Os municípios foram agrupados por destinação. A quantidade de roteiros necessária foi calculada pela razão entre a quantidade de resíduos da coleta seletiva de
+recicláveis do agrupamento e a capacidade de carga do veículo coletor (4,6 t/roteiro). Foi adotado apenas o coletor de 10 m³.
+Nota 2: A necessidade de containers foi calculada pela razão entre a quantidade de resíduos da coleta seletiva de recicláveis secos de cada município e a capacidade do
+container adotado (1 m³ - 0,23 t).
+Nota 3: Presidente Olegário não concedeu os serviços de coleta para a futura concessionária.
+                                                                            Fonte: Consórcio Vital, 2025.
+
+
+
+
+                                                                                                                                                                          30
+
+                                    CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                                                        Telefone: (34) 3822-5450
+6. Coleta seletiva de orgânicos
+    A implantação da coleta seletiva de orgânicos nos municípios que compõem o consórcio CISPAR
+tem como base fundamental, um processo de educação ambiental junto a população para
+aproveitamento dos resíduos orgânicos gerados, diminuindo a quantidade de resíduos dispostos em
+aterros sanitários.
+
+    Projetou-se o encaminhamento dos resíduos oriundos da coleta seletiva de orgânicos para o
+processo de compostagem, a ser realizado em área interna da UVR. O objetivo desse processo é a
+produção de composto orgânico, que posteriormente poderá ser comercializado gerando receitas
+acessórias a concessão.
+
+    As normas ambientais são omissas quanto ao alcance da coleta seletiva de orgânicos. A NTC
+01/2024, por exemplo, preconiza o percentual de orgânicos a ser desviado para tratamento biológico,
+sem a obrigatoriedade de ser coletado seletivamente. Salienta apenas “a importância de regulamentar
+e fiscalizar os grandes geradores, em nível municipal, além de implementar sistemas de coleta seletiva
+de resíduos orgânicos de modo a facilitar o tratamento biológico e reciclagem dos resíduos orgânicos
+coletados no manejo de RSU". Também sugere o engajamento dos municípios na implementação da
+coleta seletiva. Esse conceito aparece em diversos pontos da citada NTC, sem delimitar metas ou
+alcances. Como premissa de projeto, buscou-se ao final de projeto, que 50% dos resíduos orgânicos a
+serem tratados biologicamente fossem coletados seletivamente.
+
+    A previsão é de que a coleta seletiva de orgânicos será iniciada no ano 8 do prazo da concessão,
+após o desenvolvimento dos programas de educação ambiental, atendendo, com exceção de
+Presidente Olegário, todos os municípios participantes da concessão. A coleta de orgânicos priorizará
+o atendimento aos pequenos e médios geradores (preferencialmente acima de 50 kg/dia) que gerem
+maior quantidade de resíduos orgânicos (mercearias, restaurantes, hortifrutis, cantinas de escolas
+etc.). Essa coleta foi dimensionada para uma frota com 6 caminhões tipo compactador de 6 m³. Para
+todos os municípios do consórcio a coleta de resíduos orgânicos será um novo serviço a ser implantado,
+que deverá necessariamente ter um período de maturação, onde a concessionária deverá fazer os
+ajustes operacionais necessários para atingir os objetivos do projeto. O planejamento da coleta deverá
+ser iniciado com cadastramento dos geradores, residenciais e comerciais, com geração contínua de
+orgânicos, a ser feito pela concessionária, simultaneamente com as áreas onde serão desenvolvidos
+os programas de capacitação ambiental para a coleta de orgânicos.
+
+    A coleta seletiva de orgânicos será sob demanda, priorizando em um primeiro momento
+instituições públicas e estabelecimentos comerciais. O serviço dará preferência ao atendimento de
+                                                                                                   31
+
+     CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                    Telefone: (34) 3822-5450
+pequenos e médios geradores com maior produção de resíduos orgânicos (mercearias, restaurantes,
+hortifrutis, cantinas de escolas etc.). Estas serão previamente cadastrados pela concessionária. Prevê-
+se também a expansão para a população que aderir ao programa. Neste aspecto, serão focadas
+prioritariamente as comunidades selecionadas em conjunto com o Poder Concedente e as
+Administrações Municipais, que será foco de campanhas de Educação Ambiental prévia. O cidadão
+comum poderá (e será incentivado a fazê-lo) separar os resíduos orgânicos em sua residência e
+entregá-lo no ponto mais próximo já incluído no roteiro de coleta seletiva.
+
+    Essa coleta foi dimensionada para uma frota com 6 caminhões tipo compactador de 6 m³ montado
+sobre chassi de 10 toneladas de PBT. Referencialmente previu-se uma frequência de duas vezes por
+semana
+
+    A frequência inicialmente adotada para a coleta de orgânicos é de 2 x semana, podendo ser
+ampliada ou reduzida, de acordo com a geração dos domicílios e demais estabelecimentos que serão
+coletados. Com o esperado crescimento progressivo da demanda pelo serviço, a concessionária deverá
+revisar constantemente as rotas dos veículos para prever o aumento da capacidade de coleta,
+acompanhando a dinâmica dos novos geradores que solicitarão os serviços.
+
+
+    6.1. Unidades de Triagem de Recicláveis local (UTR)
+    O projeto propõe conciliar a atuação da futura concessionária com a atuação dos catadores de
+materiais recicláveis e reutilizáveis. Para tanto, considerou-se que os resíduos da coleta seletiva de
+recicláveis secos deverão ser encaminhados para as unidades de triagem local licenciadas existentes e
+operadas por associação ou cooperativa de catadores dos respectivos municípios2. Essas UTR
+receberão uma reforma simples e novos equipamentos.
+
+    Portanto, considerou-se que os resíduos da coleta seletiva de recicláveis secos serão
+encaminhados para as unidades de triagem local dos seguintes municípios: Coromandel e Rio
+Paranaíba.
+
+
+
+
+    2
+        Coromandel e Rio Paranaíba.
+                                                                                                    32
+
+        CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                       Telefone: (34) 3822-5450
+    6.2. Transbordo e transporte
+    Estação de transbordo ou de transferência de resíduos (ETR) é um local dotado de infraestrutura
+apropriada para a transferência de resíduos sólidos urbanos (RSU) de um veículo coletor para outro
+veículo com maior capacidade de carga, que transportará estes resíduos até a unidade de tratamento
+e/ou até a disposição final.
+
+    Foi projetada a implantação de 5 (cinco) estações de transbordo, nos municípios de: Arapuá,
+Coromandel, Guimarânia, Patos de Minas e Presidente Olegário. Na Figura 5 é apresentado o croqui
+da estação de transbordo padrão projetada, que prevê edificação de apoio operacional e
+administrativo, plataforma de transferência para descarga por gravidade, sistema de drenagem de
+efluentes e cobertura metálica, sendo:
+
+        •   Área de descarga......................................................................................................300 m²;
+        •   Área de transbordo..................................................................................................52,5 m²;
+        •   Área de acesso/manobra dos caminhões de coleta................................................450 m²;
+        •   Área de acesso/manobra das carretas....................................................................840 m²;
+        •   Cobertura................................................................................................................75 m²;
+
+    Para cálculo do custo de transporte das estações de transbordo para a UTM, foi considerado o
+transporte através de carretas de 3 eixos, do tipo roll on roll off, para transporte de caixas com
+capacidade de até 30 m³.
+
+    Para o ano 1 do prazo da concessão, o transporte foi dimensionado com 23 carretas,
+dimensionadas para o transporte da coleta indiferenciada, RPU e rejeitos da coleta seletiva.
+
+    Adicionalmente, foram dimensionadas 29 caixas roll on roll off, distribuídas da seguinte maneira:
+
+        •   17 caixas para a coleta indiferenciada;
+        •   7 caixas para os resíduos da limpeza urbana (RPU); e
+        •   5 caixas para a coleta seletiva de recicláveis secos.
+
+    Para o ano 5 do prazo da concessão, momento em que o aterro sanitário do CISPAR iniciará
+operação, o transporte foi dimensionado com 5 carretas, dimensionadas para o transporte da coleta
+indiferenciada, RPU e rejeitos da coleta seletiva.
+
+    Adicionalmente, foram dimensionadas 16 caixas, distribuídas da seguinte maneira:
+
+        •   7 caixas para a coleta indiferenciada, sendo 1 reserva técnica;
+        •   5 caixas para os resíduos da limpeza urbana (RPU), sendo 1 reserva técnica; e
+        •   4 caixas para os resíduos oriundos da coleta seletiva de recicláveis secos, sendo 1 reserva técnica.
+
+    No dimensionamento do transporte, adotou-se como parâmetro:
+
+        •   Peso específico dos resíduos da coleta indiferenciada na carreta.........................................0,50 t/m³;
+
+                                                                                                                                              33
+
+     CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                                 Telefone: (34) 3822-5450
+        •   Peso específico dos resíduos da coleta seletiva de recicláveis secos na carreta....................0,23 t/m³;
+        •   Capacidade volumétrica da caixa roll on roll off...................................................................30 m³;
+        •   Velocidade de transporte......................................................................................................50 km/h;
+        •   Jornada de trabalho...............................................................................................................8 h/dia.
+
+    No Quadro 8, no Quadro 9 e no Quadro 10 estão apresentados os resultados do dimensionamento
+da frota e equipamentos para o transporte dos resíduos da coleta indiferenciada, da limpeza urbana
+(RPU) e da coleta seletiva de recicláveis secos, respectivamente, para o ano 5 do prazo da concessão.
+Foi considerada a vida útil de 10 anos para as carretas de transporte e para as caixas roll on roll off.
+
+
+
+
+                                                                                                                                                  34
+
+     CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                                 Telefone: (34) 3822-5450
+ Quadro 8 – Dimensionamento dos equipamentos de transbordo e de transporte dos resíduos da coleta indiferenciada para o ano 5 do prazo da concessão
+                        Quantidade de                                                                         Tempo (h)
+                          resíduos da                          Peso no        Distância       Quantidade       de ida e     Viagens por      Necessidade      Necessidade     Momento de
+     Municípios              coleta         Transbordo       transbordo        (km) até        de caixas      volta a 50        dia           de caixas       de carretas      transporte
+                        indiferenciada                          (t/dia)      destino final      por dia         km/h +       (8 horas)         (und.)           (und.)        (t x km/dia)
+                         (t/dia) ano 5                                                                         descarga
+       Arapuá                1,63            ETR 01
+                                                               11,95             91,2            0,80            4,15           1,93              1                 1           1.089,8
+   Rio Paranaíba            10,32            Arapuá
+                                             ETR 02
+    Coromandel              19,54                              19,54            115,0            1,30            5,10           1,57              2                 1           2.247,1
+                                           Coromandel
+    Cruzeiro da
+                             2,31
+     Fortaleza
+                                             ETR 03
+    Guimarânia               5,70                              16,43             40,0            1,10            2,10           3,81              2                 1            657,2
+                                           Guimarânia
+  Serra do Salitre           8,42
+                                              ETR 04
+     Presidente
+                            12,20           Presidente         12,20             50,5            0,81            2,52           3,17              1                 1            616,1
+      Olegário
+                                             Olegário
+                                             Direto na
+  Lagoa Formosa             13,01                                 -                  -             -               -              -                -                -              -
+                                               UTM
+                                             Direto na
+  Patos de Minas           140,29                                 -                  -             -               -              -                -                -              -
+                                               UTM
+     SUBTOTAL              213,42                -             60,12         SUBTOTAL              -               -              -               6                 4              -
+                                                                               Reserva
+                                                                                                   -               -              -               1                 1              -
+                                                                               técnica
+                                                                             ADOTADO                                                              7                 5
+Nota 1: As células preenchidas com traço (-) indicam que o conteúdo não se aplica.
+Nota 2: O serviço de coleta indiferenciada em Presidente Olegário será realizado pelo próprio município, que entregará os resíduos coletados na ETR de Presidente Olegário.
+                                                                               Fonte: Consórcio Vital, 2025
+
+
+
+                                                                                                                                                                                          35
+
+                                         CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                                                             Telefone: (34) 3822-5450
+ Quadro 9 – Dimensionamento dos equipamentos de transbordo e de transporte dos resíduos da limpeza urbana (RPU) para o ano 5 do prazo da concessão
+                        Quantidade                                                                            Tempo (h)
+                      de resíduos da                              Peso no       Distância      Quantidade      de ida e    Viagens por   Necessidade   Necessidade   Momento de
+     Municípios            coleta           Transbordo          transbordo       (km) até       de caixas     volta a 50       dia        de caixas    de carretas    transporte
+                      indiferenciada                               (t/dia)     destino final     por dia        km/h +      (8 horas)      (und.)        (und.)      (t x km/dia)
+                       (t/dia) ano 5                                                                           descarga
+      Arapuá               0,41               ETR 01
+                                                                   3,03              91,2        0,20           4,15          1,93           1             (2)         276,34
+   Rio Paranaíba           2,62               Arapuá
+                                             ETR 02                                                                                                        (2)
+   Coromandel              4,96                                    4,96              115,0       0,33           5,10          1,57           1                         570,40
+                                           Coromandel
+    Cruzeiro da                                                                                                                                            (2)
+                           0,59
+     Fortaleza
+                                              ETR 03
+    Guimarânia             1,45                                    4,18              40,0        0,28           2,10          3,81           1                         167,20
+                                            Guimarânia
+  Serra do Salitre         2,14
+                                              ETR 04                                                                                                       (2)
+    Presidente
+                           3,10             Presidente             3,10              50,5        0,21           2,52          3,17           1                         156,55
+     Olegário
+                                             Olegário
+  Lagoa Formosa            3,30           Direto na UTM              -                 -           -              -             -             -             -             -
+  Patos de Minas           35,60          Direto na UTM              -                 -           -              -             -             -             -             -
+    SUBTOTAL               54,17                  -               15,27        SUBTOTAL            -              -             -            4             (2)            -
+                                                                                 Reserva
+                                                                                                   -              -             -            1              -             -
+                                                                                 técnica
+                                                                               ADOTADO             -              -             -            5             (2)            -
+Nota 1: As células preenchidas com traço (-) indicam que o conteúdo não se aplica.
+Nota 2: Adotou-se reaproveitamento das carretas dimensionadas para transbordo e transporte da coleta indiferenciada.
+                                                                               Fonte: Consórcio Vital, 2025
+
+
+
+                                                                                                                                                                                    36
+
+                                        CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                                                             Telefone: (34) 3822-5450
+      Quadro 10 – Dimensionamento dos equipamentos de transbordo e de transporte dos resíduos da coleta seletiva de recicláveis secos para o ano 5
+                        Quantidade                                                                                              Tempo (h)
+                                          Quantidade de                                             Distância
+                        de resíduos                                                    Peso no                   Quantidade      de ida e     Viagens    Necessidade   Momento de
+                                         rejeitos das UTR                                           (km) até
+    Municípios           da coleta                               Transbordo          transbordo                   de caixas     volta a 50    por dia     de caixas     transporte
+                                       locais (t/dia) ano 5                                          destino
+                      indiferenciada                                                    (t/dia)                    por dia        km/h +     (8 horas)     (und.)      (t x km/dia)
+                                           da concessão                                               final
+                       (t/dia) ano 5                                                                                             descarga
+      Arapuá              0,13                  -                 ETR 01
+                                                                                       0,29           91,2           0,04          4,15        1,93          1            26,45
+  Rio Paranaíba             -                 0,16                Arapuá
+                                                                  ETR 02
+   Coromandel               -                 0,31                                     0,31          115,0           0,04          5,10        1,57          1            35,65
+                                                                Coromandel
+    Cruzeiro da
+                          0,18                  -
+     Fortaleza
+                                                                  ETR 03
+   Guimarânia             0,46                  -                                      1,31           40,0           0,19          2,10        3,81          1            52,40
+                                                                Guimarânia
+ Serra do Salitre         0,67                  -
+                                                                  ETR 04
+    Presidente
+                            -                   -               Presidente               -              -              -               -         -           0              -
+     Olegário
+                                                                 Olegário
+ Lagoa Formosa            1,04                  -             Direto na UTM              -              -              -               -         -            -             -
+ Patos de Minas             -                 2,24            Direto na UTM              -              -              -               -         -            -             -
+    SUBTOTAL              2,48                2,71                    -                1,91       SUBTOTAL             -               -         -           3              -
+                                                                                                    Reserva
+                                                                                                                       -               -         -           1              -
+                                                                                                    técnica
+                                                                                                  ADOTADO              -               -         -           4              -
+Nota 1: As células preenchidas com traço (-) indicam que o conteúdo não se aplica.
+Nota 2: Adotou-se reaproveitamento das carretas dimensionadas para transbordo e transporte da coleta indiferenciada.
+Nota 3: Não se considerou entrega de resíduos oriundos da coleta seletiva de recicláveis secos no transbordo de Presidente Olegário.
+                                                                               Fonte: Consórcio Vital, 2025.
+
+
+
+
+                                                                                                                                                                                  37
+
+                                        CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                                                              Telefone: (34) 3822-5450
+                                   Figura 5 - Desenho esquemático da estação de transbordo padrão adotada
+
+
+
+
+ESTAÇÃO DE TRANSFERÊNCIA DE RESÍDUOS SÓLIDOS URBANOS
+ESQUEMA BÁSICO – ANTEPROJETO
+                                   Fonte: Elaboração própria a partir de licitações do serviço de coleta e transbordo
+
+                                                                                                                        38
+
+                           CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                                           Telefone: (34) 3822-5450
+    6.3. Unidade de Triagem Mecanizada (UTM)
+    O projeto considerou iniciar a operação, no ano 3 do prazo da concessão, de uma UTM com
+capacidade de 220 t/dia para atingir a meta de recuperação de resíduos recicláveis para fins de
+reutilização e/ou reciclagem.
+
+    A UTM terá capacidade para processar até 220 t/dia de resíduos sólidos urbanos, em turno de 8
+(oito) horas. A triagem separada de resíduos oriundos da coleta indiferenciada e de resíduos da coleta
+seletiva de recicláveis secos poderá ser realizada em linhas de triagem distintas ou em outros
+momentos em uma mesma linha de triagem e está considerada visando maior aproveitamento de
+materiais destinados à reciclagem. A unidade de processamento do projeto referencial é formada por
+2 (duas) linhas de triagem/trituração, com capacidade para processar até 110 toneladas por dia cada,
+montadas em paralelo, alimentadas por dois carregadores hidráulicos e composta pelos equipamentos
+especificados a seguir:
+
+ a) Sistema de Recepção
+
+    Composto por um fosso de concreto com capacidade de 90 m³ cada, para descarga de até 6 (seis)
+caminhões coletores simultaneamente, e das seguintes peças:
+
+    •     1 (um) carregador hidráulico tipo pólipo, confeccionado em chapas de aço carbono, acionamento direto
+          por motor e bomba hidráulica de engrenagens, cinco cilindros hidráulicos com alcance 7 m e giro 270º,
+          capacidade de carga 0,7 m³, comando hidráulico e 5 estágios duplo efeito, com plataforma de operação
+          individual;
+    •     2 (duas) moegas metálicas para recepção de lixo, capacidade 5 m³, construída em chapas de aço carbono
+          ASTM A-36 e estrutura em perfis laminadas;
+    •     2 (dois) transportadores mecânicos contínuos, tipo taliscas, construídos em chapas e vigas laminadas
+          de aço carbono, dimensões comprimento 4,0 m largura 1,2 m, com corrente de transporte passo 3",
+          acionamento por motor e redutor, velocidade de transporte 5,0 m/min.
+
+
+ b) Sistema de Triagem (Seleção Manual)
+
+    •     2 (dois) transportadores mecânicos contínuos de correia (seleção manual), construídos em chapas de
+          aço carbono ASTM A-36, dimensões comprimento 25,0 m, largura 1,3 m, acionamento indireto por
+          motor e redutor, correia de transporte 48" x 2 lonas, OAN (óleo ácido nitrílico), altura acima do solo 2,0
+          m, com roletes galvanizados diâmetro 4", plataforma metálica de operação, corrimão de proteção, 26
+          bicas de descarga capacidade 375 litros em cada;
+
+
+
+                                                                                                                 39
+
+        CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                         Telefone: (34) 3822-5450
+  •     52 (cinquenta e dois) carrinhos metálicos manuais, capacidade total 250 litros, construídos em chapa
+        de aço carbono, com duas rodas maciças de borracha sintética Ø 12”.
+
+
+c) Sistema de Trituração
+
+  •     2 (dois) moinhos trituradores para lixo, tipo martelos, confeccionado em chapas de aço carbono ASTM
+        A-36, com placas de sacrifício em aço carbono SAC-50, acionamento indireto por motor elétrico 60 cv,
+        rotor para 20 martelos em aço-liga e 1 grelha de dilaceração;
+  •     1 (uma) bica de alimentação do moinho tipo balística, para eliminação de materiais não trituráveis,
+        confeccionada em chapas de aço carbono ASTM A-36, com duto de descarga lateral;
+  •     1 (uma) plataforma metálica de sustentação do moinho, confeccionada em vigas laminadas de aço
+        carbono, montada sobre pés de concreto reforçado, fixados por chumbadores tipo bengala, passadiço
+        em chapa piso metal expandido e corrimão tubular de proteção;
+  •     2 (dois) transportadores mecânicos contínuos de correia, para descarga do lixo triturado, dimensões
+        comprimento 4,5 m, largura 0,8 m, com correia de transporte 24" x 2 lonas, acionamento indireto por
+        motor, montado em estrutura tubular, com roletes galvanizados diâmetro 2", proteções laterais e
+        sistema de levante e giro;
+  •     6 (seis) caçambas metálicas tipo Brooks, capacidade 5 m³, construídas em chapas de aço carbono, com
+        pino para engate em caminhão poliguindastes;
+  •     4 (quatro) carrinhos metálicos, capacidade 250 litros, construídos em chapa de aço carbono, com duas
+        rodas com pneu e câmara Ø 15".
+
+
+d) Sistema de Cobertura
+
+  •     1 (um) conjunto de estrutura metálica de cobertura das duas unidades de processamento (recepção,
+        catação e trituração), confeccionada em chapa de aço carbono, com pés tipo caixão e tesouras
+        treliçadas, cobertura em telhas galvanizadas espessura 0,5 mm, fechamento nas cabeceiras,
+        contraventamentos horizontais e longitudinais. Área coberta aproximada: 570 m².
+
+
+e) Sistema Elétrico
+
+  •     1 (um) quadro elétrico de comando e proteção dos motores da unidade de processamento, carcaça em
+        chapas de aço carbono, dimensionado conforme ABNT;
+  •     1 (um) conjunto de fiação, tubulação, botoeiras, cabos e demais acessórios necessários para
+        acionamento dos motores e iluminação da unidade de processamento, composta de refletores tipo
+        BEDD Ø 14", com lâmpadas de luz mista 250 W, 220 V.
+
+
+
+
+                                                                                                         40
+
+      CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                      Telefone: (34) 3822-5450
+ f)       Sistema de Prensagem
+
+      •     6 (seis) prensas hidráulicas verticais para enfardamento de papel, papelão, plástico fino e PET, para
+            fardos até 150 kg, confeccionadas em chapa de aço carbono, acionamento indireto por motor elétrico
+            10 cv, bomba hidráulica tipo engrenagens, cilindro hidráulico Ø 5.1/2”, com chave elétrica de partida
+            direta e cabo elétrico 5 m;
+      •     3 (três) prensas hidráulicas horizontais para enfardamento de latas e alumínio, confeccionada em chapa
+            de aço carbono, para fardos de até 50 kg, acionamento indireto por motor elétrico 10 cv, bomba
+            hidráulica tipo engrenagens, cilindro hidráulico Ø 6.1/2”, chave elétrica de partida direta e cabo elétrico
+            5 m;
+      •     2 (dois) moinhos trituradores para vidros, capacidade 500 kg/h, confeccionado em chapa de aço
+            carbono, acionamento por motor elétrico monofásico 3/4 cv, com bica de alimentação e tambor de
+            estocagem.
+
+
+ g) Sistema de Peneiramento
+
+      •     1 (um) transportador mecânico contínuo de correia, para alimentação de composto curado, dimensões
+            comprimento 4,5 m, largura 0,8 m, com correia de transporte 24" x 2 lonas, acionamento indireto por
+            motor, montado em estrutura tubular, com roletes galvanizados diâmetro 2", proteções laterais e bica
+            de descarga;
+      •     1 (uma) peneira rotativa cilíndrica, comprimento 5,00 m, diâmetro 1,56 m, confeccionada em chapas
+            de aço carbono, estrutura em vigas laminadas, malha de peneiramento Ø 3/4", acionamento por moto-
+            redutor 5 cv, com chave elétrica de partida direta e bicas de descarga de composto e rejeito;
+      •     2 (dois) transportadores mecânicos contínuos de correia, para retirada de composto peneirado,
+            dimensões comprimento 6,5 m, largura 0,8 m, com correia de transporte 24" x 2 lonas, acionamento
+            indireto por motor, montado em estrutura tubular, com roletes galvanizados diâmetro 2", proteções
+            laterais e sistema de levante;
+      •     3 (três) carrinhos metálicos, capacidade 250 litros, construído em chapas de aço carbono, com duas
+            rodas com pneu e câmara Ø 15".
+
+
+      A Figura 6 e a Figura 7 complementam o memorial descritivo da Unidade de Triagem Mecanizada
+referencial utilizada no projeto.
+
+
+
+
+                                                                                                                    41
+
+          CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                             Telefone: (34) 3822-5450
+    Figura 6 – Desenho esquemático da Unidade de Triagem Mecanizada (UTM) referencial
+
+
+
+
+                    Fonte: Companhia Municipal de Limpeza Urbana – COMLURB
+
+Figura 7 – Desenho esquemático da área de processamento da Unidade de Triagem Mecanizada
+                                     (UTM) referencial
+
+
+
+
+                    Fonte: Companhia Municipal de Limpeza Urbana – COMLURB
+
+
+
+                                                                                             42
+
+  CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                 Telefone: (34) 3822-5450
+7. Compostagem
+   A compostagem é uma tecnologia amplamente utilizada no Brasil, cujos fundamentos operacionais
+são conhecidos e de operação relativamente simplificada. De acordo com a norma da ABNT NBR
+13591:1996, compostagem é o processo de decomposição biológica da fração orgânica biodegradável
+dos resíduos, efetuado por uma população diversificada de organismos, em condições controladas de
+aerobiose e demais parâmetros, desenvolvido em duas etapas distintas: uma de degradação ativa e
+outra de maturação. Como resultado, a compostagem gera um material orgânico que, em princípio,
+pode ser utilizado na agricultura como condicionador de solos e que, mesmo em pequenas
+quantidades, pode apresentar algum potencial fertilizante.
+
+   Projetou-se uma unidade de compostagem centralizada iniciando a operação, no ano 3 do prazo
+da concessão, para efetuar tratamento biológico dos componentes orgânicos segregados na UTM,
+além do material oriundo da coleta seletiva de orgânicos que será implantada a partir do ano 8.
+
+   A unidade de compostagem terá capacidade para processar até 50 t/dia de resíduos sólidos
+urbanos, em turno de 8 (oito) horas.
+
+   Adotou-se referencialmente o processo de compostagem extensivo a céu aberto com leiras
+piramidais revolvidas periodicamente de modo a garantir a oxigenação necessária para evitar o
+surgimento de zonas anaeróbicas suscetíveis ao processo de fermentação. Esse revolvimento será feito
+de forma mecanizada com a utilização de retroescavadeira.
+
+   Previu-se a construção de um pátio de compostagem de 17.250 m² circundado por sistema de
+captação de efluentes composto por canaletas tipo meia cana em concreto pré-moldado e caixas
+enterradas em alvenaria para acumulação do chorume.
+
+   O pátio de compostagem foi projetado para receber todo o material orgânico recebido
+considerando período de maturação/estabilização equivalente a 90 dias.
+
+   O chorume captado será enviado para o sistema de tratamento de efluentes do Aterro Sanitário.
+
+   Adotou-se aquisição de:
+
+   •              peneira rotativa para composto com capacidade de produção até 3 m³ por hora
+
+   •     um triturador de galhos e podas urbanas com capacidade de corte de até 160 mm, montado
+sobre chassi rebocável, com sistema de duas facas dupla face.
+
+   Para operar a unidade projetou-se atuação de 1 auxiliar de pátio, 1 operador de retroescavadeira,
+1 operador de motosserra e 1 encarregado
+
+                                                                                                  43
+
+       CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                      Telefone: (34) 3822-5450
+    Previu-se a necessidade de 1 retroescavadeira e 1 motoserra para atender toda a unidade de
+compostagem.
+
+
+8. Aterro Sanitário
+
+    8.1. Aterro (s) Sanitário (s) Privado (s) – Ano 1 ao 4 do prazo da concessão
+    No início da concessão, a concessionária deverá utilizar a estrutura de destinação final de resíduos
+existente na região, já que não haverá tempo hábil para licenciamento e implantação de solução
+própria no início do contrato.
+
+    Nos 2 primeiros anos do prazo da concessão, os resíduos dos municípios de Coromandel, Cruzeiro
+da Fortaleza, Guimarânia, Lagoa Formosa, Patos de Minas, Presidente Olegário e Serra do Salitre irão
+para o Aterro sanitário privado em Uberlândia e os municípios de Arapuá e Rio Paranaíba destinarão
+os resíduos no Aterro sanitário privado em Bambuí, pela menor distância de transporte. Nos anos 3 e
+4 do prazo da concessão, após a implantação da UTM em Patos de Minas, todos os resíduos serão
+encaminhados a essa unidade e os rejeitos serão dispostos no Aterro sanitário privado em Uberlândia.
+As Estações de transbordo (ETRs) estão localizadas obedecendo a dinâmica estabelecida.
+
+
+    8.2. Novo aterro sanitário – Ano 5 ao 30
+    A partir do ano 5 do prazo da concessão, a concessionária deverá iniciar a operação do novo
+ATERRO SANITÁRIO do CISPAR em área a ser adquirida e licenciada ambientalmente pela própria3. A
+localização sugerida situa-se em um raio de 20 km estabelecido a partir do centro de massa do
+consórcio, situado nas coordenadas geográficas: 18°37'37.30"S 46°33'19.84"W. O modelo referencial
+considerou uma vida útil para o novo ATERRO SANITÁRIO para o período de 26 anos de concessão,
+descontados os quatro primeiros anos da CONCESSÃO, com base na geração de RSU projetada.
+
+                     Quadro 11 – Dimensionamento do novo ATERRO SANITÁRIO
+ Capacidade de recebimento de resíduos (média dos anos 5 ao 30)               217,36             t/dia
+ Vida útil                                                                     26,0              ano
+
+
+
+
+    3
+      Na concepção da rota tecnológica referencial foi considerada a implantação do novo aterro sanitário
+observando-se as normas da Deliberação Normativa COPAM nº 244/2022 (MINAS GERAIS, 2022).
+                                                                                                      44
+
+      CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                     Telefone: (34) 3822-5450
+ Recebimento total                                                          1.768.907            t
+ Densidade dos resíduos compactados                                            0,90             t/m³
+ Volume total de RSU                                                       1.965.452,1          m³
+ Material de cobertura (20% do volume total de RSU)                        393.090,42           m³
+ Volume total recebido (incluindo material de cobertura)                  2.358.542,53          m³
+                                       Fonte: Consórcio Vital, 2025.
+
+    Também deverá ser prevista a implantação de um sistema de captação de gases e monitoramento
+dos GEEs, prevendo, no mínimo, a captação centralizada através de manifolds conectados às cabeças
+dos poços de drenagem de gases que conduzirão o biogás coletado para a unidade de tratamento.
+
+    Os projetos executados pela concessionária acima descritos, bem como outros que porventura se
+façam necessários, deverão ser apresentados ao Poder Concedente e Agência Reguladora, para
+aprovação.
+
+    No caso da concessionária optar pela implantação e operação de um novo aterro sanitário, este
+não será reversível ao Poder Concedente ao final do período de concessão e permanecerá como
+propriedade da concessionária.
+
+
+9. REFERÊNCIAS
+
+ABCP. Associação Brasileira de Cimento Portland. Panorama do Coprocessamento 2023 (Ano base
+2022). Disponível em < https://coprocessamento.org.br/panorama-do-coprocessamento-brasil-2023-
+ano-base-2022-dez23/ >. Acessado em maio de 2024.
+
+ABETRE – Associação Brasileira de Empresas de Tratamento de Resíduos. Estudo sobre os Aspectos
+Econômicos e Financeiros da Implantação e Operação de Aterros Sanitários. Relatório Final.
+
+ABNT. Associação Brasileira de Normas Técnicas. Norma Brasileira. ABNT NBR 5410:2004 - Instalações
+elétricas de baixa tensão. 30 de setembro de 2004.
+
+ABNT. Associação Brasileira de Normas Técnicas. Norma Brasileira. ABNT NBR 16849:2020 - Resíduos
+sólidos urbanos para fins energéticos - Requisitos. 10 de fevereiro de 2020.
+
+ABRELPE. Associação Brasileira de Empresas de Limpeza Pública e Resíduos Especiais. Panorama dos
+Resíduos Sólidos no Brasil. São Paulo, 2020.
+
+
+
+
+                                                                                                       45
+
+     CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                     Telefone: (34) 3822-5450
+BDMG. Projeto de concessão dos serviços de coleta, transporte, tratamento e destinação final de
+resíduos sólidos urbanos do Consórcio CISPAR. Produto 2: diagnóstico da situação técnico-operacional.
+Rev. 01. 30/12/2022
+
+BRASIL. Decreto Federal nº 10.936, de 12 de janeiro de 2022. Regulamenta a Lei nº 12.305, de 2 de
+agosto de 2010, que institui a Política Nacional de Resíduos Sólidos. Brasília-DF, 12 jan. 2022.
+
+BRASIL. Decreto Federal nº 7.217, de 21 de junho de 2010. Regulamenta a Lei Federal nº 11.445, de 5
+de janeiro de 2007, que estabelece diretrizes nacionais para o saneamento básico, e dá outras
+providências. Brasília-DF, 21 jun. 2010.
+
+BRASIL. Lei Federal nº 12.187, de 29 de dezembro de 2009. Institui a Política Nacional sobre Mudança
+do Clima - PNMC e dá outras providências.
+
+BRASIL. Instrução Normativa MAPA Nº 25, de 23 de julho de 2009. Aprova as Normas Sobre as
+Especificações e as Garantias, as Tolerâncias, o Registro, a Embalagem e a Rotulagem dos Fertilizantes
+Orgânicos Simples, Mistos, Compostos, Organominerais e Biofertilizantes Destinados à Agricultura.
+
+BRASIL. Lei Federal nº 11.445, de 5 de janeiro de 2007. Estabelece diretrizes nacionais para o
+saneamento básico. Brasília-DF, 11 jan. 2007.
+
+BRASIL. Lei Federal nº 12.305, de 2 de agosto de 2011. Institui a Política Nacional de Resíduos Sólidos;
+altera a Lei no 9.605, de 12 de fevereiro de 1998; e dá outras providências. Brasília-DF, 2 agosto 2010.
+
+Consórcio Intermunicipal Região Integrada de Desenvolvimento Sustentável (RIDES). Plano de Gestão
+Integrada de Resíduos Sólidos do Consórcio Intermunicipal RIDES. Volume I. 2015
+
+Conselho Estadual de Política Ambiental. COPAM. Deliberação Normativa. DN COPAM nº 223, de 23
+de maio de 2018. Regulamenta o artigo 12 da Lei Estadual nº 13.796, de 20 de dezembro de 2000 e dá
+outras providências.
+
+Conselho Estadual de Política Ambiental. COPAM. Deliberação Normativa. DN COPAM nº 154, de 25
+de agosto de 2010. Dispõe sobre o Coprocessamento de resíduos em fornos de clínquer.
+
+Conselho Nacional do Meio Ambiente. CONAMA. RESOLUÇÃO CONAMA/MMA Nº 499, de 6 de outubro
+de 2020. Dispõe sobre o licenciamento da atividade de coprocessamento de resíduos em fornos
+rotativos de produção de clínquer.
+
+                                                                                                     46
+
+     CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                     Telefone: (34) 3822-5450
+BRASIL.     Constituição    da    República    Federativa    do    Brasil   de   1988.    Disponível   em:
+<http://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm> Acesso em: 10 de agosto de
+2019.
+
+BRASIL. Ministério do Meio Ambiente – MMA. Plano Nacional De Resíduos Sólidos. Brasília. 2022
+
+Fundação Estadual do Meio Ambiente - FEAM. Caracterização gravimétrica dos resíduos sólidos
+urbanos do estado de Minas Gerais. Volume II – composição gravimétrica. 25 p. 2017. Disponível em
+<http://www.feam.br/inicio/15/2010-publicacoes-pmsl>. Acessado em novembro de 2025.
+
+.
+
+Fundação João Pinheiro - FJP. Publicações. Estudos populacionais. Estimativas e projeções
+populacionais. Projeções populacionais municipais 2010-2040 – com população 2021 atualizada. 2021.
+Disponível em <https://fjp.mg.gov.br/estudos-populacionais/>. Acessado em março de 2024.
+
+Instituto Brasileiro de Geografia e Estatística. IBGE. Censo Demográfico 2010. Disponível em
+<https://censo2010.ibge.gov.br/>. Acessado em novembro de 2025.
+
+MINAS GERAIS. Secretaria de Estado de Meio Ambiente e Desenvolvimento Sustentável - SEMAD.
+Panorama resíduos sólidos urbanos em Minas Gerais: ano base 2021. Dezembro-2022.
+
+MINAS GERAIS. Secretaria de Estado de Meio Ambiente e Desenvolvimento Sustentável. Semad
+Conselho Estadual de Política Ambiental – Copam. Deliberação Normativa nº 244 de 27 de janeiro de
+2022. Dispõe sobre os critérios para implantação e operação de aterros sanitários em Minas Gerais e
+dá outras providências.
+
+MINAS GERAIS. Lei Estadual nº 18.031, de 12 de janeiro de 2009. Dispõe sobre a Política Estadual de
+Resíduos Sólidos.
+
+MINAS GERAIS. Decreto Estadual nº 45.181, de 25 de setembro de 2009. Regulamenta a Lei nº 18.031,
+de 12 de janeiro de 2009, e dá outras providências.
+
+Nota Técnica Conjunta nº 01/2020/SPPI/MMA/FUNASA que substituiu a Nota Técnica Conjunta nº
+164/2018-M. Diretrizes para a estruturação de projetos relacionados ao manejo dos resíduos sólidos
+urbanos no âmbito do Fundo de Apoio à Estruturação e ao Desenvolvimento de Projetos de Concessão
+e Parcerias Público-Privadas (FEP CAIXA) da União, dos Estados, do Distrito Federal e dos Municípios.
+
+                                                                                                        47
+
+        CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                       Telefone: (34) 3822-5450
+Nota Técnica DEA 019/2018 - Estudo sobre a Economicidade do Aproveitamento dos Resíduos Sólidos
+Urbanos      em       Aterro      para        Produção      de      Biometano.       Disponível   em
+<https://www.epe.gov.br/pt/publicacoes-dados-abertos/publicacoes/nt-estudo-sobre-a-
+economicidade-do-aproveitamento-dos-residuos-solidos-urbanos-em-aterro-para-producao-de-
+biometano> Acessado em abril de 2024.
+
+Plansab. Plano Nacional de Saneamento Básico. Caderno Temático Recuperação Energética de
+Resíduos Sólidos Urbanos. 2019. Disponível em <https://www.gov.br/cidades/pt-br/acesso-a-
+informacao/acoes-e-programas/saneamento/plano-nacional-de-saneamento-basico-
+plansab/plsansab-2013-revisao-de-2019-2013-cadernos-tematicos >. Acessado em maio de 2024.
+
+Prefeitura Municipal de Patos de Minas. Plano Municipal De Saneamento Básico E Plano Municipal De
+Gestão Integrada De Resíduos Sólidos. Produto 8 - Cartilha do PMSB e PGIRS. Janeiro de 2023.
+
+MMA. Ministério das Cidades. Acesso à informação. Ações e Programas. Saneamento. ProteGEEr.
+Arquivos úeis. Apresentações. 2021. Combustível Derivado de Resíduos. Christiane Pereira. CDR como
+ferramenta para a Gestão Sustentável de RSU. Disponível em <https://www.gov.br/cidades/pt-
+br/acesso-a-informacao/acoes-e-programas/saneamento/protegeer/biblioteca/apresentacoes>.
+Acessado em 27 de maio de 2024.
+
+United States Environmental Protection Agency – EPA. Landfill Gas Emissions Model (LandGEM)
+Version 3.02. Software com interface Excel.
+
+United States Environmental Protection Agency – EPA. Landfill Gas Emissions Model (LandGEM)
+Version 3.02 User’s Guide. Maio, 2005
+
+PROJEÇÕES POPULACIONAIS MUNICIPAIS 2010-2040_COM POP. 2021 ATUALIZADA 24/11/2021
+(https://fjp.mg.gov.br/estudos-populacionais/ - acessado em 22/05/2023)
+
+
+
+
+                                                                                                  48
+
+     CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                    Telefone: (34) 3822-5450
+10. APÊNDICE I – PROJEÇÕES POPULACIONAIS
+                                                                                         Quadro 1 – Projeção populacional ano a ano, por município, para o horizonte de projeto (hab.)
+
+                                                                                                       Ano      Ano      Ano         Ano     Ano      Ano      Ano      Ano      Ano      Ano      Ano      Ano      Ano      Ano      Ano      Ano      Ano      Ano      Ano      Ano      Ano
+                      Ano 1    Ano 2    Ano 3    Ano 4    Ano 5    Ano 6    Ano 7    Ano 8    Ano 9
+                                                                                                        10       11       12          13      14       15       16       17       18       19       20       21       22       23       24       25       26       27       28       29       30
+     Município
+                      2027     2028     2029     2030     2031     2032     2033     2034     2035     2036     2037     2038       2039     2040     2041     2042     2043     2044     2045     2046     2047     2048     2049     2050     2051     2052     2053     2054     2055     2056
+
+       Arapuá         2642     2627     2612     2597     2582     2567     2548     2529     2510     2491     2474     2452       2430     2408     2386     2365     2342     2319     2296     2273     2248     2225     2202     2179     2156     2133     2110     2087     2064     2041
+
+
+    Coromandel        30204    30221    30238    30255    30272    30291    30246    30201    30156    30111    30066    29979      29892    29805    29718    29629    29504    29379    29254    29129    29005    28880    28755    28630    28505    28380    28255    28130    28005    27880
+
+     Cruzeiro da
+                      3646     3650     3654     3658     3662     3668     3667     3666     3665     3664     3661     3653       3645     3637     3629     3622     3610     3598     3586     3574     3562     3550     3538     3526     3514     3502     3490     3478     3466     3454
+      Fortaleza
+
+    Guimarânia        9071     9155     9239     9323     9407     9490     9563     9636     9709     9782     9854     9912       9970     10028    10086    10146    10188    10230    10272    10314    10354    10396    10438    10480    10522    10564    10606    10648    10690    10732
+
+
+   Lagoa Formosa      19814    19899    19984    20069    20154    20238    20287    20336    20385    20434    20485    20504      20523    20542    20561    20582    20570    20558    20546    20534    20522    20510    20498    20486    20474    20462    20450    20438    20426    20414
+
+                      17246    17338    17431    17524    17616    17709    17802    17895    17988    18081    18173    18236      18298    18361    18423    18486    18523    18561    18599    18636    18674    18712    18749    18787    18825    18863    18900    18938    18976    19013
+   Patos de Minas
+                        0        7        4        1        8        4        3        2        1        0        7        2          7        2        7        1        8        5        2        9        5        2        9        6        3        0        7        4        1        8
+
+     Presidente
+                      19112    19061    19010    18959    18908    18855    18766    18677    18588    18499    18409    18287      18165    18043    17921    17797    17665    17533    17401    17269    17139    17007    16875    16743    16611    16479    16347    16215    16083    15951
+      Olegário
+
+   Rio Paranaíba      15453    15587    15721    15855    15989    16121    16227    16333    16439    16545    16652    16737      16822    16907    16992    17078    17133    17188    17243    17298    17354    17409    17464    17519    17574    17629    17684    17739    17794    17849
+
+
+   Serra do Salitre   12601    12712    12823    12934    13045    13158    13252    13346    13440    13534    13627    13693      13759    13825    13891    13959    14007    14055    14103    14151    14201    14249    14297    14345    14393    14441    14489    14537    14585    14633
+
+                      285.00   286.29   287.59   288.89   290.18   291.48   292.57   293.67   294.77   295.87   296.96   297.57     298.19   298.80   299.42   300.03   300.25   300.47   300.69   300.91   301.13   301.34   301.56   301.78   302.00   302.22   302.43   302.65   302.87   303.09
+        Total:
+                        3        9        5        1        7        2        9        6        3        0        5        9          3        7        1        9        7        5        3        1        0        8        6        4        2        0        8        6        4        2
+
+Fonte: Fundação João Pinheiro - FJP para os marcos 2027, 2032, 2037, 2042 e 2047. Entre os quinquênios dos marcos, adotou-se taxa de crescimento linear.
+
+
+
+
+                                                                                                                                                                                                                                                                                                 49
+
+                                                                                         CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                                                                                                                  Telefone: (34) 3822-5450
+11. APÊNDICE II – PROJEÇÃO DA GERAÇÃO DE RESÍDUOS NO HORIZONTE DE PROJETO
+                                                                              Quadro 1 – Projeção da geração de RSD ano a ano, por município, para o horizonte de projeto (t/dia)
+
+                                                                                               Ano    Ano     Ano    Ano     Ano    Ano     Ano    Ano     Ano     Ano      Ano    Ano    Ano    Ano    Ano    Ano    Ano    Ano    Ano    Ano    Ano
+                      Ano 1   Ano 2   Ano 3   Ano 4   Ano 5   Ano 6   Ano 7    Ano 8   Ano 9
+                                                                                                10     11      12     13      14     15      16     17      18      19       20     21     22     23     24     25     26     27     28     29     30
+      Município
+                      2027    2028    2029    2030    2031    2032    2033     2034    2035    2036   2037   2038   2039    2040    2041   2042    2043   2044    2045      2046   2047   2048   2049   2050   2051   2052   2053   2054   2055   2056
+
+       Arapuá         1,8     1,8     1,8     1,8     1,8     1,7     1,7       1,7    1,7     1,7    1,7     1,7    1,7     1,6    1,6     1,6     1,6    1,6     1,6      1,5    1,5    1,5    1,5    1,5    1,5    1,5    1,4    1,4    1,4    1,4
+
+    Coromandel        21,1    21,1    21,1    21,1    21,1    21,1    21,1     21,1    21,0    21,0   21,0   20,9    20,8   20,8    20,7   20,7    20,6    20,5   20,4      20,3   20,2   20,1   20,0   20,0   19,9   19,8   19,7   19,6   19,5   19,4
+     Cruzeiro da
+                      2,5     2,5     2,5     2,5     2,5     2,5     2,5       2,5    2,5     2,5    2,5     2,5    2,5     2,5    2,5     2,5     2,5    2,5     2,4      2,4    2,4    2,4    2,4    2,4    2,4    2,4    2,4    2,4    2,4    2,4
+      Fortaleza
+
+    Guimarânia        5,9     6,0     6,0     6,1     6,2     6,2     6,3       6,3    6,3     6,4    6,4     6,5    6,5     6,6    6,6     6,6     6,7    6,7     6,7      6,7    6,8    6,8    6,8    6,9    6,9    6,9    6,9    7,0    7,0    7,0
+
+   Lagoa Formosa      13,8    13,9    13,9    14,0    14,0    14,1    14,1     14,2    14,2    14,2   14,3   14,3    14,3   14,3    14,3   14,3    14,3    14,3   14,3      14,3   14,3   14,3   14,3   14,3   14,3   14,3   14,3   14,2   14,2   14,2
+                      148,    149,    149,    150,    151,    152,    153,     153,    154,    155,   156,   156,    157,   157,    158,   159,    159,    159,   160,      160,   160,   160,   161,   161,   161,   162,   162,   162,   163,   163,
+   Patos de Minas
+                       3       1       9       7       5       3       1        9       7       5      3      8       4      9       4      0       3       6      0         3      6      9      2      6      9      2      5      9      2      5
+     Presidente
+                      13,3    13,3    13,2    13,2    13,2    13,1    13,1     13,0    13,0    12,9   12,8   12,7    12,7   12,6    12,5   12,4    12,3    12,2   12,1      12,0   11,9   11,9   11,8   11,7   11,6   11,5   11,4   11,3   11,2   11,1
+      Olegário
+   Rio Paranaíba      10,8    10,9    11,0    11,1    11,1    11,2    11,3     11,4    11,5    11,5   11,6   11,7    11,7   11,8    11,8   11,9    11,9    12,0   12,0      12,1   12,1   12,1   12,2   12,2   12,2   12,3   12,3   12,4   12,4   12,4
+
+   Serra do Salitre   8,8     8,9     8,9     9,0     9,1     9,2     9,2       9,3    9,4     9,4    9,5     9,5    9,6     9,6    9,7     9,7     9,8    9,8     9,8      9,9    9,9    9,9    10,0   10,0   10,0   10,1   10,1   10,1   10,2   10,2
+                      226,    227,    228,    229,    230,    231,    232,     233,    234,    235,   236,   236,    237,   237,    238,   238,    238,    239,   239,      239,   239,   240,   240,   240,   240,   240,   241,   241,   241,   241,
+        Total
+                       3       3       4       4       5       5       4        3       3       2      1      6       1      7       2      7       9       2      4         6      8      0      2      4      6      9      1      3      5      7
+Nota: As quantidades diárias foram obtidas dividindo-se os quantitativos anuais por 313, pois o presente Projeto não considera operação aos domingos.
+
+
+
+
+                                                                                                                                                                                                                                                     50
+
+                                                                                 CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                                                                                                Telefone: (34) 3822-5450
+                                                                        Quadro 2 – Projeção da geração de RPU ano a ano, por município, para o horizonte de projeto (t/dia)
+
+                       Ano    Ano    Ano    Ano    Ano    Ano    Ano    Ano      Ano     Ano    Ano     Ano      Ano    Ano     Ano       Ano    Ano    Ano    Ano       Ano   Ano    Ano    Ano    Ano    Ano    Ano    Ano    Ano    Ano    Ano
+                        1      2      3      4      5      6      7      8        9       10     11      12       13     14      15        16     17     18     19        20    21     22     23     24     25     26     27     28     29     30
+      Município
+                       202    202    202    203    203    203    203    203      203
+                                                                                        2036    2037   2038     2039    2040   2041       2042   2043   2044   2045   2046     2047   2048   2049   2050   2051   2052   2053   2054   2055   2056
+                        7      8      9      0      1      2      3      4        5
+       Arapuá          0,4    0,4    0,4    0,4    0,4    0,4    0,4    0,4      0,4     0,4    0,4     0,4      0,4     0,4    0,4       0,4    0,4    0,4    0,4       0,4   0,4    0,4    0,4    0,3    0,3    0,3    0,3    0,3    0,3    0,3
+
+    Coromandel         4,9    5,0    5,0    5,0    5,0    5,0    5,0    4,9      4,9     4,9    4,9     4,9      4,9     4,9    4,9       4,9    4,8    4,8    4,8       4,8   4,8    4,7    4,7    4,7    4,7    4,6    4,6    4,6    4,6    4,6
+
+     Cruzeiro da
+                       0,6    0,6    0,6    0,6    0,6    0,6    0,6    0,6      0,6     0,6    0,6     0,6      0,6     0,6    0,6       0,6    0,6    0,6    0,6       0,6   0,6    0,6    0,6    0,6    0,6    0,6    0,6    0,6    0,6    0,6
+      Fortaleza
+    Guimarânia         1,4    1,4    1,4    1,4    1,4    1,5    1,5    1,5      1,5     1,5    1,5     1,5      1,5     1,5    1,6       1,6    1,6    1,6    1,6       1,6   1,6    1,6    1,6    1,6    1,6    1,6    1,6    1,6    1,6    1,6
+
+   Lagoa Formosa       3,2    3,3    3,3    3,3    3,3    3,3    3,3    3,3      3,3     3,3    3,4     3,4      3,4     3,4    3,4       3,4    3,4    3,4    3,4       3,4   3,4    3,4    3,4    3,4    3,4    3,4    3,3    3,3    3,3    3,3
+
+   Patos de Minas      34,9   35,0   35,2   35,4   35,6   35,8   36,0   36,2     36,4   36,5    36,7    36,9    37,0    37,1    37,2      37,4   37,4   37,5   37,6   37,7     37,7   37,8   37,9   38,0   38,0   38,1   38,2   38,3   38,4   38,4
+
+ Presidente Olegário   3,1    3,1    3,1    3,1    3,1    3,1    3,1    3,1      3,0     3,0    3,0     3,0      3,0     3,0    2,9       2,9    2,9    2,9    2,9       2,8   2,8    2,8    2,8    2,7    2,7    2,7    2,7    2,7    2,6    2,6
+
+   Rio Paranaíba       2,5    2,6    2,6    2,6    2,6    2,6    2,7    2,7      2,7     2,7    2,7     2,7      2,8     2,8    2,8       2,8    2,8    2,8    2,8       2,8   2,8    2,9    2,9    2,9    2,9    2,9    2,9    2,9    2,9    2,9
+
+   Serra do Salitre    2,1    2,1    2,1    2,1    2,1    2,2    2,2    2,2      2,2     2,2    2,2     2,2      2,3     2,3    2,3       2,3    2,3    2,3    2,3       2,3   2,3    2,3    2,3    2,3    2,4    2,4    2,4    2,4    2,4    2,4
+
+       TOTAL           53,1   53,5   53,7   53,9   54,1   54,5   54,8   54,9     55,0   55,1    55,4    55,6    55,9    56,0    56,1      56,3   56,2   56,3   56,4   56,4     56,4   56,5   56,6   56,5   56,6   56,6   56,6   56,7   56,7   56,7
+
+Nota: As quantidades diárias foram obtidas dividindo-se os quantitativos anuais por 313, pois o presente Projeto não considera operação aos domingos.
+
+
+
+
+                                                                                                                                                                                                                                                 51
+
+                                                                              CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                                                                                               Telefone: (34) 3822-5450
+                                                                             Quadro 3 – Projeção da geração de RSU ano a ano, por município, para o horizonte de projeto (t/dia)
+
+                                                                                              Ano    Ano     Ano    Ano     Ano    Ano     Ano    Ano     Ano     Ano      Ano    Ano    Ano    Ano    Ano    Ano    Ano    Ano    Ano    Ano    Ano
+                     Ano 1   Ano 2   Ano 3   Ano 4   Ano 5   Ano 6   Ano 7    Ano 8   Ano 9
+                                                                                               10     11      12     13      14     15      16     17      18      19       20     21     22     23     24     25     26     27     28     29     30
+      Município
+                     2027    2028    2029    2030    2031    2032    2033     2034    2035    2036   2037   2038   2039    2040    2041   2042    2043   2044    2045      2046   2047   2048   2049   2050   2051   2052   2053   2054   2055   2056
+
+      Arapuá         2,2     2,2     2,2     2,2     2,2     2,2     2,1       2,1    2,1     2,1    2,1     2,1    2,0     2,0    2,0     2,0     2,0    2,0     1,9      1,9    1,9    1,9    1,9    1,8    1,8    1,8    1,8    1,8    1,7    1,7
+
+    Coromandel       26,0    26,0    26,0    26,0    26,1    26,1    26,0     26,0    26,0    25,9   25,9   25,8    25,7   25,7    25,6   25,5    25,4    25,3   25,2      25,1   25,0   24,9   24,8   24,6   24,5   24,4   24,3   24,2   24,1   24,0
+
+    Cruzeiro da
+                     3,1     3,1     3,1     3,1     3,1     3,1     3,1       3,1    3,1     3,1    3,1     3,1    3,1     3,1    3,1     3,0     3,0    3,0     3,0      3,0    3,0    3,0    3,0    3,0    3,0    2,9    2,9    2,9    2,9    2,9
+     Fortaleza
+    Guimarânia       7,3     7,4     7,5     7,5     7,6     7,7     7,7       7,8    7,8     7,9    8,0     8,0    8,1     8,1    8,1     8,2     8,2    8,3     8,3      8,3    8,4    8,4    8,4    8,5    8,5    8,5    8,6    8,6    8,6    8,7
+
+   Lagoa Formosa     17,1    17,1    17,2    17,3    17,3    17,4    17,5     17,5    17,5    17,6   17,6   17,6    17,7   17,7    17,7   17,7    17,7    17,7   17,7      17,7   17,7   17,7   17,6   17,6   17,6   17,6   17,6   17,6   17,6   17,6
+                     183,    184,    185,    186,    187,    188,    189,     190,    191,    192,   193,   193,    194,   195,    195,   196,    196,    197,   197,      197,   198,   198,   199,   199,   199,   200,   200,   201,   201,   201,
+  Patos de Minas
+                      2       2       1       1       1       1       1        1       1       0      0      7       4      0       7      3       7       1      5         9      3      7      1      5      9      3      7      1      5      9
+    Presidente
+                     16,5    16,4    16,4    16,3    16,3    16,2    16,2     16,1    16,0    15,9   15,8   15,7    15,6   15,5    15,4   15,3    15,2    15,1   15,0      14,9   14,8   14,6   14,5   14,4   14,3   14,2   14,1   14,0   13,8   13,7
+     Olegário
+
+   Rio Paranaíba     13,3    13,4    13,5    13,6    13,8    13,9    14,0     14,1    14,2    14,2   14,3   14,4    14,5   14,6    14,6   14,7    14,7    14,8   14,8      14,9   14,9   15,0   15,0   15,1   15,1   15,2   15,2   15,3   15,3   15,4
+
+  Serra do Salitre   10,8    10,9    11,0    11,1    11,2    11,3    11,4     11,5    11,6    11,7   11,7   11,8    11,8   11,9    12,0   12,0    12,1    12,1   12,1      12,2   12,2   12,3   12,3   12,3   12,4   12,4   12,5   12,5   12,6   12,6
+                     279,    280,    282,    283,    284,    286,    287,     288,    289,    290,   291,   292,    292,   293,    294,   294,    295,    295,   295,      295,   296,   296,   296,   296,   297,   297,   297,   298,   298,   298,
+      TOTAL
+                      5       7       0       2       7       0       1        3       4       4      5      2       9      6       2      7       0       4      5         9      2      5      6      8      1      3      7      0      1      5
+Nota: RSU é igual ao RSD mais o RPU.
+
+
+
+
+                                                                                                                                                                                                                                                    52
+
+                                                                                CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                                                                                               Telefone: (34) 3822-5450
+

@@ -1,0 +1,55 @@
+ | Tarifa Social
+ | Premissa:
+ | Lei n° 14.898, de 13 de junho de 2024.
+ | Institui diretrizes para a Tarifa Social de Água e Esgoto em âmbito nacional.
+ | A categoria tarifária social de Água e Esgoto deverá incluir os usuários com renda per capita de até 1/2 salário-mínimo.
+ | Fator de Correção
+ | Relação entre o % estimado de residentes com renda per capita até meio salário-mínimo no município e a distribuição das economias da categoria social. |  |  |  | 1
+ | Percentual estimado de residentes com renda per capita até meio salário-mínimo no município
+ | Municípios | População Total Estimada (PTE) | População com renda per capita até meio salário-mínimo (Baixa Renda) | Percentual estimado de residentes com renda per capita até meio salário-mínimo no município (Baixa Renda/PTE) | Diferença com a Distribuição de Economias categoria social 
+(com fator de correção)
+ | Arapuá | 2621 | 693 | 0.2644028996566196 | 0.20739444805400442
+ | Coromandel | 29233 | 10182 | 0.3483049977764855 | 0.2884911208743733
+ | Cruzeiro da Fortaleza | 3492 | 2115 | 0.6056701030927835 | 0.3686701030927835
+ | Guimarânia | 8600 | 5065 | 0.588953488372093 | 0.42899067036817917
+ | Lagoa Formosa | 19050 | 5833 | 0.3061942257217848 | 0.2989942257217848
+ | Patos de Minas | 159434 | 26347 | 0.16525333366785003 | 0.10825333366785003
+ | Presidente Olegário | 19471 | 6233 | 0.3201170972215089 | 0.160154279217595
+ | Rio Paranaíba | 14602 | 4370 | 0.29927407204492534 | 0.13931125404101147
+ | Serra do Salitre | 13152 | 5398 | 0.41043187347931875 | 0.327506237471491
+ | Referência ano de 2022.
+ | Distribuição das Economias Categoria Social
+ | Municípios | Categoria Residencial  |  | Categoria Residencial Social |  | Categorias Restantes |  | Relação Consumo e Número de Economias
+ |  | Distribuição das Economias por Categoria | Distribuição do Consumo por Categoria | Distribuição das Economias por Categoria | Distribuição do Consumo por Categoria | Distribuição das Economias por Categoria | Distribuição do Consumo por Categoria | Residencial  | Residencial  Social
+ | Arapuá | 0.9214638813586351 | 0.9250882440497286 | 0.0570084516026152 | 0.06674652339707696 | 0.02152766703874969 | 0.008165232553194485 | 1.0039332661479359 | 1.1708180369876076
+ | Coromandel | 0.8316901203724734 | 0.8276335171008393 | 0.05981387690211219 | 0.0661733726748488 | 0.10849600272541444 | 0.10619311022431188 | 0.9951224582662864 | 1.1063214107178536
+ | Cruzeiro da Fortaleza | 0.651 | 0.619 | 0.237 | 0.277 | 0.11199999999999999 | 0.10399999999999998 | 0.9508448540706604 | 1.168776371308017
+ | Guimarânia | 0.7203140900195695 | 0.6993562975486052 | 0.15996281800391388 | 0.18255265064605725 | 0.11972309197651665 | 0.11809105180533758 | 0.9709046473457226 | 1.1412192716034213
+ | Lagoa Formosa | 0.9478 | 0.8282 | 0.0072 | 0.0048 | 0.045000000000000026 | 0.16699999999999995 | 0.8738130407258916 | 0.6666666666666666
+ | Patos de Minas | 0.8344 | 0.824 | 0.057 | 0.0625 | 0.10859999999999997 | 0.11350000000000005 | 0.9875359539789069 | 1.0964912280701753
+ | Presidente Olegário | 0.7203140900195695 | 0.6993562975486052 | 0.15996281800391388 | 0.18255265064605725 | 0.11972309197651665 | 0.11809105180533758 | 0.9709046473457226 | 1.1412192716034213
+ | Rio Paranaíba | 0.7203140900195695 | 0.6993562975486052 | 0.15996281800391388 | 0.18255265064605725 | 0.11972309197651665 | 0.11809105180533758 | 0.9709046473457226 | 1.1412192716034213
+ | Serra do Salitre | 0.7896281800391389 | 0.7797125950972105 | 0.08292563600782779 | 0.08810530129211448 | 0.12744618395303328 | 0.13218210361067506 | 0.987442716467595 | 1.0624615683839647
+ | Média |  |  |  |  |  |  | 0.967934025743827 | 1.0772436774382834
+ | Fonte Referencial:
+ | Municípios com informações:
+ | Arapuá: SAAE - Histograma de consumo - % apurado com os dados de 2023.
+ | Cruzeiro da Fortaleza: COPASA - Comunicação Externa N° 548/2023 GRPM - % apurado com os dados de 2022.
+ | Patos de Minas: COPASA - Comunicação Externa N° 033/2023 SPGE - % apurado com os dados de 2022.
+ | Serra do Salitre: COPASA - Comunicação Externa N° 024/2023 SPGE - % apurado com os dados de 2022.
+ | São Gotardo: COPASA - % apurado com os dados de março de 2023.
+ | Municípios sem informações:
+ | Utilizada média dos demais municípios de acordo com porte.
+ | Parâmetros para Distribuição
+ | Municípios | Categoria Residencial  |  | Categoria Residencial Social
+ |  | Distribuição das Economias por Categoria | Distribuição do Consumo por Categoria | Distribuição das Economias por Categoria | Distribuição do Consumo por Categoria
+ | Arapuá | 0.7140694333046307 | 0.7176937959957241 | 0.2644028996566196 | 0.2741409714510814
+ | Coromandel | 0.5431989994981001 | 0.5391423962264661 | 0.3483049977764855 | 0.3546644935492221
+ | Cruzeiro da Fortaleza | 0.28232989690721655 | 0.2503298969072165 | 0.6056701030927835 | 0.6456701030927835
+ | Guimarânia | 0.2913234196513903 | 0.270365627180426 | 0.588953488372093 | 0.6115433210142365
+ | Lagoa Formosa | 0.6488057742782152 | 0.5292057742782152 | 0.3061942257217848 | 0.3037942257217848
+ | Patos de Minas | 0.72614666633215 | 0.7157466663321499 | 0.16525333366785003 | 0.17075333366785003
+ | Presidente Olegário | 0.5601598108019745 | 0.5392020183310102 | 0.3201170972215089 | 0.34270692986365225
+ | Rio Paranaíba | 0.581002835978558 | 0.5600450435075937 | 0.29927407204492534 | 0.3218639046870687
+ | Serra do Salitre | 0.46212194256764794 | 0.4522063576257195 | 0.41043187347931875 | 0.41561153876360546
+[53 linhas]

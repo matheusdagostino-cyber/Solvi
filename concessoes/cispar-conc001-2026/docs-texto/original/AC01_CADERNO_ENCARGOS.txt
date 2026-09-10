@@ -1,0 +1,2691 @@
+  ANEXO DO CONTRATO 1 – CADERNO DE ENCARGOS DA CONCESSIONÁRIA
+
+
+
+
+                  EDITAL DE CONCESSÃO N.º 001/2026
+
+
+   COLETA, TRANSBORDO, TRANSPORTE, TRIAGEM PARA REUTILIZAÇÃO OU RECICLAGEM,
+TRATAMENTO E DESTINAÇÃO FINAL AMBIENTALMENTE ADEQUADA DE RESÍDUOS SÓLIDOS
+                            URBANOS DO CISPAR
+
+
+
+
+                                    2026
+                                                                   SUMÁRIO
+1.        INTRODUÇÃO ............................................................................................................................. 5
+
+2.        ESCOPO GERAL DOS SERVIÇOS .................................................................................................. 6
+
+3.        ÁREA DE ABRANGÊNCIA DA CONCESSÃO .................................................................................. 7
+4.        PROJEÇÃO DA DEMANDA .......................................................................................................... 8
+
+5.        FASES DA CONCESSÃO ............................................................................................................. 10
+      5.1.       Fase 1 - fase pré-operacional e de transição:.................................................................. 11
+      5.2.       Fase 2 - fase de melhoria e adequação: .......................................................................... 11
+      5.3.       Fase 3 - fase de gestão, operação e manutenção: .......................................................... 12
+      5.4.       Fase 4 - encerramento:.................................................................................................... 12
+6.        CONDIÇÕES GERAIS PARA OS SERVIÇOS DE MANEJO DE RESÍDUOS SÓLIDOS URBANOS ....... 13
+      6.1.       Diretrizes gerais ............................................................................................................... 13
+      6.2.       Requisitos operacionais e especificações mínimas ......................................................... 15
+      6.3.       Diretrizes para a elaboração dos planos, relatórios e projetos de engenharia .............. 20
+     6.3.1.              Projetos de Engenharia ........................................................................................... 23
+     6.3.2.              Fase 1: PLANO DE EXECUÇÃO CONTRATUAL .......................................................... 24
+     6.3.2.1.            PLANO DE OPERACIONALIZAÇÃO E INVESTIMENTOS ............................................ 25
+     6.3.2.2.            PLANO DE GESTÃO DE RISCOS ................................................................................ 26
+     6.3.2.3.            PLANO DE ATENDIMENTO AO USUÁRIO ................................................................ 27
+     a)                  Manual de Prestação de Serviço e de atendimento ao usuário USUÁRIO ............. 27
+     b)                  Implantação do Serviço de Atendimento ao Cliente (SAC): ................................... 27
+     6.3.2.1.            PLANO DE AMOSTRAGEM PARA ESTUDO GRAVIMÉTRICO .................................... 27
+     6.3.2.2.            PLANO DOS PROGRAMAS SOCIOAMBIENTAIS ....................................................... 29
+     6.3.2.3.            PLANO DE MANUTENÇÕES ..................................................................................... 29
+     6.3.2.4.            PLANO DE CONTINGÊNCIA E EMERGÊNCIA ............................................................ 30
+     6.3.2.5.            PLANEJAMENTO DE RECEITAS EXTRAORDINÁRIAS ................................................ 30
+     6.3.2.6.            PLANO DE MONITORAMENTO DE EMISSÕES DE GASES DE EFEITO ESTUFA.......... 30
+     6.3.3.              Fase 2 e 3: Planos e relatórios de acompanhamento periódico ............................ 31
+     6.3.3.1.            RELATÓRIO DE EXECUÇÃO DE SERVIÇOS ................................................................ 31
+     6.3.3.2.            RELATÓRIO DE COMPOSIÇÃO GRAVIMÉTRICA DOS RESÍDUOS.............................. 32
+     6.3.3.3.            PLANO DE OPERAÇÃO DE COLETA E TRANSPORTE ................................................ 33
+
+
+                                                                                                                                                   ii
+     CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                                   Telefone: (34) 3822-5450
+        6.3.3.4.           RELATÓRIO DE AUFERIÇÃO DE RECEITAS EXTRAORDINÁRIAS ............................... 34
+        6.3.4.             Fase 4: PLANO DE DESMOBILIZAÇÃO OPERACIONAL ............................................. 35
+7.         INSTALAÇÕES DE APOIO OPERACIONAL E ADMINISTRATIVAS ................................................ 37
+
+8.         SERVIÇO DE COLETA E TRANSPORTE........................................................................................ 38
+
+         8.1.      COLETA INDIFERENCIADA ................................................................................................ 39
+         8.2.      Coleta Seletiva ................................................................................................................. 39
+        8.2.1.             COLETA SELETIVA DE RECICLÁVEIS SECOS .............................................................. 39
+        8.2.1.             COLETA SELETIVA DE ORGÂNICOS .......................................................................... 42
+9.         ESTAÇÃO DE TRANSBORDO ..................................................................................................... 44
+
+10.        UNIDADE DE VALORIZAÇÃO DE RESÍDUOS (UVR) .................................................................... 48
+
+11.        DISPOSIÇÃO FINAL AMBIENTALMENTE ADEQUADA DE RESÍDUOS SÓLIDOS URBANOS ......... 50
+
+         11.1. Diretrizes para a Implantação de Novo ATERRO SANITÁRIO .......................................... 50
+        11.1.1.            Área de implantação ............................................................................................... 52
+        11.1.2.            Infraestrutura do novo ATERRO SANITÁRIO ........................................................... 52
+        11.1.3.            Capacidade Nominal ............................................................................................... 52
+        11.1.4.            Sistemas Previstos .................................................................................................. 53
+        11.1.5.            Monitoramento ...................................................................................................... 53
+        11.1.5.1.          Monitoramento geotécnico .................................................................................... 53
+        11.1.5.2.          Monitoramento do solo e águas subterrâneas ...................................................... 54
+        11.1.5.3.          Monitoramento de águas superficiais .................................................................... 54
+        11.1.5.4.          Monitoramento do lixiviado ................................................................................... 54
+        11.1.5.5.          Monitoramento do ar atmosférico e de ruídos ...................................................... 55
+        11.1.6.            Medidas para Encerramento e Monitoramento .................................................... 55
+12.        CRONOGRAMA DE EXECUÇÃO DA CONCESSÃO ...................................................................... 56
+QUADRO 5 – CRONOGRAMA DE EXECUÇÃO DA CONCESSÃO .............................................................. 56
+
+13.        APÊNDICE A – DIRETRIZES PARA A ELABORAÇÃO E EXECUÇÃO DO PLANO DOS PROGRAMAS
+SOCIOAMBIENTAIS ................................................................................................................................ 57
+
+
+
+
+                                                                                                                                                    iii
+        CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                                    Telefone: (34) 3822-5450
+                                                      ÍNDICE DE QUADROS
+Quadro 1 – Projeção da demanda .......................................................................................................... 8
+Quadro 2 – Marcos das fases da CONCESSÃO ...................................................................................... 10
+Quadro 3 – UNIDADES DE TRIAGEM LOCAL existentes nos municípios do CISPAR .............................. 17
+Quadro 4 – Relação de Planos e Relatórios .......................................................................................... 22
+Quadro 5 – Cronograma de execução da CONCESSÃO ......................................................................... 56
+Quadro 6 – Relação das áreas identificadas a serem contempladas no PROGRAMA DE RECUPERAÇÃO
+DE ÁREAS DEGRADADAS PELA DISPOSIÇÃO INADEQUADA DE RESÍDUOS SÓLIDOS URBANOS ........... 64
+
+
+
+
+                                                                                                                                        iv
+       CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                                 Telefone: (34) 3822-5450
+1. INTRODUÇÃO
+
+    O presente ANEXO DO CONTRATO 1 - CADERNO DE ENCARGOS DA CONCESSIONÁRIA, integrante
+do CONTRATO DE CONCESSÃO, tem por objetivo detalhar as obrigações e condições técnicas a serem
+observadas pela CONCESSIONÁRIA durante a execução do OBJETO do CONTRATO.
+
+    Os serviços descritos no presente documento deverão ser executados em conformidade com as
+especificações contidas no EDITAL, no CONTRATO e em seus Anexos, e deverão seguir as normas
+regulamentadoras expedidas pelo PODER CONCEDENTE, pela AGÊNCIA REGULADORA e pela Agência
+Nacional de Águas e Saneamento Básico (ANA), ou outro órgão ou entidade que venha substitui-la e
+demais normas técnicas e legislação aplicáveis. O atendimento às especificações será requisito para o
+integral cumprimento do CONTRATO DE CONCESSÃO a ser celebrado.
+
+    A seguir são apresentadas as especificações técnicas referentes ao SERVIÇO PÚBLICO DE MANEJO
+DE RESÍDUOS SÓLIDOS URBANOS a ser prestado durante PRAZO DA CONCESSÃO, bem como seus
+requisitos.
+
+
+
+
+                                                                                                   5
+     CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                    Telefone: (34) 3822-5450
+2. ESCOPO GERAL DOS SERVIÇOS
+
+   O escopo geral dos serviços compreende:
+
+   1. As atividades de coleta, transbordo, transporte, triagem para fins de reutilização ou reciclagem,
+tratamento e DESTINAÇÃO FINAL AMBIENTALMENTE ADEQUADA dos:
+
+          a. RESÍDUOS DOMÉSTICOS (também denominado resíduo domiciliar - RSD);
+
+          b. resíduos equiparados aos domésticos, isto é, os resíduos originários de atividades
+             comerciais, industriais e de serviços, em quantidade e qualidade similares às dos resíduos
+             domésticos, que, nos termos das legislações municipais, sejam considerados resíduos
+             sólidos urbanos, desde que não sejam de responsabilidade de seu gerador nos termos
+             da norma legal ou administrativa, de decisão judicial ou de termo de ajustamento de
+             conduta.
+
+   2. As atividades de transbordo, transporte, triagem, tratamento e DESTINAÇÃO FINAL
+AMBIENTALMENTE ADEQUADA dos resíduos originários do SERVIÇO PÚBLICO DE LIMPEZA URBANA
+(SPLU).
+
+
+
+
+                                                                                                     6
+     CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                    Telefone: (34) 3822-5450
+3. ÁREA DE ABRANGÊNCIA DA CONCESSÃO
+
+    A exploração do SERVIÇO PÚBLICO DE MANEJO DE RESÍDUOS SÓLIDOS URBANOS (SMRSU),
+abrangerá as ÁREAS URBANAS e as ÁREAS RURAIS dos 9 (nove) municípios do CISPAR relacionados a
+seguir: Arapuá, Coromandel, Cruzeiro da Fortaleza, Guimarânia, Lagoa Formosa, Patos de Minas,
+Presidente Olegário, Rio Paranaíba e Serra do Salitre, bem como outros MUNICÍPIOS ADICIONAIS que
+venham a ser incluídos na ÁREA DE CONCESSÃO, observadas as previsões do CONTRATO, em especial
+de sua Cláusula 6.
+
+
+
+
+                                                                                                7
+     CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                    Telefone: (34) 3822-5450
+4. PROJEÇÃO DA DEMANDA
+
+    O Quadro 1 apresenta: i) a projeção populacional para o PRAZO DA CONCESSÃO, com base na
+estimativa populacional realizada pela Fundação João Pinheiro (FJP) 1 e ii) a projeção da geração de
+resíduos sólidos urbanos calculada com base no diagnóstico técnico da situação atual realizado
+durante os estudos2 de estruturação do projeto de concessão.
+
+                                       Quadro 1 – Projeção da demanda
+
+                                        População            RSD(1)            RPU(2)              RSU(3)
+ Ano Concessão            Ano
+                                          (hab.)             (t/d)             (t/d)               (t/d)
+        Ano 1            2027                285.003         226,3              53,2               279,5
+        Ano 2            2028                286.299         227,3              53,4               280,7
+        Ano 3            2029                287.595         228,4              53,7                282
+        Ano 4            2030                288.891         229,4              53,9               283,2
+        Ano 5            2031                290.187         230,5              54,2               284,7
+        Ano 6            2032                291.482         231,5              54,4                286
+        Ano 7            2033                292.579         232,4              54,6               287,1
+        Ano 8            2034                293.676         233,3              54,8               288,3
+        Ano 9            2035                294.773         234,3              55,1               289,4
+        Ano 10           2036                295.870         235,2              55,3               290,4
+        Ano 11           2037                296.965         236,1              55,5               291,5
+        Ano 12           2038                297.579         236,6              55,6               292,2
+        Ano 13           2039                298.193         237,1              55,7               292,9
+        Ano 14           2040                298.807         237,7              55,9               293,6
+        Ano 15           2041                299.421         238,2               56                294,2
+        Ano 16           2042                300.039         238,7              56,1               294,7
+        Ano 17           2043                300.257         238,9              56,2                295
+        Ano 18           2044                300.475         239,2              56,2               295,4
+        Ano 19           2045                300.693         239,4              56,2               295,5
+        Ano 20           2046                300.911         239,6              56,3               295,9
+        Ano 21           2047                301.130         239,8              56,4               296,2
+        Ano 22           2048                301.348          240               56,4               296,5
+        Ano 23           2049                301.566         240,2              56,5               296,6
+        Ano 24           2050                301.784         240,4              56,5               296,8
+
+
+
+
+    1
+      Fundação João Pinheiro. Projeções populacionais municipais totais, por grupos quinquenais e sexo 2025-
+2047. Disponível em https://fjp.mg.gov.br/estudos-populacionais/
+    2
+      EVTEA, conforme descrição no Plano de Negócio Referencial.
+
+                                                                                                            8
+        CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                       Telefone: (34) 3822-5450
+                                             População               RSD(1)               RPU(2)                RSU(3)
+ Ano Concessão             Ano
+                                               (hab.)                (t/d)                (t/d)                 (t/d)
+      Ano 25               2051                   302.002            240,6                56,6                  297,1
+      Ano 26               2052                   302.220            240,9                56,6                  297,3
+      Ano 27               2053                   302.438            241,1                56,6                  297,7
+      Ano 28               2054                   302.656            241,3                56,7                   298
+      Ano 29               2055                   302.874            241,5                56,7                  298,1
+      Ano 30               2056                   303.092            241,7                56,8                  298,5
+(1) RSD: resíduos sólidos domésticos; (2) RPU: resíduos de limpeza urbana; (3) RSU: resíduos sólidos urbanos.
+
+                                            Fonte: Consórcio Vital, 2025.
+
+
+
+
+                                                                                                                         9
+      CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                            Telefone: (34) 3822-5450
+5. FASES DA CONCESSÃO
+
+   O CONTRATO se divide em 4 (quatro) fases distintas, cujos marcos são apresentados no Quadro 2,
+e descritas na sequência.
+
+                               Quadro 2 – Marcos das fases da CONCESSÃO
+
+
+   FASE          Atividades e serviços compreendidos                   Início                   Fim
+
+                                                                                          Emissão da
+  Fase 1   - Planejamento inicial                              Assinatura do contrato     ORDEM DE
+                                                                                           SERVIÇO
+           - COLETA INDIFERENCIADA (exceto em Presidente
+           Olegário);
+           - COLETA SELETIVA DE MATERIAIS RECICLÁVEIS
+                                                                                            24º mês
+           SECOS (em Coromandel e Rio Paranaíba);
+                                                                                          (contados a
+           - Triagem (realizada pelas ORGANIZAÇÕES DE
+                                                               Dia seguinte à emissão       partir da
+  Fase 2   CATADORES DE MATERIAIS REUTILIZÁVEIS E
+                                                               da ORDEM DE SERVIÇO        emissão da
+           RECICLÁVEIS em Coromandel e Rio Paranaíba);
+                                                                                          ORDEM DE
+           - Transbordo;
+                                                                                           SERVIÇO)
+           - Transporte;
+           - Disposição final ambientalmente adequada
+           transitória.
+           - COLETA INDIFERENCIADA (exceto em Presidente
+           Olegário);
+           - COLETA SELETIVA DE MATERIAIS RECICLÁVEIS
+           SECOS (em todos os MUNICÍPIOS, exceto em
+                                                                                            48º mês
+           Presidente Olegário);
+                                                                      25º mês             (contados a
+           - Transbordo;
+                                                                (contados a partir da       partir da
+ Fase 3a   - Transporte;
+                                                               emissão da ORDEM DE        emissão da
+           - Triagem (ORGANIZAÇÕES DE CATADORES DE
+                                                                     SERVIÇO)             ORDEM DE
+           MATERIAIS REUTILIZÁVEIS E/OU RECICLÁVEIS e
+                                                                                           SERVIÇO)
+           CONCESSIONÁRIA);
+           - Tratamento biológico de resíduos orgânicos;
+           - Disposição final ambientalmente adequada
+           transitória.
+           - COLETA INDIFERENCIADA (exceto em Presidente
+           Olegário);
+           - COLETA SELETIVA DE MATERIAIS RECICLÁVEIS
+           SECOS (em todos os MUNICÍPIOS, exceto em
+                                                                                            84º mês
+           Presidente Olegário);
+                                                                      49º mês             (contados a
+           - Transbordo;
+                                                                (contados a partir da       partir da
+ Fase 3b   - Transporte;
+                                                               emissão da ORDEM DE        emissão da
+           - Triagem (ORGANIZAÇÕES DE CATADORES DE
+                                                                     SERVIÇO)             ORDEM DE
+           MATERIAIS REUTILIZÁVEIS E/OU RECICLÁVEIS e
+                                                                                           SERVIÇO)
+           CONCESSIONÁRIA);
+           - Tratamento biológico de resíduos orgânicos;
+           - Disposição final ambientalmente adequada da
+           CONCESSIONÁRIA.
+
+
+
+                                                                                                        10
+     CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                    Telefone: (34) 3822-5450
+  FASE               Atividades e serviços compreendidos                  Início                Fim
+
+             - COLETA INDIFERENCIADA (exceto em Presidente
+             Olegário);
+             - COLETA SELETIVA DE MATERIAIS RECICLÁVEIS
+             SECOS (em todos os MUNICÍPIOS, exceto em
+             Presidente Olegário);
+             - COLETA SELETIVA DE ORGÂNICOS;                             85º mês
+                                                                                           Término do
+             - Transbordo;                                         (contados a partir da
+ Fase 3c                                                                                    PRAZO DA
+             - Transporte;                                        emissão da ORDEM DE
+                                                                                           CONCESSÃO
+             - Triagem (ORGANIZAÇÕES DE CATADORES DE                    SERVIÇO)
+             MATERIAIS REUTILIZÁVEIS E RECICLÁVEIS e
+             CONCESSIONÁRIA);
+             - Tratamento biológico de resíduos orgânicos;
+             - Disposição final ambientalmente adequada da
+             CONCESSIONÁRIA.
+                                                                        336º mês
+                                                                                           Término do
+                                                                  (contados a partir da
+  Fase 4     - Planejamento do encerramento                                                 PRAZO DA
+                                                                 emissão da ORDEM DE
+                                                                                           CONCESSÃO
+                                                                        SERVIÇO)
+                              Fonte: Elaboração própria; Consórcio VITAL, 2024.
+
+
+              5.1.        Fase 1 - fase pré-operacional e de transição:
+
+   A Fase 1 é a fase pré-operacional e de transição, que termina com a emissão da ORDEM DE
+SERVIÇO pelo PODER CONCEDENTE, sendo que a sua duração máxima é de 200 (duzentos) dias
+contados a partir da assinatura do CONTRATO. Durante esse período, a CONCESSIONÁRIA não poderá
+cobrar TARIFAS.
+
+   Nessa fase, a CONCESSIONÁRIA deverá se planejar para o início dos serviços de gestão, operação
+e manutenção do SMRSU, bem como prover a infraestrutura mínima necessária, devidamente
+regularizada, para início da operação na Fase 2. A CONCESSIONÁRIA deverá elaborar e apresentar para
+o PODER CONCEDENTE e para a AGÊNCIA REGULADORA o PLANO DE EXECUÇÃO CONTRATUAL, onde
+serão apresentados as diretrizes e os principais procedimentos que serão aplicados para a execução
+do OBJETO.
+
+
+              5.2.        Fase 2 - fase de melhoria e adequação:
+
+   A Fase 2 corresponde ao período transitória de melhoria e adequação, no qual se inicia o PRAZO
+DA CONCESSÃO e a CONCESSIONÁRIA inicia a prestação dos SMRSU. Nessa etapa, a operação ocorrerá
+
+
+
+
+                                                                                                        11
+     CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                       Telefone: (34) 3822-5450
+com a infraestrutura mínima necessária para garantir à população a coleta e a destinação dos resíduos,
+sendo vedada qualquer solução irregular para o manejo de RSU.
+
+    A Fase 2 inicia-se com a emissão da ORDEM DE SERVIÇO pelo PODER CONCEDENTE e o seu prazo
+máximo é de 24 (vinte e quatro) meses após a emissão da ORDEM DE SERVIÇO. Nessa fase, será iniciada
+a cobrança pelos serviços prestados aos USUÁRIOS.
+
+    Concomitantemente à Fase 2, a CONCESSIONÁRIA deverá prover a infraestrutura necessária, bem
+como a sua respectiva regularização, para iniciar a operação da Fase 3, definida no PLANO DE
+EXECUÇÃO CONTRATUAL.
+
+
+            5.3.      Fase 3 - fase de gestão, operação e manutenção:
+
+    A Fase 3 é a fase de gestão, operação e manutenção, em que a rota tecnológica prevista no PLANO
+DE EXECUÇÃO CONTRATUAL, estará em plena operação. Essa fase se divide em três:
+
+         a. Fase 3a: inicia-se, no máximo, no 25º (vigésimo quinto) mês após a emissão da ORDEM
+             DE SERVIÇO, quando a UNIDADE DE VALORIZAÇÃO DE RESÍDUOS (UVR) deverá iniciar sua
+             operação;
+
+         b. Fase 3b: inicia-se, no máximo, no 49º (quadragésimo nono) mês após a emissão da
+             ORDEM DE SERVIÇO, quando o novo ATERRO SANITÁRIO da CONCESSIONÁRIA deverá
+             iniciar sua operação;
+
+         c. Fase 3c: inicia-se, no máximo, no 85º (octogésimo quinto) mês após a emissão da ORDEM
+             DE SERVIÇO, quando o serviço de COLETA SELETIVA DE ORGÂNICOS deverá iniciar sua
+             operação.
+
+
+            5.4.      Fase 4 - encerramento:
+
+    A Fase 4 ocorrerá concomitantemente à Fase 3c e se inicia nos últimos 24 (vinte e quatro) meses
+anteriores ao fim do PRAZO DA CONCESSÃO. Nessa fase será realizado o planejamento para a
+desmobilização operacional da CONCESSIONÁRIA e seu término culminará na transferência dos BENS
+REVERSÍVEIS ao PODER CONCEDENTE.
+
+
+
+
+                                                                                                   12
+     CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                     Telefone: (34) 3822-5450
+6. CONDIÇÕES GERAIS PARA OS SERVIÇOS DE MANEJO DE RESÍDUOS SÓLIDOS URBANOS
+
+       A CONCESSIONÁRIA deverá prestar o SMRSU observando as premissas do artigo 9° da Política
+Nacional de Resíduos Sólidos: não geração, redução, reutilização, reciclagem, tratamento dos resíduos
+sólidos e disposição final ambientalmente adequada dos REJEITOS (Lei Federal nº 12.305/2010, art.
+9º).
+
+       A CONCESSIONÁRIA deverá reduzir o envio de RESÍDUOS SÓLIDOS URBANOS para ATERRO
+SANITÁRIO; reduzir as emissões de gases de efeito estufa (GEE) em relação ao sistema atual, bem como
+possibilitar a integração de ORGANIZAÇÃO DE CATADORES DE MATERIAIS RECICLÁVEIS E
+REUTILIZÁVEIS no sistema de COLETA SELETIVA DE RECICLÁVEIS SECOS, triagem e comercialização de
+materiais, conforme termos do CONTRATO DE CONCESSÃO e seus ANEXOS DO CONTRATO.
+
+       A CONCESSIONÁRIA deverá possuir uma equipe própria mínima responsável pelas atividades, com
+formação de nível superior, de engenharia ou outra área correlata, devidamente habilitada e com
+experiência na gestão de sistemas de tratamento e de disposição final de resíduos sólidos urbanos,
+gerenciada por um responsável técnico com Anotação de Responsabilidade Técnica – ART, que possua
+a qualificação exigida ao profissional ao tempo da LICITAÇÃO.
+
+       A CONCESSIONÁRIA deverá manter íntegros e conservar os BENS DA CONCESSÃO, equipamentos
+e instalações utilizados, que deverão sempre estar em perfeitas condições de funcionamento e
+conforme padrões técnicos exigidos pela legislação e demais normas aplicáveis.
+
+       A CONCESSIONÁRIA deverá reparar suas unidades e promover, oportunamente, as substituições
+demandadas em função de desgaste, ou, ainda, promover os reparos e modernizações necessários à
+boa execução e à manutenção das condições adequadas das atividades e serviços sob sua
+responsabilidade.
+
+
+               6.1.       Diretrizes gerais
+
+       Para a execução do OBJETO do CONTRATO, a CONCESSIONÁRIA deverá observar e respeitar:
+
+            a. diretrizes nacionais de saneamento básico, estabelecidas por meio da Política Nacional
+                de Saneamento Básico, Lei Federal nº 11.445/2007 e suas alterações;
+
+            b. diretrizes do Plano Nacional de Saneamento Básico (Plansab) ou outro que venha a
+                substituí-lo;
+
+
+
+                                                                                                   13
+        CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                        Telefone: (34) 3822-5450
+            c. diretrizes nacionais quanto aos resíduos sólidos, estabelecidas por meio da Política
+                 Nacional de Resíduos Sólidos, Lei Federal nº 12.305/2010, e suas alterações;
+
+            d. diretrizes do Plano Nacional de Resíduos Sólidos (Planares) ou outro que venha a
+                 substituí-lo;
+
+            e. diretrizes estaduais quanto aos resíduos sólidos, estabelecidas por meio da Política
+                 Estadual de Resíduos Sólidos de Minas Gerais, Lei Estadual n° 18.031/2009, e suas
+                 alterações;
+
+            f.   diretrizes estaduais de saneamento básico, estabelecidas por meio da Política Estadual
+                 de Saneamento Básico de Minas Gerais, Lei Estadual nº 11.720/1994, e suas alterações;
+
+            g. diretrizes do Plano Estadual de Saneamento Básico de Minas Gerais (PESB-MG), quando
+                 publicado em Lei e eventuais alterações posteriores;
+
+            h. normas e regulamentos estabelecidos pela AGÊNCIA REGULADORA e pela AGÊNCIA
+                 NACIONAL DE ÁGUAS E SANEAMENTO BÁSICO (ANA) ou órgão que venha à substituí-la;
+
+            i.   este ANEXO DO CONTRATO 1 - CADERNO DE ENCARGOS DA CONCESSIONÁRIA, o ANEXO
+                 DO CONTRATO 2 - SISTEMA DE MENSURAÇÃO DE DESEMPENHO, e o ANEXO DO
+                 CONTRATO 3 - DIRETRIZES BÁSICAS PARA A INCLUSÃO SOCIAL E EMANCIPAÇÃO
+                 ECONÔMICA DE CATADORES DE MATERIAIS REUTILIZÁVEIS E RECICLÁVEIS NA
+                 CONCESSÃO;
+
+            j.   enquadramento nos Princípios do Equador3 dos planos, programas e projetos a serem
+                 apresentados pela CONCESSIONÁRIA.
+
+
+
+
+    3
+      Estes princípios são um conjunto de critérios socioambientais, referenciados nos Padrões de Desempenho
+(PD) sobre Sustentabilidade da International Finance Corporation (IFC) e nas Diretrizes de Meio Ambiente, Saúde
+e Segurança do Grupo Banco Mundial.
+
+                                                                                                            14
+        CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                       Telefone: (34) 3822-5450
+          6.2.     Requisitos operacionais e especificações mínimas
+
+A CONCESSIONÁRIA deverá prestar os seguintes serviços:
+
+     a.    Serviço de COLETA INDIFERENCIADA de RSD, sendo:
+
+            i.   porta a porta em 100% das ÁREAS URBANAS, para os MUNICÍPIOS que aderirem
+                 aos serviços de coleta de RSD, conforme CONTRATO;
+
+           ii.   porta a porta e/ou ponto a ponto em 100% das ÁREAS RURAIS, para os
+                 MUNICÍPIOS que aderirem aos serviços de coleta de RSD, conforme CONTRATO;
+
+     b.    Serviço de COLETA SELETIVA DE RECICLÁVEIS SECOS porta a porta, no mínimo, para as
+           sedes urbanas dos MUNICÍPIOS, e ponto a ponto para as demais ÁREAS URBANAS, por
+           meio da implantação de Pontos de Entrega Voluntária (PEV) para os MUNICÍPIOS que
+           aderirem aos serviços de coleta de RSD, conforme CONTRATO, sendo:
+
+            i.   Nos MUNICÍPIOS que dispõem de UNIDADE DE TRIAGEM LOCAL licenciada e
+                 operada por ORGANIZAÇÃO DE CATADORES DE MATERIAIS RECICLÁVEIS E
+                 REUTILIZÁVEIS, a COLETA SELETIVA DE RECICLÁVEIS SECOS em ÁREA URBANA
+                 deverá ser implantada a partir da data de emissão da ORDEM DE SERVIÇO,
+                 abrangendo 100% das ÁREAS URBANAS.
+
+           ii.   Nos MUNICÍPIOS que não dispõem de UNIDADE DE TRIAGEM LOCAL licenciada e
+                 operada por ORGANIZAÇÃO DE CATADORES DE MATERIAIS RECICLÁVEIS E
+                 REUTILIZÁVEIS, a COLETA SELETIVA DE RECICLÁVEIS SECOS em ÁREA URBANA
+                 deverá ser implantada a partir do início da Fase 3 do CONTRATO, abrangendo
+                 100% das ÁREAS URBANAS.
+
+                    •   Caso quaisquer desses MUNICÍPIOS venham a apresentar UNIDADE DE TRIAGEM
+                        LOCAL licenciada em data anterior ao início da Fase 3 do CONTRATO, a COLETA
+                        SELETIVA DE RECICLÁVEIS SECOS será implantada em 100% das ÁREAS URBANAS
+                        desses MUNICÍPIOS antes do início da Fase 3 do CONTRATO, se, e somente se,
+                        houver acordo entre PODER CONCEDENTE e CONCESSIONÁRIA considerando as
+                        adequações que se fizerem necessárias no PLANO DE OPERACIONALIZAÇÃO E
+                        INVESTIMENTOS e considerando recomposição do EQUILÍBRIO ECONÔMICO-
+                        FINANCEIRO do CONTRATO.
+
+
+
+
+                                                                                                15
+ CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                Telefone: (34) 3822-5450
+    c.   Serviço de COLETA SELETIVA DE RECICLÁVEIS SECOS porta a porta e/ou ponto a ponto,
+         com a implantação de Pontos de Entrega Voluntária (PEV), abrangendo 100% das ÁREAS
+         RURAIS, para os MUNICÍPIOS que aderirem aos serviços de coleta de RSD, conforme
+         CONTRATO;
+
+         i.    Nos MUNICÍPIOS que dispõem de UNIDADE DE TRIAGEM LOCAL licenciada e
+               operada por ORGANIZAÇÃO DE CATADORES DE MATERIAIS RECICLÁVEIS E
+               REUTILIZÁVEIS, a COLETA SELETIVA DE RECICLÁVEIS SECOS em ÁREA RURAL
+               deverá ser implantada a partir da data de emissão da ORDEM DE SERVIÇO,
+               abrangendo 100% das ÁREAS RURAIS.
+
+         ii.   Nos MUNICÍPIOS que não dispõem de UNIDADE DE TRIAGEM LOCAL licenciada e
+               operada por ORGANIZAÇÃO DE CATADORES DE MATERIAIS RECICLÁVEIS E
+               REUTILIZÁVEIS, a COLETA SELETIVA DE RECICLÁVEIS SECOS em ÁREA RURAL
+               deverá ser implantada a partir do início da Fase 3 do CONTRATO, abrangendo
+               100% das ÁREAS RURAIS.
+
+                   •   Caso quaisquer desses MUNICÍPIOS venham a apresentar UNIDADE DE TRIAGEM
+                       LOCAL licenciada em data anterior ao início da Fase 3 do CONTRATO, a COLETA
+                       SELETIVA DE RECICLÁVEIS SECOS será implantada em 100% das ÁREAS RURAIS
+                       desses MUNICÍPIOS antes do início da fase 3 do CONTRATO, se, e somente se,
+                       houver acordo entre PODER CONCEDENTE e CONCESSIONÁRIA considerando as
+                       adequações que se fizerem necessárias no PLANO DE OPERACIONALIZAÇÃO E
+                       INVESTIMENTOS e considerando recomposição do EQUILÍBRIO ECONÔMICO-
+                       FINANCEIRO do CONTRATO.
+
+    d.   Serviço de COLETA SELETIVA DE ORGÂNICOS na modalidade porta a porta, no mínimo,
+         para as sedes urbanas dos MUNICÍPIOS (à exceção de Presidente Olegário). Esse tipo de
+         coleta deverá iniciar no 85º (octogésimo quinto) mês após a data da emissão da ORDEM
+         DE SERVIÇO;
+
+    e.   Serviço de transbordo (sempre que aplicável), e serviço de transporte de RSU, sendo:
+
+         i.    ESTAÇÃO DE TRANSBORDO opcional para os RSD dos MUNICÍPIOS que aderirem
+               aos serviços de coleta de RSD, conforme CONTRATO;
+
+         ii.   ESTAÇÃO DE TRANSBORDO obrigatória para RSD dos MUNICÍPIOS que não
+               concederem os serviços de coleta de RSD, conforme CONTRATO, e para entrega
+
+                                                                                               16
+CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                               Telefone: (34) 3822-5450
+                   do RPU dos MUNICÍPIOS, salvo situação em que a distância de transporte seja
+                   menor ou igual a 50 km entre a unidade de destino do RSU e o respectivo centro
+                   geográfico do DISTRITO SEDE;
+
+    f.    Serviço de coleta, transporte e DESTINAÇÃO FINAL AMBIENTALMENTE ADEQUADA dos
+          REJEITOS provenientes das UNIDADES DE TRIAGEM LOCAL.
+
+          O Quadro 3 apresenta as UNIDADES DE TRIAGEM LOCAL existentes e previamente
+          indicadas, antes da assinatura do CONTRATO, sendo a documentação de comprovação
+          de regularidade ambiental apresentada no ANEXO DO CONTRATO 19. Contudo, futuras
+          UNIDADES DE TRIAGEM LOCAL que sejam implantadas nos MUNICÍPIOS deverão
+          também ser priorizadas no encaminhamento da COLETA SELETIVA DE RECICLÁVEIS
+          SECOS pela CONCESSIONÁRIA, após devida comunicação do PODER CONCEDENTE à
+          CONCESSIONÁRIA e desde que sejam operadas por ORGANIZAÇÃO DE CATADORES DE
+          MATERIAIS RECICLÁVEIS E REUTILIZÁVEIS e que estejam regularizadas ambientalmente;
+
+                    Quadro 3 – UNIDADES DE TRIAGEM LOCAL existentes nos municípios do CISPAR
+
+                                                                   Situação      Operação Realizada
+                  Município                Tipo1
+                                                                (janeiro/2026)   por (janeiro/2026):
+                                                                                   Organização de
+                 Coromandel                 UTR                   Operante
+                                                                                      Catadores
+                                                                                   Organização de
+                 Rio Paranaíba              UTR                   Operante
+                                                                                      Catadores
+         1UTR: Unidade de Triagem de Resíduos.
+
+         Fonte: Consórcio Vital, 2026.
+
+
+
+  g. Serviços de TRIAGEM MECANIZADA de RSD e de DESTINAÇÃO FINAL AMBIENTALMENTE
+         ADEQUADA dos RSU dos MUNICÍPIOS, sendo:
+
+           i.      Implantação e operação de UNIDADE(S) DE TRIAGEM MECANIZADA de resíduos
+                   sólidos domiciliares, observadas as premissas do artigo 9° da Política Nacional de
+                   Resíduos Sólidos, sendo a planta de triagem mecanizada obrigatória a partir do
+                   25º (vigésimo quinto) mês após a data da emissão da ORDEM DE SERVIÇO, para
+                   fins de reciclagem e/ou reaproveitamento;
+
+           ii.     Implantação e operação de UNIDADE DE VALORIZAÇÃO DE RESÍDUOS, com
+                   tratamento da fração orgânica de RSU, obrigatória a partir do 25º (vigésimo
+                   quinto) mês após a data da emissão da ORDEM DE SERVIÇO;
+
+
+                                                                                                   17
+CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                     Telefone: (34) 3822-5450
+        iii.    Implantação e operação de novo ATERRO SANITÁRIO de rejeitos a partir do 49º
+                (quadragésimo nono) mês após a data da emissão da ORDEM DE SERVIÇO, em
+                local a ser definido pela CONCESSIONÁRIA, bem como a realização do seu
+                encerramento e execução das atividades de pós-encerramento;
+
+
+
+  h. A CONCESSIONÁRIA deverá implementar um Centro de Controle Operacional (CCO)
+      visando à centralização das informações dos serviços e o controle das operações, tais
+      como sistema de controle de acesso às unidades operacionais, sistema de controle de
+      pesagem, sistema de controle de coleta de resíduos, no mínimo, conforme diretrizes
+      abaixo:
+
+          •    É obrigatório manter em operação, 24 (vinte e quatro) horas por dia, em todos os
+               dias da semana, um sistema de vigilância capaz de garantir a integridade das
+               instalações e das áreas internas necessárias à prestação do serviço, vetando
+               terminantemente a permanência de pessoas estranhas;
+
+          •    Todos os sistemas de controle de acesso e de pesagem deverão ser auditáveis e
+               conter ferramentas que impeçam o manuseio indevido das informações
+               armazenadas;
+
+          •    Os sistemas de pesagem deverão estar vinculados a software de sistema de banco
+               de dados, de forma a permitir a visualização e a emissão de relatórios pelo PODER
+               CONCEDENTE e pela AGÊNCIA REGULADORA;
+
+          •    É obrigatória a existência de, no mínimo, 01 (uma) balança rodoviária com
+               capacidade adequada para pesagem do RSU nos seguintes empreendimentos,
+               quando existente:
+
+                 i.    ATERRO SANITÁRIO;
+
+                 ii.   ESTAÇÃO DE TRANSBORDO;
+
+                iii.   UNIDADE DE VALORIZAÇÃO DE RESÍDUOS (UVR).
+
+
+
+
+                                                                                             18
+CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                               Telefone: (34) 3822-5450
+               •   O RPU deverá ser pesado no momento da entrega4 dos resíduos pelos MUNICÍPIOS
+                   à CONCESSIONÁRIA, cabendo à CONCESSIONÁRIA entregar comprovante de
+                   pesagem gerado por sistema auditável pela AGÊNCIA REGULADORA ao
+                   representante do MUNICÍPIO. O RPU proveniente de cada MUNICÍPIO deverá:
+
+                      i.    ser pesado separadamente do RPU dos demais MUNICÍPIOS;
+
+                      ii.   ser pesado separadamente do RSD.
+
+               •   Caso o MUNICÍPIO encaminhe a fração de RPU referente aos RESÍDUOS VERDES
+                   segregados, a CONCESSIONÁRIA receberá a referida fração para tratamento, sem
+                   ônus ao MUNICÍPIO.
+
+               •   O sistema de identificação e rastreamento dos veículos que ingressarão em cada
+                   uma das unidades operadas e mantidas pela CONCESSIONÁRIA deverá ser
+                   automatizado, auditável e manter o histórico de dados, em relação à rota
+                   percorrida pelo veículo, aos horários de entrada e de saída da unidade operacional,
+                   equipe responsável, origem dos resíduos (com referência à rota de coleta) e massa
+                   dos resíduos;
+
+               •   Todos os veículos, máquinas e equipamentos utilizados deverão ser mantidos em
+                   perfeitas    condições    operacionais,      de   manutenção    e   conservação.     A
+                   CONCESSIONÁRIA deverá manter em todos os equipamentos, máquinas e veículos,
+                   a padronização visual estabelecida pelo PODER CONCEDENTE após a assinatura do
+                   CONTRATO.
+
+    A CONCESSIONÁRIA deverá realizar estudo gravimétrico dos RSU conforme as diretrizes abaixo:
+
+
+
+
+4
+  O local de entrega dos resíduos pelos MUNICÍPIOS para a CONCESSIONÁRIA será definido pela
+CONCESSIONÁRIA no PLANO DE EXECUÇÃO CONTRATUAL considerando que a distância de transporte seja menor
+ou igual a 50 km entre a unidade de destino do RPU e o respectivo centro geográfico do DISTRITO SEDE do
+MUNICÍPIO. Desde que observada a referida distância máxima de 50 km, o local de entrega pode ser quaisquer
+estruturas operadas pela CONCESSIONÁRIA, a exemplo de ESTAÇÃO DE TRANSBORDO ou outro local definido
+pela CONCESSIONÁRIA no PLANO DE EXECUÇÃO CONTRATUAL.
+
+                                                                                                       19
+     CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                     Telefone: (34) 3822-5450
+              •    Realizar estudo gravimétrico dos RSU recebidos na UNIDADE DE VALORIZAÇÃO DE
+                   RESÍDUOS, a partir do início da operação, com frequência mínima semestral;
+
+              •    A frequência de realização dos estudos gravimétricos, a partir do 49º
+                   (quadragésimo nono) mês após a data da emissão da ORDEM DE SERVIÇO, poderá
+                   ser alterada para anual, se acordado entre as PARTES, com anuência da AGÊNCIA
+                   REGULADORA;
+
+              •    Comunicar a AGÊNCIA REGULADORA as datas de realização da amostragem e
+                   análise gravimétrica de RSU, com antecedência mínima de 30 (trinta) dias, para que
+                   a execução dessas atividades seja supervisionada por um fiscal da AGÊNCIA
+                   REGULADORA;
+
+              •    Executar a análise gravimétrica dos RSU (a) em conformidade com a norma ABNT
+                   NBR 10.007 - Resíduos Sólidos – Amostragem de Resíduos; (b) observando-se as
+                   orientações da Fundação Estadual do Meio Ambiente contidas na Cartilha de
+                   Orientações - Estudo Gravimétrico de Resíduos Sólidos Urbanos; e (c) atendendo
+                   prioritariamente às orientações, normas e/ou recomendações da AGÊNCIA
+                   REGULADORA, quando houver;
+
+              •    Elaborar o PLANO DE AMOSTRAGEM PARA ESTUDO GRAVIMÉTRICO;
+
+              •    Após a realização do estudo gravimétrico, entregar à AGÊNCIA REGULADORA e ao
+                   PODER CONCEDENTE o RELATÓRIO DE COMPOSIÇÃO GRAVIMÉTRICA contendo os
+                   resultados. A não realização da análise do estudo gravimétrico nos termos deste
+                   CADERNO DE ENCARGOS, por motivo imputável à CONCESSIONÁRIA, implicará na
+                   aplicação das penalidades previstas no CONTRATO.
+
+
+            6.3.      Diretrizes para a elaboração dos planos, relatórios e projetos de engenharia
+
+   A CONCESSIONÁRIA deverá elaborar e manter atualizado o PLANO DE EXECUÇÃO CONTRATUAL e
+os PROJETOS DE ENGENHARIA para a execução do SMRSU, os quais deverão atender integralmente
+aos prazos e condições previstos neste CADERNO DE ENCARGOS.
+
+   O PLANO DE EXECUÇÃO CONTRATUAL e os PROJETOS DE ENGENHARIA serão entregues conforme
+previsto nos itens 6.3.1 e 6.3.2 ao PODER CONCEDENTE e à AGÊNCIA REGULADORA, que deverão,
+
+
+
+                                                                                                     20
+     CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                    Telefone: (34) 3822-5450
+observados os limites das exigências previstas no CONTRATO, apresentar “não objeção” no prazo de
+30 (trinta) dias, contados da data de seu recebimento.
+
+    Caso o PODER CONCEDENTE e a AGÊNCIA REGULADORA não se manifestem no prazo de 30 dias
+da entrega do PLANO DE EXECUÇÃO CONTRATUAL e dos PROJETOS DE ENGENHARIA, será considerada
+“não objeção” tácita.
+
+    Caso haja entrega parcial do PLANO DE EXECUÇÃO CONTRATUAL e/ou dos PROJETOS DE
+ENGENHARIA por parte da CONCESSIONÁRIA, o prazo de análise do PODER CONCEDENTE e da
+AGÊNCIA REGULADORA será contado a partir da data de entrega dos documentos em sua completude.
+
+    O PODER CONCEDENTE e a AGÊNCIA REGULADORA poderão solicitar adequações no PLANO DE
+EXECUÇÃO CONTRATUAL e nos PROJETOS DE ENGENHARIA, desde que sejam necessárias ao
+atendimento das diretrizes constantes no CONTRATO, ou da legislação vigente.
+
+    Nas hipóteses previstas acima, a CONCESSIONÁRIA deverá entregar nova versão do PLANO DE
+EXECUÇÃO CONTRATUAL e dos PROJETOS DE ENGENHARIA contemplando as solicitações, em até 30
+dias contados da data do recebimento da solicitação de alteração.
+
+    O PODER CONCEDENTE e a AGÊNCIA REGULADORA deverão reavaliar os documentos
+reapresentados, em até 10 (dez) dias após a reapresentação, prorrogáveis em até 10 (dez) dias,
+mediante justificativa.
+
+    As modificações solicitadas não previstas no CONTRATO, que implicarem em sobrecusto à
+CONCESSIONÁRIA, serão objeto de recomposição do EQUILÍBRIO ECONÔMICO-FINANCEIRO DO
+CONTRATO.
+
+    Caso a CONCESSIONÁRIA decida por realizar alguma alteração no PLANO DE EXECUÇÃO
+CONTRATUAL e nos PROJETOS DE ENGENHARIA já apresentados, ou decida propor novas intervenções
+não previstas neste CADERNO DE ENCARGOS, deverá submeter a nova proposta ao PODER
+CONCEDENTE e à AGÊNCIA REGULADORA para a devida “não objeção”.
+
+    O PLANO DE EXECUÇÃO CONTRATUAL e os PROJETOS DE ENGENHARIA deverão ser desenvolvidos
+por profissionais com experiência comprovada, devidamente registrados no Conselho de Arquitetura
+e Urbanismo (CAU) ou no Conselho Regional de Engenharia e Agronomia (CREA).
+
+    A CONCESSIONÁRIA deverá submeter os PROJETOS DE ENGENHARIA ou outros documentos
+pertinentes, observadas as determinações legais, aos órgãos competentes de deliberação, avaliação e
+
+
+                                                                                                21
+     CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                    Telefone: (34) 3822-5450
+aprovação acerca das questões ambientais, históricas, culturais, arquitetônicas, de segurança, entre
+outras. A CONCESSIONÁRIA será responsável pela obtenção das aprovações dos projetos nos órgãos
+competentes e pelas respectivas licenças, sempre que necessárias.
+
+    O conhecimento, pelo PODER CONCEDENTE e pela AGÊNCIA REGULADORA, do PLANO DE
+EXECUÇÃO CONTRATUAL e dos PROJETOS DE ENGENHARIA apresentados pela CONCESSIONÁRIA não
+exclui a responsabilidade da CONCESSIONÁRIA pelos próprios projetos, pela adequação e qualidade
+dos investimentos realizados, assim como pelo cumprimento das obrigações contratuais.
+
+    O PLANO DE EXECUÇÃO CONTRATUAL e os PROJETOS DE ENGENHARIA elaborados somente para
+os fins específicos desta CONCESSÃO, bem como todos os demais planos e programas inseridos,
+plantas, documentos e outros materiais de semelhante natureza e finalidade, serão cedidos ou terão
+suas licenças gratuitamente transferidas ao PODER CONCEDENTE ao final da CONCESSÃO, competindo
+à CONCESSIONÁRIA adotar todas as medidas necessárias para este fim.
+
+    A documentação técnica de qualquer forma adquirida pela CONCESSIONÁRIA e vinculada à
+execução do OBJETO do CONTRATO é de propriedade do PODER CONCEDENTE, sendo vedada sua
+utilização pela CONCESSIONÁRIA para outros fins que não os previstos no CONTRATO.
+
+    Para a realização de quaisquer novos investimentos ao longo do PRAZO DA CONCESSÃO, a
+CONCESSIONÁRIA deverá observar e/ou atualizar o PLANO DE EXECUÇÃO CONTRATUAL descrito neste
+CADERNO DE ENCARGOS.
+
+    Além dos PROJETOS DE ENGENHARIA e do PLANO DE EXECUÇÃO CONTRATUAL, a
+CONCESSIONÁRIA deverá entregar ao PODER CONCEDENTE e à AGÊNCIA REGULADORA relatórios
+periódicos para o devido acompanhamento do desempenho. O Quadro 4 apresenta a relação de
+documentos, associado à respectiva fase do CONTRATO, e os itens subsequentes são descritos com
+mais detalhes.
+
+                                 Quadro 4 – Relação de Planos e Relatórios
+
+     FASE                         DOCUMENTO                                  PRAZO OU FREQUÊNCIA
+                                                                    Projeto executivo antes do início das
+                                                                    obras e PROJETO AS BUILT com
+ Fase 1, 2 e 3   PROJETOS DE ENGENHARIA                             respectivos manuais de operação e
+                                                                    manutenção 90 dias após a conclusão
+                                                                    da respectiva obra.
+                 PLANO DE EXECUÇÃO CONTRATUAL, contendo:            Deverá ser entregue até 120 dias após
+    Fase 1          • PLANO DE OPERACIONALIZAÇÃO E                  a DATA DE ASSINATURA DO
+                        INVESTIMENTOS;                              CONTRATO.
+
+
+                                                                                                       22
+      CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                     Telefone: (34) 3822-5450
+    FASE                             DOCUMENTO                           PRAZO OU FREQUÊNCIA
+                        •   PLANO DE GESTÃO DE RISCOS;
+                        •   PLANO DE ATENDIMENTO AO USUÁRIO;       Deverá ser mantido constantemente
+                        •   PLANO DE AMOSTRAGEM PARA ESTUDO        atualizado.
+                            GRAVIMÉTRICO ANUAL
+                        •   PLANO DOS PROGRAMAS
+                            SOCIOAMBIENTAIS conforme Apêndice A.
+                        •   PLANO DE MANUTENÇÕES;
+                        •   PLANO DE CONTINGÊNCIA E
+                            EMERGÊNCIA;
+                        •   PLANEJAMENTO DE RECEITAS
+                            EXTRAORDINÁRIAS
+                        •   PLANO DE MONITORAMENTO DE
+                            EMISSÕES DE GASES DO EFEITO ESTUFA
+                 RELATÓRIO DE EXECUÇÃO DOS SERVIÇOS                Frequência semestral
+                 RELATÓRIO DE COMPOSIÇÃO GRAVIMÉTRICA              Frequência semestral
+                 PLANO DE OPERAÇÃO DA COLETA E TRANSPORTE          Frequência semestral
+  Fase 2 e 3     RELATÓRIO DE AUFERIÇÃO DE RECEITAS
+                                                                   Frequência anual
+                 EXTRAORDINÁRIAS
+                 RELATÓRIO DE MONITORAMENTO DE EMISSÕES DE
+                                                                   Frequência anual
+                 GASES DO EFEITO ESTUFA
+                 RELATÓRIO DE AVALIAÇÃO DE DESEMPENHO              Frequência mensal
+                                                                   Deverá ser entregue 24 meses antes
+    Fase 4       PLANO DE DESMOBILIZAÇÃO OPERACIONAL
+                                                                   do fim do PRAZO DA CONCESSÃO.
+
+               6.3.1.       Projetos de Engenharia
+
+
+   É de responsabilidade da CONCESSIONÁRIA a elaboração dos projetos, em nível executivo,
+referentes à implantação das infraestruturas necessárias para a prestação dos serviços, devidamente
+certificados por Organismo de Inspeção Acreditado – OIA, com base na portaria INMETRO 367/2017.
+Estes projetos certificados devem ser apresentados, em caráter informativo, ao PODER CONCEDENTE
+e à AGÊNCIA REGULADORA, antes do início de cada uma das intervenções.
+
+   Os projetos executivos a serem analisados e aprovados pelo OIA deverão guardar coerência com
+o PLANO DE EXECUÇÃO CONTRATUAL apresentado pela CONCESSIONÁRIA.
+
+   A CONCESSIONÁRIA deverá realizar a gestão da implantação dos PROJETOS DE ENGENHARIA e,
+após conclusão das obras, gerar os respectivos PROJETOS AS BUILT e os manuais de operação e
+manutenção.
+
+   A CONCESSIONÁRIA deverá entregar os PROJETOS AS BUILT e manuais de operação e manutenção
+de cada obra ao PODER CONCEDENTE, no prazo de 90 (noventa) dias, prorrogáveis por 90 (noventa)
+
+
+                                                                                                        23
+     CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                        Telefone: (34) 3822-5450
+dias, mediante justificativa aceita pelo PODER CONCEDENTE, contados da data da conclusão da
+respectiva obra.
+
+   Durante a implantação, a CONCESSIONÁRIA deverá apresentar projeto de combate a incêndios das
+estruturas a serem implantadas, devendo ser aprovado antes do início da operação, pelo Corpo de
+Bombeiros Militar ou Defesa Civil do estado de Minas Gerais.
+
+
+              6.3.2.   Fase 1: PLANO DE EXECUÇÃO CONTRATUAL
+
+
+   É de responsabilidade da CONCESSIONÁRIA a elaboração e apresentação do PLANO DE EXECUÇÃO
+CONTRATUAL, que conterá o detalhamento dos procedimentos a serem seguidos para a realização e
+cumprimento do CONTRATO, de modo a assegurar que as obrigações contratuais sejam cumpridas de
+forma adequada e transparente, minimizando possíveis conflitos ou mal-entendidos entre as partes
+envolvidas.
+
+   O PLANO DE EXECUÇÃO CONTRATUAL deverá ser entregue, no prazo de 120 (cento e vinte) dias,
+a contar da DATA DA ASSINATURA DO CONTRATO, durante a fase 1, para aprovação do PODER
+CONCEDENTE e da AGÊNCIA REGULADORA.
+
+   Este plano deverá conter todas as informações necessárias à perfeita compreensão do que será
+executado pela CONCESSIONÁRIA ao longo do CONTRATO DE CONCESSÃO e deverá reproduzir as
+obrigações definidas no CONTRATO.
+
+   O PLANO DE EXECUÇÃO CONTRATUAL deverá conter e detalhar, no mínimo:
+
+         a. PLANO DE OPERACIONALIZAÇÃO E INVESTIMENTOS;
+
+         b. PLANO DE GESTÃO DE RISCOS;
+
+         c. PLANO DE ATENDIMENTO AO USUÁRIO;
+
+         d. PLANO DE AMOSTRAGEM PARA ESTUDO GRAVIMÉTRICO;
+
+         e. PLANO DOS PROGRAMAS SOCIOAMBIENTAIS;
+
+         f.   PLANO DE MANUTENÇÕES;
+
+         g. PLANO DE CONTINGÊNCIA E EMERGÊNCIA;
+
+         h. PLANEJAMENTO DE RECEITAS EXTRAORDINÁRIAS
+
+         i.   PLANO DE MONITORAMENTO DE EMISSÕES DE GASES DO EFEITO ESTUFA
+
+                                                                                                24
+     CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                    Telefone: (34) 3822-5450
+            6.3.2.1. PLANO DE OPERACIONALIZAÇÃO E INVESTIMENTOS
+
+
+   O PLANO DE OPERACIONALIZAÇÃO E INVESTIMENTOS deverá apresentar o conjunto de soluções
+para o SMRSU dos MUNICÍPIOS, apresentando a rota tecnológica e as tecnologias selecionadas pela
+CONCESSIONÁRIA, abrangendo a descrição da infraestrutura necessária para execução dos serviços
+OBJETO da CONCESSÃO, considerando todo o ciclo de vida das estruturas projetadas. A abordagem
+deverá expor, detalhadamente:
+
+         a. descrição das soluções para a COLETA INDIFERENCIADA, coleta seletiva, transbordo,
+             transporte, triagem, TRATAMENTO e DESTINAÇÃO FINAL AMBIENTALMENTE ADEQUADA
+             dos RSD, RPU, subprodutos e dos REJEITOS gerados pelo SMRSU, ou seja, descrição
+             detalhada da rota tecnológica que será adotada, abordando as etapas de concepção,
+             planejamento, projeto e dimensionamento, implantação, operação, monitoramento,
+             controle, encerramento e descomissionamento, quando aplicável;
+
+         b. descrição dos locais de recepção de RPU a serem encaminhados pelos MUNICÍPIO,
+             incluindo a descrição dos locais de recepção do RESÍDUO VERDE oriundo do RPU que for
+             entregue de forma segregada pelo município;
+
+         c. descrição e dimensionamento dos recursos financeiros, humanos, materiais e
+             tecnológicos, necessários para implantação dos SMRSU, e cronograma de permanência
+             e substituição de veículos e equipamentos ao longo do período de CONCESSÃO;
+
+         d. definição geral do serviço, métricas, processos padronizados e descrição de como se dará
+             o monitoramento e o controle operacional do SMRSU, de modo a garantir o
+             cumprimento dos INDICADORES DE DESEMPENHO, conforme ANEXO DO CONTRATO 2 –
+             SISTEMA DE MENSURAÇÃO DE DESEMPENHO, devendo a CONCESSIONÁRIA prever
+             estratégia específica para o atingimento dos níveis de desempenho contratualmente
+             estabelecidos, com detalhamento individualizado por MUNICÍPIO, contemplando
+             metodologia, metas intermediárias, cronograma de implementação e mecanismos de
+             acompanhamento e reporte;
+
+         e. relação de BENS DA CONCESSÃO, identificando-os, inclusive no que se refere ao estado
+             de conservação, e apresentando, sempre que possível, fotos;
+
+
+
+
+                                                                                                 25
+     CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                    Telefone: (34) 3822-5450
+         f.   cronograma físico do investimento, em base anual, para todo o período da CONCESSÃO.
+              O nível de detalhamento dos investimentos deverá ser escalonado conforme o horizonte
+              de sua execução, de forma a permitir o acompanhamento do PODER CONCEDENTE e da
+              AGÊNCIA REGULADORA, bem como o planejamento de outras políticas públicas
+              relacionadas.
+
+               i.    Para investimentos a serem realizados em curto prazo (até o quinto ano da
+                     CONCESSÃO), deverá ser apresentado o cronograma das obras e dos serviços a
+                     serem implantados, detalhado por localidade (município/bairro/região),
+                     especificando, inclusive, o índice de desvio de recicláveis e orgânicos, quando
+                     pertinente.
+
+               ii.   Para os investimentos a médio e longo prazo (considerados a partir do sexto ano
+                     da CONCESSÃO), deverá ser apresentado o cronograma de marcos do projeto,
+                     para seu devido acompanhamento.
+
+
+              6.3.2.2. PLANO DE GESTÃO DE RISCOS
+
+
+   A CONCESSIONÁRIA deverá elaborar o PLANO DE GESTÃO DE RISCOS, o qual abrangerá todos os
+riscos de sua responsabilidade, mediante análise abrangente de todos os potenciais riscos a ela
+alocados na matriz de risco apresentada em ANEXO DO CONTRATO.
+
+   O PLANO DE GESTÃO DE RISCOS apresentará, com relação a cada risco de sua responsabilidade,
+no mínimo:
+
+         a. a descrição do risco, nos termos da matriz de riscos do CONTRATO;
+
+         b. a probabilidade da sua ocorrência;
+
+         c. o impacto potencial no CONTRATO em caso da sua materialização;
+
+         d. as estratégias propostas para mitigar ou eliminar eventos danosos em decorrência da
+              materialização do risco; e
+
+         e. os procedimentos para monitoramento contínuo do risco.
+
+   O PLANO DE GESTÃO DE RISCOS deverá ser continuamente monitorado e revisado, no mínimo
+anualmente.
+
+
+
+                                                                                                 26
+     CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                    Telefone: (34) 3822-5450
+               6.3.2.3. PLANO DE ATENDIMENTO AO USUÁRIO
+
+
+    A CONCESSIONÁRIA submeterá à aprovação do PODER CONCEDENTE e da AGÊNCIA REGULADORA,
+a definição geral do serviço, métricas, processos padronizados a serem utilizados e ferramentas de
+gestão do atendimento. É obrigatória a disponibilização do SAC a partir da DATA DA EMISSÃO DA
+ORDEM DE SERVIÇO, com funcionamento, pelo menos, durante todo o horário e em todos os dias em
+que os serviços de coleta de resíduos domésticos forem executados pela CONCESSIONÁRIA.
+
+    Deverá ser estabelecida rotina de treinamento aos colaboradores para correta prestação do
+serviço aos USUÁRIOS e apresentação adequada com uniforme e EPI em todas as atividades previstas
+no contrato.
+
+    A CONCESSIONÁRIA deverá formular PLANO DE ATENDIMENTO AO USUÁRIO, que inclua, no
+mínimo:
+
+
+    a) Manual de Prestação de Serviço e de atendimento ao usuário USUÁRIO
+
+
+O Manual de Prestação do Serviço e de Atendimento ao Usuário disciplinará a relação entre a
+CONCESSIONÁRIA e os usuários, estabelecendo direitos, deveres e diretrizes operacionais, instituído
+pela Norma de Referência nº 7/2024 da ANA e incorporado pela ARISB-MG na Resolução nº 355/2025.
+O documento é essencial para orientar a prestação dos serviços, especialmente considerando que a
+cobrança terá início na Fase 2.
+
+
+    b) Implantação do Serviço de Atendimento ao Cliente (SAC):
+
+
+    A implantação do Serviço de Atendimento ao Cliente (SAC) através de ligação gratuita e canal
+digital gratuito e de fácil acesso dos USUÁRIOS, para recebimento de demanda de serviços,
+reclamações, sugestões de melhoria e outros. Ao final de cada ligação ou contato através do canal
+digital, deverá ser avaliado o nível de satisfação do USUÁRIO com os serviços.
+
+
+               6.3.2.1. PLANO DE AMOSTRAGEM PARA ESTUDO GRAVIMÉTRICO
+
+
+    O PLANO DE AMOSTRAGEM PARA ESTUDO GRAVIMÉTRICO apresentará a padronização dos
+métodos de coleta e análise de amostras de resíduos sólidos urbanos para identificação do percentual
+de cada fração dos resíduos (orgânicos, recicláveis e REJEITOS); da geração per capita (kg/hab./dia) e
+
+                                                                                                   27
+     CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                    Telefone: (34) 3822-5450
+do peso específico (kg/m³) do RSU recebido na UNIDADE DE VALORIZAÇÃO DE RESÍDUOS e no ATERRO
+SANITÁRIO. Essas unidades devem possuir locais adequados e identificados para a realização das
+análises gravimétricas. O estudo gravimétrico será realizado para a totalidade dos resíduos manejados
+em cada estrutura, ou seja, considerará o RSD e RPU, conjuntamente.
+
+   O plano de amostragem deve considerar a preparação e análise de amostras de RSU que sejam
+representativas do total de RSU de cada município atendido pela CONCESSÃO.
+
+   A análise gravimétrica dos resíduos será realizada com frequência mínima semestral. O PLANO DE
+AMOSTRAGEM PARA ESTUDO GRAVIMÉTRICO será elaborado observando a norma ABNT NBR –
+10.007/2004 - Amostragem de Resíduos Sólidos e as orientações da Fundação Estadual do Meio
+Ambiente (FEAM) contidas na Cartilha de Orientações – Estudo Gravimétrico de Resíduos Sólidos
+Urbanos; priorizando-se o atendimento às orientações, normas e/ou recomendações da AGÊNCIA
+REGULADORA, quando houver.
+
+   O PLANO DE AMOSTRAGEM PARA ESTUDO GRAVIMÉTRICO conterá, no mínimo:
+
+         a. Descrição técnica do local de descarga dos caminhões de RSU para fins de amostragem;
+
+         b. Critério de escolha de caminhões de RSU a serem amostrados, a fim de que a amostra
+              seja representativa do total de RSU de cada município atendido pela CONCESSÃO,
+              número de caminhões amostrados e roteiros de coleta, massa (kg) e volume (m³) de RSU
+              amostrado por caminhão;
+
+         c. Local e equipamentos de armazenamento e pesagem das amostras; método de
+              preservação e tempo de armazenamento das amostras;
+
+         d. Equipamentos de proteção a serem utilizados durante coleta e análise das amostras;
+
+         e. Apresentação da estrutura do RELATÓRIO DE COMPOSIÇÃO GRAVIMÉTRICA, incluindo,
+              no mínimo, o conteúdo previsto no item 6.3.3.2 RELATÓRIO DE COMPOSIÇÃO
+              GRAVIMÉTRICA DOS RESÍDUOS;
+
+         f.   Datas previstas para realização dos ensaios de composição gravimétrica.
+
+   O PLANO DE AMOSTRAGEM PARA ESTUDO GRAVIMÉTRICO valerá para o PRAZO DA CONCESSÃO,
+salvo se a AGÊNCIA REGULADORA solicitar a revisão e/ou atualização do Plano, cabendo nova
+submissão ao PODER CONCEDENTE e à AGÊNCIA REGULADORA para aprovação.
+
+
+
+                                                                                                  28
+     CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                    Telefone: (34) 3822-5450
+            6.3.2.2. PLANO DOS PROGRAMAS SOCIOAMBIENTAIS
+
+
+   O PLANO DOS PROGRAMAS SOCIOAMBIENTAIS deverá estabelecer os processos para
+implementação dos programas socioambientais, apresentando de forma clara as ações, os objetivos,
+o cronograma de execução e os indicadores de acompanhamento e metas para os dois programas:
+         a. PROGRAMA DE EDUCAÇÃO AMBIENTAL;
+
+         b. PROGRAMA DE RECUPERAÇÃO DE ÁREAS DEGRADADAS PELA DISPOSIÇÃO INADEQUADA
+             DE RESÍDUOS SÓLIDOS URBANOS.
+
+   Deverão ser observadas as diretrizes previstas no apêndice A deste CADERNO DE ENCARGOS.
+
+
+            6.3.2.3. PLANO DE MANUTENÇÕES
+
+
+   O PLANO DE MANUTENÇÕES deverá abordar as ações pretendidas relativamente à manutenção e
+conservação das estruturas, equipamentos e instalações operacionais e administrativas da
+CONCESSÃO e deve conter, no mínimo:
+
+         a. a periodicidade das ações e atividades que serão desempenhadas nos diferentes tipos
+             de manutenção, com a finalidade de manter as estruturas, equipamentos e instalações
+             em perfeito estado de funcionamento;
+
+         b. diretrizes adotadas para manutenção da frota e dos equipamentos que serão utilizados
+             na execução dos serviços, incluindo lubrificação, calibração e alinhamento dos veículos,
+             equipamentos e máquinas, em consonância com os procedimentos definidos nos
+             respectivos manuais, visando manter os equipamentos, máquinas e veículos em bom
+             estado de funcionamento e dentro dos padrões de controle ambiental exigidos quanto à
+             poluição do ar e sonora, e em estrita observância às normas federais, estaduais e
+             municipais;
+
+         c. diretrizes adotadas para manutenção das ESTAÇÕES DE TRANSBORDO, se implantadas,
+             e da UNIDADE DE VALORIZAÇÃO DE RESÍDUOS;
+
+         d. o ATERRO SANITÁRIO deverá seguir um PLANO DE MANUTENÇÕES que contemple, pelo
+             menos, as seguintes estruturas: sistema de drenagem de águas pluviais; sistema de
+             drenagem do lixiviado; sistema de drenagem de gases; sistema de tratamento de
+             lixiviado; sistema de tratamento de gases; forma de correção dos recalques, dos
+
+                                                                                                  29
+     CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                    Telefone: (34) 3822-5450
+             caimentos, dos taludes e das bermas; cobertura vegetal sobre células de resíduos;
+             sistema de monitoramento ambiental e geotécnico; vias internas, acessos, isolamento
+             físico e portões; instalações administrativas e operacionais.
+
+
+            6.3.2.4. PLANO DE CONTINGÊNCIA E EMERGÊNCIA
+
+
+   O PLANO DE CONTINGÊNCIA E EMERGÊNCIA deverá abordar as medidas que minimizem ou
+restrinjam possíveis efeitos danosos decorrentes de emergências ou contingências, visando à
+continuidade da operação adequada dos SMRSU. Esse plano deve conter, no mínimo:
+         a. levantamento de possíveis incidentes ou acidentes e as ações a serem tomadas;
+
+         b. indicação da(s) pessoa(s) que deve(m) atuar como coordenador(es) das ações de
+             emergência, indicando seu(s) telefone(s) e endereço(s);
+
+         c. desenvolvimento de ações para treinamento anual nas instalações dos serviços de
+             SMRSU, com simulações de possíveis contingentes e situações de emergência, visando à
+             preparação dos colaboradores para responder adequadamente esses eventos;
+
+         d. lista de todos os equipamentos de segurança existentes, incluindo localização, descrição
+             do tipo e capacidade;
+
+
+            6.3.2.5. PLANEJAMENTO DE RECEITAS EXTRAORDINÁRIAS
+
+
+   O PLANEJAMENTO DE RECEITAS EXTRAORDINÁRIAS deverá apresentar, no início do contrato, as
+receitas extraordinárias pretendidas com a utilização da capacidade instalada dos sistemas de manejo
+do RSU, cujo percentual de compartilhamento está definido no CONTRATO, e a previsão do início do
+seu auferimento.
+
+
+            6.3.2.6. PLANO DE MONITORAMENTO DE EMISSÕES DE GASES DE EFEITO ESTUFA
+
+
+   O PLANO DE MONITORAMENTO DE EMISSÕES DE GASES DO EFEITO ESTUFA deverá apresentar as
+medidas para a redução de emissões de gases do efeito estufa (GEE), alinhadas à Política Nacional
+sobre Mudança Climática (PNMC), a exemplo de práticas de redução da geração de resíduos e adoção
+de tecnologias de baixa emissão de GEE. Além disso, deverá apresentar a metodologia de quantificação
+
+
+
+
+                                                                                                 30
+     CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                     Telefone: (34) 3822-5450
+anual da emissão de GEE relativa ao OBJETO da CONCESSÃO, em termos de créditos de carbono
+representados pelas toneladas de CO2 equivalentes.
+
+
+              6.3.3.   Fase 2 e 3: Planos e relatórios de acompanhamento periódico
+
+
+              6.3.3.1. RELATÓRIO DE EXECUÇÃO DE SERVIÇOS
+
+
+   A partir da DATA DA EMISSÃO DA ORDEM DE SERVIÇO, a CONCESSIONÁRIA deverá emitir,
+semestralmente, o RELATÓRIO DE EXECUÇÃO DE SERVIÇOS ao PODER CONCEDENTE e à AGÊNCIA
+REGULADORA, para o acompanhamento do andamento da CONCESSÃO quanto ao cumprimento do
+PLANO DE EXECUÇÃO CONTRATUAL, contendo, no mínimo:
+
+         a. as medições das massas de entrada dos REJEITOS e do RPU no ATERRO SANITÁRIO, sendo
+              o RPU identificado por município de origem;
+
+         b. as medições das massas de entrada e saída do RSD e do RESÍDUO VERDE segregado
+              oriundo do RPU na UNIDADE DE VALORIZAÇÃO DE RESÍDUOS;
+
+         c. as medições das massas de entrada e saída do RSD e do RPU nas ESTAÇÕES DE
+              TRANSBORDO, sendo o RPU identificado por município de origem;
+
+         e. informações técnico-operacionais de manutenção, reforma, ampliação ou implantação
+              executadas nas estruturas, instalações, equipamentos, veículos e instrumentos
+              utilizados;
+
+         f.   os custos operacionais e de investimentos realizados;
+
+         g. os registros de todas as ocorrências de interrupções programadas e incidentes, contendo
+              localidade, descrição da ocorrência, motivo ou causa da ocorrência, área ou setor de
+              coleta afetado, instalações e/ou equipamentos afetados, data e horário da ocorrência,
+              data e horário da regularização dos serviços, formas de comunicação da resposta aos
+              USUÁRIOS afetados. No caso de incidentes, informar as primeiras providências, as
+              medidas adotadas para solução definitiva e as medidas mitigadoras para suprir a
+              prestação do serviço.
+
+         h. relatório completo das atividades do semestre, dos fluxos financeiros e de materiais,
+              quantitativos de resíduos e subprodutos, indicando origem e destino (internos ou
+
+
+
+                                                                                                31
+     CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                      Telefone: (34) 3822-5450
+              externos) e valores de comercialização ou objetivos da movimentação, permitindo
+              avaliar a evolução das condições técnicas e financeiras dos serviços;
+
+         i.   relatório sobre a gestão de riscos, detalhando as atividades realizadas, os resultados
+              obtidos e as eventuais alterações no PLANO DE GESTÃO DE RISCOS.
+
+
+              6.3.3.2. RELATÓRIO DE COMPOSIÇÃO GRAVIMÉTRICA DOS RESÍDUOS
+
+
+    A partir da DATA DA EMISSÃO DA ORDEM DE SERVIÇO, a CONCESSIONÁRIA deverá emitir,
+semestralmente, o RELATÓRIO DE COMPOSIÇÃO GRAVIMÉTRICA DOS RESÍDUOS.                            Os estudos
+gravimétricos são necessários para o próprio gerenciamento da CONCESSIONÁRIA que, a partir desses
+estudos, irá caracterizar e quantificar o resíduo para tomada de decisões estratégicas e adequadas,
+bem como analisar a viabilidade para uso de determinada tecnologia ou investimentos visando novas
+receitas. Além disso, o estudo gravimétrico é importante para subsidiar o PODER CONCEDENTE e a
+AGÊNCIA REGULADORA na tomada de decisões no âmbito da gestão dos outros resíduos (RCC, RSS, RI
+e outros).
+
+    O conteúdo do RELATÓRIO DE COMPOSIÇÃO GRAVIMÉTRICA DOS RESÍDUOS será definido pela
+AGÊNCIA REGULADORA, e deverá conter, no mínimo:
+
+         a. descrição do método de coleta e de análise das amostras;
+
+         b. datas de amostragem;
+
+         c. número de amostras;
+
+         d. local de amostragem;
+
+         e. apresentação da equipe técnica, detalhando a formação técnica dos profissionais e
+              indicando o responsável pela condução das atividades de coleta e análise das amostras
+              e elaboração do PLANO DE AMOSTRAGEM PARA ESTUDO GRAVIMÉTRICO;
+
+         f.   indicação da ocorrência de chuvas nas etapas de: coleta de RSD nos municípios;
+              recolhimento dos RSU nas unidades de transbordo; transporte dos resíduos até a
+              UNIDADE DE VALORIZAÇÃO DE RESÍDUOS; transporte dos resíduos até o ATERRO
+              SANITÁRIO.
+
+         g. indicação da existência de chorume junto aos RSU no momento da coleta das amostras.
+
+
+                                                                                                       32
+     CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                    Telefone: (34) 3822-5450
+         h. apresentação de registro fotográfico do local de coleta de amostras que permita a
+              visualização da estrutura de cobertura;
+
+         i.   apresentação de registro fotográfico dos equipamentos, máquinas e veículos a serem
+              utilizados para a coleta e análise das amostras, permitindo visualizar selo de calibração
+              de equipamentos e máquinas, quando pertinente;
+
+         j.   apresentação de registro fotográfico de cada etapa da gravimetria;
+
+         k. apresentação dos documentos comprobatórios da calibração das balanças utilizadas;
+
+         l.   resultados expressos em massa e em percentual de cada tipo de resíduo (inclusive
+              discriminando os percentuais dos tipos de materiais recicláveis), geração per capita de
+              resíduos sólidos urbanos (kg/hab./dia) e peso específico (kg/m³).
+
+
+              6.3.3.3. PLANO DE OPERAÇÃO DE COLETA E TRANSPORTE
+
+
+   A CONCESSIONÁRIA deverá emitir o PLANO DE OPERAÇÃO DE COLETA E TRANSPORTE à AGÊNCIA
+REGULADORA, com frequência semestral, contendo o planejamento das operações para os próximos
+seis meses, sendo que o primeiro relatório deverá considerar, para efeitos do planejamento das
+atividades, o semestre posterior à sua emissão.
+
+   A partir da Fase 3 do CONTRATO, a frequência de envio do PLANO DE OPERAÇÃO DE COLETA E
+TRANSPORTE poderá ser reduzido, conforme critério da AGÊNCIA REGULADORA, não ultrapassando o
+limite de 24 meses.
+
+   O conteúdo do PLANO DE OPERAÇÃO DE COLETA E TRANSPORTE, contemplando a coleta
+indiferenciada e a coleta seletiva de recicláveis secos e de orgânicos, será definido pela AGÊNCIA
+REGULADORA, e deverá conter, no mínimo:
+
+         a. descrição da área de abrangência dos serviços, caracterização das fontes geradoras,
+              estimativa do volume e composição dos resíduos gerados;
+
+         b. identificação de áreas críticas ou problemáticas para a execução da COLETA
+              INDIFERENCIADA e/ou seletiva;
+
+         c. descrição dos métodos de coleta, planejamento dos roteiros da COLETA
+              INDIFERENCIADA e seletiva urbana e rural, horários e frequência da coleta, veículos
+              utilizados;
+
+                                                                                                    33
+     CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                    Telefone: (34) 3822-5450
+         d. descrição da forma de acondicionamento e dos tipos de resíduos orgânicos a serem
+              coletados, especificação dos recipientes permitidos, bem como das frações aceitas e
+              rejeitadas;
+
+         e. identificação, localização e descrição do planejamento dos pontos de entrega voluntária
+              para coleta seletiva urbana e rural, bem como a descrição de frequência, veículo e
+              características da coleta dos resíduos nestes locais, e o respectivo local de destinação;
+
+         f.   descrição dos equipamentos/soluções a serem utilizadas para os serviços de coleta ponto
+              a ponto, bem como o mapeamento da localização de sua instalação;
+
+         g. descrição dos procedimentos de transporte dos resíduos coletados, informando a
+              destinação dos resíduos coletados;
+
+         h. indicação do número planejado de roteiros de COLETA INDIFERENCIADA em ÁREA
+              URBANA e em ÁREA RURAL.
+
+   A CONCESSIONÁRIA deverá adotar procedimento de revisão periódica das práticas de
+coleta seletiva de forma alinhada às atividades executadas nas UNIDADES DE TRIAGEM LOCAL,
+de modo a possibilitar um adequado desempenho operacional na recuperação de recicláveis
+em conjunto com as ORGANIZAÇÕES DE CATADORES DE MATERIAIS RECICLÁVEIS E
+REUTILIZÁVEIS.
+
+
+              6.3.3.4.   RELATÓRIO DE AUFERIÇÃO DE RECEITAS EXTRAORDINÁRIAS
+
+
+   A partir da DATA DA EMISSÃO DA ORDEM DE SERVIÇO, a CONCESSIONÁRIA deverá emitir,
+anualmente, o RELATÓRIO DE AUFERIÇÃO DE RECEITAS EXTRAORDINÁRIAS ao PODER CONCEDENTE e
+à AGÊNCIA REGULADORA, 30 (trinta) dias antes do cálculo da TARIFA-BASE REFERENCIAL REAJUSTADA,
+ainda que, durante o período correspondente, a CONCESSIONÁRIA não tenha auferido qualquer
+RECEITA EXTRAORDINÁRIA.
+
+   O relatório deverá apresentar todas as notas fiscais (ou documentos fiscais equivalentes)
+referentes a todas as RECEITAS EXTRAORDINÁRIAS auferidas pela CONCESSIONÁRIA nos 12 (doze)
+meses anteriores ao seu envio. O relatório também deverá conter planilha em formato XLSX ou CSV
+consolidando e conciliando todas as RECEITAS EXTRAORDINÁRIAS com suas respectivas notas fiscais,
+apresentando, no mínimo, o número e a data de emissão da fatura (ou documento fiscal equivalente),
+
+
+                                                                                                      34
+     CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                     Telefone: (34) 3822-5450
+seu valor, a descrição do serviço prestado, e o nome e CNPJ/CPF do tomador do serviço ou comprador
+da mercadoria.
+
+       6.3.3.5. RELATÓRIO DE MONITORAMENTO DE EMISSÕES DE GASES DO EFEITO ESTUFA
+
+       A partir da DATA DA EMISSÃO DA ORDEM DE SERVIÇO, a CONCESSIONÁRIA deverá emitir,
+anualmente, o RELATÓRIO DE MONITORAMENTO DE EMISSÕES DE GASES DO EFEITO ESTUFA ao
+PODER CONCEDENTE e à AGÊNCIA REGULADORA, contendo, no mínimo:
+
+          (i) Metodologia de quantificação da emissão de gases do efeito estufa sobre os serviços
+                da CONCESSÃO; detalhando os referenciais metodológicos, as fronteiras de relatório
+                (organizacional e operacional), assim como a classificação de emissões por escopo, e a
+                apresentação do cálculo de emissões.
+
+          (ii) Resultados da quantificação da emissão de gases do efeito estufa sobre os serviços da
+                CONCESSÃO, apresentando as emissões totais em toneladas de CO₂ equivalente
+                (tCO₂e) por escopo, o detalhamento por atividade, assim como as emissões evitadas.
+
+          (iii) Justificativas, contendo a explicação da análise de desempenho, das limitações
+                encontradas na obtenção e qualidade dos dados, assim como ações de mitigação.
+
+       6.3.3.6. RELATÓRIO DE AVALIAÇÃO DE DESEMPENHO
+
+   A CONCESSIONÁRIA deverá emitir o RELATÓRIO DE AVALIAÇÃO DE DESEMPENHO, nos termos do
+ANEXO DO CONTRATO 2 – SISTEMA DE MENSURAÇÃO DE DESEMPENHO.
+
+
+              6.3.4.   Fase 4: PLANO DE DESMOBILIZAÇÃO OPERACIONAL
+
+
+   É de responsabilidade da CONCESSIONÁRIA a elaboração e apresentação do PLANO DE
+DESMOBILIZAÇÃO OPERACIONAL, até os últimos 24 (vinte e quatro) meses anteriores ao fim do PRAZO
+DA CONCESSÃO, que deverá conter, no mínimo, os seguintes itens:
+
+         a. forma de devolução dos BENS REVERSÍVEIS;
+
+         b. inventário de todos os BENS DA CONCESSÃO;
+
+         c.    relação de garantias vigentes;
+
+         d. proposta de procedimentos de transição para a assunção da operação pelo PODER
+              CONCEDENTE (ou quem este indicar);
+
+
+                                                                                                   35
+     CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                     Telefone: (34) 3822-5450
+    e. manuais de operação e manutenção atualizados dos BENS REVERSÍVEIS, bem como de
+         garantia, licenças e softwares;
+
+    f.   treinamento da equipe do PODER CONCEDENTE (ou de quem este indicar) para operação
+         do SMRSU;
+
+    g. planejamento para encerramento dos contratos vigentes até o término da CONCESSÃO.
+
+
+
+
+                                                                                           36
+CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                Telefone: (34) 3822-5450
+7. INSTALAÇÕES DE APOIO OPERACIONAL E ADMINISTRATIVAS
+
+    A CONCESSIONÁRIA deverá implantar unidades administrativas, operacionais e instalações de
+apoio, em locais a serem por ela definidos, conforme cronograma apresentado no item 12 e observar,
+no mínimo, as seguintes condições:
+
+         a. todas as edificações devem ser implantadas com padrão de acabamento industrial e
+              deverão atender as normas NBR 16.868 para construções em alvenaria estrutural, e NBR
+              16.775 no caso de projetos e montagens em estruturas metálicas; e
+
+         b. as unidades das instalações da CONCESSIONÁRIA, tanto a de apoio e administrativo
+              quanto as de operação, deverão atender às Normas Regulamentadoras NR-18 e NR-24,
+              alterações posteriores e demais normas técnicas que a substituírem, no tocante ao
+              dimensionamento, conforto ambiental, método construtivo e infraestrutura, bem como
+              ao atendimento dos dados específicos e demais documentos.
+
+    A CONCESSIONÁRIA deverá realizar todas as manutenções necessárias nas instalações de apoio
+operacional e de apoio administrativo operadas por ela, que sejam por ela implantadas ou as que
+forem cedidas pelo PODER CONCEDENTE, para que mantenham sua funcionalidade, apresentem
+adequada condição de limpeza e apresentação, bem como tenham padrões de segurança patrimonial
+condizentes com o tipo de serviço desenvolvido, conforme estabelecido no PLANO DE MANUTENÇÕES.
+
+    A limpeza e a descontaminação dos veículos e equipamentos utilizados no SMRSU deverão ser
+realizadas em local(is) e sistema(s) previamente autorizados pelo órgão de controle ambiental
+competente.
+
+    A CONCESSIONÁRIA deverá providenciar pontos de apoio em locais estratégicos, considerando
+suas rotas de trabalho, para a satisfação de necessidades fisiológicas e a tomada de refeições para os
+trabalhadores que realizam atividades externas, em atendimento ao disposto nos itens 38.3.2 e 38.3.3
+da NR-38.
+
+
+
+
+                                                                                                   37
+     CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                     Telefone: (34) 3822-5450
+8. SERVIÇO DE COLETA E TRANSPORTE
+
+    A CONCESSIONÁRIA deverá apresentar o planejamento para a coleta e transporte de RESÍDUOS ao
+PODER CONCEDENTE e à AGÊNCIA REGULADORA, semestralmente, por meio do PLANO DE OPERAÇÃO
+DE COLETA E TRANSPORTE.
+
+    A CONCESSIONÁRIA deverá adquirir veículos, máquinas e equipamentos novos para início da
+prestação do SMRSU, sendo que:
+
+         a. A CONCESSIONÁRIA deverá promover a renovação, por veículos novos, de toda a frota
+              de veículo de coleta de RSU a cada período máximo de 96 (noventa e seis) meses;
+
+         b. A CONCESSIONÁRIA deverá promover a renovação, por veículos novos, da frota de
+              veículos de maior capacidade, utilizada no transporte de longas distâncias (até o
+              transbordo, UNIDADE DE VALORIZAÇÃO DE RESÍDUOS ou ATERRO SANITÁRIO), bem
+              como das máquinas pesadas, a cada período máximo de 120 (cento e vinte) meses.
+
+    Todos os veículos, máquinas e equipamentos deverão ser mantidos em perfeitas condições
+operacionais, de manutenção e conservação. A CONCESSIONÁRIA deverá manter e conservar todos os
+equipamentos, máquinas e veículos, conforme estabelecido no PLANO DE MANUTENÇÕES.
+
+    Os serviços de coleta e transporte de RESÍDUOS deverão seguir a norma ABNT NBR 13.221/2010 e
+a NR-38; ou outra que vier a substituí-las.
+
+    A CONCESSIONÁRIA deve se assegurar de que não ocorra vazamento ou derramamento de
+resíduos durante a coleta e transporte. Além disso, os resíduos devem estar protegidos de intempéries
+durante a coleta e o transporte e devem estar devidamente acondicionados nos veículos.
+
+    O transporte de resíduos deve, ainda, ser acompanhado de documento de controle ambiental
+previsto pelo órgão competente, sendo necessário identificar o tipo de acondicionamento utilizado.
+
+    As frotas de veículos destinadas à coleta e ao transporte deverão se apresentar com programação
+visual própria, que atenda às informações mínimas previstas nos normativos da AGÊNCIA
+REGULADORA, e aprovada pelo PODER CONCEDENTE durante a Fase 1 da CONCESSÃO. Da mesma
+forma, os colaboradores deverão se apresentar com uniforme e EPI em todas as atividades previstas
+no CONTRATO, conforme programação visual aprovada pelo PODER CONCEDENTE.
+
+
+
+
+                                                                                                  38
+     CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                     Telefone: (34) 3822-5450
+    A CONCESSIONÁRIA deverá disponibilizar os recursos necessários e compatíveis para a prestação
+dos serviços de coleta noturno e diurno, conforme diretrizes apresentadas no PLANO DE OPERAÇÃO
+DE COLETA E TRANSPORTE.
+
+    Os caminhões destinados à coleta e ao transporte de RSU deverão ser providos, ainda, de sistema
+de comunicação por rádio transceptor ou celular, com base fixa nas instalações operacionais da
+CONCESSIONÁRIA, conectado através de rádios móveis com a fiscalização. Deverão ser providos de
+sistema de rastreamento em tempo real e que armazena o histórico de deslocamento em base de
+dados, que deverão ser auditáveis e conter ferramentas que impeçam o manuseio indevido das
+informações armazenadas. Os veículos deverão ser dotados de acessórios de segurança e proteção
+coletivos, caracterizados, no mínimo, pelos itens contidos no item 38.5.3 da NR-38.
+
+
+             8.1.      COLETA INDIFERENCIADA
+
+    O planejamento das atividades afetas à COLETA INDIFERENCIADA de RSD deve considerar as
+características específicas da área de abrangência da CONCESSÃO, tais como concentração
+demográfica, topografia, tipo de pavimento, características do sistema viário e intensidade do tráfego.
+
+    A CONCESSIONÁRIA deverá ofertar os serviços de COLETA INDIFERENCIADA de RSD em 100% das
+ÁREAS URBANAS, com frequência mínima de 3 vezes por semana, conforme as diretrizes do Plansab
+(2019), para os MUNICÍPIOS que aderirem ao serviço de coleta de RSD, conforme CONTRATO.
+
+    A CONCESSIONÁRIA deverá ofertar os serviços de COLETA porta a porta ou ponto a ponto de RSU
+em 100% das ÁREAS RURAIS, com frequência mínima de 2 vezes por semana, de modo a garantir os
+meios adequados para o atendimento da população rural, por meio da utilização de soluções
+compatíveis com as suas características peculiares, para os MUNICÍPIOS que aderirem ao serviço de
+coleta de RSD, conforme CONTRATO.
+
+
+             8.2.      Coleta Seletiva
+
+             8.2.1.    COLETA SELETIVA DE RECICLÁVEIS SECOS
+
+
+    Durante toda a Fase 2, a CONCESSIONÁRIA deverá ofertar os serviços de COLETA SELETIVA DE
+RECICLÁVEIS SECOS, no mínimo, porta a porta e/ou ponto a ponto em 100% das ÁREAS URBANAS e
+ÁREAS RURAIS de Coromandel e de Rio Paranaíba. A frequência mínima de coleta é de 1 (uma) vez por
+semana.
+
+                                                                                                    39
+     CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                    Telefone: (34) 3822-5450
+    Iniciando no primeiro mês da Fase 3, a CONCESSIONÁRIA deverá prestar a COLETA SELETIVA DE
+RECICLÁVEIS SECOS nos demais MUNICÍPIOS, com exceção de Presidente Olegário, até o término do
+PRAZO DA CONCESSÃO. A frequência mínima de coleta é de 1 (uma) vez por semana.
+
+    A CONCESSIONÁRIA deverá encaminhar os RESÍDUOS SÓLIDOS DOMICILIARES da COLETA SELETIVA
+DE RECICLÁVEIS SECOS, obrigatoriamente, à UNIDADE DE TRIAGEM LOCAL, sempre que comunicado
+pelo PODER CONCEDENTE, conforme procedimentos previstos no item 6.2. Na hipótese de se
+formarem novas ORGANIZAÇÕES DE CATADORES DE MATERIAIS RECICLÁVEIS E/OU REUTILIZÁVEIS nos
+MUNICÍPIOS atendidos por serviços de coleta seletiva de recicláveis secos pela CONCESSIONÁRIA,
+caberá à CONCESSIONÁRIA encaminhar os resíduos oriundos da COLETA SELETIVA DE RECICLÁVEIS
+SECOS para as respectivas UNIDADES DE TRIAGEM LOCAIS conforme solicitação do PODER
+CONCEDENTE, bem como recolher os resíduos excedentes e transportá-los para tratamento e
+destinação final ambientalmente adequada em conformidade com a solução técnica adotada na
+CONCESSÃO.
+
+    A CONCESSIONÁRIA deverá coletar os resíduos não aproveitados nas UTR, nos dias e horários
+definidos pelo PODER CONCEDENTE, e dar prosseguimento à rota tecnológica para tratamento e
+destinação final. O que exceder a capacidade de processamento dos resíduos recicláveis pelas
+ORGANIZAÇÕES DE CATADORES DE MATERIAIS REUTILIZÁVEIS E RECICLÁVEIS poderá ser
+comercializado pela CONCESSIONÁRIA. Caso o MUNICÍPIO não possua UNIDADE DE TRIAGEM LOCAL,
+a CONCESSIONÁRIA poderá encaminhar os resíduos da COLETA SELETIVA DE RECICLÁVEIS SECOS
+diretamente para a UNIDADE DE VALORIZAÇÃO DE RESÍDUOS.
+
+    A CONCESSIONÁRIA deverá disponibilizar os recursos necessários e compatíveis para a prestação
+dos serviços de COLETA SELETIVA DE RECICLÁVEIS SECOS diurna e noturna, conforme diretrizes
+apresentadas no PLANO DE OPERAÇÃO DE COLETA E TRANSPORTE.
+
+    A CONCESSIONÁRIA deverá dispor de frota específica para a COLETA SELETIVA DE RECICLÁVEIS
+SECOS, sendo vedado o uso de veículo compactador para este fim.
+
+    A CONCESSIONÁRIA deverá implantar Pontos de Entrega Voluntária (PEV) nas ÁREAS RURAIS ou
+outras que julgar pertinente, constituídos por, no mínimo, 2 (dois) contêineres de PEAD de 1.000 litros
+em cada PEV, contendo a identificação da tipologia dos resíduos a serem postos em cada contêiner.
+Sempre que aplicável, deverá ser adotado na identificação de coletores e transportadores o código de
+cores para os diferentes tipos de resíduos, estabelecido na Resolução CONAMA n° 275/2001. O PEV
+
+
+
+                                                                                                    40
+     CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                    Telefone: (34) 3822-5450
+deverá possuir sinalização adequada, incluindo minimamente a identificação do local, no acesso, e
+aviso informando sobre o limite de recebimento de resíduos e as características dos resíduos que
+poderão ser dispostos em cada contêiner.
+
+   A CONCESSIONÁRIA deverá estimar a frequência adequada de coleta dos resíduos no PEV de modo
+a evitar que o PEV tenha sua capacidade de recebimento extrapolada e que resíduos fiquem expostos
+à céu aberto.
+
+   A atuação da CONCESSIONÁRIA em relação à COLETA SELETIVA DE RECICLÁVEIS SECOS se efetivará:
+
+          a. na implantação da coleta do tipo porta a porta e/ou ponto a ponto nas ÁREAS URBANAS;
+
+          b. na implantação da coleta do tipo porta a porta e/ou ponto a ponto nas ÁREAS RURAIS,
+                sendo esta última por meio dos Pontos de Entrega Voluntária (PEVs) e na manutenção
+                e reposição dos PEVs, caso necessário.
+
+          c. no encaminhamento dos resíduos oriundos da COLETA SELETIVA DE RECICLÁVEIS SECOS
+                às UNIDADES DE TRIAGEM LOCAL indicadas pelo PODER CONCEDENTE, sempre que
+                atendidas as condições estabelecidas neste CADERNO DE ENCARGOS DA
+                CONCESSIONÁRIA;
+
+          d. na elaboração e execução do PLANO DE INCLUSÃO DE ORGANIZAÇÕES DE CATADORES
+                NA CONCESSÃO, conforme ANEXO DO CONTRATO 3 – DIRETRIZES BÁSICAS PARA A
+                INCUSÃO SOCIAL E EMANCIPAÇÃO ECONÔMICA DE CATADORES DE MATERIAIS
+                REUTILIZÁVEIS E RECICLÁVEIS NA CONCESSÃO; e
+
+          e. na elaboração e execução de PROGRAMA DE EDUCAÇÃO AMBIENTAL.
+
+   A coleta seletiva, por se tratar de serviço que depende fortemente de apoio da população na
+segregação dos RSD nas residências e estabelecimentos comerciais, deverá ser acompanhada por
+PROGRAMA DE EDUCAÇÃO AMBIENTAL perene para estímulo e apoio para a realização do serviço,
+conforme apêndice A deste CADERNO DE ENCARGOS DA CONCESSIONÁRIA.
+
+   Além da implantação e expansão da COLETA SELETIVA DE RECICLÁVEIS SECOS e recuperação dos
+resíduos potencialmente recicláveis, a CONCESSIONÁRIA deverá considerar a implantação de novas
+tecnologias capazes de promover a segregação dos resíduos de forma mais eficiente, e assim,
+minimizar a quantidade de REJEITOS destinados ao ATERRO SANITÁRIO.
+
+
+
+
+                                                                                                41
+     CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                     Telefone: (34) 3822-5450
+   A CONCESSIONÁRIA deverá adotar procedimento de revisão periódica das práticas de COLETA
+SELETIVA DE RECICLÁVEIS SECOS de forma alinhada às atividades executadas nas UTR, de modo a
+possibilitar um adequado desempenho operacional na recuperação de recicláveis, apoiando a inserção
+social de CATADORES DE MATERIAIS REUTILIZÁVEIS E RECICLÁVEIS e de forma alinhada ao ANEXO DO
+CONTRATO 3 – DIRETRIZES BÁSICAS PARA A INCLUSÃO SOCIAL E EMANCIPAÇÃO ECONÔMICA DE
+CATADORES DE MATERIAIS REUTILIZÁVEIS E RECICLÁVEIS NA CONCESSÃO.
+
+
+            8.2.1.    COLETA SELETIVA DE ORGÂNICOS
+
+
+   A partir do 85º (octogésimo quinto) mês após a emissão da ORDEM DE SERVIÇO, a
+CONCESSIONÁRIA deverá atualizar o PLANO DE OPERAÇÃO DE COLETA E TRANSPORTE, acrescentando
+proposta para a COLETA SELETIVA DE ORGÂNICOS, que deverá ser submetida para aprovação do
+PODER CONCEDENTE e da AGÊNCIA REGULADORA. Durante a elaboração da proposta, com exceção
+do MUNICÍPIO de Presidente Olegário, que não concedeu a coleta, a CONCESSIONÁRIA deverá
+considerar, pelo menos, 1 (um) roteiro com modelo porta a porta na ÁREA URBANA de cada
+MUNICÍPIO, com frequência mínima de 2 (duas) vezes por semana.
+
+   A CONCESSIONÁRIA deverá iniciar a operação da COLETA SELETIVA DE ORGÂNICOS a partir do 85º
+(octogésimo quinto) mês após a DATA DA EMISSÃO DA ORDEM DE SERVIÇO conforme o estabelecido
+no PLANO DE OPERAÇÃO DE COLETA E TRANSPORTE aprovado pelo PODER CONCEDENTE e pela
+AGÊNCIA REGULADORA.
+
+   Os veículos da COLETA SELETIVA DE ORGÂNICOS deverão possuir identificação visual distinta dos
+veículos da COLETA INDIFERENCIADA e da COLETA SELETIVA DE RECICLÁVEIS SECOS.
+
+   A CONCESSIONÁRIA deverá considerar a COLETA SELETIVA DE ORGÂNICOS na elaboração e
+execução de PROGRAMA DE EDUCAÇÃO AMBIENTAL. Para USUÁRIOS localizados em ÁREAS RURAIS, a
+CONCESSIONÁRIA deverá incluir ações de capacitação voltadas para o aproveitamento de orgânicos e
+compostagem doméstica no PROGRAMA DE EDUCAÇÃO AMBIENTAL.
+
+   A COLETA SELETIVA DE ORGÂNICOS, por se tratar de serviço que depende fortemente do apoio da
+população na segregação dos RESÍDUOS SÓLIDOS DOMICILIARES nas residências e estabelecimentos
+comerciais, deverá ser acompanhada por PROGRAMA DE EDUCAÇÃO AMBIENTAL perene para
+estímulo e apoio para a realização do serviço, conforme apêndice A deste CADERNO DE ENCARGOS DA
+CONCESSIONÁRIA.
+
+
+                                                                                                42
+     CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                    Telefone: (34) 3822-5450
+   A CONCESSIONÁRIA deverá adotar procedimento de revisão periódica das práticas de COLETA
+SELETIVA DE ORGÂNICOS.
+
+
+
+
+                                                                                               43
+    CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                   Telefone: (34) 3822-5450
+9. ESTAÇÃO DE TRANSBORDO
+
+   A CONCESSIONÁRIA poderá propor a adoção de sistemas de armazenamento temporário, visando
+à otimização do transporte de RSU, sendo:
+
+       a. ESTAÇÃO DE TRANSBORDO opcional para os RSD dos MUNICÍPIOS que concederem o
+           serviço de coleta de RSD, conforme CONTRATO;
+
+       b. ESTAÇÃO DE TRANSBORDO obrigatória para RSD dos MUNICÍPIOS que não concederem o
+           serviço de coleta de RSD, conforme CONTRATO, salvo situação em que a distância de
+           transporte seja menor ou igual a 50 km entre a unidade de destino do RSD e o respectivo
+           centro geográfico da sede municipal, desde que acordado entre CONCESSIONÁRIA e o
+           MUNICÍPIO, por intermédio do PODER CONCEDENTE;
+
+       c. ESTAÇÃO DE TRANSBORDO obrigatória para RPU dos MUNICÍPIOS, salvo situação em que
+           a distância de transporte seja menor ou igual a 50 km entre a unidade de destino do RPU
+           e o respectivo centro geográfico da sede municipal, desde que acordado entre
+           CONCESSIONÁRIA e MUNICÍPIO, por intermédio do PODER CONCEDENTE.
+
+   No caso de implantação de ESTAÇÕES DE TRANSBORDO, a CONCESSIONÁRIA deverá:
+
+       a. Construir a(s) ESTAÇÃO(ÕES) DE TRANSBORDO nos MUNICÍPIOS escolhidos por ela,
+           observadas as regras municipais existentes (plano diretor e uso e ocupação do solo) e
+           legislação ambiental vigente para a escolha do local. A CONCESSIONÁRIA será responsável
+           por todo o processo de licenciamento ambiental do(s) empreendimento(s) junto ao órgão
+           ambiental competente;
+
+       b. Construir ESTAÇÃO DE TRANSBORDO para os MUNICÍPIOS que não concederem a coleta,
+           respeitando o percurso máximo de 50 km (cinquenta quilômetros) de distância do centro
+           geográfico da sede municipal, pelo veículo. A distância máxima informada poderá ser
+           ampliada, desde que previamente acordado com o respectivo MUNICÍPIO interessado e
+           com o PODER CONCEDENTE.
+
+   A ESTAÇÃO DE TRANSBORDO deverá possuir, no mínimo:
+
+       a. Isolamento físico de todo o perímetro da área de TRANSBORDO, de modo a evitar a
+           entrada de pessoas não autorizadas e animais;
+
+
+
+
+                                                                                                44
+     CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                    Telefone: (34) 3822-5450
+          b. guarita com sistema de controle de acesso de veículos, conforme especificado neste
+                 CADERNO DE ENCARGOS DA CONCESSIONÁRIA;
+
+          c. instalações de apoio contendo, no mínimo, banheiro e bebedouro;
+
+          d. área de armazenamento coberta, de modo a impedir a incidência de águas pluviais nos
+                 resíduos e o contato de animais com os resíduos;
+
+          e. sistemas de impermeabilização e drenagem de lixiviado, e a respectiva condução para
+                 sistema de recepção e armazenamento para posterior encaminhamento para tratamento
+                 ou sistema de tratamento de efluentes, de modo a impedir a contaminação do solo e das
+                 coleções hídricas;
+
+          f.     sistema de pesagem de resíduos, conforme especificado neste CADERNO DE ENCARGOS
+                 DA CONCESSIONÁRIA;
+
+          g. desnível no terreno que garanta a transferência adequada e integral dos resíduos da
+                 COLETA INDIFERENCIADA, seletiva e RPU através de báscula pelo caminhão coletor para
+                 contêiner da ESTAÇÃO DE TRANSBORDO. Outra forma de transferência de resíduos poderá
+                 ser adotada desde que não envolva descarregamento de resíduos diretamente no solo ou
+                 terreno impermeabilizado.
+
+          h. quantidade de contêineres compatíveis com os volumes de RSD e RPU recebidos na
+                 ESTAÇÃO DE TRANSBORDO, de modo a garantir o armazenamento separado dos resíduos
+                 de: (a) COLETA INDIFERENCIADA, (b) COLETA SELETIVA DE RECICLÁVEIS SECOS e REJEITOS
+                 das UNIDADES DE TRIAGEM LOCAL, (c) RPU e (d) RESÍDUO VERDE oriundo do RPU, caso
+                 seja entregue de forma segregada pelo município. Todos os contêineres devem ser
+                 identificados e seus conteúdos não podem ser misturados.
+
+          i.     cercamento ou outro mecanismo de controle de dispersão dos resíduos, devido à ação dos
+                 ventos.
+
+   Em relação à operação e manutenção das ESTAÇÕES DE TRANSBORDO, a CONCESSIONÁRIA
+deverá:
+
+               a. providenciar as estruturas, equipamentos e funcionários próprios para a transferência
+                  dos RSD dos veículos coletores para a ESTAÇÃO DE TRANSBORDO ou quaisquer
+
+
+
+
+                                                                                                    45
+     CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                        Telefone: (34) 3822-5450
+         estruturas destinadas a esta finalidade, sempre fazendo uso de equipamentos em
+         situação regular em relação à sua conservação e identificação;
+
+    b. realizar separadamente o armazenamento e o transporte dos resíduos oriundos da: (a)
+         COLETA INDIFERENCIADA, (b) COLETA SELETIVA DE RECICLÁVEIS SECOS e REJEITOS das
+         UNIDADES DE TRIAGEM LOCAL, (c) RPU e (d) RESÍDUO VERDE oriundo do RPU, caso sejam
+         entregues de forma segregada pelo município;
+
+    c. garantir que as estruturas e equipamentos possuam capacidade adequada para a qual
+         foram projetadas;
+
+    d. realizar a pesagem de maneira segregada dos resíduos da COLETA INDIFERENCIADA, dos
+         resíduos da COLETA SELETIVA DE RECICLÁVEIS SECOS, dos REJEITOS das UNIDADES DE
+         TRIAGEM LOCAL e dos RPU, pesando separadamente o RESÍDUO VERDE oriundo do RPU,
+         caso ele seja entregue de forma segregada pelo município;
+
+    e. receber e processar os RSU de acordo com as normas e princípios ambientais aplicáveis,
+         sempre com a preocupação em preservar o meio ambiente, através de equipamentos
+         adequados e com intenso controle do lixiviado e de quaisquer poluentes que possam ser
+         gerados;
+
+    f.   receber o RPU dos MUNICÍPIOS, e emitir devido comprovante ao responsável, após
+         pesagem do resíduo;
+
+    g. Receber, de forma gratuita, o RESÍDUO VERDE segregado oriundo do RPU, caso ele seja
+         entregue dessa forma pelo município;
+
+    h. utilizar e manter as áreas de acondicionamento da(s) ESTAÇÃO(ÕES) DE TRANSBORDO,
+         segundo os melhores padrões de segurança e preservação ambiental, sempre de acordo
+         com as disposições normativas aplicáveis;
+
+    i.   monitorar o armazenamento dos RESÍDUOS SÓLIDOS URBANOS na(s) ESTAÇÃO(ÕES) DE
+         TRANSBORDO, de modo a evitar proliferação de vetores e impedir o vazamento de
+         lixiviado, evitando quaisquer outras formas de agressão ao meio ambiente. A
+         CONCESSIONÁRIA deverá primar, sempre, pelo menor tempo de armazenagem dos
+         RESÍDUOS SÓLIDOS URBANOS na(s) ESTAÇÃO(ÕES) DE TRANSBORDO, atendendo ao que
+         for determinado no licenciamento ambiental;
+
+
+
+                                                                                           46
+CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                               Telefone: (34) 3822-5450
+    j.   implementar medidas de segurança permanentes, de forma a evitar a presença de
+         pessoas não autorizadas e animais na(s) ESTAÇÃO(ÕES) DE TRANSBORDO;
+
+    k. garantir que os resíduos não sejam diretamente descarregados sobre terreno natural ou
+         não impermeabilizado.
+
+
+
+
+                                                                                           47
+CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                               Telefone: (34) 3822-5450
+10. UNIDADE DE VALORIZAÇÃO DE RESÍDUOS (UVR)
+
+   A CONCESSIONÁRIA deverá implantar e operar, no mínimo, uma UNIDADE DE VALORIZAÇÃO DE
+RESÍDUOS (UVR), em MUNICÍPIO da CONCESSÃO, sendo obrigatório que inclua pelo menos módulos
+tecnológicos, integrados ou não, de triagem automatizada e/ou manual e de tratamento de resíduos
+orgânicos, visando ao atendimento da hierarquia da gestão dos resíduos prevista na PNRS em seu
+artigo 9° — não geração, redução, reutilização, reciclagem, tratamento dos resíduos sólidos e
+disposição final ambientalmente adequada dos REJEITOS—, às premissas da PNRS de diminuição
+gradativa da disposição final de resíduos em ATERRO SANITÁRIO e da emissão de gases de efeito estufa
+(GEE), além dos INDICADORES DE DESEMPENHO.
+
+   A implantação deverá observar as seguintes diretrizes:
+
+   (i)     a UNIDADE DE VALORIZAÇÃO DE RESÍDUOS precisa, necessariamente, ser implantada em
+           um dos 9 MUNICÍPIOS da concessão;
+
+   (ii)    Caso a concessionária opte por implantar unidades específicas para tratar de forma
+           diferenciada os diversos componentes dos RSU, estas unidades não precisam,
+           necessariamente, ser implantadas no mesmo MUNICÍPIO ou imóvel;
+
+   (iii)   A UNIDADE DE VALORIZAÇÃO DE RESÍDUOS deverá ser implantada em área diversa
+           daquela destinada ao ATERRO SANITÁRIO, com matrículas imobiliárias distintas, pois a
+           UVR será reversível ao final da concessão. Desta forma fica vedada a utilização de um
+           mesmo terreno ou matrícula para as duas unidades de tratamento e disposição final de
+           resíduos, ainda que não haja restrição quanto ao uso de terrenos contíguos.
+
+   A CONCESSIONÁRIA deverá observar o disposto na norma ABNT NBR 16.849/2020 – Resíduos
+Sólidos Urbanos para Fins Energéticos – Requisitos e na Portaria Interministerial n° 274/2019. Se
+adotado sistema de tratamento térmico de resíduos, deverá observar os procedimentos e critérios
+dispostos na Resolução CONAMA N° 316/2002, ou outro que venha a substitui-la. É vedado o uso da
+tecnologia de incineração para destinação de RSU, conforme determinado pelo Decreto Estadual nº
+48.107/2020.
+
+   As instalações da UNIDADE DE VALORIZAÇÃO DE RESÍDUOS deverão ser projetadas, equipadas,
+construídas e operadas de modo que atendam à legislação ambiental pertinente.
+
+   A CONCESSIONÁRIA será responsável por todo o processo de obtenção de licenças e autorizações
+do(s) empreendimento(s) junto ao órgão ambiental competente.
+
+                                                                                                 48
+     CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                    Telefone: (34) 3822-5450
+    A CONCESSIONÁRIA deverá providenciar todas as condições para o correto funcionamento dos
+serviços operacionais da UNIDADE DE VALORIZAÇÃO DE RESÍDUOS.
+
+    É obrigatória a triagem separada dos resíduos da COLETA SELETIVA DE RECICLÁVEIS SECOS e dos
+resíduos da COLETA INDIFERENCIADA, de modo a garantir maior volume de materiais a serem
+destinados à reciclagem. Caso o município entregue o RESÍDUO VERDE oriundo do RPU de forma
+segregada, a concessionária deverá prestar, de forma gratuita, o serviço de triagem e tratamento desse
+RESÍDUO VERDE.
+
+    A CONCESSIONÁRIA deverá executar a pesagem de todo o RSU encaminhado à(s) UNIDADE(S) DE
+VALORIZAÇÃO DE RESÍDUOS diariamente, e deverá manter os registros em base de dados auditável.
+
+    A CONCESSIONÁRIA deverá tomar as medidas e providências necessárias para propiciar que o
+ambiente da UNIDADE DE VALORIZAÇÃO DE RESÍDUOS e de seu entorno seja seguro, sempre
+cooperando com os poderes públicos nas atividades sob sua responsabilidade.
+
+
+
+
+                                                                                                   49
+     CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                    Telefone: (34) 3822-5450
+11. DISPOSIÇÃO FINAL AMBIENTALMENTE ADEQUADA DE RESÍDUOS SÓLIDOS URBANOS
+
+    É vedado à CONCESSIONÁRIA o descarte irregular de qualquer RESÍDUO SÓLIDO URBANO.
+
+    Para a DISPOSIÇÃO FINAL de resíduos sólidos urbanos, nos primeiros 48 (quarenta e oito) meses
+após a emissão da ORDEM DE SERVIÇO, a CONCESSIONÁRIA deverá utilizar ATERRO SANITÁRIO
+existente devidamente regularizado e licenciado. Após esse prazo a CONCESSIONÁRIA deverá ter
+implantado e operar novo ATERRO SANITÁRIO.
+
+    A CONCESSIONÁRIA deverá executar pesagem de todo o RSU encaminhado ao ATERRO SANITÁRIO,
+diariamente, e deverá manter os registros em base de dados auditável.
+
+    Nos 48 (quarenta e oito) meses iniciais da concessão devem ser utilizados os aterros sanitários
+licenciados da região.
+
+    Caberá à CONCESSIONÁRIA a construção e operação de novo ATERRO SANITÁRIO. A
+CONCESSIONÁRIA será responsável por todo o processo de licenciamento ambiental do
+empreendimento junto ao órgão ambiental competente.
+
+
+             11.1.       Diretrizes para a Implantação de Novo ATERRO SANITÁRIO
+
+    No prazo de 12 (doze) meses da emissão da ORDEM DE SERVIÇO a CONCESSIONÁRIA deverá ter
+identificado área para implantação do novo ATERRO SANITÁRIO, observadas as regras de uso e
+ocupação do solo do MUNCÍPIO e a legislação ambiental vigente, e submeter ao PODER CONCEDENTE
+para aprovação.
+
+    Caberá à CONCESSIONÁRIA a construção e operação de novo ATERRO SANITÁRIO. A
+CONCESSIONÁRIA será responsável por todo o processo de licenciamento ambiental do
+empreendimento junto ao órgão ambiental competente.
+
+    A CONCESSIONÁRIA será responsável pela realização das obras e assumirá todos os custos e
+despesas envolvidas, inclusive na aquisição da área necessária para a construção e implantação de
+novo ATERRO SANITÁRIO, e será responsável pela operação, manutenção e conservação,
+monitoramento e obtenções de todas as licenças ambientais e cumprimentos de suas condicionantes,
+encerramento e monitoramento pós-encerramento pelo prazo estipulado na ABNT NBR 13896, dentro
+dos termos deste CONTRATO, devendo ser observadas condições constantes do CADERNO DE
+ENCARGOS DA CONCESSIONÁRIA.
+
+
+
+                                                                                                50
+     CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                     Telefone: (34) 3822-5450
+    A CONCESSIONÁRIA deverá elaborar os estudos, o cronograma de execução, análises e projetos
+do ATERRO SANITÁRIO a ser construído, bem como disponibilizar informações sobre a área escolhida
+para a implantação do ATERRO SANITÁRIO, devendo os projetos serem certificados por ORGANISMO
+DE INSPEÇÃO ACREDITADA e apresentados ao PODER CONCEDENTE e à AGÊNCIA REGULADORA, em
+conformidade com os prazos estabelecidos.
+
+    O novo ATERRO SANITÁRIO deverá seguir um PLANO DE MANUTENÇÕES que contemple, pelo
+menos, as seguintes estruturas: controle de pesagem dos RSU; sistema de drenagem superficial;
+sistema de drenagem e tratamento do lixiviado; sistema de tratamento de efluentes; sistema de
+captura e tratamento de gases; equipamentos de medição de recalques, dos caimentos, dos taludes e
+das bermas; cobertura vegetal sobre células de resíduos; sistema de monitoramento ambiental e
+geotécnico; vias internas, isolamento físico e portões; instalações administrativas e operacionais.
+
+    O projeto do novo ATERRO SANITÁRIO deverá atender às diretrizes da norma brasileira NBR-8419
+- Apresentação de projetos de aterros sanitários de resíduos sólidos urbanos e normas técnicas e
+legislação ambiental em vigência e as diretrizes da Deliberação Normativa COPAM nº 244/2022.
+
+    A contratação de ORGANISMO DE INSPEÇÃO ACREDITADA é de responsabilidade exclusiva da
+CONCESSIONÁRIA e a aprovação dos estudos, análises e projetos por aquele não exime ou diminui a
+responsabilidade integral e exclusiva da CONCESSIONÁRIA pela adequação e conformidade dos
+projetos e das obras.
+
+    A fiscalização da prestação do serviço de DISPOSIÇÃO FINAL em ATERRO SANITÁRIO será realizada
+pela AGÊNCIA REGULADORA, sendo-lhe asseguradas todas as prerrogativas previstas na legislação
+aplicável e neste CONTRATO.
+
+    A CONCESSIONÁRIA será responsável pelo passivo ambiental referente ao ATERRO SANITÁRIO que
+vier a construir. Após o término do CONTRATO, o novo ATERRO SANITÁRIO não reverterá ao PODER
+CONCEDENTE, por não se tratar de BEM REVERSÍVEL.
+
+    Apresentam-se, a seguir, diretrizes e ações a serem adotadas pela CONCESSIONÁRIA nas OBRAS
+DE IMPLANTAÇÃO E OPERAÇÃO do novo ATERRO SANITÁRIO.
+
+
+
+
+                                                                                                      51
+     CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                    Telefone: (34) 3822-5450
+            11.1.1.   Área de implantação
+
+
+   Para escolha da área de implantação do novo ATERRO SANITÁRIO, a CONCESSIONÁRIA deverá
+observar o disposto na legislação federal e estadual, nas normas técnicas ambientais e na legislação
+municipal de zoneamento urbano do município que abrigará o novo ATERRO SANITÁRIO.
+
+   A CONCESSIONÁRIA deverá apresentar ao PODER CONCEDENTE e à AGÊNCIA REGULADORA todos
+os documentos que comprovem a titularidade, disponibilidade e registro do terreno onde será
+instalado o novo ATERRO SANITÁRIO, bem como as licenças prévia, de instalação e de operação (LP, LI
+e LO) expedidas pelo órgão ambiental pertinente.
+
+   Toda e qualquer licença e autorização necessária para a OBRA DE IMPLANTAÇÃO do novo ATERRO
+SANITÁRIO será de exclusiva responsabilidade da CONCESSIONÁRIA, a qual deverá atender a toda e
+qualquer exigência que seja efetuada pelos órgãos ambientais e de controle.
+
+    Na inviabilidade de construção do aterro sanitário em algum MUNICÍPIO da concessão (não
+atendimento aos critérios locacionais e impossibilidade de licenciamento ambiental), a concessionária
+poderá construir o aterro sanitário em município fora da concessão, desde que aprovado pelo PODER
+CONCEDENTE e pela AGÊNCIA REGULADORA.
+
+
+            11.1.2.   Infraestrutura do novo ATERRO SANITÁRIO
+
+
+   A infraestrutura local do novo ATERRO SANITÁRIO deverá contar com abastecimento de água;
+energia elétrica e disponibilidade de sistema de comunicação. O local também deverá possuir sistema
+de coleta e tratamento dos efluentes gerados.
+
+
+            11.1.3.   Capacidade Nominal
+
+
+   A disposição final em novo ATERRO SANITÁRIO a ser implantado e operado pela CONCESSIONÁRIA
+deverá ter capacidade para receber os REJEITOS resultantes dos RSU gerados nos MUNICÍPIOS, após
+triagem e tratamento, durante o PRAZO DA CONCESSÃO.
+
+
+
+
+                                                                                                  52
+     CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                    Telefone: (34) 3822-5450
+            11.1.4.      Sistemas Previstos
+
+
+   A CONCESSIONÁRIA deverá assegurar o confinamento dos resíduos sólidos urbanos depositados e
+cobertura diária com material adequado, minimizando a proliferação de vetores e os focos de atração
+de aves e pássaros.
+
+As OBRAS DE IMPLANTAÇÃO E OPERAÇÃO do novo ATERRO SANITÁRIO deverão incluir a execução da
+regularização de base; impermeabilização da área; implantação de sistema de drenagem e tratamento
+de lixiviados e gases; implantação de sistema de drenagem pluvial superficial; cobertura final dos
+resíduos; equipamentos de medição de recalques, dos caimentos, dos taludes e das bermas;
+implantação de sistema de monitoramento ambiental e geotécnico; plantio de mudas para a
+revegetação do entorno; implantação de vias de acesso; isolamento da área e portões de acesso;
+controle de pesagem dos RSU; entre outros, com adequação à legislação, às normas ambientais, às
+normas técnicas e com adoção das boas práticas de engenharia.
+
+
+            11.1.5.      Monitoramento
+
+
+   A CONCESSIONÁRIA deverá desenvolver e implantar os seguintes planos de monitoramento, para
+todo e qualquer ATERRO SANITÁRIO a ser implantado e operado, além do monitoramento previsto nas
+licenças ambientais:
+
+               a) monitoramento geotécnico;
+
+               b) monitoramento do solo e águas subterrâneas;
+
+               c) monitoramento de águas superficiais;
+
+               d) monitoramento do lixiviado;
+
+               e)      monitoramento do ar atmosférico e de ruídos; e
+
+               f)     monitoramento do sistema de drenagem de gases.
+
+
+            11.1.5.1. Monitoramento geotécnico
+
+
+   O monitoramento geotécnico do ATERRO SANITÁRIO deverá ser realizado com a ajuda de
+instrumentos instalados especialmente para esse fim (marcos superficiais e piezômetros) e será
+composto das seguintes ações:
+
+
+                                                                                                53
+     CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                     Telefone: (34) 3822-5450
+                a) inspeções visuais gerais semanais;
+
+                b) leituras e registros quinzenais das coordenadas dos marcos superficiais; e
+
+                c) leituras e registro quinzenais dos níveis piezométricos.
+
+
+             11.1.5.2. Monitoramento do solo e águas subterrâneas
+
+
+    A CONCESSIONÁRIA deverá atender a todos os procedimentos, requisitos e parâmetros
+apresentados na Resolução CONAMA nº 420/2009, na Resolução CONAMA nº 396/2008, DN
+CONJUNTA COPAM/CERH nº 02/2010 e/ou demais parâmetros solicitados pelo órgão ambiental.
+
+
+             11.1.5.3. Monitoramento de águas superficiais
+
+
+    O monitoramento das águas superficiais visa analisar amostras de água coletadas a montante e a
+jusante do ponto de lançamento de efluentes no corpo de água, de modo a averiguar as eventuais
+alterações da qualidade do corpo de água, considerando o seu enquadramento em relação ao que
+determina a Resolução CONAMA nº 357/2005, devido ao lançamento dos efluentes tratados nos
+corpos de água receptores no entorno do aterro.
+
+    A CONCESSIONÁRIA deverá atender todos os procedimentos, requisitos e parâmetros
+apresentados na Resolução CONAMA nº 357/2005, na Resolução CONAMA nº 430/2011, DN
+CONJUNTA COPAM/CERH nº 08/2022 e demais normas ambientais pertinentes e/ou requisitos
+solicitados pelo órgão ambiental.
+
+
+             11.1.5.4. Monitoramento do lixiviado
+
+
+    A CONCESSIONÁRIA deverá realizar análise do lixiviado, de preferência com frequência trimestral,
+ou com a periodicidade estabelecida pelo órgão ambiental competente. Tais amostras deverão ser
+coletadas na entrada e na saída do sistema de tratamento, para posterior realização de análises físico-
+químicas.
+
+    A CONCESSIONÁRIA deverá realizar a análise de todos os parâmetros apresentados na Resolução
+CONAMA nº 430/2011 e/ou demais parâmetros solicitados pelo órgão ambiental.
+
+
+
+
+                                                                                                    54
+     CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                    Telefone: (34) 3822-5450
+            11.1.5.5. Monitoramento do ar atmosférico e de ruídos
+
+
+   O monitoramento do ar atmosférico e de ruídos deve ser realizado de acordo com o previsto nas
+licenças ambientais.
+
+
+            11.1.6.    Medidas para Encerramento e Monitoramento
+
+
+   A CONCESSIONÁRIA será responsável pelo encerramento do novo ATERRO SANITÁRIO, que poderá
+ocorrer logo após o fim do PRAZO DE CONCESSÃO, ou depois, caso a CONCESSIONÁRIA decida pela
+manutenção da operação do novo ATERRO SANITÁRIO mesmo finda a CONCESSÃO.
+
+   A CONCESSIONÁRIA deverá elaborar Plano de Recuperação de Áreas Degradadas (PRAD) e o
+encerramento do novo ATERRO SANITÁRIO deverá atender as diretrizes ambientais vigentes, incluindo
+a NBR 8419 e a DN COPAM 244/2022 e a DN CONJUNTA COPAM/CERH 02/2010, observando-se, no
+mínimo, as ações abaixo, que incluem a manutenção do controle definitivo do acesso à área, bem
+como medidas que irão promover a recuperação ambiental da área:
+
+         a. reconformação do terreno e implantação da camada de cobertura vegetal definitiva;
+
+         b. implantação do sistema de drenagem superficial definitivo;
+
+         c. monitoramento geotécnico e ambiental, incluindo o monitoramento das águas
+             subterrâneas, dos sistemas de drenagem superficial e de tratamento de efluentes.
+
+   As ações previstas para pós encerramento e monitoramento do novo ATERRO SANITÁRIO deverão
+ser executadas pela CONCESSIONÁRIA, no mínimo, até 20 (vinte) anos após o encerramento do novo
+ATERRO SANITÁRIO, ou conforme definido no licenciamento ambiental.
+
+   Para todos os efeitos, o novo ATERRO SANITÁRIO não será considerado um BEM REVERSÍVEL e,
+portanto, não será revertido ao PODER CONCEDENTE após o término do PRAZO DA CONCESSÃO,
+mesmo se a CONCESSIONÁRIA decidir por seu encerramento.
+
+
+
+
+                                                                                                55
+     CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                    Telefone: (34) 3822-5450
+12. CRONOGRAMA DE EXECUÇÃO DA CONCESSÃO
+
+        Os prazos previstos nesta tabela prevalecem sobre qualquer outro descrito neste ANEXO DO CONTRATO – CADERNO DE ENCARGOS DA CONCESSIONÁRIA.
+
+
+                                                              Quadro 5 – Cronograma de execução da CONCESSÃO
+
+                    Atividade a serem executadas pela CONCESSIONÁRIA                                                          Prazo de entrega
+Entregar o PLANO DE EXECUÇÃO CONTRATUAL                                                 Até 120 dias a contar da data da assinatura do contrato
+Acompanhar a operação do SMRSU junto aos prestadores de serviços atuantes               Até 200 dias a contar da data da assinatura do contrato
+Obter licenciamento ambiental e implantar as Estações de Transbordo da CONCESSIONÁRIA   Até 200 dias a contar da data da assinatura do contrato
+Apresentar a área de implantação de novo ATERRO SANITÁRIO ao PODER CONCEDENTE e à
+                                                                                        Até o final de 12 meses a contar da data da assinatura do contrato
+AGÊNCIA REGULADORA
+Apresentar a área de implantação da UNIDADE DE VALORIZAÇÃO DE RESÍDUOS ao PODER
+                                                                                        Até o final de 12 meses a contar da data da assinatura do contrato
+CONCEDENTE e à AGÊNCIA REGULADORA
+Implementar e executar o PROGRAMA DE RECUPERAÇÃO DE ÁREAS DEGRADADAS PELA
+                                                                                        Até o final de 24 meses a contar da data da emissão da Ordem de Serviço
+DISPOSIÇÃO INADEQUADA DE RESÍDUOS SÓLIDOS URBANOS
+Instalar e iniciar a operação da UNIDADE DE VALORIZAÇÃO DE RESÍDUOS devidamente
+                                                                                        Até o final de 24 meses a contar da data da emissão da Ordem de Serviço
+regularizada.
+Implantar e iniciar a operação do novo ATERRO SANITÁRIO, devidamente regularizado, e
+                                                                                        Até o final de 48 meses a contar da data da emissão da Ordem de Serviço
+provido de sistema de captura e tratamento centralizada de BIOGÁS
+Implementar o serviço de COLETA SELETIVA DE ORGÂNICOS                                   Até o final de 84 meses a contar da data da emissão da Ordem de Serviço
+Implementar os serviços de COLETA INDIFERENCIADA, de COLETA SELETIVA DE RECICLÁVEIS
+                                                                                        Durante todo o PRAZO DA CONCESSÃO a contar da data da emissão da Ordem de Serviço
+SECOS e de transporte até a disposição final ambientalmente adequada dos RSU
+Implementar e operar os serviços de transbordo obrigatórias                             Durante todo o PRAZO DA CONCESSÃO a contar da data da emissão da Ordem de Serviço
+Encaminhar o RSU para ATERRO SANITÁRIO licenciado                                       Durante todo o PRAZO DA CONCESSÃO a contar da data da emissão da Ordem de Serviço
+Implementar e executar o PROGRAMA DE EDUCAÇÃO AMBIENTAL                                 Durante todo o PRAZO DA CONCESSÃO a contar da data da emissão da Ordem de Serviço
+Implementar e executar o PLANO DE INCLUSÃO DE ORGANIZAÇÕES DE CATADORES NA
+                                                                                        Durante todo o PRAZO DA CONCESSÃO a contar da data da emissão da Ordem de Serviço
+CONCESSÃO, conforme ANEXO DO CONTRATO 3
+Implantar o sistema de pesagem e controle de acesso                                     Durante todo o PRAZO DA CONCESSÃO a contar da data da emissão da Ordem de Serviço
+                                                                                        A partir de 24 meses antes do ENCERRAMENTO DO PRAZO DA CONCESSÃO até o fim do
+Atos preparatórios para o encerramento da CONCESSÃO                                     PRAZO DA CONCESSÃO
+
+
+
+
+                                                                                                                                                                            56
+                                     CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                                                       Telefone: (34) 3822-5450
+13. APÊNDICE A – DIRETRIZES PARA A ELABORAÇÃO E EXECUÇÃO DO PLANO DOS
+    PROGRAMAS SOCIOAMBIENTAIS
+
+    A CONCESSIONÁRIA será responsável por implantar os programas socioambientais, que deverão
+integrar o PLANO DOS PROGRAMAS SOCIOAMBIENTAIS e estabelecer os processos para implantação
+e operação das ações socioambientais. Deverão ser previstos, no mínimo, os dois programas abaixo:
+
+         a. PROGRAMA DE EDUCAÇÃO AMBIENTAL, durante todo o PRAZO DA CONCESSÃO;
+
+         b. PROGRAMA DE RECUPERAÇÃO DE ÁREAS DEGRADADAS PELA DISPOSIÇÃO INADEQUADA
+             DE RESÍDUOS SÓLIDOS URBANOS, a ser elaborado nos dois primeiros anos do PRAZO DA
+             CONCESSÃO.
+
+   Este APÊNDICE A é parte integrante do CONTRATO DE CONCESSÃO. A elaboração e a execução do
+PLANO DOS PROGRAMAS SOCIOAMBIENTAIS serão de responsabilidade da CONCESSIONÁRIA e
+estarão sujeitas à aprovação do PODER CONCEDENTE e da AGÊNCIA REGULADORA, conforme descrito
+no CADERNO DE ENCARGOS DA CONCESSIONÁRIA.
+
+
+
+
+                                                                                                57
+     CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                    Telefone: (34) 3822-5450
+    A. DO PROGRAMA DE EDUCAÇÃO AMBIENTAL
+
+Justificativa:
+
+    A concessão dos SMRSU repercutirá mudanças significativas nos municípios, contribuindo para um
+ambiente sustentável, através da responsabilidade socioambiental, considerando a nova cultura de
+descarte correto dos resíduos e prestação de serviços públicos de qualidade. Os municípios receberão
+investimentos como implantação de estações de transbordo de resíduos sólidos urbanos,
+encerramento de áreas de lixão e implantação de novo aterro sanitário.
+
+    A educação ambiental é importante para a qualidade de vida e contribui para o desenvolvimento
+da economia, sendo, portanto, muito relevante para a sociedade e administração pública. A produção
+crescente de resíduos é um problema que precisa ser solucionado e atualmente as cooperativas e
+associações de catadores de materiais reutilizáveis e recicláveis têm contribuído para a redução de
+resíduos destinados para aterros sanitários e agregando valor ao material, possibilitando seu
+reaproveitamento ou reciclagem.
+
+    Considerando os prejuízos que a sociedade sofre em decorrência dos impactos ambientais, a
+adoção de políticas ambientais adequadas contribuirá para redução desses impactos e promoverá
+desenvolvimento econômico para a região. O projeto estabelece a cultura de pagamento pelos
+serviços públicos na área de resíduos sólidos para a população de muitos dos municípios que integram
+o Projeto. Além disso, para o bom desempenho da coleta seletiva, é fundamental a conscientização e
+mobilização da população. Entende-se que essas mudanças no âmbito social requerem apoio,
+acompanhamento, orientação e estímulo da população pertinentes à EDUCAÇÃO AMBIENTAL voltada
+para o manejo dos resíduos sólidos.
+
+    Portanto, justifica-se a elaboração e execução de PROGRAMA DE EDUCAÇÃO AMBIENTAL, para
+que a adequação dos SMRSU implementada pela CONCESSIONÁRIA seja acompanhada de ações de
+informação, comunicação, mobilização e sensibilização, visando à adesão da população aos serviços
+por meio do conhecimento sobre os resíduos sólidos, seus efeitos adversos no meio ambiente e a
+responsabilidade dos geradores.
+
+Objetivo:
+
+    Elaborar programa, incluindo plano de ação detalhado, com metas objetivas e mensuráveis,
+obedecendo as diretrizes constantes neste apêndice A do CADERNO DE ENCARGOS DA
+CONCESSIONÁRIA, com o objetivo geral de desenvolver ações educativas que visem reforçar a
+
+                                                                                                 58
+      CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                      Telefone: (34) 3822-5450
+perspectiva da responsabilidade compartilhada como princípio de gestão de RSU, reforçar o
+compromisso individual com o consumo consciente e com a segregação adequada dos RSU para que
+seja possível a correta destinação, desencadear processos conjuntos de ensino e aprendizagem como
+meio de capacitar e sensibilizar a sociedade para uma atuação participativa na melhoria da qualidade
+socioambiental e de vida na região.
+
+    O PROGRAMA DE EDUCAÇÃO AMBIENTAL deverá ser elaborado pela CONCESSIONÁRIA e aprovado
+pelo PODER CONCEDENTE e pela AGÊNCIA REGULADORA e terá os seguintes objetivos específicos:
+
+        •   Fomentar a responsabilidade compartilhada na gestão de resíduos sólidos;
+
+        •   Promover a redução da geração de resíduos sólidos por meio de práticas de consumo
+            consciente;
+
+        •   Conscientizar a população sobre a importância da separação adequada de resíduos sólidos
+            para a coleta seletiva;
+
+        •   Incentivar a participação ativa da comunidade na coleta seletiva;
+
+        •   Promover a conscientização da população sobre a importância do trabalho dos catadores
+            de materiais reutilizáveis e recicláveis e a destinação adequada de resíduos;
+
+        •   Orientar sobre a destinação correta de resíduos da construção civil; resíduos de serviços
+            de saúde; resíduos volumosos; resíduos perigosos; eletroeletrônicos; dentre outros.
+
+Público-Alvo:
+
+    O PROGRAMA DE EDUCAÇÃO AMBIENTAL será direcionado à população residente nos
+MUNICÍPIOS, incluindo escolas, estabelecimentos comerciais, empresas, organizações não
+governamentais, órgãos governamentais e demais segmentos da comunidade. É necessário que os
+roteiros educativos se adaptem para cada um desses grupos, uma vez que representam faixas etárias
+e contextos diferentes.
+
+Requisitos Mínimos:
+
+    As ações e metas mínimas do PROGRAMA DE EDUCAÇÃO AMBIENTAL a ser elaborado pela
+CONCESSIONÁRIA são:
+
+        •   Promoção de parcerias com as prefeituras e com as organizações da sociedade civil dos
+            MUNICÍPIOS;
+
+
+
+                                                                                                  59
+     CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                      Telefone: (34) 3822-5450
+  •   Desenvolvimento de ações e atividades voltadas para a conscientização e estímulo da
+      população para a coleta seletiva e promoção do engajamento junto a todos os
+      estabelecimentos comerciais e de serviços para a adoção da prática da coleta seletiva, para
+      que todos busquem segregar corretamente seus resíduos sólidos urbanos;
+
+  •   Identificação de iniciativas existentes nos MUNICÍPIOS relacionadas à gestão de resíduos
+      sólidos e educação ambiental, bem como a identificação de líderes locais que sejam
+      potenciais parceiros locais para apoio na consecução de canais de comunicação com a
+      população;
+
+  •   Produção de 01 (uma) cartilha institucional anual, para cada município, atualizando e
+      divulgando as ações planejadas da CONCESSIONÁRIA para cada município, apresentando,
+      dentre outros, o roteiro e cronograma de COLETA INDIFERENCIADA e de coleta seletiva e
+      a divulgação da localização dos PEV e orientações em relação ao seu uso;
+
+  •   Redação e divulgação de 01 (um) jornal informativo semestral, por meio de canais digitais
+      de comunicação e mídias sociais, sobre o SMRSU;
+
+  •   Produção e divulgação mensal de vídeo institucional de sensibilização sobre o SMRSU,
+      visando sensibilizar os geradores acerca da redução da geração, segregação para
+      reciclagem, dentre outros temas intervenientes ao SMRSU;
+
+  •   Promoção de, no mínimo, dois eventos, por ano, de educação ambiental, por município,
+      envolvendo as lideranças comunitárias, organizações da sociedade civil e/ou parceiros
+      institucionais locais na construção de ações que favoreçam a compreensão e a intervenção
+      na realidade local, por meio de cursos com, no mínimo, oito horas com conteúdos
+      relacionados à gestão de resíduos sólidos e educação ambiental;
+
+  •   Abertura e apresentação da estrutura de SMRSU para visitação para escolas e
+      universidades;
+
+  •   Desenvolvimento de uma ação anual por município para capacitação para USUÁRIOS
+      localizados em ÁREAS RURAIS, sobre o aproveitamento de resíduos orgânicos e
+      compostagem domiciliar, bem como orientação sobre a correta destinação de outras
+      tipologias de resíduos, tal como resíduos especiais de logística reversa. As ações de
+      capacitação voltadas aos usuários localizados em áreas rurais deverão contemplar oficinas
+      presenciais e atividades demonstrativas, com abordagem prática sobre o aproveitamento
+      de resíduos orgânicos gerados nas propriedades, incluindo técnicas de compostagem
+
+
+                                                                                              60
+CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                               Telefone: (34) 3822-5450
+             domiciliar, manejo adequado de restos de alimentos, resíduos agro domésticos e podas.
+             As atividades deverão ser adaptadas à realidade rural, considerando a dispersão territorial,
+             os modos de produção locais e o uso do resíduo orgânico como insumo para melhoria do
+             solo, visando à redução do envio de resíduos para coleta convencional e à promoção de
+             soluções ambientalmente adequadas no próprio domicílio
+
+       •     Aplicação de formulários de avaliação do público-alvo das ações realizadas.
+
+Cronograma:
+
+   Deverá ser apresentado cronograma anual detalhado de execução do PROGRAMA DE EDUCAÇÃO
+AMBIENTAL, contemplando as metas nas fases de planejamento, implementação, monitoramento e
+avaliação. O programa será desenvolvido ao longo do PRAZO DA CONCESSÃO, considerando a
+continuidade das ações de educação ambiental.
+
+Avaliação e Monitoramento:
+
+   O cumprimento das metas estabelecidas no cronograma será avaliado e monitorado para fins de
+verificação quanto ao cumprimento das metas estabelecidas no planejamento apresentado, por meio
+do INDICADOR DE DESEMPENHO ID 2.4, conforme descrito no ANEXO DO CONTRATO 2 - SISTEMA DE
+INDICADORES DE DESEMPENHO.
+
+Orçamento:
+
+   A CONCESSIONÁRIA deverá apresentar um orçamento detalhado, contemplando custos com
+material educativo, contratação de pessoal, realização de eventos, entre outros. O orçamento deverá
+ser compatível com os requisitos mínimos para a implementação do PROGRAMA DE EDUCAÇÃO
+AMBIENTAL.
+
+   Prestação de Contas:
+
+   A CONCESSIONÁRIA deverá prestar contas de todas as atividades realizadas relacionadas ao
+PROGRAMA DE EDUCAÇÃO AMBIENTAL no RELATÓRIO DE AVALIAÇÃO DE DESEMPENHO.
+
+
+
+
+                                                                                                      61
+     CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                     Telefone: (34) 3822-5450
+B.    DO PROGRAMA DE RECUPERAÇÃO DE ÁREAS DEGRADADAS PELA DISPOSIÇÃO INADEQUADA DE
+RESÍDUOS SÓLIDOS URBANOS
+
+        Justificativa:
+
+    A disposição inadequada de resíduos sólidos urbanos pode resultar em contaminação do solo,
+água, ar, e em prejuízos para a saúde pública. A recuperação dessas áreas é um processo complexo
+que requer planejamento especializado para posterior execução das obras que se fizerem necessárias.
+A disposição inadequada de RSU em lixões e em estações de transbordo é realidade na maioria dos
+MUNICÍPIOS, como se pode observar no Quadro 6.
+
+    Portanto, entende-se como essencial um PROGRAMA DE RECUPERAÇÃO DE ÁREAS DEGRADADAS
+PELA DISPOSIÇÃO INADEQUADA DE RESÍDUOS SÓLIDOS URBANOS para a elaboração de estudos e
+projetos técnicos direcionados à recuperação ambiental das áreas de disposição inadequada de
+resíduos sólidos urbanos, incluindo o planejamento de medidas de prevenção, mitigação e
+REMEDIAÇÃO, além das possibilidades de novos usos para as áreas.
+
+    Além disso, pode-se observar a presença de catadores em áreas de lixões e transbordos de
+municípios do CISPAR, realizando a catação de materiais reutilizáveis e recicláveis, em condições de
+vulnerabilidade socioeconômica, uma vez que enfrentam diversos riscos, como exposição a materiais
+perigosos e ferimentos com objetos cortantes, além de sofrer com estigma social, condições climáticas
+adversas, exploração por intermediários e falta de equipamentos de proteção. Essas situações,
+somadas à marginalização social, à insegurança e à instabilidade financeira, afetam sua saúde física e
+mental, tornando essa prática especialmente vulnerável. Além disso, vale mencionar que a catação em
+áreas de disposição final de resíduos ou REJEITOS é proibida pela Política Nacional de Resíduos Sólidos.
+Diante disso, no ANEXO DO CONTRATO 3 - DIRETRIZES BÁSICAS PARA A INCLUSÃO SOCIAL E
+EMANCIPAÇÃO ECONÔMICA DE CATADORES DE MATERIAIS REUTILIZÁVEIS E RECICLÁVEIS NA
+CONCESSÃO e no PIGIRS do CISPAR, estão previstas ações voltadas para o fomento à emancipação
+socioeconômica desses catadores a serem executadas pelo PODER CONCEDENTE e pela
+CONCESSIONÁRIA.
+
+        Objetivo:
+
+    Elaborar programa, incluindo plano de ação detalhado, com metas objetivas e mensuráveis
+obedecendo as diretrizes constantes neste apêndice A do CADERNO DE ENCARGOS DA
+CONCESSIONÁRIA, com os objetivos centrais:
+
+
+                                                                                                     62
+     CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                    Telefone: (34) 3822-5450
+           •   Elaborar estudos para o encerramento, segurança, recuperação, investigação de
+               contaminação e monitoramento das áreas degradadas pela disposição inadequada de
+               RESÍDUOS SÓLIDOS URBANOS, considerando a proteção do solo, das águas e do ar,
+               compatível com o porte e o risco ambiental que cada área possui;
+
+    O PROGRAMA DE RECUPERAÇÃO DE ÁREAS DEGRADADAS PELA DISPOSIÇÃO INADEQUADA DE
+RESÍDUOS SÓLIDOS URBANOS deverá ser elaborado pela CONCESSIONÁRIA e aprovado pelo PODER
+CONCEDENTE e pela AGÊNCIA REGULADORA e terá os seguintes objetivos específicos:
+
+           •   Realizar investigação detalhada e apresentar diagnóstico das áreas impactadas pela
+               disposição inadequada de RSU nos MUNICÍPIOS, as quais estão indicadas no Quadro 6
+               (apresentado abaixo).
+
+           •   Elaborar um Plano de Recuperação de Área Degradada (PRAD) para cada uma das áreas
+               indicadas no Quadro 6 (apresentado abaixo);
+
+           •   Elaborar projetos executivos para recuperação ambiental das áreas diagnosticadas em
+               concordância com o respectivo PRAD;
+     Para fins de elaboração do PROGRAMA DE RECUPERAÇÃO DE ÁREAS DEGRADADAS PELA
+DISPOSIÇÃO INADEQUADA DE RESÍDUOS SÓLIDOS URBANOS, entende-se recuperação como a
+restituição de um ecossistema ou de uma população silvestre degradada a uma condição não
+degradada, que pode ser diferente de sua condição original (de acordo com a Lei Federal nº
+9.985/2000, art.2º, inciso XIII) e entende-se a remediação como uma técnica de recuperação ambiental
+definida como uma das ações de intervenção em uma área comprovadamente contaminada,
+consistindo na aplicação de técnicas de engenharia visando à remoção, contenção ou redução das
+concentrações dos contaminantes presentes, de modo a assegurar a reabilitação da área para o uso
+futuro (de acordo com a Deliberação Normativa COPAM nº 116, 27 de junho de 2008, art. 1º, inciso
+XVII).
+
+           Áreas de interesse a serem recuperadas:
+
+    O trabalho de análise das questões envolvendo a gestão dos RSU nos MUNICÍPIOS identificou que
+os principais passivos ambientais da região relativamente a este tema são os lixões e aterros
+controlados, ativos ou inativos, e as áreas de transbordo que operam em condições similares a lixão,
+devido ao acúmulo de RSU sobre o terreno natural, sem qualquer estrutura de proteção ambiental e
+
+
+
+
+                                                                                                    63
+         CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                        Telefone: (34) 3822-5450
+sem o transbordo adequado dos resíduos. O Quadro 6 relaciona as áreas identificadas no âmbito dos
+estudos para estruturação da CONCESSÃO.
+
+Quadro 6 – Relação das áreas identificadas a serem contempladas no PROGRAMA DE RECUPERAÇÃO DE ÁREAS
+              DEGRADADAS PELA DISPOSIÇÃO INADEQUADA DE RESÍDUOS SÓLIDOS URBANOS
+
+                                                                      Coordenadas Geográficas
+        Município                 Área de interesse                    (DATUM SIRGAS 2000 23S)
+                                                                    Latitude               Longitude
+                              Transbordo operando em
+          Arapuá                                                  19° 3'57.52"S           46° 8'2.86"O
+                               área de lixão desativado
+       Coromandel                  Lixão desativado               18°26'57.79"S          47°10'28.78"O
+   Cruzeiro da Fortaleza           Lixão desativado               19° 1'31.66"S          46°37'53.21"O
+        Guimarânia                      Lixão                     18°51'12.10"S          46°46'19.17"O
+                                Vala para disposição de
+      Lagoa Formosa          REJEITOS em área de unidade          18°52'38.62"S          46°20'19.40"O
+                              de triagem e compostagem
+                                  Aterro sanitário não
+      Patos de Minas                                              18°35'25.73"S          46°33'27.52"O
+                                      regularizado
+                                Vala para disposição de
+    Presidente Olegário      REJEITOS em área de unidade          18°25’47.43”S          46°26’15.33”O
+                              de triagem e compostagem
+       Rio Paranaíba               Lixão desativado               19°10'54.45"S          46°15'46.67"O
+                              Transbordo operando em
+      Serra do Salitre                                             19° 5'2.62"S           46°39'8.67"O
+                               área de lixão desativado
+                                     FONTE: Consultoria Vital, 2025.
+
+
+       Requisitos mínimos:
+
+   A CONCESSIONÁRIA deverá elaborar os PRAD e projetos executivos de recuperação destes locais,
+em consonância com a legislação e com as boas práticas vigentes, sendo que a execução dos serviços
+de recuperação deverá ser de responsabilidade dos MUNICÍPIOS. Na hipótese de identificação da
+necessidade de ampliação do Programa para além das áreas descritas no Quadro 6 – Relação das áreas
+identificadas a serem contempladas no PROGRAMA DE RECUPERAÇÃO DE ÁREAS , mediante determinação do
+
+PODER CONCEDENTE, será assegurado o REEQUILÍBRIO ECONÔMICO-FINANCEIRO do CONTRATO.
+
+   A execução do programa poderá ser realizada por equipe própria ou consultoria especializada e
+agregará as ações de diagnóstico das áreas impactadas pela disposição de resíduos a céu aberto e a
+elaboração dos PRAD e projetos executivos. Os PRAD devem seguir as orientações contidas no Caderno
+Técnico de Reabilitação de Áreas Degradadas por Resíduos Sólidos Urbanos, elaborado pela FEAM. O
+trabalho deverá ser dividido em três etapas:
+
+
+                                                                                                         64
+     CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                    Telefone: (34) 3822-5450
+  •   Etapa 1, de investigação detalhada para elaboração de diagnósticos daquelas áreas de
+      disposição inadequada de RSU supracitadas (Quadro 6). O diagnóstico de cada área deverá
+      conter o levantamento de, no mínimo, os seguintes aspectos:
+
+          o    histórico de utilização da área;
+
+          o    extensão da área onde há RSU enterrados;
+          o    existência de vetores (urubus, roedores e outros)
+
+          o    volume e tipologia dos resíduos dispostos e profundidade da camada de RSU
+               enterrados;
+
+          o    características pedológicas e geológicas da área;
+
+          o    profundidade do lençol freático;
+
+          o    discriminação da situação de degradação da vegetação existente;
+
+          o    existência de plumas de contaminação ou de poluição de solo e águas
+               subterrâneas discriminando tipos e concentrações de poluentes e contaminantes
+               existentes;
+
+          o    existência de fenômenos de erosão, transporte e deposição de sedimentos,
+               discriminando tipos e concentrações de poluentes e contaminantes existentes;
+
+          o    indicativos do escape de gases para a atmosfera e riscos de incêndios relacionados
+               a essa emissão atmosférica;
+
+          o    existência de descartes clandestinos de resíduos sólidos;
+          o    identificação da existência das seguintes atividades: utilização dos REJEITOS
+               dispostos como alimentação, catação (inclusive o número de pessoas e número
+               de famílias que praticam catação), criação de animais domésticos, fixação de
+               habitações temporárias ou permanentes (inclusive o número de habitações e
+               número de pessoas).
+
+  •   Etapa 2, de elaboração, por equipe multidisciplinar, de PLANO DE RECUPERAÇÃO DE ÁREA
+      DEGRADADA (PRAD), para cada área impactada, seguindo as normativas vigentes e
+      contemplando, no mínimo, os seguintes itens:
+
+          o    laudos de análises de águas subterrâneas e superficiais;
+
+          o    laudos de análise de solo;
+          o    caracterização da área e dos impactos conforme diagnóstico;
+
+
+                                                                                              65
+CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                               Telefone: (34) 3822-5450
+                 o   possibilidades de usos futuros para a área recuperada;
+
+                 o   proposição de ações para recuperação das áreas;
+                 o   cronograma de execução das ações; e
+
+                 o   orçamento detalhado das ações propostas.
+
+       •     Etapa 3, de elaboração dos projetos executivos que se fizerem necessários para a
+             recuperação ambiental de cada um dos aspectos diagnosticados nos respectivos PRAD,
+             inclusive para a remediação que se fizer necessária, seguindo as normativas vigentes.
+
+                 o   Os projetos executivos conterão orçamento detalhado para sua execução.
+
+   A recuperação do passivo ambiental, bem como a execução de qualquer tipo de obra, não será de
+responsabilidade da CONCESSIONÁRIA no âmbito do PROGRAMA DE RECUPERAÇÃO DE ÁREAS
+DEGRADADAS PELA DISPOSIÇÃO INADEQUADA DE RESÍDUOS SÓLIDOS URBANOS.
+
+       Cronograma:
+
+   Deverá ser apresentado o cronograma de execução detalhado do PROGRAMA DE RECUPERAÇÃO
+DE ÁREAS DEGRADADAS PELA DISPOSIÇÃO INADEQUADA DE RESÍDUOS SÓLIDOS URBANOS,
+contemplando as metas nas fases de planejamento, implementação, monitoramento e avaliação,
+considerando o prazo para execução do programa de 24 meses.
+
+   As etapas e prazos previstos são:
+
+           c. Etapa 1: apresentar, no prazo de 180 dias do início da CONCESSÃO, o diagnóstico
+              detalhado de cada área, para aferir qualitativamente e quantitativamente os principais
+              impactos ambientais;
+
+           a. Etapas 2 e 3: apresentar os PRAD e os respectivos projetos executivos em até 24 meses
+              do PRAZO DA CONCESSÃO
+
+       Avaliação e Monitoramento:
+
+   O cumprimento das metas estabelecidas no cronograma será avaliado e monitorado para fins de
+verificação quanto ao cumprimento das metas estabelecidas no planejamento apresentado, conforme
+descrito no ANEXO DO CONTRATO 2- SISTEMA DE INDICADORES DE DESEMPENHO.
+
+   Também deverá ser prevista a implantação de um sistema de captação de gases e monitoramento
+dos GEEs, prevendo, no mínimo, a captação centralizada através de manifolds conectados às cabeças
+
+
+                                                                                                     66
+     CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                     Telefone: (34) 3822-5450
+dos poços de drenagem de gases que conduzirão o biogás coletado para a unidade de tratamento,
+caso haja viabilidade.
+
+    Os projetos executados pela concessionária acima descritos, bem como outros que porventura se
+façam necessários, deverão ser apresentados ao Poder Concedente e Agência Reguladora, para
+aprovação.
+
+    Orçamento:
+
+    A CONCESSIONÁRIA deverá apresentar um orçamento detalhado, contemplando custos com
+material, contratação de pessoal, realização de eventos, elaboração de planos e projetos, entre outros.
+
+    Deverá ser programada a realização de pelo menos um evento de capacitação/orientação com os
+técnicos municipais dos municípios Arapuá, Coromandel, Cruzeiro da Fortaleza. Guimarânia, Lagoa
+Formosa, Patos de Minas, Presidente Olegário, Rio Paranaíba e Serra do Salitre5 que de alguma forma
+gerenciarão a recuperação dos lixões quanto aos instrumentos de execução do PRAD a ser elaborado
+pela concessionária.
+
+    O orçamento deverá ser compatível com os requisitos mínimos para a implementação do
+PROGRAMA DE RECUPERAÇÃO DE ÁREAS DEGRADADAS PELA DISPOSIÇÃO INADEQUADA DE RESÍDUOS
+SÓLIDOS URBANOS.
+
+Prestação de Contas:
+
+    A CONCESSIONÁRIA deverá prestar contas de todas as atividades realizadas relacionadas ao
+PROGRAMA DE RECUPERAÇÃO DE ÁREAS DEGRADADAS PELA DISPOSIÇÃO INADEQUADA DE RESÍDUOS
+SÓLIDOS URBANOS no RELATÓRIO DE AVALIAÇÃO DE DESEMPENHO.
+
+
+
+
+    5
+    Municípios onde está prevista a execução de ação no âmbito do PROGRAMA DE RECUPERAÇÃO DE ÁREAS
+DEGRADADAS PELA DISPOSIÇÃO INADEQUADA DE RESÍDUOS SÓLIDOS URBANOS.
+
+                                                                                                    67
+        CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                       Telefone: (34) 3822-5450
+

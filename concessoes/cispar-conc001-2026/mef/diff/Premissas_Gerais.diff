@@ -1,0 +1,7 @@
+--- ORIGINAL
++++ REPUBLICADO
+@@ -22,3 +22,3 @@
+  |  | RSD |  |  |  |  | RPU
+- |  | Tarifa-Base Referencial |  | 2.8567488023289074 | (R$/m³) |  | Tarifa Básica dos Entes Públicos |  | 223.6683778869185 |  (R$ por tonelada)
++ |  | Tarifa-Base Referencial |  | 2.855879456931295 | (R$/m³) |  | Tarifa Básica dos Entes Públicos |  | 223.66777191751288 |  (R$ por tonelada)
+  |  | Ramp up (% Tarifa Básica - por ano)

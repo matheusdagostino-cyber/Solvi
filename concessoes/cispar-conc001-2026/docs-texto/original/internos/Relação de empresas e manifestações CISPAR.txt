@@ -1,0 +1,69 @@
+
+
+===== PLANILHA: Capa =====
+CONTROLE DO EDITAL CISPAR Nº 001/2026
+Índice das manifestações, decisões e medidas judiciais ou de controle.
+CONTEÚDO | DESCRIÇÃO
+Manifestações | Relação resumida de empresas e tipos de manifestação.
+Novas Manifestações | Tabela consolidada de esclarecimentos, impugnações e respostas oficiais.
+Ações de Controle | Tabela consolidada de ACP, mandados de segurança e representações no TCE-MG.
+[6 linhas]
+
+
+===== PLANILHA: Manifestações =====
+MANIFESTAÇÕES — CISPAR
+Relação editável de empresas, licitantes e interessados e suas respectivas manifestações.
+Empresa / Licitante / Interessado | Tipo de Manifestação
+Adriano Barreto | Esclarecimento (Q. 87 a 95 - 8ª Ata)
+AEGEA Saneamento e Participações S.A. | Esclarecimento (Q. 96 e 97 - 9ª Ata) e Impugnação ao Edital
+Amanda Cristina Teixeira Silva | Impugnação ao Edital (Pessoa Física)
+Conserbrás | Esclarecimento (Q. 34 a 58 - 5ª Ata)
+CTA Empreendimentos Eireli | Impugnação ao Edital
+ENTERPA Engenharia Ltda. | Esclarecimento (Q. 98 - 10ª Ata) e Pedido de Aditamento (Dilação)
+Fabrício Soler | Esclarecimento (Q. 33 - 5ª Ata)
+Flávio Dias de Abreu Filho (ALUBRÁS) | Impugnação ao Edital
+HB Construtora Ltda. | Esclarecimento (Q. 59 - 5ª Ata) e Impugnação ao Edital
+PROESAN – Projetos, Engenharia e Saneamento Ltda. | Impugnação ao Edital
+Probus Engenharia Ltda. | Impugnação ao Edital
+Quantum Engenharia e Consultoria Ltda. | Impugnação ao Edital
+Salto Soluções Ambientais Ltda. | Esclarecimento e Impugnação ao Edital
+Terraviva Ambiental Ltda. | Impugnação ao Edital
+Torre Construções Ltda. | Esclarecimento (Q. 63 a 86 - 7ª Ata)
+[18 linhas]
+
+
+===== PLANILHA: Temas das Manifestações =====
+TABELA CONSOLIDADA — EDITAL DE CONCESSÃO CISPAR Nº 001/2026 (FOCO PRINCIPAIS ESCLARECIMENTOS)
+Pedidos de esclarecimentos, impugnações, questionamentos e respostas oficiais compilados para consulta e edição.
+Interessado / Licitante | Tipo de Manifestação | Questionamentos / Ponto Solicitado | Resposta / Decisão Oficial do CISPAR
+Interessados (1ª e 2ª Atas) | Esclarecimentos (Q. 01 a 07) | Aterro de referência; dias operacionais para triagem; corretora B3; uso/implantação de novo aterro; localização de Estações de Transbordo; planilhas em Excel editável. | Esclarecidos. O aterro de referência é Uberlândia/MG; 313 dias/ano operacionais; estações localizadas conforme plano regionalizado; Modelo Econômico-Financeiro disponibilizado no site.
+Fabrício Soler | Esclarecimento (Q. 33 - 5ª Ata) | Sugestão de inclusão da figura do Verificador Independente para auditagem técnica. | Indeferido. Mantida a fiscalização direta pela ARISB-MG e acompanhamento pela concessionária.
+Conserbrás | Esclarecimentos (Q. 34 a 58 - 5ª Ata) | Dúvidas sobre frota 0 km, rotas rurais, reajuste salarial via CCT, instalação de balanças e repasse de 15% das receitas extraordinárias. | Esclarecidos. Exigência de frota inicial 0 km mantida; riscos de negociação coletiva/CCT atribuídos à concessionária; balanças rodoferroviárias/rodoviárias são obrigatórias.
+HB Construtora Ltda. | Esclarecimento (Q. 59 - 5ª Ata) e Impugnação | Pedido de aditamento de prazo (+60 dias); custos da B3/SEMAD, supressão de resíduos por catadores e modelo de Presidente Olegário. | Indeferidos. Dilação de prazo negada por o edital ter ficado aberto por aproximadamente 80 dias; impugnação não admitida formalmente por ausência de documento e indeferida no mérito.
+Torre Construções Ltda. | Esclarecimento (Q. 63 a 86 - 7ª Ata) | Bloco de dúvidas técnicas sobre transbordo, serviços de roçagem e varrição, destinação final e equações tarifárias de RPU. | Esclarecidos. Respostas técnicas detalhadas e confirmação de atendimento rigoroso ao Caderno de Encargos prestadas na 7ª Ata.
+Adriano Barreto | Esclarecimento (Q. 87 a 95 - 8ª Ata) | Tarifa-base RPU (R$ 223,67/t); custo de aquisição de área do aterro; projeção populacional e metas UVR/Coleta; distância de transbordo (50 km); passivos pós-encerramento e receitas extraordinárias. | Esclarecidos. Mantida tarifa do contrato; aquisição do aterro está no CAPEX referencial; frustração populacional é risco da concessionária; distância de transbordo pode ser alterada mediante acordo público.
+AEGEA Saneamento e Participações S.A. | Esclarecimento (Q. 96 e 97 - 9ª Ata) e Impugnação | Q. 96/97: acesso aos TACs do Aterro de Patos de Minas. Impugnação: inexequibilidade do prazo de 4 anos para licenciamento do aterro, falta de regras para repasse de dados da COPASA e risco da Tarifa Social. | Esclarecimento: TACs são públicos e devem ser obtidos na SEMAD/FEAM/MP; não vinculam o edital. Impugnação: rejeitada nos termos das regras de alocação ordinária de riscos.
+ENTERPA Engenharia Ltda. | Esclarecimento (Q. 98 - 10ª Ata) e Petição de Dilação | Q. 98: validade de assinatura digital Gov.br e certidões virtuais do ONR. Petição: pedido de dilação do prazo de entrega por 60 dias. | Q. 98: Deferido. Aceita assinatura eletrônica avançada (Gov.br) e certidões virtuais. Petição: Indeferido. Mantido o cronograma oficial.
+Amanda Cristina Teixeira Silva | Impugnação ao Edital (Pessoa Física) | Cobrança para grandes geradores, prevenção de dupla oneração, fatores de uso tarifários e manutenção das frequências de coleta. | Indeferida. Estrutura e parâmetros normativos e regulatórios da política tarifária mantidos conforme edital.
+CTA Empreendimentos Eireli | Impugnação ao Edital | Matriz de riscos sobre licenciamento ambiental, desbalanceamento econômico das rotas e limitações para subcontratação de aterros privados. | Indeferida. Licenciamento mantido como obrigação de fazer contratual da concessionária; autonomia de rotas e subcontratação com alocação ordinária de riscos.
+Flávio Dias de Abreu Filho (ALUBRÁS) | Impugnação ao Edital | Ausência de índices contábeis, obrigatoriedade de SPE, subcontratação, uso de aterros privados e licenças ambientais. | Indeferida. Exigências de habilitação e regras operacionais mantidas na discricionariedade técnica do Poder Concedente.
+Probus Engenharia Ltda. | Impugnação ao Edital | Inexequibilidade do dimensionamento referencial da coleta indiferenciada de RSU (equipes, frota, viagens e produtividade). | Indeferida. O Projeto Básico Referencial não vincula a proponente, que possui autonomia técnica para dimensionar a operação.
+PROESAN – Projetos, Engenharia e Saneamento Ltda. | Impugnação ao Edital | Restrição à competitividade nos atestados de habilitação técnico-operacional para triagem mecanizada e compostagem. | Indeferida. Exigências mantidas por guardarem proporcionalidade com a relevância técnica e financeira do contrato.
+Quantum Engenharia e Consultoria Ltda. | Impugnação ao Edital | Desequilíbrio na Matriz de Riscos (eventos C7, C8, G1, G2, H6, H7 e I1); inadimplência, variação de CCT/insumos e volume. | Indeferida. A alocação de risco ordinário/empresarial ao parceiro privado é compatível com concessões de 30 anos (Lei 8.987/95).
+Salto Soluções Ambientais Ltda. | Esclarecimento e Impugnação ao Edital | Respostas insuficientes na 3ª Ata, planilha Excel bloqueada, premissas de inadimplência e integralização inicial de R$ 52 milhões em dinheiro. | Indeferida / Esclarecido. Modelos disponibilizados; exigência de capital integralizado em dinheiro respaldada pelo art. 69, § 4º da Lei 14.133/2021.
+Terraviva Ambiental Ltda. | Impugnação ao Edital | Exigência desproporcional de Capital Social Mínimo de 5% (R$ 87,1 milhões) e integralização pré-assinatura. | Indeferida. Exigência respaldada na Lei 14.133/2021 para garantir liquidez e capacidade de mobilização.
+[19 linhas]
+
+
+===== PLANILHA: Ações de Controle =====
+AÇÕES JUDICIAIS E DE CONTROLE — CISPAR Nº 001/2026
+Controle consolidado de ACP, mandados de segurança e representações perante o TCE-MG, conforme informações fornecidas.
+Empresa / Entidade | Tipo de Ação | Esfera / Órgão | Nº do Processo / Detalhes | Objeto / Status
+ALUBRÁS (Associação das Empresas de Engenharia e Limpeza Urbana do Brasil) | Ação Civil Pública (ACP) | Poder Judiciário de MG (Comarca de Patos de Minas / Sto. Antônio do Monte) | 1012103-92.2026.8.13.0480 | Pedido de liminar para suspensão do leilão. Liminar indeferida, com determinação para aguardar manifestação do TCE antes da assinatura do contrato.
+ALUBRÁS (Flávio Dias de Abreu Filho) | Representação / Denúncia | Tribunal de Contas do Estado de Minas Gerais (TCE-MG) | Denúncia nº 1.210.629 | Tramita sob sigilo. O Relator emitiu recomendação ao gestor para se abster de assinar o contrato até deliberação do Tribunal.
+AEGEA Saneamento e Participações S.A. | Mandado de Segurança (MS) | Poder Judiciário de MG (Vara Única de Patos de Minas) | 1012592-32.2026.8.13.0480 | Distribuição recente, sem decisão apreciada; questionamentos voltados à inexequibilidade do prazo de licenciamento e à regulação.
+CONSERBRÁS Multi Serviços Ltda. | Mandado de Segurança (MS) | Poder Judiciário de MG (Vara Única de Patos de Minas) | 1012393-10.2026.8.13.0480 | Apensado/distribuído ao mesmo juízo prevento; empresa concessionária/operadora atual da região.
+RM Ambiental Ltda. | Mandado de Segurança (MS) | Poder Judiciário de MG (Vara Única de Patos de Minas) | 1012620-97.2026.8.13.0480 | Impetrado para suspensão/revisão das exigências do certame.
+RM Ambiental Ltda. | Representação / Denúncia | Tribunal de Contas do Estado de Minas Gerais (TCE-MG) | Processo registrado via Madrona | Protocolado em 13/08/2026, apontando inconsistências técnicas e orçamentárias no MEF.
+ABREMA (Associação Brasileira de Resíduos e Meio Ambiente) | Representação / Denúncia | Tribunal de Contas do Estado de Minas Gerais (TCE-MG) | Representação Setorial | Protocolada em 13/08/2026 pela diretoria setorial, contestando parâmetros do edital.
+[10 linhas]

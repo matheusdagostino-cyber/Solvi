@@ -1,0 +1,788 @@
+                  ANEXO DO CONTRATO 5 – MATRIZ DE RISCOS
+
+
+
+
+                      EDITAL DE CONCESSÃO N.º 001/2026
+
+
+ COLETA, TRANSBORDO, TRANSPORTE, TRIAGEM PARA REUTILIZAÇÃO OU RECICLAGEM,
+TRATAMENTO E DESTINAÇÃO FINAL AMBIENTALMENTE ADEQUADA DE RESÍDUOS SÓLIDOS
+                            URBANOS DO CISPAR
+
+
+
+
+                                               2026
+
+
+
+
+  CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                 Telefone: (34) 3822-5450
+                                           ANEXO 5 – MATRIZ DE RISCOS
+
+
+1       ALOCAÇÃO DE RISCOS
+
+1.1       Os riscos da CONCESSÃO estão alocados entre as PARTES segundo matriz de riscos contida
+          neste ANEXO.
+
+         1.1.1     Salvo os riscos expressamente alocados ao PODER CONCEDENTE, a CONCESSIONÁRIA é
+                   exclusiva e integralmente responsável por todos os demais riscos relacionados à
+                   presente CONCESSÃO.
+
+                                                                                         RESPONSABILIDADE
+                                           RISCO                                      PODER
+                                                                                                 CONCESSIONÁRIA
+                                                                                    CONCEDENTE
+    A                         RISCOS PRÉ-CONTRATUAIS
+          Riscos relacionados ao atraso na celebração do CONTRATO DE
+    1     CONCESSÃO,       entre     a    CONCESSIONÁRIA          e   o   PODER         X
+          CONCEDENTE, por fatores não imputáveis à CONCESSIONÁRIA.
+          Atraso, falha ou embaraços à constituição da SPE na forma e
+    2                                                                                                  X
+          nos prazos previstos no EDITAL e nos ANEXOS DO EDITAL.
+
+    B            RISCOS QUANTO A LICENÇAS E AUTORIZAÇÕES
+                              GOVERNAMENTAIS
+          Atraso imputável à CONCESSIONÁRIA na obtenção, renovação
+          e      manutenção    das       licenças,   anuências,       permissões,
+          autorizações, alvarás e certidões.
+          Presume-se como fato imputável à CONCESSIONÁRIA qualquer
+    1                                                                                                  X
+          atraso decorrente da não entrega de todos os documentos,
+          estudos e informações exigidos, ou em qualidade inferior à
+          mínima estabelecida pelo órgão competente, prévia ou
+          posteriormente ao pedido.
+          Atraso não imputável à CONCESSIONÁRIA na obtenção,
+          renovação e manutenção das licenças, anuências, permissões,
+    2                                                                                   X
+          autorizações, alvarás e certidões.
+          Presume-se não imputável à CONCESSIONÁRIA o atraso
+
+
+
+                                                                                                            2
+
+        CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                           Telefone: (34) 3822-5450
+                                                                                 RESPONSABILIDADE
+                                    RISCO                                   PODER
+                                                                                           CONCESSIONÁRIA
+                                                                          CONCEDENTE
+     quando ela tenha cumprido as exigências pertinentes que lhe
+     cabem no procedimento de obtenção de licenças, incluindo,
+     mas não se limitando a: (a) protocolo completo e tempestivo
+     do requerimento correspondente, assim entendido como o
+     protocolo de todos os documentos, estudos e informações
+     exigidos e em conformidade com a qualidade estabelecida pelo
+     órgão competente, realizado observando todos os requisitos e
+     documentos necessários ao seu processamento, de acordo
+     com as diretrizes do ANEXO DO CONTRATO 1 - CADERNO DE
+     ENCARGOS DA CONCESSIONÁRIAErro! Fonte de referência não
+     encontrada., as leis e regulamentos aplicáveis; e (b) célere e
+     diligente    resposta    aos    pedidos    de    informações     e
+     esclarecimentos solicitados pelos órgãos licenciadores.
+C                RISCOS DE RECEITA E PROJEÇÃO DE RSU
+     Atraso na emissão da ORDEM DE SERVIÇO e, de modo
+1    consequente, no início da cobrança tarifária, por fato imputável                            X
+     à CONCESSIONÁRIA.
+
+     RECEITAS EXTRAORDINÁRIAS em desacordo com as projeções
+2                                                                                                X
+     da CONCESSIONÁRIA.
+
+     Quebra de acordo comercial ou outros riscos decorrentes do
+     cofaturamento da cobrança da TARIFA DE RSD pela
+3                                                                                                X
+     CONCESSIONÁRIA em conjunto com prestadora de outros
+     serviços públicos.
+     Redução da TARIFA-BASE RSD ou da TARIFA-BASE RPU,
+     decorrente       do     compartilhamento        das       RECEITAS
+4    EXTRAORDINÁRIAS ou da aplicação de qualquer outra regra                                     X
+     prevista em CONTRATO, como a de REAJUSTE ou a incidência
+     do FATOR DE AVALIAÇÃO.
+
+
+
+                                                                                                     3
+
+    CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                    Telefone: (34) 3822-5450
+                                                                                 RESPONSABILIDADE
+                                   RISCO                                    PODER
+                                                                                           CONCESSIONÁRIA
+                                                                          CONCEDENTE
+     Alterações na configuração dos MUNICÍPIOS, decorrentes de
+5    sua retirada ou exclusão do CONSÓRCIO PÚBLICO, desde que                   X
+     haja impacto na equação econômico-financeira.
+     Variação do percentual de economias sujeitas ao pagamento
+     de modalidade social da TARIFA DE RSD, calculado em relação
+     ao total de economias ativas passíveis de faturamento,
+     considerando o percentual de referência de 23% (vinte e três
+     por cento) por ano, respeitada a divisão de riscos conforme as
+     faixas descritas abaixo:
+
+          •   Se o percentual de economias sujeitas à modalidade
+              social da Tarifa de RSD representar entre 16%
+              (dezesseis por cento) e 30% (trinta por cento) da
+              totalidade de economias ativas, inclusive, constitui
+              risco assumido pela CONCESSIONÁRIA e não ensejará
+              reequilíbrio econômico-financeiro do CONTRATO.
+
+6         •   Se o percentual de economias sujeitas à modalidade                X                X
+
+              social da Tarifa de RSD representar menos de 16% da
+              totalidade das economias ativas poderá ensejar
+              reequilíbrio econômico-financeiro do CONTRATO, a
+              favor do PODER CONCEDENTE, exclusivamente quanto
+              aos efeitos financeiros decorrentes da parcela que
+              exceder os limites da faixa de risco assumida pela
+              CONCESSIONÁRIA.
+
+          •   Se o percentual de economias sujeitas à modalidade
+              social da Tarifa de RSD representar mais de 30% da
+              totalidade das economias ativas, poderá ensejar
+              reequilíbrio econômico-financeiro do CONTRATO, a
+              favor da CONCESSIONÁRIA, exclusivamente quanto aos
+
+
+
+                                                                                                     4
+
+    CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                   Telefone: (34) 3822-5450
+                                                                                 RESPONSABILIDADE
+                                   RISCO                                    PODER
+                                                                                           CONCESSIONÁRIA
+                                                                          CONCEDENTE
+              efeitos financeiros decorrentes da parcela que exceder
+              os   limites   da   faixa   de   risco   assumida    pela
+              CONCESSIONÁRIA.
+     Para fins de apuração de eventual reequilíbrio, o percentual
+     será calculado, por quaisquer das partes, pela razão do número
+     de economias enquadradas na modalidade social da TARIFA DE
+     RSD e o total de economias ativas, efetivamente cadastradas,
+     considerando-se a média mensal verificada ao longo dos 12
+     (dozes) meses do ano de referência, conforme cadastro
+     atualizado da CONCESSIONÁRIA e verificável pela AGÊNCIA
+     REGULADORA, compreendendo todas as economias ativas de
+     sua base cadastral, incluídas as categorias residencial,
+     comercial, industrial e pública.
+     A Parte que pleitear o reequilíbrio deverá apresentar o cálculo
+     evidenciando o efetivo impacto econômico-financeiro no
+     contrato.
+     Inadimplência dos USUÁRIOS, quanto ao pagamento da TARIFA
+7    DE RSD e seus impactos sobre a RECEITA TARIFÁRIA da                                         X
+     CONCESSIONÁRIA.
+     Inadimplência dos MUNICÍPIOS quanto ao pagamente da
+8    TARIFA DE RPU e seus impactos sobre a RECEITA TARIFÁRIA da                                  X
+     CONCESSIONÁRIA.
+
+D      RISCOS DE DESAPROPRIAÇÕES, SERVIDÕES, LIMITAÇÕES E
+                        DESOCUPAÇÕES
+     Investimentos, pagamentos, custos e despesas decorrentes de
+     desapropriações, instituição de servidões administrativas,
+1                                                                                                X
+     imposição de limitações administrativas e ocupação provisória
+     de bens imóveis.
+
+
+
+
+                                                                                                     5
+
+    CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                   Telefone: (34) 3822-5450
+                                                                                 RESPONSABILIDADE
+                                   RISCO                                      PODER
+                                                                                           CONCESSIONÁRIA
+                                                                            CONCEDENTE
+     Atraso na emissão de Declaração de Utilidade Pública ou mora
+     do    Poder    Judiciário   no   julgamento     das      ações    de
+2                                                                                                X
+     desapropriação, desocupação, imissão ou reintegração de
+     posse, decorrente de ações atribuíveis à CONCESSIONÁRIA.
+     Custos diretos e indiretos relacionados a invasões de imóveis
+3    livres e desembaraçados que tenham sido disponibilizados pelo                               X
+     PODER CONCEDENTE à CONCESSIONÁRIA.
+     Atraso na emissão da Declaração de Utilidade Pública, desde
+     que a CONCESSIONÁRIA tenha cumprido os prazos contratuais
+     para formalização dos pedidos de Declaração de Utilidade
+4    Pública.                                                                   X
+     Considera-se atraso do PODER CONCEDENTE a emissão da
+     Declaração de Utilidade Pública após 6 (seis) meses contados
+     do pedido adequadamente instruído pela CONCESSIONÁRIA.
+
+E                           RISCOS DE PROJETO
+
+     Inadequação, incompletude, incompatibilidade ou erros na
+1    qualidade, quantidade e custos necessários dos projetos,                                    X
+     incluindo os custos para refazimento dos projetos e das obras.
+     Alterações propostas pela CONCESSIONÁRIA em relação ao
+     previsto no ANEXO DO CONTRATO 1 - CADERNO DE ENCARGOS
+2    DA     CONCESSIONÁRIAErro!        Fonte    de   referência       não                        X
+     encontrada., incluindo custos para elaboração dos projetos e
+     para execução das alterações.
+     Mudanças nos projetos em relação ao previsto no ANEXO DO
+     CONTRATO 1 - CADERNO DE ENCARGOS DA CONCESSIONÁRIA,
+3                                                                               X
+     a pedido do PODER CONCEDENTE, que acarretem aumento de
+     custos ou despesas não previstas inicialmente.
+
+
+
+
+                                                                                                     6
+
+    CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                   Telefone: (34) 3822-5450
+                                                                                 RESPONSABILIDADE
+                                   RISCO                                    PODER
+                                                                                           CONCESSIONÁRIA
+                                                                          CONCEDENTE
+
+F                      RISCOS DE OBRAS E SERVIÇOS
+
+     Realização de investimentos, pagamentos, custos e despesas
+     para execução das obras e dos serviços previstos no CONTRATO
+     e no ANEXO DO CONTRATO 1 - CADERNO DE ENCARGOS DA
+1                                                                                                X
+     CONCESSIONÁRIAErro! Fonte de referência não encontrada.,
+     incluindo os aumentos de preços e custos ocorridos durante
+     execução contratual.
+     Não atendimento de marcos, atividades, eventos e prazos do
+     cronograma contratual previsto no ANEXO DO CONTRATO 1 -
+     Erro! Fonte de referência não encontrada.CADERNO DE
+2                                                                                                X
+     ENCARGOS DA CONCESSIONÁRIA ou de outros prazos
+     estabelecidos entre as PARTES ao longo da vigência do
+     CONTRATO, decorrente de culpa da CONCESSIONÁRIA.
+     Execução de serviços ou obras em desatendimento às
+     especificações     contratuais    ou      a   normas,    manuais,
+3                                                                                                X
+     regulamentações e referências técnicas vigentes, incluindo os
+     custos para refazimento ou correção dos serviços ou obras.
+     Defeitos, vícios construtivos ou inadequações em obras ou
+     serviços         executados        pela        CONCESSIONÁRIA,
+4                                                                                                X
+     independentemente do recebimento das obras pela AGÊNCIA
+     REGULADORA.
+     Falhas decorrentes de técnicas e metodologia empregadas na
+5                                                                                                X
+     execução das obras e dos serviços OBJETO DO CONTRATO.
+     Aumento de custos de investimentos e despesas advindos de
+     eventuais obras emergenciais, desde que os eventos que lhe
+6                                                                                                X
+     deram causa estejam cobertos pelos seguros contratados pela
+     CONCESSIONÁRIA.
+
+
+
+
+                                                                                                     7
+
+    CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                   Telefone: (34) 3822-5450
+                                                                                  RESPONSABILIDADE
+                                    RISCO                                    PODER
+                                                                                            CONCESSIONÁRIA
+                                                                           CONCEDENTE
+      Aumento de custos de investimentos e despesas decorrentes
+      de eventuais obras emergenciais, desde que os eventos que lhe
+7     deram causa não estejam cobertos pelos seguros contratados                 X
+      pela CONCESSIONÁRIA, e tenham sido reconhecidos pela
+      AGÊNCIA REGULADORA como emergencial.
+      Alterações nas especificações das obras ou dos serviços
+      OBJETO da CONCESSÃO decorrentes de novas exigências do
+8                                                                                X
+      PODER CONCEDENTE ou da AGÊNCIA REGULADORA, ou
+      resultantes de alterações legais ou regulamentares.
+      Atraso na liberação de áreas à cargo do PODER CONCEDENTE
+9     necessárias à execução das obras e dos serviços OBJETO da                  X
+      CONCESSÃO.
+      Danos comprovadamente causados pela CONCESSIONÁRIA aos
+10    imóveis vizinhos aos locais de execução das obras                                           X
+      concernentes ao OBJETO da CONCESSÃO.
+
+
+G                 RISCOS DE OPERAÇÃO E MANUTENÇÃO
+
+
+      Projeções incorretas e custos de operação e manutenção acima
+1                                                                                                 X
+      do estimado.
+
+
+2     Aumento de custos devido ao volume de RSU.                                                  X
+
+
+      Custos de manutenção e de consumo de energia dos sistemas
+3                                                                                                 X
+      elétricos e de iluminação existentes e novos.
+
+
+      Interrupção no fornecimento de energia elétrica nos
+4     equipamentos ou instalações sob responsabilidade da                                         X
+      CONCESSIONÁRIA.
+
+
+
+
+                                                                                                      8
+
+     CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                    Telefone: (34) 3822-5450
+                                                                                  RESPONSABILIDADE
+                                    RISCO                                    PODER
+                                                                                            CONCESSIONÁRIA
+                                                                           CONCEDENTE
+      Restrição      operacional       nos    casos      atribuíveis   à
+5                                                                                                 X
+      CONCESSIONÁRIA.
+
+      Restrição operacional que afete a execução das obras e dos
+6                                                                                X
+      serviços nos casos não atribuíveis à CONCESSIONÁRIA.
+
+      Atraso no término dos contratos atuais e consequente
+7     adiamento da emissão da ORDEM DE SERVIÇO para a                            X
+      CONCESSIONÁRIA.
+
+      Atraso de emissão da ORDEM DE SERVIÇO, exceto se
+8                                                                                X
+      decorrente de fatos imputáveis à CONCESSIONÁRIA.
+
+      Atraso, pelo PODER CONCEDENTE, na entrega de BENS DA
+9                                                                                X
+      CONCESSÃO.
+
+      Roubos, furtos, destruição, perdas ou avarias nos BENS DA
+      CONCESSÃO, cuja materialização não tenha sido provocada por
+10    ato    ou    fato    imputável     ao    PODER      CONCEDENTE,                             X
+      responsabilidade que não é reduzida ou excluída em virtude da
+      fiscalização da AGÊNCIA REGULADORA.
+      Roubos, furtos, destruição, perdas ou avarias nas UNIDADES DE
+      TRIAGEM      LOCAL     operadas    e    mantidas    pelo    PODER
+11                                                                               X
+      CONCEDENTE, pelos MUNICÍPIOS ou por ORGANIZAÇÃO DE
+      CATADORES DE MATERIAIS REUTILIZÁVEIS E/OU RECICLÁVEIS.
+      Outros riscos relacionados aos BENS DA CONCESSÃO, à exceção
+12    daqueles expressamente atribuídos ao PODER CONCEDENTE                                       X
+      no CONTRATO e neste ANEXO DO CONTRATO.
+
+H                           RISCOS FINANCEIROS
+
+
+
+
+                                                                                                      9
+
+     CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                    Telefone: (34) 3822-5450
+                                                                                 RESPONSABILIDADE
+                                   RISCO                                    PODER
+                                                                                           CONCESSIONÁRIA
+                                                                          CONCEDENTE
+
+     Obtenção dos financiamentos e recursos necessários à
+1                                                                                                X
+     exploração da CONCESSÃO.
+
+
+     Aumento do custo de capital, crédito e financiamento, inclusive
+2    os resultantes de aumentos das taxas de juros e variação                                    X
+     cambial.
+     Inflação de um determinado período ser superior ou inferior ao
+3    índice utilizado para reajuste da TARIFA ou de outros valores                               X
+     previstos no CONTRATO.
+
+
+4    Variação da taxa de câmbio.                                                                 X
+
+
+     Não    obtenção     do   retorno    econômico      previsto   pela
+5                                                                                                X
+     CONCESSIONÁRIA.
+
+     Variação dos custos de insumos operacionais, de manutenção,
+6                                                                                                X
+     de compra, dentre outros que afetem a prestação do SMRSU
+
+     Variação de custos e da produtividade da mão-de-obra
+7    empregada pela CONCESSIONÁRIA na realização das atividades                                  X
+     OBJETO da CONCESSÃO.
+
+     Custos diretos e indiretos relacionados a imóveis componentes
+8                                                                                                X
+     dos BENS DA CONCESSÃO.
+
+     Prejuízos financeiros decorrentes da gestão ineficiente do
+9                                                                                                X
+     OBJETO da CONCESSÃO.
+
+
+
+I         RISCOS DE ATUALIZAÇÃO E INOVAÇÃO TECNOLÓGICA
+
+
+
+
+                                                                                                     10
+
+    CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                   Telefone: (34) 3822-5450
+                                                                                 RESPONSABILIDADE
+                                   RISCO                                    PODER
+                                                                                           CONCESSIONÁRIA
+                                                                          CONCEDENTE
+     Despesas e investimentos necessários para garantir a
+     atualidade dos serviços e a inovação tecnológica no âmbito da
+1                                                                                                X
+     CONCESSÃO, incluindo o atendimento aos INDICADORES DE
+     DESEMPENHO.
+
+     Obsolescência tecnológica e/ou deficiência de equipamentos
+2                                                                                                X
+     na execução das obras ou prestação dos serviços.
+
+     Incorporação de inovações tecnológicas por iniciativa da
+3                                                                                                X
+     CONCESSIONÁRIA.
+     Riscos relacionados à incorporação de inovações tecnológicas,
+     por determinação do PODER CONCEDENTE ou da AGÊNCIA
+     REGULADORA, desde que não relacionado às despesas e
+4                                                                               X
+     investimentos necessários para garantir o atingimento das
+     metas definidas no ANEXO DO CONTRATO 2 – SISTEMA DE
+     MENSURAÇÃO DE DESEMPENHO.
+
+           RISCOS DE VÍCIOS OCULTOS, ARQUEOLÓGICOS E DE
+J
+                         PATRIMÔNIO CULTURAL
+
+     Vícios ocultos dos BENS DA CONCESSÃO, não constatados e não
+     reclamados no prazo de 5 (cinco) anos, contados da sua
+     transferência à CONCESSIONÁRIA pelo PODER CONCEDENTE.
+     Não se considera ocultos aqueles vícios que, dentre outras
+     hipóteses: (i) figurem expressamente no EDITAL ou no
+     CONTRATO como sendo risco da CONCESSIONÁRIA; (ii)
+1                                                                                                X
+     constem de manifestação formal da Administração Pública, em
+     documentos públicos disponíveis para qualquer interessado ou
+     sejam de conhecimento comum à época da LICITAÇÃO; (iii)
+     poderiam ter sido detectados pelas licitantes, por expertise e
+     conhecimentos pretéritos, ou pela utilização de meios e
+     técnicas    ordinariamente     disponíveis   e   financeiramente
+
+
+
+                                                                                                     11
+
+    CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                   Telefone: (34) 3822-5450
+                                                                                 RESPONSABILIDADE
+                                   RISCO                                     PODER
+                                                                                           CONCESSIONÁRIA
+                                                                           CONCEDENTE
+     acessíveis no mercado, no momento anterior ao processo
+     licitatório, em igualdade de condições com os demais
+     interessados.
+
+     Vícios ocultos nos BENS DA CONCESSÃO adquiridos,
+     arrendados ou locados pela CONCESSIONÁRIA após a
+2                                                                                                X
+     celebração do CONTRATO, para desempenho de suas
+     atividades ao longo da CONCESSÃO.
+     Identificação e/ou descoberta de condições geológicas e
+     geotécnicas que não pudessem ser conhecidas à época da
+3                                                                               X
+     LICITAÇÃO e dificultem ou impeçam a execução das obras e dos
+     serviços pela CONCESSIONÁRIA.
+     Descobertas arqueológicas e/ou outras interferências com
+     patrimônio cultural que não pudessem ser conhecidas à época
+4                                                                               X
+     da LICITAÇÃO e dificultem ou impeçam a execução das obras e
+     dos serviços pela CONCESSIONÁRIA.
+
+        RISCOS JURÍDICOS, LEGISLATIVOS E DE ATUALIZAÇÃO DE
+K
+                             NORMAS TÉCNICAS
+
+     Custos     de   ações    judiciais    de   terceiros     contra   a
+     CONCESSIONÁRIA ou suas subcontratadas, decorrentes da
+1    execução da CONCESSÃO, quando por fato imputável ao                        X
+     PODER      CONCEDENTE,        compreendendo        as     despesas
+     processuais, honorários e valor da condenação.
+
+     Anulação do CONTRATO, quando por fato imputável ao PODER
+2                                                                               X
+     CONCEDENTE.
+
+     Adequação às atualizações das normas, manuais, referências e
+     regulamentações técnicas vigentes, incluindo os custos
+3                                                                                                X
+     decorrentes, editados pela ANA, ou órgão ou entidade que
+     venha substituí-la, e pela AGÊNCIA REGULADORA, bem como
+
+
+
+                                                                                                     12
+
+    CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                   Telefone: (34) 3822-5450
+                                                                                 RESPONSABILIDADE
+                                    RISCO                                   PODER
+                                                                                           CONCESSIONÁRIA
+                                                                          CONCEDENTE
+     outros documentos normativos que configurem o estado da
+     técnica aplicáveis ao SMRSU, quando não alterem a
+     composição econômico-financeira da CONCESSÃO ou afetem
+     encargos e custos para execução do OBJETO da CONCESSÃO.
+     Adequação às atualizações de normas, manuais, referências e
+     regulamentações técnicas vigentes, incluindo os custos
+     decorrentes, editados pela ANA, ou órgão ou entidade que
+     venha substituí-la, e pela AGÊNCIA REGULADORA, bem como
+4                                                                               X
+     outros documentos normativos que configurem o estado da
+     técnica aplicáveis ao SMRSU, quando alterem a composição
+     econômico-financeira da CONCESSÃO ou afetem encargos e
+     custos para execução do OBJETO da CONCESSÃO.
+     Riscos    relacionados     a   alterações     na   legislação    e
+     regulamentação       ou   superveniência     de    jurisprudência
+     vinculante, em qualquer esfera de governo ou Poder, que
+5    impeçam a CONCESSIONÁRIA de adimplir suas obrigações                       X
+     legais, regulamentares ou contratuais, alterem a composição
+     econômico-financeira da CONCESSÃO ou afetem encargos e
+     custos para execução do OBJETO da CONCESSÃO.
+
+     Recolhimento dos tributos incidentes sobre as atividades que
+     compõem o OBJETO da CONCESSÃO e integral cumprimento da
+6                                                                                                X
+     legislação tributária, inclusive no tocante às atividades
+     geradoras de RECEITAS EXTRAORDINÁRIAS.
+
+
+
+
+                                                                                                     13
+
+    CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                    Telefone: (34) 3822-5450
+                                                                                  RESPONSABILIDADE
+                                    RISCO                                    PODER
+                                                                                            CONCESSIONÁRIA
+                                                                           CONCEDENTE
+      Criação, extinção ou alteração de tributos e encargos legais ou
+      da regulação tributária, que impactem negativamente o fluxo
+      de caixa da CONCESSIONÁRIA e afetem a realização do OBJETO
+7     da    CONCESSÃO,       inclusive    decorrentes     da    Emenda           X
+      Constitucional nº 132, de 20 de dezembro de 2023, excetuados
+      os tributos incidentes sobre a renda ou o lucro da
+      CONCESSIONÁRIA e suas subcontratadas.
+      Atraso injustificado nos procedimentos e processos decisórios
+      por parte do PODER CONCEDENTE, para fins de recomposição
+      do EQUILÍBRIO ECONÔMICO-FINANCEIRO do CONTRATO,
+8     decorrete da Emenda Constitucional nº 132, de 20 de                        X
+      dezembro de 2023, sendo cabível a inclusão na TARIFA-BASE
+      RSD e na TARIFA-BASE RPU da atualização monetária e Taxa de
+      Juros SELIC.
+      Atraso injustificado na apresentação de informações ou
+      insuficientes, incompletas ou contraditórias apresentadas pela
+9     CONCESSIONÁRIA para fins de pleito de REEQUILÍBRIO                                          X
+      ECONÔMICO-FINANCEIRO DO CONTRATO decorrente da
+      Emenda Constitucional nº 132, de 20 de dezembro de 2023.
+      Impactos da criação, extinção ou alteração de tributos e
+      encargos legais ou da regulação tributária sobre as RECEITAS
+10                                                                                                X
+      EXTRAORDINÁRIAS,        inclusive   decorrentes     da    Emenda
+      Constitucional nº 132, de 20 de dezembro de 2023.
+      Decisão arbitral, judicial ou administrativa que impeça ou
+      impossibilite a CONCESSIONÁRIA de executar as obras ou
+      serviços OBJETO do CONTRATO, cobrar a TARIFA ou revisá-la
+11                                                                               X
+      ou reajustá-la de acordo com o estabelecido no CONTRATO,
+      exceto nos casos em que a CONCESSIONÁRIA houver dado
+      causa a tal decisão.
+
+
+
+                                                                                                      14
+
+     CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                    Telefone: (34) 3822-5450
+                                                                                  RESPONSABILIDADE
+                                    RISCO                                    PODER
+                                                                                            CONCESSIONÁRIA
+                                                                           CONCEDENTE
+      Riscos relacionados ao fato do príncipe ou fato da
+      administração que provoque impacto econômico-financeiro no
+      CONTRATO.
+      Inclui-se no conceito de fato da administração o atraso ou
+      descumprimento, pelo PODER CONCEDENTE ou pela AGÊNCIA
+12                                                                               X
+      REGULADORA, de suas obrigações legais, contratuais ou
+      regulamentares, incluindo, mas não se limitando, ao
+      descumprimento de prazos aplicáveis ao PODER CONCEDENTE
+      e à AGÊNCIA REGULADORA previstos neste CONTRATO e/ou na
+      legislação e regulamentação vigentes.
+
+L             RISCOS POR DANOS E PREJUÍZOS A TERCEIROS
+
+      Danos ou prejuízos de qualquer natureza causados ao PODER
+      CONCEDENTE, à AGÊNCIA REGULADORA, aos USUÁRIOS e a
+      terceiros, pela CONCESSIONÁRIA ou seus representantes,
+1     administradores, empregados, prepostos, subcontratados,                                     X
+      prestadores de serviços ou qualquer outra pessoa física ou
+      jurídica a ela vinculada, no exercício das atividades abrangidas
+      pela CONCESSÃO.
+
+      Falhas na prestação dos serviços OBJETO da CONCESSÃO por
+2                                                                                                 X
+      fato imputável à CONCESSIONÁRIA.
+
+
+      Falhas na prestação dos serviços OBJETO da CONCESSÃO por
+3                                                                                X
+      fato não imputável à CONCESSIONÁRIA.
+
+
+      Danos ou prejuízos de qualquer natureza causados aos
+      USUÁRIOS e a terceiros, não imputáveis à CONCESSIONÁRIA,
+4                                                                                X
+      ou    seus   administradores,     empregados,     prepostos     ou
+      prestadores de serviços ou qualquer outra pessoa física ou
+
+
+
+                                                                                                      15
+
+     CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                    Telefone: (34) 3822-5450
+                                                                                 RESPONSABILIDADE
+                                   RISCO                                    PODER
+                                                                                           CONCESSIONÁRIA
+                                                                          CONCEDENTE
+     jurídica a ela vinculada, no exercício das atividades abrangidas
+     pela CONCESSÃO.
+
+
+
+
+M                          RISCOS AMBIENTAIS
+
+     Responsabilidade sobre os passivos ambientais já existentes ou
+     originados em data anterior à DATA DA EMISSÃO DA ORDEM
+     DE SERVIÇO, ainda que verificados ou conhecidos após tal data,
+     bem como pelas compensações ambientais, e condicionantes
+1                                                                               X
+     que não estejam previstas no EDITAL ou nas licenças
+     ambientais disponibilizadas pelo PODER CONCEDENTE, e desde
+     que não sejam decorrentes de ação ou omissão da
+     CONCESSIONÁRIA.
+     Embargo de obras e atividades, novos custos, necessidade de
+     alteração de projetos e/ou necessidade de emissão de novas
+     autorizações pelos órgãos competentes em decorrência da
+2                                                                                                X
+     inobservância do EDITAL, do CONTRATO, da legislação
+     ambiental e das licenças ambientais vigentes no curso da
+     CONCESSÃO, por ato ou fato imputável à concessionária.
+
+     Danos ambientais comprovadamente decorrentes das OBRAS
+3    DE IMPLANTAÇÃO da CONCESSÃO ou da prestação do SMRSU                                        X
+     pela CONCESSIONÁRIA.
+
+
+N              RISCO DE FORÇA MAIOR E CASO FORTUITO
+
+
+     Caso fortuito ou força maior, desde que o fator gerador seja
+     segurável no Brasil por, no mínimo, duas seguradoras,
+1                                                                                                X
+     considerando o prazo de dois anos anteriores à data de
+     ocorrência, conforme registrado na Superintendência de
+
+
+
+                                                                                                     16
+
+    CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                   Telefone: (34) 3822-5450
+                                                                                 RESPONSABILIDADE
+                                   RISCO                                    PODER
+                                                                                           CONCESSIONÁRIA
+                                                                          CONCEDENTE
+     Seguros Privados (SUSEP) ou órgão que venha a substituí-la.
+
+
+
+
+     Riscos que poderiam ser objeto de cobertura de seguros
+     oferecidos no Brasil na data de sua ocorrência, mas que deixem
+2                                                                                                X
+     de sê-lo como resultado direto ou indireto de ação ou omissão
+     da CONCESSIONÁRIA.
+     Riscos relacionados a caso fortuito ou força maior, desde que o
+     fato gerador não seja segurável no Brasil por, no mínimo, duas
+     seguradoras, considerando o prazo de um ano anterior à data
+3    de ocorrência, conforme registrado na Superintendência de                  X
+     Seguros Privados (SUSEP) ou órgão que venha a substituí-la,
+     que retardem ou impeçam a execução das obras ou dos
+     serviços OBJETO da CONCESSÃO.
+       RISCOS DE MANIFESTAÇÕES, DISTÚRBIOS, GREVES E LOCK-
+O
+                                   OUTS
+
+     Greves de funcionários da CONCESSIONÁRIA, subcontratados,
+1    terceirizados, prestadores de serviços ou fornecedores e lock-                              X
+     outs.
+
+     Interdição total ou parcial dos bens vinculados à CONCESSÃO e
+2    respectivas vias de acessos, por causas não imputáveis à                   X
+     CONCESSIONÁRIA.
+
+     Impactos na execução das obras ou na prestação de serviços
+     OBJETO do CONTRATO em decorrência da ação de
+3    manifestações sociais e/ou públicas e/ou comunidades                       X
+     lindeiras, exceto nos casos em que restar comprovada culpa da
+     CONCESSIONÁRIA.
+
+
+
+
+                                                                                                     17
+
+    CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                   Telefone: (34) 3822-5450
+                                                                                 RESPONSABILIDADE
+                                   RISCO                                    PODER
+                                                                                           CONCESSIONÁRIA
+                                                                          CONCEDENTE
+
+         RISCOS RELACIONADOS À ALTERAÇÃO UNILATERAL DO
+P
+                                CONTRATO
+
+     Alteração unilateral do CONTRATO, de projeto, do plano de
+     execução ou do OBJETO pelo PODER CONCEDENTE, ou em
+     decorrência de determinação de qualquer autoridade pública,
+1                                                                               X
+     desde que, como resultado direto dessa modificação, verifique-
+     se efetiva alteração da equação econômico-financeira do
+     CONTRATO, para mais ou para menos.
+
+     Modificações em INDICADORES DE DESEMPENHO, encargos,
+     especificações ou condições de prestação dos SMRSU
+2                                                                               X
+     promovidas unilateralmente pelo PODER CONCEDENTE ou pela
+     AGÊNCIA REGULADORA.
+
+
+
+
+                                                                                                   18
+
+    CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                   Telefone: (34) 3822-5450
+

@@ -1,0 +1,30 @@
+ | Estimativa do custo do capital próprio, do capital de terceiros e do custo médio ponderado de capital (WACC)
+ |  |  |  |  |  |  | Fonte:
+ |  | Custo do Capital Próprio  (Ke) |  | 0.15932039557090838
+ |  | Ke = Rf + β (Rm - Rf) + Rp
+ |  | Em que:
+ |  | Rf  | retorno do ativo livre de risco | 0.02711059576169534 |  |  | T-Bond 10 YR (média histórica de 10 anos - data base jan/26). U.S. Department of the Treasury. Disponível em: https://home.treasury.gov/
+ |  | βι | sensibilidade da ação em relação ao mercado de ações | 1.0132022036686055 |  |  | Beta realavancado. Conforme fórmula célula D18. Base: beta desalavancado Damodaran. Aswath Damodaran; Beta, Unlevered beta and other risk measures, 2026. Disponível em: https://pages.stern.nyu.edu/~adamodar/New_Home_Page/home.htm.
+ |  | Rm | retorno esperado para a carteira de mercado | 0.1300120176536721 |  |  | S&P500 (média histórica de 10 anos - data base jan/26)
+ |  | Rp | risco país | 0.027949852387629304 |  |  | CDS de 10 anos - data base jan/26, com multiplicador de volatilidade.
+ |  | (Rm - Rf) | prêmio de risco do mercado | 0.10290142189197676
+ |  | βu | beta desalavancado | 0.82 |  |  | Beta, base global, segmento Environmental & Waste Services.  Aswath Damodaran; Beta, Unlevered beta and other risk measures, 2026. Disponível em: https://pages.stern.nyu.edu/~adamodar/New_Home_Page/home.htm
+ |  | βι | beta realavancado | 1.0132022036686055
+ |  |  | 𝛽𝑙 = 𝛽𝑢 (1+(1−𝑇𝑚)(𝐷/𝐸))
+ |  | Custo do Capital Próprio  (Ke) deflacionado |  | 0.1360952785593137
+ |  | πamericana | Taxa de inflação norte americana
+ |  |  | πamericana = | 0.02044293066779268
+ |  | Em que:
+ |  |  | Nominal Treasury Rate | 0.02711059576169534 |  |  | U.S. Department of the Treasury; Treasury Par Yield Curve Rates (média histórica de 10 anos - data base jan/26). Disponível em: https://home.treasury.gov/
+ |  |  | TIPs Rate | 0.006534089162182931 |  |  | U.S. Department of the Treasury; Treasury par Real Yield Curve Rates (média histórica de 10 anos - data base jan/26). Disponível em: https://home.treasury.gov/
+ |  | Custo do Capital de Terceiros |  | 0.06299690257583533
+ |  | Kd | Custo do Capital de Terceiros
+ |  |  | Kd = (PR + Rp )(1-T)
+ |  | Em que:
+ |  | PR | Prime Rate do mercado financeiro americano | 0.0675 |  |  | Base janeiro 2026. Fonte: https://www.jpmorganchase.com/about/our-business/historical-prime-rate.
+ |  | T | Taxa de Impostos (CSLL e IRPJ) | 0.34
+ |  | Custo Médio Ponderado de Capital (WACC) real |  | 0.11686498859823251
+ |  | WACC = D/D+E (Kd) + E/D+E (Ke deflacionado)
+ |  | E | Proporção do Valor do Capital Próprio (Equity) | 0.7369258933272662 |  |  | D/E Ratio. Setor "Environmental & Waste Services.  Damodaran. Aswath Damodaran; Beta, Unlevered beta and other risk measures, 2026. Disponível em: https://pages.stern.nyu.edu/~adamodar/New_Home_Page/home.htm.
+ |  | D | Proporção do Valor de Dívida | 0.2630741066727338
+[29 linhas]

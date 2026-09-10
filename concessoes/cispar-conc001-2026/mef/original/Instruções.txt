@@ -1,0 +1,20 @@
+ | Instruções
+ | Proteção:
+ | Células com premissas editáveis estão desbloqueadas para edição.
+ | As demais células, que não sejam premissas editáveis, estão bloqueadas.
+ | Procedimento para desproteger e editar as células bloqueadas:
+ |  | Opção: Revisão => Proteger Planilha => senha para desproteger: 0522
+ | Legenda de cores das células:
+ | x | Premissas editáveis
+ | x | Células com fórmulas
+ | x | Células com dados fornecidos pelos municípios
+ | Abas:
+ | Abas subdivididas entre:
+ |  | Painel
+ |  | Premissas
+ |  | Demonstrações Financeiras
+ |  | Informações Consolidadas
+ |  | RPU
+ |  | Detalhamento
+ | Link para todas as informações na aba "Painel".
+[19 linhas]

@@ -1,0 +1,25 @@
+ |  | Receita não operacional venda dos caminhões
+ |  | Estimativa valor residual
+ |  | Referência Coleta Convencional
+ |  | Tabela FIPE ref. 509281-7 Mercedes-Benz - Atego 1719 2p (diesel) (E5) (8 anos de uso) |  |  | 0.7062433596152771 | mês de referência FIPE: janeiro/2026
+ |  | Referência Coleta Seletiva
+ |  | Tabela FIPE ref. 509292-2 - Mercedes-Benz Axor 2036 (8 anos) |  |  | 0.5222749520615714 | mês de referência FIPE: janeiro/2026
+ |  | Referência Transbordo
+ |  | Tabela FIPE ref. 509292-2 - Mercedes-Benz Axor 2036 (10 anos) |  |  | 0.4672464516806907 | mês de referência FIPE: janeiro/2026
+ |  | Referência Disposição Final
+ |  | Tabela FIPE ref. 509292-2 - Mercedes-Benz Axor 2036 (10 anos) |  |  | 0.4672464516806907 | mês de referência FIPE: janeiro/2026
+ |  |  | Valor Residual Caminhões  | COLETA | TRANSBORDO | DISPOSIÇÃO FINAL
+ |  |  | Ano | Valor (R$) | Valor (R$) | Valor (R$)
+ |  |  | 1 | 0 | 0 | 0
+ |  |  | 9 | 7626241.893253908 | 0 | 0
+ |  |  | 10 | 0 | 6538645.634651275 | 260873.20711108582
+ |  |  | 17 | 7266058.959276527 | 0 | 0
+ |  |  | 20 | 0 | 1421444.7031850598 | 260873.20711108582
+ |  |  | 25 | 7266058.959276527 | 0 | 0
+ |  |  | Total | 22158359.811806962 | 7960090.337836335 | 521746.41422217165
+ |  | Receita não Operacional - Venda dos Caminhões |  | TOTAL | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30
+ |  | Coleta |  | 22158359.811806962 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 7626241.893253908 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 7266058.959276527 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 7266058.959276527 | 0 | 0 | 0 | 0 | 0
+ |  | Transbordo |  | 7960090.337836335 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 6538645.634651275 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1421444.7031850598 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+ |  | Disposição Final |  | 521746.41422217165 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 260873.20711108582 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 260873.20711108582 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+ |  | Total |  | 30640196.56386547 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 7626241.893253908 | 6799518.841762361 | 0 | 0 | 0 | 0 | 0 | 0 | 7266058.959276527 | 0 | 0 | 1682317.9102961456 | 0 | 0 | 0 | 0 | 7266058.959276527 | 0 | 0 | 0 | 0 | 0
+[24 linhas]

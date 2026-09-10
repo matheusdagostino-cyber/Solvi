@@ -1,0 +1,147 @@
+ | Projeto de concessão dos serviços de coleta, transporte, tratamento e destinação final de resíduos sólidos urbanos dos municípios que integram o CISPAR - Consórcio Público Intermunicipal de Desenvolvimento Sustentável do Alto Paranaíba
+ |  | Prazos
+ |  | Prazo das Projeções |  | 30 | anos
+ |  | Geração de Resíduos
+ |  | Municípios |  |  |  | Geração per capita RSD 
+(Kg/hab/d)
+ |  | Fonte Referencial:  |  |  |  | FEAM + Visita Técnica
+ |  | Arapuá |  |  |  | 0.681
+ |  | Coromandel |  |  |  | 0.697
+ |  | Cruzeiro da Fortaleza |  |  |  | 0.681
+ |  | Guimarânia |  |  |  | 0.654
+ |  | Lagoa Formosa |  |  |  | 0.697
+ |  | Patos de Minas |  |  |  | 0.86
+ |  | Presidente Olegário |  |  |  | 0.697
+ |  | Rio Paranaíba |  |  |  | 0.697
+ |  | Serra do Salitre |  |  |  | 0.697
+ |  | % de Geração de RPU/RSD |  |  |  | 0.235
+ |  | Dias por ano |  |  |  | 313
+ |  | Resíduos Potencialmente Recicláveis (FEAM/MG - 2015) |  |  |  | 0.4005
+ |  | Resíduos Orgânicos (FEAM/MG-2015) |  |  |  | 0.4482
+ |  | Receitas do Projeto
+ |  | RSD |  |  |  |  | RPU
+ |  | Tarifa-Base Referencial |  | 2.8567488023289074 | (R$/m³) |  | Tarifa Básica dos Entes Públicos |  | 223.6683778869185 |  (R$ por tonelada)
+ |  | Ramp up (% Tarifa Básica - por ano)
+ |  | % Ano 1 |  | 1
+ |  | % Ano 2 |  | 1 |  |  | Receita Acessória
+ |  | % Ano 3 |  | 1 |  |  | Valor de venda da energia |  |  | 0 | (R$ por MWh)
+ |  | % Ano 4 |  | 1
+ |  | % Ano 5  |  | 1
+ |  | % Ano 6 |  | 1
+ |  | % Ano 7 |  | 1
+ |  | % Ano 8 |  | 1
+ |  | % Ano 9 |  | 1
+ |  | % Ano 10 - em diante |  | 1
+ |  | Inadimplência - Tarifa
+ |  |  | Ano | Inadimplência Estimada
+%
+ |  |  | 1 | 0.16619512328884023 | Fonte: Utilizada como base o histórico de inadimplência de IPTU do município de Patos de Minas.
+ |  |  | 2 | 0.09510026875278198
+ |  |  | 3 | 0.07527915771601887
+ |  |  | 4 | 0.06514052028761849
+ |  |  | 5 | 0.05999413844310206
+ |  |  | 6 | 0.05598223630529757
+ |  |  | 7 | 0.05328369366742452
+ |  |  | 8 | 0.05328369366742452
+ |  |  | 9 | 0.05328369366742452
+ |  |  | 10 | 0.05328369366742452
+ |  |  | 11 | 0.05328369366742452
+ |  |  | 12 | 0.05328369366742452
+ |  |  | 13 | 0.05328369366742452
+ |  |  | 14 | 0.05328369366742452
+ |  |  | 15 | 0.05328369366742452
+ |  |  | 16 | 0.05328369366742452
+ |  |  | 17 | 0.05328369366742452
+ |  |  | 18 | 0.05328369366742452
+ |  |  | 19 | 0.05328369366742452
+ |  |  | 20 | 0.05328369366742452
+ |  | Despesas do Projeto
+ |  | Despesa com órgão regulador (mês/economia) |  |  |  | 0.56 | Fonte: BDMG.  Orçamento CISPAR R$ 0,52 em 03/2024. Corrigido para data-base 01/2026
+ |  | Ressarcimento de estudos |  |  |  | 3011407.33 | Fonte: BDMG.  R$ 2.587.800,00 corrigido pelo IPCA a cada 12 meses, contados a partir de maio de 2022.
+ |  | B3 |  |  |  | 512268.4 | Fonte: Codemge R$ 505.664,62- Correção 08/2025 para 01/2026.
+ |  | Agente Financeiro (mês) |  |  |  | 8050 | Fonte: Consultoria. Contratos firmados em projetos comparáveis.
+ |  | Consórcio Gestão Contratual  (mês) |  |  |  | 50000 | Fonte:  BDMG.
+ |  | Despesas com modelo de faturamento direto
+ |  | Serviço de registro e liquidação |  |  |  | 2.1698932637499997 | Fonte: Média de contratos firmados (vide aba "Dados Cobrança"). Valor Unitário.
+ |  | Sistema de Gestão
+ |  |  | Implantação e Treinamento |  |  | 17936.511300000002 | Fonte: Cotação. Valor único.
+ |  |  | Plano com 20.000 contrato ativos e 20 licenças |  |  | 3692.8111500000005 | Fonte: Cotação. Valor mensal.
+ |  |  | Contratos Adicional Unitário |  |  | 0.021101778 | Fonte: Cotação. Valor mensal.
+ |  |  | Serviços (SMS, WhatsApp, E-mail) unitário |  |  | 0.28487400300000004 | Fonte: Cotação. Valor mensal.
+ |  | Serviço de impressão |  |  |  | 0.247923791 | Fonte: Média de atas de registro de preços (vide aba "Dados Cobrança"). Valor Unitário.
+ |  | Serviço de postagem |  |  |  | 3.7 | Fonte: Portaria MCOM Nº 17.364, de 7 de abril de 2025, do Ministério das Comunicações. Valor Unitário
+ |  | Gestão administrativa da cobrança - protesto |  |  |  | 4.136666666666667 | Fonte: Média de contratos firmados (vide aba "Dados Cobrança"). Valor Unitário.
+ |  | Gestão administrativa da cobrança - equipe |  |  |  | 53460 | Fonte: SINAPI (vide aba "Dados Cobrança"). Valor mensal.
+ |  | Premissas Tributárias
+ |  |  |  |  | Lucro Real | Lucro Presumido | Fonte Referencial:
+ |  | Base de cálculo PIS/COFINS
+ |  | PIS |  |  | 0.0165 | 0.0065 | Secretaria Especial da Receita Federal do Brasil.
+ |  | COFINS |  |  | 0.076 | 0.03 | Secretaria Especial da Receita Federal do Brasil.
+ |  | ISS
+ |  | Arapuá |  |  | 0.03 | 0.03 | Arapuá -  Lei Complementar N° 007/2018 - Anexo I - item 7.09 - Arapuá/MG.
+ |  | Coromandel |  |  | 0.05 | 0.05 | Coromandel -  Lei Complementar N° 124/2013, artigo 240, 7.09 e artigo 286, I. - Coromandel/MG.
+ |  | Cruzeiro da Fortaleza |  |  | 0.03 | 0.03 | Cruzeiro da Fortaleza -  Lei Complementar N° 1.057/2013 - Anexo II, 7.09, artigo 127, b.  - Cruzeiro da Fortaleza.
+ |  | Guimarânia |  |  | 0.02 | 0.02 | Guimarânia -  Lei N° 1.376/2017, Tabela 1, item 7.09 - Guimarânia.
+ |  | Lagoa Formosa |  |  | 0.02 | 0.02 | Lagoa Formosa - Lei N° 2/97 - Artigo 167, Tabela II,  Lagoa Formosa/MG.
+ |  | Patos de Minas |  |  | 0.02 | 0.02 | Patos de Minas -   item 7.10 - Anexo I - Lei Complementar N° 204, de 22 de dezembro de 2003.
+ |  | Presidente Olegário |  |  | 0.03 | 0.03 | Presidente Olegário - Lei Complementar N° 67, de 4/12/2017, Anexo II - Lista de Serviços, item 7.09.
+ |  | Rio Paranaíba |  |  | 0.03 | 0.03 | Rio Paranaíba - Lei Complementar N° 83/2018. Tabela II - item 7.9. Rio Paranaíba/MG.
+ |  | Serra do Salitre |  |  | 0.03 | 0.03 | Serra do Salitre - Lei Complementar N° 937/2017, de 26/12/2017, Tabela I item 7.9 Serra do Salitre/MG.
+ |  | IRPJ |  |  | 0.15 | 0.15 | Secretaria Especial da Receita Federal do Brasil.
+ |  | Adicional IRPJ  |  |  | 0.1 | 0.1 | Lucro Acima de R$ 240 mil/ano. Secretaria Especial da Receita Federal do Brasil.
+ |  | CSLL |  |  | 0.09 | 0.09 | Secretaria Especial da Receita Federal do Brasil.
+ |  | Capital de Giro
+ |  | Prazos Médios |  | Dias
+ |  | Clientes |  | 45
+ |  | Salários a Pagar |  | 30
+ |  | Contas a Pagar |  | 15
+ |  | Tributos a Pagar  |  | 30
+ |  | Garantias e Seguros
+ |  |  |  |  |  |  | Valor a ser segurado: | Alíquota | Referência
+ |  | Garantia de Execução do Contrato |  |  |  | Anos 1 ao 10 | 0.05 | 0.002 | Valor segurado: 
+- Anos 1 ao 10: 5% do contrato
+- Anos 11 ao 30: 2,5% do contrato
+Pagamento do prêmio: anual.
+ |  |  |  |  |  | Anos 11 ao 30 | 0.025 | 0.002
+ |  | Risco de Engenharia  |  |  |  |  | 144967729.68 | 0.0035 | Valor segurado: valor do capex.
+Alíquota: % em relação ao CAPEX anual.
+Base: projeto CONVALE.
+ |  | Responsabilidade Civil  |  |  |  |  | 5000000 | 0.0055 | Valor segurado: R$ 5.000.000,00.
+Alíquota: % do valor segurado.
+Base: Projeto CONVALE.
+ |  | Riscos Nomeados ou Riscos Operacionais |  |  |  |  | 2500000 | 0.0045 | Valor segurado: R$ 2.500.000,00.
+Alíquota: % do valor segurado.
+Base: Projeto CONVALE.
+ |  | Projeções - Indicadores Econômicos
+ |  | Ano | 2026 | 2027 | 2028 | 2029 | Fonte Referencial:
+ |  | IPCA | 0.0399 | 0.038 | 0.035 | 0.035 | Focus Relatório de Mercado. Banco Central do Brasil. 30/01/2026.
+ |  | Selic | 0.1225 | 0.105 | 0.1 | 0.095 | Focus Relatório de Mercado. Banco Central do Brasil. 30/01/2026.
+ |  | População
+ |  | Municípios |  |  |  |  | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 | 31 | 32 | 33 | 34 | 35
+ |  | Fonte Referencial:  Fundação João Pinheiro (FJP)
+ |  | Arapuá |  |  |  |  | 2642 | 2627 | 2612 | 2597 | 2582 | 2567 | 2548 | 2529 | 2510 | 2491 | 2474 | 2452 | 2430 | 2408 | 2386 | 2365 | 2342 | 2319 | 2296 | 2273 | 2248 | 2225 | 2202 | 2179 | 2156 | 2133 | 2110 | 2087 | 2064 | 2041 | 2505.0000000000005 | 2505.0000000000005 | 2505.0000000000005 | 2505.0000000000005 | 2505.0000000000005
+ |  | Coromandel |  |  |  |  | 30204 | 30221 | 30238 | 30255 | 30272 | 30291 | 30246 | 30201 | 30156 | 30111 | 30066 | 29979 | 29892 | 29805 | 29718 | 29629 | 29504 | 29379 | 29254 | 29129 | 29005 | 28880 | 28755 | 28630 | 28505 | 28380 | 28255 | 28130 | 28005 | 27880 | 26558.000000000007 | 26558.000000000007 | 26558.000000000007 | 26558.000000000007 | 26558.000000000007
+ |  | Cruzeiro da Fortaleza |  |  |  |  | 3646 | 3650 | 3654 | 3658 | 3662 | 3668 | 3667 | 3666 | 3665 | 3664 | 3661 | 3653 | 3645 | 3637 | 3629 | 3622 | 3610 | 3598 | 3586 | 3574 | 3562 | 3550 | 3538 | 3526 | 3514 | 3502 | 3490 | 3478 | 3466 | 3454 | 4038 | 4038 | 4038 | 4038 | 4038
+ |  | Guimarânia |  |  |  |  | 9071 | 9155 | 9239 | 9323 | 9407 | 9490 | 9563 | 9636 | 9709 | 9782 | 9854 | 9912 | 9970 | 10028 | 10086 | 10146 | 10188 | 10230 | 10272 | 10314 | 10354 | 10396 | 10438 | 10480 | 10522 | 10564 | 10606 | 10648 | 10690 | 10732 | 8592.999999999998 | 8592.999999999998 | 8592.999999999998 | 8592.999999999998 | 8592.999999999998
+ |  | Lagoa Formosa |  |  |  |  | 19814 | 19899 | 19984 | 20069 | 20154 | 20238 | 20287 | 20336 | 20385 | 20434 | 20485 | 20504 | 20523 | 20542 | 20561 | 20582 | 20570 | 20558 | 20546 | 20534 | 20522 | 20510 | 20498 | 20486 | 20474 | 20462 | 20450 | 20438 | 20426 | 20414 | 17653.999999999993 | 17653.999999999993 | 17653.999999999993 | 17653.999999999993 | 17653.999999999993
+ |  | Patos de Minas |  |  |  |  | 172460 | 173387 | 174314 | 175241 | 176168 | 177094 | 178023 | 178952 | 179881 | 180810 | 181737 | 182362 | 182987 | 183612 | 184237 | 184861 | 185238 | 185615 | 185992 | 186369 | 186745 | 187122 | 187499 | 187876 | 188253 | 188630 | 189007 | 189384 | 189761 | 190138 | 165495.00000000006 | 165495.00000000006 | 165495.00000000006 | 165495.00000000006 | 165495.00000000006
+ |  | Presidente Olegário |  |  |  |  | 19112 | 19061 | 19010 | 18959 | 18908 | 18855 | 18766 | 18677 | 18588 | 18499 | 18409 | 18287 | 18165 | 18043 | 17921 | 17797 | 17665 | 17533 | 17401 | 17269 | 17139 | 17007 | 16875 | 16743 | 16611 | 16479 | 16347 | 16215 | 16083 | 15951 | 20090.999999999978 | 20090.999999999978 | 20090.999999999978 | 20090.999999999978 | 20090.999999999978
+ |  | Rio Paranaíba |  |  |  |  | 15453 | 15587 | 15721 | 15855 | 15989 | 16121 | 16227 | 16333 | 16439 | 16545 | 16652 | 16737 | 16822 | 16907 | 16992 | 17078 | 17133 | 17188 | 17243 | 17298 | 17354 | 17409 | 17464 | 17519 | 17574 | 17629 | 17684 | 17739 | 17794 | 17849 | 11296.999999999998 | 11296.999999999998 | 11296.999999999998 | 11296.999999999998 | 11296.999999999998
+ |  | Serra do Salitre |  |  |  |  | 12601 | 12712 | 12823 | 12934 | 13045 | 13158 | 13252 | 13346 | 13440 | 13534 | 13627 | 13693 | 13759 | 13825 | 13891 | 13959 | 14007 | 14055 | 14103 | 14151 | 14201 | 14249 | 14297 | 14345 | 14393 | 14441 | 14489 | 14537 | 14585 | 14633 | 12080.999999999998 | 12080.999999999998 | 12080.999999999998 | 12080.999999999998 | 12080.999999999998
+ |  |  |  |  |  |  | 285003 | 286299 | 287595 | 288891 | 290187 | 291482 | 292579 | 293676 | 294773 | 295870 | 296965 | 297579 | 298193 | 298807 | 299421 | 300039 | 300257 | 300475 | 300693 | 300911 | 301130 | 301348 | 301566 | 301784 | 302002 | 302220 | 302438 | 302656 | 302874 | 303092 | 268312 | 268312 | 268312 | 268312 | 268312
+ |  | % de Geração de RPU/RSD
+ |  | Rateio  ( em relação a itens de CAPEX e OPEX comuns e que não permitem uma individualização precisa)
+ |  | Municípios |  |  |  | %
+ |  | Fonte Referencial:  Resíduos
+ |  | Arapuá |  |  |  | 0.006827173392619549
+ |  | Coromandel |  |  |  | 0.08646370644217465
+ |  | Cruzeiro da Fortaleza |  |  |  | 0.010357808135649236
+ |  | Guimarânia |  |  |  | 0.027637330894877687
+ |  | Lagoa Formosa |  |  |  | 0.06002320880845907
+ |  | Patos de Minas |  |  |  | 0.6644464238750258
+ |  | Presidente Olegário |  |  |  | 0.054255720482041685
+ |  | Rio Paranaíba |  |  |  | 0.04942979299111514
+ |  | Serra do Salitre |  |  |  | 0.040558834978037216
+ |  |  |  |  |  | 1
+ |  | % de Geração de RPU/RSD
+[135 linhas]

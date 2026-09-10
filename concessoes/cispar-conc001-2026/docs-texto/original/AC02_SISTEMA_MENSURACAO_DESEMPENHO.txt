@@ -1,0 +1,1108 @@
+  ANEXO DO CONTRATO 2 – SISTEMA DE MENSURAÇÃO DE DESEMPENHO
+
+
+
+
+                 EDITAL DE CONCESSÃO N.º 001/2026
+
+
+        COLETA, TRANSBORDO, TRANSPORTE, TRIAGEM PARA REUTILIZAÇÃO OU
+RECICLAGEM, TRATAMENTO E DESTINAÇÃO FINAL AMBIENTALMENTE ADEQUADA DE
+                   RESÍDUOS SÓLIDOS URBANOS DO CISPAR
+
+
+
+
+                                  2026
+                                                             SUMÁRIO
+1     INTRODUÇÃO .................................................................................................................. 4
+
+2     SISTEMA DE MENSURAÇÃO DE DESEMPENHO .............................................................. 5
+
+         2.1        Procedimento de Avaliação de Desempenho ................................................ 5
+         2.2        Indicadores de Desempenho .......................................................................... 8
+         2.3        NOTA GLOBAL DE DESEMPENHO ................................................................. 23
+
+
+
+
+                                                                                                                                   ii
+    CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                            Telefone: (34) 3822-5450
+                                                       ÍNDICE DE QUADROS
+Quadro 1 – Relação de INDICADORES DE DESEMPENHO e respectivo quadro descritivo ...... 10
+Quadro 2 – INDICADOR DE DESEMPENHO ID1.1 – Cumprimento dos roteiros de COLETA
+INDIFERENCIADA em ÁREA URBANA........................................................................................ 11
+Quadro 3 – INDICADOR DE DESEMPENHO ID1.2 – Cumprimento dos roteiros de COLETA
+SELETIVA DE RECICLÁVEIS SECOS em ÁREA URBANA .............................................................. 12
+Quadro 4 – INDICADOR DE DESEMPENHO ID1.3 – Cumprimento dos roteiros de COLETA
+SELETIVA DE ORGÂNICOS em ÁREA URBANA .......................................................................... 13
+Quadro 5 – INDICADOR DE DESEMPENHO ID1.4 – Cumprimento dos roteiros de COLETA
+INDIFERENCIADA em ÁREA RURAL ........................................................................................... 14
+Quadro 6 – INDICADOR DE DESEMPENHO ID1.5 – Cumprimento dos roteiros de COLETA
+SELETIVA DE RECICLÁVEIS SECOS em ÁREA RURAL .................................................................. 15
+Quadro 7 – INDICADOR DE DESEMPENHO ID2.1 – Percentual de orgânicos destinado para
+tratamento biológico ................................................................................................................ 16
+Quadro 8 – INDICADOR DE DESEMPENHO ID2.2 – Percentual de recuperação de materiais
+recicláveis ................................................................................................................................. 17
+Quadro 9 – INDICADOR DE DESEMPENHO ID2.3 – Satisfação do USUÁRIO ............................ 18
+Quadro 10 – INDICADOR DE DESEMPENHO ID2.4 – Execução das atividades dos programas
+socioambientais: PROGRAMA DE EDUCAÇÃO AMBIENTAL e PROGRAMA DE RECUPERAÇÃO DE
+ÁREAS DEGRADADAS PELA DISPOSIÇÃO INADEQUADA DE RESÍDUOS SÓLIDOS URBANOS.... 19
+Quadro 11 – INDICADOR DE DESEMPENHO ID2.5 – Cumprimento da execução do PLANO DE
+INCLUSÃO DE ORGANIZAÇÕES DE CATADORES NA CONCESSÃO ............................................ 20
+Quadro 12 – QUADRO DE INDICADORES DE DESEMPENHO (QID) .......................................... 21
+Quadro 13 – Relação entre a NOTA GLOBAL DE DESEMPENHO e o FATOR DE AVALIAÇÃO ... 24
+
+
+
+
+                                                                                                                                             iii
+        CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                                   Telefone: (34) 3822-5450
+1      INTRODUÇÃO
+
+
+       A adoção de INDICADORES DE DESEMPENHO tem por objetivo criar métricas para o
+PODER CONCEDENTE e a AGÊNCIA REGULADORA avaliarem o progresso do cumprimento do
+OBJETO pela CONCESSIONÁRIA. São instrumentos importantes para que os serviços OBJETO
+DO CONTRATO sejam executados de forma eficiente, eficaz e sustentável.
+
+       Os INDICADORES DE DESEMPENHO foram estruturados objetivando formar um
+sistema de indução de comportamento, que visa a alinhar o interesse econômico da
+CONCESSIONÁRIA com o interesse público.
+
+       O resultado da aferição dos INDICADORES DE DESEMPENHO expressará uma NOTA
+GLOBAL DE DESEMPENHO que reflete o desempenho da CONCESSIONÁRIA, o qual se traduzirá
+no FATOR DE AVALIAÇÃO (FA), que condiciona os recebíveis da CONCESSIONÁRIA, por meio
+do reajuste tarifário.
+
+       A AGÊNCIA REGULADORA deverá verificar o atendimento, pela CONCESSIONÁRIA, dos
+INDICADORES DE DESEMPENHO da prestação dos SMRSU por meio dos procedimentos
+previstos neste ANEXO DO CONTRATO, e em consonância com os demais termos do
+CONTRATO e ANEXOS DO CONTRATO, sem prejuízo da possibilidade de regulamentar, revisar
+e/ou estabelecer outros INDICADORES DE DESEMPENHO, nos termos da REVISÃO
+QUADRIENAL ou REVISÃO EXTRAORDINÁRIA, conforme o caso, assegurado o EQUILÍBRIO
+ECONÔMICO-FINANCEIRO do CONTRATO.
+
+
+
+
+                                                                                                4
+     CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                    Telefone: (34) 3822-5450
+2       SISTEMA DE MENSURAÇÃO DE DESEMPENHO
+
+
+        A CONCESSIONÁRIA deverá apresentar à AGÊNCIA REGULADORA, no âmbito do PLANO
+DE OPERACIONALIZAÇÃO E INVESTIMENTOS, durante a Fase 1 do CONTRATO, estratégia
+específica e detalhada para o atingimento dos níveis de desempenho contratualmente
+estabelecidos.
+
+        Referida estratégia deverá conter detalhamento individualizado por MUNICÍPIO,
+contemplando, no mínimo, a metodologia adotada, metas intermediárias, cronograma de
+implementação e mecanismos de monitoramento, acompanhamento e reporte.
+
+        As metas intermediárias propostas estarão sujeitas à análise e manifestação da
+AGÊNCIA REGULADORA e, uma vez emitida a não objeção, passarão a ter caráter vinculante
+para a CONCESSIONÁRIA, sem prejuízo do cumprimento dos INDICADORES DE DESEMPENHO
+previstos neste ANEXO DO CONTRATO 2 – SISTEMA DE MENSURAÇÃO DE DESEMPENHO.
+
+2.1   Procedimento de Avaliação de Desempenho
+
+        Os serviços a serem prestados pela CONCESSIONÁRIA serão regulados e fiscalizados
+pela AGÊNCIA REGULADORA, nos termos do CONTRATO. A avaliação de desempenho da
+CONCESSIONÁRIA dar-se-á conforme o procedimento descrito abaixo.
+
+        Os INDICADORES DE DESEMPENHO serão aferidos e reportados pela CONCESSIONÁRIA
+à AGÊNCIA REGULADORA e ao PODER CONCEDENTE a partir da DATA DA EMISSÃO DA ORDEM
+DE SERVIÇO, mediante entrega do RELATÓRIO DE AVALIAÇÃO DE DESEMPENHO.
+
+        O RELATÓRIO DE AVALIAÇÃO DE DESEMPENHO deverá ser entregue mensalmente, até
+o 5º útil dia do mês, sendo que:
+
+            a) O primeiro RELATÓRIO DE AVALIAÇÃO DE DESEMPENHO será entregue no
+                 segundo mês, contado a partir da DATA DA EMISSÃO DA ORDEM DE SERVIÇO;
+
+            b) O último RELATÓRIO DE AVALIAÇÃO DE DESEMPENHO será entregue até o
+                 quinto dia útil do mês anterior ao término do PRAZO DA CONCESSÃO, ou seja,
+
+
+
+
+                                                                                                 5
+      CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                     Telefone: (34) 3822-5450
+              no quinto dia útil do mês 359°, contado a partir da DATA DA EMISSÃO DA
+              ORDEM DE SERVIÇO;
+
+          c) Os INDICADORES DE DESEMPENHO apurados até o 9º (nono) mês, contado a
+              partir da DATA DA EMISSÃO DA ORDEM DE SERVIÇO, e os respectivos
+              RELATÓRIOS DE AVALIAÇÃO DE DESEMPENHO, não serão considerados para
+              fins da primeira REVISÃO ANUAL e do consequente reajuste da TARIFA DE RSD;
+
+          d) Os INDICADORES DE DESEMPENHO de periodicidade mensal deverão ser
+              apurados pela CONCESSIONÁRIA com base em dados referentes ao mês
+              imediatamente anterior à entrega do RELATÓRIO DE AVALIAÇÃO DE
+              DESEMPENHO;
+
+          e) Os INDICADORES DE DESEMPENHO de periodicidade semestral deverão ser
+              apurados pela CONCESSIONÁRIA com base em dados referentes aos 6 (seis)
+              meses precedentes à entrega do RELATÓRIO DE AVALIAÇÃO DE DESEMPENHO;
+
+          f) O RELATÓRIO DE AVALIAÇÃO DE DESEMPENHO deverá conter informações
+              apuradas dos indicadores com periodicidade mensal e, a cada semestre
+              contado a partir da EMISSÃO DA ORDEM DE SERVIÇO, informações de todos os
+              INDICADORES DE DESEMPENHO.
+
+      A não apresentação do RELATÓRIO DE AVALIAÇÃO DE DESEMPENHO no prazo
+estipulado ensejará aplicação das penalidades previstas no CONTRATO.
+
+      Quando, por motivo não imputável à CONCESSIONÁRIA, for manifestadamente
+impossível promover a avaliação de qualquer um dos INDICADORES DE DESEMPENHO
+previstos, será desconsiderado na composição da NOTA GLOBAL DE DESEMPENHO do ano que
+não houver medição e o respectivo peso do indicador será distribuído para os demais
+indicadores avaliados, obedecendo a proporcionalidade dos pesos definida no Quadro 12.
+
+      O conteúdo e a estrutura do RELATÓRIO DE AVALIAÇÃO DE DESEMPENHO serão
+definidos pela AGÊNCIA REGULADORA, devendo conter, no mínimo, as seguintes informações:
+
+
+
+
+                                                                                               6
+    CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                   Telefone: (34) 3822-5450
+           a) Consolidação do registro das medições de aferição dos indicadores realizadas,
+               contendo a fonte dos dados, data e horário da aferição e o nome do
+               responsável pelo fornecimento das informações.
+
+           b) Apresentação da memória de cálculo e resultado da nota dos INDICADORES DE
+               DESEMPENHO.
+
+           c) Dados e documentos comprobatórios que fundamentam as informações
+               fornecidas para fins de cálculo do desempenho.
+
+           d) Comprovante de calibração de todas as balanças utilizadas pela
+               CONCESSIONÁRIA para levantamento dos dados dos INDICADORES DE
+               DESEMPENHO.
+
+       Após o recebimento do RELATÓRIO DE AVALIAÇÃO DE DESEMPENHO apresentado pela
+CONCESSIONARIA, conjuntamente com os respectivos documentos comprobatórios, a
+AGÊNCIA REGULADORA poderá contestar, no prazo máximo de dois meses, o seu conteúdo,
+de forma fundamentada, podendo requerer, inclusive, a apresentação de informações
+adicionais, bem como aferir diretamente os INDICADORES DE DESEMPENHO.
+
+       Caso a AGÊNCIA REGULADORA venha aferir diretamente os INDICADORES DE
+DESEMPENHO, essa aferição somente será válida para as notas seguintes.
+
+       A decisão da AGÊNCIA REGULADORA será aplicada automaticamente, na hipótese da
+sua discordância, no que se refere à nota e/ou fundamento apresentado no RELATÓRIO DE
+AVALIAÇÃO DE DESEMPENHO.
+
+       Caberá à CONCESSIONÁRIA submeter a controvérsia à COMISSÃO TÉCNICA prevista no
+CONTRATO, no prazo de 60 (sessenta) dias contados da decisão da AGÊNCIA REGULADORA,
+que decidirá em 60 (sessenta) dias contados do recebimento do pleito.
+
+       A decisão da COMISSÃO TÉCNICA será definitiva, e a cobrança da TARIFA DE RSD do
+exercício seguinte à decisão já levará em conta o FATOR DE AVALIAÇÃO (FA) corrigido. A
+defasagem ou o excesso de arrecadação advindos da aplicação do FA antes de sua correção
+será resolvida em REEQUILÍBRIO ECONÔMICO-FINANCEIRO a ocorrer na próxima REVISÃO
+QUADRIENAL ou no último ANO DA CONCESSÃO, o que ocorrer primeiro.
+
+                                                                                                7
+     CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                    Telefone: (34) 3822-5450
+        A CONCESSIONÁRIA deverá manter cadastro atualizado, conferindo livre acesso, por
+parte do PODER CONCEDENTE e da AGÊNCIA REGULADORA, a toda a infraestrutura de
+controle de dados, registros e documentos relacionados ao CONTRATO, prestando, a respeito
+desses, os esclarecimentos que lhe forem solicitados, em prazo estabelecido de comum
+acordo com a parte solicitante.
+
+2.2   Indicadores de Desempenho
+
+        Os indicadores para avaliação do desempenho da CONCESSIONÁRIA foram
+classificados em 2 (dois) grupos, apresentados a seguir:
+
+            (i) Indicadores      de    Desempenho        Operacional:      avaliam     a   atuação   da
+                CONCESSIONÁRIA quanto aos aspectos operacionais da prestação dos serviços
+                OBJETO DA CONCESSÃO;
+
+            (ii) Indicadores de Desempenho Socioambiental: avaliam o atingimento das metas
+                e diretrizes do Plano Nacional de Resíduos Sólidos (Planares) e/ou da Nota
+                Técnica Conjunta nº 01/2024/CC/PR/MCID/MMA, relacionados ao manejo dos
+                RESÍDUOS SÓLIDOS URBANOS, bem como a avaliação dos serviços prestados
+                pela CONCESSIONÁRIA junto aos usuários e a execução adequada dos
+                programas socioambientais, conforme o ANEXO DO CONTRATO 1 - CADERNO
+                DE ENCARGOS DA CONCESSIONÁRIA e ANEXO DO CONTRATO 3 - DIRETRIZES
+                BÁSICAS PARA A INCLUSÃO SOCIAL E EMANCIPAÇÃO ECONÔMICA DE
+                CATADORES DE MATERIAIS REUTILIZÁVEIS E RECICLÁVEIS NA CONCESSÃO.
+
+        No caso de ocorrer atualização das metas e/ou diretrizes em virtude de atualização do
+PLANARES e/ou atos normativos que impactem algum dos indicadores de desempenho
+socioambiental, no PRAZO DA CONCESSÃO, será realizada revisão dos indicadores por parte
+da AGÊNCIA REGULADORA, que poderá ou não proceder à alteração, observando o equilíbrio
+econômico-financeiro.
+
+        O Quadro 1 apresenta a relação dos indicadores, e os itens 2.2.1 e 2.2.2 discriminam
+cada um quanto ao objetivo, à meta, à forma de medição, à periodicidade de cálculo/aferição,
+à fonte de coleta de dados e à forma de apresentação da nota.
+
+                                                                                                      8
+      CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                      Telefone: (34) 3822-5450
+       Para os anos de intervalo dos marcos estabelecidos, cujos documentos não explicitem
+metas, será adotada a meta do último ano disponível.
+
+
+
+
+                                                                                                9
+     CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                    Telefone: (34) 3822-5450
+  Quadro 1 – Relação de INDICADORES DE DESEMPENHO e respectivo quadro descritivo
+    Grupo              Código         Indicador                                     Referência
+                                      Cumprimento dos roteiros de COLETA
+                        ID1.1                                                            Quadro 2
+                                      INDIFERENCIADA em ÁREA URBANA
+                                      Cumprimento dos roteiros de COLETA
+                        ID1.2         SELETIVA DE RECICLÁVEIS SECOS em ÁREA              Quadro 3
+                                      URBANA
+Indicadores de
+                                      Cumprimento dos roteiros de COLETA
+Desempenho              ID1.3                                                            Quadro 4
+                                      SELETIVA DE ORGÂNICOS em ÁREA URBANA
+Operacional
+                                      Cumprimento dos roteiros de COLETA
+                        ID1.4                                                            Quadro 5
+                                      INDIFERENCIADA em ÁREA RURAL
+                                      Cumprimento dos roteiros de COLETA
+                        ID1.5         SELETIVA DE RECICLÁVEIS SECOS em ÁREA              Quadro 6
+                                      RURAL
+                                      Percentual de orgânicos destinado para
+                        ID2.1                                                            Quadro 7
+                                      tratamento biológico
+                                      Percentual de recuperação de materiais
+                        ID2.2                                                            Quadro 8
+                                      recicláveis secos
+
+                        ID2.3         Resolução de reclamações
+                                                                                         Quadro 9
+
+                                                                                       Quadro 10 –
+                                                                             INDICADOR DE
+                                                                             DESEMPENHO
+                                                                                   ID2.4 –
+                                                                              Execução das
+                                                                             atividades dos
+                                                                                 programas
+Indicadores de
+ Desempenho                                                                 socioambientais
+Socioambiental                                                                 : PROGRAMA
+                                      Execução das atividades dos programas
+                                      socioambientais: PROGRAMA DE EDUCAÇÃO  DE EDUCAÇÃO
+                                      AMBIENTAL e PROGRAMA DE RECUPERAÇÃO     AMBIENTAL e
+                        ID2.4
+                                      DE ÁREAS DEGRADADAS PELA DISPOSIÇÃO   PROGRAMA DE
+                                      INADEQUADA DE RESÍDUOS SÓLIDOS         RECUPERAÇÃO
+                                      URBANOS
+                                                                                 DE ÁREAS
+                                                                              DEGRADADAS
+                                                                                    PELA
+                                                                                DISPOSIÇÃO
+                                                                              INADEQUADA
+                                                                              DE RESÍDUOS
+                                                                                  SÓLIDOS
+                                                                                 URBANOS
+
+
+
+
+                                                                                                     10
+    CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                   Telefone: (34) 3822-5450
+                                  Cumprimento da execução do PLANO DE
+                    ID 2.5        INCLUSÃO DE ORGANIZAÇÕES DE                       Quadro 11
+                                  CATADORES NA CONCESSÃO
+
+                                       Resumo de indicadores de desempenho          Quadro 12
+
+
+
+
+                                                                                                11
+CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                               Telefone: (34) 3822-5450
+2.2.1. Indicadores de Desempenho Operacional
+
+  Quadro 2 – INDICADOR DE DESEMPENHO ID1.1 – Cumprimento dos roteiros de COLETA
+                        INDIFERENCIADA em ÁREA URBANA
+ Código ID 1.1      Cumprimento dos roteiros de COLETA INDIFERENCIADA em ÁREA URBANA
+
+                    Universalizar a COLETA INDIFERENCIADA de RSD nas ÁREAS URBANAS, com segurança,
+ Objetivo:
+                    qualidade, regularidade e continuidade.
+
+                    Cumprimento integral do roteiro de COLETA INDIFERENCIADA em ÁREA URBANA
+ Metas:
+                    conforme definido no PLANO DE OPERAÇÃO DE COLETA E TRANSPORTE.
+
+ Periodicidade:     Mensal – a partir do início da Fase 2 do CONTRATO.
+
+                    NOTAS parciais de desempenho do indicador (Np1.1):
+
+ Forma de               •   Se ID1.1 ≥ 98….………………………....…Np1.1 = 5 pts (Extremamente Satisfatório)
+ medição:               •   Se 85 ≤ ID1.1 < 98…………………………Np1.1 = 4 pts (Satisfatório)
+                        •   Se 75 ≤ ID1.1 < 85…………………………Np1.1 = 3 pts (Regular)
+                        •   Se ID1.1 < 75………………….……….……Np1.1 = 0 pts (Insatisfatório)
+
+
+                                               NIurbana do plano − NIurbana não realizadas
+                                  ID 1.1 = (                                               ) × 100
+                                                            NIurbana do plano
+ Cálculo do
+ indicador:           ID 1.1 = Indicador de atendimento da COLETA INDIFERENCIADA em ÁREA URBANA;
+                      NIurbana não realizadas = Número de roteiros urbanos de COLETA INDIFERENCIADA
+                      planejados e não realizados;
+                      NIurbana do plano = Número de roteiros urbanos de COLETA INDIFERENCIADA planejados;
+
+                    Número de roteiros urbanos não realizados
+                     Sistema operacional da CONCESSIONÁRIA, que deverá gerar relatórios periódicos
+                     auditáveis, a ser entregue anexo ao RELATÓRIO DE AVALIAÇÃO DE DESEMPENHO.
+                     Mensalmente, será apurada a quantidade de roteiros urbanos da COLETA
+                     INDIFERENCIADA que não foram cumpridos integralmente. Serão contabilizados os
+ Fonte da coleta
+                     roteiros que não foram cumpridos integralmente por falhas operacionais e que não
+ de dados:
+                     foram regularizados no mesmo dia.
+
+                    Número de roteiros urbanos do plano
+                     O número de roteiros planejados será extraído do PLANO DE OPERAÇÃO DE COLETA E
+                     TRANSPORTE.
+
+                    O PLANO DE OPERAÇÃO DE COLETA E TRANSPORTE deverá ser entregue conforme
+                    diretrizes e prazos estabelecidos no ANEXO DO CONTRATO 1 - CADERNO DE ENCARGOS
+ Observação:
+                    DA CONCESSIONÁRIA. Será considerado para fins de avaliação do indicador, o plano
+                    aprovado pela AGÊNCIA REGULADORA.
+
+
+
+
+                                                                                                            12
+     CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                     Telefone: (34) 3822-5450
+ Quadro 3 – INDICADOR DE DESEMPENHO ID1.2 – Cumprimento dos roteiros de COLETA
+                 SELETIVA DE RECICLÁVEIS SECOS em ÁREA URBANA
+                  Cumprimento dos roteiros de COLETA SELETIVA DE RECICLÁVEIS SECOS em ÁREA
+Código ID 1.2
+                  URBANA
+                  Universalizar a COLETA SELETIVA DE RECICLÁVEIS SECOS nas ÁREAS URBANAS, com
+Objetivo:
+                  segurança, qualidade, regularidade e continuidade.
+
+                  Cumprimento integral do roteiro de COLETA SELETIVA DE RECICLÁVEIS SECOS em ÁREA
+Metas:
+                  URBANA conforme definido no PLANO DE OPERAÇÃO DE COLETA E TRANSPORTE.
+Periodicidade:    Mensal – a partir do início da Fase 2 do CONTRATO.
+
+                  NOTAS parciais de desempenho do indicador (Np1.2):
+
+Forma de              •   Se ID1.2 ≥ 98….…………………………….Np1.2 = 5 pts (Extremamente Satisfatório)
+medição:              •   Se 85 ≤ ID1.2 < 98…………………………Np1.2 = 4 pts (Satisfatório)
+                      •   Se 75 ≤ ID1.2 < 85…………………………Np1.2 = 3 pts (Regular)
+                      •   Se ID1.2 < 75………………….…………….Np1.2 = 0 pts (Insatisfatório)
+
+                                            NR urbana do plano − NR urbana não realizadas
+                               ID 1.2 = (                                                 ) × 100
+                                                          NR urbana do plano
+
+Cálculo do          ID 1.2 = Indicador de atendimento da COLETA SELETIVA DE RECICLÁVEIS SECOS em
+indicador:          ÁREA URBANA;
+                    NRurbana não realizadas = Número de roteiros urbanos de COLETA SELETIVA DE RECICLÁVEIS
+                    SECOS planejados e não realizados;
+                    NRurbana do plano = Número de roteiros urbanos de COLETA SELETIVA DE RECICLÁVEIS
+                    SECOS planejados;
+
+                  Número de roteiros urbanos não realizados
+                   Sistema operacional da CONCESSIONÁRIA, que deverá gerar relatórios periódicos
+                   auditáveis, a ser entregue anexo ao RELATÓRIO DE AVALIAÇÃO DE DESEMPENHO.
+                   Mensalmente, será apurada a quantidade de roteiros urbanos da COLETA SELETIVA DE
+                   RECICLÁVEIS SECOS que não foram cumpridos integralmente. Serão contabilizados os
+Fonte da coleta
+                   roteiros que não foram cumpridos integralmente por falhas operacionais e que não
+de dados:
+                   foram regularizados no mesmo dia.
+
+                  Número de roteiros urbanos do plano
+                   O número de roteiros planejados será extraído do PLANO DE OPERAÇÃO DE COLETA E
+                   TRANSPORTE.
+                  O PLANO DE OPERAÇÃO DE COLETA E TRANSPORTE deverá ser entregue conforme
+                  diretrizes e prazos estabelecidos no ANEXO DO CONTRATO 1 - CADERNO DE ENCARGOS
+                  DA CONCESSIONÁRIA. Será considerado para fins de avaliação do indicador, o plano
+Observação:
+                  aprovado pela AGÊNCIA REGULADORA. Em caso de inobservância ao estabelecido, a
+                  nota parcial referente àquele período será zero e caberão as penalidades previstas no
+                  CONTRATO.
+
+
+
+
+                                                                                                             13
+    CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                     Telefone: (34) 3822-5450
+ Quadro 4 – INDICADOR DE DESEMPENHO ID1.3 – Cumprimento dos roteiros de COLETA
+                    SELETIVA DE ORGÂNICOS em ÁREA URBANA
+Código ID 1.3     Cumprimento dos roteiros de COLETA SELETIVA DE ORGÂNICOS em ÁREA URBANA
+
+                  Acesso à COLETA SELETIVA DE ORGÂNICOS nas ÁREAS URBANAS, com segurança,
+Objetivo:
+                  qualidade, regularidade e continuidade.
+
+                  Cumprimento integral do roteiro de COLETA SELETIVA DE ORGÂNICOS em ÁREA URBANA
+Metas:
+                  conforme definido no PLANO DE OPERAÇÃO DE COLETA E TRANSPORTE.
+Periodicidade:    Mensal – a partir início da Fase 3c do CONTRATO.
+
+                  NOTAS parciais de desempenho do indicador (Np1.3):
+
+Forma de              •   Se ID1.3 ≥ 95….…………………………….Np1.3 = 5 pts (Extremamente Satisfatório)
+medição:              •   Se 85 ≤ ID1.3 < 95…………………………Np1.3 = 4 pts (Satisfatório)
+                      •   Se 65 ≤ ID1.3 < 85…………………………Np1.3 = 3 pts (Regular)
+                      •   Se ID1.3 < 65………………….…………….Np1.3 = 0 pts (Insatisfatório)
+
+                                            𝑁𝑂𝑢𝑟𝑏𝑎𝑛𝑎 𝑑𝑜 𝑝𝑙𝑎𝑛𝑜 − 𝑁𝑂𝑢𝑟𝑏𝑎𝑛𝑎 𝑛ã𝑜 𝑟𝑒𝑎𝑙𝑖𝑧𝑎𝑑𝑎𝑠
+                               𝐼𝐷 1.3 = (                                               ) × 100
+                                                         𝑁𝑂𝑢𝑟𝑏𝑎𝑛𝑎 𝑑𝑜 𝑝𝑙𝑎𝑛𝑜
+
+Cálculo do          ID 1.3 = Indicador de atendimento da COLETA SELETIVA DE ORGÂNICOS em ÁREA
+indicador:          URBANA;
+                    NOurbana não realizadas = Número de roteiros urbanos de COLETA SELETIVA DE ORGÂNICOS
+                    planejados e não realizados;
+                    NOurbana do plano = Número de roteiros urbanos de COLETA SELETIVA DE ORGÂNICOS
+                    planejados;
+
+                  Número de roteiros urbanos não realizados
+                   Sistema operacional da CONCESSIONÁRIA, que deverá gerar relatórios periódicos
+                   auditáveis, a ser entregue anexo ao RELATÓRIO DE AVALIAÇÃO DE DESEMPENHO.
+                   Mensalmente, será apurada a quantidade de roteiros urbanos da COLETA SELETIVA DE
+                   ORGÂNICOS que não foram cumpridos integralmente. Serão contabilizados os roteiros
+Fonte da coleta
+                   que não foram cumpridos integralmente por falhas operacionais e que não foram
+de dados:
+                   regularizados no mesmo dia.
+
+                  Número de roteiros urbanos do plano
+                   O número de roteiros planejados será extraído do PLANO DE OPERAÇÃO DE COLETA E
+                   TRANSPORTE.
+
+                  O PLANO DE OPERAÇÃO DE COLETA E TRANSPORTE deverá ser entregue conforme
+                  diretrizes e prazos estabelecidos no CADERNO DE ENCARGOS DA CONCESSIONÁRIA. Será
+Observação:
+                  considerado para fins de avaliação do indicador, o plano aprovado pela AGÊNCIA
+                  REGULADORA.
+
+
+
+
+                                                                                                           14
+    CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                     Telefone: (34) 3822-5450
+ Quadro 5 – INDICADOR DE DESEMPENHO ID1.4 – Cumprimento dos roteiros de COLETA
+                        INDIFERENCIADA em ÁREA RURAL
+Código ID 1.4      Cumprimento dos roteiros de COLETA INDIFERENCIADA em ÁREA RURAL
+
+                   Universalizar a COLETA INDIFERENCIADA de RSD nas ÁREAS RURAIS, com segurança,
+Objetivo:
+                   qualidade, regularidade e continuidade.
+
+                   Cumprimento integral do roteiro de COLETA INDIFERENCIADA em ÁREA RURAL
+Metas:
+                   conforme definido no PLANO DE OPERAÇÃO DE COLETA E TRANSPORTE.
+
+Periodicidade:     Mensal – a partir do início da Fase 2 do CONTRATO.
+
+                   NOTAS parciais de desempenho do indicador (Np1.4):
+
+Forma de               •   Se ID1.4 ≥ 95….………………………....…Np1.4 = 5 pts (Extremamente Satisfatório)
+medição:               •   Se 85 ≤ ID1.4 < 95…………………………Np1.4 = 4 pts (Satisfatório)
+                       •   Se 65 ≤ ID1.4 < 85…………………………Np1.4 = 3 pts (Regular)
+                       •   Se ID1.4 < 65………………….……….……Np1.4 = 0 pts (Insatisfatório)
+
+                                                NIrural do plano − NIrural não realizadas
+                                   ID 1.4 = (                                             ) × 100
+                                                             NIrural do plano
+Cálculo do
+indicador:           ID 1.4 = Indicador de atendimento da COLETA INDIFERENCIADA em ÁREA RURAL;
+                     NIrural não realizadas = Número de roteiros rurais de COLETA INDIFERENCIADA planejados e
+                     não realizados;
+                     NIrural do plano = Número de roteiros rurais de COLETA INDIFERENCIADA planejados;
+
+                   Número de roteiros rurais não realizados
+                    Sistema operacional da CONCESSIONÁRIA, que deverá gerar relatórios periódicos
+                    auditáveis, a ser entregue anexo ao RELATÓRIO DE AVALIAÇÃO DE DESEMPENHO.
+                    Mensalmente, será apurada a quantidade de roteiros rurais da COLETA
+                    INDIFERENCIADA que não foram cumpridos integralmente. Serão contabilizados os
+Fonte da coleta
+                    roteiros que não foram cumpridos integralmente por falhas operacionais e que não
+de dados:
+                    foram regularizados no mesmo dia.
+
+                   Número de roteiros rurais do plano
+                    O número de roteiros planejados será extraído do PLANO DE OPERAÇÃO DE COLETA E
+                    TRANSPORTE.
+
+                   O PLANO DE OPERAÇÃO DE COLETA E TRANSPORTE deverá ser entregue conforme
+                   diretrizes e prazos estabelecidos no CADERNO DE ENCARGOS DA CONCESSIONÁRIA. Será
+Observação:
+                   considerado para fins de avaliação do indicador, o plano aprovado pela AGÊNCIA
+                   REGULADORA.
+
+
+
+
+                                                                                                            15
+    CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                    Telefone: (34) 3822-5450
+ Quadro 6 – INDICADOR DE DESEMPENHO ID1.5 – Cumprimento dos roteiros de COLETA
+                  SELETIVA DE RECICLÁVEIS SECOS em ÁREA RURAL
+Código ID 1.5     Cumprimento dos roteiros de COLETA SELETIVA DE RECICLÁVEIS SECOS em ÁREA RURAL
+
+                  Universalizar a COLETA SELETIVA DE RECICLÁVEIS SECOS nas ÁREAS RURAIS, com
+Objetivo:
+                  segurança, qualidade, regularidade e continuidade.
+
+                  Cumprimento integral do roteiro de COLETA SELETIVA DE RECICLÁVEIS SECOS em ÁREA
+Metas:
+                  RURAL conforme definido no PLANO DE OPERAÇÃO DE COLETA E TRANSPORTE.
+Periodicidade:    Mensal – a partir do início da Fase 2 do CONTRATO.
+
+                  NOTAS parciais de desempenho do indicador (Np1.5):
+
+Forma de              •    Se ID1.5 ≥ 95….…………………………….Np1.5 = 5 pts (Extremamente Satisfatório)
+medição:              •    Se 85 ≤ ID1.5 < 95…………………………Np1.5 = 4 pts (Satisfatório)
+                      •    Se 65 ≤ ID1.5 < 85…………………………Np1.5 = 3 pts (Regular)
+                      •    Se ID1.5 < 65………………….…………….Np1.5 = 0 pts (Insatisfatório)
+
+                                              NR rural do plano − NR rural não realizadas
+                                 ID 1.5 = (                                               ) × 100
+                                                            NR rural do plano
+
+Cálculo do          ID 1.5 = Indicador de atendimento da COLETA SELETIVA DE RECICLÁVEIS SECOS em
+indicador:          ÁREA RURAL;
+                    NRrural não realizadas = Número de roteiros rurais de COLETA SELETIVA DE RECICLÁVEIS
+                    SECOS planejados e não realizados;
+                    NRrural do plano = Número de roteiros rurais de COLETA SELETIVA DE RECICLÁVEIS SECOS
+                    planejados;
+
+                  Número de roteiros rurais não realizados
+                   Sistema operacional da CONCESSIONÁRIA, que deverá gerar relatórios periódicos
+                   auditáveis, a ser entregue anexo ao RELATÓRIO DE AVALIAÇÃO DE DESEMPENHO.
+                   Mensalmente, será apurada a quantidade de roteiros rurais da COLETA SELETIVA DE
+                   RECICLÁVEIS SECOS que foram não cumpridos integralmente. Serão contabilizados os
+Fonte da coleta
+                   roteiros que não foram cumpridos integralmente por falhas operacionais e que não
+de dados:
+                   foram regularizados no mesmo dia.
+
+                  Número de roteiros rurais do plano
+                   O número de roteiros planejados será extraído do PLANO DE OPERAÇÃO DE COLETA E
+                   TRANSPORTE.
+
+                  O PLANO DE OPERAÇÃO DE COLETA E TRANSPORTE deverá ser entregue conforme
+                  diretrizes e prazos estabelecidos no ANEXO DO CONTRATO 1 - CADERNO DE ENCARGOS
+Observação:
+                  DA CONCESSIONÁRIA. Será considerado para fins de avaliação do indicador, o plano
+                  aprovado pela AGÊNCIA REGULADORA.
+
+
+
+
+                                                                                                           16
+    CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                     Telefone: (34) 3822-5450
+2.2.2. Indicadores de Desempenho Socioambiental
+
+  Quadro 7 – INDICADOR DE DESEMPENHO ID2.1 – Percentual de orgânicos destinado para
+                               tratamento biológico
+ Código ID 2.1    Percentual de orgânicos destinado para tratamento biológico
+ Objetivo:        Recuperar resíduos orgânicos por meio de tratamento biológico, no mínimo, conforme as
+                  metas estabelecidas.
+ Metas:           Conforme Nota Técnica Conjunta n° 01/2024/CC/PR/MCID/MMA e Planares (2022), para a
+                  região sudeste.
+                      • Ano 2032............10,8% da massa total de RSU destinado para tratamento biológico
+                      • Ano 2036............14,4% da massa total de RSU destinado para tratamento biológico
+                      • Ano 2040............18,1% da massa total de RSU destinado para tratamento biológico
+ Periodicidade:   Semestral, a partir do início da Fase 3a do CONTRATO.
+ Forma de         Nota parcial de desempenho do indicador (Np2.1):
+ medição:             • Se ID2.1 < Meta…………………………… Np2.1 = 0 pts (não atendeu)
+                      • Se ID2.1=Meta................................. Np2.1 = 4 pts (atendeu)
+                      • Se ID2.1 >Meta…………………………… Np2.1 = 5 pts (superou a meta)
+ Cálculo do
+ indicador:                                            𝑀𝑜𝑟𝑔𝑅𝐸𝐶.𝑠𝑒𝑚𝑒𝑠𝑡𝑟𝑒 𝑛
+                                         𝐼𝐷 2.1 =                           × 100
+                                                    (𝑀𝑈𝑉𝑅 + 𝑀𝐴𝑆 )𝑠𝑒𝑚𝑒𝑠𝑡𝑟𝑒 𝑛
+
+                    ID 2.1 = Percentual de orgânicos destinado para tratamento biológico;
+                    MorgREC.semestre n = Massa total semestral da FORSU, em toneladas, destinada à(s)
+                    UNIDADE(S) DE VALORIZAÇÃO DE RESÍDUOS que foram efetivamente desviadas de
+                    aterramento e destinadas ao tratamento biológico;
+                    MUVR = Massa total semestral n, em toneladas, dos RSU descarregados para
+                    processamento na(s) UNIDADE(S) DE VALORIZAÇÃO DE RESÍDUOS;
+                    MAS = Massa total semestral n, em toneladas, dos RSU coletados e destinados
+                    diretamente em ATERRO SANITÁRIO.
+ Fonte da         Massas de resíduos MUVR e MAS:
+ coleta de         As ESTAÇÕES DE TRANSBORDO, a(s) UVR e o(s) ATERRO(S) SANITÁRIO(S) (terceiros inclusos,
+ dados:            se utilizados na CONCESSÃO) deverão possuir sistemas de controle de acesso e de pesagem
+                   que alimentem uma base de dados auditável. As variáveis MUVR e MAS deverão ser obtidas
+                   em toneladas (t), no respectivo período de referência.
+                   Massas de resíduos orgânicos tratadas biologicamente:
+                   A(s) UNIDADE(S) DE VALORIZAÇÃO DE RESÍDUOS utilizada(s) na CONCESSÃO deverá(ão)
+                   possuir sistema de pesagem que comprove, em toneladas (t), a massa de resíduos
+                   orgânicos a ser tratada biologicamente. A variável 𝑀𝑜𝑟𝑔REC.𝑠𝑒𝑚𝑒𝑠𝑡𝑟𝑒 𝑛 deverá ser obtida em
+                   toneladas (t), no respectivo período de referência, e corresponde ao saldo obtido a partir
+                   das pesagens de entrada menos as pesagens de saída (rejeitos do tratamento).
+ Observação:     O presente indicador deverá ser mensurado semestralmente a partir do início da Fase 3A do
+                 CONTRATO, conforme procedimentos e prazos constantes no ANEXO DO CONTRATO 1 –
+                 CADERNO DE ENCARGOS DA CONCESSÃO, com vigência até final do PRAZO DA CONCESSÃO.
+                 Este indicador deverá ser comparado com as metas estabelecidas para tratamento de
+                 resíduos orgânicos e obter valor igual ou superior à meta de referência.
+                 A massa dos resíduos deverá ser aferida em balança. Caberá as penalidades previstas no
+                 CONTRATO, e a nota parcial referente àquele período será zero caso a CONCESSIONÁRIA
+                 não apresente o certificado de calibração das balanças.
+FORSU: Fração Orgânica de Resíduos Sólidos Urbanos.
+
+
+
+                                                                                                           17
+      CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                       Telefone: (34) 3822-5450
+Quadro 8 – INDICADOR DE DESEMPENHO ID2.2 – Percentual de recuperação de materiais recicláveis
+Código ID 2.2    Percentual de recuperação de materiais recicláveis secos
+Objetivo:        Ampliar a recuperação de materiais recicláveis secos, no mínimo, conforme as metas
+                 estabelecidas.
+Metas:           Conforme Nota Técnica Conjunta n° 01/2024/CC/PR/MCID/MMA e Planares (2022), para a
+                 região sudeste.
+
+                  • Ano 2032......................9,7% de recuperação da massa total de RSU
+                  • Ano 2036......................11,3% de recuperação da massa total de RSU
+                  • Ano 2040......................12,9% de recuperação da massa total de RSU.
+Periodicidade:   Semestral – a partir do início da Fase 3a do CONTRATO.
+Forma de         Nota parcial de desempenho do indicador (Np2.2):
+medição:          • Se ID2.2 < Meta…………………………… Np2.2 = 0 pts (não atendeu)
+                  • Se ID2.2=Meta................................. Np2.2 = 4 pts (atendeu)
+                  • Se ID2.2 > Meta…………………………… Np2.2 = 5 pts (superou a meta)
+Cálculo do
+indicador:                                             M𝑟𝑒𝑐𝑈𝑉𝑅 .semestre n
+                                         𝐼𝐷 2.2 =                           × 100
+                                                    (𝑀𝑈𝑉𝑅 + 𝑀𝐴𝑆 )𝑠𝑒𝑚𝑒𝑠𝑡𝑟𝑒 𝑛
+
+                   ID 2.2 = Percentual de recuperação de materiais recicláveis secos;
+                   MrecUVR.semestre n = Massa total semestral n, em toneladas, dos RSU descarregados para
+                   processamento da UNIDADE DE VALORIZAÇÃO DE RESÍDUOS que foram encaminhados
+                   para reciclagem;
+                   MUVR = Massa total semestral n, em toneladas, dos RSU descarregados para
+                   processamento na UNIDADE DE VALORIZAÇÃO DE RESÍDUOS;
+                   MAS = Massa total semestral n, em toneladas, dos RSU coletados e destinados
+                   diretamente em ATERRO SANITÁRIO.
+Fonte da         Massas de resíduos MUVR e MAS:
+coleta de         As ESTAÇÕES DE TRANSBORDO, a(s) UVR e o ATERRO SANITÁRIO (terceiros inclusos, se
+dados:            utilizados na CONCESSÃO) deverão possuir sistemas de controle de acesso e de pesagem
+                  que alimentem uma base de dados auditável. As variáveis MUVR e MAS deverão ser obtidas
+                  em toneladas (t), no respectivo período de referência.
+                 Massa de resíduos recicláveis secos recuperadas:
+                  A(s) UNIDADE(S) DE VALORIZAÇÃO DE RESÍDUOS deverá(ão) possuir sistema que comprove,
+                  em toneladas (t), a massa de resíduos secos encaminhada para reciclagem. A variável
+                  MrecUVR.semestre n deverá ser obtida em toneladas (t), no respectivo período de referência.
+Observação:      O presente indicador deverá ser mensurado semestralmente assim que iniciado o ano 3 do
+                 PRAZO DA CONCESSÃO, com vigência até o término da CONCESSÃO. Este indicador deverá
+                 ser comparado com as metas estabelecidas para reciclagem de resíduos secos e obter valor
+                 igual ou superior à meta de referência.
+                 A nota parcial referente àquele período será zero, e caberão as penalidades previstas no
+                 CONTRATO caso a CONCESSIONÁRIA não apresente o certificado de calibração das balanças.
+                 A CONCESSIONÁRIA deverá manter disponibilizados à AGÊNCIA REGULADORA todos os
+                 registros diários de entrada e saída de resíduos na(s) unidade(s) de segregação de resíduos
+                 potencialmente recicláveis da CONCESSIONÁRIA. A não apresentação dos registros diários
+                 poderá implicar em nota 0 (zero) para o indicador.
+
+
+
+
+                                                                                                            18
+    CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                      Telefone: (34) 3822-5450
+             Quadro 9 – INDICADOR DE DESEMPENHO ID2.3 – Satisfação do USUÁRIO
+Código ID 2.3    Resolução de Reclamações
+                 Verificar o percentual de reclamações resolvidas no serviço público de manejo de
+Objetivo:        resíduos sólidos urbanos.
+
+                 (não se aplica)
+Meta:
+                 Mensal – a partir do início da Fase 2 do CONTRATO.
+Periodicidade:
+                 Nota de desempenho do indicador (N2.3):
+                     • Se ID2.3 ≥ 90….…………………………….N2.3 = 5 pts (Extremamente Satisfatório)
+Forma de             • Se 80 ≤ ID2.3 < 90…………………………N2.3 = 4 pts (Satisfatório)
+medição:             • Se 60 ≤ ID2.3 < 80…………………………N2.3 = 3 pts (Regular)
+                     • Se ID2.3 < 60………………….......……….N2.3 = 0 pts (Insatisfatório)
+
+
+                                                𝑁𝑅𝑒𝑐𝑙𝑎𝑚𝑎çõ𝑒𝑠 𝑝𝑟𝑜𝑐𝑒𝑑𝑒𝑛𝑡𝑒𝑠 𝑟𝑒𝑠𝑜𝑙𝑣𝑖𝑑𝑎𝑠
+                                   𝐼𝐷 2.3 = (                                       ) × 100
+                                                    𝑁𝑅𝑒𝑐𝑙𝑎𝑚𝑎çõ𝑒𝑠 𝑝𝑟𝑜𝑐𝑒𝑑𝑒𝑛𝑡𝑒𝑠
+
+
+Cálculo do
+indicador:         ID 2.3 = Indicador de resolução de reclamações
+                   Nreclamações procedentes resolvidas = Número de reclamações procedentes e válidas mensais
+                   resolvidas conforme critério e prazos definidos pela AGÊNCIA REGULADORA;
+                   Nreclamações procedentes = Número de reclamações procedentes e válidas mensais, inclusive
+                   repetições, recebidas de qualquer pessoa ou fonte usuária ou não dos serviços.
+
+
+                 Número de reclamações procedentes resolvidas:
+                  Número de reclamações procedentes e válidas mensais, conforme registro do Serviço
+Fonte da          de Atendimento ao Cliente (SAC), resolvidas conforme critérios e prazos definidos pela
+coleta de         AGÊNCIA REGULADORA.
+dados:
+                 Número de reclamações procedentes:
+                 Número de reclamações procedentes e válidas mensais, conforme registro do Serviço de
+                 Atendimento ao Cliente (SAC).
+
+                 A AGÊNCIA REGULADORA irá definir quais são as reclamações consideradas procedentes
+Observação:
+                 e válidas, bem como irá regulamentar o detalhamento deste indicador.
+
+
+
+
+                                                                                                               19
+    CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                       Telefone: (34) 3822-5450
+Quadro 10 – INDICADOR DE DESEMPENHO ID2.4 – Execução das atividades dos programas
+socioambientais: PROGRAMA DE EDUCAÇÃO AMBIENTAL e PROGRAMA DE RECUPERAÇÃO
+DE ÁREAS DEGRADADAS PELA DISPOSIÇÃO INADEQUADA DE RESÍDUOS SÓLIDOS URBANOS
+                   Execução das atividades dos programas socioambientais: PROGRAMA DE EDUCAÇÃO
+  Código ID 2.4    AMBIENTAL e PROGRAMA DE RECUPERAÇÃO DE ÁREAS DEGRADADAS PELA DISPOSIÇÃO
+                   INADEQUADA DE RESÍDUOS SÓLIDOS URBANOS
+                   Verificar o cumprimento da execução dos planos e programas socioambientais
+Objetivo:          obrigatórios, nos termos do ANEXO DO CONTRATO 1 – CADERNO DE ENCARGOS DA
+                   CONCESSIONÁRIA.
+                   Ações conforme definido no PROGRAMA DE EDUCAÇÃO AMBIENTAL e PROGRAMA DE
+Metas:             RECUPERAÇÃO DE ÁREAS DEGRADADAS PELA DISPOSIÇÃO INADEQUADA DE RESÍDUOS
+                   SÓLIDOS URBANOS.
+Periodicidade:     Semestral – a partir do início da Fase 2 do CONTRATO.
+                   Nota parcial de desempenho do indicador (Np2.4):
+                       • Se ID2.4 ≥90….……………………………Np2.4= 5 pts (Extremamente Satisfatório)
+Forma de
+                       • Se 80≤ ID2.4 <90…………………………Np2.4= 4 pts (Satisfatório)
+medição:
+                       • Se 70≤ ID2.4 <80…………………………Np2.4= 3 pts (Regular)
+                       • Se ID2.4 <70………………….......………Np2.4= 0 pts (Insatisfatório)
+
+                                                         ∑ 𝑁𝑎çõ𝑒𝑠 𝑒𝑥𝑒𝑐𝑢𝑡𝑎𝑑𝑎𝑠
+                                            𝐼𝐷 2.4 = (                       ) × 100
+                                                         ∑ 𝑁𝑎çõ𝑒𝑠 𝑝𝑙𝑎𝑛𝑒𝑗𝑎𝑑𝑎𝑠
+
+
+                     ID2.4 = Indicador de programas socioambientais;
+Cálculo do           N ações executadas = Ações executadas do PROGRAMA DE EDUCAÇÃO AMBIENTAL e
+indicador:           PROGRAMA DE RECUPERAÇÃO DE ÁREAS DEGRADADAS PELA DISPOSIÇÃO
+                     INADEQUADA DE RESÍDUOS SÓLIDOS URBANOS;
+                     N ações planejadas = Ações planejadas para os planos e programas socioambientais,
+                     conforme indicado no PROGRAMA DE EDUCAÇÃO AMBIENTAL e PROGRAMA DE
+                     RECUPERAÇÃO DE ÁREAS DEGRADADAS PELA DISPOSIÇÃO INADEQUADA DE
+                     RESÍDUOS SÓLIDOS URBANOS.
+                   Número de ações atendidas:
+                    Semestralmente, será apurada a quantidade de ações do PROGRAMA DE EDUCAÇÃO
+                    AMBIENTAL e do PROGRAMA DE RECUPERAÇÃO DE ÁREAS DEGRADADAS PELA
+                    DISPOSIÇÃO INADEQUADA DE RESÍDUOS SÓLIDOS URBANOS que foram alcançadas
+                    integralmente e dentro do prazo planejado. Serão descontadas as ações alcançadas com
+Fonte da coleta
+                    atraso e as não alcançadas até a data de aferição do INDICADOR DE DESEMPENHO.
+de dados:
+                   Número de ações planejadas:
+                    O número de ações planejadas será extraído do PROGRAMA DE EDUCAÇÃO AMBIENTAL
+                    e PROGRAMA DE RECUPERAÇÃO DE ÁREAS DEGRADADAS PELA DISPOSIÇÃO
+                    INADEQUADA DE RESÍDUOS SÓLIDOS URBANOS, conforme o período em análise.
+                   Para fins de cálculo deste indicador só serão incorporadas as ações de responsabilidade
+Observação:
+                   da concessionária.
+
+
+
+
+                                                                                                         20
+    CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                    Telefone: (34) 3822-5450
+Quadro 11 – INDICADOR DE DESEMPENHO ID2.5 – Cumprimento da execução do PLANO DE
+              INCLUSÃO DE ORGANIZAÇÕES DE CATADORES NA CONCESSÃO
+Código ID 2.5      Cumprimento da execução do PLANO DE INCLUSÃO DE ORGANIZAÇÕES DE CATADORES
+                   NA CONCESSÃO
+                   Verificar o cumprimento da execução do PLANO DE INCLUSÃO DE ORGANIZAÇÕES DE
+                   CATADORES NA CONCESSÃO (PIOCC), a ser elaborado pela concessionária em
+                   cumprimento ao ANEXO DO CONTRATO 3 – DIRETRIZES BÁSICAS PARA A INCLUSÃO
+Objetivo:
+                   SOCIAL E EMANCIPAÇÃO ECONÔMICA DE CATADORES DE MATERIAIS REUTILIZÁVEIS E
+                   RECICLÁVEIS NA CONCESSÃO.
+
+                   Ações conforme definido no PLANO DE INCLUSÃO DE ORGANIZAÇÕES DE CATADORES
+Metas:             NA CONCESSÃO (PIOCC).
+
+                   Semestral – a partir do início da Fase 2 do CONTRATO.
+Periodicidade:
+                   Nota parcial de desempenho do indicador (Np2.5):
+                       • Se ID2.5 ≥ 90….…………………………..Np2.5 = 5 pts (Extremamente Satisfatório)
+Forma de               • Se 80 ≤ ID2.4 < 90………………………Np2.5 = 4 pts (Satisfatório)
+medição:               • Se 70 ≤ ID2.4 < 80………………………Np2.5 = 3 pts (Regular)
+                       • Se ID2.4 < 70……………….......……….Np2.5 = 0 pts (Insatisfatório)
+
+
+                                                          ∑ 𝑁𝑎çõ𝑒𝑠 𝑒𝑥𝑒𝑐𝑢𝑡𝑎𝑑𝑎𝑠
+                                             𝐼𝐷 2.5 = (                       ) × 100
+                                                          ∑ 𝑁𝑎çõ𝑒𝑠 𝑝𝑙𝑎𝑛𝑒𝑗𝑎𝑑𝑎𝑠
+
+Cálculo do
+indicador:
+                     ID 2.5 = Indicador de execução do PIOCC;
+                     Nações executadas = Ações executadas do PIOCC;
+                     Nações planejadas = Ações planejadas para o PIOCC.
+
+                   Número de ações atendidas:
+                    Semestralmente, será apurada a quantidade de ações do PLANO DE INCLUSÃO DE
+                    ORGANIZAÇÕES DE CATADORES NA CONCESSÃO (PIOCC) que foram alcançadas
+                    integralmente e dentro do prazo planejado. Serão descontadas as ações alcançadas com
+Fonte da coleta     atraso e as não alcançadas até a data de aferição do INDICADOR DE DESEMPENHO.
+de dados:
+                   Número de ações planejadas:
+                    O número de ações planejadas será extraído do PLANO DE INCLUSÃO DE
+                    ORGANIZAÇÕES DE CATADORES NA CONCESSÃO (PIOCC), conforme o período em
+                    análise.
+
+                   Para fins de cálculo deste indicador só serão incorporadas as ações de responsabilidade
+Observação:        da CONCESSIONÁRIA.
+
+
+
+
+                                                                                                         21
+    CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                     Telefone: (34) 3822-5450
+2.2.3. Quadro de Indicadores de Desempenho
+
+                                                                                          Quadro 12 – QUADRO DE INDICADORES DE DESEMPENHO (QID)
+                                                                                                                                                                                                       Peso      Peso durante
+                                                                                                                                                                                                                                Peso a partir
+                                                        Início de                                                                                                                 Nota parcial do    durante a    a Fase 3a e
+  Código            Quesitos Avaliados                                    Periodicidade                           Cálculo do Indicador                             Critério                                                     da Fase 3C do
+                                                        avaliação                                                                                                                   indicador        Fase 2 do    Fase 3b do
+                                                                                                                                                                                                                                 CONTRATO
+                                                                                                                                                                                                    CONTRATO      CONTRATO
+
+                                                                                                                                                                  ID1.1 ≥ 98           5 pts
+
+                                                     A partir do início                                  NIurbana do plano − NIurbana não realizadas            85 ≤ ID1.1 < 98        4 pts
+           Cumprimento dos roteiros de COLETA
+  ID1.1                                                da Fase 2 do          Mensal         ID 1.1 = (                                               ) × 100                                            3            2,5             2
+            INDIFERENCIADA em ÁREA URBANA                                                                             NIurbana do plano                         75≤ ID1.1 < 85         3 pts
+                                                        CONTRATO
+
+                                                                                                                                                                  ID1.1 < 75           0 pts
+
+                                                                                                                                                                  ID1.2 ≥ 98           5 pts
+
+            Cumprimento dos roteiros de coleta       A partir do início                                 NR urbana do plano − NR urbana não realizadas           85 ≤ ID1.2 < 98        4 pts
+                                                                                           ID 1.2 = (                                                 ) × 100
+  ID1.2    seletiva de materiais recicláveis secos     da Fase 2 do          Mensal                                   NR urbana do plano                                                                3            2,5             2
+                                                                                                                                                                75≤ ID1.2 < 85         3 pts
+                     em ÁREA URBANA                     CONTRATO
+
+                                                                                                                                                                  ID1.2 < 75           0 pts
+
+
+                                                                                                                                                                  ID1.3 ≥ 95           5 pts
+                                                                                                          𝑁𝑂𝑢𝑟𝑏𝑎𝑛𝑎 𝑑𝑜 𝑝𝑙𝑎𝑛𝑜 − 𝑁𝑂𝑢𝑟𝑏𝑎𝑛𝑎 𝑛ã𝑜 𝑟𝑒𝑎𝑙𝑖𝑧𝑎𝑑𝑎𝑠
+           Cumprimento dos roteiros de COLETA        A partir do início                      𝐼𝐷 1.3 = (                                               )         85 ≤ ID1.3 < 95        4 pts
+                                                                                                                       𝑁𝑂𝑢𝑟𝑏𝑎𝑛𝑎 𝑑𝑜 𝑝𝑙𝑎𝑛𝑜
+  ID1.3     SELETIVA DE ORGÂNICOS em ÁREA             da Fase 3C do          Mensal                                                                                                                     0             0              2
+                        URBANA                          CONTRATO                                               × 100                                            65 ≤ ID1.3 < 85        3 pts
+
+                                                                                                                                                                  ID1.3 < 65           0 pts
+
+
+                                                                                                                                                                  ID1.4 ≥ 95           5 pts
+
+
+                                                     A partir do início                                   NIrural do plano − NIrural não realizadas             85 ≤ ID1.4 < 95        4 pts
+           Cumprimento dos roteiros de COLETA                                                ID 1.4 = (                                             ) × 100
+  ID1.4                                                da Fase 2 do          Mensal                                    NIrural do plano                                                                 3            2,5             2
+            INDIFERENCIADA em ÁREA RURAL
+                                                        CONTRATO                                                                                                65 ≤ ID1.4 < 85        3 pts
+
+
+                                                                                                                                                                  ID1.4 < 65           0 pts
+
+
+                                                                                                                                                                  ID1.5 ≥ 95           5 pts
+
+
+            Cumprimento dos roteiros de coleta       A partir do início                                                                                         85 ≤ ID1.5 < 95        4 pts
+                                                                                                         NR rural do plano − NR rural não realizadas                                                                                 2
+  ID1.5    seletiva de materiais recicláveis secos     da Fase 2 do          Mensal         ID 1.5 = (                                               ) × 100                                            3            2,5
+                                                                                                                       NR rural do plano
+                      em ÁREA RURAL                     CONTRATO
+                                                                                                                                                                65 ≤ ID1.5 < 85        3 pts
+
+                                                                                                                                                                  ID1.5 < 65           0 pts
+
+
+
+                                                                                                                                                                                                                                            22
+                                                                             CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                                                                                                 Telefone: (34) 3822-5450
+                                                                                                                                                                                              Peso      Peso durante
+                                                                                                                                                                                                                       Peso a partir
+                                                  Início de                                                                                                              Nota parcial do    durante a    a Fase 3a e
+ Código           Quesitos Avaliados                                Periodicidade                        Cálculo do Indicador                             Critério                                                     da Fase 3C do
+                                                  avaliação                                                                                                                indicador        Fase 2 do    Fase 3b do
+                                                                                                                                                                                                                        CONTRATO
+                                                                                                                                                                                           CONTRATO      CONTRATO
+
+                                                                                                                                                        ID2.1 > meta          5 pts
+                                               A partir do início                                       𝑀𝑜𝑟𝑔𝑅𝐸𝐶.𝑠𝑒𝑚𝑒𝑠𝑡𝑟𝑒 𝑛
+           Percentual de orgânicos destinado                                                𝐼𝐷 2.1 =                         × 100
+  ID2.1                                         da Fase 3a do        Semestral                       (𝑀𝑈𝑉𝑅 + 𝑀𝐴𝑆 )𝑠𝑒𝑚𝑒𝑠𝑡𝑟𝑒 𝑛                            ID2.1 = meta          4 pts            0             2              2,5
+               para tratamento biológico
+                                                  CONTRATO
+                                                                                                                                                        ID2.1 < meta          0 pts
+
+                                                                                                                                                        ID2.2 ≥ meta          5 pts
+                                               A partir do início                                       M𝑟𝑒𝑐𝑈𝑉𝑅 .semestre n
+             Percentual de recuperação de                                                   𝐼𝐷 2.2 =                         × 100
+  ID2.2                                         da Fase 3a do        Semestral                       (𝑀𝑈𝑉𝑅 + 𝑀𝐴𝑆 )𝑠𝑒𝑚𝑒𝑠𝑡𝑟𝑒 𝑛                            ID2.2 = meta          4 pts            0             2              2,5
+              materiais recicláveis secos
+                                                  CONTRATO
+                                                                                                                                                        ID2.2 < meta          0 pts
+
+                                                                                                                                                         ID2.3 ≥ 90           5 pts
+
+
+                                               A partir do início                                    𝑁𝑅𝑒𝑐𝑙𝑎𝑚𝑎çõ𝑒𝑠 𝑝𝑟𝑜𝑐𝑒𝑑𝑒𝑛𝑡𝑒𝑠 𝑟𝑒𝑠𝑜𝑙𝑣𝑖𝑑𝑎𝑠               80 ≤ ID2.3 < 90        4 pts
+                                                                                        𝐼𝐷 2.3 = (                                       ) × 100
+  ID2.3        Resolução de Reclamações          da Fase 2 do          Mensal                            𝑁𝑅𝑒𝑐𝑙𝑎𝑚𝑎çõ𝑒𝑠 𝑝𝑟𝑜𝑐𝑒𝑑𝑒𝑛𝑡𝑒𝑠                                                              1             1              1
+                                                  CONTRATO                                                                                             60 ≤ ID2.3 < 80        3 pts
+
+                                                                                                                                                         ID2.3 < 60           0 pts
+
+              Execução das atividades dos                                                                                                                ID2.4 ≥ 90           5 pts
+              programas socioambientais:
+              PROGRAMA DE EDUCAÇÃO                                                                                                                     80 ≤ ID2.4 < 90        4 pts
+                                               A partir do início                                       ∑ 𝑁𝑎çõ𝑒𝑠 𝑒𝑥𝑒𝑐𝑢𝑡𝑎𝑑𝑎𝑠
+             AMBIENTAL e PROGRAMA DE
+  ID2.4                                          da Fase 2 do        Semestral               𝐼𝐷 2.4 = (                     ) × 100                                                           3,5           2,5             2
+               RECUPERAÇÃO DE ÁREAS
+                                                  CONTRATO
+                                                                                                        ∑ 𝑁𝑎çõ𝑒𝑠 𝑝𝑙𝑎𝑛𝑒𝑗𝑎𝑑𝑎𝑠
+            DEGRADADAS PELA DISPOSIÇÃO                                                                                                                 70 ≤ ID2.4 < 80        3 pts
+          INADEQUADA DE RESÍDUOS SÓLIDOS
+                      URBANOS                                                                                                                            ID2.4 < 70           0 pts
+
+                                                                                                                                                         ID2.5 ≥ 90           5 pts
+
+          Cumprimento da execução dos planos   A partir do início                                         ∑ 𝑁𝑎çõ𝑒𝑠 𝑒𝑥𝑒𝑐𝑢𝑡𝑎𝑑𝑎𝑠                          80 ≤ ID2.5 < 90        4 pts
+ID 2.5    de inclusão social e emancipação       da Fase 2 do        Semestral               𝐼𝐷 2.5 = (                       ) × 100                                                         3,5           2,5             2
+                                                                                                          ∑ 𝑁𝑎çõ𝑒𝑠 𝑝𝑙𝑎𝑛𝑒𝑗𝑎𝑑𝑎𝑠
+          econômica dos catadores                 CONTRATO                                                                                             70 ≤ ID2.5 < 80        3 pts
+
+                                                                                                                                                         ID2.5 < 70           0 pts
+
+
+
+
+                                                                                                                                                                                                                                   23
+                                                                       CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                                                                                        Telefone: (34) 3822-5450
+2.3   NOTA GLOBAL DE DESEMPENHO
+
+          A NOTA GLOBAL DE DESEMPENHO (NGD) será calculada, anualmente, pela AGÊNCIA
+REGULADORA            com   base    nos   INDICADORES        DE    DESEMPENHO        informados   pela
+CONCESSIONÁRIA nos RELATÓRIOS DE AVALIAÇÃO DE DESEMPENHO, conforme as fórmulas
+abaixo:
+
+Fórmula de aferição da NOTA GLOBAL DE DESEMPENHO referente à Fase 2 do CONTRATO:
+
+  𝑁𝐺𝐷 = (𝑁1.1 × 3) + (𝑁1.2 × 3) + (𝑁1.3 × 0) + (𝑁1.4 × 3) + (𝑁1.5 × 3) + (𝑁2.1 × 0) + (𝑁2.2 × 0)
+                      + (𝑁2.3 × 1) + (𝑁2.4 × 3,5) + (𝑁2.5 × 3,5)
+
+Fórmula de aferição da NOTA GLOBAL DE DESEMPENHO referente às Fases 3a e 3b do
+CONTRATO:
+
+      𝑁𝐺𝐷 = (𝑁1.1 × 2,5) + (𝑁1.2 × 2,5) + (𝑁1.3 × 0) + (𝑁1.4 × 2,5) + (𝑁1.5 × 2,5) + (𝑁2.1 × 2)
+                         + (𝑁2.2 × 2) + (𝑁2.3 × 1) + (𝑁2.4 × 2,5) + (𝑁2.5 × 2,5)
+
+Fórmula de aferição da NOTA GLOBAL DE DESEMPENHO referente às Fases 3c do CONTRATO:
+
+ 𝑁𝐺𝐷 = (𝑁1.1 × 2) + (𝑁1.2 × 2) + (𝑁1.3 × 2) + (𝑁1.4 × 2) + (𝑁1.5 × 2) + (𝑁2.1 × 2,5) + (𝑁2.2 × 2,5)
+                  + (𝑁2.3 × 1) + (𝑁2.4 × 2) + (𝑁2.5 × 2)
+
+          Onde:
+
+                      𝑁𝐺𝐷 = nota global de desempenho;
+                      𝑁1.1 = nota anualizada do INDICADOR DE DESEMPENHO ID 1.1;
+                      𝑁1.2 = nota anualizada do INDICADOR DE DESEMPENHO ID 1.2;
+                      𝑁1.3 = nota anualizada do INDICADOR DE DESEMPENHO ID 1.3;
+                      𝑁1.4 = nota anualizada do INDICADOR DE DESEMPENHO ID 1.4;
+                      𝑁1.5 = nota anualizada do INDICADOR DE DESEMPENHO ID 1.5;
+                      𝑁2.1 = nota anualizada do INDICADOR DE DESEMPENHO ID 2.1;
+                      𝑁2.2 = nota anualizada do INDICADOR DE DESEMPENHO ID 2.2;
+                      𝑁2.3 = nota anualizada do INDICADOR DE DESEMPENHO ID 2.3;
+                      𝑁2.4 = nota anualizada do INDICADOR DE DESEMPENHO ID 2.4;
+                      𝑁2.5 = nota anualizada do INDICADOR DE DESEMPENHO ID 2.5;
+
+          O valor da nota anualizada de cada INDICADOR DE DESEMPENHO deverá ser calculado
+pela AGÊNCIA REGULADORA, por meio da média aritmética das notas parciais mensuradas ao
+longo do ano, a fim de se obter um valor anualizado do indicador no ano em questão.
+
+
+
+
+                                                                                                   24
+      CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                       Telefone: (34) 3822-5450
+       A NOTA GLOBAL DE DESEMPENHO (NGD) terá valor máximo de 100 pontos e
+corresponderá ao resultado ponderado das notas anualizadas obtidas ao longo do ano, dos
+10 (dez) INDICADORES DE DESEMPENHO.
+
+       A primeira NGD será calculada até o quinto dia útil do mês que for realizada a segunda
+REVISÃO ANUAL e será referente aos INDICADORES DE DESEMPENHO apurados entre o 10º e
+o 21º mês contados após a DATA DA EMISSÃO DA ORDEM DE SERVIÇO.
+       As demais NGD serão sempre apuradas até o quinto dia útil do mês de cada REVISÃO
+ANUAL, e serão referentes ao período de doze meses compreendido entre o décimo terceiro
+mês e o segundo mês anteriores ao mês da REVISÃO ANUAL. Com base na NOTA GLOBAL DE
+DESEMPENHO será aferido, pela AGÊNCIA REGULADORA, o FATOR DE AVALIAÇÃO, conforme
+relação direta apresentada no Quadro 13.
+  Quadro 13 – Relação entre a NOTA GLOBAL DE DESEMPENHO e o FATOR DE AVALIAÇÃO
+                      NOTA GLOBAL DE DESEMPENHO                                 FATOR DE AVALIAÇÃO
+
+                 Maior ou igual a 90% da Pontuação Máxima                               1,000
+
+        Maior ou igual a 80% e menor que 90% da Pontuação Máxima                        0,950
+
+        Maior ou igual a 70% e menor que 80% da Pontuação Máxima                        0,900
+
+                   Menor que 70% da Pontuação Máxima                                    0,850
+
+
+       O FATOR DE AVALIAÇÃO será calculado no mesmo mês da apuração da NOTA GLOBAL
+DE DESEMPENHO e será aplicado à TARIFA-BASE REFERENCIAL REAJUSTADA quando do
+reajuste tarifário anual, conforme descrito no CONTRATO.
+       Para o último ano do CONTRATO, será calculada regularmente a NGD, sendo o saldo
+apurado utilizado para fins de ajuste de contas final da CONCESSÃO.
+
+
+
+
+                                                                                                     25
+     CISPAR | Av. Professor Aristides Memória, nº 179 – Jardim Paulistano - Patos de Minas/MG
+                                    Telefone: (34) 3822-5450
+
