@@ -38,3 +38,6 @@ Notas do projeto. Herda o `CLAUDE.md` raiz e as instruções de concessões (`co
 - `output/briefing-roadshow-2026-10-09.md` — briefing consolidado para a gestora e o roadshow (perguntas e reservas). Versão completa em Claude Docs: https://claude.ai/code/artifact/d7c4f64f-53cb-4028-aa19-dd74a047cbea
 - `output/briefing-modelagem-eco-fin-2026-10-09.docx` — briefing descritivo da modelagem econômico-financeira (Plano de Negócio, reajuste e reequilíbrio) (08/10/2026).
 - `output/pontos-de-atencao-2026-10-08.pptx` — pontos de atenção no formato do modelo de apresentação (informações gerais; aspectos jurídicos estratégicos com transcrição das cláusulas, impactos e providências mitigadoras; matriz de riscos; edital e anexos). Sem as reservas estratégicas (erro de sinal do ID2.3, receitas acessórias não precificadas, prazo do aterro na OS, integralização de R$ 88 mi, restrições de habilitação) (08/10/2026).
+- `output/2026_10_08_CONSAUDE_Vicios_identificados.xlsx` — planilha de vícios no formato da planilha-modelo (#, Tema, Vício identificado, Referência, Criticidade, Comentários): 28 vícios na aba principal e 7 pontos na aba "Reservas". Coluna Criticidade deixada em branco, com lista Alta/Média/Baixa, para preenchimento do advogado (08/10/2026).
+
+Nota: as obrigações do Poder Concedente estão na cláusula 13.1 do Contrato (citar "13.1, XV", não "13, XV").
