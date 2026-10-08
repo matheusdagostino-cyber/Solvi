@@ -36,3 +36,4 @@ Notas do projeto. Herda o `CLAUDE.md` raiz e as instruções de concessões (`co
 - `output/memo-04-integracao-agua-proxy-tarifario.md` — integração com a SABESP e o proxy de consumo de água: dependências de dados, riscos e lacunas (08/10/2026).
 - `output/memo-05-rota-tecnologica.md` — rota tecnológica: exigências, rota de referência, metas, PIGIRS, riscos e pontos (08/10/2026). Versão com diagrama em Claude Docs: https://claude.ai/code/artifact/7ab636d6-7aad-49e9-8a19-e832b5d269f3
 - `output/briefing-roadshow-2026-10-09.md` — briefing consolidado para a gestora e o roadshow (perguntas e reservas). Versão completa em Claude Docs: https://claude.ai/code/artifact/d7c4f64f-53cb-4028-aa19-dd74a047cbea
+- `output/briefing-modelagem-eco-fin-2026-10-09.docx` — briefing descritivo da modelagem econômico-financeira (Plano de Negócio, reajuste e reequilíbrio) (08/10/2026).
