@@ -1,6 +1,8 @@
 # CONSAÚDE — Concessão de RSU (16 municípios) — Informações principais e critérios de habilitação
 
 **[USO INTERNO]** · Memo interno nº 01 · 08/10/2026
+
+> **SUPERADO pelo memo nº 02** (`memo-02-informacoes-gerais-e-habilitacao-edital.md`), elaborado com o texto do edital, recebido depois. Este memo reconstruiu a habilitação sem o edital e fica só como registro.
 **Base documental:** minutas em consulta pública (pacote recebido em 08/10/2026)
 **Natureza:** levantamento factual. Não é a Fase 1 (varredura exaustiva) nem análise de teses.
 

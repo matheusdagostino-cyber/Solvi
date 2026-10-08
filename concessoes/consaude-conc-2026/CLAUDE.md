@@ -24,10 +24,11 @@ Notas do projeto. Herda o `CLAUDE.md` raiz e as instruções de concessões (`co
 
 ## Lacunas do pacote documental (versão consulta pública)
 
-- `ANEXO-1-Edital-e-Apendices.pdf` é só a capa. **O texto do edital não foi disponibilizado.**
+- `ANEXO-1-Edital-e-Apendices.pdf` é só a capa. O texto do edital veio em arquivo separado: `docs/EDITAL-CONSAUDE.pdf` (64 p.; metadado "Conjunto Editalício da Etapa 2 (ajustes CEAJU 16/09/2026)").
 - Anexos 2 e 3 e Apêndices 5 e 6 são placeholders de 1 página.
 - O PIGIRS está em minuta (data de aprovação "[•]").
 
 ## Outputs
 
-- `output/memo-01-informacoes-gerais-e-habilitacao.md` — informações principais e critérios de habilitação reconstruídos (08/10/2026).
+- `output/memo-01-informacoes-gerais-e-habilitacao.md` — versão sem o edital (superada).
+- `output/memo-02-informacoes-gerais-e-habilitacao-edital.md` — informações principais e critérios de habilitação com base no edital (08/10/2026).
