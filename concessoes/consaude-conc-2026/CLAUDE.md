@@ -32,3 +32,4 @@ Notas do projeto. Herda o `CLAUDE.md` raiz e as instruções de concessões (`co
 
 - `output/memo-01-informacoes-gerais-e-habilitacao.md` — versão sem o edital (superada).
 - `output/memo-02-informacoes-gerais-e-habilitacao-edital.md` — informações principais e critérios de habilitação com base no edital (08/10/2026).
+- `output/memo-03-valorizacao-energetica.md` — valorização/recuperação energética: o que os documentos exigem, metas implícitas e pontos (08/10/2026).
