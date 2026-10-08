@@ -1,0 +1,168 @@
+# [USO INTERNO] Metadados e textos da Fase 1 — PPP RSU Porto Velho/RO
+meta:
+  titulo: "PPP RSU Porto Velho/RO — Fase 1: Big Numbers e Pontos Impugnáveis"
+  titulo_curto: "PPP RSU Porto Velho/RO — Fase 1"
+  identificacao:
+    - ["Edital", "Concorrência n.º [•]/2026 (número em branco no edital) — 2.ª versão, 08/09/2026"]
+    - ["Órgão", "Prefeitura do Município de Porto Velho/RO — SEINFRA"]
+    - ["Modalidade", "Concorrência eletrônica (Lei 14.133/2021); PPP na modalidade concessão administrativa (Lei 11.079/2004); menor contraprestação"]
+    - ["Objeto resumido", "Coleta (domiciliar, seletiva, RSS, ecopontos, feiras), transbordos e logística fluvial, remediação da Lixeira de Vila Princesa, recuperação do Aterro do Jirau e implantação da CTR Porto Velho (triagem, compostagem, CDR, RSS e aterro de rejeitos) — 30 anos"]
+    - ["Valor estimado", "R$ 2.311.927.627,53 (maio/2026); contraprestação mensal máxima R$ 6.505.697,97"]
+    - ["Documentos analisados", "Edital, Anexos A–D, Anexos III–VII e estudos P0, P1, P2, P3, P4, P6 e P7 (17 PDFs, ≈ 260 mil palavras). P5 (avaliação da indenização) não consta do pacote."]
+    - ["Data da análise", "08/10/2026"]
+    - ["Fase", "Fase 1 — varredura exaustiva (extratores E1–E7 + consolidador C). Sem jurisprudência; sem juízo de força."]
+
+nota_metodologica:
+  - "Sete extratores leram integralmente os 17 documentos e produziram 727 achados brutos; o consolidador eliminou duplicatas, cruzou documentos e conferiu transcrições e páginas no texto-fonte."
+  - "Classificação binária do CLAUDE.md: **IRREGULAR** (vício identificado e ancorado em dispositivo), **DEPENDE DE FATO** (falta documento ou fato para concluir) e **CONFORME** (cobertura do checklist)."
+  - "Não há jurisprudência nesta fase. As decisões do TCE-RO aparecem só como fato documental. A busca jurisprudencial (Lei na Mão e Jus IA) e o roteamento entre impugnação, esclarecimento e representação ficam para a Fase 2, sobre os pontos que o advogado selecionar."
+  - "Não há classificação de força das teses nem priorização. A ordem segue o tema e o tipo de achado."
+  - "Pontos com **[RESERVA]** ou **[DECISÃO COMERCIAL]** estão segregados na seção 4 e não devem ser protocolados sem decisão do advogado."
+  - "**[VALIDAÇÃO TÉCNICA]** indica dependência de confirmação de engenharia. **[FONTE EXTERNA — VERIFICAR]** indica fato obtido fora do pacote do edital (seção 5), a confirmar em fonte primária antes de uso formal."
+  - "A identificação de empresas (EcoRondônia/Marquise, CTR Porto Velho S.A., Orizon, Ecofort, consórcio autor dos estudos) é factual e restrita a este documento de uso interno."
+
+nota_resumo: "Contagem por ponto consolidado. A coluna de reserva inclui pontos irregulares e dependentes de fato que estão segregados na seção 4."
+
+big_numbers_intro: "Números-chave extraídos dos documentos, com fonte e, quando cabível, a divergência encontrada entre documentos. 'calc.' indica cálculo próprio a partir das tabelas do pacote."
+
+intro_irregular: "Achados classificados como IRREGULAR pelos extratores e confirmados pelo consolidador no texto-fonte, excluídos os de reserva (seção 4). A lista é bruta: a seleção para impugnação, esclarecimento ou representação é do advogado (Fase 2)."
+
+intro_depende: "Achados que dependem de documento ou fato não disponível no pacote. São candidatos naturais a pedido de esclarecimento dirigido ou a diligência prévia."
+
+intro_reserva: "Pontos que favorecem a concessionária ou um licitante específico, ou cujo levantamento depende da posição comercial do grupo. Não protocolar sem decisão expressa do advogado."
+
+dd:
+  paragrafos:
+    - "Diligência feita em 08/10/2026 em fontes abertas, por solicitação do advogado: (i) vínculos entre a Orizon e o consórcio autor dos estudos (PEZCO, PSP Hub, Masterpro e Apparecido & Carvalho Pinto Advogados); (ii) situação do aterro Ecoparque."
+    - "- **Vínculo Orizon × consórcio: não localizado.** As credenciais do consórcio (kick-off de out/2025 e MIP de abr/2025, publicados pela Prefeitura) citam só clientes públicos e multilaterais (BID, CAF, AFD, Banco Mundial, Ministério da Economia/PNUD). A Masterpro cita operadores de saneamento (AEGEA, Iguá, Saneflow). Não foi localizada assessoria, mandato, estudo ou evento conjunto com a Orizon, a Vital Engenharia ou associações do setor. A PEZCO declara atuar também para licitantes privados (ex.: PPP prisional de Erechim)."
+    - "- **Alcance da vedação do Edital 8.2, 'm':** a alínea alcança só o vínculo com os autores 'relacionado à avaliação da PPP e/ou à formulação de proposta nesta LICITAÇÃO'. Um trabalho anterior não relacionado, por si só, não aciona a vedação."
+    - "- **O Ecoparque é controlado pela Orizon (fonte primária da empresa).** Pelo Fato Relevante de 23/01/2023, a Orizon adquiriu, via Orizon Meio Ambiente, 51% da CTR Porto Velho S.A. por ≈ R$ 10 mi. A Ecofort Engenharia Ambiental ficou como minoritária, com confissão de dívida de ≈ R$ 11 mi, contrato de arrendamento da área do aterro entre CTR PV e Ecofort e acordo de acionistas."
+    - "- **Situação em 30/09/2025 (ITR 3T25):** a CTR PV continua controlada indireta da Orizon (51%), com R$ 16,7 mi em aberto de empréstimos ligados 'à aquisição do ecoparque de Porto Velho'. O Relatório de Sustentabilidade 2023 lista o 'Ecoparque Porto Velho (RO)' como unidade do grupo (área própria, 1.198.000 m²)."
+    - "- **Licitação anterior [fonte secundária]:** a Orizon Meio Ambiente teve garantia de proposta aceita na Concorrência 003/2021 (maio/2023) e não chegou à habilitação. Venceu a Marquise. O PMI 002/2018 que originou aquela licitação teve estudos da Construtora Marquise com a FIPE."
+    - "- **Contrato anulado ainda em litígio [fonte secundária]:**"
+    - "- 03/10/2025: mandado de segurança restabeleceu o Contrato 019/PGM/2024."
+    - "- 29/10/2025: um desembargador suspendeu esse efeito."
+    - "- 25/09/2026: o TCE-RO manteve medida cautelar (débito preliminar R$ 13,03 mi)."
+    - "- Há ação civil pública em curso (despacho de 01/09/2026)."
+    - "- O Edital fala em 'anulação integral' sem mencionar o litígio."
+    - "- **Licenciamento e contrato do Ecoparque [fonte secundária]:** em 01/07/2026 foi publicada a LO 159654/COLMAM/SEDAM em nome da CTR Porto Velho S/A, não registrada nos estudos. O Contrato 042/PGM/2023 com a CTR Porto Velho S.A. é de R$ 19,38 mi."
+    - "**Leitura para a análise:** a estrutura do Contrato favorece o detentor do único aterro licenciado da Sede, que é controlado pela Orizon. Os elementos são:"
+    - "- cl. 10.9: a concessionária mantém a LAO do Ecoparque por todo o prazo;"
+    - "- cl. 10.13: aterro próprio em propriedade plena, com 30 anos de vida útil remanescente e risco integral, sem reequilíbrio;"
+    - "- dependência do Ecoparque na transição;"
+    - "- LAO municipal até out/2028."
+    - "O enquadramento como impugnação ou reserva depende da posição comercial do grupo em relação à Orizon e à Ecofort."
+  fontes:
+    - "Orizon — Fato Relevante de 23/01/2023 (api.mziq.com/mzfilemanager/v2/d/9267dc34-24be-4623-bcda-2414abcbda9a/e1ddf90d-b98b-9130-85fd-cfc87cdc02d8)"
+    - "Orizon VR — ITR de 30/09/2025 (s3.glbimg.com/.../orizon1586183619112025.pdf)"
+    - "Orizon — Relatório de Sustentabilidade 2023 (orizonvr.com.br/novo_site/wp-content/uploads/2024/05/grupoOrizon_RelatorioSust2023_Versao-Final.pdf)"
+    - "Prefeitura de Porto Velho/CGP — Reunião de Kick-off do PMI RSU (cgp.portovelho.ro.gov.br/uploads/editor/files/Reunião de Kick-off.pdf)"
+    - "Prefeitura de Porto Velho — MIP de parques urbanos (portovelho.ro.gov.br/uploads/editor/files/Manifestação de Interesse da Iniciativa Privada – MIP(1).pdf)"
+    - "Radar PPP — Resíduos Sólidos, Primeira Concessão (Porto Velho) (radarppp.com/resumo-de-contratos-de-ppps/residuos-solidos-porto-velho/)"
+    - "Rondoniagora — 'Justiça determina que Prefeitura restabeleça contrato de coleta de lixo com a Ecorondônia em 24 horas' (04/10/2025)"
+    - "News Rondônia — 'Recebimento da Licença Ambiental: CTR PORTO VELHO S/A' (01/07/2026)"
+    - "Apparecido e Carvalho Pinto Advogados (acp.adv.br/equipe); PSP Hub (psphub.org); Master Pro Engenharia (masterproengenharia.com.br); Ipea TD 3077"
+
+lacunas:
+  - "Inteiro teor dos Acórdãos APL-TC 00068/24 e 00105/24 (TCE-RO, Processo 00421/2022) e da Decisão 001/2025/GAB-PREF/PMPV. Sem eles não é possível verificar, determinação por determinação, o saneamento afirmado no preâmbulo."
+  - "P5 — Avaliação Econômica da Indenização (previsto no P0 e no cronograma do PMI; ausente do pacote)."
+  - "Planilha da modelagem econômico-financeira (DRE, fluxo de caixa, ICSD). Sem ela não é possível reproduzir a contraprestação máxima."
+  - "Lei autorizativa específica da PPP e da vinculação do FPM (o Anexo VI remete genericamente à LC 592/2015, art. 54, I); LC 1.013/2025 (ARDPV); LC 878/2021 (taxa de RSU) e dados de arrecadação."
+  - "Estimativa de impacto orçamentário por exercício, declaração do ordenador de despesa, dotação e PPA (em branco no Edital 5.2), datas da consulta e da audiência pública."
+  - "Licença prévia ou diretrizes ambientais expedidas pelo órgão competente; 'Relatório de Ratificação do Licenciamento da CTR' (2024) citado nos estudos."
+  - "Contratos vigentes (042/PGM/2023 Ecoparque; 028/PGM/2025 emergencial; varrição), com preços e prazos; custo atual do serviço."
+  - "Titularidade e matrícula da área da CTR (BR-364, km 10) e situação fundiária do Aterro do Jirau."
+  - "Laudos da avaliação preliminar da Lixeira de Vila Princesa e do Jirau (EcoRondônia/Neomax 2024); laudo do incinerador municipal."
+  - "Texto do PMSB/PMGIRS (LC 972/2023 × LC 839/2021); Termo de Autorização do PMI/MIP 005/2025."
+
+# Deduplicação entre grupos (revisão manual após consolidar_fase1.py): o primeiro id é removido, o segundo permanece.
+remover_id_tmp:
+  - G2-026   # = G1-050 (reposição de frota: ciclos quinquenais × Ano 25)
+  - G1-032   # = G3-080 (bens municipais a ceder sem relação)
+  - G1-073   # = G3-023 (transição no Ecoparque)
+  - G3-032   # = G1-074 (Jirau sem teto de encargo)
+  - G1-088   # = G3-031 (corte temporal pela Ordem de Início)
+  - G2-100   # = G3-072 (compartilhamento de ganhos de refinanciamento)
+  - G3-089   # = G2-046 (TRCF)
+  - G1-089   # = G2-017/G2-018 (programas ambientais e compensação sem custo)
+  - G1-034   # = G3-019 (área da CTR)
+  - G1-044   # = G2-057 (populações divergentes)
+  - G1-041   # = G2-065/G2-066 (distâncias logísticas)
+  - G1-036   # = DD-01 (cl. 10.13 favorece quem detém aterro licenciado; fato confirmado na diligência)
+ajustes:
+  DD-01:
+    ids_origem: [E3-043, DD-ext]
+pontos_extras:
+  - id_tmp: DD-01
+    tema: RISCOS_GARANTIAS
+    ids_origem: [DD-ext]
+    tipo_achado: IRREGULAR
+    categoria: restricao_competitividade
+    descricao_breve: "Aterro próprio e Ecoparque: único aterro licenciado da Sede é controlado por potencial licitante"
+    dispositivo_editalicio: "Contrato cl. 10.9 (PDF p. 30), 10.13 a 10.13.5 (p. 31–32); considerando v (p. 5–6); Matriz TO-20 (p. 17); P1 p. 85"
+    transcricao: "Contrato 10.13: 'Constitui obrigação da Concessionária, às suas expensas e por sua conta e risco, prover e disponibilizar, na Sede Administrativa, aterro sanitário devidamente licenciado [...]'; 10.13.1.1: risco 'integralmente alocado à Concessionária [...] não ensejando pleito de recomposição [...] em razão de [...] indisponibilidade de área, recusa de terceiros, indeferimento ou demora no licenciamento'."
+    comentario: "O Contrato exige aterro próprio na Sede, em propriedade plena, com 30 anos de vida útil remanescente na reversão e risco integral de área e licenciamento. Na transição, a destinação depende do Ecoparque, e a cl. 10.9 ainda põe na concessionária a LAO desse aterro por todo o prazo. Pelos estudos, o Ecoparque é o único aterro licenciado da Sede (Anexo III V.1), com LAO em nome da CTR Porto Velho S/A até 09/10/2028. Pelas demonstrações da própria Orizon, a CTR Porto Velho S.A. é controlada pela Orizon (51%) desde jan/2023. Quem não detém o ativo precisa licenciar um aterro novo a tempo ou negociar com o detentor, enquanto o detentor dispensa as duas coisas."
+    dispositivo_legal: "art. 9.º, inciso I, alínea 'a', da Lei n.º 14.133/2021; art. 37, inciso XXI, da CF/1988; art. 5.º, inciso III, da Lei n.º 11.079/2004"
+    flag_tecnico: false
+    flag_reserva: true
+    reserva_tipo: DECISAO_COMERCIAL
+    nota_reserva: "Se o grupo não tiver relação com a Orizon ou a Ecofort, o ponto é núcleo de impugnação (e possivelmente de representação). Se tiver ou puder negociar acesso ao Ecoparque, é assimetria favorável a reservar. Decisão do advogado."
+    fonte_externa: true
+  - id_tmp: DD-02
+    tema: QUESTOES_FORMAIS
+    ids_origem: [DD-ext]
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: omissao
+    descricao_breve: "Litígio sobre a anulação do contrato anterior não informado no Edital"
+    dispositivo_editalicio: "Edital, preâmbulo (PDF p. 4); Contrato, considerandos ii–iii e vi (p. 5–6); P6 p. 59"
+    transcricao: "Edital: 'o Município de Porto Velho, no exercício da autotutela administrativa, promoveu a anulação integral daquele certame e contrato pela Decisão nº 001/2025/GAB-PREF/PMPV'."
+    comentario: "O Edital e o P6 tratam o Contrato 019/PGM/2024 como extinto e usam sua despesa (4,46% da RCL) como margem fiscal. Pelas fontes externas, a anulação segue em litígio: houve mandado de segurança que restabeleceu o contrato (03/10/2025), depois suspenso (29/10/2025); há medida cautelar do TCE-RO mantida em 25/09/2026 e ação civil pública em curso. Isso afeta a segurança jurídica do objeto, a margem fiscal e a eventual indenização ao operador anterior, cujo estudo (P5) não consta do pacote."
+    dispositivo_legal: "art. 5.º da Lei n.º 14.133/2021; art. 10, inciso I, alíneas 'a' e 'b', da Lei n.º 11.079/2004"
+    depende_de: "Certidão de objeto e pé do mandado de segurança e da ação civil pública (TJRO) e situação do processo no TCE-RO; P5 (avaliação da indenização)."
+    flag_tecnico: false
+    flag_reserva: false
+    fonte_externa: true
+  - id_tmp: DD-03
+    tema: MODELAGEM_ECONOMICA
+    ids_origem: [DD-ext]
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: risco_economico
+    descricao_breve: "Custo de transição no Ecoparque (≈ R$ 12/t no P6) sem lastro no contrato vigente"
+    dispositivo_editalicio: "P6 Tab. 9 (PDF p. 42–43); P2 item 4.5; Contrato, considerando v"
+    transcricao: "P6 Tab. 9: 'Aterro Ecoparque (Anos 1–4 — transição até CTR) 1.760 / 1.760 / 704 / 704' (R$ mil)."
+    comentario: "A modelagem prevê R$ 4,93 mi em 4 anos para dispor no Ecoparque cerca de 140 mil t/ano, o que dá ≈ R$ 12/t. O Contrato 042/PGM/2023 com a CTR Porto Velho S.A. é de R$ 19,38 mi [fonte externa]. Nenhum documento do pacote informa o preço por tonelada nem diz quem paga a disposição na transição. Se a concessionária pagar a preço de mercado, o OPEX dos anos 1–4 está subestimado."
+    dispositivo_legal: "art. 10, inciso I, alínea 'a', e § 4.º, da Lei n.º 11.079/2004"
+    depende_de: "Contrato 042/PGM/2023 (preço unitário, prazo, aditivos) e definição de quem contrata e paga a destinação na transição."
+    flag_tecnico: true
+    flag_reserva: false
+    fonte_externa: true
+  - id_tmp: DD-04
+    tema: LICENCIAMENTO_AMBIENTAL
+    ids_origem: [DD-ext]
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: omissao
+    descricao_breve: "Licença estadual do Ecoparque (2026) não considerada nos estudos"
+    dispositivo_editalicio: "P1 p. 85; Anexo III Tab. 3 (p. 9); Contrato cl. 10.9 (p. 30)"
+    transcricao: "P1: 'Licença Ambiental de Operação (LAO) nº 016.00130.006/2024-SUL, emitida em nome de CTR PORTO VELHO S/A, válida até 09/10/2028'."
+    comentario: "Os estudos e o Contrato tratam a LAO municipal de 2024 (até 09/10/2028) como a licença do Ecoparque. Em 01/07/2026 foi publicada a LO 159654/COLMAM/SEDAM em nome da CTR Porto Velho S/A [fonte externa]. O prazo, as condicionantes e a capacidade licenciada são o que a cl. 10.9 manda a concessionária manter, e o que define o horizonte da transição."
+    dispositivo_legal: "art. 10, inciso VII, da Lei n.º 11.079/2004; Resolução CONAMA n.º 237/1997"
+    depende_de: "Cópia da LO 159654/COLMAM/SEDAM e da LAO municipal, com prazos e capacidade."
+    flag_tecnico: false
+    flag_reserva: false
+    fonte_externa: true
+  - id_tmp: DD-05
+    tema: RISCOS_GARANTIAS
+    ids_origem: [DD-ext]
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: contradicao
+    descricao_breve: "Área do Ecoparque arrendada × exigência de propriedade plena do aterro (cl. 10.13.1)"
+    dispositivo_editalicio: "Contrato cl. 10.13.1 e 10.13.3 (PDF p. 31–32)"
+    transcricao: "Contrato 10.13.1, (v): 'qualquer outro negócio jurídico apto a transferir à Concessionária a propriedade plena do bem'."
+    comentario: "O Contrato só admite cumprir a obrigação de aterro com a propriedade plena do imóvel. Pelo Fato Relevante da Orizon de 23/01/2023, há 'contrato de arrendamento da área do aterro sanitário entre CTR PV e Ecofort' [fonte externa]. Se a área é da Ecofort, comprar a participação na CTR PV não transfere a propriedade do imóvel, e a única via de aproveitamento do Ecoparque fica condicionada a negócio com o titular da área."
+    dispositivo_legal: "art. 5.º da Lei n.º 14.133/2021; art. 9.º, inciso I, alínea 'a', da Lei n.º 14.133/2021"
+    depende_de: "Matrícula do imóvel do Ecoparque e contrato de arrendamento CTR PV × Ecofort."
+    flag_tecnico: false
+    flag_reserva: true
+    reserva_tipo: DECISAO_COMERCIAL
+    nota_reserva: "Depende da posição do grupo em relação à Orizon e à Ecofort."
+    fonte_externa: true

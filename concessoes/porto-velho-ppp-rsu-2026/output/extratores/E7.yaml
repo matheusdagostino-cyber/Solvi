@@ -1,0 +1,1456 @@
+# E7 — Extrator do Caderno Jurídico-Institucional (P7) e do Plano de Trabalho (P0)
+# PPP RSU Porto Velho/RO — Fase 1 — [USO INTERNO]
+# Documentos-alvo lidos integralmente: P7_CadernoJuridico (76 p., 2ª versão 11/09/2026) e P0_PlanoTrabalho (34 p., 10/10/2025).
+# Referências cruzadas pontuais: EDITAL, ANEXO-B (Contrato), ANEXO-VI, ANEXO-III, P1, P4, P6.
+
+big_numbers:
+  - item: "Valor Estimado do Contrato"
+    valor: "R$ 2.311.927.627,53 (P7 arredonda para R$ 2.311,9 milhões)"
+    data_base: "maio/2026 (Edital 12.2.1); P7 diz 'valores nominais, na data-base do orçamento estimado', sem indicar a data"
+    fonte: "P7, p. 8 e p. 31 (III.5); EDITAL 5.1 (p. 15)"
+    obs: "Somatório das Contraprestações Mensais Máximas em 30 anos; não inclui eventual prorrogação de 5 anos."
+  - item: "Contraprestação anual em regime pleno"
+    valor: "R$ 78.068.375,62 (mensal máxima R$ 6.505.697,97)"
+    data_base: "maio/2026"
+    fonte: "P7, p. 8 e p. 31; EDITAL 5.1.1 e 12.2.1 (p. 15 e p. 31)"
+    obs: "78.068.375,62 / 12 = 6.505.697,97 — fecha. 30 x 78,07 mi = 2.342,1 mi > 2.311,9 mi (diferença de ~R$ 30,1 mi atribuível ao ramp-up)."
+  - item: "Comprometimento da RCL"
+    valor: "3,18%"
+    data_base: "RCL de 2025 mantida constante até 2030"
+    fonte: "P7, p. 8, 31, 37-38 e 44; P6, p. 58-59 (Tabela 18); EDITAL 5.1.1"
+    obs: "78.068.375,62 / 2.450.000.000 = 3,186% — fecha. Cálculo de um único ano; sem projeção de 10 anos, sem soma de outras PPPs identificadas."
+  - item: "Receita Corrente Líquida (RCL) do Município"
+    valor: "R$ 2,45 bilhões (2025)"
+    data_base: "2025"
+    fonte: "P6, p. 58 e Tabela 18 (p. 59). P7 não informa o valor da RCL."
+    obs: "Limite de 5% = R$ 122,5 milhões/ano; margem declarada de ~1,82% da RCL."
+  - item: "Contrato anterior 019/PGM/2024 (Ecorondônia) — compromisso extinto"
+    valor: "R$ 109,35 milhões/ano (4,46% da RCL)"
+    data_base: "2026"
+    fonte: "P6, p. 59 (Tabela 18); ANEXO-B, considerando vi (p. 6)"
+    obs: "Usado como 'margem fiscal liberada'; não se consideram os custos dos contratos emergenciais e de destinação vigentes (028/PGM/2025; 042/PGM/2023)."
+  - item: "Conta Garantia — saldo mínimo"
+    valor: "2 Contraprestações Mensais Efetivas (~R$ 13,0 milhões em regime pleno)"
+    data_base: "maio/2026"
+    fonte: "P7, p. 9, 32, 37, 39-40; P6, p. 6; ANEXO-B 23.2 II e 23.4.3"
+    obs: "2 x 6.505.697,97 = 13.011.395,94. Contrato oscila entre '2 contraprestações mensais devidas' (23.2 II) e '2 CME' (23.4.3)."
+  - item: "FPM (lastro/repreenchimento da garantia)"
+    valor: "~R$ 410,4 milhões/ano"
+    data_base: "não informada"
+    fonte: "P6, p. 6"
+    obs: "P6 diz que a Conta Vinculada é 'lastreada nos repasses do FPM'; P7 e o Contrato tratam o FPM apenas como fonte de repreenchimento da Conta Garantia."
+  - item: "Ressarcimento dos estudos do PMI/MIP 005/2025"
+    valor: "R$ 3.142.250,00"
+    data_base: "Edital 20.1.8 manda corrigir por IPCA desde a data-base do orçamento; Edital 21.1.1 fixa valor nominal; Contrato 10.7.1 trata como 'valor máximo'"
+    fonte: "P7, p. 12 e 65; EDITAL 21.1.1 (p. 50) e 20.1.8 (p. 49-50); ANEXO-B 10.7/10.7.1 (p. 30)"
+    obs: "Teto legal municipal 2,5% dos investimentos (LC 592/2015, art. 28, § 2.º). CAPEX projetado R$ 298,3 mi (P6, p. 19-20) -> teto ~R$ 7,46 mi; ressarcimento = ~1,05% do CAPEX."
+  - item: "CAPEX projetado (30 anos)"
+    valor: "R$ 298,3 milhões"
+    data_base: "não informada no trecho"
+    fonte: "P6, p. 19-20 (texto truncado no .txt, recuperado do PDF)"
+    obs: "P6, Tabela 2 (p. 16): 'Equity + Dívida inicial R$ 313,8 milhões'."
+  - item: "Capital social / integralização (três versões)"
+    valor: "P7: 10% do valor do Contrato (~R$ 231,2 mi) e integralização inicial de 65%; EDITAL 13.17.2: capital mínimo da licitante R$ 23.119.276,28 (1%); EDITAL 20.1.2.1: subscrição na SPE R$ 34.678.914,41 (1,5%) e integralização R$ 17.339.457,21 (50%); P6: capital mínimo R$ 23,1 mi (1%), equity total R$ 57,8 mi (2,5%), integralização inicial 40%"
+    data_base: "-"
+    fonte: "P7, p. 62; EDITAL p. 35 e p. 48; P6, p. 16 (Tabela 2)"
+    obs: "Contradição tripla — ver E7-061."
+  - item: "Garantia de Execução do Contrato"
+    valor: "10% do valor anual contratual (~R$ 7,8 milhões em regime pleno)"
+    data_base: "-"
+    fonte: "P7, p. 39 e 42"
+    obs: "-"
+  - item: "Garantia de Proposta"
+    valor: "R$ 23.119.276,28 (1% do valor estimado)"
+    data_base: "-"
+    fonte: "EDITAL p. 28-29 (item da garantia de proposta, art. 58, § 1.º, Lei 14.133)"
+    obs: "Referência cruzada."
+  - item: "Taxa de Regulação, Controle e Fiscalização (TRCF)"
+    valor: "1,5% da receita operacional bruta (CME + receitas acessórias) — ~R$ 1,17 milhão/ano sobre a CP em regime pleno"
+    data_base: "-"
+    fonte: "P7, p. 44 (V.11) e p. 68; ANEXO-B 13.1.1 (p. 34-35); P6, p. 44"
+    obs: "P7 cita art. 53 da LC 1.013/2025; P6 cita art. 51, §§ 1.º e 2.º, que facultariam a não incidência em concessão administrativa. P6 repassa integralmente a TRCF à CP."
+  - item: "Compartilhamento de receitas acessórias"
+    valor: "5% da receita bruta (redutor da CP)"
+    data_base: "-"
+    fonte: "P7, p. 21 e 34; ANEXO-B 18.5.1"
+    obs: "Recicláveis da UVR revertidos integralmente às cooperativas (18.5.2)."
+  - item: "Desconto máximo por IQD"
+    valor: "10% da CME ('parâmetro de referência')"
+    data_base: "-"
+    fonte: "P7, p. 32 e 52"
+    obs: "Cláusula 15.5.1 relativiza o teto."
+  - item: "Teto anual de multas"
+    valor: "50% da CMM x 12 (~R$ 39,0 milhões/ano)"
+    data_base: "-"
+    fonte: "P7, p. 53 (Cl. 26.3)"
+    obs: "Faixas de multa de 0,5% a 30% do valor anual."
+  - item: "Gatilhos de inadimplência do Poder Concedente"
+    valor: "5 dias úteis (acionamento da garantia); 90 dias (suspensão de investimentos); 180 dias + Conta Garantia < 1 parcela (pleito cautelar de suspensão integral)"
+    data_base: "-"
+    fonte: "P7, p. 33 e 41; ANEXO-B 15.8.5-15.8.8 (p. 39-40)"
+    obs: "P7, p. 33 descreve o 3.º gatilho de forma divergente (ver E7-034)."
+  - item: "Prazo da concessão"
+    valor: "30 anos da assinatura, prorrogáveis por até 5 (limite 35)"
+    data_base: "-"
+    fonte: "P7, p. 28; ANEXO-B 6.1"
+    obs: "Eficácia condicionada à Ordem de Início, sem prazo máximo para sua emissão."
+  - item: "Prazo do PMI/MIP"
+    valor: "240 dias corridos da publicação do Termo (25/09/2025) -> ~23/05/2026; cronograma detalhado em 15 dias"
+    data_base: "-"
+    fonte: "P0, p. 3-4 e 26; P7, p. 9 e 12"
+    obs: "P0 datado de 10/10/2025 (dentro de 15 dias). P6 1.ª versão 26/05/2026; P7 2.ª versão 11/09/2026; Edital/Contrato 2.ª versão 08/09/2026."
+  - item: "Termo de Autorização MIP/PMI 005/2025"
+    valor: "DOM-RO Edição n.º 4074, 25/09/2025, expedido pelo CGP/PVH"
+    data_base: "-"
+    fonte: "P7, p. 9 e 12; P0, p. 3; EDITAL 21.1"
+    obs: "Nomenclatura divergente: 'MIP' (P7), 'Chamamento Público' (P0), 'PMI' (Edital 2.11.1; Contrato 10.7)."
+  - item: "Leis municipais citadas como base"
+    valor: "LC 592/2015 (Programa PPP; alt. LC 863/2021 e LC 918/2022; Dec. 14.191/2016); LC 1.013/2025 (ARDPV); LC 908/2022 (Política de Saneamento); LC 972/2023 (PMSB/PMGIRS); LC 878/2021 (taxa de RSU); LC 136/2001 (RSS); Dec. 15.603/2018 (grandes geradores); LC 745/2018 (processo administrativo); LOM de 27/03/1990"
+    data_base: "-"
+    fonte: "P7, p. 16-22"
+    obs: "Nenhuma lei autorizativa específica desta PPP nem lei específica de vinculação do FPM é identificada."
+  - item: "Vedações de valor mínimo"
+    valor: "LC 592/2015, art. 6.º: R$ 20 milhões; Lei 11.079, art. 2.º, § 4.º: R$ 10 milhões"
+    data_base: "-"
+    fonte: "P7, p. 14 e 17"
+    obs: "Atendidas."
+  - item: "CAPAG"
+    valor: "C (Poupança Corrente 95,60%; DC/RCL 26,71%; Pessoal/RCL 48,79%)"
+    data_base: "2025/2026"
+    fonte: "P7, p. 9, 24, 37, 39; P6, p. 58 (Tabela 17)"
+    obs: "-"
+  - item: "Value for Money"
+    valor: "Economia de R$ 123 milhões (16,5%)"
+    data_base: "-"
+    fonte: "P6, p. 6 (texto: PPP 524 x PSC 647) e Tabela 16 (PPP 620 x PSC 743 com ajuste de neutralidade)"
+    obs: "P7 (p. 8 e 26) apenas afirma 'superioridade econômica significativa', sem números; P6 apresenta bases distintas no texto e na tabela."
+  - item: "Inexequibilidade"
+    valor: "< 75% da CMM (indício relativo); diligência de 5 dias úteis"
+    data_base: "-"
+    fonte: "P7, p. 30"
+    obs: "-"
+  - item: "Logística / passivos"
+    valor: "DMT de 255 a 378 km (Alto Madeira); variação de até 12 m do Rio Madeira; estiagem crítica < 2 m; reativação do Jirau até o Mês 24; sobreposição de 30 dias na transição"
+    data_base: "-"
+    fonte: "P7, p. 11-12, 28, 36-37"
+    obs: "-"
+  - item: "Contratação emergencial autorizada pelo TCE-RO"
+    valor: "até 180 dias"
+    data_base: "a partir da Decisão 001/2025/GAB-PREF/PMPV (data não informada)"
+    fonte: "P7, p. 11; P1, p. 64 e 88 (ECOPVH, Contrato 028/PGM/2025 emergencial ativo)"
+    obs: "Ver E7-072."
+  - item: "Licenças do aterro privado existente (Ecoparque)"
+    valor: "LAI 016.00047.006/2024-SUL (Ecorondônia, até 08/10/2026); LAO 016.00130.006/2024-SUL (CTR Porto Velho S/A, até 09/10/2028)"
+    data_base: "-"
+    fonte: "P1, p. 85"
+    obs: "Relevante para a obrigação de aterro próprio da Cl. 10.13 (ver E7-047)."
+  - item: "Receita da taxa de RSU (LC 878/2021)"
+    valor: "não informada em nenhum documento do pacote"
+    data_base: "-"
+    fonte: "P7, p. 19 e 25; P0, p. 24 (solicitada no data request)"
+    obs: "Ver E7-024."
+
+pontos:
+  # ================================================================
+  # BLOCO A — CONDIÇÕES PRÉVIAS (art. 10 da Lei 11.079/2004)
+  # ================================================================
+  - id: E7-001
+    documento: "P7"
+    dispositivo_editalicio: "P7, Cap. I.3 e II.4 (PDF p. 12 e 17); EDITAL, preâmbulo (PDF p. 2)"
+    transcricao: "foram publicadas no Diário Oficial dos Municípios do Estado de Rondônia – DOM em [ • ] de 202[ • ]"
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: omissao
+    tema_sugerido: QUESTOES_FORMAIS
+    descricao_breve: "Ato de autorização da autoridade competente para abrir a licitação da PPP não identificado"
+    comentario: "O art. 10, I, condiciona a abertura da licitação à autorização da autoridade competente, fundamentada em estudo técnico. O P7 descreve apenas o Termo de Autorização do MIP (que autoriza a elaboração dos estudos, não a licitação). A publicação da justificativa no DOM aparece com placeholder no preâmbulo do Edital. Não há no pacote a deliberação do CGP/PVH que aprove os estudos e a modelagem nem o ato do Prefeito/Secretário que autorize o certame."
+    dispositivo_legal: "art. 10, inciso I, alínea 'a', da Lei n.º 11.079/2004; arts. 22 a 27 da LC Municipal n.º 592/2015 (competência do CGP/PVH para aprovar os estudos, conforme P7, p. 17)"
+    referencias_cruzadas: ["EDITAL preâmbulo (p. 2)", "P0 IV.2 (p. 29) — validação formal de cada produto pelo Comitê Estratégico", "E7-079"]
+    flag_tecnico: false
+    flag_reserva: false
+    nota: "Falta: ato de autorização da licitação e resolução do CGP/PVH aprovando o EVTEA e as minutas."
+
+  - id: E7-002
+    documento: "P7"
+    dispositivo_editalicio: "P7, Cap. III.1.4 (PDF p. 25-26) e III.1.1-III.1.3 (p. 24-25)"
+    transcricao: "A Concessão Administrativa é a modalidade adequada ao presente projeto por seis razões articuladas a seguir."
+    tipo_achado: CONFORME
+    categoria: omissao
+    tema_sugerido: MODELAGEM_ECONOMICA
+    descricao_breve: "Estudo de conveniência e oportunidade da opção pela PPP — existente (análise comparativa de 4 alternativas)"
+    comentario: "O P7 compara contratação tradicional, concessão comum, patrocinada e administrativa e remete o VfM ao P6. Há, portanto, estudo que identifica as razões da opção pela PPP. A suficiência quantitativa do VfM é tratada em E7-005."
+    dispositivo_legal: "art. 10, inciso I, alínea 'a', da Lei n.º 11.079/2004"
+    referencias_cruzadas: ["P6 p. 6 e Tabela 16", "E7-005"]
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E7-003
+    documento: "P7"
+    dispositivo_editalicio: "P7, Cap. V.10 (PDF p. 44)"
+    transcricao: "Esses requisitos devem ser atendidos pelo Município antes da publicação do Edital [...] Recomenda-se que a documentação de instrução processual do certame consolide essa estimativa."
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    tema_sugerido: MODELAGEM_ECONOMICA
+    descricao_breve: "Ausência de demonstração de que a despesa não afeta as metas fiscais da LDO e de sua compensação"
+    comentario: "O art. 10, I, 'b', e § 1.º exigem demonstração, com premissas e metodologia, de que as despesas criadas não afetarão as metas de resultado fiscal do Anexo de Metas Fiscais, com compensação por aumento permanente de receita ou redução permanente de despesa. O P7 (2.ª versão, posterior ao Edital) reconhece que a estimativa ainda deve ser consolidada; o P6 apenas afirma que a extinção do Contrato 019/PGM/2024 'libera espaço fiscal'. Não há demonstração formal no pacote."
+    dispositivo_legal: "art. 10, inciso I, alínea 'b', e § 1.º, da Lei n.º 11.079/2004; arts. 16, incisos I e II, e 17, §§ 1.º e 2.º, da LC n.º 101/2000; art. 18, inciso I, da LC Municipal n.º 592/2015 (conforme P7, p. 44)"
+    referencias_cruzadas: ["P6 p. 59 (Tabela 18)", "ANEXO-B considerando vi (p. 6)", "E7-012"]
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E7-004
+    documento: "P7"
+    dispositivo_editalicio: "P7, Cap. V.10 (PDF p. 44) e III.5 (p. 31)"
+    transcricao: "A modelagem dimensiona a contraprestação anual em 3,18% da RCL (P6), abaixo do limite"
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    tema_sugerido: MODELAGEM_ECONOMICA
+    descricao_breve: "Estimativa de impacto orçamentário-financeiro limitada a um único exercício"
+    comentario: "O art. 10, II, exige estimativa do impacto orçamentário-financeiro em todos os exercícios em que o contrato vigorar. O P7 e o P6 apresentam apenas a relação CP em regime pleno / RCL de 2025 (mantida constante até 2030), sem série anual que considere ramp-up, reajuste por IPCA, Conta Garantia (2 CME) e eventual aporte. Também não há a estimativa do fluxo de recursos por exercício (art. 10, IV — ver E7-006)."
+    dispositivo_legal: "art. 10, inciso II, da Lei n.º 11.079/2004; art. 16, inciso I, da LC n.º 101/2000"
+    referencias_cruzadas: ["P6 p. 58-59", "EDITAL 5.1.1", "E7-006"]
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E7-005
+    documento: "P7"
+    dispositivo_editalicio: "P7, Sumário Executivo (PDF p. 8) e III.1.4, quinta razão (p. 26)"
+    transcricao: "demonstrou superioridade econômica significativa do modelo de PPP frente ao modelo tradicional, com economia em favor do erário municipal"
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: contradicao
+    tema_sugerido: MODELAGEM_ECONOMICA
+    descricao_breve: "Fundamentação da opção pela PPP no VfM sem números no P7; bases divergentes no P6"
+    comentario: "O P7 apoia a quinta razão da escolha da modalidade no VfM do P6, sem indicar valores, taxa de desconto ou memória. O P6 apresenta no texto PPP R$ 524 mi x PSC R$ 647 mi e, na Tabela 16, PPP R$ 620 mi x PSC R$ 743 mi (com ajuste de neutralidade), ambos com economia de R$ 123 mi. A coerência das bases precisa ser verificada pelo extrator do P6."
+    dispositivo_legal: "art. 10, inciso I, alínea 'a', da Lei n.º 11.079/2004; art. 3.º, inciso II, da LC Municipal n.º 592/2015 (vantagem econômica, conforme P7, p. 16)"
+    referencias_cruzadas: ["P6 p. 6", "P6 Tabela 16 (p. 54-55)"]
+    flag_tecnico: false
+    flag_reserva: false
+    nota: "Validar com E4/E6 (modelagem). Não é necessária validação de engenharia."
+
+  - id: E7-006
+    documento: "P7"
+    dispositivo_editalicio: "P7, II.6 (PDF p. 19) e III.1.4 (p. 26); EDITAL 5.3 (p. 15)"
+    transcricao: "As fontes de custeio da Contraprestação, no plano do Município, podem incluir a receita de taxa específica de RSU, as dotações orçamentárias gerais e os recursos vinculados"
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    tema_sugerido: RISCOS_GARANTIAS
+    descricao_breve: "Fontes de recursos da contraprestação e fluxo por exercício não identificados"
+    comentario: "O art. 10, IV, exige estimativa do fluxo de recursos públicos suficientes para cumprir as obrigações em cada exercício. O P7 usa linguagem hipotética ('podem incluir') e o Edital 5.3 remete a dotações 'a serem incluídas nos orçamentos dos exercícios seguintes, recursos vinculados e outras receitas'. Não se identifica qual receita (taxa de RSU, FPM, recursos ordinários) custeia a CP, nem o volume anual disponível."
+    dispositivo_legal: "art. 10, inciso IV, e art. 11, parágrafo único, da Lei n.º 11.079/2004"
+    referencias_cruzadas: ["EDITAL 5.3 (p. 15)", "ANEXO-B 6.2 III", "P6 p. 6 (FPM ~R$ 410,4 mi/ano)", "E7-020", "E7-024"]
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E7-007
+    documento: "P7"
+    dispositivo_editalicio: "P7, X.2.2 (PDF p. 66) e XI.2.1 (p. 66); EDITAL 5.2 (p. 15)"
+    transcricao: "AÇÃO PROGRAMÁTICA [ • ]; ELEMENTO DE DESPESA [ • ]; FONTE [ • ]."
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    tema_sugerido: QUESTOES_FORMAIS
+    descricao_breve: "Dotação orçamentária e inclusão no PPA em aberto (placeholders) — reconhecido pelo próprio P7 como pendência"
+    comentario: "O P7 (11/09/2026) lista a definição da ação programática, do elemento de despesa e da fonte como 'ponto a validar antes da abertura da licitação'; o Edital (08/09/2026) mantém placeholders. Sem a previsão do objeto no PPA e a compatibilidade com LDO/LOA, não se cumprem as condições prévias. O P7 ainda situa o elemento de despesa na LDO e no PPA, quando ele é próprio da LOA."
+    dispositivo_legal: "art. 10, incisos III e V, da Lei n.º 11.079/2004; art. 16, inciso II, da LC n.º 101/2000; art. 165, § 1.º, da CF/1988"
+    referencias_cruzadas: ["EDITAL 5.2 (p. 15)", "P7 XII.4 (p. 72)"]
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E7-008
+    documento: "P7"
+    dispositivo_editalicio: "P7, V.10 (PDF p. 44) e X.2.2 (p. 66)"
+    transcricao: "O CGP/PVH e a Secretaria de Fazenda devem articular essa formalização no prazo compatível."
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: omissao
+    tema_sugerido: QUESTOES_FORMAIS
+    descricao_breve: "Declaração do ordenador de despesa (compatibilidade com LDO e previsão na LOA) não mencionada"
+    comentario: "O P7 não menciona a declaração do ordenador de despesa exigida pelo art. 10, III, nem consta do pacote. Trata-se de ato do processo administrativo que pode existir fora do pacote; a ausência de dotação definida (E7-007) indica que ainda não foi emitida."
+    dispositivo_legal: "art. 10, inciso III, da Lei n.º 11.079/2004; art. 16, inciso II, da LC n.º 101/2000"
+    referencias_cruzadas: ["EDITAL 5.2", "E7-007"]
+    flag_tecnico: false
+    flag_reserva: false
+    nota: "Falta: cópia da declaração do ordenador nos autos do processo administrativo."
+
+  - id: E7-009
+    documento: "P7"
+    dispositivo_editalicio: "P7, X.2.1 (PDF p. 66) e XI.2.1 (p. 66); EDITAL preâmbulo (PDF p. 5)"
+    transcricao: "Tal Consulta Pública teve início em, [datas a inserir]"
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    tema_sugerido: QUESTOES_FORMAIS
+    descricao_breve: "Consulta pública e audiência pública sem datas; P7 trata como pendência posterior à versão final do Edital"
+    comentario: "O Edital afirma que a consulta e a audiência públicas 'foram realizadas', mas mantém '[data a inserir]'. O P7 (posterior ao Edital) diz que as datas 'devem ser definidas pelo Município'. O art. 10, VI, exige publicação na imprensa oficial, em jornais de grande circulação e por meio eletrônico, com no mínimo 30 dias para sugestões e término ao menos 7 dias antes da publicação do edital. O art. 11, IV, da Lei 11.445 faz da audiência e consulta prévias condição de validade do contrato de saneamento."
+    dispositivo_legal: "art. 10, inciso VI, da Lei n.º 11.079/2004; art. 11, inciso IV, da Lei n.º 11.445/2007; art. 21 da Lei n.º 14.133/2021"
+    referencias_cruzadas: ["EDITAL p. 5", "P7 XII.4 (p. 72)", "P4 p. 34-36 (plano de consulta e engajamento)", "E7-062"]
+    flag_tecnico: false
+    flag_reserva: false
+    nota: "Se a consulta ocorreu, faltam no pacote: avisos publicados, prazo, relatório de contribuições e respostas."
+
+  - id: E7-010
+    documento: "P7"
+    dispositivo_editalicio: "P7 (todo o documento — não há seção sobre o art. 10, VII); P0, I.2, limitação (vii) (PDF p. 5)"
+    transcricao: "não integram o escopo dos estudos a obtenção de licenças ambientais, autorizações operacionais ou regularizações fundiárias"
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: omissao
+    tema_sugerido: LICENCIAMENTO_AMBIENTAL
+    descricao_breve: "Licença ambiental prévia ou diretrizes de licenciamento (art. 10, VII) não examinadas pelo P7"
+    comentario: "O P7 não analisa a condição do art. 10, VII. O pacote traz o ANEXO-III 'Diretrizes Ambientais', elaborado pelo próprio Consórcio (1.ª versão 02/03/2026, revisão 10/09/2026), e não diretrizes expedidas pelo órgão licenciador. Não há LP para a CTR Porto Velho, as ETRs ou os ecopontos; as licenças existentes (LAI/LAO do Ecoparque) estão em nome de terceiros."
+    dispositivo_legal: "art. 10, inciso VII, da Lei n.º 11.079/2004; arts. 8.º e 10 da Resolução CONAMA n.º 237/1997"
+    referencias_cruzadas: ["ANEXO-III p. 1", "P1 p. 85 (LAI/LAO Ecoparque)", "ANEXO-V RJ-02"]
+    flag_tecnico: true
+    flag_reserva: false
+    nota: "Falta: documento do órgão ambiental competente (SEMA/SEDAM) expedindo as diretrizes ou a LP. [VALIDAÇÃO TÉCNICA] quanto ao enquadramento dos empreendimentos."
+
+  - id: E7-011
+    documento: "P7"
+    dispositivo_editalicio: "P7, II.4 e II.12 (PDF p. 16-17 e 22); II.3 (p. 16) 'permissão constitucional concedida ao Município para a delegação dos serviços'"
+    transcricao: "A Concessão é estruturada na modalidade administrativa autorizada pela LC 592/2015"
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: omissao
+    tema_sugerido: QUESTOES_FORMAIS
+    descricao_breve: "Autorização legislativa: P7 apoia-se apenas na lei geral do Programa PPP (LC 592/2015), sem lei específica nem exame da LOM"
+    comentario: "O P7 não identifica lei municipal específica que autorize esta concessão; refere-se à LC 592/2015 (programa) e anuncia, sem desenvolver, um 'bloco residual' sobre a permissão para delegar. O art. 10, § 3.º, da Lei 11.079 exige lei específica apenas para concessão patrocinada com mais de 70% de remuneração pública. O art. 2.º da Lei 9.074/1995 dispensa lei autorizativa para saneamento básico e limpeza urbana, salvo previsão da LOM. O P7 não examina se a LOM de Porto Velho (citada como incidente, p. 21) exige autorização legislativa para concessões ou PPPs."
+    dispositivo_legal: "art. 10, § 3.º, da Lei n.º 11.079/2004; art. 2.º da Lei n.º 9.074/1995; Lei Orgânica do Município de Porto Velho (27/03/1990)"
+    referencias_cruzadas: ["EDITAL item 2.1 (rol de legislação, LOM)", "ANEXO-B 3.2 xi", "E7-019 (lei de vinculação do FPM)"]
+    flag_tecnico: false
+    flag_reserva: false
+    nota: "Falta: texto da LOM sobre concessões e PPPs; eventual lei específica. Há doutrina que estende a lógica do § 3.º à concessão administrativa (100% pública) — ponto a ser desenvolvido na Fase 2."
+
+  - id: E7-012
+    documento: "P7"
+    dispositivo_editalicio: "P7, V.10 (PDF p. 44); ANEXO-B, considerando vi (p. 6); P6 Tabela 18 (p. 59)"
+    transcricao: "estando devidamente abrigado na margem fiscal liberada pela extinção do Contrato nº 019/PGM/2024"
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: risco_economico
+    tema_sugerido: MODELAGEM_ECONOMICA
+    descricao_breve: "'Margem fiscal liberada' ignora a despesa corrente com contratos emergenciais e de destinação vigentes"
+    comentario: "A compensação do art. 17 da LRF é afirmada pela extinção do contrato anulado (R$ 109,35 mi/ano). Os serviços continuam, porém, sendo pagos por contrato emergencial (ECOPVH, Contrato 028/PGM/2025) e pelo contrato de destinação no aterro privado (042/PGM/2023), cujos valores não constam do P6 nem do P7. A margem real depende da despesa atual efetiva com RSU."
+    dispositivo_legal: "art. 17, §§ 1.º e 2.º, da LC n.º 101/2000; art. 10, inciso I, alínea 'b', da Lei n.º 11.079/2004"
+    referencias_cruzadas: ["P1 p. 64, 84-85 e 88", "P6 p. 59"]
+    flag_tecnico: false
+    flag_reserva: false
+    nota: "Falta: valores pagos nos contratos 028/PGM/2025 e 042/PGM/2023 e na execução orçamentária atual de RSU."
+
+  - id: E7-013
+    documento: "P7"
+    dispositivo_editalicio: "P7 (ausente); P0, Caderno 6, Etapa 1 (PDF p. 14)"
+    transcricao: "Os estudos de engenharia [...] deverão ter nível de detalhamento de anteprojeto (texto legal — não tratado no P7)"
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: omissao
+    tema_sugerido: MODELAGEM_ECONOMICA
+    descricao_breve: "Nível de anteprojeto e orçamento sintético dos investimentos (art. 10, § 4.º) não verificados no Caderno Jurídico"
+    comentario: "O P7 não verifica se os estudos de engenharia que definem o valor do investimento (CAPEX de R$ 298,3 mi segundo o P6) têm nível de anteprojeto e orçamento sintético com valores de mercado, como exige o § 4.º do art. 10."
+    dispositivo_legal: "art. 10, § 4.º, da Lei n.º 11.079/2004"
+    referencias_cruzadas: ["P2 (Modelagem do Projeto)", "P6 Tabela 7 (p. 37-38)"]
+    flag_tecnico: true
+    flag_reserva: false
+    nota: "[VALIDAÇÃO TÉCNICA] — depende de engenharia."
+
+  - id: E7-014
+    documento: "P7"
+    dispositivo_editalicio: "P7, X.2 e XII.4 (PDF p. 66 e 72)"
+    transcricao: "Subsistem pontos institucionais que demandam validação pelo Município antes da publicação do Edital."
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: risco_economico
+    tema_sugerido: QUESTOES_FORMAIS
+    descricao_breve: "Assinatura em exercício diverso da publicação exigirá atualização dos estudos (art. 10, § 2.º)"
+    comentario: "Com o Edital em 2.ª versão em set/2026 e pendências prévias ainda abertas, é provável que a assinatura ocorra em 2027. Nesse caso, o art. 10, § 2.º, exige atualização dos estudos e demonstrações dos incisos I a IV antes da assinatura. O P7 não registra essa condição."
+    dispositivo_legal: "art. 10, § 2.º, da Lei n.º 11.079/2004"
+    referencias_cruzadas: ["EDITAL datas [ • ]"]
+    flag_tecnico: false
+    flag_reserva: false
+
+  # ================================================================
+  # BLOCO B — LIMITE DE DESPESAS COM PPP (art. 28 Lei 11.079)
+  # ================================================================
+  - id: E7-015
+    documento: "P7"
+    dispositivo_editalicio: "P7, Sumário (PDF p. 8), III.5 (p. 31), IV.4 (p. 37-38), V.10 (p. 44)"
+    transcricao: "cujo monitoramento anual ao longo do prazo contratual é responsabilidade institucional do Município, sem gatilho específico de reequilíbrio ou sanção associado ao evento"
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    tema_sugerido: MODELAGEM_ECONOMICA
+    descricao_breve: "Verificação do limite de 5% da RCL feita só para um ano, sem projeção decenal"
+    comentario: "O art. 28 considera tanto o ano anterior quanto as despesas anuais dos contratos vigentes nos 10 anos subsequentes em relação à RCL projetada. O P7 adota um percentual único (3,18%) e o P6 mantém a RCL de 2025 (R$ 2,45 bi) constante até 2030, sem projeção para 10 anos e sem efeito do reajuste da CP. O P7 descreve o art. 28 como 'limite máximo/vedação', sem examinar a consequência legal da extrapolação (vedação de garantia e transferências voluntárias da União), relevante porque o próprio P7 indica BNDES/Caixa como financiadores."
+    dispositivo_legal: "art. 28, caput, da Lei n.º 11.079/2004"
+    referencias_cruzadas: ["P6 p. 58-59", "EDITAL 5.1.1", "ANEXO-V EF-04"]
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E7-016
+    documento: "P7"
+    dispositivo_editalicio: "P7, V.10 (PDF p. 44); P6, p. 59"
+    transcricao: "com margem confortável para a celebração de eventuais PPPs futuras pelo Município"
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: omissao
+    tema_sugerido: MODELAGEM_ECONOMICA
+    descricao_breve: "Outras PPPs e concessões com contraprestação do Município não identificadas na soma do art. 28"
+    comentario: "O limite do art. 28 considera o conjunto das parcerias do ente. O P7 não lista as PPPs vigentes; o P6 menciona consulta ao Anexo 13 do RREO, mas registra apenas que o percentual, 'somado a eventuais outros contratos de PPP vigentes', permanece abaixo de 5%, sem identificá-los. Não há no pacote o demonstrativo das PPPs do Município (ex.: iluminação pública, saneamento), nem a despesa de outros contratos de longo prazo."
+    dispositivo_legal: "art. 28, caput, da Lei n.º 11.079/2004"
+    referencias_cruzadas: ["P6 p. 58-59 (menção ao RREO Anexo 13)"]
+    flag_tecnico: false
+    flag_reserva: false
+    nota: "Falta: RREO Anexo 13 (Demonstrativo das PPPs) do Município."
+
+  - id: E7-017
+    documento: "P7"
+    dispositivo_editalicio: "P7, V.10 (PDF p. 44) — ausente"
+    transcricao: "A arquitetura de garantias examinada observa, em sua integralidade, os limites e exigências de responsabilidade fiscal aplicáveis."
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: omissao
+    tema_sugerido: QUESTOES_FORMAIS
+    descricao_breve: "Envio prévio de informações ao Senado Federal e à STN (art. 28, § 1.º) e tratamento contábil da PPP não abordados"
+    comentario: "O P7 não menciona a obrigação de encaminhar ao Senado e à STN, antes da contratação, as informações para verificação do limite. Também não examina se, pela alocação de riscos (diversos riscos críticos ao Poder Concedente: TO-02, SA-01/02, RJ-03, EF-02, EF-05), a PPP deve ser registrada como endividamento segundo as normas de consolidação das contas públicas a que remete o art. 10, § 1.º."
+    dispositivo_legal: "art. 28, § 1.º, e art. 10, § 1.º, da Lei n.º 11.079/2004"
+    referencias_cruzadas: ["P7 IV.4 (p. 36-38)", "ANEXO-V"]
+    flag_tecnico: false
+    flag_reserva: false
+
+  # ================================================================
+  # BLOCO C — GARANTIAS PÚBLICAS
+  # ================================================================
+  - id: E7-018
+    documento: "P7"
+    dispositivo_editalicio: "P7, Sumário (PDF p. 9), III.6.3 (p. 33), IV.4 (p. 37), V.1 e V.3 (p. 39-40); ANEXO-B 23.2 III (p. 53)"
+    transcricao: "a utilização de numerário do Fundo de Participação dos Municípios (FPM) vinculadas como garantia dos pagamentos (Cláusula 23.2, III)"
+    tipo_achado: IRREGULAR
+    categoria: ilegalidade
+    tema_sugerido: RISCOS_GARANTIAS
+    descricao_breve: "Vinculação de receita do FPM em garantia de PPP a parceiro privado"
+    comentario: "O FPM é repartição de receita de impostos (art. 159, I, 'b', CF). O art. 167, IV, veda vincular receita de impostos a órgão, fundo ou despesa, e o § 4.º só permite vincular as receitas dos arts. 158 e 159 para garantia ou contragarantia à União e pagamento de débitos com ela. O art. 8.º, I, da Lei 11.079 admite vinculação de receitas 'observado o disposto no inciso IV do art. 167'. O P7 não enfrenta essa restrição; não examina alternativa sem a mesma limitação (ex.: receita da taxa de RSU, tributo vinculado — LC 878/2021)."
+    dispositivo_legal: "art. 167, inciso IV e § 4.º, da CF/1988; art. 8.º, inciso I, da Lei n.º 11.079/2004"
+    referencias_cruzadas: ["ANEXO-B 23.2 III, 23.3, 23.5.1 (p. 53-54)", "ANEXO-VI p. 3 (l. 104-105), 5.4 (p. 6) e 7.7 (FPM)", "P6 p. 6 e VI.10"]
+    flag_tecnico: false
+    flag_reserva: false
+    nota: "Há controvérsia doutrinária sobre o alcance do art. 167, IV, em garantias de PPP; desenvolver as duas correntes na Fase 2 com busca jurisprudencial."
+
+  - id: E7-019
+    documento: "P7"
+    dispositivo_editalicio: "P7, V.2 e V.3 (PDF p. 40); ANEXO-VI 5.4"
+    transcricao: "No plano municipal, a Lei Complementar nº 592/2015 disciplina, em seu Capítulo V (arts. 53 a 58), as modalidades de garantia admissíveis"
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: omissao
+    tema_sugerido: RISCOS_GARANTIAS
+    descricao_breve: "Lei que autoriza especificamente a vinculação/cessão do FPM não identificada"
+    comentario: "O P7 menciona genericamente os arts. 53 a 58 da LC 592/2015 sem transcrevê-los nem afirmar que autorizam vincular o FPM. O ANEXO-VI 5.4 invoca 'a autorização conferida pela Lei municipal nº 592/2015' e, em outro ponto, o art. 159, I, 'b', da CF (regra de repartição, não de autorização). O Contrato 23.2 III remete a autorização ao próprio instrumento (Anexo VI), ou seja, por contrato e não por lei."
+    dispositivo_legal: "art. 8.º, inciso I, da Lei n.º 11.079/2004; art. 167, inciso IV, da CF/1988; arts. 53 a 58 da LC Municipal n.º 592/2015"
+    referencias_cruzadas: ["ANEXO-VI 5.4 (p. 6)", "ANEXO-B 23.2 III", "E7-018"]
+    flag_tecnico: false
+    flag_reserva: false
+    nota: "Falta: texto dos arts. 53-58 da LC 592/2015 e eventual lei específica de vinculação."
+
+  - id: E7-020
+    documento: "P7"
+    dispositivo_editalicio: "P7, V.3 (PDF p. 40) e III.3 (p. 28); P6 p. 6"
+    transcricao: "a Conta Vinculada (Escrow Account) canaliza as receitas vinculadas, para o pagamento dos valores correspondentes à Contraprestação Mensal Efetiva"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    tema_sugerido: RISCOS_GARANTIAS
+    descricao_breve: "Papel do FPM e das 'receitas vinculadas' divergente entre P7, P6 e Contrato"
+    comentario: "O P7 e o Contrato (23.2 III) tratam o FPM como fonte de repreenchimento da Conta Garantia; o P6 (p. 6) afirma que a Conta Vinculada, canal primário de pagamento, é 'lastreada nos repasses do FPM (~R$ 410,4 milhões/ano)'. As 'receitas vinculadas' que a Conta Vinculada canalizaria, e o 'fluxo de receitas dadas em garantia' exigido para a Ordem de Início (Cl. 6.2 III), não são identificados. O edital deve especificar as garantias da contraprestação."
+    dispositivo_legal: "art. 11, parágrafo único, e art. 8.º da Lei n.º 11.079/2004; art. 5.º da Lei n.º 14.133/2021 (vinculação ao edital)"
+    referencias_cruzadas: ["P6 p. 6 e VI.10 (p. 59-60)", "ANEXO-B 6.2 III e 23", "ANEXO-VI"]
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E7-021
+    documento: "P7"
+    dispositivo_editalicio: "P7, V.4 (PDF p. 40-41) x III.6.3 e V.5 (p. 33 e 41)"
+    transcricao: "transferir os valores devidos à Concessionária em até 48 horas, independentemente de solicitação"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    tema_sugerido: RISCOS_GARANTIAS
+    descricao_breve: "Acionamento da Conta Garantia: automático em 48h ou mediante notificação após 5 dias úteis"
+    comentario: "Em V.4 o P7 descreve excussão automática em até 48h, 'independentemente de solicitação', com relatório do Verificador Independente (Cl. 23.4-23.4.2). Em III.6.3 e V.5 descreve que, após atraso superior a 5 dias úteis, a Concessionária notifica o Agente para executar a garantia (Cl. 15.8.5). O Contrato contém as duas regras. O termo inicial e o procedimento de acionamento ficam indefinidos."
+    dispositivo_legal: "art. 5.º, inciso VI, da Lei n.º 11.079/2004 (forma de acionamento da garantia); art. 5.º da Lei n.º 14.133/2021"
+    referencias_cruzadas: ["ANEXO-B 15.8.5 (p. 39) x 23.4-23.4.2 (p. 53)"]
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E7-022
+    documento: "P7"
+    dispositivo_editalicio: "P7, V.4 (PDF p. 40-41)"
+    transcricao: "A Conta Garantia é de titularidade do Município de Porto Velho e mantida em favor da Concessionária"
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: risco_economico
+    tema_sugerido: RISCOS_GARANTIAS
+    descricao_breve: "Pagamento automático a partir de conta de titularidade municipal sem análise do rito de empenho, liquidação e pagamento"
+    comentario: "Sendo a Conta Garantia de titularidade do Município, as transferências automáticas pelo agente financeiro configuram execução de despesa pública. O P7 não examina a compatibilidade com o prévio empenho e a regular liquidação (arts. 60, 62 e 63 da Lei 4.320/1964), nem como a cláusula de impenhorabilidade (23.4.6) se compatibiliza com o regime de execução contra a Fazenda Pública. Isso afeta a exequibilidade da garantia."
+    dispositivo_legal: "arts. 60, 62 e 63 da Lei n.º 4.320/1964; art. 100 da CF/1988"
+    referencias_cruzadas: ["ANEXO-B 23.4.4-23.4.6", "ANEXO-VI"]
+    flag_tecnico: false
+    flag_reserva: false
+    nota: "Depende do desenho orçamentário do depósito inicial (se empenhado como despesa) — não informado."
+
+  - id: E7-023
+    documento: "P7"
+    dispositivo_editalicio: "P7, V.1-V.4 (PDF p. 39-41); P0, Caderno 6, Etapa 4.2 (PDF p. 16) e Data Request jurídico (p. 25)"
+    transcricao: "Garantias Públicas: avaliação e definição da estrutura de garantias a serem oferecidas pelo Município para o projeto (p.ex., Fundo Garantidor de PPPs - FGP, contragarantias, vinculação de receitas, etc.)"
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: omissao
+    tema_sugerido: RISCOS_GARANTIAS
+    descricao_breve: "Existência de fundo garantidor municipal e avaliação das alternativas de garantia não relatadas"
+    comentario: "O P0 previa avaliar FGP, contragarantias e vinculação de receitas e solicitou os atos de criação de Fundo de PPP ou Fundo de Saneamento. O P7 não informa se existe fundo garantidor municipal (ou fundo previsto na LC 592/2015), nem por que foi descartado em favor do FPM. Também não analisa seguro-garantia ou garantia bancária (art. 8.º, III e IV)."
+    dispositivo_legal: "art. 8.º, incisos II a V, da Lei n.º 11.079/2004"
+    referencias_cruzadas: ["P0 p. 16 e 25", "E7-018"]
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E7-024
+    documento: "P7"
+    dispositivo_editalicio: "P7, II.1 (PDF p. 14), II.6 (p. 19), III.1.2 (p. 25), III.1.4 (p. 26); P0 Data Request (PDF p. 23-24)"
+    transcricao: "Taxa de limpeza urbana - base de cálculo e arrecadação histórica"
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: omissao
+    tema_sugerido: REMUNERACAO_REAJUSTE
+    descricao_breve: "Sustentabilidade econômico-financeira por cobrança (taxa de RSU — LC 878/2021) não quantificada nem relacionada à CP"
+    comentario: "O P7 reconhece a taxa de RSU (LC 908/2022, art. 26; LC 878/2021) e mantém 100% da remuneração com o Tesouro, mas não informa arrecadação, inadimplência ou grau de cobertura do custo da CP (R$ 78,1 mi/ano), dados pedidos no data request do P0. Sem isso não se demonstram a sustentabilidade por cobrança (art. 29, II, Lei 11.445) e a eventual necessidade de subsídio. Também não se verifica se a taxa está efetivamente instituída e cobrada a ponto de afastar a renúncia de receita do art. 35, § 2.º."
+    dispositivo_legal: "art. 29, inciso II, art. 35, caput e § 2.º, e art. 11, § 2.º, inciso IV, da Lei n.º 11.445/2007; art. 14 da LC n.º 101/2000"
+    referencias_cruzadas: ["P0 p. 23-24", "P6 (sem dados de arrecadação)", "E7-006"]
+    flag_tecnico: false
+    flag_reserva: false
+    nota: "Falta: arrecadação histórica da taxa (LC 878/2021) e sua base de cálculo."
+
+  - id: E7-025
+    documento: "P7"
+    dispositivo_editalicio: "P7, V.11 (PDF p. 44) x V.4 (p. 40); ANEXO-B 13.1.1 (p. 34-35) x 23.4.5"
+    transcricao: "com dedução automática do montante correspondente à Contraprestação na Conta Garantia"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    tema_sugerido: RISCOS_GARANTIAS
+    descricao_breve: "TRCF deduzida automaticamente da Conta Garantia, cujo saldo mínimo não pode ter outra finalidade"
+    comentario: "Pela Cl. 13.1.1, descrita no P7, a TRCF (1,5% da receita bruta) seria descontada 'na Conta Garantia'. A Cl. 23.4.5 e o P7 (V.4) afirmam que o saldo mínimo não pode ser usado para nenhuma outra finalidade. A dedução mensal reduz o saldo abaixo de 2 CME e mistura a garantia pública com o recolhimento de tributo devido pela Concessionária."
+    dispositivo_legal: "art. 8.º da Lei n.º 11.079/2004; art. 5.º da Lei n.º 14.133/2021"
+    referencias_cruzadas: ["ANEXO-B 13.1.1 e 23.4.5", "ANEXO-VI"]
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E7-026
+    documento: "P7"
+    dispositivo_editalicio: "P7, V.11 (PDF p. 44) e XI.3.3 (p. 68); P6 p. 44"
+    transcricao: "tendo base de cálculo, contribuinte e alíquota regularmente definidos por lei complementar"
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: risco_economico
+    tema_sugerido: REGULACAO_FISCALIZACAO
+    descricao_breve: "TRCF calculada sobre receita bruta (base típica de imposto) e paga, ao fim, pelo próprio Município via CP"
+    comentario: "A taxa de poder de polícia não pode ter base de cálculo própria de imposto; a TRCF incide sobre a receita operacional bruta. O P6 informa que a LC 1.013 (art. 51, §§ 1.º e 2.º) faculta a não incidência em concessão administrativa, mas a modelagem a mantém e a repassa integralmente à CP; o P7 cita art. 53 e não menciona a faculdade. Há risco de questionamento da TRCF e circularidade (o Município paga a si mesmo via CP)."
+    dispositivo_legal: "art. 145, inciso II e § 2.º, da CF/1988; art. 77, parágrafo único, do CTN (Lei n.º 5.172/1966); arts. 51 e 53 da LC Municipal n.º 1.013/2025"
+    referencias_cruzadas: ["P6 p. 44", "ANEXO-B 13.1.1"]
+    flag_tecnico: false
+    flag_reserva: false
+    nota: "Falta: texto da LC 1.013/2025 (arts. 51 e 53)."
+
+  - id: E7-027
+    documento: "P7"
+    dispositivo_editalicio: "P7, III.3 (PDF p. 28) e III.6.1 (p. 32); ANEXO-B 6.2 III, 23.2 II e 23.4.3"
+    transcricao: "transferência de recursos para a Conta Garantia em volume equivalente a, no mínimo, 2 (duas) Contraprestações Mensais Efetivas"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    tema_sugerido: RISCOS_GARANTIAS
+    descricao_breve: "Base de cálculo do saldo da Conta Garantia indefinida (CME em ramp-up x contraprestação plena)"
+    comentario: "A Ordem de Início exige depósito de 2 CME, mas antes do início da operação não há CME apurada e, nos primeiros anos, a CME está em ramp-up (Parcela A 60/80/100%). O Contrato alterna '2 contraprestações mensais devidas' (23.2 II) e '2 CME' (23.4.3); o P6 estima ~R$ 13,0 mi, o que corresponde à CP plena. A indefinição afeta o impacto orçamentário inicial e o nível de proteção."
+    dispositivo_legal: "art. 11, parágrafo único, da Lei n.º 11.079/2004; art. 5.º da Lei n.º 14.133/2021"
+    referencias_cruzadas: ["ANEXO-B 6.2 III, 15.6.2-15.6.3, 23.2 II, 23.4.3", "P6 p. 6 e p. 46-47 (ramp-up)"]
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E7-028
+    documento: "P7"
+    dispositivo_editalicio: "P7, V.1 e V.7 (PDF p. 39 e 42)"
+    transcricao: "em montante equivalente a 10% do valor anual contratual"
+    tipo_achado: CONFORME
+    categoria: risco_economico
+    tema_sugerido: RISCOS_GARANTIAS
+    descricao_breve: "Garantia de execução de 10% do valor anual dentro do limite legal"
+    comentario: "O percentual está dentro do limite de 10% (art. 98 da Lei 14.133, com justificativa de complexidade, e art. 5.º, VIII, da Lei 11.079). O P7 apresenta justificativa sucinta ligada à magnitude e ao risco."
+    dispositivo_legal: "art. 5.º, inciso VIII, da Lei n.º 11.079/2004; arts. 96, § 1.º, e 98 da Lei n.º 14.133/2021"
+    referencias_cruzadas: ["ANEXO-B 22"]
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E7-029
+    documento: "P7"
+    dispositivo_editalicio: "P7, V.6 (PDF p. 41-42) x IX.4 (p. 63); ANEXO-B 25.3 (p. 54-55)"
+    transcricao: "autoriza os financiadores a assumir a Concessão, mediante comunicação formal ao Poder Concedente com antecedência de 15 (quinze) dias"
+    tipo_achado: IRREGULAR
+    categoria: ilegalidade
+    tema_sugerido: RISCOS_GARANTIAS
+    descricao_breve: "Step-in por mera comunicação, sem autorização do Poder Concedente; P7 descreve o rito de duas formas"
+    comentario: "O art. 27-A da Lei 8.987 (aplicável por força do art. 3.º da Lei 11.079) e o art. 5.º, § 2.º, I, da Lei 11.079 exigem que o Poder Concedente autorize a assunção do controle pelos financiadores. A Cl. 25.3, descrita em IX.4, permite a assunção por comunicação com 15 dias de antecedência. Em V.6 o P7 descreve uma etapa de análise do enquadramento pelo Poder Concedente, que não está no Contrato."
+    dispositivo_legal: "art. 27-A, caput e § 1.º, da Lei n.º 8.987/1995; art. 3.º e art. 5.º, § 2.º, inciso I, da Lei n.º 11.079/2004"
+    referencias_cruzadas: ["ANEXO-B 25.1-25.6"]
+    flag_tecnico: false
+    flag_reserva: true
+    nota: "Reserva: cláusula favorável à bancabilidade e aos financiadores da concessionária; a impugnação poderia eliminá-la."
+
+  - id: E7-030
+    documento: "P7"
+    dispositivo_editalicio: "P7, V.6 (PDF p. 41); ANEXO-B 18.5 (único compartilhamento previsto)"
+    transcricao: "A previsão observa o art. 5º, inciso IX, da Lei Federal nº 11.079/2004"
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    tema_sugerido: REMUNERACAO_REAJUSTE
+    descricao_breve: "Cláusula obrigatória de compartilhamento dos ganhos da redução do risco de crédito ausente; P7 cita o inciso IX para outro fim"
+    comentario: "O art. 5.º, IX, torna obrigatória a cláusula de compartilhamento com a Administração dos ganhos econômicos decorrentes da redução do risco de crédito dos financiamentos (refinanciamento). O P7 cita esse inciso como fundamento dos step-in rights, o que está incorreto, e o Contrato só prevê compartilhamento de receitas acessórias (18.5). Não se localizou cláusula sobre ganhos de refinanciamento."
+    dispositivo_legal: "art. 5.º, inciso IX, da Lei n.º 11.079/2004"
+    referencias_cruzadas: ["ANEXO-B 18.5 (p. 43)", "E7-029"]
+    flag_tecnico: false
+    flag_reserva: true
+    nota: "Reserva: a omissão permite à concessionária reter integralmente ganhos de refinanciamento."
+
+  - id: E7-031
+    documento: "P7"
+    dispositivo_editalicio: "P7, IX.3 (PDF p. 63) e XI.3.6 (p. 69); ANEXO-B 24.2 (p. 54)"
+    transcricao: "considera-se previamente autorizada a transferência de controle da Concessionária para terceira sociedade que integre o grupo econômico de sócia original da SPE"
+    tipo_achado: IRREGULAR
+    categoria: ilegalidade
+    tema_sugerido: RISCOS_GARANTIAS
+    descricao_breve: "Autorização prévia genérica de transferência de controle intragrupo"
+    comentario: "O art. 9.º, § 1.º, da Lei 11.079 condiciona a transferência do controle da SPE à autorização expressa da Administração, observado o art. 27 da Lei 8.987, que exige verificação de capacidade técnica, idoneidade financeira e regularidade jurídica e fiscal do pretendente. A pré-autorização contratual dispensa essa verificação caso a caso; o P7 a qualifica como 'exceção relevante' sem examinar sua compatibilidade legal."
+    dispositivo_legal: "art. 9.º, § 1.º, da Lei n.º 11.079/2004; art. 27, caput e § 1.º, da Lei n.º 8.987/1995"
+    referencias_cruzadas: ["ANEXO-B 24.1.1 e 24.2"]
+    flag_tecnico: false
+    flag_reserva: true
+    nota: "Reserva: flexibilidade societária que favorece grupos econômicos com várias sociedades; a impugnação poderia eliminá-la."
+
+  - id: E7-032
+    documento: "P7"
+    dispositivo_editalicio: "P7, IV.4 (PDF p. 37) x V.7 (p. 43); ANEXO-B 8.6.1.2 e 22.8"
+    transcricao: "vedada a sua utilização para a cobertura de passivos ambientais históricos pré-existentes, cuja responsabilidade financeira é exclusiva do Poder Concedente"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    tema_sugerido: RISCOS_GARANTIAS
+    descricao_breve: "Passivos históricos: 'exclusivos do Poder Concedente' (V.7) x custo da Concessionária até o limite (IV.4)"
+    comentario: "Em IV.4 o P7 diz que o custo dos passivos da Vila Princesa e do Jirau corre pela Concessionária até o limite de dispêndio e que o excedente é do Poder Concedente (SA-01 e SA-13 compartilhados). Em V.7 afirma que a responsabilidade financeira pelos passivos históricos é exclusiva do Poder Concedente, sem a ressalva dos incisos (i) e (ii) da Cl. 8.8 e do limite da 8.6.1.2. O limite não é quantificado no P7 (o Contrato remete ao investimento do EVTEA; o P6 indica R$ 4,2 mi para o encerramento da Vila Princesa no Ano 2)."
+    dispositivo_legal: "art. 5.º, inciso III, da Lei n.º 11.079/2004; art. 10-A, inciso IV, da Lei n.º 11.445/2007"
+    referencias_cruzadas: ["ANEXO-B 8.6.1-8.6.1.2.4 e 22.8", "P6 p. 35", "ANEXO-V SA-01, SA-02, SA-13"]
+    flag_tecnico: true
+    flag_reserva: false
+    nota: "[VALIDAÇÃO TÉCNICA] quanto à suficiência do limite de dispêndio frente ao rito GAC."
+
+  - id: E7-033
+    documento: "P7"
+    dispositivo_editalicio: "P7, III.6.1 (PDF p. 32) x ANEXO-B 15.6.1-15.6.4 (p. 38)"
+    transcricao: "ambas as parcelas são apuradas e liquidadas por medição, dispensando cláusula contratual de escalonamento inicial"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    tema_sugerido: REMUNERACAO_REAJUSTE
+    descricao_breve: "P7 afirma desnecessário o escalonamento inicial, mas o Contrato o prevê expressamente"
+    comentario: "O Contrato prevê escalonamento (Parcela A reduzida nos anos 1 e 2 e integral a partir do ano 3; Parcela B reduzida no ano 1) e declara que isso 'não configura carência' (15.6.4). O P7 descreve o oposto. Além disso, a Parcela A remunera investimentos 'certificados', mas é devida desde o 1.º mês de operação e integral a partir do 3.º ano por cronograma, o que precisa ser compatibilizado com a regra de que a contraprestação depende da disponibilização do serviço."
+    dispositivo_legal: "art. 7.º, caput e § 1.º, da Lei n.º 11.079/2004; art. 5.º da Lei n.º 14.133/2021"
+    referencias_cruzadas: ["ANEXO-B 15.5.2.1, 15.6.1-15.6.4", "P6 p. 46-47"]
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E7-034
+    documento: "P7"
+    dispositivo_editalicio: "P7, III.6.3 (PDF p. 33) x V.5 (p. 41) e XI.3.4 (p. 69); ANEXO-B 15.8.8 e 32.10.2"
+    transcricao: "mantida a Conta Garantia em volume inferior a duas Contraprestações Mensais Efetivas, a Concessionária está autorizada a suspender integralmente a prestação dos Serviços (Cláusula 15.8.8)"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    tema_sugerido: RISCOS_GARANTIAS
+    descricao_breve: "Suspensão integral dos serviços por inadimplência descrita de forma incompatível com o Contrato e com a vedação legal de interrupção"
+    comentario: "Em III.6.3 o P7 diz que a Concessionária pode suspender integralmente os serviços após 180 dias com a Conta Garantia abaixo de 2 CME. A Cl. 15.8.8 (e o próprio P7 em V.5) prevê apenas a faculdade de 'pleitear cautelarmente em juízo' a suspensão, com a Conta Garantia abaixo de 1 parcela. A versão de III.6.3 contraria o art. 39, parágrafo único, da Lei 8.987 (serviços não podem ser interrompidos até decisão judicial transitada em julgado), aplicável às concessões administrativas."
+    dispositivo_legal: "art. 39, parágrafo único, da Lei n.º 8.987/1995; art. 3.º da Lei n.º 11.079/2004"
+    referencias_cruzadas: ["ANEXO-B 15.8.8 (p. 40) e 32.10.2"]
+    flag_tecnico: false
+    flag_reserva: false
+
+  # ================================================================
+  # BLOCO D — REGULAÇÃO (ARDPV)
+  # ================================================================
+  - id: E7-035
+    documento: "P7"
+    dispositivo_editalicio: "P7, Sumário (PDF p. 9); ANEXO-B 4.7-4.7.3 (p. 13-14)"
+    transcricao: "enquanto esta não estiver instalada ou não dispuser de estrutura técnica para determinada competência, pelo Conselho Gestor do Programa de Parcerias Público-Privadas de Porto Velho (CGP/PVH)"
+    tipo_achado: IRREGULAR
+    categoria: ilegalidade
+    tema_sugerido: REGULACAO_FISCALIZACAO
+    descricao_breve: "ARDPV não instalada; regulação exercida pelo CGP/PVH ou pela SEINFRA (Poder Concedente) sem prazo final"
+    comentario: "O P7 reconhece que a ARDPV, criada em 2025, pode não estar instalada e que o CGP/PVH exercerá a regulação. A Cl. 4.7.1 vai além: CGP/PVH 'ou a SEINFRA', isto é, o próprio Poder Concedente, sem prazo final para a transição. A Lei 11.445 exige que o titular defina entidade reguladora autárquica com independência decisória e autonomia, e a designação da entidade é condição de validade do contrato. O CGP/PVH também aprovou o MIP e os estudos, o que acumula funções."
+    dispositivo_legal: "art. 8.º, § 5.º, art. 11, inciso III, e art. 21 da Lei n.º 11.445/2007; NR n.º 7/2024 da ANA (Resolução ANA n.º 187/2024), arts. 71, 76, 80 e 88 (entidade reguladora)"
+    referencias_cruzadas: ["ANEXO-B 4.7.1 (p. 13-14)", "P7 II.5 (p. 17-18)"]
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E7-036
+    documento: "P7"
+    dispositivo_editalicio: "P7, II.5 (PDF p. 17-18)"
+    transcricao: "supre a necessidade institucional de uma instância reguladora dedicada e independente, separada do órgão gestor da política pública"
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: omissao
+    tema_sugerido: REGULACAO_FISCALIZACAO
+    descricao_breve: "Independência da ARDPV afirmada sem exame de natureza jurídica, mandatos, autonomia financeira e funções acumuladas"
+    comentario: "O P7 não transcreve nem analisa a LC 1.013/2025 quanto à natureza autárquica, mandato fixo e estabilidade dos dirigentes, autonomia orçamentária e financeira e transparência. A denominação 'Agência Reguladora dos Serviços Públicos Delegados e de Desenvolvimento' sugere acumulação de funções de fomento com funções regulatórias, o que exige exame à luz da independência decisória."
+    dispositivo_legal: "art. 21 da Lei n.º 11.445/2007; NR n.º 7/2024 da ANA (Resolução ANA n.º 187/2024)"
+    referencias_cruzadas: ["P6 p. 44 (link da LC 1.013 no SAPL)"]
+    flag_tecnico: false
+    flag_reserva: false
+    nota: "Falta: texto integral da LC 1.013/2025 e ato de instalação da ARDPV."
+
+  - id: E7-037
+    documento: "P7"
+    dispositivo_editalicio: "P7, II.5 (PDF p. 18)"
+    transcricao: "autoriza, expressamente, a ARDPV a valer-se, preferencialmente, das normas de referência editadas pela Agência Nacional de Águas e Saneamento Básico"
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: omissao
+    tema_sugerido: REGULACAO_FISCALIZACAO
+    descricao_breve: "Normas de regulação locais inexistentes e aderência às normas de referência da ANA não verificada (acesso a recursos federais)"
+    comentario: "O P7 não identifica normas de regulação editadas pela ARDPV para RSU e não confronta o Edital e o Contrato com as normas de referência da ANA aplicáveis ao manejo de RSU. A observância dessas normas condiciona o acesso a recursos federais e a financiamentos com recursos da União — relevante porque o P7 aponta BNDES e Caixa como financiadores. A existência de normas de regulação é ainda condição de validade do contrato."
+    dispositivo_legal: "art. 11, inciso III e § 2.º, art. 23 e art. 50 da Lei n.º 11.445/2007; art. 4.º-A da Lei n.º 9.984/2000; NR n.º 7/2024 da ANA (Resolução ANA n.º 187/2024)"
+    referencias_cruzadas: ["P7 III.1.4 (p. 26) e V.6 (p. 41) — BNDES/Caixa", "E7-035"]
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E7-038
+    documento: "P7"
+    dispositivo_editalicio: "P7, II.1 (PDF p. 14)"
+    transcricao: "exercerá o objeto como executora material, sob fiscalização e regulação do Poder Concedente"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    tema_sugerido: REGULACAO_FISCALIZACAO
+    descricao_breve: "P7 atribui a regulação ao Poder Concedente, em contradição com a atribuição à ARDPV"
+    comentario: "No marco constitucional o P7 atribui a regulação ao Poder Concedente; nos capítulos II.5 e VII.4 a atribui à ARDPV. A afirmação reforça a confusão entre titular e regulador apontada em E7-035."
+    dispositivo_legal: "art. 21 da Lei n.º 11.445/2007"
+    referencias_cruzadas: ["P7 II.5 e VII.4 (p. 17-18 e 51)", "ANEXO-B 4.7.1"]
+    flag_tecnico: false
+    flag_reserva: false
+
+  # ================================================================
+  # BLOCO E — TITULARIDADE / REGIONALIZAÇÃO / COBRANÇA
+  # ================================================================
+  - id: E7-039
+    documento: "P7"
+    dispositivo_editalicio: "P7, II.2 (PDF p. 15); P0 Data Request jurídico (PDF p. 25)"
+    transcricao: "com destaque para a exigência de prestação regionalizada"
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: omissao
+    tema_sugerido: REGULACAO_FISCALIZACAO
+    descricao_breve: "Regionalização (unidade regional/microrregião de RSU em Rondônia) mencionada mas não analisada"
+    comentario: "O P7 registra que a Lei 14.026/2020 exige prestação regionalizada, mas não verifica se o Estado de Rondônia instituiu microrregião ou unidade regional de RSU que inclua Porto Velho, se houve adesão do Município, nem se isso afeta a titularidade e a competência para licitar isoladamente. O P0 pediu convênios, consórcios e protocolos com Estado e municípios; o resultado não é relatado. A estruturação regionalizada também condiciona o acesso a recursos federais."
+    dispositivo_legal: "art. 3.º, inciso VI, art. 8.º, incisos I e II, e art. 50 da Lei n.º 11.445/2007 (redação da Lei n.º 14.026/2020)"
+    referencias_cruzadas: ["P0 p. 25", "E7-037"]
+    flag_tecnico: false
+    flag_reserva: false
+    nota: "Falta: legislação estadual de RO sobre regionalização do saneamento/RSU e eventual ato de adesão do Município."
+
+  - id: E7-040
+    documento: "P7"
+    dispositivo_editalicio: "P7, II.6 (PDF p. 19) x II.10 (p. 21)"
+    transcricao: "O preço público pago por grandes geradores opera, no nosso modelo, como Receita Acessória autorizada pela Cláusula 18 do Contrato."
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    tema_sugerido: REMUNERACAO_REAJUSTE
+    descricao_breve: "Preço público de grandes geradores, autorizado ao Município (LC 908/2022, art. 27), convertido em receita da Concessionária"
+    comentario: "A LC 908/2022, art. 27, autoriza o Município a cobrar preço público de grandes geradores. O P7 transforma essa cobrança em receita acessória da Concessionária, em 'regime negocial direto', com apenas 5% compartilhados, usando a infraestrutura custeada pela CP (CTR/aterro). O P7 não explica como uma receita municipal prevista em lei passa ao parceiro privado nem como se evita dupla remuneração da mesma capacidade instalada."
+    dispositivo_legal: "art. 27 da LC Municipal n.º 908/2022; art. 10-A, inciso II, da Lei n.º 11.445/2007; art. 20 e art. 27 da Lei n.º 12.305/2010"
+    referencias_cruzadas: ["ANEXO-B 18.2 e 18.5.1", "ANEXO-V TO-12"]
+    flag_tecnico: false
+    flag_reserva: true
+    nota: "Reserva: receita acessória relevante para operador com estrutura comercial na região."
+
+  - id: E7-041
+    documento: "P7"
+    dispositivo_editalicio: "P7, II.10 (PDF p. 21)"
+    transcricao: "com geração de resíduos sólidos em volume superior a 100 litros/dia [...] veda a coleta pública de resíduos aos empreendimentos que gerem quantidade superior a 200 litros/dia"
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: omissao
+    tema_sugerido: OBJETO_ESCOPO
+    descricao_breve: "Faixa de 100 a 200 L/dia indefinida e vigência do Decreto 15.603/2018 (regulamentava lei substituída)"
+    comentario: "Geradores entre 100 e 200 L/dia são 'grandes geradores' mas não estão vedados à coleta pública; o P7 afirma que grandes geradores estão excluídos do escopo, sem tratar dessa faixa, que afeta a demanda remunerada pela CP. O próprio P7 informa que o Decreto regulamentava a LC 199/2004, substituída pela LC 878/2021, sem verificar se continua vigente."
+    dispositivo_legal: "art. 20, inciso II, alínea 'b', da Lei n.º 12.305/2010; LC Municipal n.º 878/2021; Decreto Municipal n.º 15.603/2018"
+    referencias_cruzadas: ["ANEXO-A (definição de RSU/grandes geradores)", "P3 (demanda)"]
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E7-042
+    documento: "P7"
+    dispositivo_editalicio: "P7, II.9 (PDF p. 20-21) e II.10 (p. 21); EDITAL 3.1.2"
+    transcricao: "cabe ao responsável legal dos estabelecimentos geradores o gerenciamento de seus RSS desde a geração até a disposição final"
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: omissao
+    tema_sugerido: OBJETO_ESCOPO
+    descricao_breve: "Delimitação de quais RSS são públicos (remunerados pela CP) e quais são de geradores privados não feita"
+    comentario: "O P7 inclui no objeto a coleta, o tratamento e a disposição de RSS e, ao mesmo tempo, registra que o gerador é responsável (LC 136/2001, art. 3.º). Não define quais geradores são abrangidos pela coleta pública. O Edital 3.1.2 obriga a Concessionária a receber RSS de geradores não abrangidos 'por monopólio' — sem dizer quem paga —, enquanto o P1 informa que há incinerador particular em uso."
+    dispositivo_legal: "art. 3.º da LC Municipal n.º 136/2001; arts. 20, inciso I, e 27 da Lei n.º 12.305/2010"
+    referencias_cruzadas: ["EDITAL 3.1.2", "P1 p. 88", "ANEXO-B 18.2 (RSS de grandes geradores como receita acessória)"]
+    flag_tecnico: false
+    flag_reserva: true
+    nota: "Reserva: possível receita acessória de RSS privados com exclusividade de fato."
+
+  # ================================================================
+  # BLOCO F — OBJETO, MODELO, PRAZO, LOTES
+  # ================================================================
+  - id: E7-043
+    documento: "P7"
+    dispositivo_editalicio: "P7, II.8 e III.2.4 (PDF p. 20 e 28) x III.2 (p. 26) e XII.1/Encerramento (p. 71-72); ANEXO-B considerando i, 1.3.49 e 4.1"
+    transcricao: "A delimitação do objeto ao manejo de RSU, com exclusão da limpeza urbana, é, portanto, integral."
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    tema_sugerido: OBJETO_ESCOPO
+    descricao_breve: "Exclusão da limpeza urbana afirmada no P7, mas Contrato (4.1, 1.3.49, considerando i) e P6 incluem 'limpeza urbana'/varrição"
+    comentario: "O P7 afirma exclusão integral da limpeza pública. A Cl. 4.1 do Contrato inclui 'limpeza urbana' no objeto (a transcrição feita pelo P7 em III.2 omite essa expressão), a definição de Serviços (1.3.49) fala em 'limpeza urbana e manejo' e o próprio P7 encerra como 'Concessão Administrativa para limpeza urbana e manejo'. O P6 (p. 11-12) afirma que 'a varrição é integralmente remunerada pela Contraprestação Pública'. Se a CP inclui custo de varrição fora do escopo, há sobrepreço; se o objeto inclui limpeza urbana, a premissa do P7 cai."
+    dispositivo_legal: "art. 3.º, inciso I, alínea 'c', e art. 7.º da Lei n.º 11.445/2007; art. 5.º da Lei n.º 14.133/2021; art. 2.º, § 2.º, da Lei n.º 11.079/2004"
+    referencias_cruzadas: ["ANEXO-B p. 5, 10 e 12 (cons. i, 1.3.49, 4.1)", "P6 p. 11-12 (II.2)", "P0 p. 14 (varrição no plano de negócios)"]
+    flag_tecnico: true
+    flag_reserva: true
+    nota: "Reserva: se a CP precifica varrição não exigida pelo Caderno de Encargos, há erro que beneficia a concessionária. [VALIDAÇÃO TÉCNICA]/E4: verificar se o OPEX do P6 inclui varrição."
+
+  - id: E7-044
+    documento: "P7"
+    dispositivo_editalicio: "P7, III.2.4 (PDF p. 28)"
+    transcricao: "que veda a concessão das atividades de limpeza pública [...] as quais devem ser executadas por servidores públicos municipais"
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: omissao
+    tema_sugerido: OBJETO_ESCOPO
+    descricao_breve: "Suposta vedação legal à concessão da limpeza pública sem indicação da fonte normativa"
+    comentario: "O P7 afirma existir vedação à concessão da limpeza pública e dever de execução por servidores, sem citar a norma. A legislação federal não veda (o art. 2.º da Lei 9.074/1995 menciona limpeza urbana entre os serviços concedíveis). Se a vedação vier de norma municipal, deve ser identificada; se não existir, a premissa que justifica o recorte do objeto não tem base."
+    dispositivo_legal: "não localizei fundamento normativo específico para a vedação afirmada; art. 2.º da Lei n.º 9.074/1995"
+    referencias_cruzadas: ["E7-043"]
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E7-045
+    documento: "P7"
+    dispositivo_editalicio: "P7, II.4 (PDF p. 17) x III.1.4 (p. 26)"
+    transcricao: "na qual o Poder Concedente é a usuária direta do serviço público de manejo de resíduos sólidos"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    tema_sugerido: OBJETO_ESCOPO
+    descricao_breve: "Enquadramento como concessão administrativa: Município 'usuário direto' (p. 17) x 'usuário indireto' (p. 26)"
+    comentario: "Na p. 17 o P7 afirma que o Poder Concedente é usuário direto; na p. 26, que o usuário direto é a coletividade e o Município é usuário indireto. A qualificação sustenta o enquadramento no art. 2.º, § 2.º, e deve ser unívoca, sobretudo porque a coleta domiciliar é fruída individualmente pelos munícipes (o que se relaciona com a existência de taxa de RSU)."
+    dispositivo_legal: "art. 2.º, § 2.º, da Lei n.º 11.079/2004; art. 7.º, § 2.º, da LC Municipal n.º 592/2015"
+    referencias_cruzadas: ["E7-024"]
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E7-046
+    documento: "P7"
+    dispositivo_editalicio: "P7, III.2 e III.2.1-III.2.3 (PDF p. 26-28) — ausência de exame do parcelamento"
+    transcricao: "O objeto inclui, igualmente, o projeto, a construção, o licenciamento e a operação da Central de Tratamento de Resíduos"
+    tipo_achado: IRREGULAR
+    categoria: restricao_competitividade
+    tema_sugerido: OBJETO_ESCOPO
+    descricao_breve: "Lote único (coleta + logística fluvial + remediação GAC + CTR/aterro + RSS) sem justificativa de não parcelamento"
+    comentario: "O P7 descreve o objeto agregado, mas não examina a viabilidade técnica e econômica do parcelamento (ex.: coleta/transporte x tratamento/destinação x remediação de passivos x RSS) nem os efeitos sobre a competição. A Lei 14.133, aplicável subsidiariamente às PPPs, exige considerar o parcelamento e justificar a opção."
+    dispositivo_legal: "art. 18, § 1.º, inciso VIII, art. 40, inciso V, alínea 'b', e art. 47, inciso II e § 1.º, da Lei n.º 14.133/2021, c/c art. 186 da mesma Lei"
+    referencias_cruzadas: ["EDITAL 3.1", "EDITAL 13.23 (atestados em todas as parcelas)"]
+    flag_tecnico: false
+    flag_reserva: true
+    nota: "Reserva: objeto integrado favorece grupo de grande porte com atuação em coleta, aterro e RSS; decisão estratégica do advogado."
+
+  - id: E7-047
+    documento: "P7"
+    dispositivo_editalicio: "P7, XI.3.3 (PDF p. 68-69) x ANEXO-B 10.13.1 (p. 31)"
+    transcricao: "A obrigação pode ser cumprida por qualquer forma jurídica lícita — implantação própria, aquisição, arrendamento ou contratação de terceiro"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    tema_sugerido: OBJETO_ESCOPO
+    descricao_breve: "Aterro próprio da Concessionária: P7 admite arrendamento/contratação de terceiro; Contrato exige propriedade plena"
+    comentario: "A Cl. 10.13.1 só admite formas que transfiram 'a propriedade plena do bem' (construção, compra, aquisição societária, permuta etc.) e 10.13.3 o inclui nos bens reversíveis. O P7 descreve a obrigação como cumprível por arrendamento ou contratação de terceiro, hipóteses incompatíveis com a reversão. A divergência afeta a formação de preço. O pacote mostra a existência de aterro privado licenciado na Sede (Ecoparque; LAO em nome de CTR Porto Velho S/A até 09/10/2028)."
+    dispositivo_legal: "art. 5.º da Lei n.º 14.133/2021; art. 10-A, inciso III, da Lei n.º 11.445/2007"
+    referencias_cruzadas: ["ANEXO-B 10.13-10.13.8 (p. 31-33)", "P1 p. 84-85 (Ecoparque, contrato 042/PGM/2023, LAI/LAO)"]
+    flag_tecnico: false
+    flag_reserva: true
+    nota: "Reserva: assimetria em favor de quem detém ou pode adquirir aterro licenciado na Sede (titular do Ecoparque). Decisão comercial/estratégica."
+
+  - id: E7-048
+    documento: "P7"
+    dispositivo_editalicio: "P7, XI.3.3 (PDF p. 69) x IV.4 (p. 37) e IV.6 (p. 38); ANEXO-B 10.13.5"
+    transcricao: "capacidade e vida útil remanescentes não inferiores a 30 (trinta) anos, aferidas pela Entidade Reguladora"
+    tipo_achado: IRREGULAR
+    categoria: risco_economico
+    tema_sugerido: RISCOS_GARANTIAS
+    descricao_breve: "Exigência de 30 anos de vida útil remanescente do aterro na reversão, sem indenização, incompatível com a alocação do Jirau ao Poder Concedente"
+    comentario: "O P7 aloca ao Poder Concedente o risco de reativação do Aterro do Jirau (TO-02) e trata a vida útil do Ecoparque como risco compartilhado (TO-20). Mas descreve, sem análise, a obrigação da Concessionária de prover aterro próprio por sua conta e risco e entregá-lo com 30 anos de vida útil remanescente, amortizado integralmente e sem indenização (10.13.4). Isso implica precificar na CP de 30 anos capacidade para cerca de 60 anos. O P7 não examina se esse custo está no P6 nem a coerência com a matriz."
+    dispositivo_legal: "art. 5.º, incisos I e III, da Lei n.º 11.079/2004 (prazo compatível com a amortização; repartição de riscos); art. 10-A, incisos III e IV, da Lei n.º 11.445/2007"
+    referencias_cruzadas: ["ANEXO-B 10.13.4, 10.13.5-10.13.5.4", "ANEXO-V TO-02, TO-20", "P6 Tabela 7"]
+    flag_tecnico: true
+    flag_reserva: true
+    nota: "[VALIDAÇÃO TÉCNICA] dimensionamento volumétrico. Reserva: titular de aterro com grande capacidade remanescente tem vantagem."
+
+  - id: E7-049
+    documento: "P7"
+    dispositivo_editalicio: "P7, III.8 (PDF p. 35); ANEXO-B 5.1.2 (p. 14)"
+    transcricao: "O atraso ou a entrega em desconformidade isenta a Concessionária quanto ao cumprimento dos prazos correspondentes e não obsta o início da fluência e do pagamento dos valores devidos de Contraprestação"
+    tipo_achado: IRREGULAR
+    categoria: ilegalidade
+    tema_sugerido: REMUNERACAO_REAJUSTE
+    descricao_breve: "Pagamento da contraprestação pelo cronograma original mesmo sem disponibilização do serviço (atraso na entrega de bens pelo Poder Concedente)"
+    comentario: "A Cl. 5.1.2, descrita pelo P7 sem ressalvas, garante o pagamento da CP 'em atenção ao cronograma originalmente proposto' mesmo quando o serviço não puder ser prestado por atraso na entrega de bens públicos. O art. 7.º exige que a contraprestação seja precedida da disponibilização do serviço; o tratamento adequado seria reequilíbrio ou indenização, e não CP por serviço não prestado."
+    dispositivo_legal: "art. 7.º, caput e § 1.º, da Lei n.º 11.079/2004"
+    referencias_cruzadas: ["ANEXO-B 5.1.1-5.1.2", "ANEXO-V RJ-05"]
+    flag_tecnico: false
+    flag_reserva: true
+    nota: "Reserva: cláusula favorável à concessionária que a impugnação poderia eliminar."
+
+  - id: E7-050
+    documento: "P7"
+    dispositivo_editalicio: "P7, III.3 (PDF p. 28); ANEXO-B 6.1"
+    transcricao: "observa o limite máximo de 35 anos previsto no art. 5º, inciso V, da Lei Federal nº 11.079/2004"
+    tipo_achado: IRREGULAR
+    categoria: erro_material
+    tema_sugerido: QUESTOES_FORMAIS
+    descricao_breve: "Citação errada do dispositivo do prazo máximo (inciso V em vez de inciso I do art. 5.º)"
+    comentario: "O limite de 5 a 35 anos está no art. 5.º, I. O inciso V trata dos mecanismos de preservação da atualidade. O erro está no P7 (p. 28) e na Cl. 6.1 do Contrato; o próprio P7 cita corretamente o inciso I em XI.2.1 (p. 66)."
+    dispositivo_legal: "art. 5.º, inciso I, da Lei n.º 11.079/2004"
+    referencias_cruzadas: ["ANEXO-B 6.1 (p. 14)", "P7 XI.2.1 (p. 66)"]
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E7-051
+    documento: "P7"
+    dispositivo_editalicio: "P7, III.3 (PDF p. 28-29); ANEXO-B 6.1, 6.2 e 6.4"
+    transcricao: "evitando-se a fluência do prazo contratual em momento no qual a Concessionária não tenha as condições objetivas para iniciar a operação"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    tema_sugerido: RISCOS_GARANTIAS
+    descricao_breve: "Prazo contado da assinatura, mas eficácia dependente da Ordem de Início sem prazo máximo"
+    comentario: "O P7 afirma que o desenho evita a fluência do prazo antes das condições de início, mas a Cl. 6.1 conta os 30 anos da assinatura e a Ordem de Início (6.2) depende de seis condições, quase todas a cargo do Poder Concedente (Agente de Garantia, depósito de 2 CME, áreas, manuais), sem prazo máximo. A única saída prevista é a rescisão consensual (6.4). Atraso na Ordem de Início reduz o período de amortização."
+    dispositivo_legal: "art. 5.º, inciso I, da Lei n.º 11.079/2004 (prazo compatível com a amortização dos investimentos)"
+    referencias_cruzadas: ["ANEXO-B 6.1-6.4 (p. 14-15)"]
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E7-052
+    documento: "P7"
+    dispositivo_editalicio: "P7, III.3 (PDF p. 28)"
+    transcricao: "A definição do prazo de 30 anos é tecnicamente justificada no Produto 6"
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: omissao
+    tema_sugerido: MODELAGEM_ECONOMICA
+    descricao_breve: "Justificativa do prazo de 30 anos remetida ao P6 sem localização da análise"
+    comentario: "O P0 previa 'determinação do prazo de concessão mais adequado' no Caderno 6. Na busca pontual no P6 não se localizou estudo comparativo de prazos (apenas o tenor da dívida de 25 anos e menção aos 30 anos). O CAPEX tem ciclos quinquenais de frota, o que relativiza o argumento de amortização."
+    dispositivo_legal: "art. 5.º, inciso I, da Lei n.º 11.079/2004"
+    referencias_cruzadas: ["P0 p. 16", "P6 p. 15 (tenor 25 anos) e p. 35-36"]
+    flag_tecnico: false
+    flag_reserva: false
+    nota: "Confirmar com o extrator do P6."
+
+  - id: E7-053
+    documento: "P7"
+    dispositivo_editalicio: "P7, III.7 (PDF p. 34); ANEXO-B 18.2 e 18.3-18.3.3 (p. 42-43)"
+    transcricao: "O silêncio do Poder Concedente é interpretado como autorização tácita, em consonância com a moldura de eficiência administrativa adotada."
+    tipo_achado: IRREGULAR
+    categoria: ilegalidade
+    tema_sugerido: REMUNERACAO_REAJUSTE
+    descricao_breve: "Receitas acessórias em rol aberto, com anuência tácita por silêncio e objeção restrita"
+    comentario: "As fontes de receitas alternativas devem constar expressamente do contrato de saneamento. O rol da Cl. 18.2 já é amplo (inclui 'energia térmica por incineração', Classe I, efluentes industriais) e a Cl. 18.3 admite qualquer outra atividade por comunicação, com objeção limitada a impacto comprovado no serviço e silêncio de 20 dias úteis valendo como autorização. Não se localizou base legal para anuência tácita do Poder Concedente nesse caso."
+    dispositivo_legal: "art. 10-A, inciso II, da Lei n.º 11.445/2007; art. 9.º, § 1.º, da Lei n.º 12.305/2010 (recuperação energética condicionada); não localizei fundamento normativo específico que autorize anuência tácita"
+    referencias_cruzadas: ["ANEXO-B 18.2, 18.3.1-18.3.3, 18.7", "ANEXO-B 10.13.2.1 (silêncio da ARDPV)"]
+    flag_tecnico: false
+    flag_reserva: true
+    nota: "Reserva: oportunidades de receita acessória não evidentes com baixo compartilhamento (5%)."
+
+  - id: E7-054
+    documento: "P7"
+    dispositivo_editalicio: "P7, XI.3.4 (PDF p. 69); ANEXO-B 18.10"
+    transcricao: "a usina, seus equipamentos e sistemas não integram os Bens Reversíveis"
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: risco_economico
+    tema_sugerido: REMUNERACAO_REAJUSTE
+    descricao_breve: "Usina de biogás do aterro (custeado pela CP) explorada como receita acessória não reversível"
+    comentario: "O biogás é gerado no aterro implantado e amortizado com recursos da CP; a usina fica fora dos bens reversíveis e o Município só tem opção de compra. A receita entra na base de 5%. O P7 não examina se o desenho gera apropriação privada de valor de ativo público nem a coerência com o 'aproveitamento energético' citado como parte do objeto no P0."
+    dispositivo_legal: "art. 10-A, incisos II e III, da Lei n.º 11.445/2007; art. 3.º, inciso VII, da LC Municipal n.º 592/2015 (apropriação recíproca de ganhos, conforme P7, p. 16)"
+    referencias_cruzadas: ["ANEXO-B 18.10-18.10.10", "P0 p. 3 (objeto inclui aproveitamento energético)"]
+    flag_tecnico: true
+    flag_reserva: true
+    nota: "Reserva: receita acessória não evidente (biogás). [VALIDAÇÃO TÉCNICA] sobre potencial de geração."
+
+  - id: E7-055
+    documento: "P7"
+    dispositivo_editalicio: "P7, IV.4 (PDF p. 38); ANEXO-B 20.9 e 10.2.8; ANEXO-V RJ-03"
+    transcricao: "As atualizações regulatórias destinadas exclusivamente a assegurar a prestação de serviço adequado [...] não configuram álea extraordinária e não ensejam reequilíbrio"
+    tipo_achado: IRREGULAR
+    categoria: risco_economico
+    tema_sugerido: RISCOS_GARANTIAS
+    descricao_breve: "Exclusão de reequilíbrio para alterações regulatórias ('serviço adequado') e cláusula de atualidade dinâmica"
+    comentario: "Normas regulatórias supervenientes que aumentem encargos configuram fato do príncipe e alteração unilateral, que exigem recomposição. O P7 exclui o reequilíbrio quando a atualização visar o 'serviço adequado', critério aberto, e combina isso com a obrigação dinâmica de atualidade tecnológica (10.2.8). Apoia-se no art. 6.º da Lei 8.987, que não está entre os dispositivos aplicáveis à concessão administrativa pelo art. 3.º da Lei 11.079. Isso contrasta com a alocação de RJ-03 ao Poder Concedente (p. 19 e 37)."
+    dispositivo_legal: "art. 5.º, inciso III, e art. 3.º da Lei n.º 11.079/2004; arts. 124, inciso II, alínea 'd', e 130 da Lei n.º 14.133/2021; art. 10-A, inciso IV, da Lei n.º 11.445/2007"
+    referencias_cruzadas: ["P7 II.7 (p. 19) e IV.4 (p. 37)", "ANEXO-B 20.9", "ANEXO-V RJ-03"]
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E7-056
+    documento: "P7"
+    dispositivo_editalicio: "P7, II.14 (PDF p. 22-23); ANEXO-B 20.10"
+    transcricao: "propõe um regime básico de transição sem antecipar cenários ainda em consolidação normativa nem criar direito a reequilíbrio automático"
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: risco_economico
+    tema_sugerido: REMUNERACAO_REAJUSTE
+    descricao_breve: "Reforma tributária: regime contratual de transição sem confronto com as regras de reequilíbrio da LC 214/2025"
+    comentario: "O P7 remete os impactos do IBS/CBS à fase de execução e ao reequilíbrio mediante prova de impacto relevante, sem examinar se a LC 214/2025 traz regras próprias de reequilíbrio de contratos administrativos que se sobreponham ou conflitem com a Cl. 20.10 e com a exigência de 'impacto relevante'. Para 30 anos com início da transição em 2026, o ponto afeta a precificação (EF-05 é crítico)."
+    dispositivo_legal: "EC n.º 132/2023; LC n.º 214/2025 (disposições sobre reequilíbrio de contratos administrativos); art. 124, inciso II, alínea 'd', da Lei n.º 14.133/2021"
+    referencias_cruzadas: ["ANEXO-B 20.10", "ANEXO-V EF-05"]
+    flag_tecnico: false
+    flag_reserva: false
+    nota: "Verificar na Fase 2 (Jus IA — legislação) o teor da LC 214/2025 sobre reequilíbrio."
+
+  - id: E7-057
+    documento: "P7"
+    dispositivo_editalicio: "P7, VII.6 (PDF p. 51) x III.6.2 (p. 32) e II.5 (p. 18)"
+    transcricao: "a apuração do IQD observa ciclo anual, iniciando-se a partir do início da execução contratual"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    tema_sugerido: REMUNERACAO_REAJUSTE
+    descricao_breve: "Início de incidência do IQD: 'execução contratual' (p. 51) x 'Etapa de Operação Definitiva' (p. 18 e 32)"
+    comentario: "O P7 atribui à mesma Cl. 15.4 dois termos iniciais distintos para a apuração do IQD. Em III.6.2 diz também que o teto de 10% de desconto é apenas 'parâmetro de referência' (15.5.1), o que torna indefinido o desconto máximo. Ambos afetam a previsibilidade da receita."
+    dispositivo_legal: "art. 5.º, inciso VII, e art. 6.º, § 1.º, da Lei n.º 11.079/2004"
+    referencias_cruzadas: ["ANEXO-B 15.4, 15.5, 15.5.1", "ANEXO-D"]
+    flag_tecnico: false
+    flag_reserva: false
+
+  # ================================================================
+  # BLOCO G — LICITAÇÃO / HABILITAÇÃO (coerência P7 x Edital)
+  # ================================================================
+  - id: E7-058
+    documento: "P7"
+    dispositivo_editalicio: "P7, III.4.5 (PDF p. 31); EDITAL 15.15.1-15.15.5 (p. 42-43)"
+    transcricao: "Trata-se de rotina automática do ambiente eletrônico, que se aplicaria ainda que o Edital silenciasse"
+    tipo_achado: IRREGULAR
+    categoria: ilegalidade
+    tema_sugerido: JULGAMENTO_PROPOSTA
+    descricao_breve: "Empate ficto de ME/EPP aplicado a contrato de R$ 2,3 bilhões"
+    comentario: "O art. 4.º, § 1.º, da Lei 14.133 afasta os benefícios dos arts. 42 a 49 da LC 123/2006 quando o valor estimado da contratação supera a receita bruta máxima de EPP (R$ 4,8 milhões). O P7 afirma que o empate ficto se aplicaria automaticamente e o Edital o disciplina expressamente."
+    dispositivo_legal: "art. 4.º, § 1.º, incisos I e II, da Lei n.º 14.133/2021; arts. 3.º, inciso II, 44 e 45 da LC n.º 123/2006"
+    referencias_cruzadas: ["EDITAL 15.15.1-15.15.5"]
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E7-059
+    documento: "P7"
+    dispositivo_editalicio: "P7, III.4.6 (PDF p. 31) x EDITAL 13.23.1.1 e 13.23.2 (p. 37)"
+    transcricao: "o Edital admite expressamente o somatório de atestados, inclusive os relativos a contratos executados de forma concomitante"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    tema_sugerido: HABILITACAO
+    descricao_breve: "Orientação do TCE-RO sobre somatório de atestados descrita no P7 não incorporada: Edital limita a 2 atestados e não trata de concomitância"
+    comentario: "O P7 afirma que, por orientação do TCE-RO no processo de anulação, o Edital admite expressamente o somatório, inclusive de contratos concomitantes. O Edital 13.23.2 permite o somatório 'de até 02 atestados', exige 12 meses contínuos (13.23.1.1) e não menciona concomitância. A divergência pode configurar descumprimento da orientação do TCE descrita no próprio estudo."
+    dispositivo_legal: "art. 67, inciso II e § 1.º, da Lei n.º 14.133/2021; art. 5.º da Lei n.º 14.133/2021; orientação do TCE-RO no Processo 00421/2022 (fato documental: P7, p. 31)"
+    referencias_cruzadas: ["EDITAL 13.23-13.25 (p. 36-37)", "E7-071"]
+    flag_tecnico: false
+    flag_reserva: true
+    nota: "Reserva: limitar o somatório favorece licitante com atestados únicos de grande porte; avaliar posição comercial (DECISAO_COMERCIAL)."
+
+  - id: E7-060
+    documento: "P7"
+    dispositivo_editalicio: "P7, III.4.1-III.4.4 (PDF p. 29-31)"
+    transcricao: "O julgamento da Proposta Econômica ocorre antes da abertura dos Documentos de Habilitação."
+    tipo_achado: CONFORME
+    categoria: omissao
+    tema_sugerido: JULGAMENTO_PROPOSTA
+    descricao_breve: "Critério de menor contraprestação, ordem de fases e supressão da proposta técnica — coerentes com a lei"
+    comentario: "Critério do art. 12, II, 'a', modo de disputa fechado e aberto, julgamento antes da habilitação (art. 17 da Lei 14.133 e art. 13 da Lei 11.079), habilitação técnica 'atende/não atende' e diligência de exequibilidade. A aderência ao que o TCE-RO efetivamente determinou depende dos acórdãos (E7-070)."
+    dispositivo_legal: "art. 12, inciso II, alínea 'a', e art. 13 da Lei n.º 11.079/2004; arts. 17, 56 e 59, § 4.º, da Lei n.º 14.133/2021"
+    referencias_cruzadas: ["EDITAL preâmbulo e item 15"]
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E7-061
+    documento: "P7"
+    dispositivo_editalicio: "P7, IX.2 (PDF p. 62) x EDITAL 13.17.2 (p. 35) e 20.1.2.1 (p. 48) x P6 Tabela 2 (p. 16)"
+    transcricao: "O dimensionamento do capital social em 10% do valor do Contrato é tecnicamente importante [...] a condicionalidade da integralização inicial mínima de 65% à assinatura do Contrato"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    tema_sugerido: HABILITACAO
+    descricao_breve: "Capital social e integralização: P7 (10%/65%) x Edital (1% habilitação; SPE 1,5%/50%) x P6 (1%; equity 2,5%; 40%)"
+    comentario: "O P7 diz que o capital social é de 10% do valor do Contrato (~R$ 231 mi) com 65% integralizados na assinatura 'em linha com o P6'. O Edital exige capital mínimo da licitante de R$ 23,1 mi (1%) e, para a SPE, subscrição de R$ 34,7 mi e integralização de R$ 17,3 mi (50%). O P6 indica capital mínimo de 1%, equity total de 2,5% e integralização inicial de 40%. São três parâmetros incompatíveis para a mesma exigência."
+    dispositivo_legal: "art. 69, § 4.º, e art. 5.º da Lei n.º 14.133/2021; art. 9.º da Lei n.º 11.079/2004"
+    referencias_cruzadas: ["EDITAL 13.17.2 e 20.1.2.1", "P6 Tabela 2 (p. 16)"]
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E7-062
+    documento: "P7"
+    dispositivo_editalicio: "P7, X.2.1 (PDF p. 66); EDITAL preâmbulo (p. 5)"
+    transcricao: "em observância ao art. 10, inciso VI, da Lei Federal nº 11.079/2004 e ao art. 14, inciso VI, da Lei Federal nº 14.133/2021"
+    tipo_achado: IRREGULAR
+    categoria: erro_material
+    tema_sugerido: QUESTOES_FORMAIS
+    descricao_breve: "Fundamento errado da audiência pública (P7: art. 14, VI; Edital: art. 173) — o correto é o art. 21 da Lei 14.133"
+    comentario: "O art. 14 da Lei 14.133 trata dos impedimentos de participação e o art. 173 da capacitação pelos tribunais de contas; a audiência e a consulta públicas estão no art. 21. O P7 também omite o art. 11, IV, da Lei 11.445, que faz da audiência e da consulta prévias condição de validade do contrato."
+    dispositivo_legal: "art. 21 da Lei n.º 14.133/2021; art. 11, inciso IV, da Lei n.º 11.445/2007"
+    referencias_cruzadas: ["EDITAL p. 5", "E7-009"]
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E7-063
+    documento: "P7"
+    dispositivo_editalicio: "P7, VII.10 (PDF p. 53) e XI.3.7 (p. 70); ANEXO-B 26.1 e 26.3 i (p. 56)"
+    transcricao: "suspensão temporária de participação em licitação e impedimento de contratar com o Município, por prazo não superior a três anos"
+    tipo_achado: IRREGULAR
+    categoria: erro_material
+    tema_sugerido: QUESTOES_FORMAIS
+    descricao_breve: "Sanções com terminologia da Lei 8.666 e multa por violação de 'Plano de Trabalho' não definido no Contrato"
+    comentario: "A Lei 14.133 prevê impedimento de licitar e contratar (até 3 anos) e inidoneidade (3 a 6 anos), e não 'suspensão temporária'. A primeira faixa de multa (1% a 20% do valor anual) pune 'violação ao Plano de Trabalho apresentado pela Concessionária e previamente aprovado', instrumento que não é definido nem exigido em outra parte do Contrato. A tipicidade fica comprometida."
+    dispositivo_legal: "art. 156, incisos III e IV, e §§ 4.º e 5.º, da Lei n.º 14.133/2021; art. 5.º, inciso II, da Lei n.º 11.079/2004"
+    referencias_cruzadas: ["ANEXO-B 26.3 i (p. 56)"]
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E7-064
+    documento: "P7"
+    dispositivo_editalicio: "P7, VIII.9 e VIII.11 (PDF p. 59-60)"
+    transcricao: "a autoridade nomeadora será a mesma instituição prevista para a arbitragem (Cláusula 39.7.3)"
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    tema_sugerido: QUESTOES_FORMAIS
+    descricao_breve: "Câmara arbitral e autoridade nomeadora da Mesa de Resolução de Conflitos não designadas"
+    comentario: "O P7 remete a nomeação do presidente da Mesa à 'mesma instituição prevista para a arbitragem', mas a Cl. 40 só fala em 'câmara de reconhecida idoneidade, com sede em Porto Velho', sem indicar qual. Sem critério de escolha, o mecanismo fica inoperante e não atende à exigência de critérios isonômicos, técnicos e transparentes."
+    dispositivo_legal: "art. 154 da Lei n.º 14.133/2021; art. 11, inciso III, da Lei n.º 11.079/2004"
+    referencias_cruzadas: ["ANEXO-B 39.7.3 e 40.2"]
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E7-065
+    documento: "P7"
+    dispositivo_editalicio: "P7, VIII.2 e VIII.11-VIII.13 (PDF p. 57 e 60)"
+    transcricao: "a ser realizada no Brasil e em língua portuguesa (art. 11, III, Lei 11.079 — reproduzido pelo P7)"
+    tipo_achado: CONFORME
+    categoria: omissao
+    tema_sugerido: QUESTOES_FORMAIS
+    descricao_breve: "Arbitragem com sede em Porto Velho, em português, de direito, restrita a direitos patrimoniais disponíveis"
+    comentario: "Requisitos formais da arbitragem em PPP atendidos (exceto a designação da câmara — E7-064)."
+    dispositivo_legal: "art. 11, inciso III, da Lei n.º 11.079/2004; arts. 151 a 154 da Lei n.º 14.133/2021; Lei n.º 9.307/1996"
+    referencias_cruzadas: ["ANEXO-B 40"]
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E7-066
+    documento: "P7"
+    dispositivo_editalicio: "P7, II.2 e II.4 (PDF p. 14 e 17)"
+    transcricao: "vedada a celebração de PPP cujo valor seja inferior a R$ 20 milhões ou cujo período de prestação seja inferior a cinco anos"
+    tipo_achado: CONFORME
+    categoria: omissao
+    tema_sugerido: QUESTOES_FORMAIS
+    descricao_breve: "Valor mínimo e prazo mínimo/máximo de PPP atendidos"
+    comentario: "Valor de R$ 2,31 bi supera os mínimos federal (R$ 10 mi) e municipal (R$ 20 mi); prazo de 30 + 5 anos dentro da faixa de 5 a 35 anos; objeto não se limita a mão de obra ou equipamentos."
+    dispositivo_legal: "art. 2.º, § 4.º, e art. 5.º, inciso I, da Lei n.º 11.079/2004; art. 6.º da LC Municipal n.º 592/2015"
+    referencias_cruzadas: []
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E7-067
+    documento: "P7"
+    dispositivo_editalicio: "P7, IX.1 (PDF p. 61) e XI.2.3 (p. 67); P7 V.9 (p. 44)"
+    transcricao: "consolidam a exigência de constituição, pela Adjudicatária, de Sociedade de Propósito Específico (SPE)"
+    tipo_achado: CONFORME
+    categoria: omissao
+    tema_sugerido: HABILITACAO
+    descricao_breve: "SPE antes da assinatura, garantia de proposta e visita técnica facultativa com declaração"
+    comentario: "Constituição de SPE como condição para assinar (art. 9.º), garantia de proposta de 1% do valor estimado e visita técnica facultativa substituível por declaração do responsável técnico estão em linha com a lei."
+    dispositivo_legal: "art. 9.º da Lei n.º 11.079/2004; arts. 58, § 1.º, e 63, §§ 2.º e 3.º, da Lei n.º 14.133/2021"
+    referencias_cruzadas: ["EDITAL 13.1, 20.1.1 e garantia de proposta (p. 28-29)"]
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E7-068
+    documento: "P7"
+    dispositivo_editalicio: "P7, III.4.5 (PDF p. 31)"
+    transcricao: "assegura-se preferência, sucessivamente, aos serviços prestados por empresas estabelecidas no Estado de Rondônia"
+    tipo_achado: CONFORME
+    categoria: omissao
+    tema_sugerido: JULGAMENTO_PROPOSTA
+    descricao_breve: "Critérios de desempate do art. 60 da Lei 14.133 corretamente reproduzidos (exceto ME/EPP — E7-058)"
+    comentario: "Preferência territorial ao Estado em licitação municipal, conforme o art. 60, § 1.º, I."
+    dispositivo_legal: "art. 60, caput e § 1.º, da Lei n.º 14.133/2021"
+    referencias_cruzadas: ["EDITAL 4.3 e 15.16"]
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E7-069
+    documento: "P7"
+    dispositivo_editalicio: "P7, III.6.4 (PDF p. 33)"
+    transcricao: "reajuste automático dos valores de referência da Contraprestação Mensal a cada interregno mínimo de 12 meses, contados da data de apresentação do Orçamento Estimado"
+    tipo_achado: CONFORME
+    categoria: omissao
+    tema_sugerido: REMUNERACAO_REAJUSTE
+    descricao_breve: "Reajuste anual automático por IPCA, data-base do orçamento"
+    comentario: "Coerente com o reajuste automático sem homologação e com a data-base do orçamento estimado (maio/2026 segundo o Edital 12.2.1)."
+    dispositivo_legal: "art. 5.º, inciso IV e § 1.º, da Lei n.º 11.079/2004; art. 25, § 7.º, da Lei n.º 14.133/2021"
+    referencias_cruzadas: ["EDITAL 12.2.1 e 12.3", "ANEXO-B 16.1"]
+    flag_tecnico: false
+    flag_reserva: false
+
+  # ================================================================
+  # BLOCO H — TCE-RO / ANTECEDENTES
+  # ================================================================
+  - id: E7-070
+    documento: "P7"
+    dispositivo_editalicio: "P7, Sumário (PDF p. 9), I.2 (p. 11-12), II.13 (p. 22), III.4.2-III.4.3 (p. 29-30), XII.3 (p. 71-72)"
+    transcricao: "Esse antecedente moldou diretamente quatro decisões centrais da nova modelagem"
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: omissao
+    tema_sugerido: QUESTOES_FORMAIS
+    descricao_breve: "Determinações e irregularidades dos Acórdãos APL-TC 00068/24 e 00105/24 não transcritas; saneamento não verificável"
+    comentario: "O P7 é o único documento do pacote que descreve o que o TCE-RO teria apontado: (1) critério combinado técnica+preço; (2) ordem de fases; (3) proposta técnica pontuada subjetiva; (4) uso da Lei 8.666; além de duas 'orientações' (utilidades às expensas da concessionária, p. 27; somatório de atestados inclusive concomitantes, p. 31). Não transcreve dispositivos dos acórdãos nem lista as irregularidades julgadas, embora o P0 tenha pedido cópia integral do processo. Sem isso não se verifica a afirmação do Edital de que a PPP foi estruturada 'para sanar aquelas irregularidades'. O P7 menciona 'expectativa de manifestação prévia do Tribunal', sem registro de que tenha ocorrido."
+    dispositivo_legal: "art. 71, inciso IX, e art. 75 da CF/1988 (controle externo — determinações vinculantes); Acórdãos APL-TC 00068/24 e APL-TC 00105/24, Processo 00421/2022 (fato documental: P7, p. 9, 11, 22)"
+    referencias_cruzadas: ["EDITAL preâmbulo (p. 2)", "ANEXO-B considerandos ii-iii (p. 5)", "P0 p. 25 (data request)"]
+    flag_tecnico: false
+    flag_reserva: false
+    nota: "Falta: inteiro teor dos acórdãos e da Decisão 001/2025/GAB-PREF/PMPV. Prioridade para o AN (E4 — determinações anteriores do TCE)."
+
+  - id: E7-071
+    documento: "P7"
+    dispositivo_editalicio: "P7, III.2.2 (PDF p. 27); ANEXO-B 10.10"
+    transcricao: "constitui obrigação da Concessionária, às suas expensas, prover, contratar e manter as utilidades de água, energia elétrica e esgotamento sanitário"
+    tipo_achado: CONFORME
+    categoria: omissao
+    tema_sugerido: OBJETO_ESCOPO
+    descricao_breve: "Orientação do TCE-RO sobre utilidades (água, energia, esgoto) incorporada ao Contrato (Cl. 10.10)"
+    comentario: "A orientação descrita pelo P7 foi reproduzida na Cl. 10.10 do Contrato. A outra orientação descrita (somatório de atestados) não foi incorporada — ver E7-059."
+    dispositivo_legal: "orientação do TCE-RO no Processo 00421/2022 (fato documental: P7, p. 27)"
+    referencias_cruzadas: ["ANEXO-B 10.10 (p. 30-31)", "E7-059"]
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E7-072
+    documento: "P7"
+    dispositivo_editalicio: "P7, I.2 (PDF p. 11)"
+    transcricao: "admitiram a realização de contratação emergencial pelo prazo de até 180 (cento e oitenta) dias, período no qual deveria ser concluído o novo procedimento licitatório da Parceria Público-Privada, sob pena das sanções fixadas pelo Tribunal"
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: omissao
+    tema_sugerido: QUESTOES_FORMAIS
+    descricao_breve: "Prazo de 180 dias fixado pelo TCE-RO para concluir a nova licitação aparentemente excedido; contratação emergencial em curso"
+    comentario: "Segundo o P7, o APL-TC 00105/24 e a Decisão 001/2025 admitiram emergencial de até 180 dias, no qual a nova licitação deveria ser concluída. Os estudos só foram autorizados em 25/09/2025 (prazo de 240 dias), o P6 é de 26/05/2026 e o Edital de 08/09/2026; o P1 registra contrato emergencial ativo (ECOPVH, Contrato 028/PGM/2025). O P7 não trata da prorrogação do prazo pelo TCE nem da situação das contratações emergenciais sucessivas."
+    dispositivo_legal: "art. 75, inciso VIII, da Lei n.º 14.133/2021; determinação do APL-TC 00105/24 (fato documental: P7, p. 11)"
+    referencias_cruzadas: ["P1 p. 64 e 88", "P0 p. 3"]
+    flag_tecnico: false
+    flag_reserva: false
+    nota: "Falta: data da Decisão 001/2025, datas e aditivos dos contratos emergenciais e eventual decisão do TCE-RO prorrogando o prazo."
+
+  - id: E7-073
+    documento: "P0"
+    dispositivo_editalicio: "P0, III.2 Data Request jurídico (PDF p. 25) e Caderno 5 (p. 11-14); P7 IV.6 (p. 39) — SA-12"
+    transcricao: "Cópia integral da ação civil pública oriunda do contrato anterior."
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: omissao
+    tema_sugerido: RISCOS_GARANTIAS
+    descricao_breve: "Ação civil pública e decisão judicial sobre a operação anterior não analisadas no Caderno Jurídico"
+    comentario: "O P0 registra a existência de ação civil pública sobre o contrato anterior e de 'decisão judicial que reconhece a operação precária' (Caderno 5). O P7 não examina esses processos nem seus efeitos (bens em uso, pedidos de indenização do operador anterior, eventual obstáculo à transição ou aos ativos), limitando-se ao risco genérico de judicialização (SA-12)."
+    dispositivo_legal: "art. 5.º, inciso III, da Lei n.º 11.079/2004 (repartição objetiva de riscos)"
+    referencias_cruzadas: ["P0 p. 11, 22 e 25", "ANEXO-V SA-12, TO-15", "E7-074"]
+    flag_tecnico: false
+    flag_reserva: false
+    nota: "Falta: cópia da ACP e da decisão judicial sobre operação precária."
+
+  # ================================================================
+  # BLOCO I — PMI/MIP, RESSARCIMENTO, PLANO DE TRABALHO (P0)
+  # ================================================================
+  - id: E7-074
+    documento: "P0"
+    dispositivo_editalicio: "P0, III.1 Caderno 5 (PDF p. 11-14), EAP (p. 18), Cronograma Fase 3 (p. 26); P7 I.4 (p. 12-13)"
+    transcricao: "Caderno 5 – Avaliação Econômico-financeira da Indenização [...] considerando investimentos realizados, ativos incorporados e contraprestações públicas recebidas durante o período de operação, conforme decisão judicial."
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: omissao
+    tema_sugerido: MODELAGEM_ECONOMICA
+    descricao_breve: "Produto 5 (indenização ao operador anterior) previsto no Plano de Trabalho e ausente do pacote; P7 não o menciona"
+    comentario: "O P0 prevê 8 cadernos, incluindo o Caderno 5 sobre indenização/ressarcimento ao operador. O pacote não contém P5 e o P7, ao articular os produtos (P1, P2, P3, P4, P6), não o menciona. Eventual indenização ao operador anterior é obrigação do Município que afeta a estimativa de impacto orçamentário (art. 10, II), a margem fiscal e a transição (TO-15)."
+    dispositivo_legal: "art. 10, incisos II e IV, da Lei n.º 11.079/2004; art. 16 da LC n.º 101/2000"
+    referencias_cruzadas: ["P0 p. 11-14 e 18", "P7 p. 12-13", "E7-012", "E7-073"]
+    flag_tecnico: false
+    flag_reserva: false
+    nota: "Falta: P5 (ou registro de que foi dispensado pelo CGP/PVH) e valor apurado."
+
+  - id: E7-075
+    documento: "P0"
+    dispositivo_editalicio: "P0, I.2 (p. 4), II.1 (p. 7) e III.2 (p. 18) x P7 I.3 (p. 12) x EDITAL 2.11.1 (p. 12) x ANEXO-B 10.7 e considerando iv"
+    transcricao: "No âmbito do Chamamento Público nº 005/2025"
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: contradicao
+    tema_sugerido: QUESTOES_FORMAIS
+    descricao_breve: "Natureza do procedimento indefinida: 'Chamamento Público' (P0), 'MIP' (P7, Edital 21), 'PMI' (Edital 2.11.1, Contrato)"
+    comentario: "O P7 sustenta que se trata de Manifestação de Interesse Privado por apresentação direta (LC 592/2015, art. 28, com redação da LC 918/2022). O P0 fala em Chamamento Público, que pressupõe procedimento aberto a outros interessados, e o Edital e o Contrato usam PMI. A distinção importa para a isonomia na fase de estudos e para o fundamento do ressarcimento."
+    dispositivo_legal: "art. 81 da Lei n.º 14.133/2021; art. 28 da LC Municipal n.º 592/2015 (redação da LC n.º 918/2022); art. 21 da Lei n.º 8.987/1995"
+    referencias_cruzadas: ["EDITAL 2.11.1 e 21.1", "ANEXO-B considerando iv e 10.7"]
+    flag_tecnico: false
+    flag_reserva: false
+    nota: "Falta: Termo de Autorização 005/2025 e eventual edital de chamamento."
+
+  - id: E7-076
+    documento: "P7"
+    dispositivo_editalicio: "P7, I.3 (PDF p. 12) e X.1 (p. 65-66) x EDITAL 20.1.8 (p. 49-50) e 21.1.1 (p. 50) x ANEXO-B 10.7-10.7.1 (p. 30)"
+    transcricao: "O valor de ressarcimento é fixado em R$ 3.142.250,00"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    tema_sugerido: QUESTOES_FORMAIS
+    descricao_breve: "Ressarcimento dos estudos: valor fixo (P7, Edital 21.1.1) x 'valor máximo' (Contrato 10.7.1) x corrigido por IPCA (Edital 20.1.8); devedor Adjudicatária x Concessionária; sem especificação dos dispêndios"
+    comentario: "O art. 21 da Lei 8.987 exige que os dispêndios a ressarcir sejam especificados no edital. O P7 e o Edital 21.1.1 fixam R$ 3.142.250,00; o Edital 20.1.8 manda corrigir pelo IPCA desde a data-base; o Contrato 10.7.1 trata o valor como teto. O Edital atribui o pagamento à Adjudicatária e o Contrato 10.7 à Concessionária (SPE). Nenhum documento discrimina os custos efetivos dos estudos."
+    dispositivo_legal: "art. 21 da Lei n.º 8.987/1995 (aplicável por força do art. 3.º da Lei n.º 11.079/2004); art. 28, § 2.º, da LC Municipal n.º 592/2015"
+    referencias_cruzadas: ["EDITAL 20.1.8 e 21.1.1", "ANEXO-B 10.7-10.7.1"]
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E7-077
+    documento: "P7"
+    dispositivo_editalicio: "P7, I.3 (PDF p. 12) e X.1 (p. 65)"
+    transcricao: "estabelece o teto de 2,5% do valor total estimado dos investimentos"
+    tipo_achado: CONFORME
+    categoria: omissao
+    tema_sugerido: QUESTOES_FORMAIS
+    descricao_breve: "Valor do ressarcimento dentro do teto municipal de 2,5% dos investimentos"
+    comentario: "Com CAPEX projetado de R$ 298,3 mi (P6, p. 19-20), o teto é de ~R$ 7,46 mi; R$ 3,14 mi equivalem a ~1,05%. O P7, porém, não informa a base de investimentos usada para o teto."
+    dispositivo_legal: "art. 28, § 2.º, da LC Municipal n.º 592/2015"
+    referencias_cruzadas: ["P6 p. 19-20", "E7-076"]
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E7-078
+    documento: "P0"
+    dispositivo_editalicio: "P0, I.1 e I.2 (PDF p. 3-4), IV.1 (p. 26-27) x datas dos produtos"
+    transcricao: "A autorização fixou o prazo de 240 (duzentos e quarenta) dias corridos para a entrega integral dos estudos"
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: omissao
+    tema_sugerido: QUESTOES_FORMAIS
+    descricao_breve: "Entrega dos estudos após o prazo de 240 dias (vencido em ~23/05/2026) sem registro de prorrogação"
+    comentario: "Contados de 25/09/2025, os 240 dias venceram por volta de 23/05/2026. O P6 tem 1.ª versão em 26/05/2026, o P7 2.ª versão em 11/09/2026 e o Edital e o Contrato em 08/09/2026. O pacote não traz prorrogação do Termo de Autorização nem atos do CGP/PVH sobre as entregas."
+    dispositivo_legal: "Termo de Autorização MIP n.º 005/2025 (prazo de 240 dias — fato documental: P0, p. 3-4); art. 28 da LC Municipal n.º 592/2015"
+    referencias_cruzadas: ["P6 capa (26/05/2026)", "P7 capa (11/09/2026)", "EDITAL capa (08/09/2026)"]
+    flag_tecnico: false
+    flag_reserva: false
+    nota: "Falta: ato de prorrogação do prazo, se houver."
+
+  - id: E7-079
+    documento: "P7"
+    dispositivo_editalicio: "P7, capa (PDF p. 1: 2.ª versão 11/09/2026) e Cap. X.2/XII.4 (p. 66 e 72) x EDITAL e ANEXO-B (2.ª versão 08/09/2026)"
+    transcricao: "Subsistem pontos institucionais que demandam validação pelo Município antes da publicação do Edital."
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: omissao
+    tema_sugerido: QUESTOES_FORMAIS
+    descricao_breve: "Caderno Jurídico posterior às minutas e com pendências prévias abertas (consulta pública, dotação, Convenção 169)"
+    comentario: "O estudo jurídico que deveria fundamentar as minutas é posterior a elas e registra pendências que, segundo ele mesmo, devem ser resolvidas antes da publicação. Isso, somado às inconsistências P7 x Edital/Contrato apontadas (E7-043, E7-047, E7-059, E7-061, E7-076), indica que o Edital não foi conferido contra o estudo jurídico final."
+    dispositivo_legal: "art. 10, inciso I, alínea 'a', e incisos III, V e VI, da Lei n.º 11.079/2004"
+    referencias_cruzadas: ["E7-007", "E7-009", "E7-080"]
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E7-080
+    documento: "P7"
+    dispositivo_editalicio: "P7, XII.4 (PDF p. 72) e IV.4 (p. 37 — SA-07, SA-11); P4 p. 34 (FUNAI/INCRA 'A consultar')"
+    transcricao: "a observância da Convenção 169 da OIT (oitiva dos povos originários) são providências institucionais que devem ser equacionadas no curso da instrução administrativa"
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: omissao
+    tema_sugerido: LICENCIAMENTO_AMBIENTAL
+    descricao_breve: "Consulta prévia, livre e informada a povos e comunidades tradicionais (Baixo Madeira) pendente"
+    comentario: "O P7 reconhece como pendente a oitiva prevista na Convenção 169 da OIT; o P4 indica FUNAI/INCRA 'a consultar'; a Matriz aloca ao Poder Concedente a legitimidade da consulta às comunidades ribeirinhas (SA-07, crítico) e o atraso da consulta à FUNAI/INCRA (SA-11). Não há registro de que a consulta tenha ocorrido antes do Edital, embora afete atividades nos distritos do Baixo Madeira."
+    dispositivo_legal: "art. 6.º da Convenção n.º 169 da OIT (Decreto n.º 10.088/2019)"
+    referencias_cruzadas: ["P4 p. 34 (tabela de stakeholders)", "ANEXO-V SA-07, SA-11"]
+    flag_tecnico: false
+    flag_reserva: false
+    nota: "Falta: identificação de terras e comunidades tradicionais na área de influência e registro da consulta."
+
+  - id: E7-081
+    documento: "P0"
+    dispositivo_editalicio: "P0, IV.1 (PDF p. 26-28) — Fase 3, Marcos Temporais e Quadro 2; IV.2.3 Quadro 5 (p. 31)"
+    transcricao: "Fase 3 – Modelagens e Estudos Setoriais (até x dias) [...] xxx/xxx: Desenvolvimento e entrega dos Cadernos x a x"
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    tema_sugerido: QUESTOES_FORMAIS
+    descricao_breve: "Plano de Trabalho sem o 'cronograma detalhado' exigido pelo Termo de Autorização (placeholders e quadros vazios)"
+    comentario: "O Termo exigia cronograma detalhado em 15 dias (compromisso ii, P0, p. 4). O P0 traz 'até x dias', marcos 'xxx/xxx' e 'Cadernos x a x', Quadro 2 sem datas para C1 a C7, kick-off 'TBD' e Quadro 5 ('Fluxo de Estruturação') vazio ('D0–DX / X / X / X'). O P0 não permite aferir o cumprimento de marcos nem as entregas intermediárias ao CGP/PVH."
+    dispositivo_legal: "Termo de Autorização MIP n.º 005/2025, compromisso (ii) (fato documental: P0, p. 4); não localizei fundamento normativo específico além do próprio Termo e do art. 28 da LC Municipal n.º 592/2015"
+    referencias_cruzadas: ["P0 p. 27-28 e 31"]
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E7-082
+    documento: "P0"
+    dispositivo_editalicio: "P0, cabeçalhos das PDF p. 29, 33-34 e p. 30-32; ANEXO-III p. 1"
+    transcricao: "PROPOSTA JOF 3314/2021 | PEZCO, RPG&REINFRA [...] MIP | PEZCO, PSPHUB, KRAFT E APPARECIDO & CARVALHO PINTO ADVOGADOS"
+    tipo_achado: IRREGULAR
+    categoria: erro_material
+    tema_sugerido: QUESTOES_FORMAIS
+    descricao_breve: "Plano de Trabalho (e Anexo III) com cabeçalhos de outro projeto e composição consorcial diversa (KRAFT x MASTERPRO)"
+    comentario: "Parte do P0 reaproveita cabeçalho de proposta de 2021 de outro consórcio (PEZCO, RPG&REINFRA) e de outra composição (PEZCO, PSPHUB, KRAFT e ACP); o mesmo cabeçalho aparece no ANEXO-III. Além do erro material, sendo a autorização pessoal e intransferível (P0, p. 4, item iii), a eventual alteração de membro do consórcio (KRAFT para MASTERPRO) dependeria de anuência do CGP/PVH."
+    dispositivo_legal: "Termo de Autorização MIP n.º 005/2025, limitação (iii) (fato documental: P0, p. 4); art. 28 da LC Municipal n.º 592/2015"
+    referencias_cruzadas: ["ANEXO-III p. 1"]
+    flag_tecnico: false
+    flag_reserva: false
+    nota: "DEPENDE_DE_FATO quanto à composição: verificar no Termo de Autorização quais empresas foram autorizadas."
+
+  - id: E7-083
+    documento: "P0"
+    dispositivo_editalicio: "P0, Índice (PDF p. 2), I.4 (p. 6), IV.2.3 (p. 31)"
+    transcricao: "O fluxo de estruturação do projeto organiza as entregas de acordo com um cronograma estratégico de 90 dias corridos"
+    tipo_achado: IRREGULAR
+    categoria: erro_material
+    tema_sugerido: QUESTOES_FORMAIS
+    descricao_breve: "Inconsistências internas do P0: '90 dias' x 240 dias; capítulos V e VI anunciados e inexistentes; Quadro 7 x Quadro 6"
+    comentario: "O P0 anuncia cronograma de 90 dias em IV.2.3, contra 240 dias no restante; o Índice e o item I.4 listam os Capítulos V (Gestão de Riscos) e VI (Considerações Finais), ausentes (riscos estão em IV.2.4; não há considerações finais); o índice remete ao 'Quadro 7' na p. 20, que é o Quadro 6 na p. 33."
+    dispositivo_legal: "não localizei fundamento normativo específico (erro material do instrumento de planejamento do PMI)"
+    referencias_cruzadas: []
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E7-084
+    documento: "P0"
+    dispositivo_editalicio: "P0, II.2 (PDF p. 8) e Caderno 6, Etapa 1.2 (p. 14)"
+    transcricao: "Individualização por componente do sistema (varrição, coleta, transbordo, triagem, reciclagem, destinação final, aproveitamento energético)"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    tema_sugerido: OBJETO_ESCOPO
+    descricao_breve: "Escopo do Plano de Trabalho inclui varrição e aproveitamento energético, contra o recorte do P7"
+    comentario: "O P0 inclui varrição no diagnóstico e no plano de negócios e lista o 'aproveitamento energético' no objeto (I.1). O P7 exclui a limpeza pública do objeto e o aproveitamento energético aparece só como receita acessória (biogás, CDR). O P6 seguiu o P0 e declara a varrição remunerada pela CP (ver E7-043)."
+    dispositivo_legal: "art. 3.º, inciso I, alínea 'c', e art. 7.º da Lei n.º 11.445/2007; art. 5.º da Lei n.º 14.133/2021"
+    referencias_cruzadas: ["P6 p. 11-12", "E7-043", "E7-054"]
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E7-085
+    documento: "P0"
+    dispositivo_editalicio: "P0, I.3 objetivo (ix) (PDF p. 5) e Fase 5 (p. 26-27) x EDITAL 2.11.1, 2.11.2 e 3.1 x P7 III.2.2 (p. 27) e XI.4 (p. 70-71)"
+    transcricao: "Consolidar as análises em relatório final (EVTEA)"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    tema_sugerido: OBJETO_ESCOPO
+    descricao_breve: "EVTEA: documento consolidado inexistente no pacote, não listado como anexo, mas tratado como vinculante e definidor do escopo de investimentos"
+    comentario: "O P0 previa um EVTEA consolidado; o pacote tem apenas produtos separados (sem o P5). O P7 diz que os investimentos estão definidos no 'Caderno de Encargos e demais ANEXOS, incluindo o EVTEA' e o Edital 3.1 diz que o EVTEA 'integra o CONTRATO como parte indissociável'. Porém o P7 (XI.4) e o Edital não listam o EVTEA entre os anexos, o Edital 2.11.2 manda prevalecer os anexos sobre ele e o 2.11.1 o define apenas como estudos técnico, econômico-financeiro e jurídico. Fica indefinido o instrumento vinculante do escopo de investimentos."
+    dispositivo_legal: "art. 18, inciso VIII, da Lei n.º 8.987/1995 (c/c art. 11 da Lei n.º 11.079/2004); art. 5.º da Lei n.º 14.133/2021"
+    referencias_cruzadas: ["EDITAL 2.11-2.11.2 (p. 11-12) e 3.1 (p. 13)", "ANEXO-B 15.6.2-15.6.3 e 8.6.1.2 (remissões ao EVTEA)"]
+    flag_tecnico: false
+    flag_reserva: false
+
+  # ================================================================
+  # BLOCO J — OUTROS (P7)
+  # ================================================================
+  - id: E7-086
+    documento: "P7"
+    dispositivo_editalicio: "P7, IX.6 (PDF p. 64)"
+    transcricao: "nos termos do Decreto Federal nº 11.599/2023, esse teto não se aplica às parcerias público-privadas regidas pela Lei Federal nº 11.079/2004"
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: omissao
+    tema_sugerido: OBJETO_ESCOPO
+    descricao_breve: "Afirmação de inaplicabilidade do limite de 25% de subdelegação às PPPs, a verificar"
+    comentario: "O P7 afasta o limite de 25% do art. 11-A da Lei 11.445 com base no Decreto 11.599/2023, condicionado ao compartilhamento de ganhos de eficiência com o usuário, e diz que o compartilhamento de 5% das receitas acessórias e a revisão quinquenal atendem essa condição. É preciso conferir o texto do decreto e se 5% de receitas acessórias equivalem a compartilhamento de ganhos de eficiência."
+    dispositivo_legal: "art. 11-A da Lei n.º 11.445/2007; Decreto n.º 11.599/2023"
+    referencias_cruzadas: ["ANEXO-B 12.1 e 18.5.1"]
+    flag_tecnico: false
+    flag_reserva: false
+    nota: "Verificar vigência e teor do Decreto 11.599/2023 (Jus IA — legislação)."
+
+  - id: E7-087
+    documento: "P7"
+    dispositivo_editalicio: "P7, III.4.2 (PDF p. 30) e V.7 (p. 42)"
+    transcricao: "Acórdãos 465/2024, 803/2024 e 214/2025, todos do Plenário, e Súmula TCU nº 262 [...] Acórdão nº 2.905/2014 – Plenário"
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: omissao
+    tema_sugerido: QUESTOES_FORMAIS
+    descricao_breve: "Precedentes do TCU citados pelo próprio Caderno Jurídico — não verificados [VIT]"
+    comentario: "O P7 cita precedentes do TCU para a inexequibilidade relativa e para a exigência de seguradora com grau de investimento (com transcrição). São citações do estudo, não do pipeline; devem ser tratadas como não verificadas até a conferência do inteiro teor."
+    dispositivo_legal: "art. 59, § 4.º, e art. 96, § 1.º, da Lei n.º 14.133/2021 (temas a que se referem as citações)"
+    referencias_cruzadas: ["P7 p. 30 e 42"]
+    flag_tecnico: false
+    flag_reserva: false
+    nota: "[VIT] — citações de fonte secundária (o próprio estudo)."
+
+  - id: E7-088
+    documento: "P7"
+    dispositivo_editalicio: "P7, II.7 (PDF p. 19) e III.3 (p. 28); P6 p. 11 (nota 10)"
+    transcricao: "O art. 3º da LC 972/2023 estabelece que o PMSB tem vigência indeterminada, horizonte de 20 anos e revisão a cada quatro anos"
+    tipo_achado: CONFORME
+    categoria: omissao
+    tema_sugerido: OBJETO_ESCOPO
+    descricao_breve: "Existência de PMSB/PMGIRS vigente (LC 972/2023) como condição de validade"
+    comentario: "Há plano de saneamento (LC 972/2023, revisão do PMSB/PMGIRS), requisito do art. 11, I, da Lei 11.445. O P6 cita a LC 839/2021 (plano anterior), o que deve ser uniformizado. A compatibilidade material do objeto com o PMGIRS não foi verificada neste extrator."
+    dispositivo_legal: "art. 11, inciso I, e art. 19 da Lei n.º 11.445/2007; art. 19 da Lei n.º 12.305/2010"
+    referencias_cruzadas: ["P6 p. 11 (nota 10 — LC 839/2021)", "EDITAL 2.1"]
+    flag_tecnico: false
+    flag_reserva: false

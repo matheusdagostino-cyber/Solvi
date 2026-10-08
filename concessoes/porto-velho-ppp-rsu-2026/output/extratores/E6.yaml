@@ -1,0 +1,1163 @@
+# E6 — Extrator: Estudos de engenharia (P2 — Modelagem do Projeto) e avaliação comercial (P3 — Avaliação Comercial e Estudo de Demanda)
+# Fase 1 — PPP RSU Porto Velho/RO — [USO INTERNO]
+# Documentos-alvo lidos integralmente: P2_ModelagemProjeto (50 p., 3ª revisão 01/09/2026) e P3_AvaliacaoComercial (56 p., 3ª revisão 01/09/2026).
+# Páginas renderizadas para conferência: P2 pp. 32, 33, 34, 35, 38 (fluxo de massa), 44, 45 (CAPEX).
+# Valores "calculados" indicados como tal foram obtidos pelo extrator a partir dos números dos próprios documentos.
+
+big_numbers:
+  - item: "População total projetada (FESPSP, Cenário 3 — IBGE/2022 corrigido +14%)"
+    valor: "562.145 hab. (2027) → 614.071 (2040) → 631.218 (2056)"
+    data_base: "projeção FESPSP 2024"
+    fonte: "P2 p. 10–11, Tabelas 2 e 3; P3 p. 12, Tabela 2; Caderno de Encargos p. 12, Tabela 6"
+    obs: "Idêntica nos três documentos. Sede 488.867 (2027); MM 38.415; AM 29.013; BM 5.850."
+  - item: "População IBGE 2022 (base da regionalização)"
+    valor: "474.681 hab.; Sede 412.804 (86,96%); AM 21.121; MM 35.816; BM 4.940"
+    data_base: "Censo 2022"
+    fonte: "P2 p. 21–22, Tabela 13; P3 p. 9–10, Tabela 1"
+    obs: "Repartição AM/MM diverge da Tabela 3 do P2 (ver E6-004)."
+  - item: "Geração per capita adotada"
+    valor: "RSU 0,75 kg/hab.dia; RDO 0,67; RLU 0,08"
+    data_base: "SINISA 2025"
+    fonte: "P2 p. 37, Tabela 14; P3 p. 13, Tabela 3"
+    obs: "P1 informa ≈1,2 kg/hab.dia (p. 7) e 0,97 kg/hab.dia com dados municipais de out–dez/2025 (p. 65) — ver E6-010."
+  - item: "Composição gravimétrica adotada"
+    valor: "51% orgânicos / 32% recicláveis / 17% outros (Tab. 3) — 51,4% / 31,9% / 16,7% nas Tabelas 10–15"
+    data_base: "PMSB 2022 (que adota PLANARES 2012)"
+    fonte: "P2 p. 37; P3 p. 13 e 21–26"
+    obs: "Não há caracterização gravimétrica local (ver E6-014)."
+  - item: "Geração diária de RSU"
+    valor: "421,6 t/dia (P2, sem fator de cobertura) / 413,2 t/dia (P3, 2027, cobertura 98%) → 473,4 t/dia (2056) — calculado"
+    data_base: "2027–2056"
+    fonte: "P2 p. 37–38; P3 p. 21 e 26, Tabelas 10 e 15"
+    obs: "RSU bruto P3: 150.809 t/ano (2027) → 172.796 t/ano (2056)."
+  - item: "RSU destinado a aterro após recuperação (P3/Caderno)"
+    valor: "146.617 t/ano (2027) → 148.442 (2040) → 152.588 t/ano (2056); soma 30 anos ≈ 4,52 milhões t (calculado)"
+    data_base: "2027–2056"
+    fonte: "P3 p. 26, Tabela 15; Caderno p. 12, Tabela 7"
+    obs: "P6 (p. 34–35, Tab. 5) usa resíduo 142.379 t (2027) → 146.289 t (2056) — divergência (E6-019)."
+  - item: "Taxa de recuperação total modelada"
+    valor: "P3: 2,8% (2027) → 11,7% (2040–2056) (calculado); P6: 5,59% → 15,34%; P2 (balanço ProteGEEr): 65,4% de desvio (34,6% a aterro)"
+    data_base: "2027–2056"
+    fonte: "P3 p. 20–26; P6 p. 34; P2 p. 37–38"
+    obs: "Meta 4 adotada (PMSB) = 35,1% em 2040 (P3 Tab. 8; Caderno Tab. 8; ANEXO-D Tab. 1) — ver E6-016/E6-017."
+  - item: "Metas adotadas (P3 Tabela 8)"
+    valor: "Cobertura 99% (2028) → 100%; Meta 4 16,3% → 35,1%; Meta 6 (PLANARES) 5,2% → 11,2%; Meta 6.1 56,8% → 100%; Meta 7 3% → 7,5%; Meta 8 23,9% → 63,4%; Meta 9 (térmico) 8,1% → 16,4%"
+    data_base: "2028/2032/2036/2040"
+    fonte: "P3 p. 18, Tabela 8"
+    obs: "Meta 6 ajustada (P3 Tab. 9): 1,60% (2027) → 7,84% (2040)."
+  - item: "Recicláveis recuperados (Meta 6) e orgânicos (Meta 7)"
+    valor: "Meta 6: 2.410 t/ano (2027) → 13.547 t/ano (2056); Meta 7: 1.783 t/ano (2027) → 6.661 t/ano (2056) (≈4,9 → 18,2 t/dia, calculado)"
+    data_base: "2027–2056"
+    fonte: "P3 p. 21, Tabela 10"
+    obs: "ANEXO-III (p. 24) prevê compostagem central de 30 t/dia inicial → 80–120 t/dia em M60."
+  - item: "Produção de CDR"
+    valor: "0,0 t/dia (balanço de massa); sem estimativa de PCI, umidade, cloro, comprador ou distância a cimenteira"
+    data_base: "—"
+    fonte: "P2 p. 38, Figura 18; P2 p. 40"
+    obs: "Edital item 3.1, viii, inclui processamento de CDR na CTR."
+  - item: "Balanço de massa ProteGEEr (exemplo)"
+    valor: "421,6 t/d; seletiva recicláveis 134,5; seletiva orgânicos 216,7; mistos 70,4; recuperados 167,4 (39,7%); evaporação 108,4 (25,7%); aterro 145,9 (34,6%); 142,7 m³/d; transbordo 5,8 t/d"
+    data_base: "Ferramenta Rotas e Custos v1.01, maio/2022"
+    fonte: "P2 p. 38, Figura 18 (renderizada)"
+    obs: "Inclui biodigestão anaeróbia de 216,7 t/d não prevista no projeto (E6-013)."
+  - item: "CAPEX total (P2)"
+    valor: "R$ 313.812.212 (30 anos)"
+    data_base: "não informada no P2 (edital fixa data-base maio/2026)"
+    fonte: "P2 p. 45, Tabela 15"
+    obs: "P6 p. 19–20: 'CAPEX projetado de R$ 298,3 milhões'. Diferença = CTR (E6-030)."
+  - item: "CAPEX por grupo (P2)"
+    valor: "Sede R$ 126.382.088; Alto/Médio Madeira R$ 29.619.116; Baixo Madeira R$ 20.618.448; CTR (CTR Municipal + Jirau) R$ 116.425.764; Incinerador R$ 1.805.000; Educação ambiental R$ 4.584.996; Passivo ambiental R$ 11.300.000; Estrutura administrativa R$ 3.076.800"
+    data_base: "não informada"
+    fonte: "P2 p. 43–45, Tabela 15"
+    obs: "Subtotais conferem com o total (diferenças de R$ 1 por arredondamento)."
+  - item: "CTR — construção civil"
+    valor: "P2: R$ 55.031.413 (27.515.707 Ano 2; 13.757.853 Ano 4; 13.757.853 Ano 8) × P6: R$ 39,6 mi (19,8/9,9/9,9)"
+    data_base: "não informada"
+    fonte: "P2 p. 44, item 4.1.1; P6 p. 39 (Tab. 7) e p. 47"
+    obs: "Divergência R$ 15,43 mi (E6-030)."
+  - item: "CTR — equipamentos (30 anos, P2)"
+    valor: "basculantes R$ 9.143.750; pipas R$ 10.049.706; retroescavadeiras R$ 6.085.800; trator de esteira R$ 10.800.000; pá carregadeira R$ 7.200.000"
+    data_base: "não informada"
+    fonte: "P2 p. 44"
+    obs: "Sem linhas para UVR, CDR, compostagem, balança, ETE/lixiviado, gases (E6-031)."
+  - item: "Aterro do Jirau"
+    valor: "Recuperação R$ 5.000.000 (Ano 2) + frota (basculantes R$ 7.575.238; pipa R$ 3.450.399; retro R$ 2.089.458)"
+    data_base: "não informada"
+    fonte: "P2 p. 44, itens 4.2.1–4.3.3"
+    obs: "Sem capacidade/vida útil remanescente (E6-027)."
+  - item: "Incinerador municipal (RSS)"
+    valor: "R$ 1.805.000 (Ano 2): recuperação/substituição R$ 1.500.000; CCO R$ 25.000; ampliação do sistema de tratamento R$ 280.000"
+    data_base: "não informada"
+    fonte: "P2 p. 44, item 5"
+    obs: "Edital prevê autoclave na CTR (E6-022)."
+  - item: "Passivo ambiental"
+    valor: "Lixeira Vila Princesa R$ 10.500.000 (1.050.000 Ano 2; 4.200.000 Ano 3; 5.250.000 Ano 4); Centro de Triagem R$ 800.000 (Ano 3); total R$ 11.300.000"
+    data_base: "não informada"
+    fonte: "P2 p. 45, item 7"
+    obs: "Valor funciona como teto do encargo da concessionária (Contrato cláusula 8.6.1.2) — E6-034."
+  - item: "Estações de transbordo"
+    valor: "Principal (Foz do Jamari): construção R$ 450.000 (Ano 1); 4 distritais: R$ 100.000 (R$ 25.000/unidade, calculado)"
+    data_base: "não informada"
+    fonte: "P2 p. 44, itens 3.3.1 e 3.1.8"
+    obs: "Ver E6-040 e E6-041."
+  - item: "Ecopontos"
+    valor: "R$ 2.550.000 (10 unidades no Ano 1 = R$ 300.000; 15 a cada ciclo = R$ 450.000; ≈ R$ 30.000/unidade, calculado)"
+    data_base: "não informada"
+    fonte: "P2 p. 43, item 1.4.1; P3 p. 44, Tabela 22"
+    obs: "Ver E6-047."
+  - item: "Frota inicial (Ano 1, P3 Tab. 22)"
+    valor: "Compactadores 15 m³ c/ lifter: 17 (Sede) + 1 (feiras) + 1 (AM/MM) = 19 (≈R$ 848.950/un.); poliguindastes 4; basculantes 12 m³ 2 (AM/MM) + 1 CTR + 1 Jirau (Ano 2); gaiolas 3; furgões RSS 3; balsa c/ guindaste 1; catamarã 20 HP 1; barcos alumínio 40 HP 4; quadriciclos 3; caçambas 5 m³ ≈ 56; contêineres 1,2/1,5 m³: 126 (Sede), 21 (AM/MM), 42 (BM)"
+    data_base: "—"
+    fonte: "P3 p. 44–48, Tabela 22; P2 p. 43–44"
+    obs: "Sede: 18 compactadores (2 reserva), 32 motoristas, 96 agentes (P3 p. 43)."
+  - item: "OPEX total 30 anos (P2)"
+    valor: "R$ 1.279.061.946; anual R$ 38.888.841 (Anos 1–2) → R$ 43.089.374 (Anos 5–30)"
+    data_base: "não informada"
+    fonte: "P2 p. 46, Tabela 16"
+    obs: "Linha-total rotulada 'TOTAL DE INVESTIMENTOS NO SISTEMA'."
+  - item: "OPEX por grupo (P2, 30 anos)"
+    valor: "Sede (mão de obra) R$ 446.284.755; AM/MM R$ 45.279.832; BM R$ 59.950.995; Instalações e outros R$ 438.661.364; Administração R$ 288.885.000"
+    data_base: "não informada"
+    fonte: "P2 p. 46"
+    obs: "Administração P2 R$ 9.629.500/ano × P6 Tab. 12 R$ 8.062 mil/ano (E6-037)."
+  - item: "OPEX — itens de instalações (anual)"
+    valor: "CTR e Jirau R$ 2.288.062 (Anos 3–30); demais instalações R$ 1.372.837; manutenção R$ 4.599.744 → 4.808.752; educação ambiental R$ 120.000; Ecoparque R$ 1.760.000 (Anos 1–2) e R$ 704.000 (Anos 3–4); combustíveis R$ 6.089.971 → 4.867.499; aluguéis/ferramentas R$ 1.177.124"
+    data_base: "não informada"
+    fonte: "P2 p. 46"
+    obs: "Ecoparque implica ≈ R$ 12,00/t nos Anos 1–2 (calculado: 1,76 mi / 146.617 t) — E6-054."
+  - item: "Soma média anual CAPEX + OPEX (P2)"
+    valor: "≈ R$ 53,1 mi/ano (calculado: (313,8 + 1.279,1)/30)"
+    data_base: "—"
+    fonte: "P2 Tabelas 15 e 16"
+    obs: "Contraprestação anual máxima do edital: R$ 78.068.375,62 (12 × R$ 6.505.697,97, data-base maio/2026 — Edital item 12.2.1, p. 31)."
+  - item: "Contraprestação por tonelada (referência)"
+    valor: "≈ R$ 499–521/t de RSU (calculado: 78,07 mi / 156.584 t brutas ou 149.930 t residuais, 2029)"
+    data_base: "maio/2026"
+    fonte: "Edital 12.2.1; P3 Tab. 10"
+    obs: "Nenhum benchmark R$/t ou custo atual é apresentado no P2/P3 (E6-059)."
+  - item: "CTR — área e localização"
+    valor: "≈ 200 mil m²; BR-364 km 10, em frente à Vila Princesa; 08°51'00,59\"S / 63°56'13,58\"O"
+    data_base: "—"
+    fonte: "P2 p. 36; P3 p. 38"
+    obs: "Sem capacidade volumétrica nem vida útil do aterro de rejeitos (E6-028)."
+  - item: "Cronograma de obras estruturantes"
+    valor: "ETR principal 100% Ano 1; CTR 50% Ano 2 / 25% Ano 4 / 25% Ano 8; Jirau 100% Ano 2; Incinerador 100% Ano 2; Vila Princesa 10% / 40% / 50% (Anos 2–4); Centro de Triagem 100% Ano 3"
+    data_base: "—"
+    fonte: "P2 Tabela 15; P3 Tabela 22; ANEXO-D p. 10, Tabela 3"
+    obs: "P6: Parcela A 100% a partir do Ano 3 e CTR em 'configuração plena a partir do Ano 4' (E6-032/E6-033)."
+  - item: "Distâncias logísticas"
+    valor: "Demarcação → CTR 193 km (83 terrestre + 94,98 Madeira + 24,50 Ji-Paraná = 202,48, calculado); Abunã → CTR 204 km; Nova Califórnia → Jirau 255 km (→ Ecoparque 355 km); ETR → CTR ≈105 km (texto)"
+    data_base: "—"
+    fonte: "P3 p. 33–35, Tabela 18; Caderno p. 23, Tabela 19"
+    obs: "Ver E6-045."
+  - item: "Logística fluvial — geração Baixo Madeira"
+    valor: "≈1.500–1.569 t/ano (≈131 t/mês); 4 distritos; variação de cota até 12 m"
+    data_base: "2027"
+    fonte: "P3 p. 25 e 36; P2 p. 21"
+    obs: "Frequência fluvial 2x/semana (P2 Tab. 4)."
+  - item: "Velocidade da esteira de triagem (UVR)"
+    valor: "12 m/min (velocidade ergométrica)"
+    data_base: "—"
+    fonte: "P2 p. 40"
+    obs: "Único parâmetro de dimensionamento da UVR; tornado vinculante pelo Contrato 10.3.2."
+  - item: "Receitas acessórias quantificadas no P3"
+    valor: "nenhuma (o P3 não contém valor monetário algum)"
+    data_base: "—"
+    fonte: "P3 pp. 49–52"
+    obs: "P6, P4 e ANEXO-III atribuem ao Caderno 3 estimativa de biogás de 4.851 kWh/dia inexistente no P3 (E6-061)."
+  - item: "Ressarcimento PMI"
+    valor: "R$ 3.142.250,00"
+    data_base: "—"
+    fonte: "Edital 21.1.1; Contrato 10.7.1 (p. 30)"
+    obs: "Não consta do CAPEX/OPEX do P2 (E6-039)."
+
+pontos:
+  # ======================= P2 — QUESTÕES FORMAIS =======================
+  - id: E6-001
+    documento: "P2"
+    dispositivo_editalicio: "P2, capa e cabeçalhos (PDF pp. 1, 38, 39, 41, 43, 47, 50)"
+    transcricao: "1ª VERSÃO: SÃO PAULO, 30 DE MARÇO DE 2026 / 1ª REVISÃO: SÃO PAULO, 02 DE MARÇO DE 2026 [...] PROPOSTA JOF 3314/2021 | PEZCO, RPG&REINFRA"
+    tipo_achado: IRREGULAR
+    categoria: erro_material
+    tema_sugerido: QUESTOES_FORMAIS
+    descricao_breve: "Datas de versão incoerentes e cabeçalho de proposta de 2021 de outro consórcio no P2"
+    comentario: "A 1ª revisão (02/03/2026) é datada antes da 1ª versão (30/03/2026), e há grafia 'SETEMRBO' na 3ª revisão. Diversas páginas (inclusive a do balanço de massa e a do CAPEX) trazem cabeçalho 'PROPOSTA JOF 3314/2021 | PEZCO, RPG&REINFRA', indicando reaproveitamento de modelo de outro trabalho. Como o EVTEA integra o contrato (Edital item 3.1, p. 13), a rastreabilidade das versões é relevante."
+    dispositivo_legal: "art. 5.º da Lei n.º 14.133/2021 (segurança jurídica e transparência), aplicável subsidiariamente"
+    referencias_cruzadas: ["ANEXO-A Caderno de Encargos p. 1 (mesmo cabeçalho JOF 3314/2021)", "Edital item 3.1 (p. 13) — EVTEA integra o Contrato"]
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E6-002
+    documento: "P2"
+    dispositivo_editalicio: "P2, Cap. VI, pp. 41–46 (Tabelas 15 e 16)"
+    transcricao: "Estimativas Paramétricas (CAPEX e OPEX): Consolidação dos investimentos em infraestrutura civil, equipamentos e frota, bem como das despesas de operação e manutenção ao longo do contrato."
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    tema_sugerido: MODELAGEM_ECONOMICA
+    descricao_breve: "CAPEX/OPEX sem data-base, sem fontes de preço e sem composições"
+    comentario: "O P2 não informa a data-base dos preços, as fontes (cotações, SINAPI/SICRO, contratos de referência) nem composições unitárias de CAPEX e OPEX; não há memória de cálculo de quantitativos. O Edital fixa data-base maio/2026 (item 12.3, p. 31), mas não é possível verificar se os valores do P2 (1ª versão de março/2026) estão nessa base. P6 também não declara data-base (busca textual sem resultado)."
+    dispositivo_legal: "art. 18, inciso IV, e art. 23 da Lei n.º 14.133/2021 (aplicação subsidiária); art. 11, caput, da Lei n.º 11.079/2004 c/c art. 18, inciso XV, da Lei n.º 8.987/1995"
+    referencias_cruzadas: ["Edital item 12.2.1 e 12.3 (p. 31)", "P6 (sem data-base)"]
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E6-003
+    documento: "P2"
+    dispositivo_editalicio: "P2, Cap. VI.1, p. 41; Tabela 16, p. 46"
+    transcricao: "o dimensionamento dos investimentos é estruturado em quatro naturezas principais [...] TOTAL DE INVESTIMENTOS NO SISTEMA 1.279.061.946 (Tabela 16 – Custos Operacionais)"
+    tipo_achado: IRREGULAR
+    categoria: erro_material
+    tema_sugerido: MODELAGEM_ECONOMICA
+    descricao_breve: "Erros de rotulagem e enumeração no capítulo de CAPEX/OPEX"
+    comentario: "O texto anuncia 'quatro naturezas' de investimento e lista apenas três. A linha-total da Tabela 16 (OPEX) é rotulada 'TOTAL DE INVESTIMENTOS NO SISTEMA', idêntica à da Tabela 15 (CAPEX). O índice (p. 4) chama as tabelas de 10 e 11, e o corpo de 15 e 16; numeração de figuras e tabelas também diverge (ex.: Figura 6 repetida; Tabela 7 citada como 'Tabela 7/8')."
+    dispositivo_legal: "não localizei fundamento normativo específico (erro material)"
+    referencias_cruzadas: ["P2 pp. 3–4 (índices)"]
+    flag_tecnico: false
+    flag_reserva: false
+
+  # ======================= P2/P3 — DEMANDA E BASE POPULACIONAL =======================
+  - id: E6-004
+    documento: "P2"
+    dispositivo_editalicio: "P2, Tabela 3 (p. 11) × Tabela 13 (pp. 21–22); P3 Tabelas 1, 2 e 4"
+    transcricao: "TOTAL ALTO MADEIRA 21.121 4% [...] TOTAL MEDIO MADEIRA 35.816 8% (IBGE 2022) × 2027: POP MM 38.415 / POP AM 29.013 (FESPSP ajustado)"
+    tipo_achado: IRREGULAR
+    categoria: erro_material
+    tema_sugerido: OBJETO_ESCOPO
+    descricao_breve: "Repartição populacional Alto × Médio Madeira incoerente entre tabelas"
+    comentario: "Na base IBGE 2022, o Alto Madeira representa 4,45% e o Médio Madeira 7,55% da população; na projeção FESPSP de 2027, as proporções passam a 5,16% e 6,83%, embora a soma AM+MM (11,99%) e a Sede (86,96%) se mantenham. Não há explicação para a inversão de pesos, que afeta o dimensionamento da rota Alto Madeira → Jirau. A Sede é classificada como região 'Médio Madeira' nas Tabelas 13 (P2) e 1/4 (P3)."
+    dispositivo_legal: "art. 10, inciso I, alínea 'a', da Lei n.º 11.079/2004 (estudo técnico)"
+    referencias_cruzadas: ["Caderno p. 12, Tabela 6", "P6 p. 35, Tabela 6"]
+    flag_tecnico: true
+    flag_reserva: false
+
+  - id: E6-005
+    documento: "P2/P3"
+    dispositivo_editalicio: "P2, Tabela 13 (pp. 21–22); P2 p. 12; P3 Tabela 4 (p. 14)"
+    transcricao: "Este projeto prevê a continuidade do atendimento dessas localidades com a inclusão de: Boa Vitória, Conceição da Galera, Pombal e Tira Fogo [...] ** Localidades incluídas no projeto"
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: omissao
+    tema_sugerido: OBJETO_ESCOPO
+    descricao_breve: "Novas localidades do Baixo Madeira incluídas sem população nem dimensionamento"
+    comentario: "As quatro localidades acrescidas 'por solicitação da Prefeitura' não têm população, geração, distância ou equipamentos atribuídos nas Tabelas 13 (P2), 19 (P3) ou 21 (Caderno). Não é possível verificar se a frota fluvial e as equipes do Baixo Madeira as contemplam."
+    dispositivo_legal: "art. 11, caput, da Lei n.º 11.079/2004 c/c art. 18, inciso I, da Lei n.º 8.987/1995"
+    referencias_cruzadas: ["Caderno p. 23–24, Tabela 21"]
+    flag_tecnico: true
+    flag_reserva: false
+    nota: "Falta: população/geração das quatro localidades e roteiro fluvial correspondente."
+
+  - id: E6-006
+    documento: "P2/P3"
+    dispositivo_editalicio: "P2 p. 24 × P3 p. 9–10 (Tabela 1)"
+    transcricao: "Dada a extensão de 34.091 km² de Porto Velho [P2] × o desafio da extensão territorial de 24.860 km² [P3]"
+    tipo_achado: IRREGULAR
+    categoria: erro_material
+    tema_sugerido: OBJETO_ESCOPO
+    descricao_breve: "Área territorial do Município divergente entre P2 e P3"
+    comentario: "P2 adota 34.091 km² e P3 24.860 km² (soma das áreas distritais da Tabela 1, que omite áreas de Vila da Penha, Rio Pardo e União Bandeirantes). A divergência afeta densidades e premissas logísticas citadas nos dois cadernos."
+    dispositivo_legal: "não localizei fundamento normativo específico (erro material)"
+    referencias_cruzadas: ["P3 Tabela 1 (área '-' para Rio Pardo e União Bandeirantes)"]
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E6-007
+    documento: "P2/P3"
+    dispositivo_editalicio: "P2 p. 13; P3 p. 13, Tabela 3 (item 10)"
+    transcricao: "A cobertura atual da coleta convencional no distrito-sede é estimada em aproximadamente 98% da população [P2] / ÍNDICE DE COBERTURA URBANA 98% PMSB 2022 [P3]"
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: contradicao
+    tema_sugerido: OBJETO_ESCOPO
+    descricao_breve: "Cobertura de coleta de 98% (PMSB 2022) diverge do SINISA 2024 citado no P1"
+    comentario: "P2/P3 adotam cobertura de 98% (Ano 1) com universalização em 2029, enquanto o P1 (p. 26, Tabela 3, SINISA 2024) registra coleta de RSU de 79,89%, urbana 86,28% e rural 0%. A diferença impacta população atendida, frota e massa nos primeiros anos e não é reconciliada."
+    dispositivo_legal: "art. 10, inciso I, alínea 'a', da Lei n.º 11.079/2004; art. 11, § 2.º, inciso II, da Lei n.º 11.445/2007 (metas de expansão)"
+    referencias_cruzadas: ["P1 p. 26, Tabela 3", "P6 p. 33, Tabela 3 (98% → 100%)"]
+    flag_tecnico: true
+    flag_reserva: false
+
+  - id: E6-008
+    documento: "P3"
+    dispositivo_editalicio: "P3, Sumário Executivo (p. 5) e II (p. 8); P0 p. 11"
+    transcricao: "A metodologia aplicada integra projeções econométricas baseadas em séries históricas da SEMUSB e análises de elasticidade da demanda [...] O estudo avalia a capacidade contributiva da população e o impacto da taxa de inadimplência"
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    tema_sugerido: MODELAGEM_ECONOMICA
+    descricao_breve: "Sumário do P3 anuncia análises (econometria, elasticidade, capacidade contributiva, inadimplência) inexistentes no corpo"
+    comentario: "O corpo do P3 apenas multiplica população projetada por per capita SINISA; não há série histórica de pesagens, econometria, elasticidade, capacidade contributiva, inadimplência ou 'base de faturamento'. Em concessão administrativa não há tarifa ao usuário; a referência a faturamento/inadimplência não tem correspondência no modelo. O P0 (p. 11) previa essa metodologia para o Caderno 3."
+    dispositivo_legal: "art. 10, inciso I, alínea 'a', da Lei n.º 11.079/2004; art. 29 da Lei n.º 11.445/2007 (sustentabilidade econômico-financeira dos serviços)"
+    referencias_cruzadas: ["P0 p. 10–11 (escopo do Caderno 3)", "P7 p. 25 (menção a taxa municipal)"]
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E6-009
+    documento: "P3"
+    dispositivo_editalicio: "P3 pp. 5, 6 e 52"
+    transcricao: "servindo de insumo direto para a Modelagem Econômico-Financeira (Caderno 5)"
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: omissao
+    tema_sugerido: RISCOS_GARANTIAS
+    descricao_breve: "P3 remete ao 'Caderno 5' como modelagem EF; P0 define Caderno 5 como avaliação da indenização ao operador, não publicado"
+    comentario: "Segundo o P0 (p. 11 e 18), o Caderno 5 é a 'Avaliação Econômico-financeira da Indenização' ao operador (investimentos, ativos e contraprestações, 'conforme decisão judicial'), e a modelagem EF é o Caderno 6. O Caderno 5 não integra o conjunto disponibilizado; o P3 o confunde com o modelo EF. Eventual indenização ao operador anterior pode repercutir no projeto e não é tratada nos estudos de engenharia."
+    dispositivo_legal: "art. 11, caput, da Lei n.º 11.079/2004 c/c art. 21 da Lei n.º 8.987/1995 (estudos à disposição dos interessados)"
+    referencias_cruzadas: ["P0 p. 11 (Caderno 5)", "P0 p. 18 (lista de 8 cadernos)"]
+    flag_tecnico: false
+    flag_reserva: false
+    nota: "Falta: Caderno 5 e a decisão judicial a que se refere."
+
+  - id: E6-010
+    documento: "P2/P3"
+    dispositivo_editalicio: "P2 Tabela 14 (p. 37); P3 Tabela 3 (p. 13) e IV.1 (p. 15)"
+    transcricao: "RSU - PER CAPITA (kg/hab.dia) 0,75 SINISA 2025"
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: contradicao
+    tema_sugerido: MODELAGEM_ECONOMICA
+    descricao_breve: "Per capita de 0,75 kg/hab.dia sem reconciliação com dados do P1 (≈1,2 e 0,97 kg/hab.dia)"
+    comentario: "P1 afirma geração 'aproximadamente 1,2 kg/hab.dia' (p. 7) e 0,97 kg/hab.dia com dados municipais de out–dez/2025 (p. 65); sua Tabela 3 traz RDO (0,84) maior que RSU (0,75). P2/P3 adotam 0,75 sem série histórica de pesagens. A projeção do P3 é a referência da banda de demanda de ±10% da Matriz de Riscos (TO-01), cujo rompimento enseja reequilíbrio."
+    dispositivo_legal: "art. 5.º, inciso III, da Lei n.º 11.079/2004 (repartição de riscos); art. 10, inciso I, alínea 'a', da Lei n.º 11.079/2004"
+    referencias_cruzadas: ["P1 p. 7, p. 26 (Tab. 3), p. 65", "ANEXO-V p. 3, risco TO-01 (banda ±10% sobre projeção do P3)"]
+    flag_tecnico: true
+    flag_reserva: true
+    nota: "Reserva: se a geração real superar a projeção do P3 em mais de 10% por 6 meses, a Matriz (TO-01) prevê reequilíbrio — assimetria potencialmente favorável à concessionária. Observação do extrator: 11.060 t/mês (P1, Sede) × 12 ≈ 132,7 mil t/ano, próximo da projeção da Sede para 2027 (131,2 mil t) com população FESPSP; a divergência parece estar no per capita declarado no P1."
+
+  - id: E6-011
+    documento: "P3"
+    dispositivo_editalicio: "P3 III.1 (p. 11–12); P0 p. 10–11"
+    transcricao: "Adotou-se o cenário de crescimento que reflete o dinamismo econômico regional — impulsionado pelo agronegócio e pelo terminal fluvial"
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: omissao
+    tema_sugerido: MODELAGEM_ECONOMICA
+    descricao_breve: "Projeção limitada a 30 anos, sem cenário para prorrogação (35 anos) nem para os 30 anos pós-reversão exigidos para o aterro"
+    comentario: "As projeções de população e massa terminam em 2056. O Contrato admite prorrogação até 35 anos e exige que o aterro tenha, na reversão, vida útil remanescente ≥ 30 anos 'considerada a projeção de geração e de aporte de rejeitos constante dos Anexos' (cláusula 10.13.5), projeção que não existe para o período pós-2056. Não há cenários alternativos (alto/baixo) de demanda."
+    dispositivo_legal: "art. 5.º, inciso I, da Lei n.º 11.079/2004 (prazo); art. 10, inciso I, alínea 'a', da Lei n.º 11.079/2004"
+    referencias_cruzadas: ["ANEXO-B cláusula 10.13.5 (p. 32)"]
+    flag_tecnico: true
+    flag_reserva: false
+
+  # ======================= P2 — BALANÇO DE MASSA E METAS =======================
+  - id: E6-012
+    documento: "P2"
+    dispositivo_editalicio: "P2 V.5.1, p. 37–38, Figura 18 (renderizada)"
+    transcricao: "das 421,6 ton/dia que entram no aterro, 167,4 ton poderão ser recuperadas pela triagem, 108,4 ton serão encaminhados à compostagem e 145,9 ton irão efetivamente para o aterro, o que representa 34,6% de todo material coletado."
+    tipo_achado: IRREGULAR
+    categoria: erro_material
+    tema_sugerido: MODELAGEM_ECONOMICA
+    descricao_breve: "Leitura incorreta do balanço de massa ProteGEEr no texto do P2"
+    comentario: "Na Figura 18, 167,4 t/d são 'materiais recuperados' (80,7 de triagem + 86,7 de composto), 108,4 t/d são 'evaporação' (perdas de processo) e 145,9 t/d vão a aterro; o texto lê 108,4 como 'encaminhados à compostagem' e trata 421,6 t/d como massa que 'entra no aterro'. Além disso, 167,4 t/d equivalem a 39,7% do total, acima da fração reciclável de 32% adotada, o que só fecha somando composto."
+    dispositivo_legal: "art. 10, inciso I, alínea 'a', da Lei n.º 11.079/2004"
+    referencias_cruzadas: ["P2 p. 38 (Figura 18)"]
+    flag_tecnico: true
+    flag_reserva: false
+
+  - id: E6-013
+    documento: "P2"
+    dispositivo_editalicio: "P2 V.5.1, p. 37–38, Figura 18"
+    transcricao: "Seletiva de recicláveis 134,5 / Seletiva de orgânicos 216,7 / Biodigestão anaeróbia 216,7 / Produção de CDR 0,0 [...] O Balanço de Massa apresentado é um exemplo"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    tema_sugerido: MODELAGEM_ECONOMICA
+    descricao_breve: "Balanço de massa ('exemplo') pressupõe 100% de coleta seletiva e biodigestão não previstas no projeto; desvio de 65% incompatível com P3/P6"
+    comentario: "O cenário ProteGEEr assume coleta seletiva de 100% dos recicláveis (134,5 t/d = 32%) e dos orgânicos (216,7 t/d = 51%), com biodigestão anaeróbia de 216,7 t/d, rota não adotada (P2 descreve compostagem só de feiras/podas). O desvio de aterro resultante (65,4%) é incompatível com o P3/Caderno (recuperação de 2,8% a 11,7%) e com o P6 (5,59% a 15,34%). O próprio P2 o qualifica como 'exemplo' a ser atualizado; não há balanço de massa do projeto efetivamente modelado (com UVR, compostagem, CDR, RSS e rejeitos)."
+    dispositivo_legal: "art. 10, inciso I, alínea 'a', da Lei n.º 11.079/2004; art. 9.º, caput, da Lei n.º 12.305/2010"
+    referencias_cruzadas: ["P3 p. 21 e 26 (Tabelas 10 e 15)", "P6 p. 34 (Tabela 4)", "Caderno II.2.2 (p. 13) — atualização obrigatória do balanço"]
+    flag_tecnico: true
+    flag_reserva: false
+
+  - id: E6-014
+    documento: "P2/P3"
+    dispositivo_editalicio: "P2 II.2 (p. 8) e p. 37; P3 p. 13 (Figura 4)"
+    transcricao: "foi utilizado como base o PMSB,2022 que adota as informações do Plano Nacional de Resíduos Sólidos (PLANARES,2012) onde se tem uma fração de 51% para resíduos orgânicos, 32% para resíduos recicláveis secos e 17% outros"
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: omissao
+    tema_sugerido: OBJETO_ESCOPO
+    descricao_breve: "Ausência de caracterização gravimétrica local; composição é média nacional de 2012"
+    comentario: "O P2 anuncia como dado primário a 'Elaboração do Balanço de Massa com composição gravimétrica apresentada no PMSB', mas a composição do PMSB reproduz o PLANARES 2012 (média nacional). Toda a modelagem de UVR, compostagem, CDR e receitas depende dessa composição, e a Matriz de Riscos (TO-01) a usa como base da banda de demanda."
+    dispositivo_legal: "art. 10, inciso I, alínea 'a', da Lei n.º 11.079/2004; art. 19, inciso I, da Lei n.º 12.305/2010 (diagnóstico com origem, volume e caracterização dos resíduos)"
+    referencias_cruzadas: ["ANEXO-V TO-01 (p. 3)", "ANEXO-III PA-02 (≥4 campanhas gravimétricas/ano)"]
+    flag_tecnico: true
+    flag_reserva: false
+    nota: "Falta: campanha gravimétrica local (NBR 10.007)."
+
+  - id: E6-015
+    documento: "P3"
+    dispositivo_editalicio: "P3 IV.3 (pp. 19–20): fórmulas das Metas 6 e 7; Tabela 9"
+    transcricao: "META 6, ajustada = (META 6.1 x 0,60 + 10%) x META PLANARES [...] META 7 = META PLANARES x [51% do RSU]"
+    tipo_achado: IRREGULAR
+    categoria: erro_material
+    tema_sugerido: MODELAGEM_ECONOMICA
+    descricao_breve: "Metodologia de cálculo das metas de recuperação aplica fatores sobre indicadores que já são % da massa total"
+    comentario: "Os indicadores 6 e 7 do PLANARES já são percentuais da massa total de RSU; o P3 os multiplica por (cobertura seletiva × 0,6 + 10%) e por 51%, reduzindo-os (ex.: Meta 7 de 7,5% vira 3,85% do RSU). O fator 'triagem mecanizada 10% de todo resíduo' entra multiplicando a meta, sem relação com capacidade de triagem. O P6 aplica outra fórmula (Meta 6 × 70% + Meta 7), sobre os mesmos indicadores."
+    dispositivo_legal: "art. 10, inciso I, alínea 'a', da Lei n.º 11.079/2004"
+    referencias_cruzadas: ["P6 p. 34 (Tabela 4)", "Caderno p. 12–13 (Tabela 8)", "ANEXO-D p. 8 (Tabela 1)"]
+    flag_tecnico: true
+    flag_reserva: false
+
+  - id: E6-016
+    documento: "P3"
+    dispositivo_editalicio: "P3 Tabela 8 (p. 18) e p. 19; Caderno Tabela 8 (p. 12–13); ANEXO-D Tabela 1 (p. 8)"
+    transcricao: "REDUÇÃO DE RESIDUOS 4 [...] 16,3% 22,6% 29% 35,1% [...] APROVEITAMENTO ENERGÉTICO POR TRATAMENTO TÉRMICO 9 [...] 8,1% 10,9% 13,6% 16,4% × essa tecnologia não integrará o escopo de metas obrigatórias deste projeto"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    tema_sugerido: OBJETO_ESCOPO
+    descricao_breve: "Meta 4 adotada (35,1% em 2040) inclui tratamento térmico excluído do escopo e é inatingível pelas rotas modeladas"
+    comentario: "A Meta 4 adotada (PMSB) é composta por Meta 6 + Meta 7 + Meta 9 (térmico 16,4%), mas o P3 exclui o tratamento térmico das metas obrigatórias. A recuperação efetivamente projetada pelo P3 é 11,7% (2040) e pelo P6 15,34%; a Meta 4 de 35,1% é reproduzida como meta de referência no Caderno e no ANEXO-D, que vincula a 'Taxa de desvio do aterro' (TO-10) a metas da ARDPV. No Caderno/ANEXO-D a soma não fecha (2,29% + 3,0% + 8,1% ≠ 16,3% em 2028), pois a Meta 9 foi derivada com a Meta 6 não ajustada (5,2%)."
+    dispositivo_legal: "art. 5.º da Lei n.º 14.133/2021 (vinculação e segurança jurídica); art. 11, caput, da Lei n.º 11.079/2004 c/c art. 18, inciso I, da Lei n.º 8.987/1995 (objeto e metas)"
+    referencias_cruzadas: ["ANEXO-D p. 9, TO-10", "Caderno p. 12–13 (Tabela 8)", "P6 p. 34"]
+    flag_tecnico: true
+    flag_reserva: false
+
+  - id: E6-017
+    documento: "P3"
+    dispositivo_editalicio: "P3 Tabelas 6, 7 e 15 (pp. 17 e 26)"
+    transcricao: "TABELA 7 – METAS PMSB [...] REDUÇÃO DE RESIDUOS 4 16,3% 22,6% 29% 35,1%"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    tema_sugerido: OBJETO_ESCOPO
+    descricao_breve: "Recuperação modelada (≤11,7% P3; ≤15,34% P6) inferior às metas do PMSB (35,1%) e do PLANARES-Norte (26,2%)"
+    comentario: "O PMSB (LC Municipal 839/2021) fixa índice de recuperação de resíduos de 35,1% em 2040 e cobertura de coleta seletiva de 100%; o PLANARES-Norte, 26,2%. A trajetória efetivamente dimensionada nos estudos fica abaixo de ambos, sem justificativa de compatibilização com o plano municipal."
+    dispositivo_legal: "art. 11, inciso I, e § 2.º, inciso II, da Lei n.º 11.445/2007; art. 19, inciso XIV, da Lei n.º 12.305/2010; art. 9.º, caput, da Lei n.º 12.305/2010"
+    referencias_cruzadas: ["P2 p. 10 (LC 839/2021)", "P6 p. 34 (Tabela 4)"]
+    flag_tecnico: true
+    flag_reserva: false
+
+  - id: E6-018
+    documento: "P3"
+    dispositivo_editalicio: "P3 Tabela 15 (p. 26), ano 2037"
+    transcricao: "11 2037 603.297 165.153 147.536 17.616 152.435 136.176 16.260 78.352 48.627 25.457"
+    tipo_achado: IRREGULAR
+    categoria: erro_material
+    tema_sugerido: MODELAGEM_ECONOMICA
+    descricao_breve: "Erro aritmético na massa residual de 2037 (≈ +3.299 t)"
+    comentario: "Aplicando as metas da Tabela 9 (Meta 6 = 6,46%; Meta 7 = 6,30% × 51,4%), o RSU após recuperação em 2037 é ≈149.136 t, não 152.435 t; todos os demais anos conferem com diferença ≤ 8 t (recalculado pelo extrator). O valor de 2037 rompe a série (2036: 149.838; 2038: 149.654)."
+    dispositivo_legal: "não localizei fundamento normativo específico (erro material)"
+    referencias_cruzadas: ["P3 Tabela 9 (p. 20)"]
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E6-019
+    documento: "P3"
+    dispositivo_editalicio: "P3 Tabela 10 (p. 21) × P6 Tabelas 4 e 5 (pp. 34–35)"
+    transcricao: "2027 [...] 2.410 [Meta 6] [...] 1.783 [Meta 7] [...] 146.617 [RSU após recuperação] × P6: 2027 150.809 8.430 142.379"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    tema_sugerido: MODELAGEM_ECONOMICA
+    descricao_breve: "Massa recuperada e residual do P3 (fonte declarada) diverge da usada no P6"
+    comentario: "O P6 cita o P3 como fonte da projeção, mas usa volume recuperado de 8.430 t (2027) e 26.507 t (2056) e resíduo de 142.379 t e 146.289 t; o P3 calcula 4.193 t e 20.208 t recuperados e 146.617 t e 152.588 t residuais. A divergência afeta vida útil do aterro, OPEX de disposição, receitas acessórias e a linha de base da banda de demanda (TO-01 refere-se à 'projeção do P3')."
+    dispositivo_legal: "art. 5.º da Lei n.º 14.133/2021; art. 5.º, inciso III, da Lei n.º 11.079/2004"
+    referencias_cruzadas: ["Caderno p. 12 (Tabela 7 = P3)", "ANEXO-V TO-01 (p. 3)"]
+    flag_tecnico: true
+    flag_reserva: false
+
+  - id: E6-020
+    documento: "P3"
+    dispositivo_editalicio: "P3 Tabelas 13 e 14 (pp. 24–25); Tabela 9 (p. 20); Tabelas 3 × 10–15; p. 19"
+    transcricao: "AM 2027: 4.001 2.218 139 [Orgânico/Reciclável/Outros] / BM 2027: 1.526 1.363 1.363 [RSU/RDO/RLU] / 2035 9,20% / 2036 9,20% / até 2024"
+    tipo_achado: IRREGULAR
+    categoria: erro_material
+    tema_sugerido: MODELAGEM_ECONOMICA
+    descricao_breve: "Erros materiais diversos nas tabelas de projeção do P3"
+    comentario: "Tabela 13 (Alto Madeira): coluna 'Outros' com 139 t, quando 16,7% de 7.784 t ≈ 1.300 t (frações não somam o RSU). Tabela 14 (Baixo Madeira): coluna RLU replica o RDO (1.363 = 1.363). Tabela 9: projeção PLANARES de 2035 (9,20%) igual à de 2036, rompendo a progressão de 0,5 p.p./ano. Composição 51/32/17 (Tab. 3) × 51,4/31,9/16,7 (Tabs. 10–15). Texto (p. 19) diz meta de 20% 'até 2024' (seria 2040)."
+    dispositivo_legal: "não localizei fundamento normativo específico (erro material)"
+    referencias_cruzadas: ["P3 pp. 13, 19–25"]
+    flag_tecnico: false
+    flag_reserva: false
+
+  # ======================= P2 — ROTAS TECNOLÓGICAS / TRATAMENTO =======================
+  - id: E6-021
+    documento: "P2/P3"
+    dispositivo_editalicio: "P2 Cap. V (pp. 29–40); P3 IV.3 (p. 19); P0 p. 10"
+    transcricao: "a viabilidade econômica de usinas de tratamento térmico com recuperação energética (Waste-to-Energy - WTE) no Brasil exige um fluxo mínimo de 300 a 350 toneladas de RSU por dia [...] essa tecnologia não integrará o escopo de metas obrigatórias deste projeto"
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    tema_sugerido: OBJETO_ESCOPO
+    descricao_breve: "Ausência de avaliação comparativa de rotas tecnológicas (alternativas, custos, critérios)"
+    comentario: "O capítulo 'Avaliação de rotas tecnológicas' descreve rotas regionais, mas não compara alternativas (TMB, biodigestão, CDR, WtE, aterro simples) com custos, massas e critérios; biodigestão é apenas descrita. O P3 descarta WtE citando limiar de 300–350 t/dia (Brito & Silva, 2012, Bauru), embora a geração projetada (≈413–473 t/dia) supere esse limiar, sem outra justificativa. O P0 previa 'Avaliação comparativa de soluções tecnológicas e logísticas' para o Caderno 2."
+    dispositivo_legal: "art. 18, § 1.º, inciso V, da Lei n.º 14.133/2021 (aplicação subsidiária); art. 10, inciso I, alínea 'a', da Lei n.º 11.079/2004; art. 9.º, caput e § 1.º, da Lei n.º 12.305/2010"
+    referencias_cruzadas: ["P0 p. 10 (escopo Caderno 2)", "P3 p. 52 (recomenda estudos adicionais de rotas)"]
+    flag_tecnico: true
+    flag_reserva: false
+
+  - id: E6-022
+    documento: "P2"
+    dispositivo_editalicio: "P2 Sumário (p. 5), IV.2.3 (p. 27), V.4 (p. 35), VI.1 (p. 41) e Tabela 15 item 5 (p. 44)"
+    transcricao: "reativação e modernização do tratamento de Resíduos de Serviços de Saúde (RSS) via incineração [p. 5] × autoclaves para o tratamento de de Resíduos de Serviços de Saúde (RSS) [p. 41]"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    tema_sugerido: OBJETO_ESCOPO
+    descricao_breve: "Rota de tratamento de RSS: incinerador municipal (P2/Contrato 10.3.10) × autoclave na CTR (P2 VI.1, Edital 3.1 viii, Contrato 8.8 iii, ANEXO-III)"
+    comentario: "O P2 adota a reativação do incinerador municipal (rotas, CAPEX R$ 1,805 mi), mas no texto de CAPEX/OPEX menciona 'autoclaves'. O Edital (item 3.1, viii) lista 'autoclave para RSS' como componente da CTR; o Contrato prevê incinerador (10.3.10) e, em 8.8 (iii), 'unidade de tratamento térmico ou autoclave da CTR'; ANEXO-III e P4 descrevem a CTR com autoclave. Não há CAPEX de autoclave; pela regra do Edital 2.11.2, anexos prevalecem sobre o EVTEA."
+    dispositivo_legal: "art. 5.º da Lei n.º 14.133/2021; art. 11, caput, da Lei n.º 11.079/2004 c/c art. 18, inciso I, da Lei n.º 8.987/1995; Resolução CONAMA n.º 358/2005; Resolução CONAMA n.º 316/2002 (tratamento térmico)"
+    referencias_cruzadas: ["Edital item 3.1, viii (p. 13) e 1.1.9 (p. 7)", "ANEXO-B cláusulas 8.8 (iii) (p. 20) e 10.3.10 (p. 29)", "ANEXO-III p. 9", "Edital 2.11.2 (p. 12)"]
+    flag_tecnico: true
+    flag_reserva: false
+
+  - id: E6-023
+    documento: "P2/P3"
+    dispositivo_editalicio: "P2 V.4 (pp. 34–36), Tabela 15 item 5 (p. 44), Tabela 16 (p. 46); P3 IV.6.1 (pp. 31–33)"
+    transcricao: "5.1 RECUPERAÇÃO E SUBST. DE EQUIPAMENTOS 1.500.000 / 5.2 IMPLANTAÇÃO DE CCO 25.000 / 5.3 AMPLIAÇÃO DO SISTEMA DE TRATAMENTO 280.000"
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    tema_sugerido: MODELAGEM_ECONOMICA
+    descricao_breve: "RSS sem estimativa de geração, capacidade do incinerador, OPEX de tratamento e custo da destinação transitória"
+    comentario: "Não há estimativa de geração de RSS (t/dia), capacidade do incinerador nem inventário que sustente R$ 1,5 mi de recuperação (o P1, p. 88–89, registra balança e elevador retirados, software inativo e teto avariado, e recomenda 'levantamento completo'). O OPEX só contém equipes de coleta de RSS; não há custo de operação do incinerador (combustível, tratamento de gases, monitoramento) nem da destinação a terceiro licenciado até a LO, obrigatória pelo Contrato 10.3.10.1."
+    dispositivo_legal: "art. 18, inciso IV, da Lei n.º 14.133/2021 (aplicação subsidiária); art. 10, inciso I, alínea 'a', da Lei n.º 11.079/2004; RDC ANVISA n.º 222/2018"
+    referencias_cruzadas: ["P1 pp. 88–89", "ANEXO-B 10.3.10.1 a 10.3.10.4 (p. 29)", "ANEXO-D TO-14"]
+    flag_tecnico: true
+    flag_reserva: false
+
+  - id: E6-024
+    documento: "P2"
+    dispositivo_editalicio: "P2 V.6, p. 40 (Processamento de CDR); Figura 18 (p. 38)"
+    transcricao: "Os rejeitos com potencial energético serão encaminhados para a produção de Combustível Derivado de Resíduos (CDR). O processo envolve trituração final para ajuste de granulometria, uso de separadores óticos para remoção de PVC (cloro) e prensagem para otimizar o transporte até indústrias cimenteiras (coprocessamento)."
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    tema_sugerido: OBJETO_ESCOPO
+    descricao_breve: "CDR obrigatório no Edital, condicional no Caderno, descrito no P2 sem CAPEX, OPEX, massa, especificação ou mercado"
+    comentario: "O Edital (3.1, viii) inclui 'processamento de CDR' na CTR; o Caderno (Tabs. 23–24) o condiciona a viabilidade, licenciamento e mercado; o P3 exclui rotas térmicas das metas. O P2 descreve linha com trituração, separadores ópticos e prensa, mas não há CAPEX/OPEX, o balanço de massa registra CDR = 0,0 t/d, e não há PCI, umidade, teor de cloro, produção (t/dia), comprador identificado ou distância a cimenteiras. Exigência de separação óptica de PVC sem previsão de equipamento repete o padrão Marília ponto 15."
+    dispositivo_legal: "art. 9.º, § 1.º, da Lei n.º 12.305/2010 (recuperação energética condicionada à viabilidade técnica e ambiental); art. 5.º da Lei n.º 14.133/2021; art. 18, § 1.º, inciso V, da Lei n.º 14.133/2021"
+    referencias_cruzadas: ["Edital item 3.1, viii (p. 13)", "Caderno p. 26–27 (Tabelas 23 e 24)", "P3 p. 19", "P2 p. 38 (Figura 18)"]
+    flag_tecnico: true
+    flag_reserva: false
+    nota: "Falta: estudo de mercado de CDR (cimenteiras na região, distância, preço/custo de coprocessamento)."
+
+  - id: E6-025
+    documento: "P2"
+    dispositivo_editalicio: "P2 Figuras 12, 13, 15, 16, 17 (pp. 32–36)"
+    transcricao: "FIGURA 15 – ROTA TECNOLÓGICA SEDE E MÉDIO MADEIRA: Coleta RDO → Transporte → Aterro Sanitário CTR Porto Velho → Materiais Recicláveis / Rejeito → Disposição Final"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    tema_sugerido: OBJETO_ESCOPO
+    descricao_breve: "Diagramas das rotas tecnológicas omitem compostagem, CDR e triagem mecanizada de RSU misto"
+    comentario: "As rotas (renderizadas) levam o RDO direto ao aterro, de onde sairiam recicláveis para cooperativas; não aparecem pátio de compostagem, CDR, UVR mecanizada nem autoclave; o RSS é tratado por 'Unidade de Tratamento dos Resíduos (furgão)' ou '(bombonas)'. As mesmas figuras são reproduzidas como 'rotas referenciais' no Caderno (Figs. 8–10, pp. 28–29), em desacordo com o objeto do Edital 3.1, viii."
+    dispositivo_legal: "art. 5.º da Lei n.º 14.133/2021; art. 11, caput, da Lei n.º 11.079/2004 c/c art. 18, inciso I, da Lei n.º 8.987/1995"
+    referencias_cruzadas: ["Caderno V.3.1 (pp. 28–29)", "Edital item 3.1, viii (p. 13)"]
+    flag_tecnico: true
+    flag_reserva: false
+
+  # ======================= P2 — JIRAU =======================
+  - id: E6-026
+    documento: "P2"
+    dispositivo_editalicio: "P2 IV.2 (p. 24), IV.2.1 (p. 25), V.1 (pp. 30–32); Tabela 15 itens 4.2.1–4.3.3 (p. 44)"
+    transcricao: "O aterro de Jiráu passará por intervenção para recuperação do passivo ambiental, e poderá ser colocado em operação novamente para atendimento dos distritos do Alto Madeira."
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    tema_sugerido: OBJETO_ESCOPO
+    descricao_breve: "Função do Aterro do Jirau: destino operacional do Alto Madeira (P2/P6/ANEXO-D) × 'pós-encerramento' (Edital/Contrato 8.8 ii)"
+    comentario: "P2 (e P6, ANEXO-D Tab. 3 'Jirau – recuperação e ativação') modelam o Jirau como aterro em operação para o Alto Madeira desde o Ano 2, com frota própria. O Edital (3.1, vii) fala em 'recuperação, operação e monitoramento pós-encerramento ... após a sua disponibilização pelo Poder Concedente'; o Contrato 8.8 (ii) prevê 'programa de recuperação e de monitoramento pós-encerramento' por ≥20 anos, enquanto 8.6.2 trata da 'reativação ... para utilização como unidade de disposição' como condição a cargo do Poder Concedente. O próprio P2 usa 'poderá', sem definir."
+    dispositivo_legal: "art. 5.º da Lei n.º 14.133/2021; art. 11, caput, da Lei n.º 11.079/2004 c/c art. 18, inciso I, da Lei n.º 8.987/1995"
+    referencias_cruzadas: ["Edital item 3.1, vii (p. 13)", "ANEXO-B 8.6.2 e 8.8 (ii) (pp. 19–20)", "ANEXO-D p. 10, Tabela 3", "P6 pp. 47–48"]
+    flag_tecnico: true
+    flag_reserva: false
+
+  - id: E6-027
+    documento: "P2"
+    dispositivo_editalicio: "P2 Tabela 15, item 4.2.1 (p. 44); V.1 (p. 31)"
+    transcricao: "4.2.1 RECUPERAÇÃO 5.000.000 [...] Essa estratégia possibilita aumentar a vida útil do Aterro de Jirau"
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: risco_economico
+    tema_sugerido: RISCOS_GARANTIAS
+    descricao_breve: "Jirau: R$ 5 mi sem memória, sem capacidade/vida útil remanescente e dependente de disponibilização pelo Poder Concedente"
+    comentario: "Não há volume remanescente, vida útil, licença ou projeto que sustente a recuperação de R$ 5,0 mi; a única base citada é a Avaliação Preliminar (EcoRondônia, 2024), que aponta 5 áreas suspeitas. O P1 (p. 87) registra paralisação em 2025 por disputa entre Prefeitura, antiga operadora e concessionária atual; o modelo assume disponibilidade no Ano 2. Se o Jirau não for disponibilizado, o Alto Madeira seguiria à CTR (+100 a 120 km/viagem), sem cenário de custo nos estudos."
+    dispositivo_legal: "art. 5.º, inciso III, da Lei n.º 11.079/2004; Resolução CONAMA n.º 420/2009"
+    referencias_cruzadas: ["P1 p. 87", "ANEXO-B 8.6.2 (p. 19)", "ANEXO-V (risco Jirau, DMT 255–378 km)", "ANEXO-III p. 9"]
+    flag_tecnico: true
+    flag_reserva: false
+    nota: "Falta: levantamento topográfico/volumétrico do Jirau, situação de licença e cronograma de disponibilização pelo Poder Concedente."
+
+  # ======================= P2/P3 — CTR, ATERRO, UVR, COMPOSTAGEM =======================
+  - id: E6-028
+    documento: "P2/P3"
+    dispositivo_editalicio: "P2 V.5 (p. 36); P3 V (p. 38)"
+    transcricao: "será implantada em área já definida,com cerca de 200 mil m², localizada em frente à Vila Princesa"
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    tema_sugerido: MODELAGEM_ECONOMICA
+    descricao_breve: "Aterro de rejeitos da CTR sem capacidade volumétrica, células nem vida útil; incompatível com exigência contratual de 30 anos remanescentes"
+    comentario: "Os estudos não calculam volume disponível, número/fases de células, altura, densidade ou vida útil do aterro da CTR (área total de ~20 ha inclui UVR, compostagem e apoio). O Contrato 10.13.5 exige vida útil remanescente ≥ 30 anos na reversão, o que implica capacidade para ≈60 anos de rejeitos (≈4,5 mi t em 30 anos pela Tabela 15 do P3, calculado), sem correspondência no dimensionamento ou no CAPEX (R$ 55,0 mi no P2; R$ 39,6 mi no P6)."
+    dispositivo_legal: "art. 11, caput, da Lei n.º 11.079/2004 c/c art. 18, inciso XV, da Lei n.º 8.987/1995; art. 10, inciso I, alínea 'a', da Lei n.º 11.079/2004"
+    referencias_cruzadas: ["ANEXO-B 10.13.5 a 10.13.5.3 (p. 32)", "P3 Tabela 15 (p. 26)"]
+    flag_tecnico: true
+    flag_reserva: false
+
+  - id: E6-029
+    documento: "P2/P3"
+    dispositivo_editalicio: "P2 V.5 (p. 36) e III.2.3.1 (p. 13); P3 V (p. 38–39)"
+    transcricao: "A Central de Tratamento e Disposição de Resíduos de Porto Velho – CTR Porto Velho será implantada em frente ao atual Central de Triagem de Recicláveis na Vila Princesa [...] As coordenadas geográficas do local [...] são Latitude: 08°51'00,59\" S e Longitude: 63°56'13,58\" O."
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    tema_sugerido: RISCOS_GARANTIAS
+    descricao_breve: "Sítio da CTR definido pelos estudos (área municipal) × Contrato 10.13: concessionária deve 'prover' o aterro, inclusive por aquisição de aterro existente, por sua conta e risco"
+    comentario: "P2/P3 tratam a área da CTR como 'já definida' com layout da PMPV, sem custo de terreno no CAPEX. O Contrato 10.13/10.13.1 atribui à concessionária prover o aterro na Sede por qualquer forma (novo, compra de aterro licenciado existente ou de participação societária), alocando-lhe o risco de 'indisponibilidade de área' e de licenciamento. O P1 (p. 84) registra que o projeto da CTR municipal 'por entraves institucionais e jurídicos, até o momento não pode ser implantado'; o ANEXO-III (p. 17) aponta APP de igarapé adjacente."
+    dispositivo_legal: "art. 5.º, inciso III, da Lei n.º 11.079/2004; art. 9.º, inciso I, alínea 'a', da Lei n.º 14.133/2021 (competitividade); art. 10, inciso VII, da Lei n.º 11.079/2004"
+    referencias_cruzadas: ["ANEXO-B 10.13 a 10.13.3 (pp. 31–32)", "P1 p. 84", "ANEXO-III p. 9 e p. 17", "P1 p. 85 (Ecoparque: LAI EcoRondônia; LAO CTR PORTO VELHO S/A)"]
+    flag_tecnico: true
+    flag_reserva: true
+    nota: "Reserva/decisão comercial: a opção de 'aquisição de aterro existente e licenciado' na Sede favorece quem detenha ou possa adquirir aterro licenciado local (o único identificado nos estudos é o Ecoparque, LAO em nome de CTR PORTO VELHO S/A; LAI da EcoRondônia Ambiental S/A, 'Grupo Marquise' segundo P1 p. 88). Para licitante sem aterro local, o ponto é de impugnação; a decisão é do advogado."
+
+  - id: E6-030
+    documento: "P2"
+    dispositivo_editalicio: "P2 Tabela 15, item 4.1.1 (p. 44) × P6 Tabela 7 (p. 39) e p. 47; P6 p. 19–20"
+    transcricao: "4.1.1 CONSTRUÇÃO 27.515.707 [Ano 2] 13.757.853 [Ano 4] 13.757.853 [Ano 8] 55.031.413 × P6: CAPEX total de construção civil de R$ 39,6 milhões"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    tema_sugerido: MODELAGEM_ECONOMICA
+    descricao_breve: "Custo de construção da CTR: R$ 55,03 mi (P2) × R$ 39,6 mi (P6); CAPEX total R$ 313,8 mi × R$ 298,3 mi"
+    comentario: "O P6 declara usar o CAPEX do Caderno 2, mas adota R$ 19,8/9,9/9,9 mi para a CTR (R$ 39,6 mi), contra R$ 27,5/13,8/13,8 mi no P2. A diferença (R$ 15,43 mi) explica exatamente a divergência entre o CAPEX total do P2 (R$ 313.812.212) e o do P6 ('R$ 298,3 milhões'). Como o EVTEA integra o Contrato e define o escopo de investimento (Edital 3.1), há dois valores de referência para o principal investimento."
+    dispositivo_legal: "art. 5.º da Lei n.º 14.133/2021; art. 10, inciso I, alínea 'a', da Lei n.º 11.079/2004; art. 18, inciso IV, da Lei n.º 14.133/2021"
+    referencias_cruzadas: ["P6 p. 35 e p. 39 (Tab. 7)", "P6 p. 47 ('≈35% do Capex dos 5 primeiros anos')", "Edital item 3.1 (p. 13)"]
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E6-031
+    documento: "P2"
+    dispositivo_editalicio: "P2 Tabela 15, grupo 4 (p. 44); V.5 (p. 36); VI.1 (p. 41)"
+    transcricao: "Na área do CTR Porto Velho deverão ser construídas, além do aterro sanitário de resíduos urbanos, as estruturas de apoio como guarita, balança, dispositivo de triagem mecanizada, pátio de compostagem, oficinas, refeitório, centro de treinamento, entre outros."
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    tema_sugerido: MODELAGEM_ECONOMICA
+    descricao_breve: "CAPEX da CTR em verba única, sem itens de UVR, CDR, compostagem, balança, ETE/lixiviado e gases"
+    comentario: "A CTR tem uma única linha 'Construção' (R$ 55,0 mi) mais frota de terraplenagem; não há itens para esteiras, separadores ópticos/magnéticos, prensas e enfardadeiras da UVR, linha de CDR, pátio e equipamentos de compostagem, balança, estação de tratamento de lixiviado, drenagem/queima de gases e impermeabilização de células, todos exigidos no Caderno (Tabs. 23 e 28) e listados no P3 (p. 38). O Edital (3.1) restringe as obrigações de investimento às 'especificadas, quantificadas, localizadas e cronogramadas' nos anexos e no EVTEA."
+    dispositivo_legal: "art. 11, caput, da Lei n.º 11.079/2004 c/c art. 18, inciso XV, da Lei n.º 8.987/1995; art. 18, inciso IV, da Lei n.º 14.133/2021"
+    referencias_cruzadas: ["Caderno p. 26–27 (Tab. 23) e p. 33 (Tab. 28)", "P3 p. 38", "Edital item 3.1 (p. 13)"]
+    flag_tecnico: true
+    flag_reserva: false
+
+  - id: E6-032
+    documento: "P2"
+    dispositivo_editalicio: "P2 Tabela 15 (pp. 43–45); Tabela 16 item 4.5 (p. 46); ANEXO-D Tabela 3 (p. 10)"
+    transcricao: "CTR 50% [Ano 2] 25% [Ano 4] 25% [Ano 8] / 4.5 ATERRO ECOPARQUE 1.760.000 1.760.000 704.000 704.000"
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: risco_economico
+    tema_sugerido: LICENCIAMENTO_AMBIENTAL
+    descricao_breve: "Cronograma da CTR (obras no Ano 2, recebendo resíduos no Ano 3) sem cronograma de licenciamento"
+    comentario: "O P2 prevê 50% da obra no Ano 2 e reduz a disposição no Ecoparque a partir do Ano 3, o que pressupõe LP, LI e LO de aterro novo em ~12–24 meses; não há cronograma de licenciamento, de projetos ou de eventual EIA/RIMA. O P6 (p. 50) fala em 'configuração plena a partir do Ano 4', enquanto a 3ª fase (25%) ocorre no Ano 8. O risco de licenciamento do aterro é alocado à concessionária (Contrato 10.13.1.1)."
+    dispositivo_legal: "art. 10, inciso VII, da Lei n.º 11.079/2004; Resolução CONAMA n.º 237/1997, art. 8.º"
+    referencias_cruzadas: ["P6 p. 46 e p. 50", "ANEXO-B 8.1 (p. 17) e 10.13.1.1 (p. 31)"]
+    flag_tecnico: true
+    flag_reserva: false
+    nota: "Falta: estado do licenciamento da área (P2/P3 citam 'Relatório de Ratificação do Licenciamento Ambiental da CTR', SEMPOG 2024, não disponibilizado)."
+
+  - id: E6-033
+    documento: "P2"
+    dispositivo_editalicio: "P2 Tabela 15, item 4.1.1 (CTR 25% no Ano 8) × P6 p. 46–48 (ramp-up Parcela A)"
+    transcricao: "Parcela A, vinculada ao CAPEX, possui um ramp-up de 60% no 1° ano; 80% no 2° ano e 100% no terceiro ano, no qual se espera ter o Aterro do Jirau e a CTR Municipal em condições de operação [P6]"
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: risco_economico
+    tema_sugerido: REMUNERACAO_REAJUSTE
+    descricao_breve: "Parcela A integral a partir do Ano 3 com 50% da CTR por construir (Anos 4 e 8)"
+    comentario: "Pelo cronograma do P2/ANEXO-D, 25% da CTR são executados no Ano 4 e 25% no Ano 8, mas o P6 prevê Parcela A a 100% a partir do Ano 3. O Caderno (XI.6) vincula o ramp-up a marcos (transbordos, sistemas, 'operação plena') sem marco específico da CTR. Há descompasso entre disponibilização do ativo e remuneração."
+    dispositivo_legal: "art. 7.º, caput e § 1.º, da Lei n.º 11.079/2004"
+    referencias_cruzadas: ["Caderno XI.6 (p. 63)", "ANEXO-D p. 10 (Tab. 3)", "P6 p. 46 (Tab. 14)"]
+    flag_tecnico: false
+    flag_reserva: true
+    nota: "Reserva: antecipação de remuneração em relação ao investimento é favorável à concessionária."
+
+  - id: E6-034
+    documento: "P2"
+    dispositivo_editalicio: "P2 Tabela 15, itens 7.1.1 e 7.2.1 (p. 45)"
+    transcricao: "7.1.1 ELIMINAÇÃO DO PASSIVO AMBIENTAL 1.050.000 4.200.000 5.250.000 10.500.000 / 7.2.1 [Centro de Triagem] ELIMINAÇÃO DO PASSIVO AMBIENTAL 800.000"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    tema_sugerido: RISCOS_GARANTIAS
+    descricao_breve: "Teto contratual do encargo GAC da Vila Princesa remete a valor do EVTEA ambíguo (R$ 10,5 mi × R$ 11,3 mi; anos 1–3 × 2–4; sem data-base)"
+    comentario: "O Contrato 8.6.1.2 limita o encargo da concessionária ao 'investimento previsto para o encerramento da antiga Lixeira de Vila Princesa na modelagem ... inclusive o EVTEA'. O P2 traz R$ 10,5 mi para a Lixeira e R$ 0,8 mi para o 'Centro de Triagem' (grupo 'Passivo Ambiental' de R$ 11,3 mi), nos Anos 2–4; o P6 descreve R$ 4,2 mi no Ano 2. Não há data-base nem critério de atualização do teto."
+    dispositivo_legal: "art. 5.º, inciso III, da Lei n.º 11.079/2004 (repartição objetiva de riscos)"
+    referencias_cruzadas: ["ANEXO-B 8.6.1.2 a 8.6.1.2.4 (pp. 18–19)", "P6 p. 35", "ANEXO-D p. 10 (Tab. 3)"]
+    flag_tecnico: false
+    flag_reserva: true
+    nota: "Reserva: o teto transfere ao Poder Concedente o excedente de remediação; cláusula pró-concessionária que a impugnação poderia afetar."
+
+  - id: E6-035
+    documento: "P2"
+    dispositivo_editalicio: "P2 Tabela 15, item 7.1.1 (p. 45); referências (p. 49)"
+    transcricao: "PORTO VELHO (RO). Avaliação Preliminar de Passivo Ambiental Lixão da Vila Princesa. [...] 2024. Elaborado por EcoRondônia Ambiental S/A."
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: risco_economico
+    tema_sugerido: LICENCIAMENTO_AMBIENTAL
+    descricao_breve: "Custo de remediação da Vila Princesa (R$ 10,5 mi) sem investigação confirmatória/detalhada nem memória de cálculo"
+    comentario: "O rito GAC está apenas na etapa de Avaliação Preliminar; não há investigação confirmatória, detalhada nem avaliação de risco que sustentem o valor de R$ 10,5 mi, nem decomposição por etapa (cercamento, investigação, intervenção, monitoramento). O valor funciona como teto do encargo (E6-034)."
+    dispositivo_legal: "Resolução CONAMA n.º 420/2009 (gerenciamento de áreas contaminadas); art. 10, inciso VII, da Lei n.º 11.079/2004"
+    referencias_cruzadas: ["ANEXO-III Tab. 11 (p. 19) PA-01", "ANEXO-V (Vila Princesa: 'Apenas Avaliação Preliminar')", "P4 p. 9"]
+    flag_tecnico: true
+    flag_reserva: false
+
+  - id: E6-036
+    documento: "P2"
+    dispositivo_editalicio: "P2 Tabela 15, grupo 7 (p. 45); Tabela 16 (p. 46)"
+    transcricao: "7 PASSIVO AMBIENTAL - 1.050.000 5.000.000 5.250.000"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    tema_sugerido: LICENCIAMENTO_AMBIENTAL
+    descricao_breve: "Cronograma e escopo do CAPEX de passivos incompatíveis com prazos do ANEXO-III (lixiviado M1–M12; flare M24; GAC E1–E4 até M36; monitoramento 10 anos)"
+    comentario: "O ANEXO-III exige sistema de lixiviado nos passivos operacional em M12 (PA-04), flare operacional em M24 (PA-03) e etapas E1–E4 do GAC até M36, com 10 anos de monitoramento (PA-01); o P2 inicia o desembolso da Lixeira só no Ano 2 (10%), conclui no Ano 4, não tem linha de flare/lixiviado e não tem OPEX de monitoramento pós-remediação (nem dos 20 anos do Jirau, Contrato 8.8 ii). Pelo Edital 2.11.2, o ANEXO-III prevalece sobre o EVTEA."
+    dispositivo_legal: "art. 5.º da Lei n.º 14.133/2021; Resolução CONAMA n.º 420/2009"
+    referencias_cruzadas: ["ANEXO-III p. 19 (Tab. 11 — PA-01 a PA-04)", "Edital 2.11.2 (p. 12)", "ANEXO-B 8.8 (pp. 19–20)"]
+    flag_tecnico: true
+    flag_reserva: false
+
+  - id: E6-037
+    documento: "P2"
+    dispositivo_editalicio: "P2 Tabela 16, item 5 (p. 46) × P6 Tabela 12 (p. 44)"
+    transcricao: "5 ADMINISTRAÇÃO 9.629.500 [...] 5.1 SEDE ADMINISTRATIVA 7.171.500 [...] 5.2 CUSTOS ADMINISTRATIVOS 2.458.000 × P6: Subtotal — Administração 8.062"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    tema_sugerido: MODELAGEM_ECONOMICA
+    descricao_breve: "OPEX de administração: R$ 9,63 mi/ano (P2) × R$ 8,06 mi/ano (P6)"
+    comentario: "As demais linhas de OPEX do P2 coincidem com as Tabelas 8 a 11 do P6, mas a administração diverge em R$ 1,57 mi/ano (≈ R$ 47 mi em 30 anos, calculado). Não há explicação de qual valor alimenta a contraprestação máxima."
+    dispositivo_legal: "art. 5.º da Lei n.º 14.133/2021; art. 18, inciso IV, da Lei n.º 14.133/2021"
+    referencias_cruzadas: ["P6 pp. 42–44 (Tabelas 8–12)"]
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E6-038
+    documento: "P2"
+    dispositivo_editalicio: "P2 Tabela 16 (p. 46); VI.2 (pp. 41–42)"
+    transcricao: "Recursos Humanos: [...] equipes operacionais, técnicas e de supervisão (coletores, operadores, engenheiros e gestores)"
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    tema_sugerido: MODELAGEM_ECONOMICA
+    descricao_breve: "OPEX sem mão de obra e custos de operação da CTR/UVR/compostagem/aterro, incinerador, CDR, lixiviado e monitoramento ambiental"
+    comentario: "A mão de obra do OPEX cobre apenas equipes de coleta e motoristas; não há operadores de máquinas do aterro, balanceiros, pessoal da UVR/compostagem/ETE, nem custos de tratamento de lixiviado, operação do incinerador, linha de CDR, análises e campanhas gravimétricas (≥4/ano, ANEXO-III PA-02) e monitoramento de passivos. A linha 'CTR Municipal e Jirau' (R$ 2,29 mi/ano) é descrita no P6 como energia, água, limpeza e vigilância."
+    dispositivo_legal: "art. 18, inciso IV, da Lei n.º 14.133/2021 (aplicação subsidiária); art. 10, inciso I, alínea 'a', da Lei n.º 11.079/2004"
+    referencias_cruzadas: ["P6 p. 42 (Tab. 9)", "ANEXO-III PA-02 (p. 19)", "Caderno Tab. 23 (p. 26–27)"]
+    flag_tecnico: true
+    flag_reserva: false
+
+  - id: E6-039
+    documento: "P2"
+    dispositivo_editalicio: "P2 VI.1, item 3 (p. 41); Tabela 15 (pp. 43–45)"
+    transcricao: "3. Serviços de Engenharia e Licenciamento: compreende os investimentos em projetos básicos e executivos, consultorias, estudos de viabilidade socioambiental e custos de licenciamento junto aos órgãos ambientais."
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    tema_sugerido: MODELAGEM_ECONOMICA
+    descricao_breve: "Custos pré-operacionais (projetos, licenciamento, EIA/RIMA) e ressarcimento do PMI (R$ 3,14 mi) não orçados"
+    comentario: "A natureza 'Serviços de Engenharia e Licenciamento' é descrita, mas não há linha correspondente na Tabela 15; também não constam o ressarcimento do PMI (R$ 3.142.250,00, condição para assinatura — Edital 21.1.1; Contrato 10.7.1), custos de mobilização/transição (sobreposição de 30 dias com o operador cessante — Contrato 7.4) nem de garantias e seguros (estes aparecem só no P6). Busca textual no P6 não localizou ressarcimento nem custos pré-operacionais."
+    dispositivo_legal: "art. 18, inciso IV, da Lei n.º 14.133/2021 (aplicação subsidiária); art. 10, inciso I, alínea 'a', da Lei n.º 11.079/2004"
+    referencias_cruzadas: ["Edital 21.1.1 (p. 50)", "ANEXO-B 7.4 (p. 17) e 10.7–10.7.1 (p. 30)", "P6 p. 45 (seguros)"]
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E6-040
+    documento: "P2"
+    dispositivo_editalicio: "P2 IV.2.3 (p. 27); Tabela 15 itens 3.3.1–3.3.4 (p. 44)"
+    transcricao: "A Estação de Transbordo deverá ser construída nas proximidades da Foz do Rio Jamari, e conter no mínimo: Acesso para atracamento das balsas e barcos, Lava jato para lavagem dos equipamentos e recipientes, com sistema de tratamento de resíduos, Rampas para acesso dos caminhões [...] 3.3.1 CONSTRUÇÃO 450.000"
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: risco_economico
+    tema_sugerido: MODELAGEM_ECONOMICA
+    descricao_breve: "Estação de transbordo fluvial principal orçada em R$ 450 mil para atracadouro em rio com variação de 12 m, lava-jato com tratamento, rampas e edificações"
+    comentario: "O valor de construção (R$ 450 mil) deve cobrir atracadouro operável em cheia e estiagem (variação de cota de até 12 m), lava-jato com tratamento de efluente, rampas, vestiários, guarita e, pelo Caderno XI.4, balança/controle de massa, drenagem, cercamento e iluminação, além de licenciamento. Não há projeto, quantitativos ou memória. O roll-on/roll-off e a retroescavadeira do transbordo só são adquiridos no Ano 2, embora a estação deva operar no Ano 1 (P3 p. 36)."
+    dispositivo_legal: "art. 11, caput, da Lei n.º 11.079/2004 c/c art. 18, inciso XV, da Lei n.º 8.987/1995; art. 18, inciso IV, da Lei n.º 14.133/2021"
+    referencias_cruzadas: ["Caderno XI.4 (p. 62)", "P3 p. 36 e p. 41", "ANEXO-D Tab. 3 (ETR 100% Ano 1)"]
+    flag_tecnico: true
+    flag_reserva: false
+
+  - id: E6-041
+    documento: "P2"
+    dispositivo_editalicio: "P2 IV.2.3.1 (p. 28); Tabela 15 item 3.1.8 (p. 44)"
+    transcricao: "Cada Estação de Transbordo Distrital deverá conter no mínimo: Cobertura, Fechamento, Piso impermeável, Sistema de lavagem, Sanitários [...] 3.1.8 ESTAÇÃO DE TRANSBORDO DISTRITAL 50.000 50.000 100.000"
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: risco_economico
+    tema_sugerido: MODELAGEM_ECONOMICA
+    descricao_breve: "Quatro estações de transbordo distritais orçadas em R$ 25 mil cada"
+    comentario: "As quatro unidades (São Carlos, Nazaré, Calama, Demarcação) somam R$ 100 mil (R$ 25 mil/unidade, calculado), para estruturas com cobertura, fechamento, piso impermeável, lavagem e sanitários (P2) e, pelo Caderno XI.4, controle de massa, drenagem, iluminação e cercamento, em áreas sujeitas a 'terras caídas' (recuo >100 m em Calama). A conclusão das quatro unidades é marco do ramp-up da Parcela A (Caderno XI.6)."
+    dispositivo_legal: "art. 18, inciso IV, da Lei n.º 14.133/2021 (aplicação subsidiária)"
+    referencias_cruzadas: ["Caderno XI.4 (p. 62) e XI.6 (p. 63)", "P2 p. 32 (terras caídas)"]
+    flag_tecnico: true
+    flag_reserva: false
+
+  - id: E6-042
+    documento: "P2/P3"
+    dispositivo_editalicio: "P2 IV.2.2 (p. 25–26), Tabela 4 (p. 13), Tabela 15 itens 3.1.4–3.1.7 (p. 44); P3 IV.6.3 e VI.1 (pp. 36–41)"
+    transcricao: "Embarcações Principais: catamarãs ou balsas para o transporte de longa distância até a estação de transbordo. Embarcações de Coleta: barcos de alumínio de 17 pés"
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: omissao
+    tema_sugerido: OBJETO_ESCOPO
+    descricao_breve: "Frota fluvial (1 balsa, 1 catamarã 20 HP, 4 barcos 40 HP) sem cálculo de ciclo, capacidade e frequência"
+    comentario: "Não há cálculo de tempo de ciclo, capacidade de carga ou número de viagens que demonstre que uma balsa (reposta só nos Anos 10 e 20) e um catamarã de 20 HP atendem 4 distritos 2x/semana, com até ~120 km de trecho fluvial (Demarcação) e restrição de calado na estiagem. O OPEX do Baixo Madeira contém só mão de obra; não há linha específica de combustível, tripulação ou manutenção naval. O armazenamento de RSS nas estações distritais à espera da balsa não é dimensionado frente aos limites sanitários."
+    dispositivo_legal: "art. 11, caput, da Lei n.º 11.079/2004 c/c art. 18, inciso XV, da Lei n.º 8.987/1995; RDC ANVISA n.º 222/2018"
+    referencias_cruzadas: ["Caderno Tab. 18 (p. 22)", "ANEXO-B 8.9 (PCOS)", "P3 Tab. 18 (p. 35)"]
+    flag_tecnico: true
+    flag_reserva: false
+
+  - id: E6-043
+    documento: "P2"
+    dispositivo_editalicio: "P2 Sumário (p. 5) e IV.2.2 (p. 26, Figura 8)"
+    transcricao: "incorporando inovações como as sugeridas \"Tirolesas Logísticas\" para superar os desafios de navegabilidade em períodos de seca extrema"
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    tema_sugerido: MODELAGEM_ECONOMICA
+    descricao_breve: "Soluções de estiagem (tirolesas logísticas/PCOS) propostas sem projeto nem CAPEX/OPEX"
+    comentario: "O P2 apresenta 'tirolesas logísticas' (cabos aéreos) como solução para o recuo das águas, mas não há especificação, locais, CAPEX ou OPEX; tampouco custos do PCOS, que o Edital e o Contrato (8.9) tornam obrigatório com acionamento automático por cota."
+    dispositivo_legal: "art. 18, inciso IV, da Lei n.º 14.133/2021 (aplicação subsidiária); art. 11, caput, da Lei n.º 11.079/2004 c/c art. 18, inciso XV, da Lei n.º 8.987/1995"
+    referencias_cruzadas: ["ANEXO-B 8.9 (p. 20)", "Caderno IX (PCOS, Tab. 32)"]
+    flag_tecnico: true
+    flag_reserva: false
+
+  - id: E6-044
+    documento: "P3"
+    dispositivo_editalicio: "P3 Tabela 19 (p. 40) × Caderno Tabela 21 (pp. 23–24)"
+    transcricao: "CALAMA 5 1 9 25 12 3 [...] SÃO CARLOS 3 1 6 25 20 3 (Coletores: 9 e 6) × Caderno: Calama [...] 5 coletores; São Carlos [...] 5 coletores"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    tema_sugerido: OBJETO_ESCOPO
+    descricao_breve: "Número de coletores no Baixo Madeira: 20 (P3) × 15 (Caderno)"
+    comentario: "O P3 prevê 9 coletores em Calama e 6 em São Carlos (total 20); o Caderno, que reproduz os demais quantitativos da mesma tabela, prevê 5 e 5 (total 15). Pelo Edital 2.11.2, prevalece o Caderno; o OPEX do P2 (R$ 1,05 mi/ano de equipes RSU no Baixo Madeira) não indica qual quantitativo foi precificado."
+    dispositivo_legal: "art. 5.º da Lei n.º 14.133/2021"
+    referencias_cruzadas: ["Edital 2.11.2 (p. 12)", "P2 Tabela 16 item 3.1.1 (p. 46)"]
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E6-045
+    documento: "P3"
+    dispositivo_editalicio: "P3 IV.6.2 (pp. 33–35), Tabela 18; P2 V.1 (p. 30)"
+    transcricao: "DEMARCAÇÃO CTR PORTO VELHO 83 94,98 km (59,02 mi) 24,50 km (15,23 mi) 193 [...] A distância percorrida entre o local da futura Estação de Transbordo e o futuro aterro é de aproximadamente 105 km [...] reduziria em 50% a distância a ser percorrida na BR 367"
+    tipo_achado: IRREGULAR
+    categoria: erro_material
+    tema_sugerido: OBJETO_ESCOPO
+    descricao_breve: "Distâncias logísticas incoerentes (soma 202,48 ≠ 193 km; 83 × 105 km; redução Jirau 100 × 120 km; 'BR 367')"
+    comentario: "Na Tabela 18 (reproduzida no Caderno Tab. 19), 83 + 94,98 + 24,50 = 202,48 km, não 193 km. O texto do P3 dá 105 km entre a estação de transbordo e o aterro; a tabela, 83 km. O P3 indica 355 km (Nova Califórnia → Ecoparque) e 255 km (→ Jirau), redução de 100 km, enquanto P2 e P6 falam em ≈120 km; a Matriz de Riscos menciona DMT de 255–378 km. Há referência à 'BR 367' (seria BR-364)."
+    dispositivo_legal: "não localizei fundamento normativo específico (erro material)"
+    referencias_cruzadas: ["Caderno p. 23 (Tab. 19)", "P6 p. 48", "ANEXO-V (risco Jirau)"]
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E6-046
+    documento: "P2"
+    dispositivo_editalicio: "P2 IV.2.1 (p. 25); Tabela 1 (p. 9)"
+    transcricao: "Após a coleta de porta em porta, os caminhões compactadores deverão encaminhar os resíduos diretamente para o aterro sanitário: por meio da BR-364, no caso dos distritos do Alto e Médio Madeira"
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: contradicao
+    tema_sugerido: OBJETO_ESCOPO
+    descricao_breve: "Alto/Médio Madeira sem transbordo: compactadores percorrem 204–255 km, contra o diagnóstico e diretriz do Caderno"
+    comentario: "A matriz de criticidade do próprio P2 aponta 'Ausência de Estações de Transbordo em locais estratégicos' (impacto ALTO) e o Caderno (IV.5) determina minimizar 'transporte ineficiente por compactadores em longas distâncias', mas o P2 prevê transporte direto por compactadores (Abunã → CTR 204 km). O P3 aponta que levar Abunã ao Jirau reduziria a distância em 50%, sem adotar a alternativa."
+    dispositivo_legal: "art. 10, inciso I, alínea 'a', da Lei n.º 11.079/2004"
+    referencias_cruzadas: ["Caderno IV.5 (p. 20)", "P3 p. 35"]
+    flag_tecnico: true
+    flag_reserva: false
+
+  - id: E6-047
+    documento: "P2"
+    dispositivo_editalicio: "P2 Sumário (p. 5); Tabela 15 itens 1.4.1–1.4.2 (p. 43)"
+    transcricao: "a rede de Ecopontos para entrega voluntária de resíduos volumosos e de construção civil [...] 1.4.1 AQUISIÇÃO 300.000 [...] 2.550.000"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    tema_sugerido: OBJETO_ESCOPO
+    descricao_breve: "Ecopontos para volumosos e RCC (P2/Contrato 10.3.11) × RCC excluído do objeto (Edital 3.1.1); custo unitário de R$ 30 mil"
+    comentario: "O P2 e o Contrato (10.3.11) preveem Ecopontos para volumosos e RCC; o Edital 3.1.1 exclui o RCC do objeto e da base da contraprestação. O P3 trata Ecopontos como PEVs de recicláveis (10 existentes). O CAPEX (≈ R$ 30 mil/unidade, calculado) é compatível com contêineres de PEV, não com ecopontos para RCC, e não há destinação de RCC (aterro de inertes/ATT) orçada."
+    dispositivo_legal: "art. 5.º da Lei n.º 14.133/2021; art. 13, inciso I, alínea 'h', e art. 20, inciso III, da Lei n.º 12.305/2010 (RCC — responsabilidade do gerador)"
+    referencias_cruzadas: ["Edital 3.1.1 (p. 13)", "ANEXO-B 10.3.11 (p. 29) e 18.2 (f) (p. 42)", "P3 p. 27"]
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E6-048
+    documento: "P2/P3"
+    dispositivo_editalicio: "P2 V.5.2 (p. 39); P3 Tabela 10 (p. 21)"
+    transcricao: "O Pátio de Compostagem da CTR deverá receber resíduos orgânicos provenientes de feiras livres, varejões e estabelecimentos similares, além dos resíduos de poda encaminhados pelos Ecopontos."
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    tema_sugerido: OBJETO_ESCOPO
+    descricao_breve: "Compostagem: sem capacidade/CAPEX no P2; ≈5–18 t/dia no P3 × 30 → 80–120 t/dia no ANEXO-III"
+    comentario: "O P2 não dimensiona o pátio (área, t/dia, leiras, equipamentos) nem o orça; a Meta 7 do P3 resulta em 1.783 t/ano (2027) a 6.661 t/ano (2056), ≈5–18 t/dia (calculado). O ANEXO-III (IX.6) recomenda unidade central de 30 t/dia evoluindo para 80–120 t/dia em M60, mais unidades descentralizadas de 0,5–2 t/dia. Pelo Edital 2.11.2 o ANEXO-III prevalece sobre o EVTEA. Não há estudo de mercado do composto no P3."
+    dispositivo_legal: "art. 5.º da Lei n.º 14.133/2021; art. 36, inciso V, da Lei n.º 12.305/2010 (compostagem pelo titular)"
+    referencias_cruzadas: ["ANEXO-III IX.6 (p. 24)", "Edital 2.11.2 (p. 12)"]
+    flag_tecnico: true
+    flag_reserva: false
+
+  - id: E6-049
+    documento: "P2"
+    dispositivo_editalicio: "P2 III.1 (p. 10) × V.6 (p. 40); P3 p. 19–20 e p. 50"
+    transcricao: "O futuro CTR tambem deverá realizar triagem mecanizada dos resíduos sólidos urbanos coletados, separando entre potencialmente reciclável, orgânico e outros [p. 10] × dimensionou-se uma Unidade de Valorização [...] direcionada prioritariamente aos setores que atendam aos centros comerciais [p. 40]"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    tema_sugerido: OBJETO_ESCOPO
+    descricao_breve: "Escopo e capacidade da UVR indefinidos: triagem de todo o RSU × só centros comerciais; único parâmetro é 12 m/min"
+    comentario: "O P2 ora prevê triagem mecanizada de todo o RSU coletado (≈400 t/dia), ora UVR voltada aos setores comerciais; o P3 assume '10%' de recuperação por triagem mecanizada e recomenda esteira para todo o RDO que chegar à CTR. A capacidade 'nominal' não é informada (t/dia, turnos, taxa de recuperação); só a velocidade de 12 m/min, que o Contrato 10.3.2 torna vinculante."
+    dispositivo_legal: "art. 11, caput, da Lei n.º 11.079/2004 c/c art. 18, incisos I e XV, da Lei n.º 8.987/1995"
+    referencias_cruzadas: ["ANEXO-B 10.3.2 (p. 28)", "Caderno Tab. 23 (p. 26)", "ANEXO-D TO-05 e TO-11"]
+    flag_tecnico: true
+    flag_reserva: false
+
+  - id: E6-050
+    documento: "P2"
+    dispositivo_editalicio: "P2 III.1 (p. 10)"
+    transcricao: "garantindo autonomia na comercialização dos produtos e reversão integral das receitas aos cooperados, atendendo ao Art. 44 da PNRS."
+    tipo_achado: IRREGULAR
+    categoria: erro_material
+    tema_sugerido: OBJETO_ESCOPO
+    descricao_breve: "Fundamento legal citado (art. 44 da PNRS) não corresponde à regra de reversão de receitas às cooperativas"
+    comentario: "O art. 44 da Lei 12.305/2010 trata de incentivos fiscais, financeiros e creditícios instituídos pelos entes federados, não de reversão integral de receitas de triagem a cooperados; a mesma citação é repetida no P6 (p. 48) para justificar 'parceria formal com a Cooperativa Catanorte'. A regra de priorização de cooperativas está no art. 36, § 1.º, da mesma lei."
+    dispositivo_legal: "art. 44 e art. 36, § 1.º, da Lei n.º 12.305/2010"
+    referencias_cruzadas: ["P6 p. 48", "ANEXO-B 18.5.2 (p. 43)"]
+    flag_tecnico: false
+    flag_reserva: false
+    nota: "Conferir redação vigente do art. 44 e do art. 36 da Lei 12.305/2010 antes de uso externo."
+
+  - id: E6-051
+    documento: "P2/P3"
+    dispositivo_editalicio: "P2 III.1 (p. 10) e V.6 (p. 40); P3 VII.1 (p. 51)"
+    transcricao: "A operação da triagem e o beneficiamento de plásticos serão realizados por cooperativas de catadores credenciadas, garantindo-lhes autonomia na comercialização dos materiais e reversão integral da receita aos cooperados."
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: risco_economico
+    tema_sugerido: RISCOS_GARANTIAS
+    descricao_breve: "Metas de recuperação e disponibilidade da UVR imputadas à concessionária, mas triagem e receitas são das cooperativas"
+    comentario: "Pelos estudos, a triagem na UVR é operada por cooperativas (o P3 nomeia a CATANORTE), que retêm 100% da receita (Contrato 18.5.2). Os indicadores TO-10 (desvio de aterro/coleta seletiva) e TO-11 (paralisação da triagem) recaem sobre a concessionária, que não controla a operação nem a remuneração. Não há modelagem do vínculo (contrato, apoio, metas) nem do custo de apoio às cooperativas."
+    dispositivo_legal: "art. 5.º, inciso III, da Lei n.º 11.079/2004; art. 36, § 1.º, da Lei n.º 12.305/2010"
+    referencias_cruzadas: ["ANEXO-D p. 9 (TO-10, TO-11)", "ANEXO-B 10.8 e 18.5.2", "P6 p. 48"]
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E6-052
+    documento: "P2"
+    dispositivo_editalicio: "P2 Tabela 15 (pp. 43–45) × ANEXO-III CS-03 (p. 28)"
+    transcricao: "CS-03 — Infraestrutura das cooperativas: CAPEX de galpão e equipamentos até M18 [ANEXO-III]"
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    tema_sugerido: MODELAGEM_ECONOMICA
+    descricao_breve: "CAPEX de galpão e equipamentos das cooperativas (até M18, com retenção da contraprestação) não orçado"
+    comentario: "O ANEXO-III exige infraestrutura das cooperativas até M18, com retenção percentual da contraprestação por mês de atraso; o P2 não tem linha específica e a CTR (onde ficaria a UVR) tem 50% da obra só no Ano 2. Pelo Edital 2.11.2, o ANEXO-III prevalece sobre o EVTEA."
+    dispositivo_legal: "art. 5.º da Lei n.º 14.133/2021; art. 18, inciso IV, da Lei n.º 14.133/2021"
+    referencias_cruzadas: ["ANEXO-III p. 28 (CS-03)", "Edital 2.11.2 (p. 12)"]
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E6-053
+    documento: "P2"
+    dispositivo_editalicio: "P2 Tabela 16 (p. 46)"
+    transcricao: "1.1.1 EQUIPES COLETA DE RSU 10.109.421 [Anos 1–4] 13.422.518 [Anos 5–30] [...] 4.6 COMBUSTÍVEIS E AFINS 6.089.971 6.089.971 4.867.499 [...]"
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: risco_economico
+    tema_sugerido: MODELAGEM_ECONOMICA
+    descricao_breve: "OPEX constante a partir do Ano 5 apesar do crescimento de 14,6% na massa; salto não explicado de 32,8% na mão de obra"
+    comentario: "O RSU bruto cresce de 150,8 mil t (2027) para 172,8 mil t (2056) e a população 12,3%, mas mão de obra, combustíveis e manutenção ficam constantes do Ano 5 ao Ano 30, e a frota de compactadores passa de 17 para 18 só no Ano 10. A mão de obra de coleta da Sede salta de R$ 10,1 mi para R$ 13,4 mi no Ano 5 sem explicação; combustíveis caem 20% no Ano 3 sem memória."
+    dispositivo_legal: "art. 10, inciso I, alínea 'a', da Lei n.º 11.079/2004"
+    referencias_cruzadas: ["P3 Tabela 10 (p. 21)", "P3 Tabela 22 (p. 44)", "P6 p. 42–43"]
+    flag_tecnico: true
+    flag_reserva: false
+
+  - id: E6-054
+    documento: "P2"
+    dispositivo_editalicio: "P2 Tabela 16, item 4.5 (p. 46); III.2.3.1 (p. 13)"
+    transcricao: "4.5 ATERRO ECOPARQUE 1.760.000 1.760.000 704.000 704.000 4.928.000"
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: risco_economico
+    tema_sugerido: MODELAGEM_ECONOMICA
+    descricao_breve: "Custo de disposição no Ecoparque (Anos 1–4) implica ≈ R$ 12/t, sem base de preço; dependência de aterro de terceiro potencialmente concorrente"
+    comentario: "Com ≈146,6 mil t/ano no Ano 1, R$ 1,76 mi/ano equivale a ≈ R$ 12,00/t (calculado); o preço do Contrato 042/PGM/2023 não é informado. Até a CTR operar, a concessionária depende do Ecoparque (LAO de CTR PORTO VELHO S/A; LAI da EcoRondônia Ambiental S/A, 'Grupo Marquise', ex-contratada do Contrato 019/PGM/2024 anulado — P1 pp. 85 e 88). Atraso de licenciamento da CTR prolonga essa dependência sem cenário de custo."
+    dispositivo_legal: "art. 18, inciso IV, da Lei n.º 14.133/2021 (aplicação subsidiária); art. 9.º, inciso I, alínea 'a', da Lei n.º 14.133/2021"
+    referencias_cruzadas: ["P1 pp. 84–88", "ANEXO-B 10.9 (condicionantes da LAO do Ecoparque)", "P6 p. 43 (Tab. 9)"]
+    flag_tecnico: false
+    flag_reserva: false
+    nota: "Falta: preço unitário vigente do Contrato 042/PGM/2023 (Ecoparque)."
+
+  - id: E6-055
+    documento: "P2"
+    dispositivo_editalicio: "P2 VI.1, item 1 (p. 41); Tabela 15 (ciclos de reposição) × Caderno XI.3 (p. 61)"
+    transcricao: "A modelagem prevê o uso de frota, em conformidade com o padrão Euro VI (Proconve P-8) ou superior, equipada com dispositivos de rastreamento GPS e telemetria"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    tema_sugerido: OBJETO_ESCOPO
+    descricao_breve: "Regime de reposição de frota: ciclos quinquenais (P2/P6, vinculantes pelo Contrato 10.3.1) × 'reposição programada no ano 25' (Caderno XI.3); sem idade máxima"
+    comentario: "O P2 repõe compactadores, embarcações e quadriciclos a cada ~5 anos (Anos 1, 5, 10, 15, 20, 25) e a balsa nos Anos 1, 10 e 20; o Contrato 10.3.1 vincula a substituição aos 'ciclos de reposição previstos nos Anexos ... e na modelagem econômico-financeira'. O Caderno XI.3 fala em reposição programada no Ano 25. Não há idade máxima de frota nos anexos, embora o ANEXO-D (TO-08) use 'média de idade dos veículos'; o padrão Euro VI do P2 não é reproduzido no Caderno."
+    dispositivo_legal: "art. 5.º da Lei n.º 14.133/2021; art. 11, caput, da Lei n.º 11.079/2004 c/c art. 18, inciso I, da Lei n.º 8.987/1995"
+    referencias_cruzadas: ["ANEXO-B 10.3.1 (p. 28)", "Caderno XI.3 (p. 61) e Tab. 28 (p. 33)", "ANEXO-D TO-08 (p. 9)"]
+    flag_tecnico: true
+    flag_reserva: false
+
+  - id: E6-056
+    documento: "P2/P3"
+    dispositivo_editalicio: "P3 Tabelas 19, 21 e 22 (pp. 40–48); P2 Tabela 15"
+    transcricao: "1.1.3 CARRINHO CONTEINER - 1,5M³ [...] 3.1.1 CARRINHO CONTEINER - 1M³ × Contêiner de 1,2 m³ [Tabelas 19/21] / CAMINHÃO CARROCERIA GAIOLA 25 M³ [P2] × Gaiola 20 m³ [P6]"
+    tipo_achado: IRREGULAR
+    categoria: erro_material
+    tema_sugerido: OBJETO_ESCOPO
+    descricao_breve: "Especificações de equipamentos inconsistentes (contêiner 1,0/1,2/1,5 m³; gaiola 25/20 m³)"
+    comentario: "As tabelas de estrutura indicam contêineres de 1,2 m³ (126 na Sede; 42 no Baixo Madeira), mas o CAPEX e a Tabela 22 os precificam como 1,5 m³ (Sede) e 1 m³ (Baixo Madeira). O caminhão gaiola do Alto/Médio Madeira é 25 m³ no P2 e 20 m³ no P6 (Tab. 7 e Tab. 13). O P2 registra 122 contêineres de 1,2 m³ existentes; o P3, 126."
+    dispositivo_legal: "não localizei fundamento normativo específico (erro material)"
+    referencias_cruzadas: ["Caderno Tab. 21 (p. 24)", "P6 p. 38 (Tab. 7) e p. 45 (Tab. 13)", "P2 p. 17"]
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E6-057
+    documento: "P2/P3"
+    dispositivo_editalicio: "P2/P3 (escopo de serviços) × P6 p. 12 × Edital item 3.1 (p. 13)"
+    transcricao: "Dimensão comercial. A varrição é integralmente remunerada pela Contraprestação Pública e não gera receitas acessórias. [P6]"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    tema_sugerido: OBJETO_ESCOPO
+    descricao_breve: "Varrição: tratada como escopo remunerado no P6 e incluída em 'limpeza urbana' (Contrato 1.3.49), mas não dimensionada no P2/P3 nem listada no objeto do Edital"
+    comentario: "O P6 descreve a varrição como serviço da concessão remunerado pela contraprestação e o Contrato define SERVIÇOS como 'limpeza urbana e manejo de resíduos'; o Edital (3.1) não lista varrição, e P2/P3 não dimensionam equipes, frota ou custos de varrição, apenas incluem a massa de RLU (0,08 kg/hab.dia ≈ 16–18 mil t/ano) no fluxo de disposição."
+    dispositivo_legal: "art. 5.º da Lei n.º 14.133/2021; art. 11, caput, da Lei n.º 11.079/2004 c/c art. 18, inciso I, da Lei n.º 8.987/1995"
+    referencias_cruzadas: ["P6 p. 12", "ANEXO-B 1.3.49 (p. 10)", "Edital item 3.1 (p. 13)", "Caderno p. 8 (RLU 'quando integrados ao fluxo')"]
+    flag_tecnico: false
+    flag_reserva: false
+
+  # ======================= P3 — AVALIAÇÃO COMERCIAL / MERCADO =======================
+  - id: E6-058
+    documento: "P3"
+    dispositivo_editalicio: "P3 integral (pp. 1–56); I.2 (p. 6)"
+    transcricao: "Estruturar o estudo de demanda e a modelagem comercial do sistema [...] assegurar a viabilidade fiscal e a atratividade do projeto frente ao mercado"
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    tema_sugerido: MODELAGEM_ECONOMICA
+    descricao_breve: "'Avaliação Comercial' sem sondagem de mercado, interessados, atratividade, bancabilidade, benchmarks ou valores"
+    comentario: "O P3 não contém sondagem/consulta a potenciais interessados, análise de atratividade ou de condições de financiamento e garantias, benchmarks de R$/t ou qualquer valor monetário. O Value for Money (PSC × PPP) consta apenas do P6 (VfM R$ 123 mi; VPL PPP R$ 524 mi × PSC R$ 647 mi), fora do escopo deste extrator."
+    dispositivo_legal: "art. 10, inciso I, alínea 'a', da Lei n.º 11.079/2004; art. 18, § 1.º, inciso V, da Lei n.º 14.133/2021 (aplicação subsidiária)"
+    referencias_cruzadas: ["P6 pp. 51–55 (VfM/PSC)", "P0 p. 10–11 (escopo do Caderno 3)"]
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E6-059
+    documento: "P2/P3"
+    dispositivo_editalicio: "P2 e P3 (integral); P1 VII.2.4"
+    transcricao: "O contrato nº 042/PGM/2023 estabelece que a prestação dos serviços ocorre sob o regime de empreitada por preço unitário [P1 p. 84 — sem preço]"
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    tema_sugerido: MODELAGEM_ECONOMICA
+    descricao_breve: "Ausência de linha de base do custo atual dos serviços (contratos vigentes) para comparação com a contraprestação"
+    comentario: "Nem P2 nem P3 informam a despesa atual do Município (coleta emergencial — Contrato 028/PGM/2025; disposição no Ecoparque — Contrato 042/PGM/2023; RSS em incinerador particular) em R$/ano ou R$/t. Sem essa base, não é possível verificar a economicidade da contraprestação máxima (R$ 78,07 mi/ano; ≈ R$ 500–520/t, calculado) nem a circularidade do teto."
+    dispositivo_legal: "art. 10, inciso I, alínea 'a', e art. 4.º, inciso VII, da Lei n.º 11.079/2004"
+    referencias_cruzadas: ["P1 pp. 84 e 88", "Edital 12.2.1 (p. 31)"]
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E6-060
+    documento: "P3"
+    dispositivo_editalicio: "P3 VII e VII.1 (pp. 49–51)"
+    transcricao: "A comercialização de materiais recicláveis enfrenta múltiplos obstáculos, principalmente a carência de mercados locais para comercialização"
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: omissao
+    tema_sugerido: MODELAGEM_ECONOMICA
+    descricao_breve: "Receitas acessórias e mercados (recicláveis, composto, CDR, biogás, carbono) apenas qualitativos"
+    comentario: "O P3 lista fontes de receita acessória (recicláveis, energia/biogás, créditos de carbono, grandes geradores) sem quantidades comercializáveis, preços, compradores, distâncias a indústrias recicladoras ou cimenteiras, nem mercado de composto. O próprio P3 recomenda estudos adicionais 'antes de qualquer vinculação contratual', mas o Edital torna CDR obrigatório (3.1, viii)."
+    dispositivo_legal: "art. 11, caput, da Lei n.º 11.079/2004 c/c art. 18, inciso VI, da Lei n.º 8.987/1995 (possíveis fontes de receitas alternativas)"
+    referencias_cruzadas: ["P3 p. 52", "ANEXO-B cláusula 18 (pp. 41–43)", "Edital 3.1, viii"]
+    flag_tecnico: false
+    flag_reserva: true
+    nota: "Reserva: receitas acessórias não quantificadas e compartilhadas em só 5% (E6-062) podem representar oportunidade não evidente para licitante com mercado de recicláveis/CDR/gate fee."
+
+  - id: E6-061
+    documento: "P3"
+    dispositivo_editalicio: "P3 (integral) × P6 pp. 12 e 49; P4 pp. 20 e 36; ANEXO-III p. 16"
+    transcricao: "A análise preliminar desenvolvida no Caderno 3 estimou potencial inicial de geração da ordem de 4.851 kWh/dia já no primeiro ano de operação plena do aterro [P6 p. 49]"
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    tema_sugerido: MODELAGEM_ECONOMICA
+    descricao_breve: "Estimativa de biogás (4.851 kWh/dia) atribuída ao Caderno 3 não existe no P3"
+    comentario: "P6, P4 e ANEXO-III citam 4.851 kWh/dia como estimativa do Caderno 3, e o ANEXO-III a associa a medida de controle com prazo M24; a 3ª revisão do P3 não contém estimativa de biogás, curva de geração nem valor em kWh (busca textual sem ocorrência). A base da estimativa usada nos demais documentos não está disponível."
+    dispositivo_legal: "art. 5.º da Lei n.º 14.133/2021; art. 11, caput, da Lei n.º 11.079/2004 c/c art. 21 da Lei n.º 8.987/1995"
+    referencias_cruzadas: ["P6 p. 12 e p. 49", "P4 pp. 20 e 36", "ANEXO-III p. 16"]
+    flag_tecnico: true
+    flag_reserva: false
+
+  - id: E6-062
+    documento: "P3"
+    dispositivo_editalicio: "P3 VII (p. 50)"
+    transcricao: "Recebimento de resíduos de grandes geradores: Quando a destinação final ocorre em aterros privados ou concessionados, outros tipos de resíduos – como hospitalares, da construção civil e de grande indústria – podem ser recebidos mediante contrato específico"
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: risco_economico
+    tema_sugerido: REMUNERACAO_REAJUSTE
+    descricao_breve: "Uso da capacidade da CTR (paga pela Parcela A) para gate fee de grandes geradores, com compartilhamento de 5%, sem quantificação"
+    comentario: "O P3 identifica o recebimento de RSS, RCC e resíduos industriais de grandes geradores como receita acessória; o P6 (p. 50) qualifica a CTR como 'ativo subutilizado' nos anos iniciais. O Contrato autoriza essas receitas (18.2, f, g, i) e compartilha só 5% da receita bruta (18.5.1); a CTR é remunerada pela Parcela A. Os estudos não estimam volumes ou preços, nem o efeito no consumo de vida útil do aterro (Contrato 10.13.5.4)."
+    dispositivo_legal: "art. 11, caput, da Lei n.º 11.079/2004 c/c art. 18, inciso VI, da Lei n.º 8.987/1995 (receitas alternativas, complementares ou acessórias); art. 4.º, inciso VII, da Lei n.º 11.079/2004"
+    referencias_cruzadas: ["ANEXO-B 18.2, 18.2.2, 18.5.1 (pp. 41–43) e 10.13.5.4 (p. 32)", "P6 p. 50"]
+    flag_tecnico: false
+    flag_reserva: true
+    nota: "Reserva: oportunidade de receita acessória não evidente e compartilhamento reduzido, favoráveis à concessionária."
+
+  - id: E6-063
+    documento: "P2/P3"
+    dispositivo_editalicio: "P2 VIII (p. 49); P3 IX (pp. 54–55); P1 p. 88"
+    transcricao: "PORTO VELHO (RO). Avaliação Preliminar de Passivo Ambiental Aterro do Jirau. Porto Velho: Prefeitura Municipal de Porto Velho, 2024. Elaborado por EcoRondônia Ambiental S/A. [...] Relatório de Ratificação do Licenciamento Ambiental da Central de Tratamento e Destinação de Resíduos Sólidos de Porto Velho. 2024."
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: restricao_competitividade
+    tema_sugerido: QUESTOES_FORMAIS
+    descricao_breve: "Estudos-base de passivos elaborados por empresa ligada a operador/aterro local; disponibilização aos licitantes não verificada"
+    comentario: "As Avaliações Preliminares de Passivo da Vila Princesa e do Jirau, base dos valores de remediação e do teto contratual, foram elaboradas pela EcoRondônia Ambiental S/A, identificada no P1 como 'Grupo Marquise', ex-contratada do Contrato 019/PGM/2024 anulado e titular da LAI do Ecoparque. Também é citado o 'Relatório de Ratificação do Licenciamento da CTR' (SEMPOG 2024). Não se verificou se esses documentos estão à disposição dos interessados; há potencial assimetria de informação."
+    dispositivo_legal: "art. 11, caput, da Lei n.º 11.079/2004 c/c art. 21 da Lei n.º 8.987/1995; art. 9.º, inciso I, alínea 'a', da Lei n.º 14.133/2021"
+    referencias_cruzadas: ["P1 pp. 85 e 88", "P4 p. 9 (EcoRondônia/Neomax 2024, SEI 0028.019984/2024-70)", "ANEXO-V (Vila Princesa)"]
+    flag_tecnico: false
+    flag_reserva: false
+    nota: "Falta: confirmar se os laudos e o relatório SEMPOG integram o data room/anexos publicados."
+
+  - id: E6-064
+    documento: "P2"
+    dispositivo_editalicio: "P2 III.2.3.1 (p. 13) × ANEXO-B 10.13 (p. 31) e P1 p. 85"
+    transcricao: "Após o recolhimento, os resíduos são transportados para o CTR ECOPARQUE, aterro particular licenciado."
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: contradicao
+    tema_sugerido: QUESTOES_FORMAIS
+    descricao_breve: "Homonímia 'CTR Porto Velho': futura CTR pública × CTR PORTO VELHO S/A (titular da LAO do Ecoparque)"
+    comentario: "O P2 chama o aterro privado de 'CTR ECOPARQUE' e a futura unidade pública de 'CTR Porto Velho'; o P1 informa que a LAO do Ecoparque está em nome de 'CTR PORTO VELHO S/A'. O Contrato 10.13 refere o aterro de rejeitos 'componente da Central de Tratamento de Resíduos (CTR Porto Velho)' e admite aquisição de participação societária de aterro licenciado. A homonímia pode gerar ambiguidade na interpretação de obrigações e bens."
+    dispositivo_legal: "art. 5.º da Lei n.º 14.133/2021 (segurança jurídica)"
+    referencias_cruzadas: ["P1 p. 85", "ANEXO-B 10.9 e 10.13 (pp. 30–31)"]
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E6-065
+    documento: "P2/P3"
+    dispositivo_editalicio: "P2 e P3 (integral) × Edital (preâmbulo, p. 4) e P7 pp. 9–10"
+    transcricao: "Para sanar aquelas irregularidades houve a estruturação da [...] [Edital]"
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: omissao
+    tema_sugerido: QUESTOES_FORMAIS
+    descricao_breve: "Estudos de engenharia e comercial não indicam se apontamentos técnico-econômicos do TCE-RO foram tratados"
+    comentario: "P2 e P3 não mencionam o Processo TCE-RO 00421/2022 nem os Acórdãos APL-TC 00068/24 e 00105/24; o P7 descreve apenas ajustes de julgamento (supressão da proposta técnica, menor contraprestação). Não é possível verificar, a partir dos estudos de engenharia, se eventuais achados sobre dimensionamento, custos ou rota tecnológica foram enfrentados."
+    dispositivo_legal: "art. 71, inciso IX, da Constituição Federal (por simetria, competência dos Tribunais de Contas estaduais — art. 75)"
+    referencias_cruzadas: ["Edital preâmbulo (p. 4)", "P7 pp. 9–10 e p. 22"]
+    flag_tecnico: false
+    flag_reserva: false
+    nota: "Falta: inteiro teor dos Acórdãos APL-TC 00068/24 e 00105/24 (fato documental referido no Edital e no P7)."
+
+  # ======================= CONFORMES (cobertura do checklist) =======================
+  - id: E6-066
+    documento: "P2/P3"
+    dispositivo_editalicio: "P2 Tabela 3 (p. 11); P3 Tabela 2 (p. 12); Caderno Tabela 6 (p. 12)"
+    transcricao: "1 2027 562.145 488.867 38.415 29.013 5.850"
+    tipo_achado: CONFORME
+    categoria: omissao
+    tema_sugerido: MODELAGEM_ECONOMICA
+    descricao_breve: "Projeção populacional idêntica em P2, P3, P6 e Caderno; parcelas regionais somam o total"
+    comentario: "Verificada a igualdade das séries e a soma Sede + MM + AM + BM = total em todos os anos conferidos."
+    dispositivo_legal: "art. 10, inciso I, alínea 'a', da Lei n.º 11.079/2004"
+    referencias_cruzadas: ["P6 p. 35 (Tabela 6)"]
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E6-067
+    documento: "P2"
+    dispositivo_editalicio: "P2 Tabelas 15 e 16 (pp. 43–46)"
+    transcricao: "TOTAL DE INVESTIMENTOS NO SISTEMA 313.812.212 / 1.279.061.946"
+    tipo_achado: CONFORME
+    categoria: erro_material
+    tema_sugerido: MODELAGEM_ECONOMICA
+    descricao_breve: "Aritmética interna das tabelas de CAPEX e OPEX do P2 confere"
+    comentario: "Subtotais por grupo somam os totais (CAPEX R$ 313.812.212; OPEX R$ 1.279.061.946), com diferenças de R$ 1 por arredondamento; totais anuais do Ano 1 conferem com a soma dos grupos. As linhas de pessoal, instalações, manutenção e insumos do OPEX coincidem com P6 Tabelas 8–11 (exceto administração — E6-037)."
+    dispositivo_legal: "não aplicável"
+    referencias_cruzadas: ["P6 pp. 42–43"]
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E6-068
+    documento: "P3"
+    dispositivo_editalicio: "P3 VI.3 (p. 43); Tabela 22 (p. 44)"
+    transcricao: "18 caminhões com dispositivo lifter (sendo 2 reservas) [...] 32 motoristas operadores [...] 96 agentes de coleta"
+    tipo_achado: CONFORME
+    categoria: omissao
+    tema_sugerido: OBJETO_ESCOPO
+    descricao_breve: "Equipes de coleta da Sede coerentes com a frota (16 em operação × 2 turnos × 1+3)"
+    comentario: "16 caminhões em operação × 2 turnos = 32 motoristas e 96 agentes (3 por caminhão); 17 compactadores da Sede + 1 de feiras = 18; custo unitário de compactador constante (R$ 848.950) entre P2, P3 e P6."
+    dispositivo_legal: "não aplicável"
+    referencias_cruzadas: ["P2 p. 23 (equipe básica)", "P6 p. 37"]
+    flag_tecnico: false
+    flag_reserva: false
+
+  - id: E6-069
+    documento: "P3"
+    dispositivo_editalicio: "P3 Tabelas 9, 10 e 15 (pp. 20–26)"
+    transcricao: "2040 168.102 [...] 148.442"
+    tipo_achado: CONFORME
+    categoria: erro_material
+    tema_sugerido: MODELAGEM_ECONOMICA
+    descricao_breve: "Recalculo da massa residual do P3 confere com a fórmula declarada em 16 dos 17 anos tabelados"
+    comentario: "RSU × (1 − Meta 6 − Meta 7 × 51,4%) reproduz a Tabela 15 com erro ≤ 8 t, exceto 2037 (E6-018). Soma regional (Sede + MM + AM + BM) = total municipal."
+    dispositivo_legal: "não aplicável"
+    referencias_cruzadas: ["E6-018"]
+    flag_tecnico: false
+    flag_reserva: false
