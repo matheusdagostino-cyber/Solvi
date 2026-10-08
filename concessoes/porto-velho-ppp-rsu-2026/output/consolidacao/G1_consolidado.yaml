@@ -1,0 +1,1534 @@
+# [USO INTERNO] Consolidador C — Fase 1 — PPP RSU Porto Velho/RO — Grupo G1 (OBJETO_ESCOPO e LICENCIAMENTO_AMBIENTAL)
+# Páginas = página do PDF (marcadores '===== [PDF p. N] =====' dos .txt). Transcrições conferidas por grep nos textos-fonte.
+# Campo extra 'cruzamentos': pontos correlatos em outros grupos (G2/G3/G4), para deduplicação final.
+pontos:
+
+# ============================== OBJETO_ESCOPO ==============================
+
+  - id_tmp: G1-001
+    tema: OBJETO_ESCOPO
+    ids_origem: [E1-033, E3-023, E7-085]
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "EVTEA vinculante e definidor do escopo de investimentos, mas sem definição e fora do rol de anexos"
+    dispositivo_editalicio: "Edital 1.1 (sem definição de EVTEA), 2.8 e 2.9 (PDF p. 11), 2.11, 2.11.1 e 2.11.2 (p. 11-12), 3.1 'Investimentos em Infraestrutura' (p. 13), 3.1.4 (p. 14); Contrato considerando iv (p. 5), cl. 4.2, 4.2.1 e 4.2.1.1 (p. 13), 7.1 (p. 17); P0 I.3, objetivo (ix) (p. 5) e Fase 5 (p. 26-27); P7 III.2.2 (p. 27) e XI.4 (p. 70-71)"
+    transcricao: "Edital 3.1: 'incluindo o EVTEA, o qual integra o CONTRATO como parte indissociável e define o escopo integral das obrigações de investimento da CONCESSIONÁRIA' x Edital 2.11.2: 'Em caso de divergência entre o EVTEA e os ANEXOS do EDITAL ou do CONTRATO, prevalecerão estes últimos'"
+    comentario: "O Edital (3.1) e o Contrato (4.2) tratam o EVTEA como parte indissociável do Contrato e como delimitador do escopo integral dos investimentos; o Contrato remete a ele dezenas de vezes ('inclusive o EVTEA'). O EVTEA, porém, não é definido no item 1.1, não consta dos róis de anexos (Edital 2.8 e 2.9) e é subordinado aos anexos em caso de divergência (2.11.2). O item 2.11.1 o identifica com três estudos (técnico, econômico-financeiro e jurídico-institucional), o P0 previa um relatório consolidado (Fase 5) que não integra o pacote, e o Caderno 5 (indenização) previsto no P0 também não foi disponibilizado. Combinado com Edital 3.1.4 e Contrato 4.2.1.1, investimento não listado nos anexos 'ou no EVTEA' só é exigível mediante reequilíbrio, o que torna indeterminado o instrumento que fixa o escopo de investimento."
+    dispositivo_legal: "art. 18, inciso IV, da Lei n.º 8.987/1995 c/c art. 11 da Lei n.º 11.079/2004; art. 10, § 4.º, da Lei n.º 11.079/2004; art. 5.º da Lei n.º 14.133/2021"
+    depende_de: ""
+    flag_tecnico: false
+    flag_reserva: true
+    reserva_tipo: RESERVA
+    nota_reserva: "A limitação do escopo de investimento ao que estiver listado nos anexos/EVTEA (Edital 3.1.4; Contrato 4.2.1.1) favorece a concessionária: todo investimento não listado gera pleito de reequilíbrio. Impugnar a indefinição pode levar à fixação de escopo mais amplo e exigível sem recomposição."
+    cruzamentos: ["G3 E4-085 (risco de erro/omissão do EVTEA sem alocação)", "G2 E7-074 (Produto 5 ausente)"]
+
+  - id_tmp: G1-002
+    tema: OBJETO_ESCOPO
+    ids_origem: [E2-003, E1-011, E2-016]
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    descricao_breve: "Obras da CTR sem especificação, quantificação, capacidades ou elementos de projeto básico"
+    dispositivo_editalicio: "Edital 3.1 'Investimentos em Infraestrutura' (PDF p. 13) e 3.1.4 (p. 14); Contrato cl. 4.2 e 4.2.1 (p. 13), 10.3.8 (p. 28), 10.13.5 (p. 32); Caderno I (p. 7), Tabelas 23 e 24 (p. 26-27), XI.4 (p. 62)"
+    transcricao: "Edital 3.1: 'são exclusivamente aqueles relacionados, especificados, quantificados, localizados e cronogramados no Caderno de Encargos' x Caderno I: 'O Caderno não tem por objetivo substituir estudos de viabilidade, plano de negócios, matriz de riscos, anexos de indicadores, mapas executivos completos ou projeto executivo das obras.'"
+    comentario: "O Edital afirma que os investimentos estão especificados, quantificados, localizados e cronogramados no Caderno, mas o Caderno traz apenas encargos qualitativos para a CTR (UVR com triagem mecanizada, pátio de compostagem, linha de CDR, autoclave e aterro de rejeitos): não há capacidade nominal (t/dia), área, volume, vida útil do aterro nem especificações mínimas. O Contrato (10.3.8) remete as instalações mínimas aos Anexos, e o Caderno (XI.4) transfere à concessionária a apresentação do 'projeto básico ou executivo das unidades'. O Contrato (10.13.5) exige que o aterro chegue à reversão com vida útil remanescente mínima de 30 anos, sem premissa de volume nos anexos. Não se identificam, no pacote, os elementos de anteprojeto que embasaram o valor dos investimentos."
+    dispositivo_legal: "art. 18, inciso XV, da Lei n.º 8.987/1995 c/c art. 11 da Lei n.º 11.079/2004; art. 10, § 4.º, da Lei n.º 11.079/2004; art. 6.º, inciso XXV, da Lei n.º 14.133/2021 c/c art. 186 da mesma Lei"
+    depende_de: ""
+    flag_tecnico: true
+    flag_reserva: true
+    reserva_tipo: RESERVA
+    nota_reserva: "A indefinição permite pleitear reequilíbrio sobre componentes não quantificados (UVR mecanizada, CDR, autoclave, compostagem, dimensão do aterro), pela combinação Edital 3.1.4 / Contrato 4.2.1.1. A impugnação pode eliminar essa margem. [VALIDAÇÃO TÉCNICA: ponto depende de confirmação de engenharia — dimensionamento de volume e área do aterro para 30 anos de operação mais 30 anos remanescentes]"
+    cruzamentos: ["G2 E6-028, E3-046, E4-026 (aterro: capacidade e 30 anos remanescentes)", "G2 E6-031 (CAPEX da CTR em verba única)", "G2 E2-017 (equipamentos de UVR/CDR/autoclave/compostagem fora do CAPEX)"]
+
+  - id_tmp: G1-003
+    tema: OBJETO_ESCOPO
+    ids_origem: [E2-004, E3-017]
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    descricao_breve: "Cronograma físico-financeiro e 'Cronograma de Execução (Anexo)' inexistentes; elaboração transferida à concessionária"
+    dispositivo_editalicio: "Contrato cl. 7.1 e 7.3 (PDF p. 17), 10.13.1.2 (p. 31); Edital 2.8 e 2.9 (p. 11); Caderno XI.5 (p. 62-63)"
+    transcricao: "Contrato 7.1: 'mediante a observância do cronograma físico-financeiro constante dos Anexos do Edital e do Contrato, inclusive o EVTEA' / 7.3: 'detalhadas no Cronograma de Execução (Anexo)' x Caderno XI.5: 'A concessionária deverá elaborar e manter atualizado o cronograma físico-financeiro da concessão'"
+    comentario: "O Contrato remete a um cronograma físico-financeiro 'constante dos Anexos' e a um 'Cronograma de Execução (Anexo)', que não constam dos róis de anexos do Edital (2.8 e 2.9). O Caderno (XI.5) transfere à concessionária a elaboração do cronograma. Os únicos marcos estão dispersos no Anexo D (Tabela 3), no Anexo III (Tabelas 10 e 11) e no P6, e divergem entre si (ver G1-076). Sem cronograma vinculante, ficam sem referência o ramp-up da Parcela A, as sanções por atraso e o próprio Contrato 10.13.1.2, que exige cumprimento dos 'prazos do Cronograma de Execução'."
+    dispositivo_legal: "art. 23, parágrafo único, inciso I, da Lei n.º 8.987/1995 c/c art. 3.º da Lei n.º 11.079/2004; art. 18, inciso XV, da Lei n.º 8.987/1995 c/c art. 11 da Lei n.º 11.079/2004"
+    depende_de: ""
+    flag_tecnico: true
+    flag_reserva: false
+    reserva_tipo: null
+    nota_reserva: ""
+    cruzamentos: ["G4 E7-081 (Plano de Trabalho sem cronograma detalhado)"]
+
+  - id_tmp: G1-004
+    tema: OBJETO_ESCOPO
+    ids_origem: [E2-009, E6-025]
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Rotas tecnológicas de referência omitem UVR mecanizada, compostagem, CDR e autoclave"
+    dispositivo_editalicio: "Caderno V.3.1, Figuras 8, 9 e 10 (PDF p. 28-29); P2 Figuras 12, 13, 15, 16 e 17 (p. 32-36); Edital 3.1, viii (p. 13); Caderno Tabela 23 (p. 26)"
+    transcricao: "Caderno, Figura 9: 'Coleta RDO → Transporte → Aterro Sanitário CTR Porto Velho → Materiais Recicláveis / Rejeito → Disposição Final CTR Porto Velho; RSS → Unidade de Tratamento dos Resíduos de Saúde (furgão) → Resíduo Tratado Inertizado'"
+    comentario: "Os fluxogramas de rota tecnológica do Caderno (reprodução das figuras do P2) levam o RDO diretamente ao aterro, com saída apenas de recicláveis para cooperativas. Não aparecem UVR com triagem mecanizada, pátio de compostagem, linha de CDR nem autoclave, que integram o objeto (Edital 3.1, viii) e a Tabela 23 do próprio Caderno. Como o Caderno prevalece sobre o EVTEA (Edital 2.11.2), a 'rota referencial' vinculante diverge do objeto licitado e da ordem de prioridade da PNRS."
+    dispositivo_legal: "art. 9.º, caput, da Lei n.º 12.305/2010; art. 18, inciso I, da Lei n.º 8.987/1995 c/c art. 11 da Lei n.º 11.079/2004; art. 5.º da Lei n.º 14.133/2021"
+    depende_de: ""
+    flag_tecnico: true
+    flag_reserva: false
+    reserva_tipo: null
+    nota_reserva: ""
+
+  - id_tmp: G1-005
+    tema: OBJETO_ESCOPO
+    ids_origem: [E6-021]
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    descricao_breve: "Ausência de avaliação comparativa de rotas tecnológicas (alternativas, custos e critérios)"
+    dispositivo_editalicio: "P2 Cap. V (PDF p. 29-40); P3 IV.3 (p. 19); P0 (escopo do Caderno 2, p. 10)"
+    transcricao: "P3, p. 19: 'a viabilidade econômica de usinas de tratamento térmico com recuperação energética (Waste-to-Energy - WTE) no Brasil exige um fluxo mínimo de 300 a 350 toneladas de RSU por dia [...] essa tecnologia não integrará o escopo de metas obrigatórias deste projeto'"
+    comentario: "O capítulo de 'avaliação de rotas tecnológicas' do P2 descreve rotas regionais, mas não compara alternativas (TMB, biodigestão, CDR, tratamento térmico, aterro) com custos, massas e critérios de escolha. O P3 descarta o tratamento térmico citando limiar de 300-350 t/dia, embora a geração projetada no próprio estudo (150.809 t/ano em 2027 a 172.796 t/ano em 2056, cerca de 413 a 473 t/dia — cálculo) supere esse limiar, sem outra fundamentação. O P0 previa 'avaliação comparativa de soluções tecnológicas e logísticas' para o Caderno 2."
+    dispositivo_legal: "art. 18, § 1.º, inciso V, da Lei n.º 14.133/2021 c/c art. 186 da mesma Lei; art. 9.º, caput e § 1.º, da Lei n.º 12.305/2010; art. 10, inciso I, alínea 'a', da Lei n.º 11.079/2004"
+    depende_de: ""
+    flag_tecnico: true
+    flag_reserva: false
+    reserva_tipo: null
+    nota_reserva: ""
+
+  - id_tmp: G1-006
+    tema: OBJETO_ESCOPO
+    ids_origem: [E6-049]
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "UVR: triagem de todo o RSU x unidade voltada a centros comerciais; sem capacidade nominal"
+    dispositivo_editalicio: "P2 III.1 (PDF p. 10) x V.6 (p. 40); P3 p. 19-20 e 50; Contrato cl. 10.3.2 (p. 28); Caderno Tabela 23 (p. 26)"
+    transcricao: "P2, p. 10: 'O futuro CTR tambem deverá realizar triagem mecanizada dos resíduos sólidos urbanos coletados' x P2, p. 40: 'dimensionou-se uma Unidade de Valorização de Resíduos Sólidos provenientes da coleta urbana, direcionada prioritariamente aos setores que atendam aos centros comerciais'"
+    comentario: "O P2 ora prevê triagem mecanizada de todo o RSU coletado, ora uma UVR dirigida prioritariamente aos setores comerciais. A capacidade 'nominal' não é informada (t/dia, turnos, taxa de recuperação); o único parâmetro é a velocidade de esteira de 12 m/min, que o Contrato (10.3.2) torna vinculante. O P3 assume parcela de recuperação por triagem mecanizada sem dimensionar a unidade. O escopo físico da UVR, parte do objeto (Edital 3.1, viii), fica indeterminado."
+    dispositivo_legal: "art. 18, incisos I e XV, da Lei n.º 8.987/1995 c/c art. 11 da Lei n.º 11.079/2004"
+    depende_de: ""
+    flag_tecnico: true
+    flag_reserva: false
+    reserva_tipo: null
+    nota_reserva: ""
+
+  - id_tmp: G1-007
+    tema: OBJETO_ESCOPO
+    ids_origem: [E2-044, E5-037, E6-048]
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Capacidade de compostagem divergente entre Anexo III, P2, P3/P6 e Meta 7"
+    dispositivo_editalicio: "Anexo III IX.6 (PDF p. 24); P4 VII.1 (p. 31); P2 V.5.1 (p. 37), Figura 18 (p. 38) e V.5.2 (p. 39); P3 Tabela 10 (p. 21); P6 III.8 (p. 22) e Tabela 4 (p. 34); Anexo D Tabela 1, Meta 7 (p. 8)"
+    transcricao: "Anexo III IX.6: 'Unidade Central na CTR-PV, com capacidade inicial de 30 t/dia e evolução para 80 a 120 t/dia em M60' x P2, p. 37: '108,4 ton serão encaminhados à compostagem' x P6, p. 22: 'compostagem da fração orgânica de feiras e mercados'"
+    comentario: "O Anexo III (que prevalece sobre o EVTEA, Edital 2.11.2) e o P4 recomendam unidade central de 30 t/dia evoluindo para 80-120 t/dia em M60, além de unidades comunitárias. O texto do P2 afirma que 108,4 t/dia seriam encaminhadas à compostagem, mas o valor provém de figura ilustrativa ('exemplo de fluxo de massa', Figura 18), na qual 108,4 t/dia consta da coluna 'evaporação'. O P3 (Tabela 10) projeta recuperação orgânica de 1.783 t/ano em 2027 (cerca de 5 t/dia — cálculo), e o P6 prevê apenas compostagem de resíduos de feiras e mercados, sem linha de CAPEX específica. O termo 'recomenda-se' deixa incerto se a capacidade do Anexo III é obrigatória."
+    dispositivo_legal: "art. 36, inciso V, e art. 9.º da Lei n.º 12.305/2010; art. 18, inciso XV, da Lei n.º 8.987/1995 c/c art. 11 da Lei n.º 11.079/2004; art. 5.º da Lei n.º 14.133/2021"
+    depende_de: ""
+    flag_tecnico: true
+    flag_reserva: true
+    reserva_tipo: RESERVA
+    nota_reserva: "O 'recomenda-se' permite sustentar que só a Meta 7 é exigível; se a fiscalização exigir 80-120 t/dia, abre-se pleito de reequilíbrio (Edital 3.1.4). A impugnação pode fixar capacidade exigível sem recomposição."
+    cruzamentos: ["G2 E6-012 e E6-013 (leitura e premissas do balanço de massa do P2)", "G2 E2-017 (pátio de compostagem fora do CAPEX)"]
+
+  - id_tmp: G1-008
+    tema: OBJETO_ESCOPO
+    ids_origem: [E2-045]
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: risco_economico
+    descricao_breve: "Fração orgânica de 51% com meta de tratamento biológico de 3% a 7,5% e sem indicador no IQS"
+    dispositivo_editalicio: "Caderno Tabela 5 (PDF p. 11) e Tabela 8, Meta 7 (p. 13); Anexo D Tabela 1 (p. 8) e Tabela 5 (p. 14); Anexo III III (p. 7) e IX.6 (p. 24)"
+    transcricao: "Anexo D, Tabela 1: 'AUMENTO DA RECICLAGEM DA FRAÇÃO ORGÂNICA | Percentual da massa total para tratamento biológico | 3% | 4,50% | 6% | 7,50%'"
+    comentario: "Cerca de 51% da massa é orgânica, mas a Meta 7 fixa tratamento biológico entre 3% (2028) e 7,5% (2040) da massa total, o que destina a maior parte da fração orgânica ao aterro. A Meta 7 consta da Tabela 1 do Anexo D, mas não tem indicador na Tabela 5 (IQS), que só mede a Meta 6 (IQ1). O Anexo III qualifica a compostagem como diretriz prioritária. Não se verificou se o PMSB/PMGIRS vigente fixa meta superior para orgânicos."
+    dispositivo_legal: "art. 9.º e art. 36, inciso V, da Lei n.º 12.305/2010; art. 19, inciso XIV, da Lei n.º 12.305/2010; não localizei fundamento normativo que fixe percentual mínimo de tratamento biológico"
+    depende_de: "Metas do PMSB/PMGIRS (LC Municipal n.º 972/2023) para a fração orgânica; texto do plano não integra o pacote."
+    flag_tecnico: true
+    flag_reserva: false
+    reserva_tipo: null
+    nota_reserva: ""
+    cruzamentos: ["G2 E2-061 (encargos sem indicador no IQS)"]
+
+  - id_tmp: G1-009
+    tema: OBJETO_ESCOPO
+    ids_origem: [E2-019, E6-024]
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "CDR obrigatório no Edital e no Contrato, condicional no Caderno e no Anexo III"
+    dispositivo_editalicio: "Edital 3.1, viii (PDF p. 13); Contrato cl. 4.1, viii (p. 12) e 10.3.9 (p. 28); Caderno Tabela 2 (p. 9), Tabela 23 (p. 26), V.3 e Tabela 24 (p. 27); Anexo III IX.5 (p. 24); P3 p. 19"
+    transcricao: "Contrato 10.3.9: 'A rota tecnológica de tratamento adotará a triagem mecanizada dos recicláveis na UVR e o aproveitamento da fração de rejeitos com conteúdo energético para produção de Combustível Derivado de Resíduos (CDR)' x Caderno, Tabela 2: 'Combustível Derivado de Resíduos, quando tecnicamente viável' x Caderno V.3 e Anexo III IX.5: 'quando adotada'"
+    comentario: "Edital e Contrato (4.1, viii, e 10.3.9) incluem o processamento de CDR como estrutura e rota obrigatória da CTR. O Caderno o condiciona ('quando tecnicamente viável', 'quando viável e aprovado', 'quando adotada'; Tabela 24: 'Depende de viabilidade, licenciamento e mercado consumidor'), e o Anexo III repete 'quando adotada'. O P3 exclui rotas térmicas das metas obrigatórias, e o P2 descreve a linha de CDR sem capacidade, massa ou custo. Não está definido se a linha de CDR é obrigação certa, se sua falta afeta a remuneração, nem quem decide sobre a 'viabilidade'."
+    dispositivo_legal: "art. 18, inciso I, da Lei n.º 8.987/1995 c/c art. 11 da Lei n.º 11.079/2004; art. 5.º da Lei n.º 14.133/2021"
+    depende_de: ""
+    flag_tecnico: true
+    flag_reserva: false
+    reserva_tipo: null
+    nota_reserva: ""
+    cruzamentos: ["G3 E3-082 (CDR obrigatório sem risco de mercado alocado)", "G2 E4-056 (linha de CDR sem CAPEX)"]
+
+  - id_tmp: G1-010
+    tema: OBJETO_ESCOPO
+    ids_origem: [E2-020, E5-039, E6-024]
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    descricao_breve: "CDR sem demonstração de viabilidade técnica e ambiental, especificação ou mercado consumidor"
+    dispositivo_editalicio: "Caderno Tabela 24 (PDF p. 27); P2 V.6 (p. 40); P6 II.2 (p. 13); P1 VIII.1 (p. 96) e IX (p. 106); P4 (ausência de análise de CDR)"
+    transcricao: "P6, p. 13: 'prensagem para otimizar o transporte até indústrias cimenteiras para coprocessamento [...] gera receita pela venda do CDR às cimenteiras' x Caderno, Tabela 24: 'Depende de viabilidade, licenciamento e mercado consumidor.'"
+    comentario: "P2 e P6 indicam coprocessamento em cimenteiras, com receita de venda, mas nenhum documento identifica planta receptora, distância, especificação exigida (PCI, umidade, teor de cloro), produção estimada ou manifestação de interesse de comprador. P1 recomenda 'valorização energética' e P4 não avalia emissões nem monitoramento dessa rota. A PNRS condiciona a recuperação energética à comprovação de viabilidade técnica e ambiental e à implantação de programa de monitoramento de emissão de gases aprovado pelo órgão ambiental."
+    dispositivo_legal: "art. 9.º, § 1.º, da Lei n.º 12.305/2010; Resolução CONAMA n.º 499/2020 (coprocessamento em fornos de clínquer — conferir aplicabilidade); NR n.º 7/2024 da ANA (Resolução ANA n.º 187/2024) — dispositivos a conferir"
+    depende_de: ""
+    flag_tecnico: true
+    flag_reserva: false
+    reserva_tipo: null
+    nota_reserva: ""
+    cruzamentos: ["G3 E3-082", "G2 E4-056, E6-060"]
+
+  - id_tmp: G1-011
+    tema: OBJETO_ESCOPO
+    ids_origem: [E2-021]
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Metas de aproveitamento energético (até 63,4%) e de tratamento térmico (até 16,4%) sem infraestrutura nem indicador"
+    dispositivo_editalicio: "Caderno Tabela 8, metas 8 e 9 (PDF p. 13); Anexo D Tabela 1 (p. 8); P3 p. 19; P6 p. 49"
+    transcricao: "Caderno, Tabela 8: '8 Aproveitamento energético 23,9% 26,4% 49,5% 63,4% / 9 Aproveitamento energético por tratamento térmico 8,1% 10,9% 13,6% 16,4%'"
+    comentario: "O Caderno, que prevalece sobre o EVTEA (Edital 2.11.2), adota metas de aproveitamento energético crescentes até 63,4% e de tratamento térmico até 16,4% em 2040. As metas 8 e 9 não constam do Anexo D, o P3 exclui o tratamento térmico das metas obrigatórias e o P6 afirma que a geração de energia a partir do biogás requer CAPEX não contemplado no modelo base. As rotas tecnológicas de referência do próprio Caderno não preveem valorização energética (ver G1-004). Fica indefinido se essas metas obrigam a concessionária."
+    dispositivo_legal: "art. 10-A, inciso I, da Lei n.º 11.445/2007; art. 9.º, § 1.º, da Lei n.º 12.305/2010; art. 5.º da Lei n.º 14.133/2021"
+    depende_de: ""
+    flag_tecnico: true
+    flag_reserva: false
+    reserva_tipo: null
+    nota_reserva: ""
+
+  - id_tmp: G1-012
+    tema: OBJETO_ESCOPO
+    ids_origem: [E1-041, E2-010, E3-038, E4-020, E5-066, E6-022]
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Rota de tratamento de RSS indefinida: autoclave na CTR x reativação do incinerador municipal"
+    dispositivo_editalicio: "Edital 1.1.9 (PDF p. 7), 3.1, viii, e 3.1.2 (p. 13); Contrato cl. 4.1, viii (p. 12), 8.8, iii (p. 20), 8.10 (p. 20), 10.2.26.1 (p. 25), 10.3.10 a 10.3.10.2 (p. 29); Caderno XI.4 (p. 61); Anexo D Tabela 3 (p. 10), IE4 (p. 14) e IO4 (p. 17); Anexo III Tabela 3 (p. 9); P2 Sumário (p. 5), VI.1 (p. 41), Tabela 15 item 5 (p. 44); P6 II.2 (p. 13), III.8 (p. 22), Tabela 7 item 5 (p. 40)"
+    transcricao: "Edital 3.1, viii: 'autoclave para RSS' x Contrato 10.3.10: 'mediante a reativação e modernização do incinerador municipal' x Contrato 8.8, iii: 'destinação exclusiva à unidade de tratamento térmico ou autoclave da CTR' x Edital 1.1.9: 'transporte até incinerador ou unidade de autoclavagem devidamente licenciados'"
+    comentario: "Edital e Contrato (4.1, viii) incluem 'autoclave para RSS' na CTR, e o Anexo III descreve a CTR-PV com autoclave. O Contrato (10.3.10), o Caderno (XI.4), o Anexo D (IE4 e IO4, que mede 'RSS incinerados') e o P6 adotam a reativação do incinerador municipal; o P6 orça apenas o incinerador (grupo 5 da Tabela 7: R$ 1,5 mi em recuperação e substituição de equipamentos, cerca de R$ 1,8 mi no total do grupo) e nenhuma linha cobre autoclave, embora o P2 (p. 41) mencione 'autoclaves' no texto de CAPEX/OPEX. O Contrato 8.8, iii, e 10.2.26.1 admitem as duas soluções, o Edital 3.1.2 fala em 'monopólio dos serviços públicos de tratamento térmico de RSS' e o Contrato 8.10 admite rota diversa mediante autorização da ARDPV. Não está definido se a licitante deve orçar autoclave, incinerador ou ambos; licenciamento (Resolução CONAMA n.º 316/2002 para tratamento térmico) e CAPEX diferem."
+    dispositivo_legal: "art. 18, incisos I e XV, da Lei n.º 8.987/1995 c/c art. 11 da Lei n.º 11.079/2004; art. 10, § 4.º, da Lei n.º 11.079/2004; art. 5.º da Lei n.º 14.133/2021; Resolução CONAMA n.º 358/2005; Resolução CONAMA n.º 316/2002"
+    depende_de: ""
+    flag_tecnico: true
+    flag_reserva: false
+    reserva_tipo: null
+    nota_reserva: ""
+    cruzamentos: ["G2 E6-023 (RSS sem estimativa de geração e capacidade)", "G2 E2-052 (IO4 dependente de incineração)", "G3 E4-074 (risco de reativar incinerador)"]
+
+  - id_tmp: G1-013
+    tema: OBJETO_ESCOPO
+    ids_origem: [E2-011, E3-039, E5-065]
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: omissao
+    descricao_breve: "Incinerador municipal: estado técnico, licença e passivos não informados; reativação medida no Ano 2"
+    dispositivo_editalicio: "Caderno XI.4 (PDF p. 61-62); Contrato cl. 10.3.10.1 e 10.3.10.2 (p. 29); Anexo D Tabela 3 (p. 10) e Tabela 5, IE4 (p. 14); Anexo III Tabela 3 (p. 10); P1 VII.2.5 (p. 88-89) e VII.2.7 (p. 94)"
+    transcricao: "Contrato 10.3.10.2: 'A recuperação e a modernização do incinerador municipal de RSS, bem reversível de titularidade do Poder Concedente, integram os investimentos obrigatórios a cargo da Concessionária [...] no prazo previsto nos Anexos' x Caderno XI.4: 'somente poderá ser utilizado de acordo com [...] as licenças ambientais vigentes'"
+    comentario: "O P1 registra a retirada de balança e elevador de carga, software inativo e teto avariado, e afirma que a volta à operação depende de levantamento completo dos componentes faltantes. Nenhum documento informa se há licença de operação válida, se o equipamento atende aos parâmetros da Resolução CONAMA n.º 316/2002, nem o custo de recuperação. O Anexo D mede a reativação (IE4) em 100% a partir do Ano 2, e o Contrato (10.3.10.1) obriga a concessionária a destinar 100% dos RSS até a reativação, sem regra de custo dessa destinação transitória."
+    dispositivo_legal: "art. 18, incisos X e XI, da Lei n.º 8.987/1995 c/c art. 11 da Lei n.º 11.079/2004; art. 5.º, inciso III, da Lei n.º 11.079/2004; Resolução CONAMA n.º 316/2002"
+    depende_de: "Laudo técnico de condição do incinerador; situação da licença de operação e histórico de emissões; inventário do termo de entrega (Caderno XI.4)."
+    flag_tecnico: true
+    flag_reserva: false
+    reserva_tipo: null
+    nota_reserva: ""
+    cruzamentos: ["G3 E4-074 (risco integral de reativação x proteção do termo de entrega)", "G3 E2-059 (IE4 depende de ato do PC)", "G3 E5-067 (destino transitório de RSS)"]
+
+  - id_tmp: G1-014
+    tema: OBJETO_ESCOPO
+    ids_origem: [E1-037, E2-012, E7-042]
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: omissao
+    descricao_breve: "Universo de RSS custeado pela contraprestação indefinido; RSS privado de recebimento compulsório"
+    dispositivo_editalicio: "Edital 1.1.9 (PDF p. 7), 3.1, iii (p. 12), 3.1.2 e 3.1.2.2 (p. 13-14); Caderno Tabela 2, termo RSS (p. 8); Contrato cl. 18.2, i, e 18.2.2 (p. 42); P7 II.9 e II.10 (p. 20-21); P1 VI (p. 59)"
+    transcricao: "Edital 3.1.2: 'Os resíduos de serviços de saúde (RSS) de geradores eventualmente não abrangidos pela coleta pública não integram o objeto [...] a Concessionária não poderá recusar o recebimento e o tratamento desses RSS' x Caderno, Tabela 2: 'destinação específica definida para unidades municipais atendidas'"
+    comentario: "O Edital exclui do objeto os RSS de geradores 'não abrangidos pela coleta pública', sem dizer quais geradores estão abrangidos; o Caderno limita o RSS do objeto às 'unidades municipais atendidas', e o P1 (p. 59) se refere aos RSS 'gerados pelas unidades da prefeitura'. Não há cadastro ou quantitativo das unidades geradoras abrangidas. O Edital (3.1.2) obriga a concessionária a receber e tratar RSS de geradores privados, invocando 'monopólio dos serviços públicos de tratamento térmico de RSS', mediante tarifa especial fixada pela ARDPV como receita acessória (Contrato 18.2.2), sem dimensionamento da capacidade de tratamento para essa demanda. A legislação atribui ao gerador o gerenciamento dos seus RSS."
+    dispositivo_legal: "art. 20, inciso I, e art. 27 da Lei n.º 12.305/2010; art. 3.º-C da Lei n.º 11.445/2007; Resolução CONAMA n.º 358/2005; art. 18, inciso I, da Lei n.º 8.987/1995 c/c art. 11 da Lei n.º 11.079/2004"
+    depende_de: "Cadastro das unidades geradoras públicas abrangidas e massa de RSS considerada no P3/P6; existência de alternativa privada de tratamento (o P1, p. 88, refere incinerador particular em uso)."
+    flag_tecnico: true
+    flag_reserva: true
+    reserva_tipo: RESERVA
+    nota_reserva: "A obrigação de receber RSS de geradores privados, com tarifa especial e exclusividade de fato, cria receita acessória cativa e pouco evidente para quem tiver capacidade de tratamento. Suscitar a delimitação pode eliminar essa receita."
+    cruzamentos: ["G2 E1-038 (receita acessória cativa de RSS privado)", "G2 E3-075 (erário custeando RSS privado via reequilíbrio)", "G2 E4-055"]
+
+  - id_tmp: G1-015
+    tema: OBJETO_ESCOPO
+    ids_origem: [E2-022, E6-016]
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Meta 4 (redução de 16,3% a 35,1%) inclui tratamento térmico excluído e não é atingível pelas rotas modeladas"
+    dispositivo_editalicio: "Caderno Tabela 7 e Tabela 8, meta 4 (PDF p. 12); Anexo D Tabela 1 (p. 8) e TO-10 (p. 9); Contrato cl. 10.2.35 (p. 27); P3 Tabelas 7 e 8 (p. 17-18) e p. 19; P6 Tabela 4 (p. 34)"
+    transcricao: "Caderno, Tabela 8: '4 Redução de resíduos 16,3% 22,6% 29,0% 35,1%' x Contrato 10.2.35: 'metas progressivas de desempenho do sistema, que constituem piso de exigibilidade contratual e parâmetro de aferição do IQD, previstas no Anexo D'"
+    comentario: "Pela Tabela 7 do Caderno, a massa recuperada é de 3,8% em 2028 ((153.683 - 147.791)/153.683) e de 11,7% em 2040 ((168.102 - 148.442)/168.102) — cálculo; o P6 (Tabela 4) projeta 6,64% (2028) a 15,34% (2040). A Meta 4 (16,3% a 35,1%) corresponde à soma da Meta 6 não ajustada (5,2% a 11,2%), da Meta 7 (3% a 7,5%) e da Meta 9 de tratamento térmico (8,1% a 16,4%) — conferência aritmética: 5,2 + 3,0 + 8,1 = 16,3 e 11,2 + 7,5 + 16,4 = 35,1 —, embora o P3 (p. 19) exclua o tratamento térmico das metas obrigatórias. A Meta 4 está no Anexo D (Tabela 1), cujas metas o Contrato (10.2.35) qualifica como 'piso de exigibilidade contratual', e a Matriz/Anexo D (TO-10) usa a 'taxa de desvio do aterro sanitário' com metas definidas pela ARDPV."
+    dispositivo_legal: "art. 10-A, inciso I, da Lei n.º 11.445/2007; art. 5.º, inciso VII, da Lei n.º 11.079/2004; art. 18, inciso I, da Lei n.º 8.987/1995 c/c art. 11 da Lei n.º 11.079/2004; art. 5.º da Lei n.º 14.133/2021"
+    depende_de: ""
+    flag_tecnico: true
+    flag_reserva: false
+    reserva_tipo: null
+    nota_reserva: "[VALIDAÇÃO TÉCNICA: ponto depende de confirmação de engenharia — balanço de massa]"
+    cruzamentos: ["G2 E2-023, E4-057 (balanço de massa)", "G2 E6-015 (metodologia das metas)", "G3 E4-072 (risco de metas de reciclagem)"]
+
+  - id_tmp: G1-016
+    tema: OBJETO_ESCOPO
+    ids_origem: [E2-024]
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Meta 6 (recuperação de secos) dos anexos difere da premissa do P6"
+    dispositivo_editalicio: "Caderno Tabela 8, meta 6 (PDF p. 12); Anexo D Tabelas 1 e 5 (p. 8 e 14); Anexo III Tabela 15 (p. 26); P6 Tabela 4 (p. 34); Contrato cl. 10.2.35 (p. 27)"
+    transcricao: "Caderno/Anexo D: '6 Recuperação da fração seca 2,29% 3,64% 5,65% 7,84%' x P6, Tabela 4: 'Recuperação Fração Seca (Meta 6) [...] 2028 [...] 5,20% [...] 2040 [...] 11,20%'"
+    comentario: "Os anexos fixam a Meta 6 em 2,29% (2028), 3,64% (2032), 5,65% (2036) e 7,84% (2040); a Tabela 4 do P6 usa 5,20%, 7,20%, 9,20% e 11,20% na composição do volume a recuperar. A meta exigível (Contrato 10.2.35: 'piso de exigibilidade') não corresponde à premissa de massa e de receita da modelagem."
+    dispositivo_legal: "art. 5.º, inciso VII, da Lei n.º 11.079/2004; art. 23, inciso III, da Lei n.º 8.987/1995 c/c art. 3.º da Lei n.º 11.079/2004"
+    depende_de: ""
+    flag_tecnico: true
+    flag_reserva: false
+    reserva_tipo: null
+    nota_reserva: ""
+    cruzamentos: ["G2 E2-055 (fórmula da Meta 6 ajustada)", "G2 E6-015"]
+
+  - id_tmp: G1-017
+    tema: OBJETO_ESCOPO
+    ids_origem: [E2-025, E6-007, E5-030, E5-032]
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Linhas de base divergentes: cobertura urbana e rural, coleta seletiva e recuperação"
+    dispositivo_editalicio: "Caderno Tabela 4 (PDF p. 10); Anexo III V.4 (p. 13), Tabela 7 (p. 14), Tabela 15 e XI.1 (p. 26); Anexo D Tabela 1, Meta 6.1 (p. 8); P1 Tabela 3 (p. 26); P2 p. 13; P3 Tabela 3 (p. 13); P4 Tabela 5 (p. 15) e Tabela 8 (p. 24)"
+    transcricao: "Anexo III, Tabela 7: 'Cobertura rural igual a 0,00%' x Anexo III, Tabela 15: 'Cobertura de coleta rural (%) 60% [...] SINISA 2024' x P1, Tabela 3 (SINISA): 'Coleta urbana (%) 86,28% [...] Coleta rural (%) 0,00%'"
+    comentario: "Cobertura urbana: 98% no Caderno (Tabela 4) e no P2 (PMSB 2022), 86,28% no P1 (SINISA 2024). Cobertura rural: 60% no Caderno e no Anexo III (Tabela 15, atribuída ao SINISA 2024) e 0,00% no próprio Anexo III (Tabela 7) e no P1, com a mesma fonte. Coleta seletiva: 22% (Caderno), 28,30% (P1), 31,67% da Sede (Anexo III/P4) e 56,8% em 2028 na Meta 6.1 do Anexo D. Recuperação de recicláveis: 0,17% (Caderno), 1,35% (Anexo III, V.4 e XI.1) e 0,97% (Anexo III, Tabela 15). Metas, indicadores e descontos partem dessas bases."
+    dispositivo_legal: "art. 5.º, inciso VII, da Lei n.º 11.079/2004; art. 10-A, inciso I, da Lei n.º 11.445/2007; art. 18, inciso I, da Lei n.º 8.987/1995 c/c art. 11 da Lei n.º 11.079/2004; art. 5.º da Lei n.º 14.133/2021"
+    depende_de: ""
+    flag_tecnico: false
+    flag_reserva: false
+    reserva_tipo: null
+    nota_reserva: ""
+    cruzamentos: ["G3 E5-034 (correspondência ano contratual/ano civil das metas)", "G2 E2-060 (indicadores de cobertura só urbanos)"]
+
+  - id_tmp: G1-018
+    tema: OBJETO_ESCOPO
+    ids_origem: [E5-087, E6-017]
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    descricao_breve: "Compatibilidade com o PMSB/PMGIRS não demonstrada; conferência diferida para depois do contrato"
+    dispositivo_editalicio: "P4 V.3 (PDF p. 24); Contrato cl. 11.4.1 (p. 33); P3 Tabela 7 e quadro PLANARES-Norte (p. 17); P6 Tabela 4 (p. 34)"
+    transcricao: "P4, p. 24: 'A vinculação operacional entre os indicadores do EVTEA e os Quadros 5 a 10 do PMSB-Porto Velho deverá ser objeto de revisão técnica conjunta [...] em até 120 dias após o início da concessão' / Contrato 11.4.1: 'deverá ser objeto de revisão técnica conjunta [...] nos prazos previstos nos Anexos do Contrato e/ou nos estipulados pela ARDPV'"
+    comentario: "Os estudos não transcrevem as metas do PMSB/PMGIRS nem verificam se a rota CTR + UVR + compostagem + CDR + aterro está prevista no plano; P4 e Contrato (11.4.1) remetem a correspondência entre indicadores contratuais e os Quadros 5 a 10 do PMSB a revisão posterior ao início da concessão. A trajetória de recuperação efetivamente modelada (até 15,34% em 2040 no P6) fica abaixo da meta de redução atribuída ao PMSB (35,1% em 2040, P3 Tabela 7) e da meta do PLANARES para a Região Norte (26,2% em 2040), sem justificativa de compatibilização."
+    dispositivo_legal: "art. 11, incisos I e II, da Lei n.º 11.445/2007; art. 19, inciso XIV, da Lei n.º 12.305/2010"
+    depende_de: ""
+    flag_tecnico: false
+    flag_reserva: false
+    reserva_tipo: null
+    nota_reserva: "O texto do PMSB/PMGIRS (Quadros 5 a 10) não integra o pacote; a conferência material das metas depende dele."
+
+  - id_tmp: G1-019
+    tema: OBJETO_ESCOPO
+    ids_origem: [E5-086]
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Base legal do PMSB/PMGIRS divergente (LC 972/2023 x LC 839/2021), inclusive dentro do Contrato"
+    dispositivo_editalicio: "Edital 2.1, k (PDF p. 10); Contrato cl. 3.2, x (p. 11) x cl. 10.2.32 (p. 26); P1 V.3 (p. 57); P2 III (p. 10); P4 II.1 (p. 9) e V.3 (p. 24); P6 p. 11 (nota 10); P7 II.7 (p. 19)"
+    transcricao: "Contrato 3.2, x: 'Plano Municipal de Saneamento Básico de Porto Velho, com as alterações da Lei Complementar nº 972, de 19 de dezembro de 2023' x Contrato 10.2.32: 'Plano Municipal de Gestão Integrada de Resíduos Sólidos, aprovado pela Lei Complementar nº 839, de 4 de fevereiro de 2021'"
+    comentario: "Edital (2.1, k), Contrato (3.2, x), P1 e P7 indicam a revisão do PMSB/PMGIRS pela LC Municipal n.º 972/2023 (o P1 acrescenta o Decreto n.º 19.686/2024). O Contrato (10.2.32), o P2, o P4 e o P6 atribuem o PMSB/PMGIRS à LC n.º 839/2021, 'revisado em 2024' segundo o P4. A existência de plano é condição de validade do contrato, e a divergência impede identificar o plano e as metas de referência vigentes."
+    dispositivo_legal: "art. 11, inciso I, da Lei n.º 11.445/2007; art. 19 da Lei n.º 12.305/2010; art. 5.º da Lei n.º 14.133/2021"
+    depende_de: ""
+    flag_tecnico: false
+    flag_reserva: false
+    reserva_tipo: null
+    nota_reserva: ""
+
+  - id_tmp: G1-020
+    tema: OBJETO_ESCOPO
+    ids_origem: [E4-028, E5-064, E6-026, E2-030]
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Aterro do Jirau: aterro a reativar para o Alto Madeira x área em pós-encerramento por 20 anos"
+    dispositivo_editalicio: "Edital 3.1, vii (PDF p. 13); Contrato cl. 4.1, vii (p. 12), 8.6.2 (p. 19), 8.8, ii (p. 19-20); Anexo III Tabela 3 (p. 9), VII.3 (p. 18), PA-08 (p. 19) e XIV.3 (p. 34); Anexo D Tabela 3 (p. 10) e IE3 (p. 14, 19); Caderno Tabela 19 (p. 23); Matriz TO-02 (p. 3); P2 IV.2 e IV.2.1 (p. 24-25); P6 III.8 (p. 22), Tabela 7 item 4.2 (p. 40), p. 46"
+    transcricao: "Edital 3.1, vii: 'Recuperação, operação e monitoramento pós-encerramento do Aterro do Jirau, após a sua disponibilização pelo Poder Concedente' x Contrato 8.6.2: 'A reativação e a regularização [...] necessárias à sua utilização como unidade de disposição de resíduos sólidos urbanos' x Contrato 8.8, ii: 'observado o prazo mínimo de 20 (vinte) anos'"
+    comentario: "O objeto (Edital 3.1, vii), o Contrato 8.8, ii, e o Anexo III (VII.3 e PA-08) tratam de recuperação e monitoramento pós-encerramento, com prazo mínimo de 20 anos (o PA-08, porém, fixa M1-M12). O Contrato 8.6.2, o Anexo D ('Jirau – recuperação e ativação/reativação'), a Matriz TO-02, o Anexo III XIV.3 ('Reativação do Aterro do Jirau como prioridade logística'), o Caderno ('CTR Jirau' como destino) e P2/P6 o tratam como aterro em operação para o Alto Madeira, com 'operação do Aterro do Jirau para os resíduos do Alto Madeira' (P6, p. 22). O P6 orça R$ 5,0 mi de 'recuperação' no Ano 2 e equipamentos, sem células novas nem custo específico de 20 anos de monitoramento. Capacidade, vida útil e escopo da 'recuperação' não estão definidos."
+    dispositivo_legal: "art. 18, inciso I, da Lei n.º 8.987/1995 c/c art. 11 da Lei n.º 11.079/2004; art. 10, § 4.º, da Lei n.º 11.079/2004; art. 5.º da Lei n.º 14.133/2021"
+    depende_de: ""
+    flag_tecnico: true
+    flag_reserva: false
+    reserva_tipo: null
+    nota_reserva: ""
+    cruzamentos: ["G3 E5-063, E6-027 (status, titularidade e custo do Jirau)", "G3 E4-068 (TO-02)"]
+
+  - id_tmp: G1-021
+    tema: OBJETO_ESCOPO
+    ids_origem: [E1-035, E2-029, E3-035]
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    descricao_breve: "Jirau: disponibilização pelo Poder Concedente sem prazo nem conteúdo, mas medida e remunerada a partir do Ano 2"
+    dispositivo_editalicio: "Edital 3.1, vii (PDF p. 13); Contrato cl. 8.6.2 (p. 19); Anexo D Tabela 3 (p. 10) e Tabela 5, IE3 (p. 14); Matriz TO-02 (p. 3); P6 p. 46 (ramp-up da Parcela A)"
+    transcricao: "Contrato 8.6.2: 'constituem condição cuja viabilização é de responsabilidade do Poder Concedente, sem prejuízo das obrigações de recuperação, operação e monitoramento atribuídas à Concessionária após a respectiva disponibilização' / P6, p. 46: 'ramp-up de 60% no 1° ano; 80% no 2° ano e 100% no terceiro ano, no qual se espera ter o Aterro do Jirau e a CTR Municipal em condições de operação'"
+    comentario: "Edital e Contrato não fixam prazo nem conteúdo da 'disponibilização' do Jirau pelo Poder Concedente; a Matriz (TO-02) refere-se ao 'Mês 24 do contrato (contado da Ordem de Início)'. O Anexo D mede a 'recuperação e ativação' (IE3) em 100% a partir do Ano 2, o P6 aloca R$ 5,0 mi no Ano 2 e baseia o ramp-up da Parcela A na operação do Jirau no Ano 3. O Caderno não tem seção sobre o Jirau. Não estão definidos o regime de destinação do Alto Madeira nem os efeitos sobre IE3 e Parcela A enquanto a disponibilização não ocorre."
+    dispositivo_legal: "art. 5.º, inciso III, da Lei n.º 11.079/2004; art. 18, inciso I, da Lei n.º 8.987/1995 c/c art. 11 da Lei n.º 11.079/2004; art. 23, parágrafo único, inciso I, da Lei n.º 8.987/1995 c/c art. 3.º da Lei n.º 11.079/2004"
+    depende_de: ""
+    flag_tecnico: true
+    flag_reserva: false
+    reserva_tipo: null
+    nota_reserva: "Esclarecimento dirigido possível: conteúdo da 'disponibilização', prazo e efeito sobre IE3 e Parcela A."
+    cruzamentos: ["G3 E2-059 (IE3/IE4 dependem de atos do PC)", "G3 E5-063 (Jirau: titularidade, licença e disputa — marcado reserva pelo extrator)", "G2 E7-049 (pagamento mantido em atraso de bens do PC)"]
+
+  - id_tmp: G1-022
+    tema: OBJETO_ESCOPO
+    ids_origem: [E3-010, E4-029, E6-057, E7-043, E7-084]
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Limpeza urbana/varrição: excluída pelo P7, incluída no objeto do Contrato e remunerada pela CP segundo o P6"
+    dispositivo_editalicio: "Contrato considerando i (PDF p. 5), cl. 1.3.49 (p. 10) e 4.1 (p. 12); Edital 3.1 (p. 12-13); P7 II.8 (p. 20), III.2 (p. 26) e III.2.4 (p. 28); P6 II.2 (p. 11-12) e Tabela 8 (p. 42); P0 II.2 (p. 8)"
+    transcricao: "Contrato 4.1: 'serviços públicos de implantação, operação, manutenção, limpeza urbana, coleta, reciclagem e disposição final dos resíduos sólidos' x P7 II.8: 'A delimitação do objeto ao manejo de RSU, com exclusão da limpeza urbana, é, portanto, integral.' x P6, p. 12: 'A varrição é integralmente remunerada pela Contraprestação Pública e não gera receitas acessórias.'"
+    comentario: "O Contrato inclui 'limpeza urbana' no objeto (4.1), na definição de Serviços (1.3.49: 'limpeza urbana e manejo de resíduos sólidos') e no considerando i, enquanto Edital (3.1), Caderno e Anexo III não preveem varrição, capina ou atividades congêneres e o P7 afirma a exclusão integral da limpeza urbana. O P6 (p. 11-12) descreve a varrição como serviço da concessão remunerado pela contraprestação, mas sua Tabela 8 (custos de pessoal) não contém equipes de varrição; o P0 incluía a varrição no escopo dos estudos. A divergência permite exigir serviço não precificado ou, inversamente, sustentar custo de varrição embutido na contraprestação sem obrigação correspondente."
+    dispositivo_legal: "art. 3.º, inciso I, alínea 'c', e art. 7.º da Lei n.º 11.445/2007; art. 23, inciso I, da Lei n.º 8.987/1995 c/c art. 3.º da Lei n.º 11.079/2004; art. 5.º da Lei n.º 14.133/2021"
+    depende_de: ""
+    flag_tecnico: false
+    flag_reserva: true
+    reserva_tipo: RESERVA
+    nota_reserva: "Hipótese do extrator E7: se a CP precifica varrição não exigida pelo Caderno, há erro favorável à concessionária. A Tabela 8 do P6 não traz equipes de varrição, o que não confirma essa hipótese; a ambiguidade tem também efeito adverso (exigência de varrição sem remuneração). Decisão do advogado."
+
+  - id_tmp: G1-023
+    tema: OBJETO_ESCOPO
+    ids_origem: [E2-040, E5-015]
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: omissao
+    descricao_breve: "Resíduos de limpeza urbana (RLU) no balanço de massa sem regra de recebimento, transporte e medição"
+    dispositivo_editalicio: "Caderno Tabela 2, termo RLU (PDF p. 8), e Tabela 7 (p. 12); P6 Tabela 3 e p. 33; P1 VII (p. 61)"
+    transcricao: "Caderno, Tabela 2: 'RLU | Resíduos de limpeza urbana, quando integrados ao fluxo de manejo previsto no contrato.' / P1, p. 61: 'MB Limpeza Urbana o Varrição e poda; e transporte até o aterro Ecoparque.'"
+    comentario: "A Tabela 7 do Caderno inclui 16.086 t/ano de RLU (2027) na massa bruta, e o P6 considera o RLU da varrição no fluxo de destinação. Varrição e poda são executadas hoje por terceiro (MB Limpeza Urbana), cujo contrato não é descrito, e não integram o objeto do Edital. Não está definido se a concessionária deve receber e dispor o RLU municipal, quem o transporta à CTR, como a massa é medida nem se ela integra a base de remuneração variável."
+    dispositivo_legal: "art. 3.º-C, inciso III, da Lei n.º 11.445/2007; art. 18, inciso I, da Lei n.º 8.987/1995 c/c art. 11 da Lei n.º 11.079/2004"
+    depende_de: "Contrato vigente de varrição/poda (MB Limpeza Urbana) e cláusula de destinação; confirmação de que a massa de RLU integra a base de destinação final e da Parcela B."
+    flag_tecnico: false
+    flag_reserva: false
+    reserva_tipo: null
+    nota_reserva: ""
+
+  - id_tmp: G1-024
+    tema: OBJETO_ESCOPO
+    ids_origem: [E7-044]
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: omissao
+    descricao_breve: "Suposta vedação legal à concessão da limpeza pública afirmada sem fonte normativa"
+    dispositivo_editalicio: "P7 III.2.4 (PDF p. 28)"
+    transcricao: "P7 III.2.4: 'que veda a concessão das atividades de limpeza pública (varrição de vias, lavagem, raspagem de sarjetas, roçagem de margens de córregos e poda de árvores), as quais devem ser executadas por servidores públicos municipais'"
+    comentario: "O P7 fundamenta o recorte do objeto em vedação à concessão da limpeza pública e em dever de execução por servidores, sem citar a norma. A legislação federal refere a limpeza urbana entre os serviços passíveis de concessão sem lei autorizativa específica. Se a vedação decorrer de norma municipal, ela deve ser identificada; se não existir, a premissa do recorte do objeto não tem base indicada."
+    dispositivo_legal: "não localizei fundamento normativo específico para a vedação afirmada; art. 2.º da Lei n.º 9.074/1995 (conferir redação vigente)"
+    depende_de: "Identificação da norma (municipal ou outra) invocada pelo P7."
+    flag_tecnico: false
+    flag_reserva: false
+    reserva_tipo: null
+    nota_reserva: ""
+
+  - id_tmp: G1-025
+    tema: OBJETO_ESCOPO
+    ids_origem: [E1-036, E2-034, E6-047, E4-092]
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "RCC excluído do objeto, mas ecopontos destinados a receber RCC (Contrato 10.3.11 e P2)"
+    dispositivo_editalicio: "Edital 3.1.1 e 3.1.1.1 (PDF p. 13); Contrato cl. 10.3.11 (p. 29) e 18.2, f (p. 42); Caderno Tabela 2, termo PEV/Ecoponto (p. 8); P2 Sumário (p. 5) e Tabela 15 itens 1.4.1-1.4.2 (p. 43); P6 III.5 (p. 20)"
+    transcricao: "Edital 3.1.1: 'Não integram o objeto da Concessão, nem compõem a base de cálculo da contraprestação [...] os resíduos da construção civil (RCC)' x Contrato 10.3.11: 'rede de Ecopontos destinada à entrega voluntária de resíduos volumosos e de resíduos de construção civil (RCC)'"
+    comentario: "O Edital exclui o RCC do objeto e da base de cálculo da contraprestação e permite recusá-lo (3.1.1.1). O Contrato (10.3.11) e o P2 (p. 5) concebem a rede de ecopontos para entrega voluntária de volumosos e RCC; o Contrato também lista o RCC como receita acessória (18.2, f). O Caderno remete as frações aceitas a 'demais frações permitidas', e o P6 descreve os ecopontos como pontos de entrega de recicláveis. Ficam indefinidos o recebimento de RCC de pequenos geradores nos ecopontos, sua destinação (não há aterro de inertes ou área de transbordo e triagem orçados) e seu custeio."
+    dispositivo_legal: "art. 13, inciso I, alínea 'h', e art. 20, inciso III, da Lei n.º 12.305/2010; Resolução CONAMA n.º 307/2002; art. 5.º da Lei n.º 14.133/2021"
+    depende_de: ""
+    flag_tecnico: true
+    flag_reserva: false
+    reserva_tipo: null
+    nota_reserva: ""
+
+  - id_tmp: G1-026
+    tema: OBJETO_ESCOPO
+    ids_origem: [E3-042]
+    tipo_achado: IRREGULAR
+    categoria: erro_material
+    descricao_breve: "Contrato 10.3.11: redação encaminha volumosos e RCC ao pátio de compostagem"
+    dispositivo_editalicio: "Contrato cl. 10.3.11 (PDF p. 29)"
+    transcricao: "Contrato 10.3.11: 'entrega voluntária de resíduos volumosos e de resíduos de construção civil (RCC), bem como ao recebimento de resíduos de poda, os quais serão encaminhados ao pátio de compostagem da CTR'"
+    comentario: "Pela redação, todos os resíduos recebidos nos ecopontos (volumosos, RCC e poda) seriam encaminhados ao pátio de compostagem, embora volumosos e RCC não sejam compostáveis. A destinação desses resíduos não está definida em outro dispositivo."
+    dispositivo_legal: "Resolução CONAMA n.º 307/2002; art. 13, inciso I, alínea 'h', da Lei n.º 12.305/2010"
+    depende_de: ""
+    flag_tecnico: true
+    flag_reserva: false
+    reserva_tipo: null
+    nota_reserva: ""
+
+  - id_tmp: G1-027
+    tema: OBJETO_ESCOPO
+    ids_origem: [E2-033, E4-092]
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    descricao_breve: "Ecopontos e PEVs sem número, localização e cronograma; função divergente entre documentos"
+    dispositivo_editalicio: "Edital 3.1, ix (PDF p. 13); Caderno IV.3 e Tabela 14 (p. 18-19), X.6.5 (p. 44-45); Anexo III Tabela 3 (p. 10); P6 III.5 (p. 20) e Tabela 7, item 1.4.1 (p. 37); Contrato cl. 10.3.11 (p. 29)"
+    transcricao: "Caderno, Tabela 14: 'PEVs/Ecopontos | Manter pontos limpos, sinalizados, seguros, acessíveis e com retirada regular.' / Anexo III, Tabela 3: '10 unidades restritas à Sede Administrativa [...] Ausência total de PEVs nos 14 distritos.'"
+    comentario: "A operação e manutenção de ecopontos integra o objeto (Edital 3.1, ix), mas nenhum anexo fixa quantos ecopontos e PEVs implantar, onde e quando. O Anexo III registra 10 ecopontos na Sede e nenhum nos distritos; o P6 descreve 'uma rede de dez Ecopontos [...] para entrega voluntária de recicláveis' e orça 'aquisição' de R$ 300 mil (Ano 1) e R$ 450 mil em ciclos posteriores, sem quantidade; o Contrato os destina a volumosos, RCC e poda. A obrigação fica indeterminada para fins de proposta e de fiscalização."
+    dispositivo_legal: "art. 18, incisos I e II, da Lei n.º 8.987/1995 c/c art. 11 da Lei n.º 11.079/2004; art. 10-A, inciso I, da Lei n.º 11.445/2007"
+    depende_de: ""
+    flag_tecnico: true
+    flag_reserva: false
+    reserva_tipo: null
+    nota_reserva: ""
+
+  - id_tmp: G1-028
+    tema: OBJETO_ESCOPO
+    ids_origem: [E5-082, E7-041]
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: omissao
+    descricao_breve: "Grandes geradores: universo excluído da coleta pública indefinido e não quantificado"
+    dispositivo_editalicio: "P7 II.10 (PDF p. 21); P1 V.3 (p. 58) e VI (p. 59 e 61); Contrato cl. 18.2, i (p. 42); Edital 3.1.1 (p. 13)"
+    transcricao: "P7 II.10: 'com geração de resíduos sólidos em volume superior a 100 litros/dia. O art. 3º veda a coleta pública de resíduos aos empreendimentos que gerem quantidade superior a 200 litros/dia'"
+    comentario: "Segundo o P7, o Decreto Municipal n.º 15.603/2018 define grandes geradores a partir de 100 L/dia e veda a coleta pública acima de 200 L/dia; o P7 afirma que grandes geradores estão fora do escopo sem tratar da faixa entre 100 e 200 L/dia, e informa que o decreto regulamentava a LC n.º 199/2004, substituída pela LC n.º 878/2021, sem verificar sua vigência. O P1 afirma, em capítulo conceitual (p. 59), caber ao Poder Concedente a gestão de 'todos esses resíduos' e, na p. 61, atribui ao gerador os grandes geradores. Os estudos não quantificam os grandes geradores nem dizem se a massa hoje destinada ao Ecoparque os inclui; o Contrato (18.2, i) trata seu atendimento como receita acessória."
+    dispositivo_legal: "art. 20, inciso II, alínea 'b', e art. 27 da Lei n.º 12.305/2010; art. 3.º-C, inciso II, da Lei n.º 11.445/2007"
+    depende_de: "Vigência do Decreto Municipal n.º 15.603/2018 após a LC Municipal n.º 878/2021; cadastro e quantificação de grandes geradores; composição da massa pesada no Ecoparque."
+    flag_tecnico: false
+    flag_reserva: true
+    reserva_tipo: RESERVA
+    nota_reserva: "Grandes geradores formam mercado de receita acessória não dimensionado nos estudos; a assimetria informacional favorece quem já conhece a demanda local."
+    cruzamentos: ["G2 E7-040 (preço público de grandes geradores convertido em receita da concessionária)", "G2 E6-062"]
+
+  - id_tmp: G1-029
+    tema: OBJETO_ESCOPO
+    ids_origem: [E5-083]
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: risco_economico
+    descricao_breve: "Resíduos sujeitos a logística reversa manejados pelo sistema municipal sem previsão de remuneração"
+    dispositivo_editalicio: "P4 VII.1 (PDF p. 30)"
+    transcricao: "P4, p. 30: 'Porto Velho recebe a totalidade do passivo gerado por produtos cujos fluxos reversos deveriam ser custeados e operados pelos próprios fabricantes e importadores'"
+    comentario: "O P4 afirma que o sistema municipal absorve resíduos de logística reversa e recomenda articulação estadual, sem tratar da remuneração do titular — ou da concessionária — quando assume atividades de fabricantes e importadores por acordo setorial ou termo de compromisso. Edital e Contrato não disciplinam o tema."
+    dispositivo_legal: "art. 33, § 7.º, da Lei n.º 12.305/2010"
+    depende_de: "Existência de acordos setoriais ou termos de compromisso aplicáveis ao Município e volume de resíduos de logística reversa recebidos."
+    flag_tecnico: false
+    flag_reserva: true
+    reserva_tipo: RESERVA
+    nota_reserva: "Possível fonte de receita (remuneração por acordo setorial) não evidente nos documentos."
+
+  - id_tmp: G1-030
+    tema: OBJETO_ESCOPO
+    ids_origem: [E5-084]
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: omissao
+    descricao_breve: "Beneficiamento de vidro recomendado no P4 sem definição de obrigatoriedade nem previsão no CAPEX"
+    dispositivo_editalicio: "P4 VII.1 (PDF p. 30); Edital 2.11 (p. 11)"
+    transcricao: "P4, p. 30: 'requerendo CAPEX de R$ 350 mil a R$ 600 mil em britador específico e classificador granulométrico'"
+    comentario: "O P4 recomenda beneficiar o vidro como agregado, com CAPEX de R$ 350 mil a R$ 600 mil, sem definir se a solução integra o objeto. Como o Edital (2.11) atribui caráter vinculante aos estudos, a obrigatoriedade da recomendação precisa ser esclarecida."
+    dispositivo_legal: "art. 18, inciso I, da Lei n.º 8.987/1995 c/c art. 11 da Lei n.º 11.079/2004"
+    depende_de: "Posição da Administração sobre o caráter vinculante das recomendações do P4."
+    flag_tecnico: false
+    flag_reserva: false
+    reserva_tipo: null
+    nota_reserva: ""
+
+  - id_tmp: G1-031
+    tema: OBJETO_ESCOPO
+    ids_origem: [E3-076, E4-073]
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Recebimento compulsório de resíduos fora do escopo por ordem da ARDPV x direito de recusa e desobrigação"
+    dispositivo_editalicio: "Edital 3.1.1.1 (PDF p. 13), 3.1.2.1 e 3.1.2.2.1 (p. 14); Contrato cl. 10.5 (p. 29), 10.13.5.4 (p. 32), 18.2.2 e 18.2.2.1 (p. 42), 26.3, viii (p. 56-57); Matriz TO-12 (p. 11-12)"
+    transcricao: "Edital 3.1.1.1: 'A Concessionária poderá recusar [...] o recebimento dos resíduos de que trata o item 3.1.1' x Edital 3.1.2.1: 'A recusa de recebimento em desacordo com ordem escrita da ARDPV sujeitará a Concessionária a sanção' x Contrato 10.5: 'A Concessionária não será obrigada a prestar serviços que não constem neste Contrato'"
+    comentario: "O Edital (3.1.1.1) autoriza a recusa de resíduos fora do objeto (Classe I não RSS, RCC, industriais) e de cargas que comprometam licenciamento ou vida útil; o Edital (3.1.2.1), o Contrato (18.2.2.1 e 26.3, viii — multa entre '[0,5% e 30%]' do valor anual, com colchetes no original) e a Matriz (TO-12) sancionam a recusa contrária a ordem escrita da ARDPV, com 'tarifa especial' ou reequilíbrio a definir. O Contrato 10.5 desobriga a concessionária de serviços não previstos. Não há critério que concilie as regras, limite o consumo de vida útil do aterro (o 10.13.5.4 veda comprometê-la) ou trate do recebimento de Classe I em unidades não licenciadas para esses resíduos."
+    dispositivo_legal: "arts. 20 e 27 da Lei n.º 12.305/2010; art. 5.º, inciso III, da Lei n.º 11.079/2004; art. 5.º da Lei n.º 14.133/2021"
+    depende_de: ""
+    flag_tecnico: true
+    flag_reserva: false
+    reserva_tipo: null
+    nota_reserva: "[VALIDAÇÃO TÉCNICA: ponto depende de confirmação de engenharia — compatibilidade das licenças da CTR com resíduos Classe I]"
+
+  - id_tmp: G1-032
+    tema: OBJETO_ESCOPO
+    ids_origem: [E2-008]
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    descricao_breve: "Bens municipais a ceder remetidos a termo de entrega futuro, sem relação nem estado nos anexos"
+    dispositivo_editalicio: "Caderno XI.4 (PDF p. 61-62); Contrato cl. 5.1.1 e 5.1.1.1 (p. 14); Edital 6.3, iv (p. 16)"
+    transcricao: "Caderno XI.4: 'A Prefeitura disponibilizará à concessão o incinerador municipal e os demais bens municipais que forem formalmente relacionados no termo de entrega, cessão, permissão de uso ou instrumento equivalente.'"
+    comentario: "Salvo o incinerador e a área do transbordo do Baixo Madeira, os bens municipais a ceder dependem de termo de entrega posterior. O Contrato (5.1.1) só obriga o Poder Concedente quanto aos bens 'expressamente relacionados nos Anexos', e essa relação não existe. Faltam inventário e estado dos ativos existentes (ecopontos, Centro de Triagem, ponto de transbordo de São Carlos, contêineres)."
+    dispositivo_legal: "art. 18, incisos X e XI, da Lei n.º 8.987/1995 c/c art. 11 da Lei n.º 11.079/2004"
+    depende_de: ""
+    flag_tecnico: false
+    flag_reserva: true
+    reserva_tipo: RESERVA
+    nota_reserva: "O Caderno exonera a concessionária dos passivos e defeitos 'formalmente registrados no termo de entrega', lavrado após a assinatura; favorece quem registrar de forma ampla na vistoria."
+    cruzamentos: ["G3 E2-007 (relação de bens reversíveis vazia)", "G3 E3-028"]
+
+  - id_tmp: G1-033
+    tema: OBJETO_ESCOPO
+    ids_origem: [E5-016]
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: omissao
+    descricao_breve: "Prestação direta parcial da coleta pelo Município sem descrição de meios nem tratamento na PPP"
+    dispositivo_editalicio: "P1 Tabela 7 (PDF p. 63); Contrato Cláusula 5ª (p. 14)"
+    transcricao: "P1, Tabela 7: 'PORTO VELHO SEDE ... PREFEITURA' (operadora em diversos meses de 2023-2025)"
+    comentario: "A Tabela 7 do P1 indica que a Prefeitura executou parte da coleta em vários meses, mas o diagnóstico não descreve frota própria, servidores, custos nem o destino desses meios na concessão (cessão, bens reversíveis ou desmobilização)."
+    dispositivo_legal: "art. 18, inciso X, da Lei n.º 8.987/1995 c/c art. 11 da Lei n.º 11.079/2004"
+    depende_de: "Inventário da frota e do pessoal municipal empregados na coleta e decisão sobre seu destino."
+    flag_tecnico: false
+    flag_reserva: false
+    reserva_tipo: null
+    nota_reserva: ""
+
+  - id_tmp: G1-034
+    tema: OBJETO_ESCOPO
+    ids_origem: [E5-047]
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: omissao
+    descricao_breve: "Sítio da CTR localizado nos estudos, mas sem titularidade, matrícula, área nem designação formal"
+    dispositivo_editalicio: "P2 V.5 (PDF p. 36); P1 p. 62 e VII.2.4 (p. 84); P4 Tabela 1 (p. 10); Anexo III Tabela 3 (p. 9); Edital 6.3, iv (p. 16); Contrato cl. 5.1.1 a 5.1.2 (p. 14)"
+    transcricao: "P1, p. 84: 'Porto Velho possui projeto para implantação do Centro de Tratamento de Resíduos (CTR) Municipal, em área localizada à frente do bairro Vila Princesa, que por entraves institucionais e jurídicos, até o momento não pode ser implantado.'"
+    comentario: "O P2 localiza a CTR em ponto determinado ('em frente ao atual Central de Triagem de Recicláveis na Vila Princesa', BR-364 km 10, com coordenadas), e o Anexo III a qualifica como 'CTR-PV Municipal (futuro) — Em implantação'. Nenhum documento informa titularidade, matrícula, dimensão em hectares, eventual necessidade de desapropriação nem a natureza dos 'entraves institucionais e jurídicos'. O Edital condiciona a Ordem de Início à 'designação da respectiva área' para estruturas dependentes de bem municipal (6.3, iv), o que indica que a área não está formalmente designada."
+    dispositivo_legal: "art. 18, inciso XII, da Lei n.º 8.987/1995 c/c art. 11 da Lei n.º 11.079/2004; art. 25, § 5.º, inciso II, da Lei n.º 14.133/2021 c/c art. 186 da mesma Lei"
+    depende_de: "Titularidade e matrícula do terreno indicado no P2; existência de projeto ou licenciamento municipal em curso; natureza dos entraves mencionados no P1."
+    flag_tecnico: false
+    flag_reserva: true
+    reserva_tipo: RESERVA
+    nota_reserva: "A alocação do atraso na entrega de bens ao Poder Concedente, com fluência de pagamentos (Contrato 5.1.2), é assimetria favorável à concessionária que a impugnação poderia eliminar."
+    cruzamentos: ["G3 E1-048, E3-027, E6-029, E4-071 (alocação do risco de área da CTR) — E2-013 remetido ao G3", "G2 E4-025 (terreno sem custo no CAPEX)"]
+
+  - id_tmp: G1-035
+    tema: OBJETO_ESCOPO
+    ids_origem: [E2-014, E5-049, E6-064]
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "'CTR Porto Velho' designa a central a construir e a titular do aterro privado Ecoparque"
+    dispositivo_editalicio: "Edital 3.1, viii (PDF p. 13); Contrato cl. 10.13 e 10.13.1 (p. 31); Caderno Tabela 19 (p. 23) e Figura 9 (p. 29); Anexo III Tabela 3 (p. 9); P1 p. 65 e 85; P2 III.2.3.1 (p. 13) e V.5 (p. 36)"
+    transcricao: "Anexo III, Tabela 3: 'Ecoparque — CTR Porto Velho S/A | Disposição final de RSU | Ativo/licenciado' / P1, p. 85: 'Licença Ambiental de Operação (LAO) nº 016.00130.006/2024-SUL, emitida em nome de CTR PORTO VELHO S/A' x Edital 3.1, viii: 'Central de Tratamento de Resíduos (CTR Porto Velho)'"
+    comentario: "A central objeto da PPP chama-se 'CTR Porto Velho', mesma denominação da titular da LAO do aterro privado Ecoparque ('CTR PORTO VELHO S/A'). O Caderno usa 'Aterro Sanitário CTR Porto Velho' como destino nas rotas de referência. O Contrato (10.13 e 10.13.1) permite cumprir a obrigação de aterro por aquisição de aterro existente ou de participação societária. A homonímia deixa ambíguas cláusulas de destinação, transição e bens reversíveis, inclusive quanto a se o objeto exige construir o aterro de rejeitos ou admite usar ou adquirir o aterro privado."
+    dispositivo_legal: "art. 18, incisos I e XV, da Lei n.º 8.987/1995 c/c art. 11 da Lei n.º 11.079/2004; art. 5.º da Lei n.º 14.133/2021"
+    depende_de: ""
+    flag_tecnico: false
+    flag_reserva: true
+    reserva_tipo: DECISAO_COMERCIAL
+    nota_reserva: "Licitante ligado ao único aterro licenciado da Sede, ou com acordo de aquisição, tem vantagem de custo e prazo. Suscitar ou não depende da posição comercial do grupo em relação ao Ecoparque."
+
+  - id_tmp: G1-036
+    tema: OBJETO_ESCOPO
+    ids_origem: [E3-043]
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: restricao_competitividade
+    descricao_breve: "Obrigação de prover aterro licenciado na Sede favorece quem já detém aterro licenciado"
+    dispositivo_editalicio: "Contrato cl. 10.13, 10.13.1, 10.13.1.1 e 10.13.2 (PDF p. 31); Anexo III Tabela 3 (p. 9); P1 p. 65 e 85"
+    transcricao: "Contrato 10.13: 'prover e disponibilizar, na Sede Administrativa, aterro sanitário devidamente licenciado' / 10.13.1.1: 'risco integralmente alocado à Concessionária [...] não ensejando pleito de recomposição [...] em razão de [...] indisponibilidade de área, recusa de terceiros, indeferimento ou demora no licenciamento'"
+    comentario: "O único aterro licenciado na Sede indicado nos documentos é o Ecoparque, privado (LAO em nome de CTR Porto Velho S/A, válida até 09/10/2028). Licitantes sem aterro ficam sujeitos a construir, com licenciamento a seu risco e sem reequilíbrio (10.13.1.1), ou a negociar a aquisição com o detentor do Ecoparque, potencial concorrente. Os efeitos sobre a competição dependem da titularidade do Ecoparque e de existirem alternativas licenciáveis em prazo compatível."
+    dispositivo_legal: "art. 9.º, inciso I, alínea 'a', da Lei n.º 14.133/2021 c/c art. 186 da mesma Lei; art. 37, inciso XXI, da CF/1988"
+    depende_de: "Titularidade e controle do Ecoparque; existência de outras áreas licenciáveis na Sede; situação da área da CTR (G1-034)."
+    flag_tecnico: false
+    flag_reserva: true
+    reserva_tipo: DECISAO_COMERCIAL
+    nota_reserva: "Favorece grupo com aterro licenciado ou capacidade de licenciar rapidamente; levantar ou não depende da posição do grupo quanto ao Ecoparque."
+    cruzamentos: ["G4 E5-051 (detentor do único aterro licenciado)", "G3 E3-044, E4-078 (risco do aterro/TO-20)"]
+
+  - id_tmp: G1-037
+    tema: OBJETO_ESCOPO
+    ids_origem: [E3-045, E7-047]
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Aterro da concessionária: Contrato exige propriedade plena; P7 admite arrendamento ou contratação de terceiro"
+    dispositivo_editalicio: "Contrato cl. 10.13.1, inciso v, e 10.13.3 a 10.13.8 (PDF p. 31-33); P7 XI.3.3 (p. 68-69)"
+    transcricao: "Contrato 10.13.1, v: 'qualquer outro negócio jurídico apto a transferir à Concessionária a propriedade plena do bem' x P7 XI.3.3: 'A obrigação pode ser cumprida por qualquer forma jurídica lícita — implantação própria, aquisição, arrendamento ou contratação de terceiro'"
+    comentario: "O Contrato só admite formas que transfiram a propriedade plena do aterro (construção, compra, aquisição societária, permuta etc.) e o inclui entre os bens reversíveis, com requisitos dos itens 10.13.3 a 10.13.8. O P7 descreve a obrigação como cumprível por arrendamento ou contratação de terceiro, hipóteses incompatíveis com a reversão. A divergência afeta a formação do preço da solução de disposição final."
+    dispositivo_legal: "art. 5.º da Lei n.º 14.133/2021; art. 18, incisos X e XI, da Lei n.º 8.987/1995 c/c art. 11 da Lei n.º 11.079/2004"
+    depende_de: ""
+    flag_tecnico: false
+    flag_reserva: true
+    reserva_tipo: DECISAO_COMERCIAL
+    nota_reserva: "A leitura ampla do P7 (arrendamento/contratação de terceiro) favorece quem detém ou pode contratar o aterro licenciado da Sede; a conveniência de esclarecer depende da posição comercial do grupo."
+
+  - id_tmp: G1-038
+    tema: OBJETO_ESCOPO
+    ids_origem: [E7-046]
+    tipo_achado: IRREGULAR
+    categoria: restricao_competitividade
+    descricao_breve: "Objeto em lote único (coleta, logística fluvial, remediação, CTR/aterro, RSS) sem exame do parcelamento"
+    dispositivo_editalicio: "P7 III.2 e III.2.1-III.2.3 (PDF p. 26-28); Edital 3.1 (p. 12-13) e 13.23 (p. 36-37)"
+    transcricao: "P7 III.2: 'O objeto inclui, igualmente, o projeto, a construção, o licenciamento e a operação da Central de Tratamento de Resíduos'"
+    comentario: "O P7 descreve o objeto agregado, mas nem ele nem o Edital examinam a viabilidade técnica e econômica do parcelamento (por exemplo, coleta e transporte, tratamento e destinação, remediação de passivos, RSS) nem seus efeitos sobre a competição; o termo 'parcelamento' não aparece no P7 nem no Edital. A Lei n.º 14.133/2021, aplicável subsidiariamente às PPPs, exige justificar a opção por não parcelar."
+    dispositivo_legal: "art. 18, § 1.º, inciso VIII, e art. 47, inciso II e § 1.º, da Lei n.º 14.133/2021, c/c art. 186 da mesma Lei"
+    depende_de: ""
+    flag_tecnico: false
+    flag_reserva: true
+    reserva_tipo: DECISAO_COMERCIAL
+    nota_reserva: "Objeto integrado favorece grupo de grande porte com atuação simultânea em coleta, aterro e RSS; levantar ou não depende da estratégia e da composição de atestados do grupo."
+    cruzamentos: ["G4 (qualificação técnica em todas as parcelas, Edital 13.23)"]
+
+  - id_tmp: G1-039
+    tema: OBJETO_ESCOPO
+    ids_origem: [E2-028]
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: omissao
+    descricao_breve: "Área da estação de transbordo principal do Baixo Madeira não identificada; distritais a adquirir pela concessionária"
+    dispositivo_editalicio: "Caderno XI.4, § 7.º (PDF p. 62); Edital 6.3, iv, e 6.3.1 (p. 16); Contrato cl. 5.1.1.1 (p. 14)"
+    transcricao: "Caderno XI.4: 'A área destinada a Estação de Transbordo do Baixo Madeira será cedida pela prefeitura, mas caberá à concessionária licenciar, implantar, operar e manter o transbordo principal. Os quatro transbordos distritais [...] deverão ser adquiridos pela concessionária.'"
+    comentario: "O Caderno promete ceder a área do transbordo principal sem identificá-la, e o Edital condiciona a Ordem de Início à 'designação da respectiva área'. As áreas dos quatro transbordos distritais, em sedes ribeirinhas sujeitas a terras caídas e a variação do nível do rio, ficam por conta e risco da concessionária (Edital 6.3.1; Contrato 5.1.1.1)."
+    dispositivo_legal: "art. 18, inciso XII, da Lei n.º 8.987/1995 c/c art. 11 da Lei n.º 11.079/2004"
+    depende_de: "Identificação da área municipal do transbordo principal e de sua situação dominial e ambiental."
+    flag_tecnico: false
+    flag_reserva: false
+    reserva_tipo: null
+    nota_reserva: ""
+    cruzamentos: ["G2 E2-027, E4-027, E6-040, E6-041 (quantidade e custo dos transbordos)"]
+
+  - id_tmp: G1-040
+    tema: OBJETO_ESCOPO
+    ids_origem: [E6-046]
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: contradicao
+    descricao_breve: "Alto e Médio Madeira sem transbordo: compactadores em rotas de 204 a 255 km, contra diagnóstico e Caderno"
+    dispositivo_editalicio: "P2 IV.2.1 (PDF p. 25) e Tabela 1 (p. 9); Caderno IV.5 (p. 20) e Tabela 19 (p. 23); P3 p. 35"
+    transcricao: "P2, p. 25: 'os caminhões compactadores deverão encaminhar os resíduos diretamente para o aterro sanitário: por meio da BR-364, no caso dos distritos do Alto e Médio Madeira'"
+    comentario: "A matriz de criticidade do P2 aponta a ausência de estações de transbordo em locais estratégicos, e o Caderno (IV.5) manda minimizar o transporte ineficiente por compactadores em longas distâncias. Ainda assim, o P2 prevê transporte direto por compactadores (Abunã → CTR 204 km; Nova Califórnia → Jirau 255 km, Caderno Tabela 19). O Anexo III (Tabela 6) também aponta falta de transbordos no Alto e no Médio Madeira."
+    dispositivo_legal: "art. 10, inciso I, alínea 'a', da Lei n.º 11.079/2004; art. 18, inciso II, da Lei n.º 8.987/1995 c/c art. 11 da Lei n.º 11.079/2004"
+    depende_de: "Estudo de alternativa logística (transbordo intermediário) e comparação de custos."
+    flag_tecnico: true
+    flag_reserva: false
+    reserva_tipo: null
+    nota_reserva: ""
+
+  - id_tmp: G1-041
+    tema: OBJETO_ESCOPO
+    ids_origem: [E6-045]
+    tipo_achado: IRREGULAR
+    categoria: erro_material
+    descricao_breve: "Distâncias logísticas de referência incoerentes (Demarcação, transbordo-aterro, ganho do Jirau, 'BR 367')"
+    dispositivo_editalicio: "Caderno Tabela 19 (PDF p. 23); P3 IV.6.2 e Tabela 18 (p. 33-35); P1 Tabela 5 (p. 28); P2 V.1 (p. 30); P6 III.5 (p. 20); Anexo III Tabela 3 (p. 9) e XIV.3 (p. 34); Matriz TO-02 (p. 3)"
+    transcricao: "Caderno, Tabela 19: 'Demarcação | CTR Porto Velho | 83 km | 94,98 km no Rio Madeira + 24,50 km no Rio Ji-Paraná | 193 km'"
+    comentario: "No Caderno (Tabela 19) e no P3 (Tabela 18), 83 + 94,98 + 24,50 = 202,48 km, e não 193 km; o P1 (Tabela 5) usa 73 km terrestres, o que fecha em cerca de 193 km. O texto do P3 indica 105 km entre a futura estação de transbordo e o aterro, e a tabela, 83 km. A redução de distância com o Jirau aparece como cerca de 100 km (P3), cerca de 120 km (P2/P6) e de 355 para 80 km (Anexo III XIV.3), e a Matriz TO-02 menciona DMT de 255-378 km. O P3 refere 'BR 367'. As distâncias alimentam DMT, frota e custos logísticos."
+    dispositivo_legal: "não localizei fundamento normativo específico (erro material); art. 5.º da Lei n.º 14.133/2021"
+    depende_de: ""
+    flag_tecnico: false
+    flag_reserva: false
+    reserva_tipo: null
+    nota_reserva: ""
+    cruzamentos: ["G2 E2-031, E5-025 (ganho logístico do Jirau)", "G2 E5-021 (distância de Calama via Humaitá)"]
+
+  - id_tmp: G1-042
+    tema: OBJETO_ESCOPO
+    ids_origem: [E2-038, E5-019]
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Área de abrangência: número e status de distritos divergentes (13 x 14; Rio Pardo e União Bandeirantes)"
+    dispositivo_editalicio: "Caderno Tabela 21 (PDF p. 23-24); Anexo III Tabelas 3 e 4 (p. 10-11); P1 p. 12, 13, 27 (Tabela 4) e 41; P2 p. 12"
+    transcricao: "P1, p. 41: 'Núcleos como Rio Pardo e União Bandeirantes possuem processos de formação ainda não concluídos, não sendo oficialmente reconhecidos como distritos.' x P1, p. 13: 'Rio Pardo está dentro do perímetro da sede administrativa'"
+    comentario: "O Caderno (Tabela 21) relaciona 13 distritos; o Anexo III ('Ausência total de PEVs nos 14 distritos') e o P1 falam em 14. O P1 afirma na p. 12 que União Bandeirantes e Rio Pardo foram criados por lei e, na p. 41, que não são oficialmente reconhecidos como distritos; situa Rio Pardo 'dentro do perímetro da sede' (p. 13) e, na Tabela 4, a cerca de 150 km da sede, no Médio Madeira. Localidades citadas no Anexo III (como a Agrovila Rio Verde, 'sem coleta') não aparecem nos quantitativos do Caderno."
+    dispositivo_legal: "art. 23, inciso I, da Lei n.º 8.987/1995 c/c art. 3.º da Lei n.º 11.079/2004; art. 18, inciso I, da Lei n.º 8.987/1995 c/c art. 11 da Lei n.º 11.079/2004"
+    depende_de: ""
+    flag_tecnico: false
+    flag_reserva: false
+    reserva_tipo: null
+    nota_reserva: "Falta a lista oficial de distritos e localidades da área de concessão."
+
+  - id_tmp: G1-043
+    tema: OBJETO_ESCOPO
+    ids_origem: [E6-005]
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: omissao
+    descricao_breve: "Novas localidades do Baixo Madeira incluídas sem população nem dimensionamento"
+    dispositivo_editalicio: "P2 Tabela 13 (PDF p. 21-22) e p. 12; P3 Tabela 4 (p. 14); Caderno Tabela 21 (p. 23-24)"
+    transcricao: "P2: 'Este projeto prevê a continuidade do atendimento dessas localidades com a inclusão de: Boa Vitória, Conceição da Galera, Pombal e Tira Fogo'"
+    comentario: "As quatro localidades acrescidas por solicitação da Prefeitura não têm população, geração, distância ou equipamentos atribuídos nas tabelas do P2, do P3 (Tabela 19) ou do Caderno (Tabela 21). Não é possível verificar se a frota fluvial e as equipes do Baixo Madeira as contemplam."
+    dispositivo_legal: "art. 18, inciso I, da Lei n.º 8.987/1995 c/c art. 11 da Lei n.º 11.079/2004"
+    depende_de: "População e geração das quatro localidades e roteiro fluvial correspondente."
+    flag_tecnico: true
+    flag_reserva: false
+    reserva_tipo: null
+    nota_reserva: ""
+
+  - id_tmp: G1-044
+    tema: OBJETO_ESCOPO
+    ids_origem: [E6-004, E6-006]
+    tipo_achado: IRREGULAR
+    categoria: erro_material
+    descricao_breve: "Dados territoriais e populacionais divergentes entre P2 e P3 (área do Município; Alto x Médio Madeira)"
+    dispositivo_editalicio: "P2 p. 24, Tabela 3 (p. 11) e Tabela 13 (p. 21-22); P3 Tabela 1 (p. 9-10), Tabelas 2 e 4; Caderno Tabela 6 (p. 12)"
+    transcricao: "P2, p. 24: 'Dada a extensão de 34.091 km² de Porto Velho' x P3, p. 9: 'o desafio da extensão territorial de 24.860 km²' / P2: 'TOTAL ALTO MADEIRA 21.121 4%' x Caderno, Tabela 6 (2027): Médio Madeira 38.415; Alto Madeira 29.013"
+    comentario: "O P2 adota 34.091 km² e o P3 24.860 km² (soma das áreas distritais da Tabela 1, que omite áreas de algumas localidades). O Alto Madeira passa de 21.121 habitantes (base IBGE 2022, P2 Tabela 3) para 29.013 em 2027 (Caderno Tabela 6), cerca de +37%, enquanto o Médio Madeira passa de 35.816 para 38.415, cerca de +7% (cálculo), sem explicação para a diferença, que afeta o dimensionamento da rota Alto Madeira → Jirau. As divergências afetam densidades e premissas logísticas."
+    dispositivo_legal: "não localizei fundamento normativo específico (erro material); art. 10, inciso I, alínea 'a', da Lei n.º 11.079/2004"
+    depende_de: ""
+    flag_tecnico: true
+    flag_reserva: false
+    reserva_tipo: null
+    nota_reserva: ""
+
+  - id_tmp: G1-045
+    tema: OBJETO_ESCOPO
+    ids_origem: [E2-036, E6-056]
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Especificação de equipamentos divergente (contêineres de 1,0/1,2/1,5/5 m³; gaiola de 20/25 m³)"
+    dispositivo_editalicio: "Caderno Tabelas 14, 20 e 21 (PDF p. 17, 23-24); Anexo III Tabela 4 (p. 11) e Tabela 14 (p. 25); P6 Tabela 7, itens 1.1.3, 1.3.1, 2.1.4, 2.2.1 e 3.1.1 (p. 37-39); P3 Tabelas 19, 21 e 22 (p. 40-48); P2 Tabela 15"
+    transcricao: "Caderno, Tabela 21: 'Calama [...] 12 contêineres de 1,2 m³' x P6, Tabela 7: 'Carrinho Contêiner — 1,5 m³' (Sede, Alto/Médio Madeira) e 'Carrinho Contêiner — 1 m³' (Baixo Madeira) x Anexo III, Tabela 14: 'Contêineres 5 m³ trocados em todos os distritos'"
+    comentario: "O Caderno especifica contêineres de 1,2 m³; o P6 orça carrinhos contêiner de 1,5 m³ (Sede e Alto/Médio Madeira) e de 1 m³ (Baixo Madeira), e o Anexo III descreve contêineres de 5 m³ trocados por balsa nos distritos do Baixo Madeira. O caminhão gaiola da coleta seletiva é de 25 m³ na Sede e de 20 m³ no Alto/Médio Madeira no P6, e de 25 m³ no P2. O número de contêineres de 1,2 m³ existentes também diverge (122 no P2; 126 no P3)."
+    dispositivo_legal: "art. 18, inciso II, da Lei n.º 8.987/1995 c/c art. 11 da Lei n.º 11.079/2004; art. 5.º da Lei n.º 14.133/2021"
+    depende_de: ""
+    flag_tecnico: true
+    flag_reserva: false
+    reserva_tipo: null
+    nota_reserva: ""
+
+  - id_tmp: G1-046
+    tema: OBJETO_ESCOPO
+    ids_origem: [E2-036, E6-044]
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Equipes de coleta do Baixo Madeira divergentes: 3 por distrito (Anexo III), 15 (Caderno) e 20 (P3)"
+    dispositivo_editalicio: "Caderno Tabela 21 (PDF p. 23-24); P3 Tabela 19 (p. 40); Anexo III Tabela 14 (p. 25); P2 Tabela 16, item 3.1.1 (p. 46)"
+    transcricao: "P3, Tabela 19: 'CALAMA 5 1 9 25 12 3 [...] SÃO CARLOS 3 1 6 25 20 3' x Caderno, Tabela 21: 'Calama [...] 5 coletores' x Anexo III, Tabela 14: 'Equipe de 3 agentes por distrito'"
+    comentario: "O P3 prevê 9 coletores em Calama, 2 em Demarcação, 3 em Nazaré e 6 em São Carlos (20 no total); o Caderno, que reproduz os demais quantitativos da mesma tabela, prevê 5, 2, 3 e 5 (15 no total); o Anexo III indica 3 agentes por distrito. Pelo Edital 2.11.2 prevalece o Caderno; o OPEX do P2 para equipes do Baixo Madeira não indica qual quantitativo foi precificado."
+    dispositivo_legal: "art. 18, inciso II, da Lei n.º 8.987/1995 c/c art. 11 da Lei n.º 11.079/2004; art. 5.º da Lei n.º 14.133/2021"
+    depende_de: ""
+    flag_tecnico: false
+    flag_reserva: false
+    reserva_tipo: null
+    nota_reserva: ""
+
+  - id_tmp: G1-047
+    tema: OBJETO_ESCOPO
+    ids_origem: [E6-042]
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: omissao
+    descricao_breve: "Frota fluvial do Baixo Madeira sem cálculo de ciclo, capacidade e frequência"
+    dispositivo_editalicio: "P2 IV.2.2 (PDF p. 25-26), Tabela 4 (p. 13) e Tabela 15, itens 3.1.4-3.1.7 (p. 44); P3 IV.6.3 e VI.1 (p. 36-41); Caderno Tabela 18 (p. 22)"
+    transcricao: "P2: 'Embarcações Principais: catamarãs ou balsas para o transporte de longa distância até a estação de transbordo. Embarcações de Coleta: barcos de alumínio de 17 pés'"
+    comentario: "Não há cálculo de tempo de ciclo, capacidade de carga ou número de viagens que demonstre que uma balsa (reposta nos Anos 10 e 20), um catamarã de 20 HP e quatro barcos de 40 HP atendem quatro distritos duas vezes por semana, com longos trechos fluviais e restrição de calado na estiagem. O armazenamento de RSS nos distritos à espera da balsa não é dimensionado frente aos limites sanitários."
+    dispositivo_legal: "art. 18, inciso XV, da Lei n.º 8.987/1995 c/c art. 11 da Lei n.º 11.079/2004; RDC ANVISA n.º 222/2018"
+    depende_de: "Estudo de ciclo logístico fluvial (capacidade, viagens, sazonalidade)."
+    flag_tecnico: true
+    flag_reserva: false
+    reserva_tipo: null
+    nota_reserva: ""
+
+  - id_tmp: G1-048
+    tema: OBJETO_ESCOPO
+    ids_origem: [E5-094]
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: risco_economico
+    descricao_breve: "'Tirolesa logística' incorporada ao PCOS sem projeto, avaliação de segurança ou licenciamento"
+    dispositivo_editalicio: "P1 VIII.4 (PDF p. 99-100) e VIII.6.1 (p. 101); P4 Tabela 11, Nível 4 (p. 29); Anexo III PCOS (p. 25)"
+    transcricao: "P4, Tabela 11: 'Sistema de tirolesa logística (cabo aéreo com polias) para transporte de bombonas sobre a várzea exposta.'"
+    comentario: "A solução de cabos aéreos sugerida no P1 passa a procedimento do Nível 4 do PCOS no P4. Não há projeto, avaliação de segurança do trabalho, autorização para estruturas na várzea/APP nem custo."
+    dispositivo_legal: "art. 6.º, inciso XXV, da Lei n.º 14.133/2021 c/c art. 186 da mesma Lei; art. 4.º, inciso I, e art. 8.º da Lei n.º 12.651/2012"
+    depende_de: "Projeto e avaliação de viabilidade e segurança da solução; manifestação do órgão ambiental sobre intervenção em várzea/APP."
+    flag_tecnico: true
+    flag_reserva: false
+    reserva_tipo: null
+    nota_reserva: ""
+    cruzamentos: ["G2 E6-043 (tirolesas sem CAPEX/OPEX)", "G3 E2-088, E5-027 (gatilhos do PCOS)"]
+
+  - id_tmp: G1-049
+    tema: OBJETO_ESCOPO
+    ids_origem: [E2-035]
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    descricao_breve: "Frota sem quantitativos mínimos, idade máxima ou padrão de emissões"
+    dispositivo_editalicio: "Caderno VII.1 e Tabela 28 (PDF p. 33); Contrato cl. 10.3.1 (p. 28); P2 VI.1 (p. 41); Anexo D Tabela 2, TO-08 (p. 9)"
+    transcricao: "Contrato 10.3.1: 'A frota afeta à concessão será composta por veículos com as especificações técnicas mínimas previstas nos Anexos do Contrato' x Caderno, Tabela 28: 'SERVIÇO | EQUIPAMENTOS TÍPICOS | REQUISITOS MÍNIMOS'"
+    comentario: "O Contrato remete as especificações mínimas da frota aos Anexos, mas o Caderno só lista equipamentos típicos: não há número mínimo de veículos, idade máxima, padrão de emissões nem reserva técnica. O P2 menciona frota Euro VI (Proconve P-8) sem reflexo no Caderno, e a Matriz/Anexo D (TO-08) usa 'média de idade dos veículos' como indicador, ausente do IQS."
+    dispositivo_legal: "art. 18, inciso II, da Lei n.º 8.987/1995 c/c art. 11 da Lei n.º 11.079/2004; art. 23, inciso III, da Lei n.º 8.987/1995 c/c art. 3.º da Lei n.º 11.079/2004"
+    depende_de: ""
+    flag_tecnico: true
+    flag_reserva: false
+    reserva_tipo: null
+    nota_reserva: ""
+
+  - id_tmp: G1-050
+    tema: OBJETO_ESCOPO
+    ids_origem: [E6-055, E2-006]
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Reposição de frota: ciclos quinquenais (P2/P6, vinculados pelo Contrato 10.3.1) x reposição programada no Ano 25 (Caderno)"
+    dispositivo_editalicio: "Caderno XI.3 (PDF p. 61) e XI.6, marco 8 (p. 63); Contrato cl. 10.3.1 (p. 28); P2 VI.1 e Tabela 15 (p. 41-45); P6 Tabela 7 (p. 37-40)"
+    transcricao: "Caderno XI.3: 'No vigésimo quinto ano da concessão deverá ser realizada a reposição programada dos bens' x Contrato 10.3.1: 'A substituição da frota observará os ciclos de reposição previstos nos Anexos do Contrato e na modelagem econômico-financeira.'"
+    comentario: "O P2 e o P6 repõem compactadores, embarcações e quadriciclos em ciclos de cerca de cinco anos (a balsa nos Anos 1, 10 e 20), e o Contrato (10.3.1) vincula a substituição aos ciclos 'dos Anexos' e da modelagem. O Caderno, que prevalece sobre o EVTEA (Edital 2.11.2), prevê reposição programada no Ano 25 e a usa como marco da Parcela A. A obrigação contratual e a base de custos ficam desalinhadas."
+    dispositivo_legal: "art. 23, inciso III, da Lei n.º 8.987/1995 c/c art. 3.º da Lei n.º 11.079/2004; art. 5.º da Lei n.º 14.133/2021"
+    depende_de: ""
+    flag_tecnico: true
+    flag_reserva: false
+    reserva_tipo: null
+    nota_reserva: ""
+
+  - id_tmp: G1-051
+    tema: OBJETO_ESCOPO
+    ids_origem: [E2-037]
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    descricao_breve: "Sem frequências mínimas de coleta; indicador de maior peso (IO1) mede contra a programação da concessionária"
+    dispositivo_editalicio: "Caderno Tabela 13 (PDF p. 16) e X.6.2 (p. 42-43); Contrato cl. 10.3.7 (p. 28); Anexo III Tabela 1 (p. 7); Anexo D Tabela 5, IO1 (p. 14 e 16)"
+    transcricao: "Contrato 10.3.7: 'A frequência mínima de coleta observará o disposto nos Anexos' x Caderno, Tabela 13: 'Frequência | Manter frequência compatível com setor, histórico de geração, uso do solo e padrão de ocupação. | Rota executada conforme programação e evidência em sistema.'"
+    comentario: "O Contrato remete a frequência mínima aos Anexos, mas o Caderno não a fixa por tipo de área (o Anexo III, Tabela 1, traz apenas frequências de referência). O critério de aceite é a 'rota executada conforme programação', e o IO1 (peso de 38,5% do IQS) mede rotas realizadas sobre rotas programadas pela própria concessionária. O padrão de serviço não é exigível de forma objetiva."
+    dispositivo_legal: "art. 18, inciso II, e art. 23, inciso III, da Lei n.º 8.987/1995 c/c arts. 3.º e 11 da Lei n.º 11.079/2004; art. 5.º, inciso VII, da Lei n.º 11.079/2004"
+    depende_de: ""
+    flag_tecnico: false
+    flag_reserva: true
+    reserva_tipo: RESERVA
+    nota_reserva: "A concessionária define a programação contra a qual é medida, o que reduz a exposição a descontos; a impugnação poderia eliminar esse efeito."
+
+  - id_tmp: G1-052
+    tema: OBJETO_ESCOPO
+    ids_origem: [E2-039]
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    descricao_breve: "Coleta de feiras livres e mercados públicos no objeto, sem encargos específicos no Caderno"
+    dispositivo_editalicio: "Edital 3.1, v (PDF p. 13); Caderno IV.1-IV.6 (p. 16-24); P6 Tabela 7, item 1.2 (p. 37)"
+    transcricao: "Edital 3.1, v: 'Coleta e Transporte de Resíduos Sólidos provenientes das Feiras Livres e Mercados Públicos'"
+    comentario: "O Edital inclui no objeto a coleta de feiras e mercados, e o P6 orça frota própria para isso. O Caderno não define número de feiras, frequência, horário, lavagem nem destinação à compostagem (refere apenas 'resíduos de feiras quando autorizados')."
+    dispositivo_legal: "art. 18, inciso II, da Lei n.º 8.987/1995 c/c art. 11 da Lei n.º 11.079/2004"
+    depende_de: ""
+    flag_tecnico: false
+    flag_reserva: false
+    reserva_tipo: null
+    nota_reserva: ""
+
+  - id_tmp: G1-053
+    tema: OBJETO_ESCOPO
+    ids_origem: [E3-090]
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Contratação de terceiros: autorização prévia (10.2.2) x subcontratação nos termos da lei (12.1)"
+    dispositivo_editalicio: "Contrato cl. 10.2.2 (PDF p. 23) x 12.1 (p. 33)"
+    transcricao: "Contrato 10.2.2: 'por si ou por meio de terceiros, desde que previamente autorizado pelo Poder Concedente' x 12.1: 'A Concessionária poderá subcontratar parcelas das Obras de engenharia ou dos Serviços operacionais da Concessão com terceiros [...] nos termos do art. 25, § 1º, da Lei nº 8.987/1995'"
+    comentario: "A lei permite à concessionária contratar com terceiros atividades inerentes, acessórias ou complementares, e o Contrato 12.1 reproduz essa regra; o 10.2.2 exige autorização prévia para executar serviços por terceiros. A cláusula não distingue subcontratação de subconcessão."
+    dispositivo_legal: "art. 25, § 1.º, e art. 26 da Lei n.º 8.987/1995 c/c art. 3.º da Lei n.º 11.079/2004"
+    depende_de: ""
+    flag_tecnico: false
+    flag_reserva: false
+    reserva_tipo: null
+    nota_reserva: ""
+
+  - id_tmp: G1-054
+    tema: OBJETO_ESCOPO
+    ids_origem: [E7-086]
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: omissao
+    descricao_breve: "Afirmação de inaplicabilidade do limite de 25% de subdelegação às PPPs, a verificar"
+    dispositivo_editalicio: "P7 IX.6 (PDF p. 64); Contrato cl. 12.1 e 18.5.1"
+    transcricao: "P7 IX.6: 'nos termos do Decreto Federal nº 11.599/2023, esse teto não se aplica às parcerias público-privadas regidas pela Lei Federal nº 11.079/2004, desde que os ganhos de eficiência sejam compartilhados com o usuário'"
+    comentario: "O P7 afasta o limite de 25% do art. 11-A da Lei n.º 11.445/2007 com base no Decreto n.º 11.599/2023, condicionado ao compartilhamento de ganhos de eficiência com o usuário, e entende que o compartilhamento de receitas acessórias e a revisão quinquenal atendem a condição. É preciso conferir o texto vigente do decreto e se esses mecanismos equivalem ao compartilhamento exigido."
+    dispositivo_legal: "art. 11-A da Lei n.º 11.445/2007; Decreto n.º 11.599/2023 (verificar redação vigente)"
+    depende_de: "Texto vigente do Decreto n.º 11.599/2023 e sua aplicação a concessões administrativas."
+    flag_tecnico: false
+    flag_reserva: false
+    reserva_tipo: null
+    nota_reserva: ""
+
+  - id_tmp: G1-055
+    tema: OBJETO_ESCOPO
+    ids_origem: [E7-045]
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Enquadramento como concessão administrativa: Município 'usuário direto' (P7, p. 17) x 'usuário indireto' (p. 26)"
+    dispositivo_editalicio: "P7 II.4 (PDF p. 17) x III.1.4 (p. 26)"
+    transcricao: "P7, p. 17: 'na qual o Poder Concedente é a usuária direta do serviço público de manejo de resíduos sólidos' x P7, p. 26: 'o usuário direto é a coletividade municipal, e o Município figura como usuário indireto'"
+    comentario: "O P7 qualifica o Poder Concedente como usuário direto na p. 17 e como usuário indireto na p. 26. A qualificação sustenta o enquadramento como concessão administrativa e se relaciona com a existência de taxa de RSU cobrada dos munícipes."
+    dispositivo_legal: "art. 2.º, § 2.º, da Lei n.º 11.079/2004"
+    depende_de: ""
+    flag_tecnico: false
+    flag_reserva: false
+    reserva_tipo: null
+    nota_reserva: ""
+    cruzamentos: ["G2 E7-024 (taxa de RSU e sustentabilidade por cobrança)"]
+
+  - id_tmp: G1-056
+    tema: OBJETO_ESCOPO
+    ids_origem: [E2-084, E5-069]
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    descricao_breve: "350 a 600 catadores informais sem obrigação específica de integração; cadastro não realizado"
+    dispositivo_editalicio: "Anexo III V.3 e Tabela 5 (PDF p. 11-12), Tabela 9 (p. 16); Caderno VI.3 e Tabela 27 (p. 32); Contrato cl. 10.8 (p. 30); P4 V.1.1 (p. 21-22), V.2 (p. 23) e VII.4 (p. 32)"
+    transcricao: "Anexo III, Tabela 5: '350 a 600 pessoas, estimativa a confirmar por cadastro [...] Há risco de exclusão total na transição para PPP se a CS-01 não for incluída no edital.' / P4: 'Sem o cadastro concluído antes do edital, o contrato será publicado com uma obrigação social que não pode ser mensurada nem verificada.'"
+    comentario: "O Anexo III e o P4 estimam 350 a 600 catadores informais que perderam a renda com o fechamento da Lixeira, sem memória de cálculo; o cadastro não foi realizado antes do Edital. A CS-01 e o Contrato (10.8) alcançam cooperativas e catadores 'cadastrados', e o Caderno (VI.3) prevê 'priorizar arranjos' conforme plano social a aprovar, sem meta. Não há obrigação quantificada para integrar os catadores informais."
+    dispositivo_legal: "art. 7.º, inciso XII, art. 8.º, inciso IV, e art. 36, § 1.º, da Lei n.º 12.305/2010"
+    depende_de: ""
+    flag_tecnico: false
+    flag_reserva: false
+    reserva_tipo: null
+    nota_reserva: ""
+    cruzamentos: ["G4 E2-086 (condições pré-edital, inclusive cadastro de catadores)"]
+
+  - id_tmp: G1-057
+    tema: OBJETO_ESCOPO
+    ids_origem: [E3-058, E5-069]
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    descricao_breve: "CS-01: linha de base desconhecida e percentual definitivo fixado pela ARDPV entre limites que o Anexo III não traz"
+    dispositivo_editalicio: "Contrato cl. 10.2.33.3 a 10.2.33.5 (PDF p. 26-27); Anexo III Tabela 17, CS-01 (p. 27)"
+    transcricao: "Contrato 10.2.33.4: 'observados [...] os limites mínimo e máximo previstos no Anexo de Diretrizes Ambientais' / 10.2.33.5: 'cujo patamar máximo integra a Proposta Econômica' x Anexo III, Tabela 17: 'a calibrar após o Nível 1, com mínimo absoluto igual a 100% do volume atual da CATANORTE'"
+    comentario: "Até o Nível 1, a CS-01 é o volume médio triado pelas cooperativas cadastradas nos 12 meses anteriores à Ordem de Início, dado não informado na licitação. Depois, a ARDPV fixa o percentual definitivo por ato normativo, sem reequilíbrio, dentro de 'limites mínimo e máximo' do Anexo III, cujo 'patamar máximo integra a Proposta Econômica'; o Anexo III (Tabela 17) só estabelece o piso e remete a penalidade à ARDPV. A obrigação não pode ser precificada na proposta."
+    dispositivo_legal: "art. 5.º, inciso III, da Lei n.º 11.079/2004; art. 23, inciso III, da Lei n.º 8.987/1995 c/c art. 3.º da Lei n.º 11.079/2004; art. 36, § 1.º, da Lei n.º 12.305/2010"
+    depende_de: ""
+    flag_tecnico: false
+    flag_reserva: false
+    reserva_tipo: null
+    nota_reserva: "Falta a série histórica do volume triado pelas cooperativas cadastradas."
+    cruzamentos: ["G2 E2-082 (obrigações sociais indeterminadas)", "G2 E5-071, E4-024"]
+
+  - id_tmp: G1-058
+    tema: OBJETO_ESCOPO
+    ids_origem: [E5-078]
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: omissao
+    descricao_breve: "Absorção dos trabalhadores do operador atual recomendada sem quantificação nem reflexo contratual"
+    dispositivo_editalicio: "P4 V.1.4 (PDF p. 23) e Tabela 13 (p. 34); Contrato cl. 7.4 (p. 17)"
+    transcricao: "P4: 'exigindo que o protocolo de transição inclua garantias explícitas de manutenção dos vínculos empregatícios'"
+    comentario: "O P4 recomenda garantias de manutenção dos vínculos dos cerca de 127 trabalhadores da coleta na transição, mas o número não tem fonte verificável (ver G1-059) e não se identificou cláusula correspondente nem custo na modelagem."
+    dispositivo_legal: "não localizei fundamento normativo específico"
+    depende_de: "Número de trabalhadores do operador atual e posição da Administração sobre a recomendação do P4."
+    flag_tecnico: false
+    flag_reserva: false
+    reserva_tipo: null
+    nota_reserva: ""
+
+  - id_tmp: G1-059
+    tema: OBJETO_ESCOPO
+    ids_origem: [E5-009]
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "P4 afirma usar frota e rotas 'reais' do P1, que declara não ter recebido esses dados"
+    dispositivo_editalicio: "P4 IV.1 (PDF p. 19), Tabela 6 (p. 19) e Tabela 3 (p. 13); P1 VIII.6.1 (p. 101)"
+    transcricao: "P4, p. 19: 'Os impactos ambientais foram identificados com base nos dados operacionais reais do sistema (frota, rotas, instalações e passivos) levantados no Caderno 1' x P1, p. 101: 'Não foram repassadas informações sobre a frota de veículos e equipamentos em operação atualmente.'"
+    comentario: "O P1 registra que não recebeu informações sobre a frota em operação. O P4 apresenta '17 caminhões, frota diesel' sem fonte e '127 trabalhadores formais na Sede', atribuídos às Tabelas 17-19 do P3, que tratam de rota seletiva, distâncias e estrutura do Baixo Madeira."
+    dispositivo_legal: "art. 18, § 1.º, inciso IV, da Lei n.º 14.133/2021 c/c art. 186 da mesma Lei; art. 10, inciso I, alínea 'a', da Lei n.º 11.079/2004"
+    depende_de: ""
+    flag_tecnico: false
+    flag_reserva: false
+    reserva_tipo: null
+    nota_reserva: ""
+
+# ============================== LICENCIAMENTO_AMBIENTAL ==============================
+
+  - id_tmp: G1-060
+    tema: LICENCIAMENTO_AMBIENTAL
+    ids_origem: [E1-008, E2-070, E5-041, E7-010]
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: omissao
+    descricao_breve: "Licença prévia ou diretrizes do órgão licenciador para CTR, Jirau e transbordos não demonstradas (art. 10, VII)"
+    dispositivo_editalicio: "Edital 3.1, viii (PDF p. 13) e 6.3, iv (p. 16); Anexo III I (p. 6) e VII.1 (p. 17); P1 VII.2.4 (p. 84) e Referências (p. 109); P4 II.1 (p. 9) e Tabela 1 (p. 10); P0 I.2, limitação vii (p. 5); P7 (sem exame do art. 10, VII)"
+    transcricao: "Anexo III I: 'As Diretrizes Ambientais contidas neste anexo têm como propósito apresentar orientações socioambientais e de controle operacional que poderão auxiliar a elaboração das propostas' / P1, Referências: 'Relatório de Ratificação do Licenciamento Ambiental da Central de Tratamento e Destinação de Resíduos Sólidos de Porto Velho. 2024.'"
+    comentario: "O objeto exige implantar CTR com aterro de rejeitos, UVR, CDR e autoclave, reativar ou recuperar o Jirau e implantar transbordos. Nenhum documento do pacote apresenta licença prévia ou diretrizes de licenciamento expedidas pelo órgão ambiental; o Anexo III é documento da consultoria (versões de 03/2026 e 09/2026), que se apresenta como orientação, e o P0 exclui licenças do escopo dos estudos. O P1 cita um 'Relatório de Ratificação do Licenciamento Ambiental' da CTR (2024) sem informar conteúdo, fase ou validade, e o Anexo III descreve a CTR-PV como 'em implantação'. O P7 não examina a condição do art. 10, VII, da Lei n.º 11.079/2004."
+    dispositivo_legal: "art. 10, inciso VII, da Lei n.º 11.079/2004; art. 8.º, inciso I, e art. 10 da Resolução CONAMA n.º 237/1997"
+    depende_de: "Existência, nos autos do processo, de LP ou de diretrizes expedidas pelo órgão licenciador competente para CTR, Jirau e transbordos; conteúdo do 'Relatório de Ratificação do Licenciamento Ambiental' (2024)."
+    flag_tecnico: true
+    flag_reserva: false
+    reserva_tipo: null
+    nota_reserva: "Rebaixado de IRREGULAR (E2-070) para DEPENDE_DE_FATO: a ausência é verificável apenas no pacote; a existência de ato não juntado depende de consulta aos autos. [VALIDAÇÃO TÉCNICA: enquadramento dos empreendimentos para fins de licenciamento]"
+
+  - id_tmp: G1-061
+    tema: LICENCIAMENTO_AMBIENTAL
+    ids_origem: [E1-009, E3-031]
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Responsabilidade pela Licença Prévia atribuída ao mesmo tempo à concessionária e ao Poder Concedente"
+    dispositivo_editalicio: "Edital 6.3, iv (PDF p. 16); Contrato cl. 8.1, caput e inciso II (p. 17), 10.2.18 (p. 24), 10.12 (p. 31); Matriz TO-05 (p. 7); P6 III.10 (p. 23)"
+    transcricao: "Contrato 8.1: 'É de única e exclusiva responsabilidade da Concessionária, a obtenção, por sua conta e risco, em tempo hábil, das Licenças Ambientais Prévias (LP)' x 8.1, II: 'inclusive para obtenção de Licença Prévia pelo Poder Concedente' x Edital 6.3, iv: 'obtenção e transferência das Licenças Prévias cuja responsabilidade tenha sido expressamente atribuída ao PODER CONCEDENTE nos ANEXOS'"
+    comentario: "O caput do Contrato 8.1 e o 10.12 atribuem à concessionária todas as licenças, 'incluindo a Licença Prévia'; o inciso II do 8.1 menciona LP obtida pelo Poder Concedente; o 10.2.18 fala só em licenças de instalação e operação. O Edital condiciona a Ordem de Início à obtenção e transferência de LPs atribuídas ao Poder Concedente 'nos ANEXOS', mas nenhum anexo faz essa atribuição. A Matriz (TO-05) atribui ao Poder Concedente liberação de área e licenciamento do CTR-PV, e o P6 (p. 23) refere responsabilidade do Poder Concedente pelo 'licenciamento ambiental inicial'."
+    dispositivo_legal: "art. 10, inciso VII, da Lei n.º 11.079/2004; art. 5.º, inciso III, da Lei n.º 11.079/2004; art. 5.º da Lei n.º 14.133/2021"
+    depende_de: ""
+    flag_tecnico: false
+    flag_reserva: false
+    reserva_tipo: null
+    nota_reserva: ""
+    cruzamentos: ["G3 E4-071 (área e licenciamento da CTR: TO-05 x Edital 6.3.1/Contrato 8.1)"]
+
+  - id_tmp: G1-062
+    tema: LICENCIAMENTO_AMBIENTAL
+    ids_origem: [E2-071, E6-032, E5-042]
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: risco_economico
+    descricao_breve: "Prazo de licenciamento (LP, LI, LO e possível EIA/RIMA do aterro) não compatibilizado com cronograma e metas do Ano 2"
+    dispositivo_editalicio: "Anexo III VII.1, § 2.º (PDF p. 17); Anexo D Tabela 3 (p. 10) e Tabela 5, IE1, IE3 e IE4 (p. 14); P2 Tabela 15 (p. 43-45) e Tabela 16, item 4.5 (p. 46); P6 p. 46 e 50; Contrato cl. 8.7 (p. 19), 8.12 (p. 20), 10.13.1.1 (p. 31), 26.30 (p. 62); P4 Cap. III a VI (p. 10-29)"
+    transcricao: "Anexo III VII.1: 'Nenhuma instalação nova, ampliada, reativada ou modificada poderá iniciar operação sem a regularidade ambiental necessária e sem a comprovação de atendimento às condicionantes pré-operacionais.'"
+    comentario: "O Anexo D exige CTR 50% implantada e Jirau e incinerador reativados no Ano 2, e o P2 reduz a disposição no Ecoparque a partir do Ano 3, o que pressupõe LP, LI e LO de aterro novo em 12 a 24 meses. Não há cronograma de licenciamento nem de projetos; a Resolução CONAMA n.º 01/1986 lista aterros sanitários entre as atividades sujeitas a EIA/RIMA, e o P4 não trata desse estudo, de seu prazo ou custo (o termo EIA/RIMA só aparece no pedido de dados do P0). O Contrato isenta de penalidades os atrasos não imputáveis (8.7) e os que superem prazos legais por mora do órgão (8.12, 26.30), mas exclui o aterro do reequilíbrio por demora no licenciamento (10.13.1.1)."
+    dispositivo_legal: "art. 2.º, inciso X, da Resolução CONAMA n.º 01/1986; art. 14 da Resolução CONAMA n.º 237/1997; art. 225, § 1.º, inciso IV, da CF/1988; art. 5.º, inciso III, da Lei n.º 11.079/2004"
+    depende_de: "Enquadramento do aterro da CTR quanto à exigência de EIA/RIMA pelo órgão licenciador; prazo efetivo de tramitação; estado do licenciamento da área ('Relatório de Ratificação', 2024)."
+    flag_tecnico: true
+    flag_reserva: false
+    reserva_tipo: null
+    nota_reserva: "[VALIDAÇÃO TÉCNICA: prazo realista de LP/LI/LO e de EIA/RIMA no órgão licenciador]"
+    cruzamentos: ["G2 E6-039 (custos de licenciamento e EIA/RIMA não orçados)", "G3 E3-044"]
+
+  - id_tmp: G1-063
+    tema: LICENCIAMENTO_AMBIENTAL
+    ids_origem: [E3-032, E4-080]
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Atraso de licenciamento: regra restrita a órgãos estaduais/federais (Matriz: só federais), com erro de redação e só dilação de prazo"
+    dispositivo_editalicio: "Contrato cl. 8.7 (PDF p. 19), 8.12 (p. 20), 10.13.1.1 (p. 31), 26.30 (p. 62); Matriz RJ-02 (p. 26-27)"
+    transcricao: "Contrato 8.12: 'mora dos órgãos licenciadores estaduais e federais que supere os prazos manuais de tramitação fixados na legislação [...] ensejando a dilação de prazos de investimentos e metas' x Matriz RJ-02: 'Licenciamento sob jurisdição SEMA/RO [...] Atraso superior a 120 dias na resposta dos órgãos federais de licenciamento pode ensejar REEQUILÍBRIO DE PRAZOS'"
+    comentario: "O Contrato 8.12 refere 'prazos manuais' de tramitação (redação que parece pretender 'máximos'), não abrange o licenciador municipal e só concede dilação de prazos, sem recomposição de custos; o 8.7 e o 26.30 afastam penalidades e descontos, também sem reequilíbrio. A Matriz (RJ-02) reconhece que o licenciamento está 'sob jurisdição SEMA/RO', mas o gatilho cobre apenas atraso de 'órgãos federais' e também só gera reequilíbrio de prazos. O 10.13.1.1 retira o aterro da regra ('demora no licenciamento' sem recomposição)."
+    dispositivo_legal: "art. 5.º, inciso III, da Lei n.º 11.079/2004; art. 14 da Lei Complementar n.º 140/2011; art. 5.º da Lei n.º 14.133/2021"
+    depende_de: ""
+    flag_tecnico: false
+    flag_reserva: false
+    reserva_tipo: null
+    nota_reserva: ""
+    cruzamentos: ["G3 E3-044 (risco de licenciamento do aterro x TO-20)", "G3 E4-071"]
+
+  - id_tmp: G1-064
+    tema: LICENCIAMENTO_AMBIENTAL
+    ids_origem: [E5-043]
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: contradicao
+    descricao_breve: "Órgão licenciador competente indefinido (SEMA municipal x 'SEMA/RO' estadual x SEDAM)"
+    dispositivo_editalicio: "P1 p. 85; P4 p. 9, 27 e Referências (p. 39); P0 p. 25; Contrato cl. 8.8, i (p. 19); Anexo III (referências a SEMA/RO)"
+    transcricao: "P1, p. 85: 'vinculando sua implantação e operação à fiscalização direta da SEMA' / P4, Referências: 'SECRETARIA DE ESTADO DO DESENVOLVIMENTO AMBIENTAL DE RONDÔNIA (SEMA/RO). Nota Técnica nº 01/2023/SEMA-ERGASJPA.'"
+    comentario: "O P1 vincula as licenças do Ecoparque à SEMA e cita legislação estadual de licenciamento; o P4 denomina 'SEMA/RO' um órgão que descreve como secretaria estadual, cuja sigla no P0 e no P2 é SEDAM. Os estudos não definem a competência para licenciar a CTR, conduzir o rito GAC e aprovar o cronograma de remediação; os documentos vinculantes usam 'órgão ambiental licenciador competente'."
+    dispositivo_legal: "art. 8.º, inciso XIV, e art. 9.º, inciso XIV, da Lei Complementar n.º 140/2011"
+    depende_de: "Identificação do órgão licenciador competente para cada empreendimento (CTR, Jirau, transbordos) e para o rito GAC."
+    flag_tecnico: false
+    flag_reserva: false
+    reserva_tipo: null
+    nota_reserva: ""
+
+  - id_tmp: G1-065
+    tema: LICENCIAMENTO_AMBIENTAL
+    ids_origem: [E2-069]
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Natureza do Anexo III ambígua: 'orientações que poderão auxiliar' x 'obrigações editalícias verificáveis'"
+    dispositivo_editalicio: "Anexo III I e II.1 (PDF p. 6); Edital 2.11.2 (p. 12) e 3.1.3 (p. 14); Contrato cl. 8.8 (p. 19-20)"
+    transcricao: "Anexo III I: 'orientações socioambientais e de controle operacional que poderão auxiliar a elaboração das propostas' x 'convertendo o diagnóstico socioambiental, a modelagem operacional e as premissas técnicas do EVTEA em obrigações editalícias verificáveis'"
+    comentario: "O Anexo III se descreve ao mesmo tempo como diretrizes que 'deverão orientar', orientações que 'poderão auxiliar' e 'obrigações editalícias verificáveis'. O Edital o faz prevalecer sobre o EVTEA (2.11.2) e incorpora ao objeto suas Cláusulas Sociais e Programas Ambientais (3.1.3). Não está claro quais itens (compostagem de 80-120 t/dia, PA-09, recomendações 'incorporadas como diretrizes' em XIV.3) são vinculantes."
+    dispositivo_legal: "art. 5.º da Lei n.º 14.133/2021; art. 18, inciso II, da Lei n.º 8.987/1995 c/c art. 11 da Lei n.º 11.079/2004"
+    depende_de: ""
+    flag_tecnico: false
+    flag_reserva: true
+    reserva_tipo: RESERVA
+    nota_reserva: "A redação facultativa permite sustentar a inexigibilidade das diretrizes de maior custo."
+
+  - id_tmp: G1-066
+    tema: LICENCIAMENTO_AMBIENTAL
+    ids_origem: [E5-040]
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    descricao_breve: "Avaliação de impactos do P4 não abrange as instalações futuras da PPP"
+    dispositivo_editalicio: "P4 Objetivos (PDF p. 7), Tabelas 6 e 7 (p. 19-21); Edital 3.1, vi a x (p. 13)"
+    transcricao: "P4: 'Identificar, caracterizar e avaliar os riscos e impactos ambientais do sistema atual e do modelo de PPP projetado'"
+    comentario: "Embora o objetivo inclua o 'modelo de PPP projetado', a Tabela 6 do P4 avalia o sistema atual e a Tabela 7 apenas a transição. Não há avaliação dos impactos da CTR (aterro de rejeitos, CDR, compostagem, tratamento de RSS), dos transbordos e da nova logística fluvial, que compõem o objeto."
+    dispositivo_legal: "art. 18, § 1.º, inciso XII, da Lei n.º 14.133/2021 c/c art. 186 da mesma Lei; art. 10, inciso VII, da Lei n.º 11.079/2004"
+    depende_de: ""
+    flag_tecnico: true
+    flag_reserva: false
+    reserva_tipo: null
+    nota_reserva: ""
+
+  - id_tmp: G1-067
+    tema: LICENCIAMENTO_AMBIENTAL
+    ids_origem: [E5-045]
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: omissao
+    descricao_breve: "Aptidão locacional da CTR não avaliada (comunidade vizinha, campus, APP, áreas contaminadas, lençol freático)"
+    dispositivo_editalicio: "P1 p. 84; P4 Tabela 1 (PDF p. 10), Tabela 3 (p. 13) e V.1.3 (p. 22-23); P2 V.5 (p. 36)"
+    transcricao: "P4, Tabela 1: 'Localizado em frente ao bairro Vila Princesa. Prevê triagem mecanizada, compostagem e autoclave. Entraves institucionais acumulados há mais de 10 anos.'"
+    comentario: "A CTR, com novo aterro, será implantada em frente à comunidade da Vila Princesa (580 a 800 habitantes segundo o Anexo III), próxima ao campus da UNIR, à APP de igarapé e às áreas com potencial de contaminação, suspeitas ou contaminadas do entorno da Lixeira. O P4 não avalia distâncias mínimas, hidrogeologia, nível do lençol, sobreposição com plumas de contaminação nem alternativas locacionais."
+    dispositivo_legal: "art. 5.º, inciso I, da Resolução CONAMA n.º 01/1986; Resolução CONAMA n.º 237/1997"
+    depende_de: "Estudo locacional e hidrogeológico do sítio da CTR."
+    flag_tecnico: true
+    flag_reserva: false
+    reserva_tipo: null
+    nota_reserva: "[VALIDAÇÃO TÉCNICA: estudo locacional/hidrogeológico]"
+
+  - id_tmp: G1-068
+    tema: LICENCIAMENTO_AMBIENTAL
+    ids_origem: [E5-044]
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: omissao
+    descricao_breve: "Área de Segurança Aeroportuária não avaliada para o aterro da CTR"
+    dispositivo_editalicio: "P2 V.5 (PDF p. 36) — coordenadas do sítio; ausência de referência a aeródromos em todos os documentos"
+    transcricao: "P2, p. 36: 'BR- 364 (sentido Rio Branco/AC) no km 10. [...] Latitude: 08°51’00,59” S e Longitude: 63°56’13,58” O'"
+    comentario: "Aterros sanitários atraem fauna e estão sujeitos a restrições na Área de Segurança Aeroportuária. Nenhum documento do pacote verifica a distância do sítio da CTR aos aeródromos da região nem a necessidade de manifestação da autoridade aeronáutica (busca por 'aeroporto', 'aeródromo' e 'Lei 12.725' sem ocorrência pertinente). A estimativa de distância feita pelo extrator foi suprimida por não ter base documental."
+    dispositivo_legal: "arts. 2.º e 3.º da Lei n.º 12.725/2012 (conferir redação vigente)"
+    depende_de: "Distância entre o sítio da CTR (coordenadas do P2, p. 36) e os aeródromos da região, com coordenadas oficiais (AIP/ANAC); enquadramento na ASA e eventual manifestação da autoridade aeronáutica."
+    flag_tecnico: true
+    flag_reserva: false
+    reserva_tipo: null
+    nota_reserva: "[VALIDAÇÃO TÉCNICA: aferição georreferenciada da distância ao aeródromo]"
+
+  - id_tmp: G1-069
+    tema: LICENCIAMENTO_AMBIENTAL
+    ids_origem: [E5-046]
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: ilegalidade
+    descricao_breve: "Supressão de vegetação em APP prevista para obras da CTR-PV sem enquadramento nas hipóteses legais"
+    dispositivo_editalicio: "P4 Tabela 7 (PDF p. 21); Anexo III PA-07 (p. 19)"
+    transcricao: "P4, Tabela 7: 'Obras de implantação | APP igarapé adjacente à Lixeira | com supressão de vegetação em APP (Lixeira / CTR-PV) [...] PA-07: recuperação de APPs; licenciamento ambiental prévio'"
+    comentario: "O P4 admite supressão de vegetação em APP de igarapé adjacente à Lixeira/CTR-PV, mas não indica a hipótese legal (utilidade pública, interesse social ou baixo impacto) nem a área afetada. A intervenção em APP é excepcional e depende de enquadramento expresso."
+    dispositivo_legal: "art. 4.º, inciso I, e art. 8.º da Lei n.º 12.651/2012"
+    depende_de: "Área de APP afetada pelo layout da CTR e hipótese legal de intervenção invocável."
+    flag_tecnico: true
+    flag_reserva: false
+    reserva_tipo: null
+    nota_reserva: "Verificar a eficácia da expressão 'gestão de resíduos' no art. 3.º, inciso VIII, alínea 'b', da Lei n.º 12.651/2012, objeto de controle de constitucionalidade, antes de invocá-la."
+
+  - id_tmp: G1-070
+    tema: LICENCIAMENTO_AMBIENTAL
+    ids_origem: [E5-092]
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: omissao
+    descricao_breve: "Estação de transbordo do Baixo Madeira em margem de rio sem análise de APP, cheias, titularidade ou licenciamento"
+    dispositivo_editalicio: "P1 VII.2.3 (PDF p. 78) e VIII.4 (p. 98); P4 Tabela 1 (p. 11) e Tabela 6 (p. 20); Caderno XI.4 (p. 62)"
+    transcricao: "P1, p. 78: 'No local utilizado como ponto para transbordo entre o material da balsa e os caminhões caçambas, deverá ser construída a futura estação de transbordo.'"
+    comentario: "A futura estação de transbordo ficará no ponto informal de transbordo da Foz do Jamari/São Carlos, à margem do rio, sujeito a cheias e erosão, hoje sem impermeabilização e com RSS misturado ao RSU. Os estudos não avaliam APP, cota de inundação, titularidade (o Caderno diz que a área 'será cedida pela prefeitura') nem licenciamento."
+    dispositivo_legal: "art. 4.º, inciso I, da Lei n.º 12.651/2012; art. 10, inciso VII, da Lei n.º 11.079/2004"
+    depende_de: "Levantamento locacional, fundiário e de cota de cheia do ponto indicado."
+    flag_tecnico: true
+    flag_reserva: false
+    reserva_tipo: null
+    nota_reserva: ""
+
+  - id_tmp: G1-071
+    tema: LICENCIAMENTO_AMBIENTAL
+    ids_origem: [E2-078]
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: omissao
+    descricao_breve: "PA-07: passagens de fauna em rodovia e recuperação de 1 ha/ano de APP sem local, competência ou custo"
+    dispositivo_editalicio: "Anexo III Tabela 11, PA-07 (PDF p. 19)"
+    transcricao: "Anexo III, PA-07: 'Recuperação de ≥1 ha de APP/ano; passagens de fauna nas rotas noturnas do Alto Madeira até M12.'"
+    comentario: "A implantação de passagens de fauna nas rotas do Alto Madeira (BR-364, rodovia federal) depende de autorização do órgão com jurisdição sobre a via, e não há quantidade, local ou custo definidos nem linha no P6. A recuperação de pelo menos 1 ha de APP por ano não indica as áreas."
+    dispositivo_legal: "Lei n.º 12.651/2012 (APP); não localizei fundamento normativo específico para impor à concessionária de RSU a implantação de passagens de fauna em rodovia federal"
+    depende_de: "Definição das áreas de APP e dos pontos de passagem de fauna; autorização do órgão com jurisdição sobre a rodovia."
+    flag_tecnico: true
+    flag_reserva: false
+    reserva_tipo: null
+    nota_reserva: ""
+
+  - id_tmp: G1-072
+    tema: LICENCIAMENTO_AMBIENTAL
+    ids_origem: [E3-047, E2-077, E5-080]
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Obrigações ambientais sobre o Ecoparque (condicionantes e renovação da LAO; controle de biogás), aterro privado de terceiro"
+    dispositivo_editalicio: "Contrato cl. 10.9 (PDF p. 30); Anexo III Tabela 8, linha 'Disposição final — Ecoparque/Aterro Jirau' (p. 16) e PA-03 (p. 19); P4 PA-03 (Tabela 9, p. 26) e Tabela 6 (p. 20); P2 Tabela 16, item 4.5 (p. 46)"
+    transcricao: "Contrato 10.9: 'A Concessionária observará e manterá o cumprimento das condicionantes da Licença de Operação (LAO) do Aterro Sanitário Ecoparque [...] responsabilizando-se pela renovação tempestiva da licença [...] obrigação que perdurará por todo o prazo' / P4, PA-03: 'Implantar sistema de captação, controle e aproveitamento de biogás na Lixeira e no Ecoparque.'"
+    comentario: "O Ecoparque pertence a terceiro (LAO em nome de CTR Porto Velho S/A) e é solução de destinação transitória nos Anos 1 a 4 da modelagem, enquanto o Contrato exige aterro próprio na Sede (10.13). O Contrato 10.9 atribui à concessionária as condicionantes e a renovação da LAO de bem alheio por todo o prazo. O Anexo III (Tabela 8) prevê drenos e flare em M24 para 'Ecoparque/Aterro Jirau', e o P4 (PA-03) inclui expressamente o Ecoparque, embora o PA-03 do Anexo III não o mencione. Não há instrumento de acesso nem custo modelado, e o potencial de '4.851 kWh/dia no Ano 1' pressupõe aterro em operação antes da implantação prevista da CTR."
+    dispositivo_legal: "art. 5.º, inciso III, da Lei n.º 11.079/2004; art. 5.º da Lei n.º 14.133/2021; não localizei fundamento normativo que permita impor à concessionária obrigações sobre instalação de terceiro não integrante da concessão"
+    depende_de: ""
+    flag_tecnico: true
+    flag_reserva: true
+    reserva_tipo: DECISAO_COMERCIAL
+    nota_reserva: "Pode favorecer licitante ligado ao Ecoparque; a conveniência de suscitar depende da relação do grupo com esse aterro. Falta o Contrato n.º 042/PGM/2023."
+    cruzamentos: ["G2 E4-021 (flare sem CAPEX/OPEX)", "G2 E6-061 (estimativa de biogás sem fonte no P3)"]
+
+  - id_tmp: G1-073
+    tema: LICENCIAMENTO_AMBIENTAL
+    ids_origem: [E2-015, E5-050]
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: risco_economico
+    descricao_breve: "Destinação transitória no Ecoparque sem regra contratual; LAI (08/10/2026) e LAO (09/10/2028) não cobrem a transição"
+    dispositivo_editalicio: "Caderno Tabela 3, linha 'Disposição final' (PDF p. 10); Anexo III Tabela 3 (p. 9); P1 VII.2.4 (p. 84-85); P4 Tabela 1 (p. 10); Anexo D Tabela 3 (p. 10); P2 Tabela 16, item 4.5 (p. 46)"
+    transcricao: "P1, p. 85: 'Licença Ambiental de Instalação (LAI) nº 016.00047.006/2024-SUL, concedida à ECORONDÔNIA AMBIENTAL S/A, válida até 08/10/2026 [...] Licença Ambiental de Operação (LAO) nº 016.00130.006/2024-SUL, emitida em nome de CTR PORTO VELHO S/A, válida até 09/10/2028'"
+    comentario: "Até a CTR ter aterro operacional (50% no Ano 2, 25% no Ano 4 e 25% no Ano 8 no Anexo D), os rejeitos seguem para o Ecoparque, cuja LAO vence em 09/10/2028 e cuja LAI (obras de ampliação) vence em 08/10/2026. Caderno e Contrato não disciplinam contrato, preço, capacidade, renovação das licenças nem alternativa licenciada para a destinação transitória. O P2 orça R$ 1,76 mi/ano (Anos 1-2) e R$ 704 mil/ano (Anos 3-4) para o Ecoparque."
+    dispositivo_legal: "art. 5.º, inciso III, da Lei n.º 11.079/2004; art. 18 da Resolução CONAMA n.º 237/1997; art. 10-A, inciso IV, da Lei n.º 11.445/2007"
+    depende_de: "Pedido de renovação/ampliação das licenças do Ecoparque; termos do Contrato n.º 042/PGM/2023 (preço e prazo); capacidade remanescente do aterro."
+    flag_tecnico: false
+    flag_reserva: false
+    reserva_tipo: null
+    nota_reserva: ""
+    cruzamentos: ["G2 E4-030, E6-054, E5-011 (custo de destinação no Ecoparque)", "G3 E5-010, E5-052, E4-078 (contrato, capacidade e risco do Ecoparque)"]
+
+  - id_tmp: G1-074
+    tema: LICENCIAMENTO_AMBIENTAL
+    ids_origem: [E2-030, E3-035]
+    tipo_achado: IRREGULAR
+    categoria: risco_economico
+    descricao_breve: "Jirau: cinco áreas suspeitas sem investigação confirmatória; encargo de recuperação sem limite"
+    dispositivo_editalicio: "Anexo III Tabela 3 (PDF p. 9), VII.3 (p. 18) e PA-08 (p. 19); Contrato cl. 8.6.1.2 (p. 18-19), 8.8, ii (p. 19-20); Anexo III Tabela 2 (p. 8)"
+    transcricao: "Anexo III, Tabela 3: 'Laudo EcoRondônia 2024: 5 Áreas Suspeitas (AS1–AS5); recomenda 5 novos poços de monitoramento.' / Contrato 8.6.1.2: 'é limitado ao investimento previsto para o encerramento da antiga Lixeira de Vila Princesa'"
+    comentario: "O Anexo III registra cinco áreas suspeitas no Jirau, sem investigação confirmatória. O limite de encargo do Contrato (8.6.1.2) cobre apenas a Vila Princesa; o programa de recuperação e monitoramento pós-encerramento do Jirau (8.8, ii), com prazo mínimo de 20 anos, não tem limite de dispêndio, nem as intervenções que a investigação vier a indicar. O escopo físico e financeiro do encargo no Jirau é indeterminado."
+    dispositivo_legal: "Resolução CONAMA n.º 420/2009 (gerenciamento de áreas contaminadas); art. 14, § 1.º, da Lei n.º 6.938/1981; art. 5.º, inciso III, da Lei n.º 11.079/2004"
+    depende_de: ""
+    flag_tecnico: true
+    flag_reserva: false
+    reserva_tipo: null
+    nota_reserva: "Falta o laudo EcoRondônia 2024 do Jirau."
+    cruzamentos: ["G3 E7-032 (passivos históricos Vila Princesa e Jirau)", "G3 E6-027 (Jirau: R$ 5 mi sem memória)"]
+
+  - id_tmp: G1-075
+    tema: LICENCIAMENTO_AMBIENTAL
+    ids_origem: [E2-087, E5-057]
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: contradicao
+    descricao_breve: "Cronograma GAC aprovado pelo órgão ambiental como condição pré-licitatória (Anexo III/P4) sem comprovação; Contrato transfere etapas à concessionária"
+    dispositivo_editalicio: "Anexo III VII.2 (PDF p. 17), XIV.2 e XIV.3 (p. 33-34); P4 VI.2 (p. 27) e IX (p. 36); Contrato cl. 8.6.1.2.4 e 8.8, i (p. 19)"
+    transcricao: "Anexo III XIV.3: 'Cronograma das etapas pendentes do rito GAC da Lixeira da Vila Princesa como condição suspensiva pré-licitatória.' / P4: 'devem constar como condições suspensivas (Etapa 1, concluída; Etapas 2 e 3, em fase de cobrança pela SEMA)'"
+    comentario: "O Anexo III (XIV.2 e XIV.3, 'recomendações estratégicas incorporadas como diretrizes') e o P4 qualificam o cronograma das etapas pendentes do rito GAC, aprovado pelo órgão ambiental e com marcos publicados, como condição suspensiva pré-licitatória. A licitação foi lançada sem que os documentos indiquem essa aprovação; o cronograma da Tabela 10 do Anexo III é da consultoria. O Contrato atribui à concessionária a execução das etapas pendentes após a Ordem de Início (8.8, i) e a integralidade das medidas de intervenção (8.6.1.2.4)."
+    dispositivo_legal: "Resolução CONAMA n.º 420/2009; art. 10, inciso VII, da Lei n.º 11.079/2004; art. 5.º da Lei n.º 14.133/2021"
+    depende_de: "Existência de cronograma do rito GAC aprovado pelo órgão ambiental nos processos SEI de remediação da Lixeira."
+    flag_tecnico: false
+    flag_reserva: false
+    reserva_tipo: null
+    nota_reserva: ""
+    cruzamentos: ["G3 E2-072, E5-054, E4-075, E4-076, E6-034 (escopo, teto e alocação da remediação)", "G4 E2-086 (condições pré-edital)"]
+
+  - id_tmp: G1-076
+    tema: LICENCIAMENTO_AMBIENTAL
+    ids_origem: [E2-073, E5-058]
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Cronograma do rito GAC da Vila Princesa divergente entre Anexo III, P4, Anexo D, P2 e P6"
+    dispositivo_editalicio: "Anexo III Tabela 10 (PDF p. 18), Tabela 11, PA-01 (p. 19), Tabela 15 (p. 26); P4 Tabela 10 (p. 27-28) e PA-01 (Tabela 9, p. 26); Anexo D Tabela 3 (p. 10) e IE5 (p. 14); P6 Tabela 7, item 7.1.1 (p. 40); P2 Tabela 15, item 7.1.1 (p. 45)"
+    transcricao: "Anexo III PA-01: '100% das etapas E1–E4 concluídas em M36' x Anexo III, Tabela 10: 'E4 — Avaliação de Risco à Saúde Humana [...] M12–M18' / P4, Tabela 10: 'E1 — Avaliação Preliminar (concluída) ... M1–M3'"
+    comentario: "No Anexo III (Tabela 10), a etapa E4 termina em M18; o PA-01 fixa E1-E4 concluídas em M36 e a Tabela 15 fala em 'rito GAC concluído 100% (M36)', com monitoramento de 10 anos após M36. O P4 atribui prazo M1-M3 à etapa E1 já concluída e desloca marcos verificáveis entre etapas. O Anexo D mede a implantação em 10% no Ano 2, 50% no Ano 3 e 100% no Ano 4, sem marco no Ano 1, embora a investigação confirmatória esteja prevista para M1-M6; o P6 desembolsa nos Anos 1 a 3 e o P2 nos Anos 2 a 4. Esses prazos servem de base a sanções e descontos."
+    dispositivo_legal: "art. 23, parágrafo único, inciso I, da Lei n.º 8.987/1995 c/c art. 3.º da Lei n.º 11.079/2004; art. 5.º, inciso VII, da Lei n.º 11.079/2004; Resolução CONAMA n.º 420/2009"
+    depende_de: ""
+    flag_tecnico: true
+    flag_reserva: false
+    reserva_tipo: null
+    nota_reserva: ""
+
+  - id_tmp: G1-077
+    tema: LICENCIAMENTO_AMBIENTAL
+    ids_origem: [E2-076, E5-058]
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "Intervenções nos passivos exigidas antes da avaliação de risco que as define (lixiviado em M12; intervenção desde M1)"
+    dispositivo_editalicio: "Anexo III Tabela 10 (PDF p. 18) e Tabela 11, PA-04 (p. 19); P4 Tabela 10 (p. 27-28); Contrato cl. 8.6.1.2 (p. 18-19)"
+    transcricao: "Anexo III PA-04: 'Implantar sistema de coleta, recirculação e tratamento de lixiviado nos passivos ambientais. | Sistema operacional em M12; ≥90% do lixiviado coletado e tratado [...] | M1–M12' x Anexo III, Tabela 10: 'E4 — Avaliação de Risco [...] M12–M18 [...] com definição de medidas de intervenção'"
+    comentario: "O PA-04 exige sistema de lixiviado operacional nos passivos em M12, mas, pela Tabela 10 do Anexo III, as medidas de intervenção só são definidas pela avaliação de risco (M12-M18). No P4 (Tabela 10), a intervenção (E6, M1-M36) começa antes da avaliação de risco (E4, M12-M36). A sequência é tecnicamente inconsistente, e o custo pode ficar fora do limite do Contrato 8.6.1.2 se tratado como 'programa' e não como 'medida de intervenção'."
+    dispositivo_legal: "Resolução CONAMA n.º 420/2009; Resolução CONAMA n.º 430/2011; art. 5.º, inciso III, da Lei n.º 11.079/2004"
+    depende_de: ""
+    flag_tecnico: true
+    flag_reserva: false
+    reserva_tipo: null
+    nota_reserva: ""
+
+  - id_tmp: G1-078
+    tema: LICENCIAMENTO_AMBIENTAL
+    ids_origem: [E1-117]
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: omissao
+    descricao_breve: "Base normativa do rito GAC: Nota Técnica 01/2023/SEMA-ERGASJPA (Edital) x IN SEDAM 5/2025 (P2)"
+    dispositivo_editalicio: "Edital 1.1.44 (PDF p. 9); Anexo III p. 17; P2 Sumário (p. 5); P4 II.1 (p. 9)"
+    transcricao: "Edital 1.1.44: 'procedimento regulamentar de Gerenciamento de Áreas Contaminadas estabelecido na Resolução CONAMA nº 420/2009 e na Nota Técnica nº 01/2023/SEMA-ERGASJPA' x P2, p. 5: 'atendendo aos critérios estabelecidos na Instrução Normativa SEDAM nº 5 de 19/02/2025'"
+    comentario: "O rito de encerramento da Vila Princesa remete a nota técnica cujo emissor e aplicabilidade não são identificados nos documentos vinculantes; o P2 fundamenta o encerramento da Lixeira e do Jirau na Instrução Normativa SEDAM n.º 5/2025. A divergência de base normativa afeta o escopo e o custo da remediação."
+    dispositivo_legal: "Resolução CONAMA n.º 420/2009; art. 5.º da Lei n.º 14.133/2021"
+    depende_de: "Existência, emissor e vigência da Nota Técnica n.º 01/2023/SEMA-ERGASJPA e da IN SEDAM n.º 5/2025, e relação entre elas."
+    flag_tecnico: true
+    flag_reserva: false
+    reserva_tipo: null
+    nota_reserva: ""
+
+  - id_tmp: G1-079
+    tema: LICENCIAMENTO_AMBIENTAL
+    ids_origem: [E5-055]
+    tipo_achado: IRREGULAR
+    categoria: contradicao
+    descricao_breve: "P4 afirma contaminação 'confirmada' com base apenas em avaliação preliminar (Vila Princesa e Jirau)"
+    dispositivo_editalicio: "P4 Sumário (PDF p. 6), Tabela 3 (p. 13), V.1.3 (p. 23) x Tabela 1 e VI.2 (p. 27); P1 p. 88; Anexo III Tabela 3 (p. 9)"
+    transcricao: "P4, p. 6: 'Aterro do Jirau [...] com cinco Áreas Suspeitas de Contaminação (AS) confirmadas pelo laudo EcoRondônia (2024)' / P4, p. 13: 'Áreas Contaminadas confirmadas pelo laudo EcoRondônia 2024'"
+    comentario: "No gerenciamento de áreas contaminadas, a avaliação preliminar identifica áreas suspeitas; a confirmação depende de investigação confirmatória, que o próprio P4 reconhece pendente. O P4 qualifica como 'confirmadas' áreas que o Anexo III descreve como suspeitas, e o P1 informa apenas a recomendação de cinco novos poços no Jirau. A qualificação influencia a leitura do estado dos passivos pelos licitantes."
+    dispositivo_legal: "Resolução CONAMA n.º 420/2009 (etapas de identificação e classificação de áreas — artigo a conferir no inteiro teor)"
+    depende_de: ""
+    flag_tecnico: true
+    flag_reserva: false
+    reserva_tipo: null
+    nota_reserva: ""
+
+  - id_tmp: G1-080
+    tema: LICENCIAMENTO_AMBIENTAL
+    ids_origem: [E5-053]
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    descricao_breve: "Encerramento do lixão classificado como 'CONFORME' sem registro do descumprimento do prazo legal"
+    dispositivo_editalicio: "P4 Tabela 5 (PDF p. 15); P1 p. 87 e 93"
+    transcricao: "P4, Tabela 5: 'Fechamento do lixão | PNRS art. 54; Decreto 10.936/2022 | CONFORME | Lixeira encerrada nov./2023'"
+    comentario: "Para capitais, o prazo legal para disposição final ambientalmente adequada encerrou-se em 2 de agosto de 2021; a Lixeira foi encerrada em novembro de 2023 (Portaria n.º 109/SEMUSB/2023), sem encerramento técnico e com apenas a avaliação preliminar do rito GAC concluída. A classificação omite esse histórico, que se relaciona com as ações civis públicas mencionadas nos estudos e para os passivos preexistentes."
+    dispositivo_legal: "art. 54, inciso I, da Lei n.º 12.305/2010 (redação da Lei n.º 14.026/2020)"
+    depende_de: ""
+    flag_tecnico: false
+    flag_reserva: false
+    reserva_tipo: null
+    nota_reserva: ""
+
+  - id_tmp: G1-081
+    tema: LICENCIAMENTO_AMBIENTAL
+    ids_origem: [E1-014, E5-074, E7-080]
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: omissao
+    descricao_breve: "Consulta prévia a povos e comunidades tradicionais (Convenção 169 da OIT) pendente; comunidades não identificadas"
+    dispositivo_editalicio: "P7 XII.4 (PDF p. 72) e IV.4 (p. 37); P4 Tabelas 13 e 14 (p. 34); P2 p. 20; Matriz SA-07 e SA-11 (p. 24); Edital (sem item sobre o tema)"
+    transcricao: "P7 XII.4: 'a observância da Convenção 169 da OIT (oitiva dos povos originários) são providências institucionais que devem ser equacionadas no curso da instrução administrativa' / P4, Tabela 13: 'FUNAI / INCRA [...] A consultar'"
+    comentario: "O P2 menciona comunidades ribeirinhas, quilombolas e indígenas ao longo da calha do Rio Madeira, mas o P4 não as identifica e deixa FUNAI e INCRA 'a consultar'. O P7 registra a oitiva prevista na Convenção 169 como providência pendente, e a Matriz aloca ao Poder Concedente a consulta às comunidades (SA-07) e o atraso das consultas a FUNAI/INCRA (SA-11). Não há registro de que a consulta tenha ocorrido antes do Edital, embora a logística fluvial e os transbordos afetem os distritos do Baixo Madeira."
+    dispositivo_legal: "art. 6.º da Convenção n.º 169 da OIT (Decreto n.º 10.088/2019); art. 231 da CF/1988"
+    depende_de: "Identificação de terras e comunidades indígenas, quilombolas e tradicionais na área de influência e registro da consulta realizada."
+    flag_tecnico: false
+    flag_reserva: false
+    reserva_tipo: null
+    nota_reserva: ""
+    cruzamentos: ["G4 E2-086, E5-075 (consultas prévias e audiências sem comprovação)"]
+
+  - id_tmp: G1-082
+    tema: LICENCIAMENTO_AMBIENTAL
+    ids_origem: [E4-082]
+    tipo_achado: IRREGULAR
+    categoria: risco_economico
+    descricao_breve: "Atraso das consultas a FUNAI/INCRA alocado ao Poder Concedente, mas compensado só com prazo (Matriz SA-11)"
+    dispositivo_editalicio: "Matriz SA-11 (PDF p. 24)"
+    transcricao: "Matriz SA-11: 'Atraso superior a 120 dias na resposta dos órgãos federais (FUNAI/INCRA) pode ensejar REEQUILÍBRIO DE PRAZOS do cronograma.'"
+    comentario: "A SA-11 aloca ao Poder Concedente o risco de atraso das consultas a FUNAI/INCRA, mas a única consequência prevista é a recomposição de prazos, sem custos de mobilização ociosa, transição prolongada ou destinação provisória. O custo efetivo do evento permanece com a concessionária."
+    dispositivo_legal: "art. 5.º, inciso III, da Lei n.º 11.079/2004"
+    depende_de: ""
+    flag_tecnico: false
+    flag_reserva: false
+    reserva_tipo: null
+    nota_reserva: ""
+
+  - id_tmp: G1-083
+    tema: LICENCIAMENTO_AMBIENTAL
+    ids_origem: [E3-080]
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: risco_economico
+    descricao_breve: "Receitas acessórias com incineração, resíduos Classe I e efluentes industriais em bens reversíveis destinados a RSU"
+    dispositivo_editalicio: "Contrato cl. 18.2, alíneas e, g e h (PDF p. 42), 18.3 e 10.13.5.4 (p. 32)"
+    transcricao: "Contrato 18.2: 'e) Comercialização de recicláveis, geração de energia térmica através de incineração e outros projetos associados; [...] g) Coleta e tratamento de resíduos sólidos Classe I; h) Tratamento de efluentes oriundos de atividades do setor industrial'"
+    comentario: "O rol de receitas acessórias autoriza atividades de incineração com geração de energia, tratamento de resíduos perigosos e de efluentes industriais em instalações reversíveis destinadas a RSU. A recuperação energética depende de comprovação de viabilidade técnica e ambiental e de programa de monitoramento aprovado, e o tratamento de Classe I exige licenciamento específico, não previsto para as unidades da CTR."
+    dispositivo_legal: "art. 9.º, § 1.º, da Lei n.º 12.305/2010; Resolução CONAMA n.º 316/2002; Resolução CONAMA n.º 237/1997"
+    depende_de: "Compatibilidade das licenças a serem obtidas para a CTR com as atividades acessórias pretendidas."
+    flag_tecnico: true
+    flag_reserva: true
+    reserva_tipo: RESERVA
+    nota_reserva: "Oportunidade de receita acessória não evidente nos estudos."
+    cruzamentos: ["G2 E4-055 (receitas acessórias não projetadas)"]
+
+  - id_tmp: G1-084
+    tema: LICENCIAMENTO_AMBIENTAL
+    ids_origem: [E5-085]
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: risco_economico
+    descricao_breve: "Padrões IFC/Banco Mundial apresentados como 'exigência' sem fonte normativa ou contratual"
+    dispositivo_editalicio: "P4 VIII (PDF p. 33) e Tabela 13 (p. 34); Anexo III (Plano de Engajamento de Stakeholders)"
+    transcricao: "P4, p. 33: 'O PES é exigência do Padrão de Desempenho Social nº 1 do IFC e do Marco de Política Ambiental e Social do Banco Mundial'"
+    comentario: "O P4 trata os Padrões de Desempenho do IFC e o marco do Banco Mundial como exigências e prevê certificação de conformidade. Esses padrões não são normas brasileiras e só obrigam por cláusula contratual ou condição de financiador; se incorporados como obrigação, geram custo não modelado."
+    dispositivo_legal: "não localizei fundamento normativo específico"
+    depende_de: "Posição da Administração sobre a incorporação desses padrões como obrigação contratual."
+    flag_tecnico: false
+    flag_reserva: false
+    reserva_tipo: null
+    nota_reserva: ""
+
+  - id_tmp: G1-085
+    tema: LICENCIAMENTO_AMBIENTAL
+    ids_origem: [E5-056, E5-073, E5-089, E6-050]
+    tipo_achado: IRREGULAR
+    categoria: erro_material
+    descricao_breve: "Referências normativas incorretas ou revogadas nos estudos e na Matriz de Riscos"
+    dispositivo_editalicio: "P1 VII.2.7 (PDF p. 94), V.3 (p. 58) e VI (p. 60); P4 Tabela 13 (p. 34); Matriz SA-11 (p. 24); P2 III.1 (p. 10); P6 p. 48"
+    transcricao: "P1, p. 94: 'conforme critérios da NBR 10157' / P4, Tabela 13 e Matriz SA-11: 'Convenção 169 OIT (Decreto 5.051/2004)' / P1, p. 58: 'em consonância com a Resolução CONAMA nº 283/2001 [...] classifica os RSS em quatro grupos' / P2, p. 10: 'reversão integral das receitas aos cooperados, atendendo ao Art. 44 da PNRS'"
+    comentario: "(i) O P1 atribui a classificação de áreas em AP/AS/AC à NBR 10157, que trata de aterros de resíduos perigosos; a classificação decorre da Resolução CONAMA n.º 420/2009 e da série NBR 15515, citadas no P4. (ii) O P4 e a Matriz (SA-11) citam a Convenção 169 pelo Decreto n.º 5.051/2004, revogado e consolidado no Decreto n.º 10.088/2019. (iii) O P1 apresenta a lei municipal de RSS em consonância com a Resolução CONAMA n.º 283/2001, substituída pela n.º 358/2005, e com classificação em quatro grupos, embora a RDC ANVISA n.º 222/2018 adote cinco (A a E). (iv) O P2 e o P6 invocam o art. 44 da PNRS (incentivos fiscais e creditícios) para a reversão de receitas às cooperativas, regra que não está nesse artigo."
+    dispositivo_legal: "Resolução CONAMA n.º 420/2009; Decreto n.º 10.088/2019; Resolução CONAMA n.º 358/2005; RDC ANVISA n.º 222/2018; art. 36, § 1.º, e art. 44 da Lei n.º 12.305/2010 (conferir redação vigente)"
+    depende_de: ""
+    flag_tecnico: false
+    flag_reserva: false
+    reserva_tipo: null
+    nota_reserva: ""
+
+  - id_tmp: G1-086
+    tema: LICENCIAMENTO_AMBIENTAL
+    ids_origem: [E2-092]
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: erro_material
+    descricao_breve: "KPI de qualidade do ar (PA-05) ancorado na Resolução CONAMA 03/1990, possivelmente sem vigência"
+    dispositivo_editalicio: "Anexo III Tabela 11, PA-05 (PDF p. 19)"
+    transcricao: "Anexo III PA-05: 'nenhuma superação dos limites da CONAMA 03/1990 em mais de 3 medições/ano'"
+    comentario: "Os padrões nacionais de qualidade do ar foram objeto da Resolução CONAMA n.º 491/2018, alterada pela Resolução CONAMA n.º 506/2024, que estabelece padrões intermediários por etapas. Se a Resolução n.º 03/1990 tiver sido revogada, o indicador contratual fica referido a norma sem vigência."
+    dispositivo_legal: "Resolução CONAMA n.º 491/2018 e Resolução CONAMA n.º 506/2024 (verificar cláusulas de revogação no texto oficial); Resolução CONAMA n.º 03/1990"
+    depende_de: "Confirmação, no texto oficial publicado no DOU, da revogação da Resolução CONAMA n.º 03/1990 e dos padrões vigentes."
+    flag_tecnico: false
+    flag_reserva: false
+    reserva_tipo: null
+    nota_reserva: ""
+
+# ============================== OUTROS TEMAS (pontos de entrada G1 sem duplicata em outro grupo) ==============================
+
+  - id_tmp: G1-087
+    tema: RISCOS_GARANTIAS
+    ids_origem: [E3-089]
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    descricao_breve: "Aprovação de projetos pelo Poder Concedente sem prazo nem efeito do silêncio"
+    dispositivo_editalicio: "Contrato cl. 10.1.5 (PDF p. 22) e 10.2.13 (p. 24); cf. 10.13.2.1 e 18.3.2"
+    transcricao: "Contrato 10.1.5: 'Manifestar-se quanto à objeção ou não aos projetos encaminhados pela Concessionária, relativos às obras previstas na Concessão.' / 10.2.13: 'Obter a prévia aprovação do Poder Concedente para os projetos, planos e programas relativos à implantação da infraestrutura'"
+    comentario: "Diferentemente de outros procedimentos do Contrato que fixam prazo e efeito do silêncio (10.13.2.1: 30 dias, silêncio como ausência de objeção; 18.3.2: 20 dias úteis, silêncio autorizativo), a aprovação dos projetos da CTR e das demais obras não tem prazo nem regra de silêncio. O tempo de análise do Poder Concedente incide sobre o cronograma de implantação sem alocação expressa de risco."
+    dispositivo_legal: "art. 5.º, inciso III, da Lei n.º 11.079/2004"
+    depende_de: ""
+    flag_tecnico: false
+    flag_reserva: false
+    reserva_tipo: null
+    nota_reserva: ""
+
+  - id_tmp: G1-088
+    tema: RISCOS_GARANTIAS
+    ids_origem: [E3-036, E4-077]
+    tipo_achado: DEPENDE_DE_FATO
+    categoria: risco_economico
+    descricao_breve: "Corte temporal pela Ordem de Início aplicado a contaminação contínua de passivos preexistentes"
+    dispositivo_editalicio: "Contrato cl. 8.6.1.1, 8.6.1.2.3 e 8.6.3 a 8.6.5 (PDF p. 18-19); Matriz SA-01, SA-02, SA-05 e SA-13 (frase final)"
+    transcricao: "Contrato 8.6.1.1: 'Entendem-se por passivos ambientais preexistentes aqueles cujo fato gerador seja anterior à emissão da Ordem de Início' / Matriz: 'Eventos posteriores à emissão da Ordem de Início são risco da Concessionária.'"
+    comentario: "Pluma de contaminação, geração de biogás e lixiviado em massa de resíduos antiga continuam a ocorrer após a Ordem de Início. O critério de 'fato gerador anterior à OI' e a regra da Matriz de que 'eventos posteriores' são da concessionária não distinguem manifestação tardia de passivo antigo de dano novo causado pela operação, nas áreas que a concessionária passa a operar e monitorar. A fronteira depende de linha de base ambiental na OI, não prevista."
+    dispositivo_legal: "art. 5.º, inciso III, da Lei n.º 11.079/2004; Resolução CONAMA n.º 420/2009"
+    depende_de: "Linha de base ambiental (investigação confirmatória ou inventário de passivos) na data da Ordem de Início."
+    flag_tecnico: true
+    flag_reserva: false
+    reserva_tipo: null
+    nota_reserva: "[VALIDAÇÃO TÉCNICA: diagnóstico de linha de base]"
+    cruzamentos: ["G3 E5-060, E2-091 (inventário de passivos)", "G3 E5-101, E4-075"]
+
+  - id_tmp: G1-089
+    tema: MODELAGEM_ECONOMICA
+    ids_origem: [E4-022, E4-023, E6-036]
+    tipo_achado: IRREGULAR
+    categoria: omissao
+    descricao_breve: "Programas ambientais e compensação do Anexo III sem custo identificável e com desembolso incompatível com os prazos"
+    dispositivo_editalicio: "Anexo III Tabela 11, PA-01 a PA-09 (PDF p. 19-20); P6 Tabelas 7 a 13 (p. 37-45); P2 Tabela 15, grupo 7 (p. 45) e Tabela 16 (p. 46); Contrato cl. 8.8 (p. 19-20); Edital 2.11.2 (p. 12)"
+    transcricao: "Anexo III PA-09: 'Plano aprovado pelo órgão em M6; ≥R$ 500 mil/ano em compensação até M24.' / P2, Tabela 15: '7 PASSIVO AMBIENTAL - 1.050.000 5.000.000 5.250.000'"
+    comentario: "O Anexo III, que prevalece sobre o EVTEA (Edital 2.11.2), exige lixiviado nos passivos operacional em M12 (PA-04), flare em M24 (PA-03), etapas E1-E4 do GAC até M36 com 10 anos de monitoramento (PA-01), monitoramento contínuo e qualidade do ar (PA-02 e PA-05), recuperação de APP e passagens de fauna (PA-07), cinco poços no Jirau em M6 (PA-08) e compensação de pelo menos R$ 500 mil/ano até M24 (PA-09). O P6 não tem linhas específicas para esses itens nem rubrica de compensação; podem estar em rubricas agregadas, o que não é demonstrado. O P2 inicia o desembolso da Lixeira no Ano 2 e o conclui no Ano 4, sem linha de flare ou lixiviado e sem OPEX de monitoramento pós-remediação nem dos 20 anos do Jirau (Contrato 8.8, ii)."
+    dispositivo_legal: "art. 10, § 4.º, da Lei n.º 11.079/2004; art. 5.º da Lei n.º 14.133/2021"
+    depende_de: ""
+    flag_tecnico: true
+    flag_reserva: false
+    reserva_tipo: null
+    nota_reserva: ""
+    cruzamentos: ["G2 E4-021 (flare sem CAPEX/OPEX)", "G2 E6-038 (OPEX sem lixiviado e monitoramento) — possível sobreposição parcial a resolver na deduplicação final"]
+
+# ============================== CONFORME (cobertura) ==============================
+
+  - id_tmp: G1-090
+    tema: OBJETO_ESCOPO
+    ids_origem: [E2-049]
+    tipo_achado: CONFORME
+    categoria: omissao
+    descricao_breve: "Rastreabilidade de RSS (MTR para 100% e vedação de mistura com RSU) coerente entre Contrato e anexos"
+    dispositivo_editalicio: "Contrato cl. 8.8, iii (PDF p. 20) e 10.2.26 (p. 25); Caderno Tabela 16 (p. 19-20) e POP-05 (p. 53); Anexo III PA-06 (p. 19)"
+    transcricao: "Anexo III PA-06: 'MTR emitido para 100% dos RSS; zero ocorrência de RSS misturado com RSU a partir de M1.'"
+    comentario: "Caderno, Anexo III e Contrato convergem na segregação, no MTR e na vedação de mistura desde o primeiro mês; o percentual a que remete o Contrato 10.2.26 é fixado em 100% no Anexo III, coincidente com a 'totalidade' do 8.8, iii. Registro de cobertura."
+    dispositivo_legal: "Resolução CONAMA n.º 358/2005; RDC ANVISA n.º 222/2018"
+    depende_de: ""
+    flag_tecnico: false
+    flag_reserva: false
+    reserva_tipo: null
+    nota_reserva: ""
+
+  - id_tmp: G1-091
+    tema: OBJETO_ESCOPO
+    ids_origem: [E2-047, E6-068, E5-099]
+    tipo_achado: CONFORME
+    categoria: omissao
+    descricao_breve: "Parâmetros operacionais coerentes: campanhas gravimétricas, equipes da Sede e dados do Baixo Madeira no P1"
+    dispositivo_editalicio: "Caderno Tabela 5 (PDF p. 11) e Tabela 40 (p. 55); Anexo III PA-02 e Tabela 20 (p. 19 e 32); P3 VI.3 e Tabela 22 (p. 43-44); P1 Tabelas 1 e 5 (p. 12-13 e 28); P4 p. 6, 12 e 23"
+    transcricao: "Caderno: 'Caracterização gravimétrica | Mínimo 4 campanhas/ano | Concessionária' / P3: '18 caminhões com dispositivo lifter (sendo 2 reservas) [...] 32 motoristas operadores [...] 96 agentes de coleta'"
+    comentario: "Caderno e Anexo III fixam de forma compatível no mínimo quatro campanhas gravimétricas anuais por região. As equipes da Sede no P3 fecham com a frota (16 caminhões em operação, 2 turnos, 1 motorista e 3 agentes), com custo unitário de compactador constante em P2, P3 e P6. A população do Baixo Madeira (4.940 habitantes) coincide em P1, P2 e P4, e as distâncias via Rio Jamari da Tabela 5 do P1 fecham aritmeticamente (a divergência do Caderno está em G1-041). Registro de cobertura."
+    dispositivo_legal: "art. 19, inciso I, da Lei n.º 12.305/2010 (referência); art. 18, § 1.º, inciso IV, da Lei n.º 14.133/2021 c/c art. 186 da mesma Lei"
+    depende_de: ""
+    flag_tecnico: false
+    flag_reserva: false
+    reserva_tipo: null
+    nota_reserva: ""
+
+  - id_tmp: G1-092
+    tema: OBJETO_ESCOPO
+    ids_origem: [E3-139, E7-071, E7-088]
+    tipo_achado: CONFORME
+    categoria: omissao
+    descricao_breve: "Atualidade, utilidades (orientação do TCE-RO) e existência de PMSB/PMGIRS vigente"
+    dispositivo_editalicio: "Contrato cl. 10.2.8 a 10.2.8.3 (PDF p. 23) e 10.10 (p. 30-31); P7 II.7 (p. 19), III.2.2 (p. 27) e III.3 (p. 28)"
+    transcricao: "Contrato 10.2.8: 'Entende-se inserida nos parâmetros de atualidade a utilização de equipamentos, instalações, sistemas e procedimentos modernos' / P7: 'constitui obrigação da Concessionária, às suas expensas, prover, contratar e manter as utilidades de água, energia elétrica e esgotamento sanitário'"
+    comentario: "O Contrato distingue atualização ordinária de novos investimentos passíveis de reequilíbrio. A orientação do TCE-RO sobre utilidades no Processo 00421/2022, descrita pelo P7 (fato documental, p. 27), foi reproduzida no Contrato 10.10. Há plano de saneamento revisado pela LC Municipal n.º 972/2023, requisito de validade do contrato; a divergência de referência à LC n.º 839/2021 está em G1-019. Registro de cobertura."
+    dispositivo_legal: "art. 5.º, inciso V, da Lei n.º 11.079/2004; art. 11, inciso I, da Lei n.º 11.445/2007"
+    depende_de: ""
+    flag_tecnico: false
+    flag_reserva: false
+    reserva_tipo: null
+    nota_reserva: ""
+
+remetidos_a_outro_grupo:
+  - {id: E2-013, tema: RISCOS_GARANTIAS, obs: "Mesmo vício de G3 E3-027/E6-029/E1-048 (sítio da CTR definido nos estudos x área por conta e risco da concessionária). Fatos de localização aproveitados em G1-034."}
+  - {id: E3-033, tema: RISCOS_GARANTIAS, obs: "Teto do encargo GAC da Vila Princesa sem valor/data-base = G3 E6-034/E4-076."}
+  - {id: E6-035, tema: RISCOS_GARANTIAS, obs: "Custo/limite da remediação sem base investigativa = G3 E5-054/E4-076/E2-072."}
+  - {id: E2-048, tema: RISCOS_GARANTIAS, obs: "Sobreposição dependente do operador cessante (ECOPVH) sem instrumento = G3 E5-012 (ver também E5-100)."}
+  - {id: E3-018, tema: RISCOS_GARANTIAS, obs: "Idem E2-048; inclui multa do Contrato 26.3, vii, por descontinuidade na transição."}
+  - {id: E6-014, tema: MODELAGEM_ECONOMICA, obs: "Ausência de gravimetria local (composição PLANARES 2012) = G2 E5-038."}
+
+absorvidos_de_outro_grupo: [E6-064, E2-006, E4-073, E5-030, E5-032, E5-058, E5-057, E2-015, E5-050]
+
+descartados:
+  - {id: E3-040, motivo: "Sem conflito material: o Contrato 10.2.26 remete o percentual de MTR aos Anexos, e o Anexo III (PA-06, p. 19) o fixa em 100% dos RSS, coincidente com a 'totalidade' do Contrato 8.8, iii. Coberto pelo CONFORME G1-090."}

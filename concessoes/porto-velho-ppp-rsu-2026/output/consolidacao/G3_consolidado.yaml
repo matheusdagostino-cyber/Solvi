@@ -1,0 +1,2277 @@
+# Consolidador (C) — Fase 1 — Grupo G3 (RISCOS_GARANTIAS / REGULACAO_FISCALIZACAO) — PPP RSU Porto Velho/RO [USO INTERNO]
+pontos:
+- id_tmp: G3-001
+  tema: RISCOS_GARANTIAS
+  ids_origem:
+  - E3-106
+  - E3-142
+  - E4-017
+  - E7-018
+  tipo_achado: IRREGULAR
+  categoria: ilegalidade
+  descricao_breve: Garantia pública lastreada em vinculação e cessão fiduciária de repasses do FPM
+  dispositivo_editalicio: Contrato cl. 23.2, III, e 23.3 (PDF p. 53); Anexo VI considerandos (PDF p. 3), cl. 4.5 e 5.4 (p. 5-6); P6 VI.10 e Tabela 19 (p. 59-61); Matriz EF-02 (p. 29-30); P7 V.1 a V.3 (p.
+    39-40)
+  transcricao: 'Contrato 23.2, III: ''da utilização de numerário recebido por intermédio do Fundo de Participação dos Municípios (FPM) instrumento de repreenchimento da Conta Garantia''; Anexo VI: ''a cessão
+    fiduciária dos direitos presentes e futuros relativos às receitas que lhe forem cabíveis por força de repasses do Fundo de Participação do Município (FPM), com fundamento na autorização outorgada pelo
+    artigo 159, I, "b", da Constituição Federal'''
+  comentario: 'A garantia da contraprestação (Conta Garantia e, segundo o P6, também a Conta Vinculada) tem como única fonte nomeada os repasses do FPM, receita de impostos repartida pelo art. 159, I, ''b'',
+    da CF. O art. 167, IV, da CF veda a vinculação de receita de impostos a despesa, e o § 4.º só admite vincular as receitas do art. 159 para pagamento de débitos com a União e para prestar-lhe garantia
+    ou contragarantia. O art. 8.º, I, da Lei 11.079 admite a vinculação de receitas ''observado o disposto no inciso IV do art. 167''. O Anexo VI invoca como fundamento o próprio art. 159, I, ''b'' (regra
+    de repartição) e o art. 54, I, da LC municipal 592/2015, e o P7 não enfrenta a restrição constitucional. Há controvérsia sobre o alcance do art. 167, IV, em garantias de PPP (ex.: tese de que o FPM,
+    após o repasse, integra a receita própria do Município), a ser desenvolvida na Fase 2.'
+  dispositivo_legal: art. 167, inciso IV e § 4.º, da CF/1988 (redação dada pela EC n.º 132/2023 — conferir); art. 159, inciso I, alínea 'b', da CF/1988; art. 8.º, inciso I, da Lei n.º 11.079/2004
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G3-002
+  tema: RISCOS_GARANTIAS
+  ids_origem:
+  - E7-019
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: omissao
+  descricao_breve: Lei autorizativa específica da vinculação do FPM não identificada
+  dispositivo_editalicio: Contrato cl. 23.2, III (PDF p. 53); Anexo VI considerandos (PDF p. 3) e cl. 5.4 (p. 6); P7 V.2 e V.3 (PDF p. 40)
+  transcricao: 'Contrato 23.2, III: ''promover a autorização, por intermédio do instrumento previsto no Anexo – Minuta de contrato de nomeação de agente de pagamento e administração de Conta Vinculada,
+    da utilização de numerário recebido por intermédio do Fundo de Participação dos Municípios (FPM)''; P7: ''No plano municipal, a Lei Complementar nº 592/2015 disciplina, em seu Capítulo V (arts. 53 a
+    58), as modalidades de garantia admissíveis'''
+  comentario: O Contrato atribui ao Poder Concedente o dever de 'promover a autorização' do uso do FPM por meio do próprio Anexo VI, isto é, por instrumento contratual futuro. O Anexo VI cita o art. 54,
+    I, da LC municipal 592/2015, e o P7 menciona genericamente os arts. 53 a 58 da mesma lei, sem transcrevê-los nem afirmar que autorizam a vinculação ou a cessão fiduciária do FPM. Nenhum documento identifica
+    lei específica que autorize a vinculação desta receita a este contrato.
+  dispositivo_legal: art. 8.º, inciso I, da Lei n.º 11.079/2004; art. 167, inciso IV, da CF/1988; arts. 53 a 58 da LC Municipal n.º 592/2015 (texto não disponível)
+  depende_de: Texto dos arts. 53 a 58 da LC Municipal n.º 592/2015 e eventual lei específica de vinculação do FPM a esta PPP.
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G3-003
+  tema: RISCOS_GARANTIAS
+  ids_origem:
+  - E1-013
+  - E3-141
+  tipo_achado: IRREGULAR
+  categoria: ilegalidade
+  descricao_breve: Garantia da contraprestação não especificada no Edital; Anexo VI 'exemplificativo' e livremente alterável
+  dispositivo_editalicio: Edital itens 5.3 (PDF p. 15), 6.3, iii (p. 16), 1.1.14 e 1.1.19 (p. 7); Anexo VI nota preliminar (PDF p. 3) e cl. 2.2 (p. 4); Contrato cl. 10.2.31 (PDF p. 26) e 23.3 (p. 53)
+  transcricao: 'Anexo VI: ''é meramente exemplificativa e poderá ser livre e inteiramente alterada pelo PODER CONCEDENTE, pela CONCESSIONÁRIA e/ou pela INSTITUIÇÃO FINANCEIRA''; Edital 6.3, iii: ''demonstração
+    do fluxo de receitas dadas em garantia'''
+  comentario: 'O Edital não identifica a garantia: remete à ''estrutura de garantias públicas prevista no Contrato e seus anexos'' e menciona ''recursos vinculados'' e ''fluxo de receitas dadas em garantia''
+    sem nomear a receita; a cessão fiduciária do FPM só aparece no Contrato (cl. 23) e no Anexo VI. O Anexo VI, por sua vez, declara-se ''meramente exemplificativo'' e ''livre e inteiramente'' alterável,
+    inclusive por uma só das partes (''e/ou''), sob a justificativa de que a instituição financeira não participou da licitação. Isso contradiz a cl. 23.3 do Contrato, que manda o Anexo VI reger a garantia,
+    e a própria cl. 2.2 do Anexo VI, que exige instrumento assinado por todas as partes para alterar o mecanismo. O licitante não dispõe de garantia definida e vinculante para precificar o risco de crédito
+    público.'
+  dispositivo_legal: art. 11, parágrafo único, e art. 8.º da Lei n.º 11.079/2004; art. 5.º da Lei n.º 14.133/2021
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G3-004
+  tema: RISCOS_GARANTIAS
+  ids_origem:
+  - E3-143
+  - E4-018
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: 'Elementos essenciais da garantia em branco: agente, remuneração, data de pagamento e fonte do aporte inicial'
+  dispositivo_editalicio: Anexo VI preâmbulo (PDF p. 3), cl. 1.1.8 (p. 4), 2.1 (p. 4), 4.1 (p. 5), 5.6 (p. 6), 6.1 (p. 7) e 15.1 (p. 9); P6 Tabela 19 (PDF p. 61); Edital 5.2 (p. 15) e 6.3, iii (p. 16)
+  transcricao: 'Anexo VI 1.1.8: ''é o valor mensal de R$ [*]''; Anexo VI 4.1: ''Contrato de Gerenciamento da Conta Vinculada estabelecido com o [*]''; P6 Tabela 19: ''Aporte inicial do Município + recomposição
+    automática após saque | A definir na estruturação contratual do Caderno 6'''
+  comentario: A instituição financeira, sua remuneração mensal (paga pelo Poder Concedente), o VCM, a data de pagamento e os endereços estão em branco ('[*]') no Anexo VI. O P6 deixa a fonte do aporte inicial
+    da Conta Garantia (~R$ 13 mi) 'a definir na estruturação contratual do Caderno 6', sendo o próprio P6 o Caderno 6, e o agente fiduciário 'a definir em processo seletivo'. O Edital condiciona a Ordem
+    de Início à transferência de 2 contraprestações à Conta Garantia (6.3, iii), e a dotação orçamentária (5.2) está em branco. Também não se demonstra como o FPM seria capturado (domicílio bancário do
+    repasse no mesmo agente ou ordem irrevogável de transferência).
+  dispositivo_legal: art. 8.º, art. 10, incisos III e IV, e art. 11, parágrafo único, da Lei n.º 11.079/2004
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G3-005
+  tema: RISCOS_GARANTIAS
+  ids_origem:
+  - E3-144
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: Conta Vinculada (escrow), canal primário de pagamento, sem instrumento, fonte nem regras
+  dispositivo_editalicio: Contrato cl. 1.3.15 (PDF p. 8), 23.1 e 23.2, I (p. 52-53); Anexo VI título e cl. 4.1 (PDF p. 1-5); P6 Tabela 19 (p. 61)
+  transcricao: 'Contrato 23.2: ''I – constituir e manter Conta Vinculada para realização dos pagamentos devidos à Concessionária''; P6 Tabela 19: ''Conta Vinculada (Escrow) | Canal primário de pagamento
+    — segregação patrimonial da CP | 100% do valor mensal da CP'''
+  comentario: O Contrato prevê uma Conta Vinculada para os pagamentos ordinários, e o P6 a descreve como canal primário com 100% da contraprestação mensal, alimentada pelo 'FPM e demais receitas vinculadas'.
+    O Anexo VI, embora intitulado 'administração de Conta Vinculada', regula apenas a Conta Garantia e remete a um 'Contrato de Gerenciamento da Conta Vinculada' com instituição em branco, não juntado.
+    Não há fonte, regra de aporte mensal, gatilhos nem relação definida entre as duas contas nos documentos contratuais. A nomenclatura do agente também varia ('Agente de Pagamento e Garantia', 'agente
+    fiduciário', 'agente de garantia') — ver E1-116/E3-008 (QUESTOES_FORMAIS).
+  dispositivo_legal: art. 8.º e art. 11, parágrafo único, da Lei n.º 11.079/2004
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G3-006
+  tema: RISCOS_GARANTIAS
+  ids_origem:
+  - E7-020
+  - E3-142
+  - E4-017
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: 'Papel do FPM divergente: fonte do pagamento ordinário (P6) × só repreenchimento (Contrato/P7) × só inadimplemento (Anexo VI)'
+  dispositivo_editalicio: P6 p. 6 e Tabela 19 (PDF p. 61); P7 III.3 (PDF p. 28) e V.3 (p. 40); Contrato cl. 6.2, III (p. 16) e 23.2, III (p. 53); Anexo VI cl. 3.2, 4.1 e 4.5 (PDF p. 5)
+  transcricao: 'P6: ''lastreada nos repasses do FPM''; Anexo VI 4.1: ''exclusivamente quando configurado'' [o inadimplemento]; Contrato 23.2, III: ''instrumento de repreenchimento da Conta Garantia'''
+  comentario: O P6 afirma que a Conta Vinculada, canal primário de pagamento, é lastreada nos repasses do FPM (~R$ 410,4 mi/ano). O Contrato e o P7 tratam o FPM apenas como fonte de repreenchimento da Conta
+    Garantia. O Anexo VI diz que o FPM será usado exclusivamente quando configurado o inadimplemento (4.1), mas também prevê seu uso no depósito inicial (3.2) e na recomposição automática (4.5). As 'receitas
+    vinculadas' que a Conta Vinculada canalizaria e o 'fluxo de receitas dadas em garantia' exigido para a Ordem de Início (Contrato 6.2, III) não são identificados.
+  dispositivo_legal: art. 11, parágrafo único, e art. 8.º, inciso I, da Lei n.º 11.079/2004; art. 5.º da Lei n.º 14.133/2021
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G3-007
+  tema: RISCOS_GARANTIAS
+  ids_origem:
+  - E1-047
+  - E3-109
+  - E7-027
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: Base do saldo mínimo da Conta Garantia indefinida (CME inexistente antes da OI, ramp-up, VCM em branco)
+  dispositivo_editalicio: Edital 1.1.14 (PDF p. 7) e 6.3, iii (p. 16); Contrato cl. 1.3.14 (p. 8), 6.2, III (p. 16), 23.2, II, e 23.4.3 (p. 53); Anexo VI cl. 1.1.7 e 1.1.8 (PDF p. 4), 3.2 e 4.5 (p. 5);
+    P6 VI.10 (p. 60); P7 III.3 e III.6.1 (PDF p. 28 e 32)
+  transcricao: 'Contrato 23.2, II: ''o valor de 02 (duas) contraprestações mensais devidas à Concessionária''; Contrato 23.4.3: ''saldo mínimo correspondente a 2 (duas) Contraprestações Mensais Efetivas'';
+    Anexo VI 1.1.7: ''2 (dois) meses de pagamento do VCM'''
+  comentario: 'O saldo mínimo é definido por quatro bases diferentes: ''contraprestações mensais devidas'' (Contrato 23.2, II), ''Contraprestações Mensais Efetivas'' (23.4.3 e Edital 1.1.14), ''Contraprestações
+    Públicas Mensais'', termo não definido (Edital 6.3, iii), e um VCM fixo de ''R$ [*]'' (Anexo VI 1.1.8). O depósito é exigido antes da Ordem de Início, quando ainda não há CME apurada, e nos primeiros
+    anos a CME varia com o ramp-up da Parcela A (60/80/100%), a redução da Parcela B no 1.º ano e os descontos de IQD. O P6 estima ~R$ 13,0 mi, valor que corresponde à contraprestação plena (2 × R$ 6.505.697,97).
+    O valor exigido para a Ordem de Início e o nível de proteção ao longo do contrato ficam indeterminados.'
+  dispositivo_legal: art. 8.º e art. 11, parágrafo único, da Lei n.º 11.079/2004; art. 5.º da Lei n.º 14.133/2021
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G3-008
+  tema: RISCOS_GARANTIAS
+  ids_origem:
+  - E3-083
+  - E7-025
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: TRCF deduzida automaticamente da Conta Garantia, cujo saldo mínimo não pode ter outra finalidade
+  dispositivo_editalicio: Contrato cl. 13.1.1 (PDF p. 34-35) × cl. 23.4.4 e 23.4.5 (p. 53); Anexo VI cl. 5.1, 7.3 e 7.4 (PDF p. 5 e 7); P7 V.4 (p. 40) e V.11 (p. 44)
+  transcricao: 'Contrato 13.1.1: ''O valor da taxa de fiscalização será automaticamente deduzido no montante correspondente à Contraprestação Mensal na Conta Garantia''; Contrato 23.4.5: ''O saldo mínimo
+    contido na Conta Garantia não poderá ser utilizado para qualquer outra finalidade'''
+  comentario: A cl. 13.1.1 manda deduzir mensalmente da Conta Garantia a TRCF (1,5% da receita operacional bruta), tributo devido pela Concessionária à ARDPV. A cl. 23.4.5 veda qualquer outra finalidade
+    para o saldo mínimo, a cl. 23.4.4 veda movimentação direta pelo Poder Concedente, e o Anexo VI só admite instruções conjuntas e não prevê essa movimentação. A dedução reduz o saldo abaixo de 2 CME a
+    cada mês e mistura a garantia pública com o recolhimento de tributo.
+  dispositivo_legal: art. 8.º, inciso I, da Lei n.º 11.079/2004; art. 5.º da Lei n.º 14.133/2021
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G3-009
+  tema: RISCOS_GARANTIAS
+  ids_origem:
+  - E3-108
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: Saldo de 2 contraprestações (~R$ 13 mi) declarado apto a cobrir também indenizações e reequilíbrios
+  dispositivo_editalicio: Contrato cl. 23.4.3 (PDF p. 53) e 23.5, III (p. 54); Anexo VI cl. 1.1.4 (PDF p. 4); P6 VI.10 (p. 60)
+  transcricao: 'Contrato 23.5, III: ''indenizações líquidas, certas e exigíveis devidas à CONCESSIONÁRIA em razão deste Contrato, inclusive as decorrentes de recomposição do equilíbrio'''
+  comentario: A Conta Garantia cobre contraprestações, encargos moratórios e indenizações, inclusive por investimentos não amortizados (Anexo VI 1.1.4) e por reequilíbrio (23.5, III), mas o saldo mínimo
+    é de duas CMEs (~R$ 13 mi) frente a CAPEX de R$ 298,3 mi a R$ 313,8 mi. Não há garantia específica para indenização por extinção antecipada nem regra de prioridade entre as obrigações cobertas. Não
+    localizei fundamento normativo que fixe dimensão mínima da garantia.
+  dispositivo_legal: art. 8.º e art. 5.º, § 2.º, inciso III, da Lei n.º 11.079/2004
+  depende_de: Estimativa do montante potencial de indenizações (extinção antecipada, reequilíbrios) frente ao saldo de ~R$ 13 mi, e regra de prioridade entre as obrigações cobertas.
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G3-010
+  tema: RISCOS_GARANTIAS
+  ids_origem:
+  - E3-110
+  - E7-021
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: Gatilho de execução da garantia descrito de formas incompatíveis (48 h automático × notificação após 5 dias úteis × relatório do VI)
+  dispositivo_editalicio: Contrato cl. 15.8.5 (PDF p. 40), 23.4, 23.4.1 e 23.4.2 (p. 53); Anexo VI cl. 6.3 e 7.1 (PDF p. 7); P6 VI.10 (p. 60); P7 III.6.3, V.4 e V.5 (PDF p. 33, 40-41)
+  transcricao: 'Contrato 23.4: ''no prazo de até 48 (quarenta e oito) horas e independentemente de qualquer solicitação das Partes''; Contrato 23.4.2: ''mediante relatório fundamentado do Verificador Independente'''
+  comentario: O Contrato prevê (i) notificação da Concessionária ao agente após atraso superior a 5 dias úteis (15.8.5), (ii) transferência automática em 48 h sem solicitação (23.4; Anexo VI 6.3 e 7.1)
+    e (iii) utilização dos valores 'mediante relatório fundamentado do Verificador Independente', que calcula o valor devido (23.4.1-23.4.2). O P6 descreve saque pela Concessionária após 'prazo de cura',
+    e o P7 descreve ora a excussão automática, ora a notificação. O termo inicial, o legitimado e o procedimento de acionamento ficam indefinidos.
+  dispositivo_legal: art. 5.º, inciso VI, e art. 8.º da Lei n.º 11.079/2004; art. 5.º da Lei n.º 14.133/2021
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G3-011
+  tema: RISCOS_GARANTIAS
+  ids_origem:
+  - E3-097
+  - E3-146
+  - E3-057
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: Retenções, deduções unilaterais e pagamento parcial previstos no Contrato não são instruções aceitas pelo agente (Anexo VI)
+  dispositivo_editalicio: Anexo VI cl. 5.1 e 5.3, a (PDF p. 5-6), 6.3 e 7.1 (p. 7) × Contrato cl. 5.1.3.1, a (PDF p. 14), 9.6 (p. 21), 10.13.5.3 (p. 32), 12.5 (p. 34), 13.1.1 (p. 34-35), 13.5.7 (p. 36),
+    15.7.5 e 15.7.7 (p. 39), 23.4.1 (p. 53) e 27.5, ii (p. 63)
+  transcricao: 'Anexo VI 5.1: ''A INSTITUIÇÃO FINANCEIRA somente estará obrigada a cumprir qualquer instrução''; Contrato 15.7.7: ''o Agente de Pagamento e Garantia deverá realizar o pagamento da parcela
+    incontroversa apenas'''
+  comentario: O Contrato prevê retenções e deduções unilaterais do Poder Concedente (5.1.3.1, 9.6, 10.13.5.3, 12.5, 13.5.7, 27.5), dedução automática da TRCF (13.1.1), pagamento só da parcela incontroversa
+    durante contestação de IQD (15.7.7) e cálculo do valor devido pelo VI (23.4.1). O Anexo VI só obriga o agente a cumprir instruções conjuntas, judiciais ou do mediador, não prevê pagamento parcial e
+    determina pagamento ou execução da garantia em 48 h. Ou as retenções são inoperantes, ou o Poder Concedente as fará deixando de pagar, o que aciona a garantia. A cl. 5.3, a, do Anexo VI remete à cl.
+    5.2 em vez da 5.1, e a cl. 12.5 do Contrato importa regra de dedicação exclusiva de mão de obra.
+  dispositivo_legal: art. 5.º, incisos VI e X, e art. 8.º da Lei n.º 11.079/2004; art. 5.º da Lei n.º 14.133/2021
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G3-012
+  tema: RISCOS_GARANTIAS
+  ids_origem:
+  - E3-111
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: Recomposição do saldo sem fonte alternativa vinculada se o FPM falhar
+  dispositivo_editalicio: Contrato cl. 23.5.1 (PDF p. 54) e 15.8.7 (p. 40); Anexo VI cl. 7.7.1 (PDF p. 7)
+  transcricao: 'Contrato 23.5.1: ''Na eventualidade de ausência ou suspensão do repasse do FPM, a obrigação prevista nesta cláusula deverá ser providenciada pelo Poder Concedente'''
+  comentario: Se o repasse do FPM faltar ou for suspenso, a recomposição do saldo mínimo passa a depender de ato do Poder Concedente, sem fonte substituta vinculada, prazo próprio ou consequência específica
+    além da suspensão de investimentos (15.8.7) e das hipóteses de rescisão. A garantia deixa de ser autoexecutável no cenário de restrição fiscal, que o P6 descreve com CAPAG C.
+  dispositivo_legal: art. 8.º da Lei n.º 11.079/2004
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G3-013
+  tema: RISCOS_GARANTIAS
+  ids_origem:
+  - E3-145
+  - E3-113
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: Titularidade dos recursos da Conta Garantia contraditória e impenhorabilidade afirmada só por contrato
+  dispositivo_editalicio: Anexo VI cl. 3.1, 4.3 e 5.3, d (PDF p. 5-6) × Contrato cl. 1.3.14 (PDF p. 8) e 23.4.6 (p. 53); Anexo VI cl. 7.5 (p. 7)
+  transcricao: 'Anexo VI 3.1: ''conta corrente vinculada e de movimentação restrita em nome do PODER CONCEDENTE''; Anexo VI 4.3: ''patrimônio de afetação''; Anexo VI 5.3, d: ''detendo apenas a posse'';
+    Contrato 23.4.6: ''não podendo, portanto, ser objeto de penhora, arresto, sequestro, busca e apreensão'''
+  comentario: A conta é aberta em nome do Município (Contrato 1.3.14; Anexo VI 3.1), mas os recursos seriam de propriedade da Concessionária até o valor inadimplido e 'patrimônio de afetação' (4.3), enquanto
+    a instituição financeira deteria 'apenas a posse' (5.3, d). O Contrato declara o saldo impenhorável e incomunicável com o patrimônio municipal (23.4.6), mas cláusula contratual não vincula terceiros
+    nem o Judiciário, e não se indica lei que institua a afetação. A indefinição repercute na oponibilidade a credores do Município (inclusive sequestro em precatórios) e na contabilização orçamentária.
+  dispositivo_legal: art. 8.º, incisos I e VI, da Lei n.º 11.079/2004; arts. 100 e 167, inciso IV, da CF/1988
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G3-014
+  tema: RISCOS_GARANTIAS
+  ids_origem:
+  - E7-022
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: Pagamento automático a partir de conta municipal sem análise do rito de empenho, liquidação e pagamento
+  dispositivo_editalicio: P7 V.4 (PDF p. 40-41); Contrato cl. 23.4 a 23.4.6 (PDF p. 53); Anexo VI cl. 6.3 e 7.1 (p. 7)
+  transcricao: 'P7: ''A Conta Garantia é de titularidade do Município de Porto Velho e mantida em favor da Concessionária'''
+  comentario: Sendo a Conta Garantia de titularidade municipal, as transferências automáticas pelo agente configuram execução de despesa pública. O P7 não examina a compatibilidade desse fluxo com o prévio
+    empenho e a liquidação, nem com o regime de execução contra a Fazenda Pública. A exequibilidade da garantia depende do desenho orçamentário do depósito inicial e das recomposições.
+  dispositivo_legal: arts. 60, 62 e 63 da Lei n.º 4.320/1964; art. 100 da CF/1988
+  depende_de: Desenho orçamentário do depósito inicial e das recomposições (se empenhados como despesa e quando) — não informado.
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G3-015
+  tema: RISCOS_GARANTIAS
+  ids_origem:
+  - E3-147
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: Renúncia do agente e procedimento de substituição não regulados
+  dispositivo_editalicio: Anexo VI cl. 5 (título), 5.5 (PDF p. 5-6) e 11.1 (p. 8)
+  transcricao: 'Anexo VI: ''RENÚNCIA E DESTITUIÇÃO'''
+  comentario: O título da cl. 5 anuncia 'renúncia', mas não há regra de renúncia, aviso prévio, transferência de saldo ou nomeação de substituto; a destituição depende de decisão conjunta das partes (5.5).
+    Em contrato de 30 anos, a continuidade da garantia depende da sucessão do agente.
+  dispositivo_legal: art. 8.º da Lei n.º 11.079/2004
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G3-016
+  tema: RISCOS_GARANTIAS
+  ids_origem:
+  - E7-023
+  - E3-107
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: omissao
+  descricao_breve: Alternativas de garantia (fundo garantidor, seguro, taxa de RSU) não avaliadas; garantia sem fonte setorial
+  dispositivo_editalicio: P7 V.1 a V.4 (PDF p. 39-41); P0 Caderno 6, Etapa 4.2 (PDF p. 16) e Data Request jurídico (p. 25); Contrato cl. 23.1 a 23.5 (PDF p. 52-54); Edital 5.3 (p. 15)
+  transcricao: 'P0: ''Garantias Públicas: avaliação e definição da estrutura de garantias a serem oferecidas pelo Município para o projeto (p.ex., Fundo Garantidor de PPPs - FGP, contragarantias, vinculação
+    de receitas, etc.)'''
+  comentario: O P0 previa avaliar fundo garantidor, contragarantias e vinculação de receitas e pediu os atos de criação de fundos de PPP ou de saneamento. O P7 não informa se existe fundo garantidor municipal
+    (ou previsto na LC 592/2015), por que foi preterido em favor do FPM, nem analisa seguro-garantia ou garantia bancária. Também não examina a taxa de RSU (LC 878/2021, citada no P7) como fonte vinculável,
+    alternativa sem a restrição do art. 167, IV, da CF (sobre a sustentabilidade por cobrança, ver E5-017 e E7-024, grupo MODELAGEM/REMUNERACAO).
+  dispositivo_legal: art. 8.º, incisos I a V, da Lei n.º 11.079/2004; art. 29, inciso II, e art. 35, § 2.º, da Lei n.º 11.445/2007
+  depende_de: Existência de fundo garantidor municipal ou de fundo previsto na LC 592/2015; situação de instituição, arrecadação e vinculabilidade da taxa de RSU (LC 878/2021).
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G3-017
+  tema: RISCOS_GARANTIAS
+  ids_origem:
+  - E3-115
+  tipo_achado: IRREGULAR
+  categoria: risco_economico
+  descricao_breve: Suspensão imediata de investimentos por redução do fluxo da garantia, sem atraso de pagamento
+  dispositivo_editalicio: Contrato cl. 15.8.6, 15.8.7 (PDF p. 40) e 32.5.1 (p. 69)
+  transcricao: 'Contrato 15.8.7: ''interrompido ou reduzido para volume insuficiente à quitação de uma Contraprestação Mensal Efetiva'' ... ''poderá suspender imediatamente os investimentos em curso'''
+  comentario: A cl. 15.8.6 confere a faculdade de suspender investimentos e atividades não essenciais após atraso superior a 90 dias. A cl. 15.8.7 permite a suspensão imediata quando o fluxo de receitas
+    da garantia for interrompido ou reduzido a volume inferior a uma CME, ainda que não haja atraso no pagamento, e a cl. 32.5.1 permite suspender investimentos 60 dias após notificação de descumprimento
+    do Poder Concedente; nas hipóteses de suspensão ficam afastados os descontos de IQD. A regra legal de suspensão pelo contratado pressupõe atraso de pagamento superior a dois meses.
+  dispositivo_legal: art. 137, § 2.º, inciso IV, e § 3.º, da Lei n.º 14.133/2021 (aplicação subsidiária, art. 186); art. 5.º, inciso VI, da Lei n.º 11.079/2004
+  flag_tecnico: false
+  flag_reserva: true
+  reserva_tipo: RESERVA
+  nota_reserva: 'Cláusula pró-concessionária: autoriza suspender investimentos sem inadimplemento efetivo e afasta descontos de desempenho. Impugná-la tende a eliminá-la.'
+- id_tmp: G3-018
+  tema: RISCOS_GARANTIAS
+  ids_origem:
+  - E1-045
+  - E3-013
+  - E7-051
+  - E3-012
+  tipo_achado: IRREGULAR
+  categoria: risco_economico
+  descricao_breve: Prazo de 30 anos corre da assinatura, mas a eficácia depende de condições a cargo do PC sem prazo
+  dispositivo_editalicio: Edital itens 6.1 (PDF p. 15), 6.3 (p. 16) e def. 1.1.36 (p. 9); Contrato cl. 6.1, 6.2, I a VI, e 6.4 (PDF p. 16), 15.6.1 (p. 38) e 41.1 (p. 78); P7 III.3 (PDF p. 28-29); Matriz
+    RJ-05 (p. 28)
+  transcricao: 'Contrato 6.1: ''O prazo da Concessão será de 30 (trinta) anos, contados a partir da assinatura do contrato''; Edital 6.3: ''A emissão da Ordem de Início é condição de eficácia do Contrato'';
+    Contrato 6.4: ''de comum acordo, rescindir'''
+  comentario: O prazo flui desde a assinatura, mas obrigações e remuneração só começam após a Ordem de Início, que depende de condições quase todas a cargo do Poder Concedente (agente de garantia, depósito
+    de 2 contraprestações na Conta Garantia, designação de áreas, LPs, manuais). Não há prazo máximo para essas condições, suspensão da contagem do prazo, consequência pelo atraso imputável ao Poder Concedente
+    nem critério de ressarcimento dos custos pré-OI da SPE (garantia de execução, seguros, ressarcimento de R$ 3,14 mi dos estudos). A única saída prevista é o distrato consensual 'sem culpa' (6.4). O P7
+    afirma que o desenho evita a fluência do prazo antes das condições de início, o que o texto da cl. 6.1 não reflete; o P6 pressupõe 357 meses de pagamento dentro dos 30 anos. A Matriz (RJ-05) cobre só
+    parcialmente o atraso na cessão de áreas.
+  dispositivo_legal: art. 5.º, incisos I e III, e art. 8.º da Lei n.º 11.079/2004; art. 23, inciso V, da Lei n.º 8.987/1995
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G3-019
+  tema: RISCOS_GARANTIAS
+  ids_origem:
+  - E1-048
+  - E3-027
+  - E4-071
+  - E2-013
+  - E5-047
+  - E5-048
+  - E6-029
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: 'Área da CTR: estudos a localizam em área aparentemente municipal; Edital/Contrato põem a obtenção por conta e risco da concessionária; Matriz atribui ao PC'
+  dispositivo_editalicio: Edital 6.3, iv, e 6.3.1 (PDF p. 16); Contrato cl. 5.1.1 e 5.1.1.1 (PDF p. 14); Matriz TO-05 (p. 7) e RJ-05 (p. 28-29); Caderno XI.4 (PDF p. 61-62); P2 V.5 (p. 36); Anexo III Tabela
+    3 (p. 9); P1 p. 62 e 84
+  transcricao: 'Edital 6.3.1: ''constitui responsabilidade exclusiva da CONCESSIONÁRIA'' ... ''e não condiciona a emissão da Ordem de Início nem enseja recomposição do equilíbrio econômico-financeiro'';
+    Matriz TO-05 (leitura da tabela renderizada): ''Liberação de área, licenciamento e regularização institucional do CTR-PV são do Poder Concedente''; P2: ''será implantada em frente ao atual Central de
+    Triagem de Recicláveis na Vila Princesa'''
+  comentario: O Edital (6.3.1) e o Contrato (5.1.1.1) atribuem à concessionária, sem reequilíbrio, a obtenção das áreas que não sejam bens municipais ou 'expressamente previstos para desapropriação nos
+    Anexos', mas nenhum anexo lista bens municipais a ceder (salvo incinerador e transbordo do Baixo Madeira) nem áreas para desapropriação. O P2 localiza a CTR com coordenadas em frente à Central de Triagem
+    da Vila Princesa, o Anexo III a chama 'CTR-PV — Municipal — em implantação' e o P6 não orça terreno. A Matriz TO-05 atribui ao Poder Concedente a liberação de área e o licenciamento da CTR, e a RJ-05
+    limita o reequilíbrio às áreas de titularidade do Poder Concedente na data do Edital. Os estudos não informam titularidade, matrícula, dimensão nem a natureza dos 'entraves institucionais e jurídicos'
+    que impediram a implantação da CTR municipal (P1 p. 84). Sobre a falta de custo de terreno no P6, ver E4-025 (MODELAGEM_ECONOMICA); sobre a LP, E1-009/E3-031 (LICENCIAMENTO_AMBIENTAL).
+  dispositivo_legal: art. 18, inciso XII, e art. 29, inciso VIII, da Lei n.º 8.987/1995 c/c art. 11 da Lei n.º 11.079/2004; art. 5.º, inciso III, e art. 10, inciso VII, da Lei n.º 11.079/2004; art. 25,
+    § 5.º, inciso II, da Lei n.º 14.133/2021; art. 5.º da Lei n.º 14.133/2021
+  flag_tecnico: false
+  flag_reserva: true
+  reserva_tipo: DECISAO_COMERCIAL
+  nota_reserva: A alocação integral do risco fundiário à concessionária favorece licitante que já detenha área ou aterro licenciado em Porto Velho (o único identificado nos estudos é o Ecoparque). Por outro
+    lado, a alocação de atraso na entrega de bens ao PC com fluência de pagamentos (Contrato 5.1.2) é assimetria favorável à concessionária. Levantar ou não depende da posição fundiária do grupo.
+- id_tmp: G3-020
+  tema: RISCOS_GARANTIAS
+  ids_origem:
+  - E3-044
+  - E6-029
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: 'Aterro na Sede (cl. 10.13): risco integral da concessionária × Matriz TO-20/TO-05 (área alternativa e licença como responsabilidade pública)'
+  dispositivo_editalicio: Contrato cl. 10.13, 10.13.1 e 10.13.1.1 (PDF p. 31), 8.12 (p. 20) e 26.30 (p. 62) × Matriz TO-05 (p. 7) e TO-20 (p. 17); P2 V.5 (p. 36) e III.2.3.1 (p. 13); P3 V (p. 38-39); P1
+    p. 84-85
+  transcricao: 'Contrato 10.13.1.1: ''A escolha da forma de disponibilização do aterro sanitário constitui risco integralmente alocado à Concessionária'' ... ''indisponibilidade de área, recusa de terceiros,
+    indeferimento ou demora no licenciamento'''
+  comentario: A cl. 10.13 obriga a concessionária a 'prover e disponibilizar' na Sede aterro licenciado, por qualquer forma (construção, compra de aterro existente, aquisição de participação societária),
+    por sua conta e risco, sem reequilíbrio por indisponibilidade de área ou demora no licenciamento, e excepciona a regra geral de mora do licenciador (8.12, 26.30). A Matriz TO-20 classifica como 'Compartilhado'
+    o risco de vida útil do Ecoparque, atribui ao poder público a definição de área alternativa e a licença e prevê reequilíbrio parcial; a TO-05 atribui ao Poder Concedente a área e o licenciamento da
+    CTR. Os estudos (P2, P3) tratam o sítio da CTR como definido e municipal, e o P1 registra que a CTR municipal não foi implantada por entraves institucionais e jurídicos e aponta APP de igarapé adjacente
+    (Anexo III p. 17). Sobre o efeito competitivo da obrigação, ver E3-043 (OBJETO_ESCOPO); sobre a exigência de propriedade plena, E3-045/E7-047.
+  dispositivo_legal: art. 5.º, inciso III, e art. 10, inciso VII, da Lei n.º 11.079/2004; art. 92, inciso IX, e art. 5.º da Lei n.º 14.133/2021
+  flag_tecnico: true
+  flag_reserva: true
+  reserva_tipo: DECISAO_COMERCIAL
+  nota_reserva: A opção de 'aquisição de aterro existente e licenciado' na Sede favorece quem detenha ou possa adquirir aterro licenciado local. O único identificado nos estudos é o Ecoparque (LAO em nome
+    de CTR PORTO VELHO S/A; LAI da EcoRondônia Ambiental S/A, associada pelo P1 p. 88 a outro grupo). Para licitante sem aterro local o ponto é de impugnação; a decisão depende da posição comercial do grupo.
+- id_tmp: G3-021
+  tema: RISCOS_GARANTIAS
+  ids_origem:
+  - E4-078
+  - E4-079
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: Riscos rotulados 'Compartilhado' sem regra de partilha ou com consequências integralmente na concessionária
+  dispositivo_editalicio: Matriz TO-20 (p. 17), SA-08 (p. 23), RJ-01 (p. 26) e SA-13 (p. 25-26)
+  transcricao: 'Matriz TO-20: ''pode ensejar REEQUILÍBRIO parcial dos custos de nova licença em outro lugar ou ampliação não inicialmente prevista'''
+  comentario: A TO-20 (nova área de disposição antes de outubro/2028) é 'Compartilhado' com reequilíbrio 'parcial', sem definir a parcela de cada parte; o P6 prevê uso do Ecoparque até o Ano 4, além do
+    vencimento da LAO. A SA-08 (descarte irregular e vetores, dependente de fiscalização pública), a RJ-01 (conformidade com PNRS e Marco do Saneamento) e a SA-13 (monitoramento pós-encerramento do Jirau
+    por 20 anos) também são 'Compartilhado', mas as consequências preveem apenas sanção ou custo da concessionária, sem gatilho a seu favor. O P6 não tem custo de monitoramento do Jirau por 20 anos.
+  dispositivo_legal: art. 5.º, inciso III, da Lei n.º 11.079/2004
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G3-022
+  tema: RISCOS_GARANTIAS
+  ids_origem:
+  - E7-048
+  tipo_achado: IRREGULAR
+  categoria: risco_economico
+  descricao_breve: Aterro deve chegar à reversão com 30 anos de vida útil remanescente, sem indenização
+  dispositivo_editalicio: Contrato cl. 10.13.4, 10.13.5 a 10.13.5.4 (PDF p. 32); P7 XI.3.3 (PDF p. 69), IV.4 (p. 37) e IV.6 (p. 38); Matriz TO-02 e TO-20
+  transcricao: 'Contrato 10.13.5: ''capacidade e vida útil remanescentes não inferiores a 30 (trinta) anos, contados da referida data''; Contrato 10.13.4: ''não sendo devida qualquer indenização por ocasião
+    da reversão'''
+  comentario: A concessionária deve entregar o aterro com capacidade remanescente para 30 anos após a reversão, aferida pela ARDPV, sob pena de executar ampliações às suas expensas (10.13.5.3), e os investimentos
+    devem ser integralmente amortizados no prazo, sem indenização (10.13.4). Isso implica precificar na contraprestação de 30 anos capacidade para cerca de 60 anos de rejeitos. O P7 descreve a obrigação
+    sem examinar sua coerência com a alocação do Jirau ao Poder Concedente (TO-02) e da vida útil do Ecoparque como risco compartilhado (TO-20). Sobre a ausência de dimensionamento e custo no P6, ver E3-046/E4-026/E6-028
+    (MODELAGEM_ECONOMICA).
+  dispositivo_legal: art. 5.º, incisos I e III, da Lei n.º 11.079/2004; art. 36 da Lei n.º 8.987/1995; art. 10-A, incisos III e IV, da Lei n.º 11.445/2007
+  flag_tecnico: true
+  flag_reserva: true
+  reserva_tipo: DECISAO_COMERCIAL
+  nota_reserva: Titular de aterro com grande capacidade remanescente em Porto Velho tem vantagem no atendimento da exigência; a decisão de impugnar depende da posição do grupo.
+- id_tmp: G3-023
+  tema: RISCOS_GARANTIAS
+  ids_origem:
+  - E2-015
+  - E5-010
+  - E5-050
+  - E5-052
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: 'Destinação transitória no Ecoparque: contrato sem preço e prazo, licenças vencendo e capacidade não informada'
+  dispositivo_editalicio: Contrato considerando v (PDF p. 5-6); Anexo III Tabela 3 (p. 10); P1 VII.2.4 (p. 84-87); P4 Tab. 1 (p. 10); P6 Tab. 9 (p. 42-43)
+  transcricao: 'P1: ''O contrato nº 042/PGM/2023 estabelece que a prestação dos serviços ocorre sob o regime de empreitada por preço unitário''; P1: ''válida até 08/10/2026'' [LAI] ... ''válida até 09/10/2028''
+    [LAO]'
+  comentario: Até o aterro da CTR operar, os rejeitos seguem ao aterro privado Ecoparque, nas condições do Contrato 042/PGM/2023 (considerando v do Contrato), e o P6 prevê esse uso nos Anos 1 a 4. Os estudos
+    não informam preço unitário, data, prazo nem regime de prorrogação do Contrato 042 (regido pela Lei 8.666), nem quem será o contratante da destinação na transição. A LAO do Ecoparque vence em 09/10/2028
+    (Ano 2) e a LAI das obras de ampliação em 08/10/2026; capacidade remanescente e vida útil não são informadas. O Caderno não disciplina alternativa licenciada. O custo orçado no P6 (~R$ 12/t) é tratado
+    em E4-030/E6-054 (MODELAGEM_ECONOMICA).
+  dispositivo_legal: art. 5.º, inciso III, da Lei n.º 11.079/2004; art. 57, inciso II e § 4.º, da Lei n.º 8.666/1993 c/c art. 190 da Lei n.º 14.133/2021; art. 18 da Resolução CONAMA n.º 237/1997
+  depende_de: Data, prazo, preço e vigência do Contrato 042/PGM/2023; capacidade e vida útil remanescentes do Ecoparque; situação dos pedidos de renovação da LAO/LAI; definição de quem contrata a destinação
+    transitória.
+  flag_tecnico: true
+  flag_reserva: true
+  reserva_tipo: DECISAO_COMERCIAL
+  nota_reserva: A dependência do único aterro licenciado local, de titularidade de terceiro potencialmente concorrente, afeta de modo distinto os licitantes conforme sua relação com o Ecoparque; levantar
+    o ponto depende da posição comercial do grupo.
+- id_tmp: G3-024
+  tema: RISCOS_GARANTIAS
+  ids_origem:
+  - E5-067
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: Destino transitório de RSS dependente de incinerador particular não identificado
+  dispositivo_editalicio: Contrato cl. 10.3.10.1 (PDF p. 29); P1 p. 88; P4 Tab. 1 (p. 10) e Tab. 4 (p. 14); Anexo III (p. 13)
+  transcricao: 'P4: ''RSS destinado a operador particular — custo elevado e sem controle municipal. Risco sanitário caso o contrato particular seja descontinuado.'''
+  comentario: Até a unidade de tratamento de RSS entrar em operação, a concessionária deve assegurar a destinação por terceiros (10.3.10.1), mas os estudos não identificam as unidades licenciadas disponíveis
+    na região, sua capacidade ou preço. A LAI do Ecoparque inclui autoclave, o que indica dependência do operador incumbente.
+  dispositivo_legal: art. 5.º, inciso III, da Lei n.º 11.079/2004; Resolução CONAMA n.º 358/2005
+  depende_de: Unidades licenciadas de tratamento de RSS disponíveis na região, capacidade e preço.
+  flag_tecnico: false
+  flag_reserva: true
+  reserva_tipo: DECISAO_COMERCIAL
+  nota_reserva: Licitante com capacidade própria de tratamento de RSS na região tem vantagem; levantar o ponto depende da posição do grupo.
+- id_tmp: G3-025
+  tema: RISCOS_GARANTIAS
+  ids_origem:
+  - E5-012
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: Transição presume vigência do contrato emergencial da ECOPVH, sem data, prazo e valor informados
+  dispositivo_editalicio: P1 p. 64 e 88 (Contrato 028/PGM/2025); P4 Tab. 7 (p. 21) e Tab. 13 (p. 34); Contrato cl. 7.4 (PDF p. 17); P7 p. 11
+  transcricao: 'P1: ''relativas ao modus operandi atual, da empresa ECOPVH com contrato emergencial ativo'''
+  comentario: O diagnóstico não informa data, prazo ou valor do Contrato 028/PGM/2025 (emergencial). O P4 e o Contrato (7.4) preveem sobreposição de 30 dias com o 'operador cessante (ECOPVH)', o que pressupõe
+    vínculo vigente na Ordem de Início (2027), embora contratações emergenciais tenham prazo máximo legal e vedação de prorrogação. Sobre a extrapolação do prazo fixado pelo TCE-RO, ver E5-013/E7-072 (QUESTOES_FORMAIS).
+  dispositivo_legal: art. 75, inciso VIII, da Lei n.º 14.133/2021; art. 5.º, inciso III, da Lei n.º 11.079/2004
+  depende_de: Data de assinatura e prazo do Contrato 028/PGM/2025 e eventuais novas contratações até a Ordem de Início.
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G3-026
+  tema: RISCOS_GARANTIAS
+  ids_origem:
+  - E6-034
+  - E4-076
+  - E5-054
+  - E3-033
+  - E7-032
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: Teto do encargo GAC da Vila Princesa indefinido (R$ 4,2 / 10,5 / 11,3 mi; Anos 1-3 × 2-4; sem data-base)
+  dispositivo_editalicio: Contrato cl. 8.6.1.2 a 8.6.1.2.4 (PDF p. 18-19); P6 Tabela 7, item 7.1.1 e 7.2.1 (PDF p. 40) e texto (p. 35); P2 Tabela 15, itens 7.1.1 e 7.2.1 (PDF p. 45); Matriz SA-01 (p. 17-18);
+    P7 IV.4 (p. 37)
+  transcricao: 'Contrato 8.6.1.2: ''é limitado ao investimento previsto para o encerramento da antiga Lixeira de Vila Princesa na modelagem econômico-financeira integrante dos Anexos, inclusive o EVTEA'';
+    P6 p. 35: ''no encerramento do Lixão da Vila Princesa (R$ 4,2 milhões)'''
+  comentario: 'O teto não tem valor expresso no Contrato e remete ao ''investimento previsto para o encerramento'' na modelagem. Na modelagem há: (i) linha 7.1.1 ''Lixão Vila Princesa — Eliminação do Passivo''
+    com R$ 1,05 + 4,2 + 5,25 mi = R$ 10,5 mi, nos Anos 1-3 (P6 Tabela 7) ou 2-4 (P2 Tabela 15); (ii) linha 7.2.1 ''Centro de Triagem'' de R$ 0,8 mi, que leva o grupo ''Passivo Ambiental'' a R$ 11,3 mi;
+    (iii) o texto do P6 (p. 35), que cita R$ 4,2 mi no Ano 2 para o ''encerramento''. A leitura de R$ 5,25 mi feita por um dos extratores (E3-033) corresponde à última parcela anual, não a um total. A Lixeira
+    já foi encerrada pela Portaria 109/SEMUSB/2023, e a cláusula fala em ''encerramento'' enquanto o modelo fala em ''eliminação do passivo'' e o teto em ''medidas de intervenção''. Não há data-base nem
+    regra de atualização, e o P7 não quantifica o limite.'
+  dispositivo_legal: art. 5.º, inciso III, e art. 10, § 4.º, da Lei n.º 11.079/2004; art. 92, inciso IX, da Lei n.º 14.133/2021
+  flag_tecnico: true
+  flag_reserva: true
+  reserva_tipo: RESERVA
+  nota_reserva: O teto com excedente alocado ao PC é cláusula pró-concessionária, e a ambiguidade do valor-base permite sustentar a leitura mais baixa (R$ 4,2 mi), ampliando o excedente a cargo do PC. Impugnar
+    a indefinição pode levar à fixação de valor e eliminar essa margem; por outro lado, a leitura mais alta (R$ 11,3 mi) aumenta a exposição da concessionária. Decisão do advogado.
+- id_tmp: G3-027
+  tema: RISCOS_GARANTIAS
+  ids_origem:
+  - E2-072
+  - E5-054
+  tipo_achado: IRREGULAR
+  categoria: risco_economico
+  descricao_breve: 'Vila Princesa: só a Avaliação Preliminar foi feita; escopo da remediação desconhecido e teto cobre só a intervenção'
+  dispositivo_editalicio: Anexo III item VII.2, § 3.º (PDF p. 17) e Tabela 10 (p. 18); Contrato cl. 8.6.1.2 a 8.6.1.2.4 (PDF p. 18-19) e 8.8, i (p. 19); P1 VII.2.7 (p. 93-95); P4 VI.2 (p. 27); Caderno Tabela
+    24 (p. 31)
+  transcricao: 'Anexo III VII.2: ''As etapas pendentes deverão constar como responsabilidade do novo concessionário, com cronograma, marcos verificáveis e penalidades em caso de atraso.''; P1: ''Diante
+    da situação atual é necessário um novo levantamento no local para ratificação dessas ações, e identificação de novos passivos.'''
+  comentario: Do rito GAC só a Avaliação Preliminar (E1, EcoRondônia/Neomax, 2024) foi concluída; investigação confirmatória, investigação detalhada e avaliação de risco ficam com a concessionária após
+    a Ordem de Início (8.8, i), e o escopo da intervenção só será conhecido após a avaliação de risco (M12-M18). O teto (8.6.1.2) limita apenas as 'medidas de intervenção'; investigação, avaliação de risco,
+    monitoramento de 10 anos, cercamento, comunicação e recuperação de APP ficam sem limite, e não está claro se a base do teto inclui as etapas de investigação. O excedente da intervenção, risco do Poder
+    Concedente, não é quantificado como passivo fiscal.
+  dispositivo_legal: art. 5.º, inciso III, e art. 10, inciso I, alínea 'b', da Lei n.º 11.079/2004; art. 14, § 1.º, da Lei n.º 6.938/1981; art. 29 da Lei n.º 12.305/2010; Resolução CONAMA n.º 420/2009
+  flag_tecnico: true
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G3-028
+  tema: RISCOS_GARANTIAS
+  ids_origem:
+  - E4-075
+  - E7-032
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: 'Remediação do passivo histórico: risco da concessionária até o teto (SA-01/SA-02) × responsabilidade pública com reequilíbrio integral (SA-05)'
+  dispositivo_editalicio: Matriz SA-01 e SA-02 (p. 17-19) × SA-05 (p. 20-21); Contrato cl. 8.6.1 a 8.6.1.2.4 (PDF p. 18-19) e 22.8 (p. 52); P7 IV.4 (PDF p. 37) × V.7 (p. 43)
+  transcricao: 'Matriz SA-05 (leitura da tabela renderizada): ''É de responsabilidade pública a remediação de passivos históricos anteriores à emissão da Ordem de Início'' ... ''Reequilíbrio integral dos
+    custos de remediação''; P7 V.7: ''cuja responsabilidade financeira é exclusiva do Poder Concedente'''
+  comentario: A SA-01 e a SA-02 atribuem à concessionária a execução do rito GAC e da intervenção sobre a contaminação preexistente, remuneradas na contraprestação até o limite do EVTEA, com excedente ao
+    Poder Concedente; o Contrato (8.6.1) segue esse modelo. A SA-05 afirma que a remediação de passivos anteriores à Ordem de Início é de responsabilidade pública e que sua eventual cessão enseja reequilíbrio
+    integral. O P7 descreve o modelo do teto em IV.4 e, em V.7, afirma que a responsabilidade financeira pelos passivos históricos é exclusiva do Poder Concedente, sem a ressalva dos incisos (i) e (ii)
+    da cl. 8.8.
+  dispositivo_legal: art. 5.º, inciso III, da Lei n.º 11.079/2004; art. 5.º da Lei n.º 14.133/2021; art. 10-A, inciso IV, da Lei n.º 11.445/2007
+  flag_tecnico: true
+  flag_reserva: true
+  reserva_tipo: RESERVA
+  nota_reserva: A SA-05 e o P7 V.7 sustentam leitura de reequilíbrio integral dos custos de remediação, favorável à concessionária; impugnar a contradição tende a fixar o modelo do teto (SA-01) e eliminar
+    essa leitura.
+- id_tmp: G3-029
+  tema: RISCOS_GARANTIAS
+  ids_origem:
+  - E2-075
+  - E5-059
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: 'Execução da intervenção: compartilhada com SEINFRA/SEMUSB (Anexo III, P4) × integral da concessionária, inclusive do excedente (Contrato)'
+  dispositivo_editalicio: Anexo III Tabela 10, etapa E5 (PDF p. 18); P4 Tabela 10, etapa E6 (p. 28) × Contrato cl. 8.6.1.2.2 e 8.6.1.2.4 (PDF p. 18-19)
+  transcricao: 'Contrato 8.6.1.2.4: ''A execução das medidas de intervenção compete integralmente à Concessionária, independentemente da repartição de custos deste item.''; Anexo III Tabela 10 (célula de
+    tabela): responsável ''SEINFRA + Concessionária'''
+  comentario: O Anexo III atribui a etapa de medidas de intervenção a 'SEINFRA + Concessionária' (E5, M18-M48) e o P4 a 'SEMUSB + Concessionária' (E6, M1-M36), sem dividir tarefas. O Contrato atribui a
+    execução integral à concessionária, inclusive da parte que exceder o teto, cujo custo só é recomposto depois, via Cláusula 20 ou 'aporte público', após apuração com base em relatórios aprovados pelo
+    órgão ambiental e pelo VI (8.6.1.2.2). A concessionária executa e financia o excedente antes de qualquer recomposição, sem prazo para a decisão. Sobre o 'aporte público' sem autorização no Edital, ver
+    E3-034/E4-091 (REMUNERACAO_REAJUSTE).
+  dispositivo_legal: art. 5.º, inciso III, da Lei n.º 11.079/2004; art. 9.º, § 4.º, da Lei n.º 8.987/1995 (por analogia; não consta do rol do art. 3.º da Lei n.º 11.079/2004)
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G3-030
+  tema: RISCOS_GARANTIAS
+  ids_origem:
+  - E2-091
+  - E5-060
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: Inventário de passivos 'antes do Dia 1' sem responsável, conteúdo ou efeito, e ausente dos documentos vinculantes
+  dispositivo_editalicio: Anexo III Tabela 9 (PDF p. 16) e item XIV.2 (p. 33); P4 Tabela 7 (p. 21); Contrato cl. 8.6.1.1 e 8.6.4 (PDF p. 18-19); Caderno XI.4 (termo de entrega)
+  transcricao: 'Anexo III XIV.2: ''Inventário de Passivos Ambientais entregue antes do Dia 1'''
+  comentario: O Contrato separa passivos pelo fato gerador anterior à Ordem de Início (8.6.1.1), com base em 'diagnósticos socioambientais' que só contêm avaliações preliminares. O Anexo III e o P4 mencionam
+    um Inventário de Passivos Ambientais 'antes do Dia 1', mas não dizem quem o elabora, com que escopo (Centro de Triagem, ETR informal de São Carlos, Jirau AS1-AS5, Ecoparque) nem com que efeito probatório;
+    o Edital, o Contrato, o Caderno e a Matriz não incorporam essa obrigação. A linha de corte entre passivo do Poder Concedente e da concessionária fica indefinida.
+  dispositivo_legal: art. 5.º, inciso III, da Lei n.º 11.079/2004; art. 14, § 1.º, da Lei n.º 6.938/1981
+  flag_tecnico: false
+  flag_reserva: true
+  reserva_tipo: RESERVA
+  nota_reserva: Se a concessionária elaborar o inventário (ou o termo de entrega), um registro amplo transfere passivos ao PC (Contrato 8.6.1 e 8.6.4). Impugnar a omissão pode levar o PC a elaborar ele
+    próprio o inventário.
+- id_tmp: G3-031
+  tema: RISCOS_GARANTIAS
+  ids_origem:
+  - E3-036
+  - E4-077
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: Corte temporal pela Ordem de Início aplicado a contaminação de efeito continuado
+  dispositivo_editalicio: Contrato cl. 8.6.1.1, 8.6.1.2.3 e 8.6.3 (PDF p. 18-19); Matriz SA-01, SA-02, SA-05 e SA-13 (frase final)
+  transcricao: 'Contrato 8.6.1.1: ''Entendem-se por passivos ambientais preexistentes aqueles cujo fato gerador seja anterior à emissão da Ordem de Início'''
+  comentario: Pluma de contaminação, chorume, biogás e incêndios em massa de resíduos antiga continuam a ocorrer após a Ordem de Início. O critério do fato gerador (8.6.1.1, 8.6.1.2.3, 8.6.3) e a regra
+    da Matriz de que eventos posteriores à Ordem de Início são risco da concessionária não distinguem a manifestação tardia de passivo antigo de dano novo causado pela operação, em áreas que a concessionária
+    passa a operar e monitorar.
+  dispositivo_legal: art. 5.º, inciso III, da Lei n.º 11.079/2004; Resolução CONAMA n.º 420/2009
+  depende_de: Linha de base ambiental (investigação confirmatória) nas áreas na data da Ordem de Início.
+  flag_tecnico: true
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G3-032
+  tema: RISCOS_GARANTIAS
+  ids_origem:
+  - E3-035
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: 'Jirau: encargo de recuperação da concessionária sem teto, ao contrário da Vila Princesa'
+  dispositivo_editalicio: Contrato cl. 8.6.1, 8.6.1.2, 8.6.2 e 8.8, ii (PDF p. 18-20); Anexo III Tabela 3 (AS1-AS5); Matriz TO-02 (p. 3-4)
+  transcricao: 'Contrato 8.6.2: ''A reativação e a regularização fundiária, ambiental e administrativa do Aterro do Jirau ... constituem condição cuja viabilização é de responsabilidade do Poder Concedente'''
+  comentario: A cl. 8.6.1 ressalva as obrigações da concessionária quanto à Vila Princesa e ao Jirau 'observado o limite do item 8.6.1.2', mas o 8.6.1.2 só limita as medidas de intervenção da Vila Princesa.
+    O programa de recuperação e monitoramento pós-encerramento do Jirau (8.8, ii, prazo mínimo de 20 anos) não tem teto, embora o laudo preliminar indique cinco áreas suspeitas e não haja investigação confirmatória.
+    O P6 orça R$ 5,0 mi de recuperação sem memória de cálculo.
+  dispositivo_legal: art. 5.º, inciso III, da Lei n.º 11.079/2004; Resolução CONAMA n.º 420/2009
+  flag_tecnico: true
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G3-033
+  tema: RISCOS_GARANTIAS
+  ids_origem:
+  - E5-063
+  - E6-027
+  - E3-035
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: 'Jirau: titularidade, licença, disputa e capacidade indefinidas; disponibilização pelo PC sem prazo'
+  dispositivo_editalicio: Contrato cl. 8.6.2 (PDF p. 19) e 5.1.2 (p. 14); P1 VII.2.1 (p. 71) e VII.2.4 (p. 87-88); P2 Tabela 15, item 4.2.1 (p. 44) e V.1 (p. 31); P6 p. 46-48; Matriz TO-02 (p. 3-4)
+  transcricao: 'P1: ''Entretanto, em 2025, uma disputa administrativa envolvendo a Prefeitura, a antiga operadora e a concessionária atual, resultou na paralização da operação do aterro'''
+  comentario: O Jirau foi implantado pela ESBR como compensação da UHE e entregue à Prefeitura para operar, adequar e licenciar; está paralisado desde 2025 por disputa cujas partes e objeto não são identificados.
+    Não há volume remanescente, vida útil, licença ou projeto que sustente a recuperação de R$ 5,0 mi (P2) nem a operação a partir do Ano 3 (P6). O Contrato (8.6.2) põe a reativação e a regularização a
+    cargo do Poder Concedente sem prazo; a Matriz TO-02 fala em Mês 24. Se o Jirau não for disponibilizado, o Alto Madeira seguiria à Sede (DMT 255-378 km), sem cenário de custo nos estudos.
+  dispositivo_legal: art. 5.º, inciso III, da Lei n.º 11.079/2004; art. 18, inciso XII, da Lei n.º 8.987/1995
+  depende_de: Titularidade e situação de licença do Jirau; objeto e partes da disputa de 2025; levantamento volumétrico; cronograma de disponibilização pelo Poder Concedente.
+  flag_tecnico: true
+  flag_reserva: true
+  reserva_tipo: RESERVA
+  nota_reserva: A indisponibilidade do Jirau é risco do PC com efeitos de exoneração de prazos e reequilíbrio favoráveis à concessionária (Contrato 5.1.2 e 8.6.2); a impugnação deve evitar atingir essa
+    alocação.
+- id_tmp: G3-034
+  tema: RISCOS_GARANTIAS
+  ids_origem:
+  - E2-059
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: Indicadores IE3 (Jirau) e IE4 (incinerador) dependem de atos do PC, sem excludente no Anexo D
+  dispositivo_editalicio: Anexo D IE3 e IE4 (PDF p. 14 e 19); Contrato cl. 5.1.2 (p. 14), 8.6.2 (p. 19) e 26.30 (p. 62); Caderno XI.4
+  transcricao: 'Anexo D: ''IE3 – ATIVAÇÃO ATERRO DO JIRAU'' (célula de tabela)'
+  comentario: A meta de 100% no Ano 2 para Jirau e incinerador depende da disponibilização do Jirau pelo Poder Concedente (8.6.2) e da entrega do incinerador por termo (Caderno XI.4). O Anexo D não prevê
+    neutralização do indicador em caso de atraso do Poder Concedente; as excludentes genéricas do Contrato (5.1.2, 26.30) não se referem expressamente ao IQS.
+  dispositivo_legal: art. 5.º, incisos III e VII, da Lei n.º 11.079/2004
+  depende_de: Se as excludentes das cl. 5.1.2 e 26.30 se aplicam ao cálculo do IQS (a esclarecer).
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G3-035
+  tema: RISCOS_GARANTIAS
+  ids_origem:
+  - E4-068
+  tipo_achado: IRREGULAR
+  categoria: erro_material
+  descricao_breve: Matriz TO-02 inverte o sentido do reequilíbrio no risco do Jirau ('reembolso ao Poder Concedente')
+  dispositivo_editalicio: Matriz TO-02, consequências (p. 3-4)
+  transcricao: 'Matriz TO-02 (leitura da tabela renderizada): ''pode ensejar REEQUILÍBRIO por meio de reembolso ao Poder Concedente dos custos adicionais incorridos'''
+  comentario: O risco de não reativação do Jirau até o Mês 24 é alocado ao Poder Concedente, mas a consequência fala em reembolso 'ao' Poder Concedente dos custos adicionais, apurado o líquido com investimentos
+    não realizados. Fica ambíguo quem reembolsa quem.
+  dispositivo_legal: art. 5.º, inciso III, da Lei n.º 11.079/2004
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G3-036
+  tema: RISCOS_GARANTIAS
+  ids_origem:
+  - E2-046
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: 'Desativação e recuperação do Centro de Triagem: medida no IQS e orçada, mas ausente do Caderno e fora das exceções do Contrato'
+  dispositivo_editalicio: Anexo D Tabela 3 'Passivo Centro de Triagem' (PDF p. 10) e IE6 (p. 20); Contrato cl. 8.6.1 e 8.6.1.1 (PDF p. 18); P6 Tabela 7, item 7.2.1 (p. 40); Anexo III Tabela 9 (p. 16) e
+    Tabela 16 (p. 27)
+  transcricao: 'Anexo D: ''DESATIVAÇÃO DO CENTRO DE TRIAGEM'' (célula de tabela)'
+  comentario: O Anexo D mede como indicador estrutural (IE6) a desativação do Centro de Triagem e a recuperação da área (GAC) da Vila Princesa, e o P6 orça R$ 0,8 mi. O Caderno não prevê esse encargo, e
+    o Contrato (8.6.1) atribui ao Poder Concedente os passivos preexistentes, ressalvando só a Lixeira da Vila Princesa e o Jirau. Desativar o galpão da CATANORTE também conflita com a obrigação do Anexo
+    III de contratar a cooperativa para triagem a partir do Mês 1.
+  dispositivo_legal: art. 5.º, inciso III, da Lei n.º 11.079/2004; art. 36, § 1.º, da Lei n.º 12.305/2010
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G3-037
+  tema: RISCOS_GARANTIAS
+  ids_origem:
+  - E2-095
+  - E5-061
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: omissao
+  descricao_breve: Ações civis públicas e atuação do MP-RO (Lixeira, catadores, Jirau) citadas sem identificação
+  dispositivo_editalicio: Anexo III item XIV.1 (PDF p. 33) e Tabela 7 (p. 13-14); P1 p. 87; P4 VI.2 (p. 27) e Tab. 13 (p. 33); P0 p. 24
+  transcricao: 'P4: ''com implicações nas Ações Civis Públicas (ACPs) em tramitação relacionadas à Lixeira.'''
+  comentario: O Anexo III e o P4 referem ACPs 'em tramitação' relativas à Lixeira e aos catadores, e o P1 cita documentos do MP-RO sobre o Jirau, sem número de processo, juízo, pedidos, decisões ou obrigações
+    já impostas ao Município. O P0 havia solicitado cópia integral da ACP. Sem esses dados, o licitante não consegue avaliar obrigações judiciais que recairão sobre a concessão.
+  dispositivo_legal: art. 21 da Lei n.º 8.987/1995 c/c art. 3.º da Lei n.º 11.079/2004; art. 5.º, inciso III, da Lei n.º 11.079/2004
+  depende_de: Números, objeto, pedidos e situação processual das ACPs e eventual TAC.
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G3-038
+  tema: RISCOS_GARANTIAS
+  ids_origem:
+  - E7-073
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: omissao
+  descricao_breve: Ação civil pública e decisão judicial sobre a operação anterior não analisadas no Caderno Jurídico
+  dispositivo_editalicio: P0 III.2 Data Request jurídico (PDF p. 25) e Caderno 5 (p. 11-14); P7 IV.6 (p. 39); Matriz SA-12 e TO-15
+  transcricao: 'P0: ''Cópia integral da ação civil pública oriunda do contrato anterior.'''
+  comentario: O P0 registra ação civil pública sobre o contrato anterior e 'decisão judicial que reconhece a operação precária'. O P7 não examina esses processos nem seus efeitos (bens em uso, pedidos de
+    indenização do operador anterior, eventual obstáculo à transição ou aos ativos), limitando-se ao risco genérico de judicialização (SA-12). Sobre o Caderno 5 (indenização ao operador anterior) ausente
+    do pacote, ver E7-074/E6-009 (MODELAGEM_ECONOMICA).
+  dispositivo_legal: art. 5.º, inciso III, da Lei n.º 11.079/2004
+  depende_de: Cópia da ACP e da decisão judicial sobre a operação precária; eventual pedido de indenização do operador anterior.
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G3-039
+  tema: RISCOS_GARANTIAS
+  ids_origem:
+  - E4-074
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: Risco integral de reativar o incinerador público inoperante × proteção do Caderno contra defeitos preexistentes registrados
+  dispositivo_editalicio: Matriz TO-14 (p. 13) × Caderno XI.4 (PDF p. 61-62) × Contrato cl. 10.3.10.1 a 10.3.10.4 (PDF p. 29); Anexo III Tabela 3
+  transcricao: 'Matriz TO-14 (leitura da tabela renderizada): ''obrigação da Concessionária de assegurar solução alternativa licenciada para tratamento e destinação dos RSS, às suas expensas, sem direito
+    a reequilíbrio'''
+  comentario: A TO-14 atribui à concessionária, sem reequilíbrio, o risco de inoperância do incinerador municipal, inoperante desde a anulação do contrato anterior e sem laudo de condição nos documentos,
+    com CAPEX de R$ 1,8 mi no P6. O Caderno (XI.4) afasta a responsabilidade da concessionária por 'defeitos ocultos ou inadequações preexistentes' registrados no termo de entrega. O objeto também prevê
+    autoclave na CTR (rota de RSS tratada em E4-020/E5-066, OBJETO_ESCOPO).
+  dispositivo_legal: art. 5.º, inciso III, da Lei n.º 11.079/2004; art. 5.º da Lei n.º 14.133/2021
+  flag_tecnico: true
+  flag_reserva: true
+  reserva_tipo: RESERVA
+  nota_reserva: A proteção do Caderno XI.4 (defeitos registrados no termo de entrega, lavrado após a assinatura) favorece a concessionária; eventual impugnação deve mirar a TO-14 sem atingir o XI.4.
+- id_tmp: G3-040
+  tema: RISCOS_GARANTIAS
+  ids_origem:
+  - E3-081
+  - E7-054
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: Usina de biogás do aterro reversível excluída da reversão; aquisição pelo PC a valor de mercado
+  dispositivo_editalicio: Contrato cl. 18.10, 18.10.2 e 18.10.4 a 18.10.6 (PDF p. 43-45); P7 XI.3.4 (PDF p. 69); P6 V.5
+  transcricao: 'Contrato 18.10.2: ''não integram os Bens Reversíveis''; Contrato 18.10: ''considerado o valor justo de mercado'''
+  comentario: O biogás é gerado em aterro reversível, implantado e amortizado com a contraprestação; a usina de aproveitamento é excluída dos bens reversíveis, e o Poder Concedente, se quiser mantê-la,
+    paga valor justo de mercado por reequilíbrio, inclusive após o termo. A receita entra na base de compartilhamento de 5%. Não há regra sobre a destinação do biogás (queima obrigatória) após eventual
+    remoção da usina, e o P7 não examina a apropriação privada de valor gerado por ativo público.
+  dispositivo_legal: art. 36 e art. 11 da Lei n.º 8.987/1995; art. 10-A, incisos II e III, da Lei n.º 11.445/2007
+  depende_de: Potencial de geração de biogás e regra de continuidade da destinação do gás após a remoção da usina.
+  flag_tecnico: true
+  flag_reserva: true
+  reserva_tipo: RESERVA
+  nota_reserva: Opção de receita acessória não evidente e de saída favorável à concessionária; impugnar tende a incluir a usina entre os bens reversíveis.
+- id_tmp: G3-041
+  tema: RISCOS_GARANTIAS
+  ids_origem:
+  - E2-088
+  - E5-027
+  - E5-028
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: Gatilhos do PCOS divergentes entre Anexo III, P4 e Caderno; cheia sem gatilho; estação única de referência
+  dispositivo_editalicio: Anexo III item X e Tabela 14 (PDF p. 25-26); P4 VI.3 e Tabela 11 (p. 28-29); Caderno Tabela 32 (PDF p. 36-37); Contrato cl. 8.9 (PDF p. 20); Matriz TO-04 (p. 6)
+  transcricao: 'Anexo III X: ''As cotas de acionamento adotadas correspondem às cotas oficiais da Defesa Civil Municipal: cota de alerta em 5,0 m, cota de emergência em 4,0 m e cota de calamidade pública
+    em níveis inferiores a 2,0 m''; Anexo III/P4: ''aferida pela estação telemétrica da ANA/CPRM em Porto Velho (estação 15400000)'''
+  comentario: O texto do Anexo III e do P4 diz adotar as cotas da Defesa Civil (alerta 5,0 m, emergência 4,0 m, calamidade abaixo de 2,0 m), mas as tabelas usam faixas acima de 10 m, 7-10 m, 4-7 m e abaixo
+    de 4 m, só para estiagem. O Caderno (Tabela 32), que prevalece, define os níveis por critérios qualitativos e inclui a cheia. A cl. 8.9 do Contrato manda acionar o PCOS 'de forma automática conforme
+    as cotas hidrométricas de referência', e a cobertura mínima exigida varia por nível (100/95/90/80%). Nenhum documento fixa gatilho numérico para cheia, e o P4 não demonstra a correlação entre a estação
+    de Porto Velho e os pontos de atracação a até ~100 km a jusante e no Rio Ji-Paraná.
+  dispositivo_legal: art. 5.º, incisos III e VII, da Lei n.º 11.079/2004; art. 10-A, inciso IV, da Lei n.º 11.445/2007; art. 5.º da Lei n.º 14.133/2021
+  flag_tecnico: true
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G3-042
+  tema: RISCOS_GARANTIAS
+  ids_origem:
+  - E4-069
+  - E4-070
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: Reequilíbrio por estiagem exige cota < 2 m por 45 dias + decreto; gatilhos distintos em TO-04, TO-16 e RJ-04; 'segurável' indefinido
+  dispositivo_editalicio: Matriz TO-04 (p. 6), TO-16 (p. 14-15) e RJ-04 (p. 28); Contrato cl. 19.5 (PDF p. 46) e 34.4.1 (p. 72)
+  transcricao: 'Matriz TO-04: ''inferior a 2,0 metros por mais de 45 dias consecutivos, acompanhada de decreto de calamidade pública''; Matriz TO-16: ''Se o evento for segurável, o risco é integralmente
+    da contratada'''
+  comentario: A TO-04 classifica a estiagem extrema como 'Muito provável (5)', registra cotas de 0,25 m (2024), 1,20 m (2023) e 1,88 m (2020) e afirma que a sazonalidade não é caso fortuito, mas condiciona
+    o reequilíbrio, com invocação do art. 124, II, 'd', da Lei 14.133 (álea extraordinária), a cota < 2 m por mais de 45 dias cumulada com decreto de calamidade, ato discricionário do poder público. Para
+    eventos que se sobrepõem, a TO-16 exige superar os 4 níveis do PCOS, decreto e ao menos 1 dia de paralisação, e a RJ-04 exige decreto e evento não segurável. O critério de 'segurável' (TO-16; Contrato
+    19.5 e 34.4.1) não é definido (cobertura existente a qualquer custo ou em condições ordinárias de mercado), e a TO-16 usa 'contratada' em vez de 'concessionária'.
+  dispositivo_legal: art. 5.º, inciso III, da Lei n.º 11.079/2004; art. 124, inciso II, alínea 'd', da Lei n.º 14.133/2021
+  flag_tecnico: true
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G3-043
+  tema: RISCOS_GARANTIAS
+  ids_origem:
+  - E2-089
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: Risco hidrológico tratado como estrutural; meios de contingência do PCOS sem previsão de custo
+  dispositivo_editalicio: Anexo III item X, § 3.º, e Tabela 14, Níveis 3 e 4 (PDF p. 25-26); P6 p. 39, itens 3.1.4-3.1.7; Caderno X.6.6 (p. 46)
+  transcricao: 'Anexo III: ''sazonalidade amazônica deve ser tratada como condição estrutural do contrato, e não como evento excepcional'''
+  comentario: O Anexo III afasta a natureza excepcional da estiagem e exige soluções especiais (tirolesa logística, canoas de alumínio com motor de 15 HP, embarcações reserva, estoques de bombonas). O CAPEX
+    do P6 prevê balsa, catamarã de 20 HP, barcos de 40 HP e quadriciclo, sem tirolesa nem embarcação reserva. O custo da contingência fica com a concessionária até o gatilho restrito da Matriz (TO-04).
+    Sobre a falta de CAPEX/OPEX das soluções de estiagem, ver E6-043 (MODELAGEM_ECONOMICA).
+  dispositivo_legal: art. 5.º, inciso III, da Lei n.º 11.079/2004
+  depende_de: Custo operacional do PCOS por nível e sua inclusão no OPEX/CAPEX referencial.
+  flag_tecnico: true
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G3-044
+  tema: RISCOS_GARANTIAS
+  ids_origem:
+  - E5-026
+  - E5-029
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: Envelope hidrológico divergente nos estudos (amplitude 'até 12 m' × 0,25-19,73 m; períodos secos distintos)
+  dispositivo_editalicio: P4 Sumário (p. 6), I.1 (p. 7), Tab. 2 (p. 12), Tab. 4 (p. 14), Tab. 6 (p. 19), V.4 (p. 24), VI.3 e Tab. 11 (p. 29); P1 p. 13, 14, 38 e 102
+  transcricao: 'P4: ''A variação de até 12 metros no Rio Madeira não é evento excepcional''; P4 Tab. 2: ''Estiagem (jun–nov)'''
+  comentario: 'O P4 qualifica como estrutural uma variação ''de até 12 metros'', mas o mesmo caderno informa extremos de 0,25 m (2024) e 19,73 m (2014), amplitude de ~19,5 m; no P1, os ''mais de 12 metros''
+    referem-se ao Rio Abunã. Os períodos sazonais também divergem: seca em jun-ago ou mai-set e chuvas em out-abr ou nov-abr (P1), estiagem em jun-nov (P4 Tab. 2) e contingência severa em jun-set (P4 Tab.
+    11). Essas premissas fundamentam a alocação do risco hidrológico à concessionária e o planejamento do PCOS.'
+  dispositivo_legal: art. 5.º, inciso III, da Lei n.º 11.079/2004
+  flag_tecnico: true
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G3-045
+  tema: RISCOS_GARANTIAS
+  ids_origem:
+  - E5-093
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: Erosão fluvial ('terras caídas') sobre pontos de apoio, ETRs e acessos sem quantificação nem alocação
+  dispositivo_editalicio: P1 p. 16-17, 48, 52 e 82-83; P4 Fig. 4 (p. 18); Matriz (sem linha específica)
+  transcricao: 'P1: ''a margem já recuou mais de 100 metros, comprometendo áreas urbanizadas, infraestrutura e pontos de apoio logístico'''
+  comentario: O diagnóstico documenta erosão fluvial em Calama, São Carlos e Nazaré, com recuo de margem superior a 100 m, que afeta pontos de embarque e futuras estruturas fluviais. Os estudos não quantificam
+    o risco nem indicam se é evento previsível da concessionária ou caso fortuito; a Matriz não tem linha específica, e a cl. 20.1.2, v, do Contrato abrange interferências 'mesmo que previstas'.
+  dispositivo_legal: art. 5.º, inciso III, da Lei n.º 11.079/2004
+  depende_de: Avaliação geotécnica dos pontos de atracação e ETRs do Baixo Madeira e definição da alocação do risco.
+  flag_tecnico: true
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G3-046
+  tema: RISCOS_GARANTIAS
+  ids_origem:
+  - E4-084
+  - E3-072
+  - E3-082
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: Riscos sem alocação na Matriz (juros/financiamento, câmbio, mercado de CDR e carbono, desapropriação, extinção etc.)
+  dispositivo_editalicio: Matriz de Riscos (conjunto TO-01 a EF-07, PDF p. 3-33); Contrato cl. 19.1 a 19.4 e 20.1 (PDF p. 45-46) e 10.3.9 (p. 28)
+  transcricao: 'Contrato 19.1: ''Os riscos alocados às Partes encontram-se previstos no Anexo – Matriz de Riscos''; Contrato 10.3.9: ''o aproveitamento da fração de rejeitos com conteúdo energético para
+    produção de Combustível Derivado de Resíduos (CDR)'''
+  comentario: 'As cl. 19.2 a 19.4 não alocam riscos específicos e remetem à Matriz. No texto da Matriz não há ocorrência de ''câmbio'', ''juros'', ''inflação'', ''financiamento'', ''CDR'', ''carbono'',
+    ''desapropriação'', ''extinção'', ''arqueológ'' ou ''obsolescência''. Ficam sem alocação, entre outros: disponibilidade e custo do financiamento; câmbio de equipamentos importados (separadores ópticos,
+    autoclave); mercado e preço de CDR, composto e créditos de carbono (o Contrato obriga a produzir CDR sem regra para o material não vendido); desapropriação; atraso na Ordem de Início por condições do
+    Poder Concedente; instalação efetiva da ARDPV; extinção antecipada; achados arqueológicos; obsolescência tecnológica. Esses riscos ficam sob as regras residuais conflitantes do Contrato (ver G3-056).'
+  dispositivo_legal: art. 5.º, inciso III, da Lei n.º 11.079/2004; art. 92, inciso IX, da Lei n.º 14.133/2021; art. 10-A, inciso IV, da Lei n.º 11.445/2007
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G3-047
+  tema: RISCOS_GARANTIAS
+  ids_origem:
+  - E4-063
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: Matriz de Riscos Econômico-Financeiros anunciada no P6 e não apresentada
+  dispositivo_editalicio: P6 Sumário (PDF p. 6), I.2, objetivo (vi) (p. 7) e I.3 (p. 8)
+  transcricao: 'P6: ''apresentar a Matriz de Riscos Econômico-Financeiros do projeto com classificação de criticidade e mecanismos de mitigação'''
+  comentario: O Sumário e os objetivos do P6 anunciam uma Matriz de Riscos Econômico-Financeiros com criticidade e mitigação, que não consta do índice nem do corpo do documento. Também não há conexão explícita
+    entre as premissas do modelo (o que está precificado) e a alocação do Anexo V.
+  dispositivo_legal: art. 5.º, inciso III, e art. 10, inciso I, alínea 'a', da Lei n.º 11.079/2004
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G3-048
+  tema: RISCOS_GARANTIAS
+  ids_origem:
+  - E4-060
+  - E4-061
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: P6 pressupõe reequilíbrio por variação de diesel e de premissas de custo que a Matriz aloca à concessionária
+  dispositivo_editalicio: P6 III.11 (PDF p. 23), VII e Figura 8 (p. 61) × Matriz EF-01 (p. 29), EF-06 e EF-07 (p. 31); Contrato cl. 17.1 (p. 41)
+  transcricao: 'P6 III.11: ''com variação associada à oscilação do preço dos combustíveis fósseis, mitigada por cláusulas contratuais de reequilíbrio''; P6 VII: ''incluir mecanismos de revisão ordinária
+    periódica no contrato, garantindo o reequilíbrio econômico-financeiro diante de desvios relevantes em relação às premissas adotadas'''
+  comentario: O P6 afirma que a variação do diesel é mitigada por reequilíbrio, mas a Matriz EF-01 (probabilidade 4, score 16) aloca o risco exclusivamente à concessionária, salvo álea extraordinária. O
+    P6 mostra a TIR caindo para 8,71% com OPEX +5% e para 2,80% com OPEX +15% e recomenda revisão com reequilíbrio por desvios de premissas, enquanto a Matriz classifica a variação de CAPEX e OPEX como
+    'Improvável (2)' e risco exclusivo da concessionária (EF-06, EF-07). A revisão ordinária do Contrato (17.1) não prevê esse reequilíbrio.
+  dispositivo_legal: art. 5.º, inciso III, da Lei n.º 11.079/2004; art. 5.º da Lei n.º 14.133/2021
+  flag_tecnico: false
+  flag_reserva: true
+  reserva_tipo: RESERVA
+  nota_reserva: Combinada com o caráter 'vinculante' atribuído aos estudos (Edital 2.11), a afirmação do P6 pode sustentar pleitos de reequilíbrio por variação de diesel e de custos; impugnar a contradição
+    tende a fixar a alocação da Matriz e eliminar essa leitura.
+- id_tmp: G3-049
+  tema: RISCOS_GARANTIAS
+  ids_origem:
+  - E4-072
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: Metas de reciclagem 'compartilhadas' sem reequilíbrio nem por fato do príncipe (TO-10 × RJ-03/SA-10)
+  dispositivo_editalicio: Matriz TO-10 (p. 10) × RJ-03 (p. 27) e SA-10 (p. 24); Contrato Cláusula 19ª
+  transcricao: 'Matriz TO-10 (leitura da tabela renderizada): ''Se a baixa segregação na fonte decorrer de fato de terceiro, força maior ou fato do príncipe, não há direito ao reequilíbrio'''
+  comentario: Nas metas de recicláveis e de coleta seletiva (TO-10), a alocação é 'Compartilhado', mas a única proteção da concessionária é a isenção de sanção ou de desconto do IQD, sem reequilíbrio nem
+    mesmo por fato do príncipe. A RJ-03 e a SA-10 alocam o fato do príncipe ao Poder Concedente, com reequilíbrio.
+  dispositivo_legal: art. 5.º, inciso III, da Lei n.º 11.079/2004
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G3-050
+  tema: RISCOS_GARANTIAS
+  ids_origem:
+  - E4-083
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: Risco de ultrapassagem do limite de 5% da RCL alocado ao PC sem consequência contratual
+  dispositivo_editalicio: Matriz EF-04 (p. 30)
+  transcricao: 'Matriz EF-04 (leitura da tabela renderizada): ''Não há gatilho específico de reequilíbrio, nem sanção contratual às partes em caso de ocorrência do evento.'''
+  comentario: A EF-04 classifica o risco como 'Improvável (2)', embora o P6 não projete a RCL (ver E4-014, MODELAGEM_ECONOMICA). A alocação ao Poder Concedente não vem acompanhada de efeito contratual,
+    mitigação ou relação com a Conta Garantia.
+  dispositivo_legal: art. 28 e art. 5.º, inciso VI, da Lei n.º 11.079/2004
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G3-051
+  tema: RISCOS_GARANTIAS
+  ids_origem:
+  - E1-034
+  - E4-085
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: Estudos 'vinculantes' e EVTEA definidor do escopo × responsabilidade integral do licitante pelos dados; risco de erro dos estudos sem alocação
+  dispositivo_editalicio: Edital itens 2.10 e 2.11 (PDF p. 11), 3.1 'Investimentos em Infraestrutura' (p. 13), 7.5 (p. 17) e 9.9.1 (p. 22); Anexo C Declaração 7 (p. 13-14); Contrato cl. 5.1.9 (p. 15); Matriz
+    (silêncio)
+  transcricao: 'Edital 2.11: ''têm caráter igualmente vinculante''; Edital 3.1: ''o qual integra o CONTRATO como parte indissociável e define o escopo integral das obrigações de investimento da CONCESSIONÁRIA'';
+    Edital 9.9.1: ''não poderá, em hipótese alguma, alegar desconhecimento a respeito das condições de execução do CONTRATO'''
+  comentario: O item 2.11 dá caráter vinculante aos estudos e informações do Poder Concedente, e o item 3.1 torna o EVTEA definidor do escopo integral de investimentos. Os itens 7.5 e 9.9.1 e a Declaração
+    7 do Anexo C impõem ao licitante responsabilidade integral pela exatidão dos dados e renúncia a pleitos por insuficiência de informações. A Matriz não aloca o risco de erro ou omissão dos estudos referenciais;
+    diante das omissões do P6 (autoclave, flare, terrenos, capacidade do aterro, galpão das cooperativas), não se sabe se esses itens seriam obrigação sem remuneração ou investimento fora do escopo, sujeito
+    a reequilíbrio. Sobre o status do EVTEA, ver E1-033/E3-023/E7-085 (OBJETO_ESCOPO).
+  dispositivo_legal: art. 5.º, inciso III, e art. 10, § 4.º, da Lei n.º 11.079/2004; art. 5.º da Lei n.º 14.133/2021
+  flag_tecnico: false
+  flag_reserva: true
+  reserva_tipo: RESERVA
+  nota_reserva: O caráter vinculante dos estudos (2.11) e o escopo 'integral' do EVTEA abrem leitura favorável à concessionária (pleitos por erro de premissa ou por investimento não listado). Impugnar a
+    contradição pode eliminar esse fundamento.
+- id_tmp: G3-052
+  tema: RISCOS_GARANTIAS
+  ids_origem:
+  - E3-053
+  - E4-067
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: 'Risco de demanda: Parcela B liquidada por volume (risco do PC) × banda ''sugerida'' de ±10% da Matriz (risco da concessionária)'
+  dispositivo_editalicio: Contrato cl. 15.5.2.2 (PDF p. 38) × Matriz TO-01 (p. 3) e TO-06 (p. 7-8)
+  transcricao: 'Matriz TO-01: ''Concessionária absorve variações dentro de banda contratual (sugere-se ±10%); fora da banda, gatilho de reequilíbrio.'''
+  comentario: Se a Parcela B é liquidada por volume medido, a variação de demanda já se transfere ao pagamento (risco do Poder Concedente); a Matriz trata a variação como risco da concessionária dentro
+    de banda de ±10%, com reequilíbrio fora dela por 6 meses consecutivos, medida contra a projeção do P3. A justificativa mantém a linguagem de recomendação ('sugere-se'), a mitigação cita 'revisão tarifária'
+    sem tarifa ao usuário, e não se define a métrica (t/mês coletada, processada ou residual) nem a base (P3 diverge do P6). O Contrato não reproduz a banda. Sobre a falta de preço unitário da Parcela B,
+    ver E3-052/E4-010 (REMUNERACAO_REAJUSTE).
+  dispositivo_legal: art. 5.º, incisos III e IV, da Lei n.º 11.079/2004; art. 92, inciso IX, da Lei n.º 14.133/2021
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G3-053
+  tema: RISCOS_GARANTIAS
+  ids_origem:
+  - E3-064
+  tipo_achado: IRREGULAR
+  categoria: risco_economico
+  descricao_breve: Revisão ordinária autorizada a alterar a alocação de riscos, sem critérios
+  dispositivo_editalicio: Contrato cl. 20.7 (PDF p. 48) × 17.1 e 17.2 (p. 41) e 19.1 (p. 45)
+  transcricao: 'Contrato 20.7: ''não poderão alterar a alocação de riscos originalmente prevista neste Contrato, ressalvada a possibilidade de revisão ordinária após decorridos 5 (cinco) anos'''
+  comentario: A ressalva permite reabrir a alocação de riscos na revisão ordinária quinquenal, sem critérios, limites ou procedimento. A cl. 17.1 descreve a revisão ordinária como avaliação de desempenho,
+    metas e tecnologia, e a cl. 17.2 limita alterações da CMM ao reequilíbrio; a relação entre as três cláusulas não é definida.
+  dispositivo_legal: art. 5.º, inciso III, da Lei n.º 11.079/2004; art. 124, inciso II, alínea 'd', da Lei n.º 14.133/2021
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G3-054
+  tema: RISCOS_GARANTIAS
+  ids_origem:
+  - E2-041
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: Obrigações 'mínimas' do Caderno abertas a exigências da fiscalização × regra de investimentos fechados do Edital
+  dispositivo_editalicio: Caderno item I, § 3.º (PDF p. 7), X.6.1 (p. 42) e X.6.12 (p. 50) × Edital 3.1.4 (p. 14) e Contrato cl. 4.2.1.1 (p. 13)
+  transcricao: 'Caderno X.6.1: ''A ausência de detalhamento específico sobre uma situação operacional não dispensa a concessionária de adotar solução compatível com a boa técnica, com a legislação aplicável,
+    com o contrato e com as determinações da fiscalização''; Edital/Contrato: ''Não é exigível da CONCESSIONÁRIA obrigação de investimento'''
+  comentario: O Caderno qualifica todas as obrigações como mínimas, sujeitas a 'exigências adicionais' e 'atos da fiscalização', e trata como falha de gestão a omissão em propor revisões. O Edital (3.1.4)
+    e o Contrato (4.2.1.1) dizem que investimento não previsto nos anexos não é exigível sem recomposição. As duas lógicas conflitam na alocação do risco de escopo.
+  dispositivo_legal: art. 5.º, inciso III, da Lei n.º 11.079/2004; art. 10-A, inciso IV, da Lei n.º 11.445/2007
+  flag_tecnico: false
+  flag_reserva: true
+  reserva_tipo: RESERVA
+  nota_reserva: Prevalecendo a regra do Edital 3.1.4, toda exigência adicional da fiscalização gera direito a reequilíbrio; impugnar a contradição pode levar à restrição dessa regra.
+- id_tmp: G3-055
+  tema: RISCOS_GARANTIAS
+  ids_origem:
+  - E2-085
+  - E6-051
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: Metas de recuperação e de triagem imputadas à concessionária, mas operação e receita são das cooperativas
+  dispositivo_editalicio: Anexo III Tabela 16 (PDF p. 27); Anexo D IQ1 (p. 14 e 17), TO-10 e TO-11 (p. 9); P2 III.1 (p. 10) e V.6 (p. 40); P3 VII.1 (p. 51); P6 p. 48; Contrato cl. 10.8 e 18.5.2
+  transcricao: 'P2: ''A operação da triagem e o beneficiamento de plásticos serão realizados por cooperativas de catadores credenciadas, garantindo-lhes autonomia na comercialização dos materiais e reversão
+    integral da receita aos cooperados.'''
+  comentario: A triagem na UVR e a venda dos recicláveis ficam com cooperativas autônomas, que retêm 100% da receita (Contrato 18.5.2), e o Anexo III aponta barreira logística de ~3.500 km até os compradores.
+    O IQ1, a CS-01 e os indicadores de desvio e de paralisação da triagem recaem sobre a concessionária, que não controla a operação nem a remuneração das cooperativas. Não há modelagem do vínculo com as
+    cooperativas nem do custo de apoio.
+  dispositivo_legal: art. 5.º, inciso III, da Lei n.º 11.079/2004; art. 36, § 1.º, da Lei n.º 12.305/2010
+  depende_de: Modelo de vínculo contratual com as cooperativas (contrato, metas, apoio) e capacidade operacional das cooperativas existentes.
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G3-056
+  tema: RISCOS_GARANTIAS
+  ids_origem:
+  - E3-070
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: Três regras residuais distintas para riscos não previstos e força maior
+  dispositivo_editalicio: Contrato cl. 19.1 (PDF p. 45), 19.5 (p. 46), 20.1.2, v e vii (p. 47) e 34.4.1 (p. 72)
+  transcricao: 'Contrato 19.5: ''os eventos não passíveis de cobertura por seguro constituem risco do Poder Concedente''; Contrato 20.1.2, vii: ''nos demais casos não expressamente listados acima que venham
+    a alterar o equilíbrio'''
+  comentario: Riscos não previstos devem ser objeto de 'revisão do Contrato' para alocação (19.1); ao mesmo tempo, todo evento não segurável é do Poder Concedente (19.5, 34.4.1), e todo evento extraordinário
+    não causado pela SPE gera revisão (20.1.2, vii). Para força maior, a cl. 20.1.2, v, dá revisão sem ressalva de segurabilidade, e a cl. 34.4.1 diz que os eventos não seguráveis 'poderão' gerar reequilíbrio.
+    O critério de segurabilidade aparece só em linhas isoladas da Matriz.
+  dispositivo_legal: art. 5.º, inciso III, da Lei n.º 11.079/2004; art. 10-A, inciso IV, da Lei n.º 11.445/2007
+  flag_tecnico: false
+  flag_reserva: true
+  reserva_tipo: RESERVA
+  nota_reserva: As regras residuais 'não segurável = PC' (19.5) e 'demais casos' (20.1.2, vii) favorecem a concessionária; impugnar a contradição tende a restringi-las.
+- id_tmp: G3-057
+  tema: RISCOS_GARANTIAS
+  ids_origem:
+  - E3-071
+  tipo_achado: IRREGULAR
+  categoria: risco_economico
+  descricao_breve: Reequilíbrio para interferências 'mesmo que previstas'
+  dispositivo_editalicio: Contrato cl. 20.1.2, v (PDF p. 47)
+  transcricao: 'Contrato 20.1.2, v: ''caso fortuito, força maior, fato do príncipe e interferências imprevistas - ou mesmo que previstas, não possam ser evitadas'''
+  comentario: 'A inclusão de interferências ''mesmo que previstas'' estende ao Poder Concedente riscos previsíveis e precificáveis (ex.: geológicos, cheias do Rio Madeira tratadas no PCOS), além da hipótese
+    legal de fatos imprevisíveis ou previsíveis de consequências incalculáveis.'
+  dispositivo_legal: art. 124, inciso II, alínea 'd', da Lei n.º 14.133/2021; art. 5.º, inciso III, da Lei n.º 11.079/2004
+  flag_tecnico: false
+  flag_reserva: true
+  reserva_tipo: RESERVA
+  nota_reserva: Cláusula pró-concessionária; impugná-la tende a eliminá-la.
+- id_tmp: G3-058
+  tema: RISCOS_GARANTIAS
+  ids_origem:
+  - E3-037
+  - E2-094
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: 'Condicionantes ambientais supervenientes: risco da concessionária (8.1) × fato do príncipe (20.1.2, iii) × reequilíbrio ''quando cabível'''
+  dispositivo_editalicio: Contrato cl. 8.1, I (PDF p. 17) × 20.1.2, iii (p. 47); Anexo III item XV (PDF p. 34); Contrato cl. 4.6 (p. 13)
+  transcricao: 'Contrato 8.1, I: ''Atender às condicionantes que forem estabelecidas ao longo do processo de licenciamento ambiental''; Contrato 20.1.2, iii: ''incluindo determinações de autoridades ambientais
+    que alterem os encargos da Concessão''; Anexo III XV: ''quando cabível e juridicamente demonstrado'''
+  comentario: A cl. 8.1 atribui à concessionária, por sua conta, as condicionantes fixadas ao longo do licenciamento; a cl. 20.1.2, iii, qualifica como fato do príncipe as determinações de autoridades ambientais
+    que alterem encargos, inclusive antecipação de metas. O Anexo III (XV) impõe a exigência mais restritiva superveniente e condiciona o reequilíbrio a juízo aberto ('quando cabível e juridicamente demonstrado').
+    Não há critério para distinguir condicionante ordinária de determinação extraordinária.
+  dispositivo_legal: art. 5.º, inciso III, da Lei n.º 11.079/2004; art. 124, inciso II, alínea 'd', da Lei n.º 14.133/2021
+  flag_tecnico: false
+  flag_reserva: true
+  reserva_tipo: RESERVA
+  nota_reserva: A leitura da cl. 20.1.2, iii, favorece a concessionária; impugnar a contradição pode levar a restringi-la.
+- id_tmp: G3-059
+  tema: RISCOS_GARANTIAS
+  ids_origem:
+  - E3-021
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: 'Risco regulatório: limiares restritivos do Contrato (''significativa'', ''impassível de amortização'') × Matriz RJ-03'
+  dispositivo_editalicio: Contrato cl. 4.6 (PDF p. 13), 10.2.8.4 a 10.2.8.6 (p. 24) e 13.3 (p. 35) × Matriz RJ-03 (p. 27); Contrato 20.1.2, ii e iii (p. 46-47)
+  transcricao: 'Contrato 4.6: ''que alterem de forma significativa os encargos''; Contrato 10.2.8.6: ''exigindo investimento impassível de amortização'''
+  comentario: A Matriz (RJ-03) aloca ao Poder Concedente o impacto de ato normativo dos três entes. O Contrato exige alteração 'significativa' dos encargos para avaliar o pleito (4.6), só admite reequilíbrio
+    por atualização tecnológica se o investimento for 'totalmente imprevisto' e 'impassível de amortização' no prazo remanescente (10.2.8.6) e dá à concessionária 10 dias úteis para cumprir novas determinações
+    da ARDPV sem menção a reequilíbrio (13.3).
+  dispositivo_legal: art. 5.º, inciso III, da Lei n.º 11.079/2004; art. 124, inciso II, alínea 'd', da Lei n.º 14.133/2021; art. 9.º, § 4.º, da Lei n.º 8.987/1995 (por analogia; não consta do rol do art.
+    3.º da Lei n.º 11.079/2004)
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G3-060
+  tema: RISCOS_GARANTIAS
+  ids_origem:
+  - E4-081
+  - E7-055
+  tipo_achado: IRREGULAR
+  categoria: risco_economico
+  descricao_breve: Exclusão de reequilíbrio para exigências regulatórias ligadas a 'serviço adequado' (cl. 20.9; RJ-03), combinada com atualidade dinâmica
+  dispositivo_editalicio: Contrato cl. 20.9 (PDF p. 48) e 10.2.8 (p. 24); Matriz RJ-03 (p. 27); P7 IV.4 (PDF p. 38) e II.7 (p. 19)
+  transcricao: 'Contrato 20.9: ''Não enseja o reequilíbrio econômico-financeiro a exigência razoável feita pela Agência Reguladora de que a Concessionária preste serviço público adequado, nos termos do
+    art. 6º, § 1o, da Lei nº 8.987/95.''; P7: ''As atualizações regulatórias destinadas exclusivamente a assegurar a prestação de serviço adequado'''
+  comentario: A cl. 20.9 e a RJ-03 excluem do reequilíbrio a exigência 'razoável' da agência para manter serviço adequado, conceito aberto que abrange regularidade, continuidade, eficiência, segurança,
+    atualidade e generalidade; combinada com a obrigação dinâmica de atualidade tecnológica (10.2.8), normas novas da ARDPV com custo podem ser enquadradas na exceção, o que reduz o alcance da alocação
+    do fato do príncipe ao Poder Concedente. O fundamento citado (art. 6.º da Lei 8.987) não está entre os dispositivos aplicáveis à concessão administrativa pelo art. 3.º da Lei 11.079. A cl. 10.2.33.5
+    também fixa a CS-01 pela ARDPV sem reequilíbrio.
+  dispositivo_legal: art. 5.º, incisos III e V, e art. 3.º da Lei n.º 11.079/2004; arts. 124, inciso II, alínea 'd', e 130 da Lei n.º 14.133/2021; art. 10-A, inciso IV, da Lei n.º 11.445/2007
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G3-061
+  tema: RISCOS_GARANTIAS
+  ids_origem:
+  - E3-069
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: 'Risco tributário: revisão facultativa (''poderá'') e, na reforma do consumo, condicionada a extrapolar a álea ordinária'
+  dispositivo_editalicio: Contrato cl. 10.2.25.1 (PDF p. 25) × 20.1.2, ii (p. 46) e 20.10.2 (p. 49)
+  transcricao: 'Contrato 10.2.25.1: ''poderá ensejar o reequilíbrio econômico-financeiro''; Contrato 20.10.2: ''o impacto extrapolar a álea ordinária contratual'''
+  comentario: A cl. 20.1.2, ii, arrola a criação ou alteração de tributos após a proposta como causa de revisão, 'em conformidade com' o art. 9.º, § 3.º, da Lei 8.987, enquanto a cl. 10.2.25.1 diz que novo
+    regime fiscal 'poderá' ensejar reequilíbrio. Para a reforma tributária do consumo (IBS/CBS), a cl. 20.10.2 exige, além da prova do nexo, que o impacto extrapole a álea ordinária e não esteja neutralizado
+    por reajuste ou revisão. A lei prevê revisão sempre que comprovado o impacto, sem exigência de extrapolar a álea ordinária.
+  dispositivo_legal: art. 134 da Lei n.º 14.133/2021 (aplicação subsidiária, art. 186); art. 9.º, § 3.º, da Lei n.º 8.987/1995 (aplicação à concessão administrativa a verificar, pois não consta do art.
+    3.º da Lei n.º 11.079/2004); EC n.º 132/2023 e LC n.º 214/2025
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G3-062
+  tema: RISCOS_GARANTIAS
+  ids_origem:
+  - E4-037
+  - E3-069
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: 'Tributos sobre a renda: Matriz EF-05 inclui IRPJ/CSLL e só prevê reequilíbrio para aumento × Contrato restrito ao consumo e simétrico'
+  dispositivo_editalicio: Matriz EF-05 (p. 31) × Contrato cl. 20.1.2, ii (PDF p. 46), 20.10.1 e 20.10.7 (p. 49)
+  transcricao: 'Matriz EF-05: ''Eventual aumento da tributação efetiva pode ensejar REEQUILÍBRIO, para restaurar a equação econômico-financeira inicial do contrato.''; Contrato 20.10.7: ''caberá recomposição
+    em favor do Poder Concedente'''
+  comentario: A EF-05 lista IRPJ e CSLL entre as causas do risco tributário e prevê reequilíbrio apenas para aumento da tributação efetiva. O Contrato restringe o evento de reforma aos tributos sobre o
+    consumo (20.10.1), prevê recomposição em favor do Poder Concedente quando a reforma reduzir custos (20.10.7) e, na regra geral (20.1.2, ii), remete ao art. 9.º, § 3.º, da Lei 8.987, que ressalva os
+    impostos sobre a renda, sem reproduzir a ressalva. A divergência deixa aberta a tese de reequilíbrio unilateral por variação de IR/CSLL.
+  dispositivo_legal: art. 5.º, inciso III, da Lei n.º 11.079/2004; art. 9.º, § 3.º, da Lei n.º 8.987/1995 (aplicação à concessão administrativa a verificar); art. 134 da Lei n.º 14.133/2021
+  flag_tecnico: false
+  flag_reserva: true
+  reserva_tipo: RESERVA
+  nota_reserva: A redação assimétrica da Matriz (só aumento; inclui IRPJ/CSLL) favorece a concessionária; questioná-la tende a eliminá-la.
+- id_tmp: G3-063
+  tema: RISCOS_GARANTIAS
+  ids_origem:
+  - E7-056
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: Regime contratual da reforma tributária não confrontado com as regras de reequilíbrio da LC 214/2025
+  dispositivo_editalicio: P7 II.14 (PDF p. 22-23); Contrato cl. 20.10 (PDF p. 48-49); Matriz EF-05 (p. 31)
+  transcricao: 'P7: ''propõe um regime básico de transição sem antecipar cenários ainda em consolidação normativa nem criar direito a reequilíbrio automático'''
+  comentario: O P7 remete os impactos do IBS/CBS à execução e ao reequilíbrio mediante prova de impacto, sem examinar se a LC 214/2025 traz regras próprias de reequilíbrio de contratos administrativos que
+    se sobreponham à cl. 20.10 ou conflitem com a exigência de extrapolar a álea ordinária. Em contrato de 30 anos com transição iniciada em 2026, o ponto afeta a precificação; a EF-05 é classificada como
+    risco de nível elevado. Sobre a modelagem de PIS/COFINS/ISS sem a transição, ver E4-036 (MODELAGEM_ECONOMICA).
+  dispositivo_legal: EC n.º 132/2023; LC n.º 214/2025 (disposições sobre reequilíbrio de contratos administrativos — dispositivos a verificar); art. 124, inciso II, alínea 'd', da Lei n.º 14.133/2021
+  depende_de: Teor da LC n.º 214/2025 sobre reequilíbrio de contratos administrativos e sua compatibilidade com a cl. 20.10 (verificar na Fase 2).
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G3-064
+  tema: RISCOS_GARANTIAS
+  ids_origem:
+  - E1-058
+  tipo_achado: IRREGULAR
+  categoria: ilegalidade
+  descricao_breve: Solidariedade das consorciadas limitada até a assinatura; Contrato não prevê responsabilidade dos acionistas
+  dispositivo_editalicio: Edital item 8.5.2, e (PDF p. 20); Contrato (sem cláusula de solidariedade dos acionistas)
+  transcricao: 'Edital 8.5.2, e: ''pelos atos praticados pelo CONSÓRCIO em virtude da LICITAÇÃO, até a assinatura do CONTRATO'''
+  comentario: A Lei 14.133 prevê a responsabilidade solidária dos consorciados tanto na licitação quanto na execução do contrato. O Edital encerra a solidariedade na assinatura, e o Contrato não traz responsabilidade
+    ou garantia dos acionistas da SPE. A Administração pode sustentar que, na PPP, quem executa é a SPE, pessoa jurídica distinta, e que a solidariedade pós-assinatura não se aplica.
+  dispositivo_legal: art. 15, inciso V, e art. 186 da Lei n.º 14.133/2021; art. 9.º da Lei n.º 11.079/2004
+  flag_tecnico: false
+  flag_reserva: true
+  reserva_tipo: RESERVA
+  nota_reserva: A cláusula limita a exposição dos acionistas da futura concessionária; impugná-la pode estender a solidariedade à execução.
+- id_tmp: G3-065
+  tema: RISCOS_GARANTIAS
+  ids_origem:
+  - E3-091
+  tipo_achado: IRREGULAR
+  categoria: erro_material
+  descricao_breve: Contrato de concessão comina nulidade a contratos privados com fornecedores
+  dispositivo_editalicio: Contrato cl. 12.4 (PDF p. 34)
+  transcricao: 'Contrato 12.4: ''deverão conter, obrigatoriamente, sob pena de nulidade, cláusula de sub-rogação de direitos e obrigações em favor do Poder Concedente'''
+  comentario: A consequência de nulidade de negócio entre a SPE e fornecedores, terceiros ao contrato de concessão, não pode ser instituída por este; o efeito útil (continuidade dos serviços na extinção
+    antecipada) dependeria de obrigação da concessionária com sanção própria.
+  dispositivo_legal: não localizei fundamento normativo específico
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G3-066
+  tema: RISCOS_GARANTIAS
+  ids_origem:
+  - E1-093
+  - E3-094
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: Base e reajuste da garantia de execução indefinidos ('valor anual do contrato'; 'Contraprestação Anual Máxima')
+  dispositivo_editalicio: Edital item 20.1.4 (PDF p. 49) e 12.2.3 (p. 31); Contrato cl. 9.5, 9.6 (PDF p. 21), 22.1 e 22.1.1 (p. 51)
+  transcricao: 'Contrato 22.1: ''correspondente a 10% (dez por cento) do valor anual do contrato''; Contrato 22.1.1: ''na mesma data dos reajustes da Contraprestação Anual Máxima'''
+  comentario: 'O Edital só remete ao Contrato. O Contrato fixa 10% do ''valor anual do contrato'' sem defini-lo: com ramp-up, o valor anual varia nos Anos 1 a 3, e não se sabe se a base é a CMM × 12 da
+    proposta (~R$ 7,81 mi de garantia no regime pleno), a média (Valor do Contrato/30) ou a CME. O reajuste remete à ''Contraprestação Anual Máxima'', termo não definido (22.1.1), enquanto a cl. 9.6 menciona
+    a ''Contraprestação Mensal Efetiva''.'
+  dispositivo_legal: art. 96, caput, art. 98, parágrafo único, e art. 92, inciso XII, da Lei n.º 14.133/2021; art. 5.º, inciso VIII, da Lei n.º 11.079/2004
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G3-067
+  tema: RISCOS_GARANTIAS
+  ids_origem:
+  - E3-095
+  - E1-093
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: 'Modalidades da garantia de execução divergentes: quatro (cl. 9.5, com título de capitalização) × três (cl. 22.2)'
+  dispositivo_editalicio: Contrato cl. 9.5, a a d (PDF p. 21) × 22.2, i a iii (p. 51); P7 V.7 (PDF p. 42)
+  transcricao: 'Contrato 9.5, d: ''título de capitalização custeado por pagamento único''; Contrato 22.2: ''nas seguintes modalidades: i. Caução, em dinheiro ou títulos da dívida pública federal; ii. Fiança
+    bancária; ou iii. Seguro-garantia'''
+  comentario: A cl. 9.5 admite as quatro modalidades do art. 96, § 1.º, da Lei 14.133, inclusive título de capitalização; a cl. 22.2 e o P7 admitem apenas três. A cl. 9.5 também restringe o seguro-garantia
+    a seguradora com 'grau de investimento', requisito ausente da cl. 22.2. A escolha da modalidade cabe ao contratado.
+  dispositivo_legal: art. 96, § 1.º, incisos I a IV, da Lei n.º 14.133/2021
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G3-068
+  tema: RISCOS_GARANTIAS
+  ids_origem:
+  - E3-098
+  - E4-034
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: Importâncias seguradas mínimas 'por ativo' inexistentes; P6 só traz prêmios patrimoniais, sem risco de engenharia e RC
+  dispositivo_editalicio: Contrato cl. 21.1.6.1 e 21.1.7 (PDF p. 50); P6 Tabela 13 (PDF p. 45-46); Caderno XI.1
+  transcricao: 'Contrato 21.1.7: ''A Concessionária manterá apólices de seguro com importâncias seguradas não inferiores aos valores anuais referenciais por ativo constantes dos Anexos do Contrato.'''
+  comentario: 'Nenhum anexo traz importância segurada por ativo. O único quadro (P6 Tabela 13) lista custo anual de prêmio por ativo (total calculado de R$ 2,42 mi/ano, incluindo ''Ônibus Escolar''), sem
+    prêmios de risco de engenharia e de responsabilidade civil exigidos pela cl. 21.1.6.1 e sem ativos como ETRs, ecopontos e incinerador. Se aplicada à Tabela 13, a cl. 21.1.7 tomaria prêmios como piso
+    de importância segurada (ex.: R$ 633,6 mil para a CTR). O critério de segurabilidade para força maior (19.5, 34.4.1) depende dessas coberturas.'
+  dispositivo_legal: art. 5.º, inciso III, da Lei n.º 11.079/2004; art. 23, inciso V, da Lei n.º 8.987/1995; art. 5.º da Lei n.º 14.133/2021
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G3-069
+  tema: RISCOS_GARANTIAS
+  ids_origem:
+  - E3-119
+  tipo_achado: IRREGULAR
+  categoria: risco_economico
+  descricao_breve: Intervenção suspende integralmente a contraprestação enquanto os serviços continuam
+  dispositivo_editalicio: Contrato cl. 27.1 (PDF p. 62), 27.2.3 (p. 62) e 27.4 (p. 63)
+  transcricao: 'Contrato 27.4: ''Durante o período em que durar a intervenção, o Poder Concedente se desonera do pagamento da Contraprestação Mensal Efetiva devida à Concessionária'''
+  comentario: Na intervenção os serviços continuam sendo prestados com os meios da concessionária, sob gestão do interventor (27.1); a suspensão total da CME a priva da única receita e compromete o serviço
+    da dívida. A cl. 27.2.3 confunde intervenção com reversão ao exigir a disponibilização de 'todos os Bens Reversíveis'.
+  dispositivo_legal: arts. 32 a 34 da Lei n.º 8.987/1995 c/c art. 3.º da Lei n.º 11.079/2004; art. 7.º da Lei n.º 11.079/2004
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G3-070
+  tema: RISCOS_GARANTIAS
+  ids_origem:
+  - E3-117
+  - E7-029
+  tipo_achado: IRREGULAR
+  categoria: ilegalidade
+  descricao_breve: Step-in dos financiadores por simples comunicação, sem autorização do PC nem regime de administração temporária
+  dispositivo_editalicio: Contrato cl. 25.1 a 25.7 (PDF p. 54-55); P7 V.6 (PDF p. 41-42) e IX.4 (p. 63)
+  transcricao: 'Contrato 25.3: ''os financiadores poderão assumir a Concessão, comunicando formalmente sua decisão ao Poder Concedente com antecedência prévia de 15 (quinze) dias'''
+  comentario: A lei prevê que o Poder Concedente autorizará a assunção do controle ou a administração temporária pelos financiadores, nas condições do contrato. A cl. 25.3 substitui autorização por comunicação
+    com 15 dias de antecedência, fala em 'assumir a Concessão' (e não o controle da SPE), exige apenas regularidade jurídica e fiscal e não regula a administração temporária, o empenho em nome dos financiadores
+    nem sua legitimidade para receber indenizações. O P7 (V.6) descreve uma etapa de análise pelo Poder Concedente que não consta do Contrato.
+  dispositivo_legal: art. 27-A da Lei n.º 8.987/1995 c/c art. 3.º da Lei n.º 11.079/2004; art. 5.º, § 2.º, incisos I a III, e art. 5.º-A da Lei n.º 11.079/2004
+  flag_tecnico: false
+  flag_reserva: true
+  reserva_tipo: RESERVA
+  nota_reserva: Cláusula favorável à bancabilidade e aos financiadores da concessionária; a impugnação poderia eliminá-la.
+- id_tmp: G3-071
+  tema: RISCOS_GARANTIAS
+  ids_origem:
+  - E7-031
+  - E3-116
+  tipo_achado: IRREGULAR
+  categoria: ilegalidade
+  descricao_breve: Transferência de controle intragrupo pré-autorizada, sem verificação de requisitos; só controle direto
+  dispositivo_editalicio: Contrato cl. 24.1.1 e 24.2 (PDF p. 54) e 1.3.22 (definição de Controle); P7 IX.3 (PDF p. 63) e XI.3.6 (p. 69)
+  transcricao: 'Contrato 24.2: ''Considera-se previamente autorizada pelo Poder Concedente a eventual transferência de controle da Concessionária para terceira sociedade que integre o grupo econômico de
+    sócia original da SPE'''
+  comentario: A transferência do controle da SPE depende de autorização expressa da Administração, com verificação de capacidade técnica, idoneidade financeira e regularidade jurídica e fiscal do pretendente.
+    A pré-autorização contratual genérica dispensa essa verificação caso a caso, e a cl. 24.1.1 alcança apenas o controle direto, deixando sem controle as mudanças de controle indireto. O P7 qualifica a
+    regra como 'exceção relevante' sem examinar sua compatibilidade legal.
+  dispositivo_legal: art. 9.º, § 1.º, da Lei n.º 11.079/2004; art. 27, caput e § 1.º, incisos I e II, da Lei n.º 8.987/1995
+  flag_tecnico: false
+  flag_reserva: true
+  reserva_tipo: RESERVA
+  nota_reserva: Flexibilidade societária que favorece grupos econômicos com várias sociedades; a impugnação poderia eliminá-la.
+- id_tmp: G3-072
+  tema: RISCOS_GARANTIAS
+  ids_origem:
+  - E3-074
+  - E7-030
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: Ausência da cláusula obrigatória de compartilhamento dos ganhos da redução do risco de crédito (refinanciamento)
+  dispositivo_editalicio: Contrato cl. 19.6 (PDF p. 46) e 18.5 (p. 43); P7 V.6 (PDF p. 41)
+  transcricao: 'Contrato 19.6: ''A redução de custos da Concessionária decorrentes de incentivos oferecidos pelo Poder Concedente'' ... ''linhas de crédito especiais''; P7: ''A previsão observa o art. 5º,
+    inciso IX, da Lei Federal nº 11.079/2004'''
+  comentario: 'A cl. 19.6 cobre apenas incentivos oferecidos pelo Poder Concedente (inclusive linhas de crédito especiais), e a cl. 18.5 trata do compartilhamento de receitas acessórias. Não há cláusula
+    de compartilhamento dos ganhos econômicos efetivos decorrentes da redução do risco de crédito dos financiamentos (ex.: refinanciamento após a fase de obras), exigida em todo contrato de PPP. O P7 cita
+    o art. 5.º, IX, como fundamento dos step-in rights.'
+  dispositivo_legal: art. 5.º, inciso IX, da Lei n.º 11.079/2004
+  flag_tecnico: false
+  flag_reserva: true
+  reserva_tipo: RESERVA
+  nota_reserva: A omissão permite à concessionária reter integralmente os ganhos de refinanciamento; a impugnação tende a introduzir a cláusula de compartilhamento.
+- id_tmp: G3-073
+  tema: RISCOS_GARANTIAS
+  ids_origem:
+  - E3-121
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: Indenização por força maior e por anulação sobre 'todos os investimentos realizados', sem dedução da amortização
+  dispositivo_editalicio: Contrato cl. 34.7 (PDF p. 72) e 33.3, i (p. 71) × 28.7 e 28.7.13 (p. 64-65)
+  transcricao: 'Contrato 34.7: ''será indenizada pelo que houver executado e por todos os investimentos realizados até a data em que este Contrato for extinto, sem exclusão de outros prejuízos regularmente
+    comprovados'''
+  comentario: 'A regra geral (28.7) indeniza a parcela não amortizada dos investimentos em bens reversíveis. A cl. 34.7 manda indenizar, na extinção por força maior, ''todos os investimentos realizados''
+    e ''outros prejuízos'', e a anulação não imputável à concessionária remete a essa regra (33.3, i). Há risco de dupla remuneração: investimento já amortizado pela Parcela A e indenizado novamente.'
+  dispositivo_legal: art. 36 da Lei n.º 8.987/1995 c/c art. 3.º da Lei n.º 11.079/2004; art. 149 da Lei n.º 14.133/2021 (anulação)
+  flag_tecnico: false
+  flag_reserva: true
+  reserva_tipo: RESERVA
+  nota_reserva: Regime indenizatório favorável à concessionária; a impugnação tende a reduzi-lo à parcela não amortizada.
+- id_tmp: G3-074
+  tema: RISCOS_GARANTIAS
+  ids_origem:
+  - E3-122
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: Encampação com lucros cessantes, em contradição com a regra geral de quitação
+  dispositivo_editalicio: Contrato cl. 30.2, ii a iv, e 30.2.1 (PDF p. 66-67) × 28.7.14 (p. 65) e 32.11 (p. 70)
+  transcricao: 'Contrato 30.2, ii: ''lucros cessantes, considerado percentual do montante relativo ao custo de oportunidade'''
+  comentario: Pela lei, a encampação indeniza os investimentos não amortizados. O Contrato acrescenta lucros cessantes por fluxo de caixa descontado sem taxa definida, quitação de financiamentos e custos
+    de rescisão com terceiros, enquanto a cl. 28.7.14 exclui lucros cessantes 'a qualquer título'. A rescisão por culpa do Poder Concedente (32.11) importa as mesmas condições.
+  dispositivo_legal: arts. 36 e 37 da Lei n.º 8.987/1995 c/c art. 3.º da Lei n.º 11.079/2004
+  flag_tecnico: false
+  flag_reserva: true
+  reserva_tipo: RESERVA
+  nota_reserva: Regime indenizatório ampliado favorece a concessionária; a impugnação tende a eliminá-lo.
+- id_tmp: G3-075
+  tema: RISCOS_GARANTIAS
+  ids_origem:
+  - E3-124
+  tipo_achado: IRREGULAR
+  categoria: ilegalidade
+  descricao_breve: Rol de caducidade restrito a três hipóteses, omitindo as causas legais
+  dispositivo_editalicio: Contrato cl. 31.1 e 31.2 (PDF p. 67) × 26.14 (p. 59), 22.7 (p. 52) e 35.3
+  transcricao: 'Contrato 31.1: ''O Poder Concedente poderá declarar a caducidade da Concessão na ocorrência de qualquer dos seguintes eventos'''
+  comentario: O rol limita-se a falência ou condenação por sonegação ou corrupção, falta de reposição da garantia de execução em 90 dias e falta de seguros. Omite serviço inadequado, descumprimento de cláusulas,
+    paralisação, perda de condições técnicas ou econômicas e desatendimento de intimações; trata a falência, causa autônoma de extinção, como caducidade; e conflita com a cl. 26.14 (reincidência leva a
+    caducidade). O prazo de 90 dias para repor a garantia difere dos 30 dias da cl. 22.7.
+  dispositivo_legal: art. 38, § 1.º, e art. 35, inciso VI, da Lei n.º 8.987/1995 c/c art. 3.º da Lei n.º 11.079/2004
+  flag_tecnico: false
+  flag_reserva: true
+  reserva_tipo: RESERVA
+  nota_reserva: O rol restrito protege a concessionária; a impugnação tende a ampliá-lo às hipóteses legais.
+- id_tmp: G3-076
+  tema: RISCOS_GARANTIAS
+  ids_origem:
+  - E3-126
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: Metodologia de indenização exclui juros de construção, margem e despesas pré-SPE
+  dispositivo_editalicio: Contrato cl. 28.7.1 a 28.7.6 (PDF p. 64); P6 p. 47 (ativo financeiro, ICPC 01)
+  transcricao: 'Contrato 28.7: ''Não serão considerados eventuais valores contabilizados a título de juros e outras despesas financeiras durante o período de construção'''
+  comentario: A base de indenização exclui juros capitalizados, margem de construção, ágios e despesas anteriores à SPE e adota amortização linear pelo menor prazo entre o termo e a vida útil. Isso pode
+    reduzir a indenização abaixo do saldo contábil do ativo financeiro (ICPC 01) que o P6 projeta, com efeito sobre a bancabilidade.
+  dispositivo_legal: art. 36 da Lei n.º 8.987/1995; art. 10-A, inciso III, da Lei n.º 11.445/2007
+  depende_de: Comparação entre a indenização calculada pela metodologia da cl. 28.7 e o saldo do ativo financeiro projetado no P6.
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G3-077
+  tema: RISCOS_GARANTIAS
+  ids_origem:
+  - E3-029
+  tipo_achado: IRREGULAR
+  categoria: ilegalidade
+  descricao_breve: Vedação de indenização de investimentos não amortizados no advento do termo, inclusive investimentos tardios exigidos
+  dispositivo_editalicio: Contrato cl. 5.3 (PDF p. 15), 10.13.4 (p. 32) e 29.6 (p. 66); Caderno XI (reposição no Ano 25); Contrato 10.13.5.3
+  transcricao: 'Contrato 5.3: ''a Concessionária deverá realizar sua amortização até o término da Concessão, não sendo devida qualquer indenização adicional'''
+  comentario: A lei assegura, na reversão ao fim do prazo, indenização das parcelas não amortizadas de investimentos realizados para garantir a continuidade e a atualidade do serviço. O Contrato exige investimentos
+    tardios (reposição no Ano 25 do Caderno XI; ampliação do aterro para manter 30 anos de vida útil remanescente, cl. 10.13.5.3) e veda a indenização, ressalvado o reequilíbrio (5.4).
+  dispositivo_legal: art. 36 da Lei n.º 8.987/1995 c/c art. 3.º da Lei n.º 11.079/2004; art. 10-A, inciso III, da Lei n.º 11.445/2007
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G3-078
+  tema: RISCOS_GARANTIAS
+  ids_origem:
+  - E3-128
+  - E7-034
+  tipo_achado: IRREGULAR
+  categoria: ilegalidade
+  descricao_breve: Hipóteses amplas de interrupção dos serviços pela concessionária ('frustração de receita') antes de decisão final
+  dispositivo_editalicio: Contrato cl. 15.8.8 (PDF p. 40), 32.10.2 (p. 70) e 32.12 (p. 70); P7 III.6.3 (PDF p. 33), V.5 (p. 41) e XI.3.4 (p. 69)
+  transcricao: 'Contrato 32.12: ''Ressalvadas as hipóteses expressas neste Contrato permissivas da interrupção dos Serviços relativas às hipóteses de inadimplência pública ou qualquer outro evento que resulte
+    em restrição de caixa ou frustração de receita à Concessionária'''
+  comentario: A lei veda interromper ou paralisar os serviços até decisão judicial transitada em julgado na rescisão por iniciativa da concessionária. A cl. 15.8.8 admite pleito cautelar de suspensão integral
+    dos serviços após 180 dias de inadimplência com a Conta Garantia abaixo de uma parcela, e a cl. 32.12 ressalva a interrupção diante de 'qualquer evento que resulte em restrição de caixa ou frustração
+    de receita', o que alcança coleta de RSS e de RSU em áreas sem alternativa. O P7 (III.6.3) descreve a suspensão integral como faculdade direta da concessionária após 180 dias com a Conta Garantia abaixo
+    de 2 CME, em desacordo com a própria cl. 15.8.8 e com o P7 V.5. As cl. 15.8.8 e 32.12 remetem a 'juízo arbitral', embora a arbitragem seja facultativa (ver G3-111).
+  dispositivo_legal: art. 39, parágrafo único, da Lei n.º 8.987/1995 c/c art. 3.º da Lei n.º 11.079/2004; art. 6.º, §§ 1.º e 3.º, da Lei n.º 8.987/1995 (por analogia; não consta do rol do art. 3.º da Lei
+    n.º 11.079/2004)
+  flag_tecnico: false
+  flag_reserva: true
+  reserva_tipo: RESERVA
+  nota_reserva: Proteção pró-concessionária contra inadimplência pública; a impugnação tende a eliminá-la.
+- id_tmp: G3-079
+  tema: RISCOS_GARANTIAS
+  ids_origem:
+  - E3-129
+  tipo_achado: IRREGULAR
+  categoria: ilegalidade
+  descricao_breve: Silêncio de 180 dias do PC na rescisão amigável exonera a concessionária das obrigações
+  dispositivo_editalicio: Contrato cl. 32.6 (PDF p. 69) e 32.3 a 32.5
+  transcricao: 'Contrato 32.6: ''sob pena da Concessionária eximir-se das obrigações contratuais decorrentes'''
+  comentario: A rescisão amigável pressupõe acordo. Atribuir ao silêncio do Poder Concedente por 180 dias o efeito de liberar a concessionária equivale a rescisão unilateral tácita de serviço essencial,
+    sem decisão arbitral ou judicial e sem regra de transição.
+  dispositivo_legal: art. 39, parágrafo único, da Lei n.º 8.987/1995 c/c art. 3.º da Lei n.º 11.079/2004; art. 138, inciso II, da Lei n.º 14.133/2021
+  flag_tecnico: false
+  flag_reserva: true
+  reserva_tipo: RESERVA
+  nota_reserva: Cláusula pró-concessionária; impugná-la tende a eliminá-la.
+- id_tmp: G3-080
+  tema: RISCOS_GARANTIAS
+  ids_origem:
+  - E2-007
+  - E2-008
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: Relação de bens reversíveis e de bens municipais a ceder inexistente (remetida a termo de entrega futuro)
+  dispositivo_editalicio: Caderno itens XI.1 e XI.2 (PDF p. 60-61) e XI.4 (p. 61-62); Contrato cl. 5.1.1 e 5.1.1.1 (PDF p. 14); Anexo III Tabela 3 (p. 9-10)
+  transcricao: 'Caderno XI.1: ''A relação de bens reversíveis compreenderá, no mínimo, as estruturas operacionais, a frota, os equipamentos de apoio, os sistemas de controle e monitoramento'''
+  comentario: Apesar do título, a seção 'Relação de Bens Reversíveis' traz só categorias genéricas, sem bens, quantidades, valores nem estado dos ativos existentes. Salvo o incinerador e a área do transbordo
+    do Baixo Madeira, os bens municipais cedidos dependem de termo de entrega a ser lavrado depois (XI.4), e o Contrato (5.1.1) só obriga o Poder Concedente quanto aos bens 'expressamente relacionados nos
+    Anexos', relação que não existe. Faltam inventário e estado de ecopontos, Centro de Triagem, ETR informal de São Carlos e contêineres.
+  dispositivo_legal: art. 18, incisos X e XI, e art. 23, inciso X, da Lei n.º 8.987/1995 c/c art. 11 da Lei n.º 11.079/2004; art. 5.º, inciso X, da Lei n.º 11.079/2004
+  flag_tecnico: false
+  flag_reserva: true
+  reserva_tipo: RESERVA
+  nota_reserva: O Caderno exonera a concessionária dos passivos e defeitos 'formalmente registrados no termo de entrega', lavrado após a assinatura, o que favorece quem registrar de forma ampla na vistoria;
+    impugnar a omissão pode antecipar o inventário ao Edital.
+- id_tmp: G3-081
+  tema: RISCOS_GARANTIAS
+  ids_origem:
+  - E3-028
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: Definição de bens reversíveis inconsistente (todos os necessários × só os inventariados × 'reversão facultativa')
+  dispositivo_editalicio: Contrato cl. 1.3.5 (PDF p. 7), 5.1.3, 5.1.5 e 5.1.8 (p. 14-15) e 28.3 a 28.4 (p. 63)
+  transcricao: 'Contrato 28.3: ''(de reversão obrigatória e facultativa)'''
+  comentario: 'A definição ampla (1.3.5: ativos necessários à continuidade operacional) convive com regra que condiciona a reversibilidade dos bens incorporados à prévia inclusão no Inventário (5.1.5) e
+    com categoria de ''reversão facultativa'' não definida (28.3-28.4). A cl. 5.1.8 admite bens de terceiros, mas a cl. 5.1.3 exige que estejam livres para transferência, o que não ocorre com bens locados.
+    Resulta risco de não reversão de ativos essenciais.'
+  dispositivo_legal: art. 18, inciso X, e art. 23, inciso X, da Lei n.º 8.987/1995 c/c art. 11 da Lei n.º 11.079/2004; art. 10-A, inciso III, da Lei n.º 11.445/2007
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G3-082
+  tema: REGULACAO_FISCALIZACAO
+  ids_origem:
+  - E2-090
+  - E3-019
+  - E7-035
+  - E7-038
+  tipo_achado: IRREGULAR
+  categoria: ilegalidade
+  descricao_breve: Funções regulatórias exercidas pelo próprio Poder Concedente (CGP/PVH ou SEINFRA) enquanto a ARDPV não se instala, sem prazo final
+  dispositivo_editalicio: Contrato cl. 4.7 a 4.7.3 (PDF p. 13-14); Anexo III Tabela 18 (PDF p. 28), Tabela 20 (p. 31-32) e item XIII (p. 31); P7 Sumário (PDF p. 9), II.1 (p. 14) e II.5 (p. 17-18)
+  transcricao: 'Contrato 4.7.1: ''Enquanto não instalada a ARDPV, ou enquanto esta não dispuser de estrutura técnica para o exercício de determinada competência, esta será exercida pelo Conselho Gestor
+    do Programa de Parcerias Público-Privadas de Porto Velho (CGP/PVH) ou pela SEINFRA''; P7 II.1: ''sob fiscalização e regulação do Poder Concedente'''
+  comentario: As competências da Entidade Reguladora serão exercidas pela ARDPV 'a partir de sua efetiva instalação e operação' (4.7); até lá, e sem prazo final, cabem ao CGP/PVH ou à SEINFRA, órgãos do
+    Poder Concedente sem independência decisória (4.7.1). O Anexo III já atribui ao CGP/PVH a aprovação de relatórios, do POF e do rito GAC. O P7 reconhece que a ARDPV, criada pela LC 1.013/2025, pode não
+    estar instalada, e no capítulo II.1 atribui a regulação ao próprio Poder Concedente. O CGP/PVH também aprovou o procedimento de manifestação de interesse e os estudos, acumulando funções. A designação
+    de entidade reguladora autárquica com independência decisória é condição de validade dos contratos de saneamento; o estágio de instalação da ARDPV não consta dos documentos.
+  dispositivo_legal: art. 8.º, § 5.º, art. 11, inciso III, art. 21 e art. 23 da Lei n.º 11.445/2007; arts. 71, 76, 80 e 88 da NR n.º 7/2024 da ANA (Resolução ANA n.º 187/2024) — conferir
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G3-083
+  tema: REGULACAO_FISCALIZACAO
+  ids_origem:
+  - E2-043
+  - E5-091
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: 'Autoridade aprovadora indefinida entre documentos: ARDPV, CGP/PVH, SEINFRA, ''fiscalização'', VI e SEMA'
+  dispositivo_editalicio: Anexo III itens X.1 (PDF p. 26), XIV.2 (p. 33) e Tabela 11, PA-10 (p. 20); Caderno X.6.1 (PDF p. 42); Contrato cl. 8.10 (p. 20) e 10.2.33.4 (p. 27); P4 V.3 (p. 23), Tab. 9 (p.
+    26-27), Tab. 10 (p. 28), VII.2 (p. 31) e Tab. 13 (p. 33-34)
+  transcricao: 'Anexo III XIV.2: ''POF aprovado pelo CGP/PVH antes do início da operação fluvial'''
+  comentario: O Plano Operacional Fluvial é apresentado à ARDPV (Anexo III X.1), mas aprovado pelo CGP/PVH (XIV.2 e PA-10); os relatórios ambientais vão ao 'CGP/PVH e SEMA' (PA-02). O Caderno exige aprovação
+    prévia da 'fiscalização' para soluções alternativas (X.6.1), enquanto o Contrato (8.10) exige autorização da Entidade Reguladora após parecer do VI. O P4 confere ao CGP/PVH a aprovação do POF/PCOS,
+    o recebimento de relatórios e a vistoria da CS-03, prevê assento das cooperativas no CGP/PVH e não menciona a ARDPV, enquanto o Contrato atribui à Entidade Reguladora, por exemplo, a calibração da CS-01.
+  dispositivo_legal: arts. 21, 22 e 23 da Lei n.º 11.445/2007; arts. 71, 76, 80 e 88 da NR n.º 7/2024 da ANA (Resolução ANA n.º 187/2024) — conferir; art. 5.º da Lei n.º 14.133/2021
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G3-084
+  tema: REGULACAO_FISCALIZACAO
+  ids_origem:
+  - E1-115
+  - E3-007
+  - E2-063
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: Competência para apurar e homologar o IQD/RAA atribuída de forma conflitante (ARDPV, VI e Poder Concedente)
+  dispositivo_editalicio: Edital def. 1.1.2 (PDF p. 6) e 1.1.28 (p. 8); Contrato cl. 1.3.2, 1.3.27, 1.3.33 (PDF p. 6-9), 13.5.2 (p. 35), 15.4 (p. 37), 15.7.5 (p. 39) e 41.19-41.20 (p. 81); Anexo D item
+    VI.1.2 (PDF p. 21); Anexo VII item 13 (p. 6); P7 p. 35
+  transcricao: 'Edital 1.1.2: ''responsável pela fiscalização e regulação do Contrato e pela análise e mensuração dos Indicadores''; Edital 1.1.28: ''a serem apurados pelo Verificador Independente e homologados
+    pela Agência Reguladora''; Anexo D: ''homologação do RAA pelo Poder Concedente'''
+  comentario: O Edital e o Contrato definem a ARDPV ora como responsável pela 'análise e mensuração' dos IQD, ora pela 'homologação'; atribuem a apuração ao VI (1.3.33, 15.4) e a decisão final de contestação
+    à ARDPV (15.7.5). O Anexo D atribui a homologação do RAA ao Poder Concedente, o Anexo VII trata a ARDPV como meio de atuação do Poder Concedente, e a cl. 41.20 permite ao Poder Concedente determinar
+    auditoria ou perícia. A indefinição recai sobre o mecanismo que determina a parcela variável da contraprestação.
+  dispositivo_legal: art. 21, inciso I, art. 22, incisos I e II, e art. 23, inciso I, da Lei n.º 11.445/2007; art. 5.º, inciso VII, da Lei n.º 11.079/2004; art. 5.º da Lei n.º 14.133/2021
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G3-085
+  tema: REGULACAO_FISCALIZACAO
+  ids_origem:
+  - E7-036
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: omissao
+  descricao_breve: Independência da ARDPV afirmada sem exame da LC 1.013/2025 (mandatos, autonomia financeira, funções de 'desenvolvimento')
+  dispositivo_editalicio: P7 II.5 (PDF p. 17-18); P1 V.4 (p. 58-59)
+  transcricao: 'P7: ''supre a necessidade institucional de uma instância reguladora dedicada e independente, separada do órgão gestor da política pública'''
+  comentario: O P7 não transcreve nem analisa a LC 1.013/2025 quanto à natureza autárquica, mandato fixo e estabilidade dos dirigentes, autonomia orçamentária e financeira e transparência. A denominação
+    'Agência Reguladora dos Serviços Públicos Delegados e de Desenvolvimento' sugere acumulação de funções de fomento com funções regulatórias, o que exige exame à luz da independência decisória.
+  dispositivo_legal: art. 21 da Lei n.º 11.445/2007; NR n.º 7/2024 da ANA (Resolução ANA n.º 187/2024)
+  depende_de: Texto integral da LC Municipal n.º 1.013/2025 e ato de instalação da ARDPV (diretoria, quadro, orçamento).
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G3-086
+  tema: REGULACAO_FISCALIZACAO
+  ids_origem:
+  - E3-020
+  - E7-037
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: omissao
+  descricao_breve: Adesão facultativa às normas de referência da ANA; normas de regulação locais para RSU não identificadas
+  dispositivo_editalicio: Contrato cl. 4.5 e 4.6 (PDF p. 13); P7 II.5 (PDF p. 18), III.1.4 (p. 26) e V.6 (p. 41)
+  transcricao: 'Contrato 4.5: ''poderá se valer, preferencialmente, das normas de referência editadas pela Agência Nacional de Águas e Saneamento Básico'''
+  comentario: A redação facultativa não assegura aderência às normas de referência da ANA (inclusive a NR 7/2024 para RSU), cuja observância condiciona o acesso a recursos federais e a financiamentos com
+    recursos da União; o P7 aponta BNDES e Caixa como financiadores. O P7 não identifica normas de regulação editadas pela ARDPV para RSU nem confronta Edital e Contrato com as normas de referência. A existência
+    de normas de regulação é condição de validade do contrato.
+  dispositivo_legal: art. 11, inciso III e § 2.º, art. 23 e art. 50 da Lei n.º 11.445/2007; art. 4.º-A da Lei n.º 9.984/2000
+  depende_de: Adesão formal da ARDPV às normas de referência da ANA e existência de normas de regulação municipais para RSU.
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G3-087
+  tema: REGULACAO_FISCALIZACAO
+  ids_origem:
+  - E7-039
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: omissao
+  descricao_breve: Regionalização da prestação de RSU em Rondônia mencionada mas não analisada
+  dispositivo_editalicio: P7 II.2 (PDF p. 15); P0 Data Request jurídico (PDF p. 25)
+  transcricao: 'P7: ''com destaque para a exigência de prestação regionalizada'''
+  comentario: O P7 registra a exigência de prestação regionalizada, mas não verifica se o Estado de Rondônia instituiu microrregião ou unidade regional de RSU que inclua Porto Velho, se houve adesão do
+    Município, nem se isso afeta a titularidade e a competência para licitar isoladamente. O P0 pediu convênios, consórcios e protocolos com Estado e municípios, sem resultado relatado. A estruturação regionalizada
+    também condiciona o acesso a recursos federais.
+  dispositivo_legal: art. 3.º, inciso VI, art. 8.º, incisos I e II, e art. 50 da Lei n.º 11.445/2007
+  depende_de: Legislação estadual de Rondônia sobre regionalização do saneamento/RSU e eventual ato de adesão do Município.
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G3-088
+  tema: REGULACAO_FISCALIZACAO
+  ids_origem:
+  - E3-065
+  tipo_achado: IRREGULAR
+  categoria: ilegalidade
+  descricao_breve: Reequilíbrio extraordinário instruído e decidido pelo Poder Concedente, sem a entidade reguladora
+  dispositivo_editalicio: Contrato cl. 10.1.10 (PDF p. 22), 20.1.1 (p. 46) e 20.4 a 20.6 (p. 48) × 17.1 (p. 41) e 4.7.1 (p. 13-14)
+  transcricao: 'Contrato 20.4: ''o Poder Concedente, com o apoio do Verificador Independente, examinará as informações fornecidas pela Concessionária e decidirá, no prazo de até 30 (trinta) dias''; Contrato
+    20.6: ''deverá adotar, a seu exclusivo critério'''
+  comentario: A ARDPV não participa do procedimento de reequilíbrio extraordinário, que é instruído e decidido pela parte contratante, com apoio do VI contratado pela concessionária, e cuja forma de recomposição
+    é escolhida a critério exclusivo do Poder Concedente; a revisão ordinária, ao contrário, cabe à Entidade Reguladora (17.1). Revisões e seus procedimentos são matéria de regulação no saneamento. Sobre
+    metodologia, taxa de desconto e prazos do reequilíbrio, ver E3-066, E3-067 e E3-068 (REMUNERACAO_REAJUSTE).
+  dispositivo_legal: art. 22, inciso IV, art. 23, inciso IV, e art. 38 da Lei n.º 11.445/2007
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G3-089
+  tema: REGULACAO_FISCALIZACAO
+  ids_origem:
+  - E7-026
+  - E3-084
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: ilegalidade
+  descricao_breve: TRCF sobre receita bruta, custeada pela própria contraprestação, e divergência sobre a faculdade de não incidência
+  dispositivo_editalicio: Contrato cl. 13.1.1 (PDF p. 34-35); P6 p. 44; P7 V.11 (PDF p. 44) e XI.3.3 (p. 68)
+  transcricao: 'Contrato 13.1.1: ''no montante de 1,5% (um e meio por cento) da receita operacional bruta, equivalente ao valor da Contraprestação Mensal Efetiva e às receitas acessórias, nos termos do
+    art. 53 da referida Lei Complementar''; P7: ''tendo base de cálculo, contribuinte e alíquota regularmente definidos por lei complementar'''
+  comentario: A TRCF, taxa de poder de polícia, incide sobre a receita operacional bruta, base típica de imposto. O P6 informa que a LC 1.013/2025 (art. 51, §§ 1.º e 2.º) faculta a não incidência em concessão
+    administrativa, mas mantém a taxa e a repassa integralmente à contraprestação (o Município paga a si mesmo via PPP, ~R$ 1,17 mi/ano); o Contrato e o P7 citam o art. 53 e não mencionam a faculdade. A
+    dedução da TRCF na Conta Garantia é tratada em G3-008.
+  dispositivo_legal: art. 145, inciso II e § 2.º, da CF/1988; art. 77, parágrafo único, da Lei n.º 5.172/1966 (CTN); arts. 51 e 53 da LC Municipal n.º 1.013/2025
+  depende_de: Texto consolidado da LC Municipal n.º 1.013/2025 (arts. 51 e 53).
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G3-090
+  tema: REGULACAO_FISCALIZACAO
+  ids_origem:
+  - E5-014
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: omissao
+  descricao_breve: Descumprimentos do operador atual documentados no diagnóstico sem registro de providência fiscalizatória
+  dispositivo_editalicio: P1 p. 80, 88, 90-91 e 98; P4 Tab. 1 (p. 10) e Tab. 5 (p. 15)
+  transcricao: 'P1: ''está enviando os resíduos de saúde para um incinerador particular'''
+  comentario: O P1 e o P4 registram que a ECOPVH não opera o incinerador previsto no Contrato 028/PGM/2025, entrega recicláveis misturados a orgânicos à CATANORTE, mistura RSS com RSU em São Carlos e não
+    controla manifesto e pesagem de RSS nos distritos. Os estudos não informam medidas de fiscalização, o que afeta a linha de base e o estado dos bens na transição. O fato de os estudos não as mencionarem
+    não demonstra sua inexistência.
+  dispositivo_legal: art. 117 da Lei n.º 14.133/2021; Resolução CONAMA n.º 358/2005; RDC ANVISA n.º 222/2018
+  depende_de: Registros de fiscalização do Contrato 028/PGM/2025 (notificações, sanções, glosas).
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G3-091
+  tema: REGULACAO_FISCALIZACAO
+  ids_origem:
+  - E5-068
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: Meta 'zero RSS misturado desde M1' sem fase de transição, diante do estado diagnosticado
+  dispositivo_editalicio: P4 PA-06 (Tab. 9, p. 26); P1 p. 74, 75, 80 e 97-98; Anexo III PA-06; Contrato cl. 10.3.10.4 (PDF p. 29)
+  transcricao: 'P4 PA-06 (célula de tabela): ''zero ocorrências de RSS misturado com RSU a partir de M1'''
+  comentario: O diagnóstico documenta bombonas de RSS expostas e acessíveis (Fortaleza do Abunã, Vista Alegre, São Carlos), mistura de RSS com RSU em São Carlos e ausência de controle de manifesto e pesagem.
+    O P4 fixa meta absoluta desde o primeiro mês, sem prazo de adequação; os mecanismos de consequência (IQD, penalidades) precisam ser compatíveis com o ponto de partida.
+  dispositivo_legal: art. 5.º, inciso VII, da Lei n.º 11.079/2004; RDC ANVISA n.º 222/2018
+  depende_de: Se a meta do PA-06 tem consequência contratual (IQD ou penalidade) a partir do M1.
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G3-092
+  tema: REGULACAO_FISCALIZACAO
+  ids_origem:
+  - E5-088
+  tipo_achado: IRREGULAR
+  categoria: erro_material
+  descricao_breve: Prazo de universalização de 2033 aplicado à coleta de RSU sem base legal
+  dispositivo_editalicio: P4 Tabela 5 (PDF p. 15) e V.3 (p. 24)
+  transcricao: 'P4: ''Prazo de universalização: 2033'''
+  comentario: A meta de universalização até 31/12/2033 da Lei 11.445/2007 refere-se ao abastecimento de água potável e ao esgotamento sanitário. Não localizei fundamento normativo específico que fixe 2033
+    para a coleta de RSU; além disso, a meta de 100% de coleta seletiva vai a 2040-2042 nos próprios estudos.
+  dispositivo_legal: art. 11-B da Lei n.º 11.445/2007 (abrangência restrita a água e esgoto)
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G3-093
+  tema: REGULACAO_FISCALIZACAO
+  ids_origem:
+  - E2-098
+  - E3-086
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: 'Seleção do VI contraditória: indicação pelo Poder Concedente (Anexo VII item 2) × escolha pela concessionária entre credenciados'
+  dispositivo_editalicio: Anexo VII itens 2, 3 e 6 a 6.3 (PDF p. 3-5) × Contrato cl. 41.4 a 41.9 (PDF p. 78-79)
+  transcricao: 'Anexo VII: ''o PODER CONCEDENTE indicará a empresa''; Contrato 41.4: ''O Verificador Independente será selecionado pela Concessionária dentre aqueles previamente credenciados'''
+  comentario: O item 2 do Anexo VII dá ao Poder Concedente a indicação da empresa em 30 dias da Ordem de Início; os itens 6 a 6.3 e o Contrato (41.4-41.9) dão à concessionária a escolha por técnica e preço,
+    com no mínimo três convidados de lista formada em credenciamento público regido por 'instrumento próprio', ainda não editado, e a remuneração pela concessionária.
+  dispositivo_legal: art. 5.º, inciso VII, da Lei n.º 11.079/2004; art. 5.º da Lei n.º 14.133/2021
+  flag_tecnico: false
+  flag_reserva: true
+  reserva_tipo: RESERVA
+  nota_reserva: A escolha do VI pela concessionária é favorável a ela; impugnar a contradição pode levar à prevalência da indicação pelo PC.
+- id_tmp: G3-094
+  tema: REGULACAO_FISCALIZACAO
+  ids_origem:
+  - E3-087
+  - E2-098
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: Sem VI contratado não há desconto por IQD; credenciamento ainda inexistente e sem consequência para atraso
+  dispositivo_editalicio: Contrato cl. 41.3 e 41.5 (PDF p. 78) e 15.4 (p. 37); Anexo VII itens 1 a 6 (PDF p. 3-5)
+  transcricao: 'Contrato 41.3: ''O Verificador Independente constitui obrigação precedente para o início da apuração do IQD com efeitos econômico-financeiros'''
+  comentario: O credenciamento de verificadores depende de edital próprio (41.5) e a contratação cabe à concessionária. Enquanto o VI não estiver operacional, a contraprestação é paga sem efeito de desempenho,
+    e o Contrato não prevê consequência para atraso imputável à concessionária ou ao Poder Concedente.
+  dispositivo_legal: art. 5.º, inciso VII, art. 6.º, § 1.º, e art. 7.º da Lei n.º 11.079/2004
+  depende_de: Cronograma do credenciamento de verificadores pelo Poder Concedente.
+  flag_tecnico: false
+  flag_reserva: true
+  reserva_tipo: RESERVA
+  nota_reserva: O atraso na contratação do VI posterga os descontos de desempenho, o que favorece a concessionária.
+- id_tmp: G3-095
+  tema: REGULACAO_FISCALIZACAO
+  ids_origem:
+  - E2-099
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: VI contratado e pago pela concessionária, que é a parte avaliada
+  dispositivo_editalicio: Anexo VII itens 1, 5 e 7 a 11 (PDF p. 3-6); Contrato cl. 41.9 (p. 79) e 41.14.1, b e e (p. 80)
+  transcricao: 'Anexo VII/Contrato 41.9: ''A remuneração do VERIFICADOR INDEPENDENTE será de responsabilidade da CONCESSIONÁRIA.'''
+  comentario: 'A concessionária contrata e remunera o VI, que certifica seu desempenho e emite pareceres para o Poder Concedente em pleitos de reequilíbrio, aceite de obras e vida útil do aterro. Há salvaguardas:
+    credenciamento prévio, vedações de vínculo (item 9), declarações (item 10), substituição pelo Poder Concedente (item 11) e anuência como interveniente (item 7). A suficiência dessas salvaguardas depende
+    do instrumento de credenciamento ainda não editado. Não localizei fundamento normativo que vede a remuneração do VI pela concessionária. Sobre o custo do VI ausente do OPEX, ver E2-100/E4-032 (MODELAGEM_ECONOMICA).'
+  dispositivo_legal: art. 21 da Lei n.º 11.445/2007 (independência na regulação — referência); art. 5.º, inciso VII, da Lei n.º 11.079/2004
+  depende_de: Instrumento de credenciamento dos verificadores (requisitos de independência e regras de substituição).
+  flag_tecnico: false
+  flag_reserva: true
+  reserva_tipo: RESERVA
+  nota_reserva: A contratação e o pagamento do VI pela concessionária lhe são favoráveis; questionar a independência pode transferir a contratação ao PC.
+- id_tmp: G3-096
+  tema: REGULACAO_FISCALIZACAO
+  ids_origem:
+  - E2-097
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: Escopo, produtos, SLAs, prazo e remuneração estimada do VI não definidos; TR remete a anexo que não os contém
+  dispositivo_editalicio: Anexo VII itens 6.2 (PDF p. 4-5) e 12 (p. 6); Contrato cl. 41.1 a 41.14.1 (PDF p. 78-80)
+  transcricao: 'Anexo VII 6.2: ''observados o escopo mínimo, prazos, produtos, SLAs e requisitos de integridade previstos no ANEXO III – INDICADORES DE DESEMPENHO E METAS DE ATENDIMENTO'''
+  comentario: O TR remete escopo, produtos e SLAs a um anexo que não os contém (o Anexo III é de Diretrizes Ambientais e o Anexo D não trata do VI). Não fixa a duração do contrato do VI, a periodicidade
+    de relatórios além do anual nem a remuneração estimada. As atribuições estão espalhadas no Contrato (cl. 41) e incluem aceite de obras, vida útil do aterro, excedente do GAC e reequilíbrio. Sobre o
+    erro de remissão ao 'Anexo III', ver E2-096 (QUESTOES_FORMAIS).
+  dispositivo_legal: art. 5.º, inciso VII, da Lei n.º 11.079/2004; art. 6.º, inciso XXIII, da Lei n.º 14.133/2021 (aplicação subsidiária)
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G3-097
+  tema: REGULACAO_FISCALIZACAO
+  ids_origem:
+  - E2-101
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: Qualificação do VI sem capacidade técnica em engenharia sanitária e ambiental
+  dispositivo_editalicio: Anexo VII item 6.1.2 (PDF p. 4); Contrato cl. 8.6.1.2.2, 8.10, 10.13.2 e 10.13.5.2
+  transcricao: 'Anexo VII 6.1.2: ''Gerenciamento de projetos ... PMBok'' (requisitos de credenciamento)'
+  comentario: Os requisitos de credenciamento pedem experiência em gerenciamento de projetos (PMBok), desenho de processos (BPMN), verificação de indicadores e segurança de TI. Não pedem engenharia sanitária
+    e ambiental, gerenciamento de áreas contaminadas, topografia ou balanço de massa, embora o VI deva opinar sobre o excedente do GAC (8.6.1.2.2), a vida útil do aterro (10.13.5.2), a aquisição de aterro
+    (10.13.2) e rotas tecnológicas alternativas (8.10).
+  dispositivo_legal: art. 5.º, inciso VII, da Lei n.º 11.079/2004; art. 67 da Lei n.º 14.133/2021 (referência subsidiária)
+  flag_tecnico: true
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G3-098
+  tema: REGULACAO_FISCALIZACAO
+  ids_origem:
+  - E3-088
+  tipo_achado: IRREGULAR
+  categoria: erro_material
+  descricao_breve: Demonstrações financeiras auditadas sujeitas a 'prévia aprovação' do VI
+  dispositivo_editalicio: Contrato cl. 11.2 (PDF p. 33) × 41.14 (p. 80)
+  transcricao: 'Contrato 11.2: ''com prévia aprovação do Verificador Independente'''
+  comentario: O VI tem escopo técnico de verificação de desempenho (41.14); aprovar demonstrações financeiras anuais auditadas por auditoria independente não é atribuição sua, e não há critério para essa
+    aprovação.
+  dispositivo_legal: art. 9.º, § 3.º, da Lei n.º 11.079/2004; art. 23, incisos XIII e XIV, da Lei n.º 8.987/1995
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G3-099
+  tema: REGULACAO_FISCALIZACAO
+  ids_origem:
+  - E2-102
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: contradicao
+  descricao_breve: VI com papel decisório (aprovação do excedente do GAC, pareceres-condição) e ARDPV tratada como meio do Poder Concedente
+  dispositivo_editalicio: Anexo VII itens 13 e 14 (PDF p. 6); Contrato cl. 41.2 (p. 78), 8.6.1.2.2 (p. 18-19), 8.10 (p. 20), 10.9 e 10.13.2 (p. 30-31)
+  transcricao: 'Anexo VII 13: ''O PODER CONCEDENTE, por intermédio da Agência Reguladora e de Desenvolvimento de Porto Velho – ARDPV, poderá concordar integralmente com a verificação'''
+  comentario: O Contrato faz do parecer do VI requisito de decisões da Entidade Reguladora (8.10, 10.9, 10.13.2) e exige aprovação conjunta do órgão ambiental e do VI para apurar o excedente do GAC (8.6.1.2.2),
+    o que dá ao VI papel decisório; a cl. 41.2 afirma que o VI não substitui o regulador. O Anexo VII qualifica a ARDPV como meio de atuação do Poder Concedente. Ambos tensionam a independência e as funções
+    próprias do regulador.
+  dispositivo_legal: arts. 21, 22 e 23 da Lei n.º 11.445/2007; NR n.º 7/2024 da ANA (Resolução ANA n.º 187/2024)
+  depende_de: Rol de funções indelegáveis da entidade reguladora na NR ANA n.º 7/2024 (conferir na Fase 2).
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G3-100
+  tema: REGULACAO_FISCALIZACAO
+  ids_origem:
+  - E2-081
+  - E3-096
+  tipo_achado: IRREGULAR
+  categoria: ilegalidade
+  descricao_breve: Multas sem valor ou base de cálculo, remetidas a regulamento ou à ARDPV após o contrato (incl. Cláusulas Sociais)
+  dispositivo_editalicio: Anexo III Tabela 17, CS-01 a CS-04 (PDF p. 27-28); Contrato cl. 9.6 (PDF p. 21), 21.1.5 (p. 50), 26.3, caput (p. 56) e 26.4 (p. 57)
+  transcricao: 'Contrato 21.1.5: ''o Poder Concedente aplicará multa, conforme regulamentação''; Contrato 26.3: ''Sem prejuízo das demais sanções de multa ou parâmetros estabelecidos em regulamento próprio
+    pela Entidade Reguladora''; Anexo III Tabela 17 (célula de tabela): retenção ''a ser definida pela ARDPV'''
+  comentario: As multas por falta de renovação da garantia e dos seguros não têm valor (9.6, 21.1.5), e a cl. 26.3 admite multas adicionais por regulamento da ARDPV, fora do teto do item 26.4. As quatro
+    Cláusulas Sociais do Anexo III remetem à ARDPV a fixação posterior da penalidade (CS-01, CS-02), da retenção (CS-03) e do desconto na contraprestação (CS-04); o desconto da CS-04 pode sobrepor-se ao
+    IQ4 do IQS. As penalidades, valores e bases de cálculo devem constar do contrato, de forma proporcional.
+  dispositivo_legal: art. 92, inciso XIV, da Lei n.º 14.133/2021; art. 23, inciso VIII, da Lei n.º 8.987/1995 c/c art. 3.º da Lei n.º 11.079/2004; art. 5.º, inciso II, da Lei n.º 11.079/2004
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G3-101
+  tema: REGULACAO_FISCALIZACAO
+  ids_origem:
+  - E3-099
+  - E3-152
+  - E7-063
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: 'Tipificação genérica: sem multa específica por atraso de implantação; violações de dados e ''Plano de Trabalho'' indefinido no tipo residual'
+  dispositivo_editalicio: Contrato cl. 26.3, i a ix (PDF p. 56-57), 26.9 a 26.12 (p. 58-59) e Cláusula 7ª; Anexo IV cl. 12.1 a 12.3 (PDF p. 9); P7 VII.10 (PDF p. 53)
+  transcricao: 'Contrato 26.3, i: ''Por violação ao estabelecido no Plano de Trabalho apresentado pela Concessionária''; Anexo IV 12.1: ''facultam ao PODER CONCEDENTE a aplicação de penalidades à CONCESSIONÁRIA,
+    previstas no CONTRATO'''
+  comentario: Não há penalidade específica para atraso nos marcos de implantação (CTR, aterro, incinerador, Jirau, remediação); o enquadramento cai no tipo residual (26.3, vi), com multa de 0,5% a 30% do
+    valor anual. O tipo (i), com faixa de 1% a 20%, pune violação a 'Plano de Trabalho' que o Contrato não define nem exige. As violações do acordo de dados (Anexo IV) também não têm tipo próprio nem gradação
+    por gravidade do incidente. A amplitude das faixas depende da dosimetria das cl. 26.9-26.12. A faixa da cl. 26.3, viii, entre colchetes é tratada em E3-077 (QUESTOES_FORMAIS).
+  dispositivo_legal: art. 23, inciso VIII, da Lei n.º 8.987/1995 c/c art. 3.º da Lei n.º 11.079/2004; art. 5.º, inciso II, da Lei n.º 11.079/2004; art. 92, inciso XIV, e art. 156, § 1.º, da Lei n.º 14.133/2021
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G3-102
+  tema: REGULACAO_FISCALIZACAO
+  ids_origem:
+  - E3-103
+  - E7-063
+  tipo_achado: IRREGULAR
+  categoria: ilegalidade
+  descricao_breve: Sanções com terminologia e hipóteses da Lei 8.666 ('suspensão temporária') em vez da Lei 14.133
+  dispositivo_editalicio: Contrato cl. 26.1, iii (PDF p. 55), 26.19 e 26.20 (p. 60); P7 VII.10 (PDF p. 53) e XI.3.7 (p. 70)
+  transcricao: 'Contrato 26.1, iii: ''suspensão temporária de participação em licitação e impedimento de contratar com o Município'''
+  comentario: A Lei 14.133 prevê impedimento de licitar e contratar (até 3 anos) e declaração de inidoneidade (3 a 6 anos), não 'suspensão temporária'. As hipóteses da cl. 26.19 (fraude fiscal, atos para
+    frustrar a licitação) correspondem a infrações que a lei sanciona com inidoneidade, não com impedimento.
+  dispositivo_legal: art. 155 e art. 156, incisos III e IV e §§ 4.º e 5.º, da Lei n.º 14.133/2021
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G3-103
+  tema: REGULACAO_FISCALIZACAO
+  ids_origem:
+  - E3-102
+  tipo_achado: IRREGULAR
+  categoria: ilegalidade
+  descricao_breve: Prazo de recurso de 10 dias corridos, remetido à LC 745/2018 e inferior ao da Lei 14.133
+  dispositivo_editalicio: Contrato cl. 26.22, 26.25 e 26.27 (PDF p. 60-61) e 42.5
+  transcricao: 'Contrato 26.27: ''caberá recurso, no prazo de 10 (dez) dias contados do recebimento da intimação'''
+  comentario: O recurso contra sanção é de 10 dias corridos, enquanto a lei geral prevê 15 dias úteis para recurso (advertência, multa e impedimento) e 15 dias úteis para defesa. A Lei 14.133 aplica-se
+    subsidiariamente às concessões e PPPs, e a LC municipal 745/2018 é anterior a ela.
+  dispositivo_legal: arts. 157, 158, 166 e 186 da Lei n.º 14.133/2021
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G3-104
+  tema: REGULACAO_FISCALIZACAO
+  ids_origem:
+  - E3-100
+  tipo_achado: IRREGULAR
+  categoria: erro_material
+  descricao_breve: Atenuantes e agravantes de 'tempo de atendimento' importados de outro setor
+  dispositivo_editalicio: Contrato cl. 26.10, v a vii, e 26.11, v a vii (PDF p. 58-59)
+  transcricao: 'Contrato 26.10: ''tempo de atendimento em valores absolutos'''
+  comentario: Os critérios de dosimetria baseados em 'tempo de atendimento em valores absolutos/médios' não correspondem a indicadores do Anexo D para RSU, o que torna inaplicável parte das regras de atenuação
+    e agravação.
+  dispositivo_legal: art. 156, § 1.º, da Lei n.º 14.133/2021
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G3-105
+  tema: REGULACAO_FISCALIZACAO
+  ids_origem:
+  - E3-101
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: Teto anual de multas de 50% da receita anual, cumulável com desconto de IQD e multas fora do teto
+  dispositivo_editalicio: Contrato cl. 26.4 (PDF p. 57) e 15.5; P6 p. 6 (ICSD 1,30x)
+  transcricao: 'Contrato 26.4: ''não poderá exceder 50% da Contraprestação Mensal Máxima multiplicada por doze'''
+  comentario: O teto (~R$ 39 mi/ano) pode ser somado ao desconto de IQD (até 10%) e às multas fora do item 26.3. A proporcionalidade frente ao fluxo de caixa (ICSD mínimo de 1,30x no P6) não é demonstrada.
+    Sobre a cumulação de desconto e multa pelo mesmo fato, ver E3-056 (REMUNERACAO_REAJUSTE).
+  dispositivo_legal: art. 5.º, inciso II, da Lei n.º 11.079/2004; art. 156, § 1.º, da Lei n.º 14.133/2021
+  depende_de: Demonstração da proporcionalidade do teto frente ao fluxo de caixa e ao serviço da dívida.
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G3-106
+  tema: REGULACAO_FISCALIZACAO
+  ids_origem:
+  - E3-085
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: Períodos de cura divergentes para a mesma falha (30 dias corridos × 5 dias úteis)
+  dispositivo_editalicio: Contrato cl. 13.4.1 (PDF p. 35), 13.5.10 (p. 36) e 26.29 (p. 61)
+  transcricao: 'Contrato 13.4.1: ''nunca inferior a 30 (trinta) dias corridos''; Contrato 13.5.10: ''nunca inferior a 5 (cinco) dias úteis'''
+  comentario: O Contrato fixa período de cura mínimo de 30 dias antes do auto de infração (13.4.1 e 26.29) e, no auto de infração, prazo mínimo de 5 dias úteis com isenção de sanção se houver regularização
+    (13.5.10). A sequência e a relação entre os prazos não estão claras.
+  dispositivo_legal: art. 5.º, inciso II, da Lei n.º 11.079/2004; art. 23, inciso VIII, da Lei n.º 8.987/1995
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G3-107
+  tema: REGULACAO_FISCALIZACAO
+  ids_origem:
+  - E3-148
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: Concessionária qualificada só como operadora de dados, embora decida finalidades e meios em vários tratamentos
+  dispositivo_editalicio: Anexo IV cl. 2.1, 3.6 e 10.1 (PDF p. 4-5 e 8); Contrato cl. 10.2.36 e 14.1.5
+  transcricao: 'Anexo IV 2.1: ''figurando a CONCESSIONÁRIA como parte OPERADORA'''
+  comentario: A concessionária decide sobre dados de empregados, cooperados, SAC, telemetria, câmeras e MTR em sua operação própria, atuando como controladora nesses tratamentos; o acordo a qualifica só
+    como operadora e lhe veda atender titulares (10.1). A cl. 3.6 a torna 'única responsável' por dados anonimizados, que não são dados pessoais.
+  dispositivo_legal: art. 5.º, incisos VI, VII e IX, art. 12, art. 18 e art. 39 da Lei n.º 13.709/2018
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G3-108
+  tema: REGULACAO_FISCALIZACAO
+  ids_origem:
+  - E3-149
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: Acordo de dados não descreve categorias, titulares, finalidades, bases legais e prazos de retenção
+  dispositivo_editalicio: Anexo IV cl. 4.1 a 4.3 (PDF p. 5); Contrato cl. 10.2.33 e 8.8, iii
+  transcricao: 'Anexo IV 4.1: ''tão somente em consonância com o previsto no presente instrumento, no CONTRATO e seus anexos'''
+  comentario: 'O escopo do tratamento é genérico: não há inventário de categorias de dados (inclusive sensíveis, como saúde em RSS e dados socioeconômicos de catadores), titulares, finalidades, hipóteses
+    legais do tratamento pelo poder público nem prazos de retenção. Faltam as instruções que delimitam a atuação do operador.'
+  dispositivo_legal: arts. 7.º, 11, 23, 37 e 39 da Lei n.º 13.709/2018
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G3-109
+  tema: REGULACAO_FISCALIZACAO
+  ids_origem:
+  - E3-150
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: Restituição e eliminação de dados a qualquer tempo, em conflito com deveres legais e contratuais de guarda
+  dispositivo_editalicio: Anexo IV cl. 3.4 e 11.1 a 11.3 (PDF p. 5 e 8); Contrato cl. 41.16, 10.2.36 e 12.5
+  transcricao: 'Anexo IV 3.4: ''A CONCESSIONÁRIA não está autorizada a realizar cópias dos DADOS'''
+  comentario: A devolução a pedido do Poder Concedente a qualquer tempo e a vedação de cópias conflitam com a guarda obrigatória de registros trabalhistas, MTR e bases de IQD auditáveis (Contrato 41.16,
+    10.2.36, 12.5) e com a exceção de cumprimento de obrigação legal prevista no próprio acordo (4.1).
+  dispositivo_legal: art. 16, inciso I, da Lei n.º 13.709/2018
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G3-110
+  tema: REGULACAO_FISCALIZACAO
+  ids_origem:
+  - E3-151
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: Vedação de compartilhamento de dados sem ressalva para VI, ARDPV, agente de pagamento e financiadores
+  dispositivo_editalicio: Anexo IV cl. 5.1 e 6.1 (PDF p. 5-6) × Contrato cl. 41.8, iii, 41.16 e 23.4.1
+  transcricao: 'Anexo IV 5.1: ''obrigando-se a não os repassar, comercializar, revelar a terceiros, pessoas jurídicas do mesmo grupo econômico'''
+  comentario: O Contrato exige que a concessionária dê ao VI, por ela contratado, acesso a todas as bases, e que dados de medição circulem entre ARDPV, agente e mesa de conflitos; o acordo veda repasse
+    a terceiros sem ressalvar esses fluxos e usa o termo 'CONTRATADA', não definido.
+  dispositivo_legal: arts. 26 e 39 da Lei n.º 13.709/2018
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G3-111
+  tema: REGULACAO_FISCALIZACAO
+  ids_origem:
+  - E3-133
+  - E7-064
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: Arbitragem facultativa ('poderão') e sem câmara designada, embora outras cláusulas pressuponham o juízo arbitral
+  dispositivo_editalicio: Contrato cl. 40.1 e 40.2 (PDF p. 77), 39.7.3 (p. 76), 15.8.8 (p. 40), 32.12 (p. 70) e 43; P7 VIII.9 e VIII.11 (PDF p. 59-60)
+  transcricao: 'Contrato 40.1: ''poderão ser dirimidas por arbitragem''; Contrato 40.2: ''administrada por câmara de reconhecida idoneidade, com sede da arbitragem em Porto Velho/RO'''
+  comentario: O verbo 'poderão' não estabelece cláusula compromissória cheia, e nenhuma câmara nem critério de escolha é indicado. A cl. 39.7.3 remete à 'instituição prevista para a arbitragem' a nomeação
+    do presidente da Mesa de Resolução de Conflitos, e as cl. 15.8.8 e 32.12 pressupõem o juízo arbitral para a suspensão e a rescisão. A instauração pode exigir execução judicial da cláusula e gerar disputa
+    de foro (cl. 43).
+  dispositivo_legal: arts. 4.º, 5.º e 7.º da Lei n.º 9.307/1996; art. 11, inciso III, da Lei n.º 11.079/2004; arts. 151 e 154 da Lei n.º 14.133/2021
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G3-112
+  tema: REGULACAO_FISCALIZACAO
+  ids_origem:
+  - E3-135
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: Escopo da Mesa de Resolução de Conflitos inclui e exclui o cálculo de penalidades
+  dispositivo_editalicio: Contrato cl. 39.2, d, e 39.2.1, a (PDF p. 75) × 40.3.1 (p. 77)
+  transcricao: 'Contrato 39.2, d: ''Penalidades contratuais e, se for o caso, seu cálculo''; Contrato 39.2.1, a: ''sanções administrativas tipicamente punitivas'''
+  comentario: A mesma cláusula inclui as penalidades e seu cálculo na competência da Mesa e exclui a aplicação e a dosimetria das sanções; a arbitragem exclui o poder sancionatório em sentido estrito, mas
+    admite seus reflexos patrimoniais (40.3.1).
+  dispositivo_legal: art. 151, parágrafo único, da Lei n.º 14.133/2021; art. 1.º, § 1.º, da Lei n.º 9.307/1996
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G3-113
+  tema: REGULACAO_FISCALIZACAO
+  ids_origem:
+  - E3-136
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: Dispute board definido como comitê permanente, regulado como Mesa ad hoc, sem previsão de custeio público
+  dispositivo_editalicio: Contrato cl. 1.3.23 (PDF p. 8) × 39.1, 39.5 e 39.7 (p. 75-76)
+  transcricao: 'Contrato 39.5: ''com o dever de arcar com todos os seus custos'''
+  comentario: A definição (1.3.23) descreve comitê técnico independente e permanente, que acompanha a execução; a Cláusula 39 cria uma 'Mesa' constituída para cada controvérsia. Os custos são adiantados
+    por quem instaura e pagos pelo vencido, sem previsão orçamentária para o Município.
+  dispositivo_legal: arts. 151 e 154 da Lei n.º 14.133/2021
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G3-114
+  tema: REGULACAO_FISCALIZACAO
+  ids_origem:
+  - E3-137
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: Comitê de Interface (CIC) consultivo emite 'ata decisória'; 'Perícia Conjunta' citada e não regulada
+  dispositivo_editalicio: Contrato cl. 36.4 a 36.4.5 (PDF p. 73), 37.3 e 37.4 (p. 74), 39.8 e 39.10
+  transcricao: 'Contrato 36.4.2: ''O CIC tem caráter estritamente informativo e consultivo''; Contrato 37.3: ''para tentativa de composição e emissão de ata decisória de controvérsia'''
+  comentario: O Comitê de Interface do Contrato é definido como estritamente informativo e consultivo, sem competência deliberativa (36.4.2), mas a cl. 37.3 lhe atribui a emissão de 'ata decisória de controvérsia'.
+    A 'Perícia Conjunta' aparece em três cláusulas como mecanismo autônomo, sem rito, nomeação ou custeio.
+  dispositivo_legal: art. 151 da Lei n.º 14.133/2021; art. 23, inciso XV, da Lei n.º 8.987/1995 c/c art. 3.º da Lei n.º 11.079/2004 — conferir
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G3-115
+  tema: RISCOS_GARANTIAS
+  ids_origem:
+  - E4-087
+  - E4-088
+  tipo_achado: CONFORME
+  categoria: omissao
+  descricao_breve: Matriz de Riscos preenchida e coerente na pontuação; inadimplência, fato do príncipe (regra geral) e consulta prévia alocados ao PC
+  dispositivo_editalicio: Matriz de Riscos (estrutura geral), EF-02 (p. 29-30), SA-06/SA-07 (p. 21-22), SA-10 (p. 24) e RJ-03 (p. 27)
+  transcricao: 'Matriz: colunas ''Probabilidade'', ''Impacto'', ''Score (P×I)'', ''Alocação'', ''Justificativa'', ''Mitigação'', ''Indicadores'' e ''Consequências'' (cabeçalho da tabela)'
+  comentario: 'A Matriz traz 45 riscos com causa, efeito, P×I, alocação, justificativa, mitigação, indicadores e consequência, com score aritmeticamente coerente (ex.: TO-04 = 5×4 = 20). Aloca ao Poder
+    Concedente a inadimplência da contraprestação, o fato do príncipe normativo dos três entes (com a ressalva de G3-060) e embargos por falha de consulta prévia ou passivo preexistente, com gatilhos objetivos.'
+  dispositivo_legal: art. 5.º, incisos III e VI, da Lei n.º 11.079/2004
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G3-116
+  tema: RISCOS_GARANTIAS
+  ids_origem:
+  - E3-093
+  - E7-028
+  - E4-090
+  - E3-114
+  - E3-118
+  tipo_achado: CONFORME
+  categoria: omissao
+  descricao_breve: 'Garantias: 10% de garantia de execução, Conta Garantia de 2 contraprestações, mora do PC e direitos emergentes'
+  dispositivo_editalicio: Contrato cl. 9.3 e 9.5 (PDF p. 21), 15.8 a 15.8.4 (p. 39-40) e 22.1 (p. 51); Edital 6.3, iii (p. 16); P6 VI.10 (p. 60); P7 V.1 e V.7 (PDF p. 39 e 42)
+  transcricao: 'Contrato 22.1: ''correspondente a 10% (dez por cento) do valor anual do contrato'''
+  comentario: O percentual de 10% está no limite legal admitido mediante justificativa de complexidade e risco, apresentada no P7 (base indefinida tratada em G3-066). A Conta Garantia de 2 contraprestações
+    (2 × R$ 6.505.697,97 = R$ 13.011.395,94) é dimensionada de forma coerente entre P6, Edital e Anexo VI (base e fonte tratadas em G3-007, G3-004 e G3-001). O regime de mora do Poder Concedente prevê atualização,
+    juros e multa, e a garantia dos direitos emergentes aos financiadores depende de autorização do Poder Concedente.
+  dispositivo_legal: art. 98, parágrafo único, da Lei n.º 14.133/2021; art. 5.º, incisos VI e VIII, e art. 8.º da Lei n.º 11.079/2004; art. 28 da Lei n.º 8.987/1995
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G3-117
+  tema: RISCOS_GARANTIAS
+  ids_origem:
+  - E3-123
+  - E3-125
+  - E3-120
+  - E3-030
+  tipo_achado: CONFORME
+  categoria: omissao
+  descricao_breve: Encampação com lei autorizativa e indenização prévia; ritos da caducidade e da intervenção; vistoria de bens reversíveis
+  dispositivo_editalicio: Contrato cl. 5.1.3.1 (PDF p. 14-15), 27.2 e 27.2.1 (p. 62), 30.1 e 30.3 (p. 66-67) e 31.3 a 31.8 (p. 67-68)
+  transcricao: 'Contrato 30.1: ''mediante lei autorizativa específica e prévio pagamento de indenização em dinheiro'''
+  comentario: Os requisitos legais da encampação (lei autorizativa e indenização prévia), o rito da caducidade (notificação prévia, processo, prazo de cura não inferior a 30 dias) e da intervenção (instauração
+    em 30 dias e conclusão em 180 dias) reproduzem a lei. Há vistoria prévia à reversão pela ARDPV com apoio do VI e retenção de pagamentos para reparos (operacionalidade da retenção tratada em G3-011).
+  dispositivo_legal: arts. 32, 33, 37 e 38, §§ 2.º a 5.º, da Lei n.º 8.987/1995; art. 5.º, inciso X, da Lei n.º 11.079/2004
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G3-118
+  tema: RISCOS_GARANTIAS
+  ids_origem:
+  - E5-101
+  - E5-100
+  - E2-074
+  - E1-040
+  tipo_achado: CONFORME
+  categoria: risco_economico
+  descricao_breve: Passivos preexistentes ao PC com regresso; teto da intervenção com excedente ao PC; escopo de investimentos fechado; sobreposição na transição
+  dispositivo_editalicio: Contrato cl. 8.6.1 a 8.6.5 (PDF p. 18-19), 4.2.1.1 (p. 13) e 7.4 (p. 17); Edital 3.1 e 3.1.4 (PDF p. 13-14)
+  transcricao: 'Contrato 8.6.1.2.2: ''constitui risco do Poder Concedente e enseja recomposição do equilíbrio econômico-financeiro''; Edital 3.1.4: ''Não é exigível da CONCESSIONÁRIA obrigação de investimento'''
+  comentario: O Contrato atribui ao Poder Concedente os passivos com fato gerador anterior à Ordem de Início, com direito de regresso (8.6.4), e limita o encargo de intervenção na Vila Princesa ao valor
+    modelado, alocando o excedente ao Poder Concedente. O Edital limita as obrigações de investimento às listadas nos anexos e assegura recomposição para exigências adicionais. A sobreposição operacional
+    de 30 dias com o operador cessante foi incorporada (7.4). As ressalvas sobre teto (G3-026, G3-027), linha de corte (G3-030), execução do excedente (G3-029) e vigência do contrato do operador cessante
+    (G3-025) estão nos pontos próprios.
+  dispositivo_legal: art. 5.º, inciso III, da Lei n.º 11.079/2004; art. 14, § 1.º, da Lei n.º 6.938/1981; art. 6.º, § 1.º, da Lei n.º 8.987/1995 (por analogia; não consta do rol do art. 3.º da Lei n.º 11.079/2004)
+  flag_tecnico: false
+  flag_reserva: true
+  reserva_tipo: RESERVA
+  nota_reserva: Teto da intervenção com excedente ao PC e escopo de investimentos fechado são cláusulas pró-concessionária; impugnações sobre o rito GAC ou sobre escopo não devem atingi-las.
+- id_tmp: G3-119
+  tema: REGULACAO_FISCALIZACAO
+  ids_origem:
+  - E5-097
+  - E2-104
+  - E3-105
+  - E3-154
+  - E4-064
+  tipo_achado: CONFORME
+  categoria: omissao
+  descricao_breve: ARDPV designada como autarquia; vedações de conflito do VI; reabilitação; LGPD (conceitos, transferência, incidentes); TRCF modelada
+  dispositivo_editalicio: P1 V.4 (p. 58-59); Anexo VII itens 5 e 9 a 11 (PDF p. 3-6); Contrato cl. 26.21 (PDF p. 60) e 13.1.1 (p. 34-35); Anexo IV cl. 2.1, 6.5, 7.5 e 9.1-9.2 (PDF p. 4-8); P6 p. 44
+  transcricao: 'Anexo VII 9: ''O VERIFICADOR INDEPENDENTE, suas controladoras, controladas e coligadas não poderão'''
+  comentario: A ARDPV é identificada como reguladora dos serviços de RSU, com autonomia declarada (independência efetiva tratada em G3-085). O TR do VI veda vínculo societário, contratual relevante e assessoria
+    em reequilíbrio, exige declarações anuais e permite substituição pelo Poder Concedente. Os requisitos de reabilitação reproduzem a lei. O acordo de dados cita corretamente os conceitos legais, condiciona
+    a transferência internacional às hipóteses legais e fixa comunicação de incidentes em 24 h ao controlador. A TRCF de 1,5% está modelada no P6 de forma coerente com o Contrato (base e circularidade tratadas
+    em G3-089).
+  dispositivo_legal: art. 21 da Lei n.º 11.445/2007; art. 5.º, inciso VII, da Lei n.º 11.079/2004; art. 163 da Lei n.º 14.133/2021; art. 5.º, incisos VI e VII, arts. 33 a 36 e art. 48 da Lei n.º 13.709/2018
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+remetidos_a_outro_grupo:
+- id: E1-046
+  tema: QUESTOES_FORMAIS
+  motivo: Duplicata de E3-014 (divergência entre condições da Ordem de Início no Edital 6.3 e no Contrato 6.2); a base do saldo da Conta Garantia está coberta no ponto próprio deste grupo.
+- id: E1-116
+  tema: QUESTOES_FORMAIS
+  motivo: Duplicata de E3-008 (nomenclatura instável do agente e da garantia); a relação Conta Garantia × Conta Vinculada está coberta no ponto da Conta Vinculada deste grupo.
+- id: E1-039
+  tema: OBJETO_ESCOPO
+  motivo: Mesmo tema de E3-076 (recebimento de resíduos fora do escopo por ordem da ARDPV); CONFORME/reserva sobre a faculdade de recusa e compensação.
+- id: E4-073
+  tema: OBJETO_ESCOPO
+  motivo: Duplicata de E3-076 (recebimento compulsório de resíduos fora do escopo × desobrigação de serviços não previstos).
+- id: E4-032
+  tema: MODELAGEM_ECONOMICA
+  motivo: Duplicata de E2-100 (custo do Verificador Independente ausente do OPEX do P6).
+- id: E5-030
+  tema: OBJETO_ESCOPO
+  motivo: Duplicata de E2-025 (linhas de base contraditórias — cobertura rural 60% × 0,00%).
+- id: E5-032
+  tema: OBJETO_ESCOPO
+  motivo: Duplicata de E2-025/E2-024 (linhas de base e metas de coleta seletiva divergentes).
+- id: E5-033
+  tema: OBJETO_ESCOPO
+  motivo: Duplicata de E2-025 (baselines de recuperação de recicláveis 0,17% / 1,35% / 0,97%).
+- id: E5-034
+  tema: REMUNERACAO_REAJUSTE
+  motivo: Duplicata de E2-056 (correspondência ano contratual/ano civil das metas que alimentam o IQS).
+- id: E5-070
+  tema: OBJETO_ESCOPO
+  motivo: Duplicata de E3-058 (linha de base da CS-01 e baseline de cooperados).
+- id: E5-077
+  tema: REMUNERACAO_REAJUSTE
+  motivo: Duplicata de E2-093 (indicadores com metas fora do controle da concessionária — diarreia, renda de cooperados).
+- id: E6-009
+  tema: MODELAGEM_ECONOMICA
+  motivo: Duplicata de E7-074 (Caderno 5 — indenização ao operador anterior — ausente do pacote).
+- id: E7-006
+  tema: MODELAGEM_ECONOMICA
+  motivo: Duplicata de E1-003/E7-004 (fontes de recursos e fluxo por exercício — art. 10, IV, da Lei 11.079); o papel do FPM e das receitas vinculadas está coberto neste grupo.
+- id: E5-057
+  tema: LICENCIAMENTO_AMBIENTAL
+  motivo: Duplicata de E2-087 (cronograma GAC aprovado pela SEMA/RO como condição suspensiva pré-licitatória); a transferência das etapas pendentes à concessionária está coberta no ponto de escopo da remediação
+    deste grupo.
+- id: E5-058
+  tema: LICENCIAMENTO_AMBIENTAL
+  motivo: Duplicata de E2-073/E2-076/E6-036 (cronograma e marcos do rito GAC desalinhados).
+absorvidos_de_outro_grupo:
+- E3-012
+- E2-013
+- E5-047
+- E3-033
+- E3-035
+- E3-036
+- E4-077
+- E3-057
+- E3-084
+- E3-116
+- E3-074
+- E7-030
+- E3-069
+- E4-037
+- E7-056
+- E7-054
+- E7-063
+- E3-133
+- E7-064
+- E3-135
+- E3-136
+- E3-137
+- E2-008
+descartados: []

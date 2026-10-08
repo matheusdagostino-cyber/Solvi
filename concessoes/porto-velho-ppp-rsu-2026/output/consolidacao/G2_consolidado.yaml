@@ -1,0 +1,1849 @@
+# G2 — Consolidador (C) — Fase 1 — PPP RSU Porto Velho/RO [USO INTERNO]
+# Temas: MODELAGEM_ECONOMICA e REMUNERACAO_REAJUSTE. Campo extra opcional: obs_consolidacao (correções e referências a outros grupos).
+pontos:
+- id_tmp: G2-001
+  tema: MODELAGEM_ECONOMICA
+  ids_origem:
+  - E1-078
+  - E4-005
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: Valor Estimado não corresponde à própria definição (360 × CMM = R$ 2.342.051.269,20)
+  dispositivo_editalicio: Edital def. 1.1.50 (PDF p. 9) e item 5.1 (p. 15) × item 12.2.1 (p. 31); P6 Tabela 14 e item V.4 (p. 46)
+  transcricao: 'Edital 1.1.50: ''corresponde ao somatório das Contraprestações Mensais Máximas durante todo o prazo da Concessão, em valores nominais, na data-base do orçamento estimado''; Edital 5.1: ''R$ 2.311.927.627,53''; Edital 12.2.1: ''CONTRAPRESTAÇÃO MENSAL MÁXIMA de R$ 6.505.697,97''; P6 p. 46: ''com um deslocamento inicial de 3 meses para o início do pagamento de ambas as parcelas'''
+  comentario: 'Pela definição do Edital, o Valor Estimado seria 360 × R$ 6.505.697,97 = R$ 2.342.051.269,20, R$ 30.123.641,67 acima do valor publicado. O valor publicado só é reproduzido pelo fluxo do P6: 3 meses sem pagamento (357 parcelas) e Parcela A a 60% e 80% nos Anos 1 e 2 (recalculado: R$ 2.311.927.637,19; resíduo de R$ 9,66 porque a Parcela A do Ano 1 no P6, R$ 1.060.655,71, difere de 60% da plena, R$ 1.060.654,71). Nem o deslocamento nem o ramp-up constam do Edital. O Valor Estimado é base da garantia de proposta, do capital mínimo, do capital da SPE e das multas (Edital 19.5, b, e 22.2.2).'
+  dispositivo_legal: art. 10, incisos IV e VI, da Lei n.º 11.079/2004; art. 18, inciso IX, da Lei n.º 8.987/1995 c/c art. 11 da Lei n.º 11.079/2004; art. 5.º da Lei n.º 14.133/2021
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+  obs_consolidacao: 'Cálculo: 9 × (1.060.655,71 + 4.737.940,12) + 12 × (1.414.206,28 + 4.737.940,12) + 336 × 6.505.697,97. E4-005 absorvido do G4 (QUESTOES_FORMAIS).'
+- id_tmp: G2-002
+  tema: MODELAGEM_ECONOMICA
+  ids_origem:
+  - E1-079
+  tipo_achado: IRREGULAR
+  categoria: erro_material
+  descricao_breve: Contraprestação anual (R$ 78.068.375,62) ≠ 12 × CMM (R$ 78.068.375,64)
+  dispositivo_editalicio: Edital item 5.1.1 (PDF p. 15) × itens 12.2.1 e 12.2.3 (p. 31)
+  transcricao: 'Edital 5.1.1: ''A contraprestação pública anual, em regime pleno de operação, é estimada em R$ 78.068.375,62''; 12.2.3: duodécuplo da CONTRAPRESTAÇÃO MENSAL ofertada'
+  comentario: O item 12.2.3 define a contraprestação anual como o duodécuplo da mensal. 12 × R$ 6.505.697,97 = R$ 78.068.375,64, R$ 0,02 acima do valor do item 5.1.1. A diferença decorre de arredondamento e indica que a CMM foi obtida pela divisão do valor anual por 12.
+  dispositivo_legal: não localizei fundamento normativo específico (erro material)
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G2-003
+  tema: MODELAGEM_ECONOMICA
+  ids_origem:
+  - E3-051
+  - E4-006
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: Fluxo de pagamentos do Contrato não reproduz o fluxo do P6 que gerou o Valor Estimado
+  dispositivo_editalicio: Contrato cl. 15.6.1, 15.6.3 e 15.6.4 (PDF p. 38) × P6 item V.4 e Tabela 14 (p. 46) × Edital 5.1 (p. 15) e 6.1 (p. 15)
+  transcricao: 'Contrato 15.6.1: ''A Contraprestação Mensal Efetiva é devida desde o 1º (primeiro) mês da Etapa de Operação''; 15.6.4: ''não configura carência, diferimento, suspensão ou postergação do pagamento''; P6 p. 46: ''deslocamento inicial de 3 meses para o início do pagamento de ambas as parcelas'''
+  comentario: O P6 modela 357 pagamentos (3 meses sem pagamento) e Parcela B integral desde o primeiro pagamento; o Valor Estimado reproduz esse fluxo. O Contrato prevê pagamento desde o 1.º mês da Etapa de Operação, nega a existência de carência ou diferimento e reduz a Parcela B no 1.º ano. Sem o deslocamento, o mesmo cálculo dá ≈ R$ 2.329.323.425 (calculado). Não está definido se os 3 meses do P6 correspondem ao período entre a assinatura e a Ordem de Início (o prazo de 30 anos conta da assinatura, Edital 6.1) ou a meses de operação sem pagamento.
+  dispositivo_legal: art. 7.º, caput e § 1.º, e art. 10, inciso II, da Lei n.º 11.079/2004; art. 5.º da Lei n.º 14.133/2021
+  flag_tecnico: false
+  flag_reserva: true
+  reserva_tipo: RESERVA
+  nota_reserva: Se o Contrato pagar desde o 1.º mês de operação valores superiores aos do fluxo modelado, o teto teria folga em favor da concessionária; suscitar a contradição tende a alinhar o pagamento ao fluxo do P6.
+  obs_consolidacao: 'Relacionado: G2 "Etapa de Operação não definida" e G2 "Parcela B reduzida no 1.º ano". O risco de atraso da Ordem de Início (E3-012) foi remetido ao G3 (duplica E3-013 e E7-051).'
+- id_tmp: G2-004
+  tema: MODELAGEM_ECONOMICA
+  ids_origem:
+  - E4-014
+  - E7-015
+  - E1-012
+  - E3-005
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: Limite do art. 28 verificado só para um exercício, com RCL de 2025 constante e sem projeção decenal
+  dispositivo_editalicio: P6 item VI.9 e Tabela 18 (p. 58–59); P7 Sumário (PDF p. 8), III.5 (p. 31), IV.4 (p. 37–38) e V.10 (p. 44); Edital 5.1.1 (p. 15); Contrato considerando vi (p. 6)
+  transcricao: 'P6 p. 58: ''A Receita Corrente Líquida (RCL) do Município de Porto Velho foi apurada em R$ 2,45 bilhões em 2025, valor mantido como referência para o horizonte projetado até 2030''; Edital 5.1.1: ''equivalente a 3,18 % da Receita Corrente Líquida do Município, observado o limite de que trata o art. 28'''
+  comentario: O P6 compara um único ano de contraprestação em regime pleno (R$ 78,1 mi) com a RCL de 2025 (R$ 2,45 bi), mantida constante até 2030. Não há série das despesas anuais da PPP nos 10 exercícios subsequentes (com reajuste e Conta Garantia) contra a RCL projetada de cada exercício, como prevê o art. 28. O P7 adota o percentual único de 3,18% e o Contrato (considerando vi) atesta a conformidade ao art. 28 sem indicar percentual nem memória de cálculo. O Edital não menciona o envio prévio de informações ao Senado Federal e à STN (art. 28, § 1.º).
+  dispositivo_legal: art. 28, caput e § 1.º, da Lei n.º 11.079/2004
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+  obs_consolidacao: 'Relacionado (G3): E4-083 — risco de ultrapassagem do limite alocado ao PC sem consequência contratual (Matriz EF-04).'
+- id_tmp: G2-005
+  tema: MODELAGEM_ECONOMICA
+  ids_origem:
+  - E4-015
+  - E7-016
+  - E3-005
+  - E1-012
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: omissao
+  descricao_breve: Demais PPPs e concessões com contraprestação do Município não identificadas no cômputo do art. 28
+  dispositivo_editalicio: P6 item VI.9 (p. 59); P7 V.10 (PDF p. 44); Contrato considerando vi (p. 6)
+  transcricao: 'P6 p. 59: ''patamar que, somado a eventuais outros contratos de PPP vigentes, permanece dentro do limite legal de 5%'''
+  comentario: O limite de 5% incide sobre o conjunto das parcerias contratadas pelo ente (inclusive por entidades controladas). P6 e P7 afirmam a conformidade sem listar os contratos vigentes nem suas despesas anuais; o P6 menciona consulta ao Anexo 13 do RREO, que não integra o pacote.
+  dispositivo_legal: art. 28, caput, da Lei n.º 11.079/2004
+  depende_de: Relação das PPPs e concessões administrativas/patrocinadas do Município e respectivas despesas anuais (RREO, Anexo 13).
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G2-006
+  tema: MODELAGEM_ECONOMICA
+  ids_origem:
+  - E4-013
+  - E1-012
+  tipo_achado: IRREGULAR
+  categoria: erro_material
+  descricao_breve: 'Comprometimento da RCL: 3,186% (≈ 3,19%) informado como 3,18%, sem memória de cálculo'
+  dispositivo_editalicio: Edital 5.1.1 (PDF p. 15) × P6 Tabela 18 (p. 59); Contrato considerando vi (p. 6)
+  transcricao: 'Edital 5.1.1: ''equivalente a 3,18 % da Receita Corrente Líquida do Município''; P6 Tabela 18: ''Comprometimento da CP sobre a RCL ~3,18 %'''
+  comentario: R$ 78.068.375,62 ÷ R$ 2,45 bi = 3,186%, que arredonda para 3,19%. O Edital não apresenta memória de cálculo e o P6 não informa a RCL com mais casas decimais; se a RCL efetiva for maior que R$ 2,45 bi, o percentual de 3,18% pode estar correto. O percentual consta do Edital e serve de atestação fiscal no preâmbulo do Contrato.
+  dispositivo_legal: art. 28 da Lei n.º 11.079/2004; art. 10, inciso I, alínea "b", da Lei n.º 11.079/2004
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G2-007
+  tema: MODELAGEM_ECONOMICA
+  ids_origem:
+  - E7-004
+  - E1-003
+  - E4-014
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: Estimativa de impacto orçamentário-financeiro limitada a um exercício, sem série para a vigência
+  dispositivo_editalicio: P7 V.10 (PDF p. 44) e III.5 (p. 31); P6 VI.9 e Tabelas 17–18 (p. 58–59); Edital 5.1–5.3 (p. 15)
+  transcricao: 'P7 p. 44: ''Recomenda-se que a documentação de instrução processual do certame consolide essa estimativa''; Edital 5.3: ''dotações orçamentárias específicas, a serem incluídas nos orçamentos municipais dos exercícios seguintes'''
+  comentario: O art. 10, II, exige estimativa do impacto orçamentário-financeiro nos exercícios em que o contrato vigorar. P6 e P7 apresentam só a relação entre a contraprestação em regime pleno e a RCL de 2025, sem série anual que considere ramp-up, reajuste, recomposição da Conta Garantia e eventual aporte. O próprio P7 (posterior ao Edital) registra que a estimativa ainda deve ser consolidada. O Edital também não refere a estimativa do fluxo de recursos por exercício (art. 10, IV).
+  dispositivo_legal: art. 10, incisos II e IV, da Lei n.º 11.079/2004; art. 16, inciso I, da Lei Complementar n.º 101/2000
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+  obs_consolidacao: 'Relacionado (G3): E7-006 — fontes de recursos da contraprestação e fluxo por exercício não identificados (art. 10, IV). Dotação orçamentária em branco (E1-004/E1-005) remetida ao G4 (duplica E3-002, E7-007, E7-008).'
+- id_tmp: G2-008
+  tema: MODELAGEM_ECONOMICA
+  ids_origem:
+  - E7-003
+  - E7-012
+  - E4-016
+  - E3-005
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: Não afetação das metas fiscais e compensação não demonstradas; "margem fiscal liberada" sem a despesa atual
+  dispositivo_editalicio: P7 V.10 (PDF p. 44); P6 VI.9 e VII (p. 59 e 61); Contrato considerando vi (p. 6)
+  transcricao: 'Contrato considerando vi: ''estando devidamente abrigado na margem fiscal liberada pela extinção do Contrato nº 019/PGM/2024''; P7 p. 44: ''Esses requisitos devem ser atendidos pelo Município antes da publicação do Edital'''
+  comentario: O art. 10, I, "b", e § 1.º exigem demonstração, com premissas e metodologia, de que a despesa não afetará as metas de resultados fiscais, com compensação por aumento permanente de receita ou redução permanente de despesa. O pacote não contém essa demonstração; o P7 a trata como pendente. O P6 e o Contrato apoiam a compensação na extinção do Contrato 019/PGM/2024 (R$ 109,35 mi/ano, anulado), mas os serviços seguem pagos por contrato emergencial (028/PGM/2025) e pelo contrato de destinação no Ecoparque (042/PGM/2023), cujos valores não constam dos estudos.
+  dispositivo_legal: art. 10, inciso I, alínea "b", e § 1.º, da Lei n.º 11.079/2004; arts. 16, incisos I e II, e 17, §§ 1.º e 2.º, da Lei Complementar n.º 101/2000
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+  obs_consolidacao: A parte relativa à despesa atual efetiva depende dos valores pagos nos contratos 028/PGM/2025 e 042/PGM/2023 (não constam do pacote).
+- id_tmp: G2-009
+  tema: MODELAGEM_ECONOMICA
+  ids_origem:
+  - E5-008
+  - E6-059
+  - E4-052
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: Custo atual do serviço (status quo) não levantado; sem linha de base para comparar com a contraprestação
+  dispositivo_editalicio: P1 item VII (PDF p. 65) e VII.2.4 (p. 84); P2 e P3 (integral); P6 VI.2–VI.6 (p. 51–55)
+  transcricao: 'P1 p. 65: ''Apesar de não ter sido disponibilizado, até o momento, dados sobre a frota utilizada, o mapeamento das rotas, e custos envolvidos''; P1 p. 84: ''regime de empreitada por preço unitário'' (Contrato 042/PGM/2023, sem preço)'
+  comentario: O diagnóstico declara não ter recebido custos, frota e rotas, embora o P0 os tenha solicitado (custos de disposição por tonelada). Nenhum estudo informa a despesa atual do Município com coleta emergencial, disposição no Ecoparque e RSS, em R$/ano ou R$/t. O VfM compara a PPP com um PSC hipotético, e a análise fiscal compara com o contrato anulado. Sem a linha de base, não se verifica a economicidade da contraprestação máxima (R$ 78,07 mi/ano; ≈ R$ 500–520/t, calculado).
+  dispositivo_legal: art. 4.º, inciso VII, e art. 10, inciso I, alíneas "a" e "b", da Lei n.º 11.079/2004
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G2-010
+  tema: MODELAGEM_ECONOMICA
+  ids_origem:
+  - E5-017
+  - E7-024
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: 'Taxa de RSU (LC 878/2021) e preço público: base, arrecadação e inadimplência não informadas'
+  dispositivo_editalicio: P1 item V.3 (PDF p. 56–58); P7 II.1 (p. 14), II.6 (p. 19), III.1.2 (p. 25) e III.1.4 (p. 26); P6 p. 11; P0 data request (p. 23–24)
+  transcricao: 'P7 p. 19: ''são custeados por taxa, na forma da Lei Complementar Municipal nº 878, de 17 de dezembro de 2021''; P1 p. 57: ''mas o município ainda depende fortemente do Tesouro''; P0: ''Taxa de limpeza urbana - base de cálculo e arrecadação histórica'''
+  comentario: O P7 reconhece que o manejo de RSU é custeado por taxa (LC 878/2021) e que o Município pode cobrar preço público de grandes geradores (LC 908/2022, art. 27), mas mantém toda a remuneração a cargo do Tesouro. Nenhum estudo informa base de cálculo, arrecadação histórica, inadimplência ou grau de cobertura da contraprestação (R$ 78,1 mi/ano), dados pedidos no P0. P1 e P4 não mencionam a taxa; o P6 trata a cobrança como "preço público" e o P7 como "taxa". Não se demonstra a sustentabilidade econômico-financeira por cobrança nem se afasta a hipótese do art. 35, § 2.º, da Lei 11.445.
+  dispositivo_legal: art. 29, inciso II, e art. 35, caput e § 2.º, da Lei n.º 11.445/2007; art. 10, inciso I, alínea "b", da Lei n.º 11.079/2004; art. 14 da Lei Complementar n.º 101/2000
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G2-011
+  tema: MODELAGEM_ECONOMICA
+  ids_origem:
+  - E4-001
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: P6 (1.ª versão, 26/05/2026) não atualizado após as revisões de P1–P4, Caderno, Anexo III e Edital
+  dispositivo_editalicio: P6 capa (PDF p. 1) × Edital item 3.1 (p. 13–14); capas de P1, P2, P3, P4, Anexo A e Anexo III
+  transcricao: 'P6 capa: ''1ª VERSÃO: SÃO PAULO, 26 DE MAIO DE 2026'''
+  comentario: O P6 consome CAPEX/OPEX do P2 e demanda do P3, mas permanece na 1.ª versão de 26/05/2026, enquanto P1 (rev. 01/09/2026), P2, P3 e P4 (3.ª rev. 01/09/2026), Anexo III (rev. 10/09/2026), Caderno de Encargos (rev. 11/09/2026) e Edital/Contrato/Matriz (2.ª versão, 08/09/2026) foram revistos. O Edital (3.1) declara que o EVTEA define o escopo das obrigações de investimento. As divergências de CAPEX da CTR entre P2 e P6 (ver G2 CAPEX) são consistentes com a defasagem de versões.
+  dispositivo_legal: art. 10, inciso I, alínea "a", e § 4.º, da Lei n.º 11.079/2004; art. 5.º da Lei n.º 14.133/2021
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+  obs_consolidacao: Verificar se existe versão posterior do P6 não juntada (a Matriz cita páginas do P6 que não coincidem — E4-066).
+- id_tmp: G2-012
+  tema: MODELAGEM_ECONOMICA
+  ids_origem:
+  - E4-002
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: Kd calculado com TLP de agosto/2026 em documento datado de 26/05/2026 e data-base maio/2026
+  dispositivo_editalicio: P6 item IV.6 (PDF p. 31) × capa (p. 1) × Edital 12.2.1 e 12.3 (p. 31)
+  transcricao: 'P6 p. 31: ''8,21% como Fator de Custo Financeiro determinado pela TLP em agosto de 2026''; Edital 12.3: ''data-base maio/2026, data do orçamento estimado'''
+  comentario: O documento datado de 26/05/2026 utiliza a TLP de agosto/2026 para o custo da dívida (IPCA + 11,42%), que entra no WACC e, portanto, na CMM. O Edital fixa a data-base do orçamento estimado e da CMM em maio/2026. Ou o P6 foi alterado sem controle de versão, ou a data-base declarada não corresponde aos parâmetros efetivamente usados no teto.
+  dispositivo_legal: art. 25, § 7.º, da Lei n.º 14.133/2021; art. 5.º da Lei n.º 14.133/2021; art. 10, inciso I, alínea "a", da Lei n.º 11.079/2004
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G2-013
+  tema: MODELAGEM_ECONOMICA
+  ids_origem:
+  - E4-004
+  - E1-010
+  - E5-002
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: Atualidade da data-base (maio/2026) e dos estudos frente à sessão e à assinatura
+  dispositivo_editalicio: Edital 12.2.1 e 12.3 (PDF p. 31), preâmbulo (data da sessão em branco) e cronograma (item 23, p. 52–53); P6 p. 36 (Ano 2 = 2028); capas de P1 e P4
+  transcricao: 'Edital 12.3: ''Os valores apresentados na PROPOSTA ECONÔMICA devem considerar como data-base maio/2026'''
+  comentario: 'A data da sessão não está definida e o P6 assume Ano 1 = 2027. Se a assinatura ocorrer em exercício diverso do da publicação do edital, a lei exige atualização prévia dos estudos e demonstrações dos incisos I a IV do art. 10, providência que o Edital não prevê. Os dados do diagnóstico vão até dez/2025 (SINISA 2024, Censo 2022) e as revisões de set/2026 não incorporam fatos posteriores (ex.: vencimento da LAI do Ecoparque em 08/10/2026). Em contrato de 30 anos, a defasagem afeta CAPEX, OPEX e WACC.'
+  dispositivo_legal: art. 10, § 2.º, da Lei n.º 11.079/2004; art. 25, § 7.º, da Lei n.º 14.133/2021
+  depende_de: Datas da publicação, da sessão pública e da assinatura prevista. O parâmetro interno de 6 meses de atualidade (origem TCE-SP) deve ser conferido perante o TCE-RO; não localizei fundamento normativo que fixe prazo máximo.
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G2-014
+  tema: MODELAGEM_ECONOMICA
+  ids_origem:
+  - E4-019
+  - E6-030
+  - E2-018
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: 'CAPEX divergente: R$ 298,3 mi (P6 Tab. 7) × R$ 313,8 mi (P6 Tab. 2/P2); CTR R$ 39,6 mi × R$ 55,03 mi'
+  dispositivo_editalicio: P6 Tabela 7 (PDF p. 37–41), texto p. 19–20, p. 35–36 e p. 47, Tabela 2 (p. 16) × P2 Tabela 15, item 4.1.1 (p. 44) e total (p. 45)
+  transcricao: 'P6 p. 19–20: ''CAPEX projetado de R$ 298,3 milhões ao longo de 30 anos''; P6 p. 47: ''CAPEX total de construção civil de R$ 39,6 milhões''; P6 Tab. 2: ''Equity + Dívida inicial R$ 313,8 milhões''; P2 Tab. 15: ''4.1.1 CONSTRUÇÃO 55.031.413 / 27.515.707 13.757.853 13.757.853'' e ''TOTAL DE INVESTIMENTOS NO SISTEMA 313.812.212'''
+  comentario: A Tabela 7 do P6 soma R$ 298,3 mi, com CTR de R$ 39,6 mi (19,8 + 9,9 + 9,9 nos Anos 2, 4 e 8). O P2 (3.ª revisão), que o P6 declara usar, orça a CTR em R$ 55,03 mi (27,52 + 13,76 + 13,76) e o CAPEX total em R$ 313,8 mi; a diferença de R$ 15,43 mi corresponde à CTR. A Tabela 2 do próprio P6 usa R$ 313,8 mi como "Equity + Dívida inicial". O pico do Ano 2 é R$ 40,9 mi no texto do P6, R$ 40,5 mi na Tabela 7 e R$ 43,47 mi no P2. Não se sabe qual CAPEX gerou a CMM, e o Edital (3.1) torna o EVTEA referência do escopo de investimentos.
+  dispositivo_legal: art. 10, inciso I, alínea "a", e § 4.º, da Lei n.º 11.079/2004; art. 5.º da Lei n.º 14.133/2021
+  flag_tecnico: true
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+  obs_consolidacao: A leitura da Figura 2 do P6 (≈ R$ 43,5 mi no Ano 2) é gráfica (extrator E4).
+- id_tmp: G2-015
+  tema: MODELAGEM_ECONOMICA
+  ids_origem:
+  - E4-003
+  - E6-002
+  - E7-013
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: CAPEX e OPEX sem data-base, quantitativos, preços unitários e fontes; nível de anteprojeto não demonstrado
+  dispositivo_editalicio: P6 itens V.2 e V.3, Tabelas 7 a 13 (PDF p. 35–46); P2 Cap. VI, Tabelas 15 e 16 (p. 41–46); P7 (sem exame do art. 10, § 4.º)
+  transcricao: 'P6 Tabelas 7–13: ''Fonte: Elaborado pelo consórcio, 2026'' / ''Fonte: Elaborado pela consultoria, 2026'''
+  comentario: As tabelas de CAPEX e OPEX do P6 trazem só valores agregados (R$ mil), sem quantidades, preços unitários, referências (sistemas oficiais de custo, cotações, convenções coletivas) nem data-base; o P2 também não informa data-base, fontes nem composições. A única data-base é a do Edital (maio/2026), e o P2 tem 1.ª versão de março/2026. O P7 não verifica se os estudos de engenharia têm nível de anteprojeto e orçamento sintético com valores de mercado. Sem esses elementos não se aferem os valores nem se reproduz a CMM.
+  dispositivo_legal: art. 10, § 4.º, da Lei n.º 11.079/2004; art. 21 da Lei n.º 8.987/1995 c/c art. 3.º da Lei n.º 11.079/2004; art. 18, § 1.º, inciso VI, da Lei n.º 14.133/2021 (aplicação subsidiária)
+  flag_tecnico: true
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+  obs_consolidacao: 'Relacionado (G1): E1-011 — nível de anteprojeto não identificado no Edital.'
+- id_tmp: G2-016
+  tema: MODELAGEM_ECONOMICA
+  ids_origem:
+  - E2-017
+  - E6-031
+  - E4-056
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: 'CTR em verba única: equipamentos da UVR, CDR, autoclave, compostagem, balança, lixiviado e gases fora do CAPEX'
+  dispositivo_editalicio: Caderno Tabela 28 (PDF p. 33) e Tabelas 23–24 (p. 26–27); P2 Tabela 15, grupo 4 (p. 44), V.5 (p. 36) e VI.1 (p. 41); P6 II.2 (p. 13), Tabela 7 item 4.1 (p. 39–40) e p. 47; Edital 3.1, viii (p. 13)
+  transcricao: 'Caderno Tab. 28: ''CTR/ETR | Pá carregadeira, retroescavadeira, balança, prensa, esteira, trituradores, contêineres e sistemas de drenagem''; P6 p. 47: ''CAPEX total de construção civil de R$ 39,6 milhões''; P6 p. 13: ''uso de separadores óticos para remoção de PVC e prensagem para otimizar o transporte até indústrias cimenteiras'''
+  comentario: O objeto (Edital 3.1, viii) e o Caderno exigem triagem mecanizada, linha de CDR, autoclave, pátio de compostagem, balança, tratamento de lixiviado e drenagem/queima de gases. P2 e P6 orçam a CTR em uma linha de "construção" (R$ 55,0 mi no P2; R$ 39,6 mi no P6, descrita como "construção civil") mais frota de terraplenagem e aterro, sem itens para esteiras, separadores ópticos/magnéticos, prensas, trituração e separação de PVC do CDR, autoclave ou equipamentos de compostagem. O P6 descreve a linha de CDR, mas não estima produção (t/ano). O Edital (3.1) restringe as obrigações de investimento às especificadas e quantificadas nos anexos e no EVTEA.
+  dispositivo_legal: art. 10, inciso I, alínea "a", e § 4.º, da Lei n.º 11.079/2004; art. 18, inciso XV, da Lei n.º 8.987/1995 c/c art. 11 da Lei n.º 11.079/2004
+  flag_tecnico: true
+  flag_reserva: true
+  reserva_tipo: DECISAO_COMERCIAL
+  nota_reserva: 'Pelo Edital 3.1/3.1.4, investimento não especificado no EVTEA gera reequilíbrio (E1-040, G3): a omissão pode sustentar pleito futuro; por outro lado, quem orçar os itens fica em desvantagem de preço frente a quem seguir o EVTEA. A mesma consideração pode valer para as demais omissões de CAPEX deste grupo.'
+  obs_consolidacao: 'Relacionados (G1/G3): E4-020 (autoclave × incinerador), E2-016 (CTR sem dimensionamento), E6-024/E2-020 (CDR sem mercado), E3-082 (risco de mercado do CDR).'
+- id_tmp: G2-017
+  tema: MODELAGEM_ECONOMICA
+  ids_origem:
+  - E4-021
+  - E4-022
+  - E6-036
+  - E6-038
+  - E5-079
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: Programas ambientais obrigatórios do Anexo III (flare, lixiviado, monitoramento, APP, poços) sem custo no P6/P2
+  dispositivo_editalicio: Anexo III Tabela 11, PA-02 a PA-08 (PDF p. 19–20); P6 Tabelas 7 a 13 (p. 37–46) e V.5 (p. 49); P2 Tabela 15, grupo 7 (p. 45) e Tabela 16 (p. 46); Matriz TO-07 (p. 8)
+  transcricao: 'P2 Tab. 15: ''7 PASSIVO AMBIENTAL - 1.050.000 5.000.000 5.250.000''; P6 p. 49: ''A queima em flare, modalidade mais simples, atende ao requisito ambiental mínimo de eliminação do metano'''
+  comentario: O Anexo III exige drenos e flare operacionais em M24 (PA-03), sistema de lixiviado nos passivos em M12 (PA-04), monitoramento contínuo e 4 campanhas gravimétricas/ano (PA-02), qualidade do ar (PA-05), recuperação de APP (PA-07) e 5 poços no Jirau em M6 (PA-08); a Matriz (TO-07) aloca o controle de biogás à concessionária. O P6 não tem linhas específicas para esses itens e o P2 inicia o desembolso da Lixeira só no Ano 2, sem linha de flare, lixiviado ou monitoramento pós-remediação. Podem estar em rubricas agregadas ("CTR Municipal e Jirau", R$ 2,29 mi/ano; "recuperação" do Jirau, R$ 5 mi), o que não é demonstrado. Pelo Edital 2.11.2, o Anexo III prevalece sobre o EVTEA.
+  dispositivo_legal: art. 10, inciso I, alínea "a", e § 4.º, da Lei n.º 11.079/2004; art. 5.º da Lei n.º 14.133/2021
+  flag_tecnico: true
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+  obs_consolidacao: 'E4-022 e E6-036 absorvidos do G1 (LICENCIAMENTO_AMBIENTAL): o vício é de custeio na modelagem. A frase do P6 sobre CAPEX "não contemplado no modelo base" (citada em E4-021) refere-se à geração de energia, não ao flare.'
+- id_tmp: G2-018
+  tema: MODELAGEM_ECONOMICA
+  ids_origem:
+  - E2-079
+  - E4-023
+  - E5-079
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: Compensação ambiental mínima de R$ 500 mil/ano (PA-09) sem previsão no P6
+  dispositivo_editalicio: Anexo III Tabela 11, PA-09 (PDF p. 20); P4 Tabela 9 (p. 26–27); P6 Tabelas 8–12 (p. 42–44); Edital 2.11.2 (p. 12)
+  transcricao: 'Anexo III PA-09: ''Plano aprovado pelo órgão em M6; ≥R$ 500 mil/ano em compensação até M24'''
+  comentario: O Anexo III (reproduzindo o P4) fixa piso de R$ 500 mil/ano de compensação ambiental entre M7 e M24 (≥ R$ 1 mi), sem base de cálculo. O OPEX do P6 não tem rubrica correspondente. Como o Anexo III prevalece sobre o EVTEA (Edital 2.11.2), a obrigação existe sem cobertura no modelo de referência.
+  dispositivo_legal: art. 10, inciso I, alínea "a", e § 4.º, da Lei n.º 11.079/2004; art. 5.º da Lei n.º 14.133/2021
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+  obs_consolidacao: E4-023 absorvido do G1 (LICENCIAMENTO_AMBIENTAL).
+- id_tmp: G2-019
+  tema: MODELAGEM_ECONOMICA
+  ids_origem:
+  - E2-080
+  - E5-079
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: Comunicação social (PCS-07/08) com piso de 0,5% da contraprestação × R$ 120 mil/ano de educação ambiental no P6
+  dispositivo_editalicio: Anexo III item XII.1, PCS-07 e PCS-08 (PDF p. 31); P4 VIII.3 (p. 36); P6 Tabela 9 (p. 43); Contrato cl. 10.2.34 (p. 27)
+  transcricao: 'Anexo III p. 31: ''Os itens PCS-07 e PCS-08 constituem obrigações contratuais autônomas da concessionária, distintas e complementares ao Programa de Educação Ambiental escolar, com orçamento mínimo não inferior a 0,5% da contraprestação mensal''; P6 Tab. 9: ''Educação ambiental 120'''
+  comentario: 'O Anexo III impõe orçamento mínimo de 0,5% da contraprestação mensal para PCS-07 e PCS-08, além do programa escolar e das demais ações do PCS (Contrato 10.2.34). A base não é explicitada: aplicado mês a mês, o piso equivale a ≈ R$ 390 mil/ano em regime pleno (cálculo); como orçamento anual sobre uma contraprestação mensal, ≈ R$ 32,5 mil. O P6 prevê só "Educação ambiental" de R$ 120 mil/ano. Também não se define se o piso incide sobre a contraprestação contratada ou a efetiva (após IQD).'
+  dispositivo_legal: art. 10, inciso I, alínea "a", da Lei n.º 11.079/2004; art. 5.º da Lei n.º 14.133/2021
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G2-020
+  tema: MODELAGEM_ECONOMICA
+  ids_origem:
+  - E2-083
+  - E6-052
+  - E4-024
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: CAPEX de galpão e equipamentos das cooperativas (CS-03, até M18) sem linha no P2/P6
+  dispositivo_editalicio: Anexo III Tabela 16, Nível 3 (PDF p. 27) e Tabela 17, CS-03 (p. 28); P2 Tabela 15 (p. 43–45); P6 Tabela 7 (p. 37–41); Edital 2.11.2 (p. 12)
+  transcricao: 'Anexo III Tab. 16: ''Nível 3 — Infraestrutura e capacitação | M6–M18 | CAPEX da concessão para galpão de triagem, prensa, esteira, EPIs e treinamento''; Tab. 17: ''CS-03 — Infraestrutura das cooperativas | CAPEX de galpão e equipamentos até M18 ... Retenção percentual da contraprestação por mês de atraso, a ser definida pela ARDPV'''
+  comentario: O Anexo III põe na concessão o CAPEX de galpão, prensa, esteira e EPIs das cooperativas até M18, com retenção da contraprestação em caso de atraso. P2 e P6 não têm essa linha, e 50% da obra da CTR (onde ficaria a UVR) só ocorre no Ano 2. Não se define se o galpão é bem reversível nem sua relação com a UVR e com a desativação do Centro de Triagem.
+  dispositivo_legal: art. 10, inciso I, alínea "a", e § 4.º, da Lei n.º 11.079/2004; art. 36, § 1.º, da Lei n.º 12.305/2010
+  flag_tecnico: true
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+  obs_consolidacao: 'Relacionado (G3): E2-046 (desativação do Centro de Triagem).'
+- id_tmp: G2-021
+  tema: MODELAGEM_ECONOMICA
+  ids_origem:
+  - E2-082
+  - E5-071
+  - E4-024
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: 'Cláusulas sociais não precificáveis: percentual "a calibrar", pagamento mínimo por tonelada triada sem valor'
+  dispositivo_editalicio: Anexo III item XI.1 (PDF p. 26) e Tabela 17, CS-01, CS-02 e CS-04 (p. 27–28); Contrato cl. 10.2.33.3 a 10.2.33.5 (p. 26–27); P4 V.4, VII.1 e IX (p. 24, 30, 36); P6 p. 48
+  transcricao: 'Anexo III p. 26: ''O contrato deve prever pagamento pelo serviço de triagem como receita garantida, não dependente do preço de mercado dos recicláveis''; Tab. 17, CS-01: ''a calibrar após o Nível 1''; Contrato 10.2.33.4: ''os limites mínimo e máximo previstos no Anexo de Diretrizes Ambientais'''
+  comentario: A CS-01 fixa percentual mínimo "a calibrar após o Nível 1"; a CS-02 exige volume mínimo por tonelada triada que garanta a sustentabilidade das cooperativas independentemente do mercado, sem valor; a CS-04 deixa metas para M24 e M60. O Contrato manda a ARDPV fixar o percentual definitivo entre limites mínimo e máximo do Anexo III, sem reequilíbrio (10.2.33.5), mas o Anexo III só tem piso. O P6 supõe que a cooperativa retém a receita dos recicláveis, sem custo de remuneração da triagem. As obrigações não podem ser precificadas na proposta.
+  dispositivo_legal: art. 18, incisos I e II, da Lei n.º 8.987/1995 c/c art. 11 da Lei n.º 11.079/2004; art. 36, § 1.º, da Lei n.º 12.305/2010; art. 10, inciso I, alínea "a", da Lei n.º 11.079/2004
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+  obs_consolidacao: 'Relacionado (G3): E2-081 — penalidades das cláusulas sociais "a definir pela ARDPV".'
+- id_tmp: G2-022
+  tema: MODELAGEM_ECONOMICA
+  ids_origem:
+  - E4-025
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: P6 pressupõe áreas da CTR e das ETRs cedidas pelo Município; Edital/Caderno atribuem a obtenção à concessionária
+  dispositivo_editalicio: P6 III.10 (PDF p. 23) e Tabela 7 × Edital 6.3, iv, e 6.3.1 (p. 16) × Caderno XI.4 (p. 61–62) × Contrato 5.1.1 (p. 14) e 10.13.1.1 (p. 31) × Matriz TO-03, TO-05 e RJ-05
+  transcricao: 'P6 p. 23: ''Sua responsabilidade na disponibilização das áreas para ETRs e CTR, no licenciamento ambiental inicial e na oferta de mecanismos de garantia da CP''; Caderno XI.4: ''Os quatro transbordos distritais ... deverão ser adquiridos pela concessionária'''
+  comentario: O P6 parte de áreas disponibilizadas pelo Poder Concedente e não orça terrenos. O Edital (6.3.1) e o Contrato (5.1.1 e 10.13.1.1) atribuem à concessionária, por sua conta e risco e sem reequilíbrio, a obtenção das áreas não públicas e do aterro; o Caderno só prevê cessão do incinerador e da área da ETR do Baixo Madeira e manda adquirir os quatro transbordos distritais. O CAPEX não tem aquisição de terrenos para CTR, aterro de rejeitos e ETRs distritais.
+  dispositivo_legal: art. 10, inciso I, alínea "a", e § 4.º, da Lei n.º 11.079/2004; art. 5.º da Lei n.º 14.133/2021
+  flag_tecnico: true
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+  obs_consolidacao: 'Relacionado (G3): E1-048 — áreas públicas não listadas; área da CTR/aterro a cargo da concessionária sem reequilíbrio. Falta identificar a área e a titularidade do terreno da CTR.'
+- id_tmp: G2-023
+  tema: MODELAGEM_ECONOMICA
+  ids_origem:
+  - E4-026
+  - E3-046
+  - E6-028
+  - E6-011
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: Aterro deve chegar à reversão com 30 anos de vida útil remanescente; capacidade não dimensionada nem orçada
+  dispositivo_editalicio: Contrato cl. 10.13.4 a 10.13.5.3 (PDF p. 32); P2 V.5 (p. 36); P3 III.1 (p. 11–12), Tabela 15 (p. 26) e V (p. 38); P6 Tabelas 5 e 7
+  transcricao: 'Contrato 10.13.5: ''capacidade e vida útil remanescentes não inferiores a 30 (trinta) anos, contados da referida data, considerada a projeção de geração e de aporte de rejeitos constante dos Anexos do Contrato''; P2 p. 36: ''área já definida, com cerca de 200 mil m², localizada em frente à Vila Princesa'''
+  comentario: O Contrato exige que o aterro da CTR tenha, na reversão, capacidade para mais 30 anos, sem indenização (10.13.4), com ampliação a cargo da concessionária sob retenção de pagamentos (10.13.5.3); a prorrogação não reduz essa exigência. Isso implica capacidade para cerca de 60 anos de rejeitos (≈ 4,3–4,5 Mt operados em 30 anos pelos residuais do P6/P3, calculado, mais igual volume remanescente). Os estudos não calculam volume, células, vida útil nem área necessária (os ~20 ha incluem UVR, compostagem e apoio), e a projeção de geração termina em 2056, sem horizonte pós-reversão a que a cláusula remete. A CTR inteira soma R$ 39,6 mi (P6) ou R$ 55,0 mi (P2).
+  dispositivo_legal: art. 10, inciso I, alínea "a", e § 4.º, e art. 5.º, inciso I, da Lei n.º 11.079/2004; art. 18, inciso XV, da Lei n.º 8.987/1995 c/c art. 11 da Lei n.º 11.079/2004
+  flag_tecnico: true
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+  obs_consolidacao: '[VALIDAÇÃO TÉCNICA] volumes, densidade e área. Relacionados: E7-048 e E3-029 (G3, ausência de indenização), E2-016 (G1, CTR sem dimensionamento).'
+- id_tmp: G2-024
+  tema: MODELAGEM_ECONOMICA
+  ids_origem:
+  - E2-027
+  - E4-027
+  - E6-041
+  - E6-040
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: 'Transbordos: 4 distritais + principal no Caderno × uma ETR no Anexo D; CAPEX de R$ 25 mil/unidade distrital'
+  dispositivo_editalicio: Caderno XI.4, §§ 7.º–10 (PDF p. 62) e XI.6, marcos 4 e 5 (p. 63); P2 IV.2.3 e IV.2.3.1 (p. 27–28) e Tabela 15, itens 3.1.8 e 3.3.1 (p. 44); P6 Tabela 7, itens 3.1.8 e 3.3.1 (p. 39) e p. 20; Anexo D Tabelas 3 e 5, IE2 (p. 10 e 14)
+  transcricao: 'Caderno XI.4: ''Os quatro transbordos distritais necessários à execução da logística regional dos serviços deverão ser adquiridos pela concessionária''; P2 Tab. 15: ''3.1.8 ESTAÇÃO DE TRANSBORDO DISTRITAL 50.000 50.000 100.000'' e ''3.3.1 CONSTRUÇÃO 450.000'''
+  comentario: O Caderno exige quatro transbordos distritais (piso impermeável, drenagem, cobertura, balança/controle de massa, cercamento, iluminação, controle de acesso, além da área) e o transbordo principal, e usa sua conclusão como marcos do ramp-up da Parcela A. O Anexo D mede uma única "Estação de Transbordo" a 100% desde o Ano 1. P2/P6 orçam R$ 100 mil para os quatro distritais (R$ 25 mil/unidade, calculado) e R$ 450 mil para o principal (atracadouro em rio com variação de cota de até 12 m, lava-jato com tratamento, rampas), sem projeto ou memória; o P6 situa as ETRs distritais no Baixo Madeira na tabela e no eixo da BR-364 no texto. A suficiência dos valores depende de validação de engenharia.
+  dispositivo_legal: art. 10, inciso I, alínea "a", e § 4.º, da Lei n.º 11.079/2004; art. 18, inciso XV, da Lei n.º 8.987/1995 c/c art. 11 da Lei n.º 11.079/2004
+  flag_tecnico: true
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+  obs_consolidacao: '[VALIDAÇÃO TÉCNICA] custo de referência dos transbordos. Relacionado (G1): E6-046 (Alto/Médio Madeira sem transbordo).'
+- id_tmp: G2-025
+  tema: MODELAGEM_ECONOMICA
+  ids_origem:
+  - E6-043
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: Soluções de estiagem (tirolesas logísticas, PCOS) sem projeto nem CAPEX/OPEX
+  dispositivo_editalicio: P2 Sumário (PDF p. 5) e IV.2.2 (p. 26, Figura 8); Contrato cl. 8.9 (p. 20); Caderno IX (PCOS, Tabela 32)
+  transcricao: 'P2 p. 5: ''incorporando inovações como as sugeridas "Tirolesas Logísticas" para superar os desafios de navegabilidade em períodos de seca extrema'''
+  comentario: O P2 apresenta "tirolesas logísticas" como solução para o recuo das águas, sem especificação, locais, CAPEX ou OPEX. Também não há custo para o PCOS, que o Contrato (8.9) torna obrigatório com acionamento automático por cota. O CAPEX do P6 prevê balsa, catamarã, barco de alumínio e quadriciclo, sem tirolesa nem embarcação reserva.
+  dispositivo_legal: art. 10, inciso I, alínea "a", e § 4.º, da Lei n.º 11.079/2004; art. 18, inciso XV, da Lei n.º 8.987/1995 c/c art. 11 da Lei n.º 11.079/2004
+  flag_tecnico: true
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+  obs_consolidacao: 'Relacionados: E2-089 (G3, risco hidrológico e custo da contingência) e E5-094 (G1, viabilidade da tirolesa).'
+- id_tmp: G2-026
+  tema: MODELAGEM_ECONOMICA
+  ids_origem:
+  - E2-006
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: Reposição programada no Ano 25 (Caderno, marco da Parcela A) × ciclos quinquenais de frota (P6)
+  dispositivo_editalicio: Caderno XI.3 (PDF p. 61) e XI.6, marco 8 (p. 63); P6 Tabela 7 (p. 37–40); Edital 2.11.2 (p. 12)
+  transcricao: 'Caderno XI.3: ''No vigésimo quinto ano da concessão deverá ser realizada a reposição programada dos bens cuja vida útil, estado de conservação ou desempenho operacional não assegure a continuidade dos serviços até o término do contrato'''
+  comentario: O Caderno prevê reposição programada no Ano 25 e a usa como marco do ramp-up da Parcela A. O CAPEX do P6 repõe a frota a cada cinco anos (Anos 1/6/11/16/21/26 e 2/7/12/17/22/27) e não tem evento específico no Ano 25. Como o Caderno prevalece sobre o EVTEA (Edital 2.11.2), a obrigação contratual e a base de custos ficam desalinhadas.
+  dispositivo_legal: art. 5.º da Lei n.º 14.133/2021; art. 23, inciso X, da Lei n.º 8.987/1995 c/c art. 3.º da Lei n.º 11.079/2004
+  flag_tecnico: true
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G2-027
+  tema: MODELAGEM_ECONOMICA
+  ids_origem:
+  - E6-023
+  - E5-007
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: 'RSS sem base quantitativa: geração, capacidade de tratamento, OPEX e destinação transitória não estimados'
+  dispositivo_editalicio: P1 Tabelas 7 a 10 (PDF p. 63–64) e pp. 88–89; P2 V.4 (p. 34–36), Tabela 15, item 5 (p. 44) e Tabela 16 (p. 46); P3 IV.6.1 (p. 31–33); Contrato cl. 10.3.10.1 (p. 29)
+  transcricao: 'P1 Tab. 9: ''VOLUME COLETADO DE RSS — ANO 2025'' (sem valores); P2 Tab. 15: ''5.1 RECUPERAÇÃO E SUBST. DE EQUIPAMENTOS 1.500.000 / 5.2 IMPLANTAÇÃO DE CCO 25.000 / 5.3 AMPLIAÇÃO DO SISTEMA DE TRATAMENTO 280.000'''
+  comentario: As tabelas de RSS do P1 listam só campos e operadoras, sem toneladas, frequências ou capacidades. Não há estimativa de geração de RSS (t/dia), capacidade do incinerador ou inventário que sustente R$ 1,5 mi de recuperação (o P1 registra componentes retirados e recomenda levantamento completo). O OPEX só contém equipes de coleta de RSS, sem custo de operação do tratamento nem da destinação a terceiro licenciado até a licença de operação, exigida pelo Contrato 10.3.10.1.
+  dispositivo_legal: art. 10, inciso I, alínea "a", da Lei n.º 11.079/2004; art. 18, § 1.º, inciso IV, da Lei n.º 14.133/2021 (aplicação subsidiária)
+  flag_tecnico: true
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+  obs_consolidacao: 'Relacionados (G1): E4-020 (autoclave × incinerador), E5-065 (estado do incinerador), E1-037 (universo de RSS).'
+- id_tmp: G2-028
+  tema: MODELAGEM_ECONOMICA
+  ids_origem:
+  - E6-039
+  - E1-097
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: Custos pré-operacionais (projetos, licenciamento, EIA/RIMA, mobilização) e ressarcimento do PMI fora da modelagem
+  dispositivo_editalicio: P2 VI.1, item 3 (PDF p. 41) e Tabela 15 (p. 43–45); Edital 21.1.1 (p. 50); Contrato cl. 7.4 (p. 17) e 10.7–10.7.1 (p. 30); P6 (sem rubrica)
+  transcricao: 'P2 p. 41: ''3. Serviços de Engenharia e Licenciamento: compreende os investimentos em projetos básicos e executivos, consultorias, estudos de viabilidade socioambiental e custos de licenciamento''; Edital 21.1.1: ''realizar o pagamento do valor R$ 3.142.250,00 ... como ressarcimento pelos estudos realizados'''
+  comentario: O P2 descreve a natureza "Serviços de Engenharia e Licenciamento", mas a Tabela 15 não tem linha correspondente. Também não constam o ressarcimento dos estudos (R$ 3.142.250,00, condição para assinatura), a mobilização e a sobreposição de 30 dias com o operador cessante (Contrato 7.4). Busca textual no P6 não localizou ressarcimento nem custos pré-operacionais; esses custos não estariam refletidos no teto.
+  dispositivo_legal: art. 10, inciso I, alínea "a", e § 4.º, da Lei n.º 11.079/2004; art. 21 da Lei n.º 8.987/1995 c/c art. 3.º da Lei n.º 11.079/2004
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+  obs_consolidacao: 'Correção: E1-097 afirmava que, com correção pelo IPCA, o ressarcimento poderia superar o teto de 2,5% dos investimentos; com CAPEX de R$ 298,3–313,8 mi, o teto é ≈ R$ 7,5–7,8 mi, e o ponto foi reduzido à omissão na modelagem. A divergência valor fixo × máximo × IPCA e a base de 2,5% ficam no G4 (E3-092, E4-033, E7-076; E1-096 remetido).'
+- id_tmp: G2-029
+  tema: MODELAGEM_ECONOMICA
+  ids_origem:
+  - E2-100
+  - E4-032
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: Remuneração do Verificador Independente, a cargo da concessionária, ausente do OPEX do P6
+  dispositivo_editalicio: Anexo VII item 8 (PDF p. 5); Contrato cl. 41.9 e 41.14–41.14.1 (p. 79–80); P6 Tabela 12 (p. 44)
+  transcricao: 'Anexo VII item 8: ''A remuneração do VERIFICADOR INDEPENDENTE será de responsabilidade da CONCESSIONÁRIA'''
+  comentario: O Contrato e o TR do VI atribuem à concessionária o custo do Verificador Independente por 30 anos, com escopo que inclui aferição de campo, pesquisa de satisfação e pareceres de reequilíbrio. O P6 não menciona o VI e não tem rubrica específica; o custo pode estar em "custos administrativos gerais" (R$ 1,972 mi/ano), o que não é demonstrado.
+  dispositivo_legal: art. 10, inciso I, alínea "a", e § 4.º, da Lei n.º 11.079/2004
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+  obs_consolidacao: 'E4-032 absorvido do G3 (REGULACAO_FISCALIZACAO). Relacionado (G3): E2-097 (estimativa de remuneração do VI não definida).'
+- id_tmp: G2-030
+  tema: MODELAGEM_ECONOMICA
+  ids_origem:
+  - E4-035
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: Custos da garantia de execução e efeito de descontos de IQD (até 10%) não modelados
+  dispositivo_editalicio: P6 (sem rubrica), Tabela 15 e Figura 8 (p. 50 e seguintes) × Contrato cl. 9.5 (PDF p. 21) e 15.5 (p. 37)
+  transcricao: 'Contrato 15.5: ''A Contraprestação Mensal Efetiva poderá sofrer desconto de, no máximo, 10% (dez por cento) de seu montante total'''
+  comentario: O P6 calibra a CMM com TIR igual ao WACC supondo recebimento integral. Não se identifica custo de seguro-garantia ou fiança da garantia de execução (10% do valor anual) nem cenário de desconto por IQD. Pela Figura 8, uma redução de receita dessa ordem teria efeito comparável aos cenários de OPEX +5% a +15% (TIR entre 8,71% e 2,80%).
+  dispositivo_legal: art. 5.º, inciso VIII, e art. 6.º, § 1.º, da Lei n.º 11.079/2004; art. 10, inciso I, alínea "a", da Lei n.º 11.079/2004
+  depende_de: Planilha do modelo, para verificar se esses custos estão embutidos em outras rubricas.
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+  obs_consolidacao: 'Relacionado (G3): E4-034 (seguros).'
+- id_tmp: G2-031
+  tema: MODELAGEM_ECONOMICA
+  ids_origem:
+  - E6-038
+  - E4-031
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: OPEX sem mão de obra e custos de operação da CTR/UVR, compostagem, aterro, tratamento de RSS e CDR
+  dispositivo_editalicio: P6 Tabelas 8–13 (PDF p. 42–46); P2 Tabela 16 (p. 46) e VI.2 (p. 41–42); Caderno Tabela 23 (p. 26–27)
+  transcricao: 'P6 Tab. 8: ''Subtotal — Pessoal Operacional 15.514''; P2 VI.2: ''equipes operacionais, técnicas e de supervisão (coletores, operadores, engenheiros e gestores)'''
+  comentario: A mão de obra do OPEX cobre só equipes de coleta e motoristas; não há operadores de máquinas do aterro, balanceiros, pessoal da UVR, da compostagem, do tratamento de lixiviado, das ETRs, dos Ecopontos nem tripulação fluvial, nem custos de operação do tratamento de RSS e da linha de CDR. A linha "CTR Municipal e Jirau" (R$ 2,29 mi/ano) é descrita como energia, água, limpeza e vigilância.
+  dispositivo_legal: art. 10, inciso I, alínea "a", e § 4.º, da Lei n.º 11.079/2004
+  flag_tecnico: true
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G2-032
+  tema: MODELAGEM_ECONOMICA
+  ids_origem:
+  - E6-037
+  - E4-031
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: OPEX do P6 diverge do P2 (administração R$ 8,06 × R$ 9,63 mi/ano; coleta da Sede) e não é consolidado
+  dispositivo_editalicio: P2 Tabela 16 (PDF p. 46) × P6 Tabelas 8–12 (p. 42–44) e Figura 2
+  transcricao: 'P2 Tab. 16: ''5 ADMINISTRAÇÃO ... 9.629.500''; P6 Tab. 12: ''Subtotal — Administração 8.062'''
+  comentario: As linhas de pessoal, instalações, manutenção e insumos do P2 coincidem com as Tabelas 8 a 11 do P6, mas a administração diverge em R$ 1,57 mi/ano (≈ R$ 47 mi em 30 anos, calculado), e o P2 eleva a coleta da Sede de R$ 10,1 mi para R$ 13,4 mi a partir do Ano 5, sem correspondência no P6. O P6 não apresenta total de OPEX por ano; a soma das tabelas em regime pleno (≈ R$ 41,8 mi) difere do OPEX da Figura 2 (≈ R$ 48 mi/ano, leitura gráfica). Não se sabe qual base alimenta a CMM.
+  dispositivo_legal: art. 10, inciso I, alínea "a", da Lei n.º 11.079/2004; art. 5.º da Lei n.º 14.133/2021
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G2-033
+  tema: MODELAGEM_ECONOMICA
+  ids_origem:
+  - E6-053
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: OPEX constante do Ano 5 ao Ano 30 apesar do crescimento da massa; saltos de custo sem memória
+  dispositivo_editalicio: P2 Tabela 16 (PDF p. 46); P3 Tabelas 10 e 22 (p. 21 e 44); P6 p. 42–43
+  transcricao: 'P2 Tab. 16: ''1.1.1 EQUIPES COLETA DE RSU 10.109.421 [Anos 1–4] 13.422.518 [Anos 5–30] ... 4.6 COMBUSTÍVEIS E AFINS 6.089.971 6.089.971 4.867.499'''
+  comentario: O RSU bruto cresce de 150,8 mil t (2027) para 172,8 mil t (2056), mas mão de obra, combustíveis e manutenção ficam constantes do Ano 5 ao Ano 30, e a frota de compactadores passa de 17 para 18 só no Ano 10. A mão de obra de coleta da Sede sobe 32,8% no Ano 5 e os combustíveis caem 20% no Ano 3, sem explicação.
+  dispositivo_legal: art. 10, inciso I, alínea "a", da Lei n.º 11.079/2004
+  depende_de: Memória de cálculo do dimensionamento de equipes, frota e consumo por ano (planilha do modelo e do P2).
+  flag_tecnico: true
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G2-034
+  tema: MODELAGEM_ECONOMICA
+  ids_origem:
+  - E4-030
+  - E5-011
+  - E6-054
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: Destinação transitória no Ecoparque a ≈ R$ 12/t, sem preço do contrato vigente, até o Ano 4 (LAO até 10/2028)
+  dispositivo_editalicio: P6 Tabela 9 (PDF p. 43) e Tabela 5 (p. 34); P2 Tabela 16, item 4.5 (p. 46) e III.2.3.1 (p. 13); P1 VII.2.4 (p. 84–88); Matriz TO-20 (p. 17)
+  transcricao: 'P6 Tab. 9: ''Aterro Ecoparque (Anos 1–4 — transição até CTR) 1.760 / 1.760 / 704 / 704'''
+  comentario: O modelo lança R$ 1,76 mi/ano nos Anos 1–2 e R$ 704 mil nos Anos 3–4; sobre o residual de 142.379 t de 2027 (P6 Tab. 5), isso equivale a ≈ R$ 12/t (cálculo). O P1 não informa o preço unitário do Contrato 042/PGM/2023 (empreitada por preço unitário), e não há memória que indique se o valor cobre toda a massa ou só parte. O uso até o Ano 4 ultrapassa a LAO do Ecoparque (válida até 09/10/2028), risco que a Matriz (TO-20) trata como compartilhado com reequilíbrio "parcial". Até a CTR operar, a concessionária depende de aterro privado de terceiro (LAO em nome de CTR PORTO VELHO S/A; P1 p. 85).
+  dispositivo_legal: art. 10, inciso I, alínea "a", e § 4.º, da Lei n.º 11.079/2004
+  depende_de: Preço unitário vigente do Contrato 042/PGM/2023, massa a destinar por ano ao Ecoparque e capacidade remanescente do aterro.
+  flag_tecnico: true
+  flag_reserva: true
+  reserva_tipo: DECISAO_COMERCIAL
+  nota_reserva: O custo e a dependência do Ecoparque afetam licitantes de modo distinto conforme controlem ou não aterro licenciado na região; levantar ou não o ponto depende da posição comercial do grupo em relação ao Ecoparque e a alternativas de destinação.
+  obs_consolidacao: 'Relacionados (G3): E2-015, E5-010, E5-050, E5-052, E4-078 (risco e licenças do Ecoparque).'
+- id_tmp: G2-035
+  tema: MODELAGEM_ECONOMICA
+  ids_origem:
+  - E4-039
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: 'Estrutura de dívida incoerente: emissão única no Ano 2, tenor de 25 anos e parâmetros de FINAME (até 10 anos)'
+  dispositivo_editalicio: P6 II.5 (PDF p. 15), III.15 (p. 26) e IV.6 (p. 31); P6 Tabela 7
+  transcricao: 'P6 II.5: ''Prazo Total (Tenor): cinco anos inferior ao prazo da concessão, no caso 25 anos''; P6 p. 26: ''prazo de até dez anos com carência de até dois'''
+  comentario: O modelo financia 60% do CAPEX "total elegível" com emissão única no Ano 2, em 25 anos pela Tabela PRICE, embora cerca de 70% do CAPEX sejam reposições quinquenais até o Ano 29. O custo da dívida usa parâmetros do BNDES FINAME, que o próprio P6 descreve com prazo de até dez anos e carência de até dois. A PRICE é descrita com prestações constantes em termos nominais sobre custo indexado ao IPCA, e nenhuma carência é informada.
+  dispositivo_legal: art. 10, inciso I, alínea "a", da Lei n.º 11.079/2004
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+  obs_consolidacao: Falta a planilha do modelo (cronograma da dívida e ICSD ano a ano).
+- id_tmp: G2-036
+  tema: MODELAGEM_ECONOMICA
+  ids_origem:
+  - E4-040
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: Kd (IPCA + 11,42%) com "taxa do agente" arbitrada e spread regional distinto das fontes citadas no P6
+  dispositivo_editalicio: P6 II.5 (PDF p. 15), III.13–III.16 (p. 24–27), IV.6 (p. 31) e Figura 1 (p. 32)
+  transcricao: 'P6 p. 31: ''8,21% como Fator de Custo Financeiro determinado pela TLP em agosto de 2026, 0,95% como Fator Taxa do BNDES para região Norte e 2,00% como a Fator Taxa do Agente Fiduciário'''
+  comentario: O Kd compõe TLP 8,21%, taxa BNDES 0,95% e 2,00% de "taxa do agente". O P6 diz que a remuneração do agente foi tratada por faixa de sensibilidade, mas adota 2,00%, e usa 0,95% como taxa para a região Norte, embora o texto indique 0,75% (bens de capital no Norte) ou 1,25% (caminhões para grande empresa). O mesmo P6 descreve fontes mais longas e de menor custo (FINEM com spread de 0,9%, debêntures incentivadas, fundos constitucionais com 34 anos e 8 de carência) que não entram no modelo. O rótulo "nominal" para taxa descrita como real é erro material.
+  dispositivo_legal: art. 10, inciso I, alínea "a", da Lei n.º 11.079/2004
+  depende_de: Justificativa e sensibilidade da taxa do agente e do spread regional; condições vigentes das linhas citadas na data-base.
+  flag_tecnico: false
+  flag_reserva: true
+  reserva_tipo: RESERVA
+  nota_reserva: Kd acima das condições de mercado eleva WACC e CMM, criando margem para licitante com funding mais barato; impugnar tende a reduzir o teto.
+- id_tmp: G2-037
+  tema: MODELAGEM_ECONOMICA
+  ids_origem:
+  - E4-041
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: Ke real de 17,76% com janelas heterogêneas e dado proprietário (Bloomberg) não replicável
+  dispositivo_editalicio: P6 IV.1–IV.5 (PDF p. 28–30), nota 41 e Figura 1 (p. 32); Tabela 15 (p. 50)
+  transcricao: 'P6: ''o risco-país foi extraído da série BRAZIL CDS USD SR 10Y D14 Corp, da Bloomberg, com histórico a partir de 2014, resultando em CRP=2,98%'''
+  comentario: Taxa livre de risco e prêmio de mercado usam médias de 2002–2025, o risco-país vem de série Bloomberg desde 2014 e o beta é setorial dos EUA. O P6 cita a metodologia de cálculo do WACC do Tesouro (2018), mas não demonstra aderência às janelas e fontes dessa metodologia. O resultado (Ke real 17,76%; WACC real 11,63%) define diretamente a CMM, porque o modelo calibra TIR = WACC.
+  dispositivo_legal: art. 10, inciso I, alínea "a", e § 1.º, da Lei n.º 11.079/2004; art. 5.º da Lei n.º 14.133/2021
+  depende_de: Parâmetros da metodologia do Tesouro na data-base e acesso aos dados utilizados (série CDS).
+  flag_tecnico: false
+  flag_reserva: true
+  reserva_tipo: RESERVA
+  nota_reserva: Premissas de Ke elevadas aumentam o teto em benefício de licitantes com custo de capital menor.
+- id_tmp: G2-038
+  tema: MODELAGEM_ECONOMICA
+  ids_origem:
+  - E4-042
+  tipo_achado: IRREGULAR
+  categoria: erro_material
+  descricao_breve: 'Fonte regional de financiamento incoerente: texto refere o FNO e indica o FNE Proinfra (BNB) como principal linha'
+  dispositivo_editalicio: P6 III.16 (PDF p. 26–27), notas 38–40, e VI.10 (p. 61)
+  transcricao: 'P6 p. 26: ''o BNB tem competência para financiar projetos em toda a região Norte do Brasil por meio do Fundo Constitucional de Financiamento do Norte (FNO)''; P6 p. 27: ''A principal linha aplicável à concessão de RSU de Porto Velho é o FNE Proinfra'''
+  comentario: Na mesma seção, o P6 afirma que o BNB financia a região Norte pelo FNO e, em seguida, indica como principal linha para o projeto em Rondônia o FNE Proinfra, programa do Banco do Nordeste referenciado nas notas 38–39. A análise de bancabilidade e as considerações sobre garantias ("junto ao BNDES, ao BNB") apoiam-se nessa indicação.
+  dispositivo_legal: Lei n.º 7.827/1989 (fundos constitucionais FNO, FNE e FCO e respectivos administradores — dispositivo e redação vigente a verificar; consulta ao Jus IA sem retorno); art. 159, inciso I, alínea "c", da Constituição Federal
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+  obs_consolidacao: A afirmação de que o FNO é administrado pelo Banco da Amazônia depende de conferência da Lei 7.827/1989; o ponto foi mantido como incoerência interna do P6.
+- id_tmp: G2-039
+  tema: MODELAGEM_ECONOMICA
+  ids_origem:
+  - E4-038
+  tipo_achado: IRREGULAR
+  categoria: erro_material
+  descricao_breve: 'Premissas contábeis incoerentes: depreciação linear (inclusive de "provisões") e modelo de ativo financeiro (ICPC 01)'
+  dispositivo_editalicio: P6 II.4 (PDF p. 14) × V.4 (p. 47) e notas 54–56
+  transcricao: 'P6 p. 14: ''Agrupa os ativos de caráter intermediário e as provisões associadas às obrigações de remediação e monitoramento''; nota 56: ''IFRS 12: Disclosure of Interests in Other Entities'''
+  comentario: A p. 14 deprecia linearmente bens reversíveis (CTR em 15 anos) e "provisões" de remediação; a p. 47 adota o modelo de ativo financeiro, com receita de construção e amortização do recebível. Os dois tratamentos geram bases de IRPJ/CSLL e escudos fiscais diferentes, e não se sabe qual alimentou o fluxo. Há ainda 15 anos de depreciação para a CTR contra amortização do aterro até o fim do contrato (Contrato 10.13.4), e a nota 56 cita a IFRS 12 no lugar da norma de contratos de concessão.
+  dispositivo_legal: não localizei fundamento normativo específico para a escolha do método; tratamento tributário de contratos de concessão na Lei n.º 12.973/2014 (dispositivo a verificar)
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G2-040
+  tema: MODELAGEM_ECONOMICA
+  ids_origem:
+  - E4-043
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: Equity total de R$ 57,8 mi incompatível com 40% de capital próprio sobre o CAPEX
+  dispositivo_editalicio: P6 Tabela 2 (PDF p. 16) × II.5 (p. 15) × IV.7 (p. 31)
+  transcricao: 'P6 Tab. 2: ''Equity + Dívida inicial R$ 313,8 milhões ... Equity total R$ 57,8 milhões (2,5% do valor do contrato)'''
+  comentario: Com 40% de capital próprio sobre CAPEX de R$ 298,3 mi (ou R$ 313,8 mi da Tabela 2), o equity seria ≈ R$ 119–126 mi, e não R$ 57,8 mi. A Tabela 2 mistura "Equity + Dívida inicial" (R$ 313,8 mi) com um CAPEX total que o próprio P6 informa ser R$ 298,3 mi, e sua fonte é "Adaptada, PMSB, 2022", documento que não trata de estrutura de capital.
+  dispositivo_legal: art. 10, inciso I, alínea "a", da Lei n.º 11.079/2004
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G2-041
+  tema: MODELAGEM_ECONOMICA
+  ids_origem:
+  - E4-044
+  - E7-061
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: 'Capital social e integralização da SPE: P7 (10%/65%) × Edital (1%; SPE 1,5%/50%) × P6 (1%/40%)'
+  dispositivo_editalicio: P7 IX.2 (PDF p. 62) × Edital 13.17.2 (p. 35) e 20.1.2.1 (p. 48) × P6 Tabela 2 (p. 16)
+  transcricao: 'Edital 20.1.2.1: ''Subscrição de, no mínimo, R$ 34.678.914,41 (...) e integralização de R$ 17.339.457,21''; P7: ''O dimensionamento do capital social em 10% do valor do Contrato ... a condicionalidade da integralização inicial mínima de 65% à assinatura do Contrato''; P6 Tab. 2: ''Capital social mínimo R$ 23,1 milhões (1% do valor do contrato) ... Integralização inicial 40% do capital social mínimo'''
+  comentario: O Edital exige capital mínimo da licitante de 1% do Valor Estimado (R$ 23,1 mi) e, para a SPE, subscrição de R$ 34,7 mi (1,5%) com integralização de R$ 17,3 mi (50%) como condição de assinatura. O P6 modela capital social mínimo de 1% com 40% integralizados. O P7 afirma capital de 10% do valor do Contrato (≈ R$ 231 mi) com 65% integralizados "em linha com o P6". São três parâmetros para a mesma exigência, e o fluxo de equity do modelo não reflete a regra do Edital.
+  dispositivo_legal: art. 9.º da Lei n.º 11.079/2004; art. 69, § 4.º, e art. 5.º da Lei n.º 14.133/2021
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+  obs_consolidacao: E4-044 e E7-061 absorvidos do G4 (HABILITACAO), conforme cluster atribuído ao G2; se o G4 os mantiver, consolidar lá e manter aqui só a referência.
+- id_tmp: G2-042
+  tema: MODELAGEM_ECONOMICA
+  ids_origem:
+  - E4-045
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: Sumário afirma "VPL positivo"; a Tabela 15 informa VPL = R$ 0,00 (TIR = WACC por construção)
+  dispositivo_editalicio: P6 Sumário Executivo (PDF p. 6) × VI.1 e Tabela 15 (p. 50)
+  transcricao: 'P6 p. 6: ''TIR Real Desalavancada de 11,63% a.a., com VPL positivo e índice de cobertura do serviço da dívida (ICSD) mínimo de 1,30x''; Tab. 15: ''VPL R$ 0,00'''
+  comentario: O modelo calibra a contraprestação para que a TIR desalavancada iguale o WACC (11,63%), o que resulta em VPL nulo, como mostra a Tabela 15 e o próprio texto da p. 50. O Sumário Executivo afirma VPL positivo, e o ICSD mínimo de 1,30x, premissa de covenant, é apresentado como resultado.
+  dispositivo_legal: art. 10, inciso I, alínea "a", da Lei n.º 11.079/2004
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G2-043
+  tema: MODELAGEM_ECONOMICA
+  ids_origem:
+  - E4-046
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: Plano de negócios sem DRE, fluxo de caixa, ICSD anual e TIR do acionista; planilha referencial não disponibilizada
+  dispositivo_editalicio: P6 VI.1 (PDF p. 50), VI.4 (p. 53) e VII.2 (p. 57)
+  transcricao: 'P6: ''conforme apurado na planilha de modelagem referencial'''
+  comentario: O P6 não publica DRE projetada, fluxo de caixa livre, cronograma da dívida, série do ICSD nem TIR alavancada, embora mencione "melhora no retorno alavancado". A planilha de modelagem referencial não integra os documentos. Sem ela não se reproduz a CMM de R$ 6.505.697,97 nem se conferem as divergências de CAPEX, OPEX e VfM apontadas neste grupo.
+  dispositivo_legal: art. 21 da Lei n.º 8.987/1995 c/c art. 3.º da Lei n.º 11.079/2004; art. 10, inciso I, alínea "a", e § 1.º, da Lei n.º 11.079/2004
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+  obs_consolidacao: Verificar se a planilha foi disponibilizada no processo administrativo ou no portal.
+- id_tmp: G2-044
+  tema: MODELAGEM_ECONOMICA
+  ids_origem:
+  - E4-047
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: Cenário sem aporte (Figura 7) com CP de R$ 6,42 mi/mês × CMM de R$ 6,51 mi da Tabela 14
+  dispositivo_editalicio: P6 Figura 7 (PDF p. 56) × Tabela 14 (p. 46); Edital 12.2.1 (p. 31)
+  transcricao: 'P6 Fig. 7 (aporte 0%): ''Contraprestação A Mês (R$ milhões) 1,72 | Contraprestação B Mês (R$ milhões) 4,70'''
+  comentario: No cenário de 0% de aporte, a Figura 7 mostra Parcela A de R$ 1,72 mi e Parcela B de R$ 4,70 mi (R$ 6,42 mi/mês), contra R$ 1,77 mi e R$ 4,74 mi (R$ 6,51 mi) na Tabela 14, que deu origem ao teto. As duas saídas do mesmo modelo para o caso-base não coincidem. O aporte de 20% (R$ 22 mi) da Figura 7 é coerente com o CAPEX de 5 anos da Tabela 7 (R$ 112,9 mi), e não com o do P2.
+  dispositivo_legal: art. 10, inciso I, alínea "a", da Lei n.º 11.079/2004
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G2-045
+  tema: MODELAGEM_ECONOMICA
+  ids_origem:
+  - E4-036
+  tipo_achado: IRREGULAR
+  categoria: risco_economico
+  descricao_breve: Modelo aplica PIS/COFINS/ISS por 30 anos a partir de 2027, sem a transição CBS/IBS
+  dispositivo_editalicio: P6 II.3 e Tabela 1 (PDF p. 13–14) × Contrato cl. 20.10.4 (p. 48–49) × Matriz EF-05 (p. 31)
+  transcricao: 'P6 Tab. 1: ''PIS 1,65% | COFINS 7,60% | ISS 5,00%'''
+  comentario: A partir de 2027 passa a ser cobrada a CBS e extinguem-se PIS e COFINS (art. 126, incisos I, "a", e II, do ADCT); de 2029 a 2032 as alíquotas do ISS são reduzidas gradualmente (art. 128 do ADCT), com substituição pelo IBS (LC 214/2025). O P6 modela o regime atual para todo o horizonte. O Contrato (20.10.4) adota essa modelagem como linha de base do evento de reforma tributária, e a Matriz (EF-05) classifica a mudança como "Muito provável (5)".
+  dispositivo_legal: art. 126, incisos I, alínea "a", e II, e art. 128 do ADCT (incluídos pela EC n.º 132/2023); Lei Complementar n.º 214/2025 (alíquotas e cronograma aplicáveis a manejo de resíduos — dispositivos a verificar); art. 10, inciso I, alínea "a", da Lei n.º 11.079/2004
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+  obs_consolidacao: Arts. 126 e 128 do ADCT conferidos no Jus IA (vigentes). As regras contratuais de reequilíbrio tributário (E3-069, E4-037, E7-056) foram remetidas ao G3.
+- id_tmp: G2-046
+  tema: MODELAGEM_ECONOMICA
+  ids_origem:
+  - E3-084
+  - E7-026
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: ilegalidade
+  descricao_breve: TRCF de 1,5% sobre receita bruta, repassada à contraprestação; faculdade legal de não incidência não utilizada
+  dispositivo_editalicio: Contrato cl. 13.1.1 (PDF p. 34) × P6 p. 44 × P7 V.11 (p. 44) e XI.3.3 (p. 68)
+  transcricao: 'Contrato 13.1.1: ''no montante de 1,5% (um e meio por cento) da receita operacional bruta''; P6 p. 44: ''integralmente repassável à contraprestação pública ... facultam que o contrato de parceria público-privada, na modalidade de concessão administrativa, preveja a não incidência da TRCF'' (art. 51, §§ 1.º e 2.º, da LC 1.013/2025)'
+  comentario: 'A TRCF incide sobre a receita operacional bruta e, segundo o P6, é integralmente repassada à contraprestação: o Município paga, via PPP, a taxa que ele próprio arrecada. O P6 registra que a LC 1.013/2025 (art. 51, §§ 1.º e 2.º) permite ao contrato de PPP administrativa prever a não incidência; o Contrato cita o art. 53 e impõe a incidência, e o P7 não menciona a faculdade. A base de cálculo em receita bruta é questionável para taxa de poder de polícia.'
+  dispositivo_legal: art. 145, inciso II e § 2.º, da Constituição Federal; art. 77, parágrafo único, da Lei n.º 5.172/1966 (CTN); arts. 51 e 53 da Lei Complementar Municipal n.º 1.013/2025
+  depende_de: Texto consolidado da LC Municipal 1.013/2025 (arts. 51 e 53).
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+  obs_consolidacao: 'E7-026 absorvido do G3 (REGULACAO_FISCALIZACAO). Relacionados (G3): E4-064 (CONFORME — números da TRCF coerentes entre P6 e Contrato) e E3-083 (dedução da TRCF na Conta Garantia).'
+- id_tmp: G2-047
+  tema: MODELAGEM_ECONOMICA
+  ids_origem:
+  - E7-052
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: omissao
+  descricao_breve: Justificativa do prazo de 30 anos remetida ao P6, que não contém análise comparativa de prazos
+  dispositivo_editalicio: P7 III.3 (PDF p. 28); P0 p. 16; P6 p. 15 e 35–36
+  transcricao: 'P7 p. 28: ''A definição do prazo de 30 anos é tecnicamente justificada no Produto 6'''
+  comentario: O P0 previa a determinação do prazo de concessão mais adequado no Caderno 6. A busca no P6 localizou só o tenor da dívida (25 anos) e menções ao horizonte de 30 anos, sem estudo de prazos. O CAPEX tem ciclos quinquenais de frota, o que relativiza o argumento de amortização.
+  dispositivo_legal: art. 5.º, inciso I, da Lei n.º 11.079/2004
+  depende_de: Confirmar no P6 integral (ou na planilha) se há análise de prazo; caso inexistente, o ponto passa a omissão documentada.
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G2-048
+  tema: MODELAGEM_ECONOMICA
+  ids_origem:
+  - E4-048
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: PSC construído pelo acréscimo de percentuais genéricos aos custos da própria PPP
+  dispositivo_editalicio: P6 VI.3 (PDF p. 51–52), Equação 2 e notas 60–62
+  transcricao: 'P6 p. 52: ''identificou um sobrecusto médio de 28%. Esse percentual foi, portanto, adotado como premissa para o sobrecusto de CAPEX''; ''O percentual acrescido será de 4,19% sobre os valores de CAPEX e OPEX, com o objetivo de incorporar os custos licitatórios'''
+  comentario: O PSC é o CAPEX/OPEX da PPP acrescido de 28% (sobrecusto médio de obras públicas de infraestrutura, 1930–2000, estudo internacional), 17% (estudo IBPT 2015, citado por notícia) e 4,19% (custo do pregão eletrônico). A vantagem resulta desses acréscimos, sem dados de custo do setor público municipal de RSU e sem valoração dos riscos retidos e transferidos; a TRCF (1,5%) fica embutida no OPEX do PSC.
+  dispositivo_legal: art. 10, inciso I, alínea "a", da Lei n.º 11.079/2004
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G2-049
+  tema: MODELAGEM_ECONOMICA
+  ids_origem:
+  - E4-049
+  tipo_achado: IRREGULAR
+  categoria: risco_economico
+  descricao_breve: Ajuste de neutralidade competitiva abate tributos federais da despesa municipal e responde por 78% do VfM
+  dispositivo_editalicio: P6 VI.4 (PDF p. 53) e Tabela 16 (p. 55)
+  transcricao: 'P6 p. 53: ''mediante a dedução, do valor da contraprestação paga pelo Poder Concedente, dos tributos diretos e indiretos recolhidos pela Concessionária'''
+  comentario: Do ponto de vista do Município, só o ISS (e a TRCF) retornam aos cofres municipais; PIS, COFINS, IRPJ e CSLL são receitas da União. O ajuste (R$ 96 mi) corresponde a 78% do VfM de R$ 123 mi. Sem ele, o PSC (R$ 647 mi) supera a PPP bruta (R$ 620 mi) em R$ 27 mi (≈ 4%).
+  dispositivo_legal: art. 10, inciso I, alínea "a", da Lei n.º 11.079/2004
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G2-050
+  tema: MODELAGEM_ECONOMICA
+  ids_origem:
+  - E4-050
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: PSC e PPP descontados ao WACC privado (11,63% real), sem justificativa nem sensibilidade da taxa
+  dispositivo_editalicio: P6 VI.5 e VI.6 (PDF p. 54); Figuras 4 e 5
+  transcricao: 'P6 p. 54: ''descontando-os pelo Custo Médio Ponderado de Capital (WACC) do projeto'''
+  comentario: A taxa de desconto altera o resultado do VfM quando os perfis temporais dos fluxos diferem (o PSC concentra CAPEX no início). O P6 não justifica o uso da taxa privada para o fluxo público nem apresenta sensibilidade.
+  dispositivo_legal: art. 10, inciso I, alínea "a", e § 1.º, da Lei n.º 11.079/2004
+  depende_de: Sensibilidade do VfM à taxa de desconto (planilha do modelo).
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G2-051
+  tema: MODELAGEM_ECONOMICA
+  ids_origem:
+  - E4-051
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: Fluxo da PPP no VfM omite custos públicos próprios da PPP e menciona aporte inexistente no caso-base
+  dispositivo_editalicio: P6 VI.4 e Equação PPPt = CPt + Apt − It (PDF p. 53); Anexo VI item 5.6 (p. 6); P6 Figura 7 (p. 56)
+  transcricao: 'P6 p. 53: ''foram considerados os valores previamente estimados para a Contraprestação Pública, bem como o aporte público previsto''; Anexo VI 5.6: ''remuneração mensal de R$ [*], reajustada anualmente pelo INPC, a ser paga pelo PODER CONCEDENTE'''
+  comentario: O fluxo da PPP no VfM considera só contraprestação, aporte e tributos. Ficam de fora a remuneração da instituição financeira da Conta Garantia (paga pelo Poder Concedente, valor em branco), o custo de imobilizar ≈ R$ 13 mi na Conta Garantia e os custos de regulação e estruturação. O texto menciona "aporte público previsto", mas o caso-base é 0% e o Edital não autoriza aporte.
+  dispositivo_legal: art. 10, inciso I, alínea "a", e art. 6.º, § 2.º, da Lei n.º 11.079/2004
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G2-052
+  tema: MODELAGEM_ECONOMICA
+  ids_origem:
+  - E4-053
+  - E7-005
+  tipo_achado: IRREGULAR
+  categoria: erro_material
+  descricao_breve: 'VfM: Tabela 16 com unidade errada, bases distintas (524 × 647 / 620 × 743) e percentual sobre base não descrita'
+  dispositivo_editalicio: P6 Sumário (PDF p. 6), VI.6 (p. 54), Tabela 16 (p. 55) e VII (p. 61); P7 Sumário (p. 8) e III.1.4 (p. 26)
+  transcricao: 'P6 Tab. 16: ''VPL (Milhares de Reais) ... Desembolsos da PPP 620 ... Aj. Neut. Comp. (+) 96 ... Value for Money 123 ... 16,5%''; P6 p. 6: ''o VPL dos desembolsos líquidos da PPP totaliza R$ 524 milhões, contra R$ 647 milhões do Public Sector Comparator'''
+  comentario: A Tabela 16 indica "Milhares de Reais", mas os valores (620, 458, 123) estão em milhões. O texto compara PPP de R$ 524 mi com PSC de R$ 647 mi; a tabela, PPP de R$ 620 mi com PSC de R$ 743 mi (com o ajuste de neutralidade deslocado para o PSC). Os 16,5% correspondem a 123/743; sobre o PSC de R$ 647 mi descrito no texto, seriam 19,0%. O P7 apoia a escolha da modalidade nesse VfM sem indicar valores, taxa ou memória.
+  dispositivo_legal: art. 10, inciso I, alínea "a", da Lei n.º 11.079/2004
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G2-053
+  tema: MODELAGEM_ECONOMICA
+  ids_origem:
+  - E6-058
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: '"Avaliação Comercial" (P3) sem sondagem de mercado, atratividade, bancabilidade, benchmarks ou valores'
+  dispositivo_editalicio: P3 integral (PDF p. 1–56) e I.2 (p. 6); P0 p. 10–11
+  transcricao: 'P3 I.2: ''Estruturar o estudo de demanda e a modelagem comercial do sistema [...] assegurar a viabilidade fiscal e a atratividade do projeto frente ao mercado'''
+  comentario: O P3 não contém consulta a potenciais interessados, análise de atratividade, de condições de financiamento e garantias, benchmarks de R$/t ou qualquer valor monetário. O VfM consta apenas do P6.
+  dispositivo_legal: art. 10, inciso I, alínea "a", da Lei n.º 11.079/2004; art. 18, § 1.º, inciso V, da Lei n.º 14.133/2021 (aplicação subsidiária)
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G2-054
+  tema: MODELAGEM_ECONOMICA
+  ids_origem:
+  - E6-008
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: Sumário do P3 anuncia econometria, elasticidade, capacidade contributiva e inadimplência inexistentes no corpo
+  dispositivo_editalicio: P3 Sumário Executivo (PDF p. 5) e II (p. 8); P0 p. 10–11
+  transcricao: 'P3 p. 5: ''A metodologia aplicada integra projeções econométricas baseadas em séries históricas da SEMUSB e análises de elasticidade da demanda [...] O estudo avalia a capacidade contributiva da população e o impacto da taxa de inadimplência'''
+  comentario: O corpo do P3 apenas multiplica a população projetada pela geração per capita do SINISA; não há série histórica de pesagens, econometria, elasticidade, capacidade contributiva nem inadimplência. Em concessão administrativa não há tarifa ao usuário, e a referência a faturamento e inadimplência não tem correspondência no modelo. O P0 previa essa metodologia para o Caderno 3.
+  dispositivo_legal: art. 10, inciso I, alínea "a", da Lei n.º 11.079/2004; art. 29 da Lei n.º 11.445/2007
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G2-055
+  tema: MODELAGEM_ECONOMICA
+  ids_origem:
+  - E5-003
+  - E6-010
+  - E5-004
+  - E5-031
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: 'Geração per capita incoerente: 1,2 / 0,75 / 0,97 kg/hab.dia e RDO (0,84) > RSU (0,75); 0,75 adotado sem reconciliação'
+  dispositivo_editalicio: P1 Sumário (PDF p. 7), III.6 e Tabela 3 (p. 25–26) e VII.1 (p. 65); P2 Tabela 14 (p. 37); P3 Tabela 3 (p. 13) e IV.1 (p. 15); P6 Tabela 3 (p. 33); Matriz TO-01 (p. 3)
+  transcricao: 'P1 p. 7: ''geração per capita estimada em aproximadamente 1,2 kg/hab. dia, patamar superior à média nacional''; P1 Tab. 3: ''Massa média de RSU (kg/hab. dia) 0,75 ... Massa média de RDO (kg/hab. dia) 0,84''; P1 p. 65: ''massa média de RSU (kg/hab. dia) de 0,97'''
+  comentario: 'O P1 traz três valores de geração per capita: 1,2 (sumário, "superior à média nacional"), 0,75 (SINISA, "próxima da média nacional") e 0,97 (dados municipais de out–dez/2025). Na mesma tabela, o RDO (0,84) supera o RSU (0,75), embora seja subconjunto dele; P2 e P6 adotam RDO de 0,67. P2, P3, P6 e o Caderno usam 0,75 sem série histórica de pesagens nem reconciliação. Os dados SINISA são autodeclarados e o próprio P1 registra situações de campo (queima, descarte em várzeas) incompatíveis com indicadores de 0% de disposição inadequada e 0% de coleta rural. A projeção do P3 é a referência da banda de demanda de ±10% da Matriz (TO-01).'
+  dispositivo_legal: art. 10, inciso I, alínea "a", e art. 5.º, inciso III, da Lei n.º 11.079/2004; art. 18, § 1.º, inciso IV, da Lei n.º 14.133/2021 (aplicação subsidiária)
+  flag_tecnico: true
+  flag_reserva: true
+  reserva_tipo: RESERVA
+  nota_reserva: 'Se a geração real superar a projeção do P3 em mais de 10% por 6 meses, a Matriz (TO-01) prevê reequilíbrio: subestimar a base de demanda pode favorecer a concessionária. Observação do extrator E6: 11.060 t/mês (P1) × 12 ≈ 132,7 mil t/ano, próximo da projeção da Sede para 2027 (131,2 mil t) com população corrigida.'
+  obs_consolidacao: 'Relacionados (G3): E3-053 e E4-067 (banda de demanda ±10%).'
+- id_tmp: G2-056
+  tema: MODELAGEM_ECONOMICA
+  ids_origem:
+  - E2-026
+  - E5-006
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: 'Bases populacionais divergentes: 562.145 hab. (Censo +14%) × 474.681 hab.; per capita do P1 sem a correção'
+  dispositivo_editalicio: Caderno Tabelas 5 e 6 (PDF p. 11–12); Anexo III Tabelas 4 e 5 (p. 10–12); P2 p. 22 (Tabela 13); P6 p. 33; P1 VII.1 (p. 65)
+  transcricao: 'Caderno: ''População total de referência inicial | 562.145 habitantes em 2027''; Anexo III: ''Sede Administrativa (412.804 hab.)'''
+  comentario: O Caderno e o P6 dimensionam com 562.145 hab. em 2027, após acréscimo de 14% sobre o Censo 2022 por omissão censitária (Cenário 3 FESPSP). O Anexo III e a Tabela 13 do P2 trabalham com 474.681 hab. (Sede 412.804; AM 24.499; MM 32.438; BM 4.940). O per capita de 0,97 do P1 resulta da divisão da massa pela população do Censo não corrigida (460.434). A diferença de cerca de 18% afeta frota, massa, capacidade das unidades, denominador do IC1 e a Parcela B liquidada por volume.
+  dispositivo_legal: art. 10, inciso I, alínea "a", da Lei n.º 11.079/2004; art. 18, § 1.º, inciso IV, da Lei n.º 14.133/2021 (aplicação subsidiária)
+  flag_tecnico: true
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+  obs_consolidacao: '[VALIDAÇÃO TÉCNICA] metodologia do ajuste censitário de 14% (FESPSP).'
+- id_tmp: G2-057
+  tema: MODELAGEM_ECONOMICA
+  ids_origem:
+  - E5-018
+  - E6-004
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: Populações distritais e repartição Alto × Médio Madeira divergentes entre P1, P2, P3 e P4
+  dispositivo_editalicio: P1 Tabela 1 (PDF p. 12–13), p. 44–45 e 77; P2 Tabela 3 (p. 11) e Tabela 13 (p. 21–22); P3 Tabelas 1, 2 e 4; P4 Tabela 2 (p. 11–12); Anexo III p. 11
+  transcricao: 'P4: ''Alto Madeira (24.499 hab.; DMT 256–355 km) ... Médio Madeira (32.438 hab.; DMT 86–223 km)''; P2 Tab. 13: ''TOTAL ALTO MADEIRA 21.121 ... TOTAL MEDIO MADEIRA 35.816'''
+  comentario: P1/P2 somam 21.121 hab. no Alto Madeira e o P4 24.499 (diferença = Vila da Penha, alocada pelo P2 ao Médio Madeira); o Médio Madeira tem 21.569 (P1), 35.816 (P2) ou 32.438 (P4). Rio Pardo tem 10.000 (P1) ou 2.096 (P2) habitantes; União Bandeirantes 25.000 (P1) ou 8.773 (P2). Na base IBGE 2022, AM e MM representam 4,45% e 7,55%; na projeção de 2027, 5,16% e 6,83%, sem explicação para a inversão. A Sede é classificada como "Médio Madeira" em tabelas do P2 e do P3.
+  dispositivo_legal: art. 10, inciso I, alínea "a", da Lei n.º 11.079/2004; art. 18, § 1.º, inciso IV, da Lei n.º 14.133/2021 (aplicação subsidiária)
+  flag_tecnico: true
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+  obs_consolidacao: 'E6-004 absorvido do G1 (OBJETO_ESCOPO): base de projeção de demanda.'
+- id_tmp: G2-058
+  tema: MODELAGEM_ECONOMICA
+  ids_origem:
+  - E5-005
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: omissao
+  descricao_breve: Série de massa coletada lacunosa e com duas linhas divergentes (TOTAL × "RSU"); medida × projetada
+  dispositivo_editalicio: P1 Tabela 11 e texto (PDF p. 65); P6 Tabela 5 (p. 34); P2 p. 37
+  transcricao: 'P1 p. 65: ''Para uma análise mais aprofundada seria adequado obter registro dos últimos doze meses'''
+  comentario: 'Faltam mai–jul/2024 e jan–set/2025; a linha "RSU" traz zero em mar/2024 e valores superiores à linha TOTAL (dez/2025: 15.630 t × 12.445 t), sem explicação; o texto cita 10.413 t quando a tabela mostra 10.423 t. A média da linha "RSU" em out–dez/2025 (~442 t/dia) supera a geração projetada pelo P6 para 2027 (~413 t/dia), e a linha TOTAL (~364 t/dia) fica abaixo, o que torna incerta a base de demanda.'
+  dispositivo_legal: art. 10, inciso I, alínea "a", da Lei n.º 11.079/2004; art. 18, § 1.º, inciso IV, da Lei n.º 14.133/2021 (aplicação subsidiária)
+  depende_de: 'Série completa de pesagens e esclarecimento do que compõe a linha "RSU" (ex.: grandes geradores no Ecoparque).'
+  flag_tecnico: true
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G2-059
+  tema: MODELAGEM_ECONOMICA
+  ids_origem:
+  - E5-038
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: risco_economico
+  descricao_breve: Sem estudo gravimétrico primário; composição do PMSB 2022 e caracterização transferida à concessionária
+  dispositivo_editalicio: P4 VII.1 (PDF p. 30) e PA-02 (Tabela 9, p. 26); P2 p. 37
+  transcricao: 'P4 PA-02: ''Inclui caracterização gravimétrica obrigatória dos RSU coletados, executada pela concessionária com mínimo de 4 campanhas anuais'''
+  comentario: Toda a modelagem usa a composição 51/32/17% do PMSB 2022, e o P2 admite que o balanço de massa é um exemplo a atualizar; o P1 não realizou gravimetria. A caracterização passa a ser obrigação da concessionária após a assinatura, e a proposta será formulada sobre dado secundário.
+  dispositivo_legal: art. 10, inciso I, alínea "a", da Lei n.º 11.079/2004; art. 19, inciso I, da Lei n.º 12.305/2010
+  depende_de: Existência de estudo gravimétrico recente do Município fora do pacote.
+  flag_tecnico: true
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G2-060
+  tema: MODELAGEM_ECONOMICA
+  ids_origem:
+  - E6-011
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: omissao
+  descricao_breve: Projeção de demanda em cenário único, encerrada em 2056, sem horizonte de prorrogação nem pós-reversão
+  dispositivo_editalicio: P3 III.1 (PDF p. 11–12); P0 p. 10–11; Contrato cl. 6.5 e 10.13.5 (p. 16 e 32)
+  transcricao: 'P3 III.1: ''Adotou-se o cenário de crescimento que reflete o dinamismo econômico regional'''
+  comentario: As projeções de população e massa terminam em 2056, em cenário único (sem alto/baixo). O Contrato admite prorrogação até 35 anos e remete a vida útil remanescente do aterro à "projeção de geração e de aporte de rejeitos constante dos Anexos", que não existe para o período posterior a 2056.
+  dispositivo_legal: art. 5.º, inciso I, e art. 10, inciso I, alínea "a", da Lei n.º 11.079/2004
+  depende_de: Existência de cenários alternativos na planilha do modelo; necessidade técnica do horizonte pós-reversão.
+  flag_tecnico: true
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G2-061
+  tema: MODELAGEM_ECONOMICA
+  ids_origem:
+  - E6-019
+  - E2-023
+  - E6-015
+  - E2-055
+  - E5-036
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: 'Metas e massas de recuperação divergentes: P3/Caderno/Anexo D (Meta 6 ajustada) × P6 (Meta 6 × 70% + Meta 7)'
+  dispositivo_editalicio: P3 IV.3 e Tabela 9 (PDF p. 19–20) e Tabela 10 (p. 21); Caderno Tabela 7 (p. 12); Anexo D V.1.3 (p. 17–18) e Tabela 5 (p. 14); P6 Tabelas 4 e 5 (p. 34–35); P4 VII.1 (p. 30); Matriz TO-01 (p. 3)
+  transcricao: 'P3/Anexo D: ''META 6, ajustada = (META 6.1 x 0,60 + 10%) x META PLANARES''; P6 p. 34: ''O percentual denominado volume total a recuperar resulta, portanto, da seguinte composição: (Meta 6 × 70%) + Meta 7''; P6 Tab. 5 (2027): ''150.809 | 8.430 | 142.379'''
+  comentario: 'O P3 (e o Anexo D) reduz o indicador PLANARES (5,2% em 2028) pelo fator (cobertura seletiva × 0,6 + 10%), obtendo 2,29%, e expressa a Meta 7 sobre a fração orgânica; o P6 aplica a projeção PLANARES diretamente (4,70% em 2027) × 70% e soma a Meta 7 sobre o RSU total (5,59% em 2027). Resultado: 4.193 t recuperadas e 146.617 t residuais em 2027 no P3/Caderno, contra 8.430 t e 142.379 t no P6 (2056: 20.208 × 26.507 t). O P3 define o indicador da Meta 6 como percentual da massa total, mas o texto fala em triagem mecanizada de "10% de todo resíduo" e a fórmula aplica 10% sobre a meta. O Anexo D publica a fórmula sem a coluna de projeção PLANARES e sem fórmula do indicador observado. A reciclável de 2027 também diverge (47.800 t no P4 × 45.895 t no P6). A divergência afeta aterro, OPEX de disposição, receitas acessórias e a linha de base da banda de ±10% (TO-01, referida à "projeção do P3").'
+  dispositivo_legal: art. 10, inciso I, alínea "a", e art. 5.º, incisos III e VII, da Lei n.º 11.079/2004; art. 5.º da Lei n.º 14.133/2021
+  flag_tecnico: true
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+  obs_consolidacao: 'Correção: E2-055 afirmava que a fórmula da Meta 6 ajustada não reproduz a Tabela 5 do Anexo D (cálculo com META PLANARES = 2,29%). Com a projeção PLANARES da Tabela 9 do P3 (5,2% em 2028), (0,568 × 0,6 + 0,10) × 5,2% = 2,29%, e os valores coincidem; mantidas apenas a ausência dos insumos no Anexo D e as demais incoerências.'
+- id_tmp: G2-062
+  tema: MODELAGEM_ECONOMICA
+  ids_origem:
+  - E4-057
+  tipo_achado: IRREGULAR
+  categoria: erro_material
+  descricao_breve: Balanço de massa do P6 com inconsistências entre texto e Tabelas 3, 5 e 6
+  dispositivo_editalicio: P6 p. 12 e Tabelas 3, 5 e 6 (PDF p. 33–35)
+  transcricao: 'P6 p. 12: ''dos quais 51% correspondem à fração orgânica, equivalente a aproximadamente 77.516 toneladas/ano'''
+  comentario: (i) 51% de 150.809 t = 76.913 t, e não 77.516 t. (ii) A Tabela 5 dá orgânicos de 73.951 t (49,0%) e recicláveis de 45.895 t (30,4%) em 2027, contra 51% e 32% da Tabela 3. (iii) Os orgânicos passam de 82.043 t (2040) para 88.133 t (2046) com RSU bruto crescendo cerca de 2%. (iv) A soma dos residuais por eixo em 2027 (Tabela 6) é 149.243 t, contra 142.379 t na Tabela 5, o que implicaria recuperação de 1,04%, e não 5,59%.
+  dispositivo_legal: art. 10, inciso I, alínea "a", da Lei n.º 11.079/2004
+  flag_tecnico: true
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+  obs_consolidacao: '[VALIDAÇÃO TÉCNICA] O residual define o dimensionamento do aterro, o custo de destinação e a banda de ±10% da Matriz.'
+- id_tmp: G2-063
+  tema: MODELAGEM_ECONOMICA
+  ids_origem:
+  - E6-013
+  - E6-012
+  - E5-035
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: Balanço de massa do P2 ("exemplo" ProteGEEr) incompatível com o projeto, com P3/P6 e lido incorretamente
+  dispositivo_editalicio: P2 V.5.1 e Figura 18 (PDF p. 37–38); P4 Tabela 6 (p. 20) e VII.1 (p. 30); P3 Tabelas 10 e 15; P6 Tabela 4 (p. 34); Anexo D Tabela 1 (p. 8)
+  transcricao: 'P2 p. 37: ''das 421,6 ton/dia que entram no aterro, 167,4 ton poderão ser recuperadas pela triagem, 108,4 ton serão encaminhados à compostagem e 145,9 ton irão efetivamente para o aterro''; P2: ''O Balanço de Massa apresentado é um exemplo'''
+  comentario: O cenário pressupõe coleta seletiva de 100% dos recicláveis (134,5 t/d) e dos orgânicos (216,7 t/d), com biodigestão anaeróbia não prevista no projeto, e resulta em desvio de 65,4%, contra metas de 2,29% a 7,84% (P4/Anexo D) e recuperação de 5,59% a 15,34% (P6). Na Figura 18, 167,4 t/d são materiais recuperados (80,7 de triagem + 86,7 de composto) e 108,4 t/d são evaporação; o texto lê 108,4 como encaminhado à compostagem e 421,6 t/d como massa que "entra no aterro". Não há balanço de massa do projeto efetivamente modelado (UVR, compostagem, CDR, RSS e rejeitos).
+  dispositivo_legal: art. 10, inciso I, alínea "a", da Lei n.º 11.079/2004; art. 9.º, caput, da Lei n.º 12.305/2010
+  flag_tecnico: true
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G2-064
+  tema: MODELAGEM_ECONOMICA
+  ids_origem:
+  - E6-018
+  - E6-020
+  - E6-003
+  tipo_achado: IRREGULAR
+  categoria: erro_material
+  descricao_breve: Erros materiais nas tabelas de projeção do P3 e de rotulagem no capítulo de CAPEX/OPEX do P2
+  dispositivo_editalicio: P3 Tabela 15, ano 2037 (PDF p. 26), Tabelas 13 e 14 (p. 24–25), Tabela 9 (p. 20) e p. 19; P2 VI.1 (p. 41), Tabela 16 (p. 46) e índices (p. 3–4)
+  transcricao: 'P3 Tab. 15: ''11 2037 603.297 165.153 147.536 17.616 152.435''; P2 Tab. 16: ''TOTAL DE INVESTIMENTOS NO SISTEMA 1.279.061.946'''
+  comentario: 'P3: a massa residual de 2037 (152.435 t) não segue a fórmula declarada, que dá ≈ 149.136 t (recalculado; demais anos conferem com diferença ≤ 8 t); na Tabela 13 a coluna "Outros" do Alto Madeira tem 139 t onde 16,7% de 7.784 t ≈ 1.300 t; na Tabela 14 a coluna RLU replica o RDO; a projeção PLANARES de 2035 repete a de 2036 (9,20%); o texto diz meta de 20% "até 2024". P2: o texto anuncia "quatro naturezas" de investimento e lista três; a linha-total do OPEX é rotulada "TOTAL DE INVESTIMENTOS NO SISTEMA"; índice e corpo numeram as tabelas de forma diferente.'
+  dispositivo_legal: não localizei fundamento normativo específico (erro material)
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G2-065
+  tema: MODELAGEM_ECONOMICA
+  ids_origem:
+  - E2-031
+  - E5-025
+  - E6-045
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: 'Ganho logístico do Jirau: 255 km de Nova Califórnia × redução anunciada de 355 → 80 km × redução de 100–120 km'
+  dispositivo_editalicio: Caderno Tabela 19 (PDF p. 23); Anexo III Tabela 13 (p. 22) e XIV.3 (p. 34); P4 IX (p. 36); P2 V.1 (p. 30–31); P3 IV.6.2 (p. 33–35); P6 p. 47–48
+  transcricao: 'Caderno Tab. 19: ''Nova Califórnia | CTR Jirau | 255 km''; P4 IX: ''Reativação do Aterro do Jirau como prioridade logística de curto prazo: redução da DMT de ~355 km para ~80 km'''
+  comentario: As tabelas logísticas dão 255 km de Nova Califórnia até a "CTR Jirau", igual à DMT mínima atual até o Ecoparque (255–355 km). O P4 e o Anexo III afirmam que a reativação do Jirau reduziria a DMT de ~355 km para ~80 km; o P3 indica redução de 100 km e P2/P6 de cerca de 120 km. Os números do ganho logístico que justificam o investimento no Jirau não fecham entre si.
+  dispositivo_legal: art. 10, inciso I, alínea "a", da Lei n.º 11.079/2004; art. 18, § 1.º, inciso IV, da Lei n.º 14.133/2021 (aplicação subsidiária)
+  flag_tecnico: true
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+  obs_consolidacao: 'E6-045 absorvido do G1 (OBJETO_ESCOPO): as distâncias são premissa de custo logístico.'
+- id_tmp: G2-066
+  tema: MODELAGEM_ECONOMICA
+  ids_origem:
+  - E2-032
+  - E5-023
+  - E6-045
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: 'Distâncias do Baixo/Médio Madeira: Demarcação 83 + 94,98 + 24,50 = 202,48 ≠ 193 km; P1 × Caderno (73 × 83 km; Abunã 223 × 204 km)'
+  dispositivo_editalicio: Caderno Tabela 19 (PDF p. 23); Anexo III Tabela 13 (p. 22); P3 Tabela 18 (p. 33–35); P1 Tabelas 4 e 5 (p. 27–28); Edital 2.11.2 (p. 12)
+  transcricao: 'Caderno Tab. 19: ''Demarcação | CTR Porto Velho | 83 km | 94,98 km no Rio Madeira + 24,50 km no Rio Ji-Paraná | 193 km'''
+  comentario: No Caderno, no Anexo III e no P3, 83 + 94,98 + 24,50 = 202,48 km, e não 193 km. O P1 indica 73 km terrestres até a Foz do Jamari (total de 193 km, que fecha) e Abunã a 223 km; o Caderno indica 83 km e Abunã a 204 km. O texto do P3 dá 105 km entre a estação de transbordo e o aterro, e há referência à "BR 367". Como o Caderno prevalece sobre o EVTEA (Edital 2.11.2), a base de distâncias contratual pode não ser a modelada.
+  dispositivo_legal: art. 5.º da Lei n.º 14.133/2021; art. 10, inciso I, alínea "a", da Lei n.º 11.079/2004
+  flag_tecnico: true
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G2-067
+  tema: MODELAGEM_ECONOMICA
+  ids_origem:
+  - E5-021
+  - E5-022
+  - E5-024
+  tipo_achado: IRREGULAR
+  categoria: erro_material
+  descricao_breve: Erros internos de distância no P1 e no P4 (Calama via Humaitá; Nazaré; DMT do Alto Madeira até 378 km)
+  dispositivo_editalicio: P1 Tabela 5 (PDF p. 28) e p. 49; P4 Sumário (p. 6) e Tabela 6 (p. 19) × Tabelas 1, 2, 4 e III.6 (p. 10–16); Matriz (risco Jirau, p. 3)
+  transcricao: 'P1 Tab. 5: ''CALAMA ... 205 ... 63,70 km (39,58 mi) ... 137''; P1 p. 49: ''mais 28,84 milhas pelo rio Madeira''; P4 p. 6: ''Distâncias Médias de Transporte (DMT) de 255 a 378 km para os resíduos do Alto Madeira'''
+  comentario: Na Tabela 5 do P1, a rota de Calama via Humaitá soma 205 km terrestres e 63,70 km fluviais (~268,7 km), mas o total registrado é 137 km; as demais linhas fecham. O trecho fluvial de Nazaré é 28,84 milhas no texto e 24,84 milhas na tabela (esta coerente com o total de 113 km). O P4 dá DMT de 255–378 km para o Alto Madeira, sem origem para 378 km (máximo de 355 km no P1 e nas demais tabelas do P4); a Matriz reproduz 255–378 km.
+  dispositivo_legal: não localizei fundamento normativo específico (erro material); art. 18, § 1.º, inciso IV, da Lei n.º 14.133/2021 (aplicação subsidiária) como referência geral
+  flag_tecnico: true
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G2-068
+  tema: MODELAGEM_ECONOMICA
+  ids_origem:
+  - E6-061
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: Estimativa de biogás (4.851 kWh/dia) atribuída ao Caderno 3 inexistente no P3
+  dispositivo_editalicio: P6 pp. 12 e 49; P4 pp. 20 e 36; Anexo III p. 16 × P3 (integral)
+  transcricao: 'P6 p. 49: ''A análise preliminar desenvolvida no Caderno 3 estimou potencial inicial de geração da ordem de 4.851 kWh/dia já no primeiro ano de operação plena do aterro'''
+  comentario: P6, P4 e Anexo III citam 4.851 kWh/dia como estimativa do Caderno 3, e o Anexo III a associa a medida de controle com prazo M24. A 3.ª revisão do P3 não contém estimativa de biogás, curva de geração nem valor em kWh (busca textual sem ocorrência). A base da estimativa usada nos demais documentos não está disponível.
+  dispositivo_legal: art. 21 da Lei n.º 8.987/1995 c/c art. 3.º da Lei n.º 11.079/2004; art. 5.º da Lei n.º 14.133/2021
+  flag_tecnico: true
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G2-069
+  tema: MODELAGEM_ECONOMICA
+  ids_origem:
+  - E4-054
+  - E7-002
+  - E4-089
+  tipo_achado: CONFORME
+  categoria: omissao
+  descricao_breve: Existem estudo de conveniência da PPP, VfM quantitativo e horizonte de modelagem igual ao prazo (30 anos)
+  dispositivo_editalicio: P7 III.1.1–III.1.4 (PDF p. 24–26); P6 VI.2–VI.6 (p. 51–55), I.2 e VII; Edital 6.1 e 6.2 (p. 15)
+  transcricao: 'P7: ''A Concessão Administrativa é a modalidade adequada ao presente projeto por seis razões articuladas a seguir''; P6: ''o VPL dos desembolsos líquidos pelo Ente público para viabilizar a PPP foi de aproximadamente R$ 524 milhões, enquanto o VPL do PSC totalizou R$ 647 milhões'''
+  comentario: O P7 compara contratação tradicional, concessão comum, patrocinada e administrativa. O P6 apresenta VfM em VPL com fórmulas e premissas, e a aritmética entre texto e Tabela 16 fecha (620 − 96 = 524; 743 − 96 = 647; VfM 123). O horizonte de 30 anos coincide com o prazo do Edital, prorrogável até 35. As inconsistências de método constam dos pontos de VfM deste grupo.
+  dispositivo_legal: art. 10, inciso I, alínea "a", e art. 5.º, inciso I, da Lei n.º 11.079/2004
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G2-070
+  tema: MODELAGEM_ECONOMICA
+  ids_origem:
+  - E5-098
+  - E5-102
+  - E6-066
+  - E6-067
+  - E6-069
+  tipo_achado: CONFORME
+  categoria: erro_material
+  descricao_breve: 'Aritmética conferida: somas populacionais, projeções iguais entre P2/P3/P6/Caderno, tabelas do P2 e residual do P3'
+  dispositivo_editalicio: P1 Tabelas 1 e 11 (PDF p. 12–13 e 65); P4 VII.1 (p. 30); P2 Tabelas 3, 15 e 16 (p. 11, 43–46); P3 Tabelas 2, 9, 10 e 15 (p. 12, 20–26); Caderno Tabela 6 (p. 12); P6 Tabela 6 (p. 35)
+  transcricao: 'P2 Tab. 3 / P3 Tab. 2: ''1 2027 562.145 488.867 38.415 29.013 5.850''; P2: ''TOTAL DE INVESTIMENTOS NO SISTEMA 313.812.212 / 1.279.061.946'''
+  comentario: 'Conferem: soma populacional (460.434) e área (34.094 km²) do P1; médias mensais de 2024 (9.556 t) e 2025 (11.060 t); dado de vidro do P4 compatível com 11,2–11,75 mil t/mês; projeção populacional idêntica em P2, P3, P6 e Caderno, com parcelas regionais somando o total; subtotais e totais das Tabelas 15 e 16 do P2 (diferenças de R$ 1); massa residual do P3 em 16 dos 17 anos tabelados (exceção: 2037).'
+  dispositivo_legal: art. 10, inciso I, alínea "a", da Lei n.º 11.079/2004
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G2-071
+  tema: REMUNERACAO_REAJUSTE
+  ids_origem:
+  - E1-077
+  - E3-052
+  - E4-011
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: Proposta em valor mensal único, sem regra de decomposição em Parcelas A/B nem de aplicação do ramp-up
+  dispositivo_editalicio: Edital itens 12.2 a 12.2.3 (PDF p. 30–31); Anexo C, Carta de Proposta, itens 2–2.3 (p. 26); Contrato cl. 15.5.2, 15.6.1 a 15.6.5 (p. 38); P6 Tabela 14 (p. 46)
+  transcricao: 'Edital 12.2.2: ''A PROPOSTA ECONÔMICA e os lances serão ofertados exclusivamente sobre o valor da CONTRAPRESTAÇÃO MENSAL''; Contrato 15.6.5: ''A redução de valor decorrente do escalonamento não enseja recomposição do equilíbrio econômico-financeiro, por integrar as premissas da Proposta Econômica'''
+  comentario: 'O Contrato remunera por duas parcelas com regimes distintos: Parcela A (CAPEX) com ramp-up e Parcela B (OPEX) reduzida no 1.º ano e liquidada por volume, além do desconto por IQD. Edital e Carta de Proposta pedem um único valor mensal. A divisão A/B só existe para o teto (P6 Tabela 14). Não há critério (proporcional, fixo ou declarado pela licitante) para distribuir o deságio entre as parcelas, nem regra sobre os percentuais de ramp-up aplicáveis ao valor ofertado, embora o Contrato diga que o escalonamento integra as premissas da proposta.'
+  dispositivo_legal: art. 5.º, inciso IV, da Lei n.º 11.079/2004; art. 18, inciso IX, da Lei n.º 8.987/1995 c/c art. 11 da Lei n.º 11.079/2004; art. 5.º da Lei n.º 14.133/2021
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+  obs_consolidacao: 'E4-011 absorvido do G4 (JULGAMENTO_PROPOSTA). Relacionado (G4): E4-012 (CONFORME — teto = soma das Parcelas A e B plenas).'
+- id_tmp: G2-072
+  tema: REMUNERACAO_REAJUSTE
+  ids_origem:
+  - E3-052
+  - E4-010
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: Parcela B "liquidada conforme medição dos volumes" sem preço unitário, volume-base ou fórmula; P6 a trata como fixa
+  dispositivo_editalicio: Contrato cl. 15.5.2.2 e 15.6.3 (PDF p. 38) × P6 Tabela 14 (p. 46) × Matriz TO-01 (p. 3) e TO-06 (p. 7–8)
+  transcricao: 'Contrato 15.5.2.2: ''com valor de referência em regime pleno estabelecido nos Anexos do Edital e do Contrato, a ser liquidado conforme a medição efetiva dos volumes de resíduos coletados e processados no período correspondente'''
+  comentario: O Contrato vincula a Parcela B à medição de volumes, mas nenhum documento fixa preço por tonelada, volume de referência, faixas ou fórmula de liquidação. O P6 trata a Parcela B como valor mensal fixo (R$ 4.737.940,12) e a Matriz prevê reequilíbrio só fora de banda de ±10% por 6 meses. Sem a regra de conversão, a Contraprestação Mensal Efetiva fica indeterminada.
+  dispositivo_legal: art. 5.º, inciso IV, e art. 6.º, § 1.º, da Lei n.º 11.079/2004; art. 92, incisos V e VI, da Lei n.º 14.133/2021; art. 23, inciso IV, da Lei n.º 8.987/1995 c/c art. 3.º da Lei n.º 11.079/2004
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+  obs_consolidacao: A contradição na alocação do risco de demanda (Parcela B por volume × banda da Matriz) fica no G3 (E3-053, E4-067).
+- id_tmp: G2-073
+  tema: REMUNERACAO_REAJUSTE
+  ids_origem:
+  - E4-007
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: Parcela B reduzida no 1.º ano sem valor ou percentual; P6 modela a Parcela B integral
+  dispositivo_editalicio: Contrato cl. 15.6.3 (PDF p. 38) × P6 Tabela 14 e Figura 3 (p. 46)
+  transcricao: 'Contrato 15.6.3: ''A Parcela B será devida em valor reduzido no 1º (primeiro) ano da Etapa de Operação e em valor integral a partir do 2º (segundo) ano, na proporção da assunção progressiva dos Serviços'''
+  comentario: O Contrato remete o "valor reduzido" da Parcela B no 1.º ano aos Anexos, "inclusive o EVTEA", mas o P6 aplica Parcela B integral desde o primeiro pagamento. Não há percentual nem critério de redução, o que deixa indeterminada a remuneração do 1.º ano.
+  dispositivo_legal: art. 5.º, inciso IV, da Lei n.º 11.079/2004; art. 92, inciso V, da Lei n.º 14.133/2021
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G2-074
+  tema: REMUNERACAO_REAJUSTE
+  ids_origem:
+  - E4-008
+  - E2-005
+  - E3-049
+  - E7-033
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: 'Ramp-up da Parcela A com quatro regras: P6 (60/80/100%), Contrato (temporal), Caderno (8 marcos de aceite), P7 (sem escalonamento)'
+  dispositivo_editalicio: P6 V.4 (PDF p. 46–48) × Contrato cl. 15.6.2 e 15.6.4 (p. 38) × Caderno XI.6 (p. 63–64) × P7 III.6.1 (p. 32)
+  transcricao: 'Caderno XI.6: ''O início de seu pagamento ou sua evolução deverá estar condicionado à comprovação de que os investimentos e as estruturas correspondentes foram entregues, aceitos e colocados em condições de operação'' e ''Na ausência de definição específica, os percentuais deverão ser apresentados pela concessionária em proposta de cronograma físico-financeiro''; Contrato 15.6.2: ''em razão do prazo necessário à avaliação da condição real dos ativos''; P7 p. 32: ''ambas as parcelas são apuradas e liquidadas por medição, dispensando cláusula contratual de escalonamento inicial'''
+  comentario: O P6 fixa 60%/80%/100% por ano, justificado pela operação da CTR e do Jirau. O Contrato adota escalonamento cronológico (reduzido nos Anos 1–2, integral a partir do 3.º) justificado pela "avaliação da condição real dos ativos", sem percentuais nem marcos. O Caderno condiciona a Parcela A a oito marcos de entrega e aceite (frota, transbordos, sistemas, operação plena, reposição do Ano 25), sem CTR, Jirau, Vila Princesa ou incinerador, remete os percentuais ao Contrato e, na falta, à proposta da concessionária. O P7 afirma que o desenho dispensa escalonamento inicial. São regras incompatíveis para o mesmo pagamento.
+  dispositivo_legal: art. 7.º, caput e § 1.º, e art. 5.º, inciso IV, da Lei n.º 11.079/2004; art. 5.º da Lei n.º 14.133/2021
+  flag_tecnico: false
+  flag_reserva: true
+  reserva_tipo: RESERVA
+  nota_reserva: No Contrato, a Parcela A cresce por decurso de tempo e não por aceite de ativos, o que favorece a concessionária; suscitar a contradição tende a prevalecer a regra de marcos do Caderno.
+- id_tmp: G2-075
+  tema: REMUNERACAO_REAJUSTE
+  ids_origem:
+  - E3-048
+  - E4-009
+  - E6-033
+  tipo_achado: IRREGULAR
+  categoria: ilegalidade
+  descricao_breve: Parcela A integral a partir do Ano 3 sem vínculo à disponibilização dos ativos (CTR plena no Ano 4; 3.ª fase no Ano 8)
+  dispositivo_editalicio: Contrato cl. 15.5.2.1, 15.6.1 e 15.6.2 (PDF p. 38); P6 V.4 (p. 46–48), V.5 (p. 50) e Tabela 7, item 4.1.1 (p. 39); P2 Tabela 15, item 4.1.1 (p. 44); Anexo D Tabelas 3 e 5, IE1 (p. 10 e 14)
+  transcricao: 'Contrato 15.6.2: ''sendo devida em valor reduzido no 1º (primeiro) e no 2º (segundo) anos da Etapa de Operação e em valor integral a partir do 3º (terceiro) ano''; P6 p. 50: ''A CTR Porto Velho, uma vez implantada em sua configuração plena a partir do Ano 4 do contrato'''
+  comentario: 'A Parcela A remunera investimentos (CTR, Jirau, incinerador, transbordos) e é devida desde o 1.º mês de operação e integralmente a partir do Ano 3, por critério temporal. O P6 justifica os 100% no Ano 3 pela operação da CTR e do Jirau, mas afirma que a CTR só terá configuração plena no Ano 4, e P2/P6 lançam 25% da obra da CTR no Ano 4 e 25% no Ano 8 (o IE1 do Anexo D mede a CTR a 75% até o Ano 7). Há divergência interna no P6: a p. 47 baseia o ramp-up no CAPEX dos 5 primeiros anos; a p. 48, nos investimentos do Ano 2. A contraprestação deve ser precedida da disponibilização do serviço ou limitada à parcela fruível.'
+  dispositivo_legal: art. 7.º, caput e § 1.º, da Lei n.º 11.079/2004
+  flag_tecnico: true
+  flag_reserva: true
+  reserva_tipo: RESERVA
+  nota_reserva: Antecipa recebíveis de CAPEX em relação à entrega dos ativos, em favor da concessionária.
+- id_tmp: G2-076
+  tema: REMUNERACAO_REAJUSTE
+  ids_origem:
+  - E3-050
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: '"Etapa de Operação" — marco inicial dos pagamentos e do ramp-up — não definida'
+  dispositivo_editalicio: Contrato cl. 15.6.1 (PDF p. 38) e definições (cl. 1.3); Anexo D VI.1.1 (p. 21)
+  transcricao: 'Contrato 15.6.1: ''A Contraprestação Mensal Efetiva é devida desde o 1º (primeiro) mês da Etapa de Operação'''
+  comentario: O termo não consta das definições do Contrato, do Edital nem do Caderno; o Anexo D usa "Assunção dos Serviços" e "Início da Operação Comercial". Não se sabe se a Etapa de Operação começa com a Ordem de Início, com a assunção dos serviços ou com a operação de alguma unidade. É o marco inicial de todo o fluxo de pagamentos, do ramp-up e da redução da Parcela B.
+  dispositivo_legal: art. 92, inciso V, da Lei n.º 14.133/2021; art. 5.º, inciso IV, da Lei n.º 11.079/2004
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G2-077
+  tema: REMUNERACAO_REAJUSTE
+  ids_origem:
+  - E3-025
+  - E7-049
+  tipo_achado: IRREGULAR
+  categoria: ilegalidade
+  descricao_breve: Contraprestação paga pelo cronograma original mesmo sem disponibilização do serviço por atraso do Poder Concedente
+  dispositivo_editalicio: Contrato cl. 5.1.2 (PDF p. 14); P7 III.8 (p. 35); Matriz RJ-05
+  transcricao: 'Contrato 5.1.2: ''O atraso ou a entrega de bens que sejam de responsabilidade do Poder Concedente em desconformidade com o Contrato isenta a responsabilidade da Concessionária no cumprimento dos prazos contratualmente estabelecidos, bem como não obstará o início da fluência e pagamento dos valores devidos de Contraprestação Pública Mensal em atenção ao cronograma originalmente proposto no Contrato'''
+  comentario: A cláusula assegura o fluxo da contraprestação segundo o cronograma original mesmo que os serviços não possam ser prestados por atraso na entrega de bens pelo Poder Concedente; o P7 a descreve sem ressalvas. A contraprestação deve ser precedida da disponibilização do serviço (ou limitada à parcela fruível); a compensação de atraso imputável ao Poder Concedente seria matéria de reequilíbrio ou indenização.
+  dispositivo_legal: art. 7.º, caput e § 1.º, da Lei n.º 11.079/2004
+  flag_tecnico: false
+  flag_reserva: true
+  reserva_tipo: RESERVA
+  nota_reserva: Assimetria favorável à concessionária que a impugnação poderia eliminar.
+- id_tmp: G2-078
+  tema: REMUNERACAO_REAJUSTE
+  ids_origem:
+  - E3-034
+  - E4-091
+  tipo_achado: IRREGULAR
+  categoria: ilegalidade
+  descricao_breve: Aporte público previsto no Contrato (excedente do rito GAC) e no VfM, sem autorização no Edital nem cronograma
+  dispositivo_editalicio: Contrato cl. 8.6.1.2.2 (PDF p. 18–19); P6 VI.7 (p. 55–57), Equação PPPt e Figura 7; Edital (sem menção a aporte)
+  transcricao: 'Contrato 8.6.1.2.2: ''constitui risco do Poder Concedente e enseja recomposição do equilíbrio econômico-financeiro, na forma da Cláusula 20ª, ou aporte público'''
+  comentario: O Edital não menciona aporte de recursos (busca textual sem ocorrência). O Contrato admite "aporte público" para o excedente das medidas de intervenção do rito GAC, sem cronograma nem marcos de repasse, e o P6 analisa aportes de 0% a 60% do CAPEX de 5 anos e inclui o termo Apt no fluxo da PPP. O aporte em contrato de PPP depende de autorização no edital (contratos novos) e de cronograma e marcos contratuais, e destina-se a obras e aquisição de bens reversíveis; não está demonstrado que o custeio de remediação se enquadre nessa finalidade.
+  dispositivo_legal: art. 6.º, § 2.º, art. 5.º, inciso XI, e art. 7.º, § 2.º, da Lei n.º 11.079/2004
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+  obs_consolidacao: O enquadramento da remediação ambiental como "obras e aquisição de bens reversíveis" é questão a examinar na Fase 2.
+- id_tmp: G2-079
+  tema: REMUNERACAO_REAJUSTE
+  ids_origem:
+  - E3-041
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: Menções a "tarifa" (diferenciada, especial, tabela de referência) em concessão administrativa sem estrutura tarifária
+  dispositivo_editalicio: Contrato cl. 10.3.10.4 e 10.6 (PDF p. 29–30) e 18.2.2 (p. 42)
+  transcricao: 'Contrato 10.3.10.4: ''sem prejuízo da recomposição dos custos adicionais de destinação e da aplicação de tarifa diferenciada''; 10.6: ''incluindo a tabela de tarifas de referência'''
+  comentario: Na concessão administrativa a Administração é a usuária direta ou indireta e não há tarifa ao usuário. O Contrato fala em "tarifa diferenciada" associada à falha de segregação de RSS (redação que mistura sanção e recomposição), em "tabela de tarifas de referência" e em "tarifa especial" (18.2.2), sem defini-las nem indicar quem as fixa e quem as paga.
+  dispositivo_legal: art. 2.º, § 2.º, da Lei n.º 11.079/2004
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G2-080
+  tema: REMUNERACAO_REAJUSTE
+  ids_origem:
+  - E2-051
+  - E3-054
+  - E7-057
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: Sem função de conversão do IQS em desconto nem parcela sujeita; teto de 10% "referencial"; remissão circular
+  dispositivo_editalicio: Contrato cl. 15.5, 15.5.1 (PDF p. 37–38) e 10.2.33.1 (p. 26); Anexo D seção VI (p. 21); P7 III.6.2 (p. 32)
+  transcricao: 'Contrato 15.5.1: ''O percentual máximo de desconto previsto no item 15.5 constitui parâmetro de referência, devendo o valor definitivo observar o disposto no Anexo D''; Anexo D VI: ''O resultado final do IQS deverá ser aplicado à parcela da remuneração definida no contrato como vinculada à qualidade ou ao desempenho dos serviços'''
+  comentario: O Contrato remete o valor definitivo do desconto ao Anexo D; o Anexo D remete à "parcela definida no contrato". Nenhum dos dois define a curva ou as faixas que convertem a nota do IQS em desconto, nem se o desconto incide sobre a CME inteira ou só sobre a Parcela A ou a B (o P7 sugere aplicação diferenciada). O teto de 10% é declarado "parâmetro de referência", o que deixa indefinido o desconto máximo, e a cl. 10.2.33.1 soma ao mesmo teto os descontos das cláusulas sociais. O mecanismo de pagamento por desempenho fica inoperável.
+  dispositivo_legal: art. 5.º, inciso VII, e art. 6.º, § 1.º, da Lei n.º 11.079/2004; art. 18, inciso VIII, da Lei n.º 8.987/1995 c/c art. 11 da Lei n.º 11.079/2004
+  flag_tecnico: false
+  flag_reserva: true
+  reserva_tipo: RESERVA
+  nota_reserva: Sem regra de conversão, a aplicação de qualquer desconto é contestável, o que favorece a concessionária; a impugnação levaria à definição da regra.
+  obs_consolidacao: 'Relacionados: E1-115 e E3-007 (G3, competência para apurar o IQD); E2-065 (G4, terminologia IQS/IQD).'
+- id_tmp: G2-081
+  tema: REMUNERACAO_REAJUSTE
+  ids_origem:
+  - E2-050
+  tipo_achado: IRREGULAR
+  categoria: erro_material
+  descricao_breve: Fórmula do IQS soma os 17 indicadores em pontos percentuais, sem pesos e sem comparação com a meta
+  dispositivo_editalicio: Anexo D seção VI (PDF p. 21) × Tabela 5 (p. 14)
+  transcricao: 'Anexo D VI: ''IQS = [IC1 + IC2] + [IO1 + IO2 + IO3 + IO4 + IO5] + [IQ1 + IQ2 + IQ3 + IQ4] + [IE1 + IE2 + IE3 + IE4 + IE5 + IE6]'''
+  comentario: A fórmula soma os indicadores sem aplicar os pesos da Tabela 5 (que somam 100%) e sem comparar cada resultado com a meta do ano. O resultado é um número sem escala (até ~1.700) que não se converte em fator de remuneração. O próprio texto diz que cada indicador "deverá ser comparado com a respectiva meta", mas a regra de comparação e pontuação não existe.
+  dispositivo_legal: art. 5.º, inciso VII, e art. 6.º, § 1.º, da Lei n.º 11.079/2004; art. 23, inciso III, da Lei n.º 8.987/1995 c/c art. 3.º da Lei n.º 11.079/2004
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G2-082
+  tema: REMUNERACAO_REAJUSTE
+  ids_origem:
+  - E2-052
+  tipo_achado: IRREGULAR
+  categoria: erro_material
+  descricao_breve: 'IO4 (RSS): fórmula invertida (coletado ÷ incinerado) e dependente de incineração'
+  dispositivo_editalicio: Anexo D V.1.2, IO4 (PDF p. 17) e Tabela 5 (p. 14); Edital 3.1, viii (p. 13)
+  transcricao: 'Anexo D: ''IO4 = TO14 = RSSC / RSSI x 100 ... RSSI = Quantidade de Resíduos de Serviços de Saúde incinerados'''
+  comentario: 'A fórmula divide o RSS coletado pelo incinerado: se parte do RSS não for tratada, o índice passa de 100%; se o tratamento for por autoclave, como prevê o objeto (Edital 3.1, viii), o denominador é zero. A forma coerente seria tratado sobre coletado, por qualquer tecnologia licenciada.'
+  dispositivo_legal: art. 5.º, inciso VII, da Lei n.º 11.079/2004
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G2-083
+  tema: REMUNERACAO_REAJUSTE
+  ids_origem:
+  - E2-053
+  tipo_achado: IRREGULAR
+  categoria: erro_material
+  descricao_breve: 'IO5 (chorume): fórmula dá 1 com zero ocorrências e valores negativos com mais de uma (erro de parênteses)'
+  dispositivo_editalicio: Anexo D V.1.2, IO5 (PDF p. 17) e Tabela 5 (p. 14)
+  transcricao: 'Anexo D: ''IO5 = SA04 = 1 - [QODC / QRRM x 100]'''
+  comentario: Com zero ocorrências o IO5 vale 1, e não 100 como exige a meta da Tabela 5; com 1 ocorrência em 100 rotas vale 0 e com 2 vale −1. A forma coerente com a meta seria (1 − QODC/QRRM) × 100. Também não se define a unidade "rota em rodovia ou rio".
+  dispositivo_legal: art. 5.º, inciso VII, da Lei n.º 11.079/2004
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G2-084
+  tema: REMUNERACAO_REAJUSTE
+  ids_origem:
+  - E2-054
+  tipo_achado: IRREGULAR
+  categoria: erro_material
+  descricao_breve: Indicadores estruturais com numeração divergente; incinerador (IE4) e IE5 sem fórmula
+  dispositivo_editalicio: Anexo D Tabela 5 (PDF p. 14) × V.1.4 (p. 19–20); Tabela 2 (p. 9)
+  transcricao: 'Tabela 5: ''IE4 2,20% INCINERADOR – REC. E ATIVAÇÃO'' / ''IE5 2,60% VILA PRINCESA'' × V.1.4: ''IE4 – IMPLANTAÇÃO DO GAC'' / ''IE6 – DESATIVAÇÃO DO CENTRO DE TRIAGEM'''
+  comentario: Na Tabela 5, IE4 é o incinerador e IE5 a Vila Princesa; nas fórmulas (V.1.4), IE4 é o GAC da Vila Princesa, não há IE5 e o incinerador não tem fórmula. A Tabela 2 usa a legenda "AS – Socioambiental" para códigos "SA". Há indicador com peso e sem método de cálculo.
+  dispositivo_legal: art. 5.º, inciso VII, da Lei n.º 11.079/2004
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G2-085
+  tema: REMUNERACAO_REAJUSTE
+  ids_origem:
+  - E2-056
+  tipo_achado: IRREGULAR
+  categoria: erro_material
+  descricao_breve: 'Tabela de metas: Ano 13 = 2040 (seria 2039), Anos 9, 11 e 12 sem meta e células vazias sem regra de pesos'
+  dispositivo_editalicio: Anexo D Tabela 5, cabeçalho e linhas (PDF p. 14)
+  transcricao: 'Anexo D Tab. 5: ''ANO 8 | ANO 10 | ANO 13 | ANO 14 ao 30 ... 2034 | 2036 | 2040'''
+  comentario: Se o Ano 1 é 2027, o Ano 13 é 2039, não 2040. Os Anos 9, 11 e 12 não têm meta. No Ano 1, IC1, IC2, IO2, IO3, IO4, IQ1, IQ2 e todos os IE exceto o IE2 estão em branco, sem regra de redistribuição dos pesos. O cálculo anual do IQS fica indeterminado em vários exercícios.
+  dispositivo_legal: art. 5.º, inciso VII, da Lei n.º 11.079/2004; art. 11, § 2.º, inciso II, da Lei n.º 11.445/2007
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G2-086
+  tema: REMUNERACAO_REAJUSTE
+  ids_origem:
+  - E2-057
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: IO2/IO3 medidos contra "horas de operação do aterro" (Ecoparque nos Anos 1–4); triagem a 100% antes da UVR
+  dispositivo_editalicio: Anexo D V.1.2, IO2 e IO3 (PDF p. 16), Tabela 5 (p. 14) e Tabela 3 (p. 10); P6 Tabela 9 (p. 43)
+  transcricao: 'Anexo D: ''IO3 = TO11 = HFT / HFA x 100 ... HFA = Quantidade de horas de operação do aterro'''
+  comentario: O denominador comum é "horas de operação do aterro", sem dizer qual; nos Anos 1 a 4 o aterro é o Ecoparque, privado e fora da gestão da concessionária. O IO3 (funcionamento da triagem da CTR) tem meta de 100% desde o Ano 2, quando a CTR está 50% implantada (Anexo D, Tabela 3 e IE1). Balanças de transbordos e unidades distritais não entram no IO2.
+  dispositivo_legal: art. 5.º, inciso VII, da Lei n.º 11.079/2004
+  flag_tecnico: true
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G2-087
+  tema: REMUNERACAO_REAJUSTE
+  ids_origem:
+  - E2-058
+  tipo_achado: IRREGULAR
+  categoria: risco_economico
+  descricao_breve: Indicadores estruturais (20% do IQS) permanecem em 100% após as obras e medem etapas de projetos a aprovar
+  dispositivo_editalicio: Anexo D Tabela 5, dimensão Estrutural (PDF p. 14) e V.1.4 (p. 19–20); Tabela 2, SA-01 (p. 9); Anexo III Tabela 10 (p. 18)
+  transcricao: 'Anexo D: ''IE1 = EI / EPI x 100 ... EI = Etapas Implantadas; EPI = Etapas Previstas de Implantação no Período'''
+  comentario: Concluídas as obras (CTR no Ano 8; demais nos Anos 1 a 4), os seis indicadores estruturais ficam em 100% até o Ano 30 sem medir desempenho. Em vários casos o denominador são etapas previstas em projeto ainda a aprovar, elaborado pela própria concessionária. O monitoramento de 10 anos da Vila Princesa não é medido.
+  dispositivo_legal: art. 5.º, inciso VII, da Lei n.º 11.079/2004
+  flag_tecnico: false
+  flag_reserva: true
+  reserva_tipo: RESERVA
+  nota_reserva: '20% do IQS garantidos a partir da conclusão das obras: assimetria favorável à concessionária.'
+- id_tmp: G2-088
+  tema: REMUNERACAO_REAJUSTE
+  ids_origem:
+  - E2-060
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: Indicadores de cobertura (IC1, IC2) medem só a população urbana e excluem distritos e Baixo Madeira
+  dispositivo_editalicio: Anexo D V.1.1, IC1 e IC2 (PDF p. 15–16); Anexo III Tabela 15 (p. 26); Caderno IV.5 e IV.6
+  transcricao: 'Anexo D: ''IC1 = IRS002 = GTR0202 / DFE002 x 100 ... DFE002 = População urbana residente'''
+  comentario: IC1 e IC2 usam a população urbana residente como denominador. A cobertura dos distritos, inclusive do Baixo Madeira (acesso só fluvial), não é medida no IQS, embora o Caderno detalhe esses encargos e o Anexo III fixe metas de cobertura rural (70%/80%) e do Baixo Madeira (90%/100%).
+  dispositivo_legal: art. 2.º, inciso I, e art. 11, § 2.º, inciso II, da Lei n.º 11.445/2007; art. 5.º, inciso VII, da Lei n.º 11.079/2004
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G2-089
+  tema: REMUNERACAO_REAJUSTE
+  ids_origem:
+  - E2-061
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: 'Encargos centrais sem indicador no IQS: disposição final, compostagem (Meta 7), Meta 4, monitoramento, satisfação'
+  dispositivo_editalicio: Anexo D Tabelas 4 e 5 (PDF p. 11–14); Contrato cl. 41.14.1, d (p. 80); Caderno VIII.1.1 (p. 36)
+  transcricao: 'Anexo D: ''foi feito um grupamento com o objetivo de reduzir o número de indicadores que irão comporto o Fator IQS'''
+  comentario: O IQS não mede a operação do aterro e da disposição final, a compostagem e a Meta 7, a Meta 4, a conformidade do monitoramento ambiental, o atendimento no Baixo Madeira nem o rito GAC após o Ano 4. O Contrato (41.14.1, d) refere "pesquisa de satisfação dos usuários ... indicador que compõe o IQD", que não existe no Anexo D.
+  dispositivo_legal: art. 5.º, inciso VII, da Lei n.º 11.079/2004; art. 23, inciso I, da Lei n.º 11.445/2007
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+  obs_consolidacao: 'Relacionado (G1): E2-045 (fração orgânica sem indicador no IQS).'
+- id_tmp: G2-090
+  tema: REMUNERACAO_REAJUSTE
+  ids_origem:
+  - E2-062
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: Calendário de apuração do IQS inexequível e incompatível entre Anexo D, Anexo VII e Contrato
+  dispositivo_editalicio: Anexo D seção V (PDF p. 15) e VI.1.1–VI.1.2 (p. 21); Anexo VII item 12 (p. 6); Contrato cl. 15.4, 15.4.1 e 15.7.5 (p. 37–39)
+  transcricao: 'Anexo D p. 15: ''a data de entrega final será o último dia do mês de outubro de cada ano''; Anexo D VI.1: Ano de Desempenho de 1.º de novembro a 31 de outubro; Anexo VII item 12: ''até o 15º (décimo quinto) dia útil após o encerramento de cada calendário'''
+  comentario: O relatório anual deve ser entregue no mesmo dia em que termina o período avaliado (31/out). O Anexo D concentra em novembro e dezembro a auditoria do VI, a defesa e a homologação, para aplicar os descontos de janeiro a dezembro. O Anexo VII fixa o relatório do VI até o 15.º dia útil após o fim do ano civil, e o Contrato (15.7.5) prevê 10 + 10 dias de contestação e decisão. As datas não fecham.
+  dispositivo_legal: art. 5.º, inciso VII, e art. 6.º, § 1.º, da Lei n.º 11.079/2004
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G2-091
+  tema: REMUNERACAO_REAJUSTE
+  ids_origem:
+  - E3-055
+  - E2-064
+  - E7-057
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: 'Efeito do IQD no exercício seguinte: último ano sem efeito, 1.º ciclo sem desconto e início da apuração indefinido'
+  dispositivo_editalicio: Contrato cl. 15.4 e 15.4.1 (PDF p. 37) e 41.3 (p. 78); Anexo D VI.1.1, §§ 3.º e 4.º, e VI.1.2 (p. 21); P7 VII.6 (p. 51) × III.6.2 (p. 32) e II.5 (p. 18)
+  transcricao: 'Contrato 15.4.1: ''O resultado apurado em cada ciclo anual produzirá efeitos sobre a Contraprestação Mensal Efetiva devida no exercício seguinte''; Anexo D VI.1.1: ''Caso o período de operação no primeiro ano seja inferior a 3 (três) meses, o Poder Concedente poderá optar por aglutinar esta fração inicial ao ciclo anual subsequente'''
+  comentario: Como o efeito é sempre no exercício seguinte, o desempenho do último Ano de Desempenho não tem como repercutir na remuneração, e não há regra de compensação (garantia, indenização). No início, há até ~14 meses sem desconto, e a aglutinação do primeiro período fica a critério do Poder Concedente, sem parâmetro; sem VI contratado, o primeiro ciclo pode ficar sem efeito (41.3). O Contrato (15.4) inicia a apuração "a partir do início da execução contratual"; o P7 descreve o mesmo termo inicial ora assim (p. 51), ora como "Etapa de Operação Definitiva" (p. 18 e 32).
+  dispositivo_legal: art. 6.º, § 1.º, e art. 5.º, inciso VII, da Lei n.º 11.079/2004; art. 23, inciso XI, da Lei n.º 8.987/1995 c/c art. 3.º da Lei n.º 11.079/2004
+  flag_tecnico: false
+  flag_reserva: true
+  reserva_tipo: RESERVA
+  nota_reserva: A defasagem reduz a exposição a descontos no primeiro e no último ciclo.
+  obs_consolidacao: 'Relacionado (G3): E3-087 (sem VI contratado não há desconto por IQD).'
+- id_tmp: G2-092
+  tema: REMUNERACAO_REAJUSTE
+  ids_origem:
+  - E2-067
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: Metas do "Ano 5" no Anexo III divergem das do Ano 5 no Anexo D
+  dispositivo_editalicio: Anexo III Tabela 15 (PDF p. 26–27) × Anexo D Tabela 5 (p. 14); Contrato cl. 10.2.35 (p. 27)
+  transcricao: 'Anexo III Tab. 15: ''Taxa de recuperação de recicláveis (%) | 0,97% | 3,64% | 7,84% ... Cobertura de coleta seletiva na Sede (%) | 31,67% | 70% | 100%'''
+  comentario: O Anexo III fixa para o Ano 5 recuperação de 3,64% e coleta seletiva de 70% na Sede; o Anexo D fixa para o Ano 5 (2031) 3,28% e 64,9%, e 3,64% só no Ano 6. Os dois anexos estabelecem metas contratuais diferentes para o mesmo ano, e o Contrato (10.2.35) trata as metas como piso de exigibilidade.
+  dispositivo_legal: art. 5.º, inciso VII, da Lei n.º 11.079/2004; art. 11, § 2.º, inciso II, da Lei n.º 11.445/2007
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G2-093
+  tema: REMUNERACAO_REAJUSTE
+  ids_origem:
+  - E2-068
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: PCOS admite cobertura reduzida (95/90/80%); IO1 exige 100% das rotas sem exceção sazonal
+  dispositivo_editalicio: Anexo III Tabela 14, PCOS, coluna KPI (PDF p. 25–26) × Anexo D IO1 (p. 14 e 16); Matriz TO-04 (p. 6); Contrato cl. 8.9 (p. 20)
+  transcricao: 'Anexo III Tab. 14: ''Nível 2 ... ≥95% de cobertura; Nível 3 ... ≥90% de cobertura; Nível 4 ... ≥80% e notificação obrigatória em 24h'''
+  comentario: O PCOS é acionado automaticamente por cota e tolera cobertura de 95%, 90% e 80% nos Níveis 2 a 4. O IO1 (peso 38,5%) exige 100% das rotas programadas a partir do Ano 2 e não neutraliza rotas suspensas pelo PCOS. A Matriz (TO-04) só admite reequilíbrio com cota abaixo de 2,0 m por mais de 45 dias e decreto de calamidade.
+  dispositivo_legal: art. 5.º, incisos III e VII, da Lei n.º 11.079/2004
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+  obs_consolidacao: 'Relacionado (G3): E4-069 (estiagem extrema condicionada a decreto de calamidade).'
+- id_tmp: G2-094
+  tema: REMUNERACAO_REAJUSTE
+  ids_origem:
+  - E2-093
+  - E5-077
+  tipo_achado: DEPENDE_DE_FATO
+  categoria: omissao
+  descricao_breve: Indicadores do Anexo III fora do controle da concessionária (diarreia, renda de cooperados) com efeito indefinido
+  dispositivo_editalicio: Anexo III Tabela 15 (PDF p. 26–27); P4 Tabela 8 (p. 24); Anexo D Tabela 5
+  transcricao: 'Anexo III Tab. 15: ''Taxa de internação por diarreia (/1.000 hab.) | 37,5 | 25,0 | <15,0 | IBGE 2024 ... Renda média mensal dos cooperados | ~R$ 900 | R$ 1.800 | R$ 2.400'''
+  comentario: A Tabela 15 fixa metas de internação por diarreia, renda dos cooperados e número de cooperados integrados (14 → 40 → 120), que dependem de fatores alheios à concessão. Não diz se são metas exigíveis, com que consequência, nem como se relacionam com o IQS do Anexo D; a unidade "37,5 internações por 1.000 hab." merece conferência.
+  dispositivo_legal: art. 5.º, inciso VII, da Lei n.º 11.079/2004
+  depende_de: Se as metas da Tabela 15 do Anexo III produzem consequência contratual (IQD, penalidade); se sim, o ponto passa a IRREGULAR por ausência de critério objetivo de atribuição.
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+  obs_consolidacao: 'E5-077 absorvido do G3 (REGULACAO_FISCALIZACAO): mesmo achado do E2-093.'
+- id_tmp: G2-095
+  tema: REMUNERACAO_REAJUSTE
+  ids_origem:
+  - E3-056
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: Desconto por IQD cumulável com multa pelo mesmo fato; vedação de bis in idem só nas cláusulas sociais
+  dispositivo_editalicio: Contrato cl. 15.7.3 e 15.7.4 (PDF p. 39), 10.2.33.2 (p. 26) e 26.3; Anexo D (indicadores)
+  transcricao: 'Contrato 15.7.4: ''A avaliação do desempenho da Concessão e a correspondente variação da Contraprestação Mensal Efetiva não prejudicam a verificação pelo Poder Concedente de inadimplemento contratual da Concessionária e consequente aplicação das penalidades''; 10.2.33.2: ''observada a vedação ao bis in idem'''
+  comentario: A regra geral (15.7.3–15.7.4) admite desconto do IQD e multa sobre o mesmo descumprimento; só as cláusulas sociais (10.2.33.2) ressalvam o bis in idem. Indicadores e tipos de multa se sobrepõem (RSS, coleta, cobertura).
+  dispositivo_legal: art. 5.º, inciso II, da Lei n.º 11.079/2004; art. 156, § 1.º, da Lei n.º 14.133/2021
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+  obs_consolidacao: 'Relacionado (G3): E3-101 (teto de multas de 50% cumulável com 10% de IQD).'
+- id_tmp: G2-096
+  tema: REMUNERACAO_REAJUSTE
+  ids_origem:
+  - E3-057
+  - E2-103
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: 'Pagamento durante controvérsia sobre o IQD: "parcela incontroversa" (Contrato) × fluxo ordinário (Anexo VII) × Anexo VI'
+  dispositivo_editalicio: Contrato cl. 15.7.5 a 15.7.7 (PDF p. 39) × Anexo VII item 14 (p. 6) × Anexo VI itens 4.4, 6.3 e 7.1
+  transcricao: 'Contrato 15.7.7: ''o Agente de Pagamento e Garantia deverá realizar o pagamento da parcela incontroversa apenas''; Anexo VII item 14: ''sem suspensão automática do fluxo ordinário de pagamento, salvo motivação expressa'''
+  comentario: 'Durante a divergência sobre o relatório do VI, o Contrato manda o Agente pagar só a parcela incontroversa; o Anexo VII preserva o fluxo ordinário de pagamento. O Anexo VI não prevê pagamento parcial nem recebe informação sobre controvérsias: o Agente paga o valor mensal e, em caso de não pagamento, executa a garantia em 48 h. As três regras divergem quanto ao valor pago enquanto pende a controvérsia. Há ainda erro de grafia ("Verificados Independente", 15.7.5).'
+  dispositivo_legal: art. 5.º, incisos IV, VI e VII, da Lei n.º 11.079/2004
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+  obs_consolidacao: 'Relacionados (G3): E3-097 e E3-146 (retenções e instruções ao Agente incompatíveis com o Anexo VI).'
+- id_tmp: G2-097
+  tema: REMUNERACAO_REAJUSTE
+  ids_origem:
+  - E3-059
+  - E4-059
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: Fórmula e índice de reajuste inexistentes nos Anexos; Contrato e Matriz remetem um ao outro
+  dispositivo_editalicio: Contrato cl. 16.1 (PDF p. 40); Matriz EF-03 (p. 30), EF-06 e EF-07 (p. 31); P6 (sem fórmula); P7 III.6.4 (p. 33); Edital 12.3 (p. 31)
+  transcricao: 'Contrato 16.1: ''por meio da fórmula de indexação de custos prevista nos Anexos do Contrato''; Matriz EF-03: ''Fórmula de reajuste é definida no contrato'''
+  comentario: O Contrato remete o reajuste anual a uma fórmula de indexação "prevista nos Anexos", que não consta de nenhum anexo nem do P6 (busca textual por "reajust" e "indexa"); a Matriz (EF-03) diz que a fórmula é definida no contrato. O P7 fala ora em reajuste vinculado ao IPCA, ora em reajuste paramétrico, e a Matriz cita IPCA, INCC e a diferença entre o custo da sociedade e o "índice de indexação do contrato". O Contrato também não data o "Orçamento Estimado" (o Edital indica maio/2026). Sem índice e fórmula, o reajuste automático é inaplicável.
+  dispositivo_legal: art. 25, § 7.º, e art. 92, inciso V, da Lei n.º 14.133/2021; art. 5.º, inciso IV e § 1.º, da Lei n.º 11.079/2004; art. 3.º, § 1.º, da Lei n.º 10.192/2001
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G2-098
+  tema: REMUNERACAO_REAJUSTE
+  ids_origem:
+  - E3-061
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: Quatro índices diferentes para atualização de valores (IPCA, IPC/FIPE, "índice do Contrato", INPC)
+  dispositivo_editalicio: Contrato cl. 8.6.4, 13.7, 15.8.1 e 28.7.12 (PDF p. 18–19, 35, 39–40 e 65); Anexo VI item 5.6 (p. 6)
+  transcricao: 'Contrato 28.7.12: ''sendo este valor atualizado pelo IPC/FIPE''; Anexo VI 5.6: ''remuneração mensal de R$ [*], reajustada anualmente pelo INPC'''
+  comentario: O Contrato usa IPCA para diferenças de pagamento e mora, IPC/FIPE para valores retidos na indenização e "índice de reajuste do Contrato" (inexistente, ver ponto anterior) para o regresso ambiental; o Anexo VI usa INPC para a remuneração da instituição financeira.
+  dispositivo_legal: art. 92, inciso V, da Lei n.º 14.133/2021
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+  obs_consolidacao: 'Relacionado (G4): E3-062 (remissão quebrada para substituição do IPCA, 15.8.1).'
+- id_tmp: G2-099
+  tema: REMUNERACAO_REAJUSTE
+  ids_origem:
+  - E3-063
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: Revisão ordinária sem periodicidade definida, procedimento, prazos nem efeito sobre a contraprestação
+  dispositivo_editalicio: Contrato cl. 17.1 a 17.3 (PDF p. 41) e 29.4 (p. 66); P7 p. 35
+  transcricao: 'Contrato 17.1: ''Após o transcurso de 5 (cinco) anos, contados do início da Concessão, a Entidade Reguladora ... fará uma revisão''; 17.2: ''a Contraprestação Mensal Máxima somente poderá sofrer aumentos ou reduções em decorrência de recomposição do equilíbrio econômico-financeiro'''
+  comentario: 'Não se sabe se a revisão é única (após 5 anos) ou quinquenal, como diz o P7, nem o marco "início da Concessão". Não há rito, prazos, metodologia ou consequência sobre a contraprestação: o item 17.1 menciona distribuição de ganhos de produtividade, mas o 17.2 só admite variação por reequilíbrio. A cl. 29.4 refere-se à "última Revisão", pressupondo periodicidade não estabelecida.'
+  dispositivo_legal: art. 38 da Lei n.º 11.445/2007; art. 9.º, § 2.º, e art. 23, inciso IV, da Lei n.º 8.987/1995 c/c art. 3.º da Lei n.º 11.079/2004
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+  obs_consolidacao: 'Relacionado (G3): E3-064 (revisão ordinária autorizada a alterar a matriz de riscos).'
+- id_tmp: G2-100
+  tema: REMUNERACAO_REAJUSTE
+  ids_origem:
+  - E3-074
+  - E7-030
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: Cláusula de compartilhamento de ganhos da redução do risco de crédito (refinanciamento) ausente
+  dispositivo_editalicio: Contrato cl. 19.6 (PDF p. 46) e 18.5 (p. 43); P7 V.6 (p. 41)
+  transcricao: 'Contrato 19.6: ''A redução de custos da Concessionária decorrentes de incentivos oferecidos pelo Poder Concedente ... linhas de crédito especiais ... serão objeto de reequilíbrio''; P7 V.6: ''A previsão observa o art. 5º, inciso IX, da Lei Federal nº 11.079/2004'''
+  comentario: 'A cl. 19.6 trata de incentivos públicos, e a cl. 18.5 de receitas acessórias; não há cláusula sobre o compartilhamento dos ganhos econômicos efetivos decorrentes da redução do risco de crédito dos financiamentos (ex.: refinanciamento após a fase de obras), exigida em contrato de PPP. O P7 cita o art. 5.º, IX, como fundamento dos direitos de step-in, que é outra matéria.'
+  dispositivo_legal: art. 5.º, inciso IX, da Lei n.º 11.079/2004
+  flag_tecnico: false
+  flag_reserva: true
+  reserva_tipo: RESERVA
+  nota_reserva: A omissão permite à concessionária reter integralmente os ganhos de refinanciamento.
+- id_tmp: G2-101
+  tema: REMUNERACAO_REAJUSTE
+  ids_origem:
+  - E4-055
+  - E6-060
+  - E5-081
+  tipo_achado: IRREGULAR
+  categoria: omissao
+  descricao_breve: Receitas acessórias não quantificadas nem consideradas no teto (RSS privado, gate fee, biogás, carbono, CDR)
+  dispositivo_editalicio: P6 II.2 (PDF p. 13) e V.5 (p. 48–50); P3 VII e VII.1 (p. 49–51); P4 IX (p. 36); Edital 3.1.2 (p. 13–14) e 3.1, viii; Contrato cl. 18.1–18.8 (p. 41–43)
+  transcricao: 'P6 V.5: ''em proporção a ser definida no Caderno 6''; P3 p. 52: estudos adicionais ''antes de qualquer vinculação contratual'''
+  comentario: O P6 remete a partilha ao próprio Caderno 6, que não a define, e o Contrato fixa 5% da receita bruta (18.5.1). P3, P4 e P6 listam RSS de geradores privados, gate fee de grandes geradores, biogás (4.851 kWh/dia), créditos de carbono e venda de CDR, sem volumes comercializáveis, preços, compradores ou mercados, e o P3 recomenda estudos adicionais antes de vinculação contratual, embora o Edital torne o CDR obrigatório. Fica sem quantificação o potencial de modicidade e sem base o percentual de 5%.
+  dispositivo_legal: art. 11 da Lei n.º 8.987/1995 e art. 18, inciso VI, da Lei n.º 8.987/1995 c/c art. 11 da Lei n.º 11.079/2004; art. 10-A, inciso II, da Lei n.º 11.445/2007 (incluído pela Lei n.º 14.026/2020 — redação vigente não confirmada no Jus IA, verificar); art. 10, inciso I, alínea "a", da Lei n.º 11.079/2004
+  flag_tecnico: true
+  flag_reserva: true
+  reserva_tipo: RESERVA
+  nota_reserva: Receita acessória não precificada no teto, com exclusividade de fato em RSS e partilha de 5%, é vantagem para quem a dimensionar melhor.
+- id_tmp: G2-102
+  tema: REMUNERACAO_REAJUSTE
+  ids_origem:
+  - E1-038
+  - E3-075
+  tipo_achado: IRREGULAR
+  categoria: ilegalidade
+  descricao_breve: 'RSS e resíduos de geradores privados: receita cativa ("monopólio", tarifa especial) e, na falta, reequilíbrio pelo PC'
+  dispositivo_editalicio: Edital 3.1.2, parte final (PDF p. 13–14); Contrato cl. 18.2.2 e 18.2.2.1 (p. 42) e 18.2, i
+  transcricao: 'Edital 3.1.2: ''considerando que a Concessionária operará o monopólio dos serviços públicos de tratamento térmico de RSS na região ... a Concessionária não poderá recusar o recebimento e o tratamento desses RSS''; Contrato 18.2.2: ''assegurada a percepção de tarifa especial ou, na impossibilidade desta, de recomposição do equilíbrio econômico-financeiro'''
+  comentario: O Edital exclui do objeto o RSS de geradores privados, mas obriga a concessionária a recebê-lo, mediante preço específico como receita acessória, invocando "monopólio" regional. O Contrato estende o regime a grandes geradores e a resíduos fora do escopo determinados pela ARDPV e assegura "tarifa especial" ou, se inviável, reequilíbrio a cargo do Poder Concedente. Geradores de RSS e grandes geradores respondem pelo gerenciamento de seus resíduos, e serviços prestados pelo titular devem ser remunerados por eles. Não está claro se essa receita foi considerada no P6 e no teto.
+  dispositivo_legal: art. 20, incisos I e II, art. 13, inciso I, alínea "g", e art. 27, § 2.º, da Lei n.º 12.305/2010; art. 2.º, § 2.º, da Lei n.º 11.079/2004; art. 11 da Lei n.º 8.987/1995
+  flag_tecnico: false
+  flag_reserva: true
+  reserva_tipo: RESERVA
+  nota_reserva: Fonte de receita cativa sem concorrência local declarada e garantia de remuneração (tarifa especial ou reequilíbrio) favoráveis à concessionária.
+  obs_consolidacao: 'Relacionados (G1): E1-037 e E2-012 (universo de RSS do objeto).'
+- id_tmp: G2-103
+  tema: REMUNERACAO_REAJUSTE
+  ids_origem:
+  - E7-040
+  - E6-062
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: Preço público de grandes geradores (LC 908/2022, art. 27) convertido em receita da concessionária, com 5% de partilha
+  dispositivo_editalicio: P7 II.6 (PDF p. 19) × II.10 (p. 21); P3 VII (p. 50); P6 p. 50; Contrato cl. 18.2, f, g, i, 18.5.1 (p. 42–43) e 10.13.5.4 (p. 32)
+  transcricao: 'P7 p. 19: ''O preço público pago por grandes geradores opera, no nosso modelo, como Receita Acessória autorizada pela Cláusula 18 do Contrato'''
+  comentario: A LC 908/2022 (art. 27) autoriza o Município a cobrar preço público de grandes geradores. O P7 transforma essa cobrança em receita acessória da concessionária, em regime negocial direto, com 5% compartilhados, usando a capacidade da CTR/aterro remunerada pela Parcela A (o P6 qualifica a CTR como "ativo subutilizado" nos anos iniciais). Os estudos não estimam volumes ou preços nem o efeito no consumo de vida útil do aterro (10.13.5.4), e não explicam como se evita dupla remuneração da mesma capacidade.
+  dispositivo_legal: art. 27 da Lei Complementar Municipal n.º 908/2022; art. 20 e art. 27 da Lei n.º 12.305/2010; art. 11 da Lei n.º 8.987/1995; art. 4.º, inciso VII, da Lei n.º 11.079/2004
+  flag_tecnico: false
+  flag_reserva: true
+  reserva_tipo: RESERVA
+  nota_reserva: Receita acessória não evidente para operador com estrutura comercial na região; compartilhamento reduzido.
+- id_tmp: G2-104
+  tema: REMUNERACAO_REAJUSTE
+  ids_origem:
+  - E3-078
+  - E4-058
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: Recicláveis listados como receita acessória da SPE, mas revertidos integralmente às cooperativas
+  dispositivo_editalicio: Contrato cl. 18.2, e, × 18.5.2 (PDF p. 42–43); P6 III.7 (p. 21) e V.5 (p. 48); Anexo III CS-01
+  transcricao: 'Contrato 18.5.2: ''ressalvado que a receita de comercialização de recicláveis triados na UVR é integralmente revertida às cooperativas de catadores''; P6 p. 48: ''A comercialização de materiais recicláveis é a fonte de receita acessória de maior previsibilidade'''
+  comentario: O rol de receitas acessórias inclui a comercialização de recicláveis, e o P6 a apresenta como a principal, admitindo na mesma seção que ela não transita integralmente pelo caixa da SPE. O Contrato reverte integralmente às cooperativas a receita dos recicláveis triados na UVR (operada pela concessionária, com triagem mecanizada) e a exclui da partilha. Fica indefinida a titularidade dos materiais e quem custeia a operação da UVR.
+  dispositivo_legal: art. 11 da Lei n.º 8.987/1995; art. 18, § 1.º, inciso II, e art. 36, § 1.º, da Lei n.º 12.305/2010
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G2-105
+  tema: REMUNERACAO_REAJUSTE
+  ids_origem:
+  - E3-079
+  - E4-055
+  tipo_achado: IRREGULAR
+  categoria: contradicao
+  descricao_breve: Base do compartilhamento inconsistente (ganho econômico × receita bruta × receita líquida no biogás); 5% sem justificativa
+  dispositivo_editalicio: Contrato cl. 18.5, 18.5.1 (PDF p. 43) e 18.10.10 (p. 45); P6 V.5 (p. 48–49)
+  transcricao: 'Contrato 18.5.1: ''5% (cinco por cento) da receita bruta obtida pela Concessionária''; 18.10.10: ''incidindo o compartilhamento sobre a receita líquida, assim entendida a receita bruta deduzida dos custos operacionais diretamente atribuíveis à usina e da parcela de amortização do investimento'''
+  comentario: A regra geral (18.5) fala em compartilhar "ganhos econômicos"; o percentual (18.5.1) incide sobre receita bruta; para o biogás (18.10.10), sobre receita líquida, deduzidos custos e amortização apurados pela própria concessionária. O P6 deixa a proporção "a definir" e não justifica os 5%.
+  dispositivo_legal: art. 11 da Lei n.º 8.987/1995; art. 10-A, inciso II, da Lei n.º 11.445/2007 (redação a verificar); art. 5.º, inciso IX, da Lei n.º 11.079/2004 (como referência de partilha de ganhos)
+  flag_tecnico: false
+  flag_reserva: true
+  reserva_tipo: RESERVA
+  nota_reserva: A base líquida do biogás e o percentual de 5% favorecem a concessionária.
+  obs_consolidacao: A não reversibilidade da usina de biogás (E7-054) foi remetida ao G3 (duplica E3-081).
+- id_tmp: G2-106
+  tema: REMUNERACAO_REAJUSTE
+  ids_origem:
+  - E7-053
+  tipo_achado: IRREGULAR
+  categoria: ilegalidade
+  descricao_breve: Receitas acessórias em rol aberto, com autorização tácita por silêncio do Poder Concedente
+  dispositivo_editalicio: Contrato cl. 18.2 e 18.3 a 18.3.3 (PDF p. 42–43) e 18.7; P7 III.7 (p. 34)
+  transcricao: 'Contrato 18.3.2: ''A objeção poderá ser oferecida pelo Poder Concedente no prazo máximo de 20 (vinte) dias úteis ... sendo o silêncio interpretado corno autorizativo ao início da atividade pela Concessionária'''
+  comentario: O rol da cl. 18.2 já é amplo (inclui energia térmica por incineração, resíduos Classe I e efluentes industriais), e a cl. 18.3 admite qualquer outra atividade mediante comunicação, com objeção limitada a impacto comprovado no serviço e silêncio de 20 dias úteis valendo como autorização. As fontes de receitas alternativas devem constar do edital e do contrato. Não localizei base legal para anuência tácita do Poder Concedente nessa hipótese.
+  dispositivo_legal: art. 11 da Lei n.º 8.987/1995 e art. 18, inciso VI, da Lei n.º 8.987/1995 c/c art. 11 da Lei n.º 11.079/2004; art. 10-A, inciso II, da Lei n.º 11.445/2007 (redação a verificar); não localizei fundamento normativo específico que autorize a anuência tácita
+  flag_tecnico: false
+  flag_reserva: true
+  reserva_tipo: RESERVA
+  nota_reserva: Oportunidades de receita acessória não evidentes com baixo compartilhamento (5%).
+  obs_consolidacao: 'Relacionado (G1): E3-080 (receitas com incineração, Classe I e efluentes em infraestrutura pública).'
+- id_tmp: G2-107
+  tema: REMUNERACAO_REAJUSTE
+  ids_origem:
+  - E3-060
+  - E7-069
+  - E1-118
+  tipo_achado: CONFORME
+  categoria: omissao
+  descricao_breve: Reajuste automático anual, sem homologação, com data-base no orçamento estimado (maio/2026)
+  dispositivo_editalicio: Contrato cl. 16.1 (PDF p. 40); P7 III.6.4 (p. 33); Edital 12.3 (p. 31) e 5.1 (p. 15)
+  transcricao: 'Contrato 16.1: ''reajustados de forma automática, a cada interregno mínimo de 12 (doze) meses contados da data de apresentação do Orçamento Estimado ... dispensada a necessidade de prévia homologação administrativa'''
+  comentario: Automaticidade, anualidade e vínculo à data do orçamento estimado (maio/2026, igual à data-base da proposta) estão previstos. A cláusula não reproduz a faculdade legal de rejeição motivada pela Administração, que se aplica por força de lei. O índice e a fórmula, porém, inexistem (ver ponto de reajuste).
+  dispositivo_legal: art. 5.º, inciso IV e § 1.º, da Lei n.º 11.079/2004; art. 25, § 7.º, e art. 92, § 3.º, da Lei n.º 14.133/2021
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+- id_tmp: G2-108
+  tema: REMUNERACAO_REAJUSTE
+  ids_origem:
+  - E2-066
+  tipo_achado: CONFORME
+  categoria: erro_material
+  descricao_breve: Pesos por dimensão e por indicador do IQS somam 100%
+  dispositivo_editalicio: Anexo D Tabela 5 (PDF p. 13–14)
+  transcricao: 'Anexo D Tab. 5: ''Cobertura – 15% / Operacional – 55% / Qualidade – 10% / Estrutural – 20%'''
+  comentario: IC 10,5 + 4,5 = 15; IO 38,5 + 2,7 + 2,7 + 8,3 + 2,8 = 55; IQ 6 + 2 + 0,5 + 1,5 = 10; IE 10,6 + 1,2 + 2,4 + 2,2 + 2,6 + 1,0 = 20; total 100%. A inconsistência está na fórmula, que não usa os pesos.
+  dispositivo_legal: art. 5.º, inciso VII, da Lei n.º 11.079/2004
+  flag_tecnico: false
+  flag_reserva: false
+  reserva_tipo: null
+  nota_reserva: ''
+remetidos_a_outro_grupo:
+- id: E1-004
+  tema: QUESTOES_FORMAIS
+  motivo: Dotação orçamentária em branco; duplica E3-002, E7-007 e E7-008 (G4).
+- id: E1-005
+  tema: QUESTOES_FORMAIS
+  motivo: Previsão no PPA não comprovada; duplica E7-007 (G4).
+- id: E1-044
+  tema: QUESTOES_FORMAIS
+  motivo: 'Prorrogação do prazo (critério do PC × mútuo acordo): matéria de prazo; G4 tem E3-016 (prazo e prorrogação).'
+- id: E1-096
+  tema: QUESTOES_FORMAIS
+  motivo: 'Ressarcimento do PMI (IPCA, forma de pagamento): duplica E3-092, E4-033 e E7-076 (G4). A omissão do custo na modelagem ficou no G2.'
+- id: E4-065
+  tema: QUESTOES_FORMAIS
+  motivo: Determinações do TCE-RO não identificadas; duplica E1-015 (G4), aqui restrito à parte econômica.
+- id: E3-012
+  tema: RISCOS_GARANTIAS
+  motivo: Prazo corre da assinatura e eficácia depende da OI sem prazo; duplica E3-013 e E7-051 (G3).
+- id: E3-024
+  tema: RISCOS_GARANTIAS
+  motivo: 'Afastamento da alteração unilateral e reequilíbrio por aditivo; procedimento de reequilíbrio (orientação de coordenação: G3).'
+- id: E3-066
+  tema: RISCOS_GARANTIAS
+  motivo: 'Metodologia de reequilíbrio (taxa de desconto, fluxo marginal): procedimento de reequilíbrio — G3 (relacionado a E3-065).'
+- id: E3-067
+  tema: RISCOS_GARANTIAS
+  motivo: 'Prazos do pleito de reequilíbrio: procedimento de reequilíbrio — G3.'
+- id: E3-068
+  tema: RISCOS_GARANTIAS
+  motivo: 'Reequilíbrio por alteração unilateral sem concomitância: procedimento de reequilíbrio — G3.'
+- id: E3-069
+  tema: RISCOS_GARANTIAS
+  motivo: 'Hipótese de reequilíbrio por fato tributário (poderá; IR; álea): alocação de risco tributário — G3. Modelagem tributária (E4-036) mantida no G2.'
+- id: E4-037
+  tema: RISCOS_GARANTIAS
+  motivo: 'Matriz EF-05 × Contrato 20.10 (assimetria do risco tributário; flag_reserva true): alocação de risco — G3.'
+- id: E7-056
+  tema: RISCOS_GARANTIAS
+  motivo: 'Regime contratual de transição da reforma tributária × LC 214/2025: reequilíbrio/risco tributário — G3.'
+- id: E7-054
+  tema: RISCOS_GARANTIAS
+  motivo: Usina de biogás não reversível (flag_reserva true); duplica E3-081 (G3). A base de compartilhamento do biogás ficou no G2.
+- id: E7-074
+  tema: RISCOS_GARANTIAS
+  motivo: Caderno/Produto 5 (indenização ao operador anterior) ausente; duplica E6-009 e relaciona-se a E7-073 (G3).
+absorvidos_de_outro_grupo:
+- E4-005
+- E4-011
+- E4-044
+- E7-061
+- E4-022
+- E4-023
+- E6-036
+- E6-004
+- E6-045
+- E4-032
+- E7-026
+- E5-077
+descartados: []

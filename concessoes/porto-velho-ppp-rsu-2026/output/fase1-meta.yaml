@@ -89,9 +89,19 @@ remover_id_tmp:
   - G1-044   # = G2-057 (populações divergentes)
   - G1-041   # = G2-065/G2-066 (distâncias logísticas)
   - G1-036   # = DD-01 (cl. 10.13 favorece quem detém aterro licenciado; fato confirmado na diligência)
+  - G4-097   # = DD-01 (E5-051 atribuía o aterro à EcoRondônia/Marquise; a LAO é da CTR Porto Velho S/A, controlada pela Orizon)
+  - G1-038   # = G4-098 (lote único)
+  - G4-002   # = G2-007 (estimativa de impacto por exercício)
+  - G2-041   # = G4-070 (capital social e integralização da SPE)
+  - G4-052   # = G3-111 (arbitragem facultativa)
+  - G4-053   # = G3-112 (Mesa de Resolução)
+  - G4-054   # = G3-113/G3-114 (dispute board, CIC, perícia)
 ajustes:
   DD-01:
-    ids_origem: [E3-043, DD-ext]
+    ids_origem: [E3-043, E5-051, DD-ext]
+  G4-098:
+    reserva_tipo: DECISAO_COMERCIAL
+    nota_reserva: "O lote único favorece grupos com capacidade de executar coleta, logística fluvial, remediação, CTR/aterro e RSS ao mesmo tempo. Levantar ou não depende da escala e da estratégia do grupo."
 pontos_extras:
   - id_tmp: DD-01
     tema: RISCOS_GARANTIAS
@@ -101,7 +111,7 @@ pontos_extras:
     descricao_breve: "Aterro próprio e Ecoparque: único aterro licenciado da Sede é controlado por potencial licitante"
     dispositivo_editalicio: "Contrato cl. 10.9 (PDF p. 30), 10.13 a 10.13.5 (p. 31–32); considerando v (p. 5–6); Matriz TO-20 (p. 17); P1 p. 85"
     transcricao: "Contrato 10.13: 'Constitui obrigação da Concessionária, às suas expensas e por sua conta e risco, prover e disponibilizar, na Sede Administrativa, aterro sanitário devidamente licenciado [...]'; 10.13.1.1: risco 'integralmente alocado à Concessionária [...] não ensejando pleito de recomposição [...] em razão de [...] indisponibilidade de área, recusa de terceiros, indeferimento ou demora no licenciamento'."
-    comentario: "O Contrato exige aterro próprio na Sede, em propriedade plena, com 30 anos de vida útil remanescente na reversão e risco integral de área e licenciamento. Na transição, a destinação depende do Ecoparque, e a cl. 10.9 ainda põe na concessionária a LAO desse aterro por todo o prazo. Pelos estudos, o Ecoparque é o único aterro licenciado da Sede (Anexo III V.1), com LAO em nome da CTR Porto Velho S/A até 09/10/2028. Pelas demonstrações da própria Orizon, a CTR Porto Velho S.A. é controlada pela Orizon (51%) desde jan/2023. Quem não detém o ativo precisa licenciar um aterro novo a tempo ou negociar com o detentor, enquanto o detentor dispensa as duas coisas."
+    comentario: "O Contrato exige aterro próprio na Sede, em propriedade plena, com 30 anos de vida útil remanescente na reversão e risco integral de área e licenciamento. Na transição, a destinação depende do Ecoparque, e a cl. 10.9 ainda põe na concessionária a LAO desse aterro por todo o prazo. Pelos estudos, o Ecoparque é o único aterro licenciado da Sede (Anexo III V.1), com LAO em nome da CTR Porto Velho S/A até 09/10/2028. Pelas demonstrações da própria Orizon, a CTR Porto Velho S.A. é controlada pela Orizon (51%) desde jan/2023. Além disso, a LAI do mesmo empreendimento (triagem, compostagem, autoclave e ETE) está em nome da EcoRondônia Ambiental S/A, a concessionária do contrato anulado (P1 p. 85). Quem não detém o ativo precisa licenciar um aterro novo a tempo ou negociar com o detentor, enquanto o detentor dispensa as duas coisas."
     dispositivo_legal: "art. 9.º, inciso I, alínea 'a', da Lei n.º 14.133/2021; art. 37, inciso XXI, da CF/1988; art. 5.º, inciso III, da Lei n.º 11.079/2004"
     flag_tecnico: false
     flag_reserva: true

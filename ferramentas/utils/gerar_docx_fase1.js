@@ -186,7 +186,7 @@ data.big_numbers.forEach((g) => {
 });
 
 // Pontos impugnáveis (IRREGULAR, não reserva)
-const W5 = [1500, 2900, 6370, 2700, 1100];
+const W5 = [1400, 2700, 6170, 2700, 1600];
 function blocoPontos(filtro, titulo, intro) {
   const ch = [heading(titulo, HeadingLevel.HEADING_1), para(intro)];
   temasOrdem.forEach((t) => {
